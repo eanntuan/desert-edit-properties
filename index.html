@@ -129,6 +129,43 @@
             transform: rotate(-45deg) translate(7px, -7px);
         }
 
+        /* Mobile Menu Close Button */
+        .mobile-menu-close {
+            display: none;
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            width: 40px;
+            height: 40px;
+            cursor: pointer;
+            z-index: 1001;
+        }
+
+        .mobile-menu-close::before,
+        .mobile-menu-close::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 30px;
+            height: 3px;
+            background-color: var(--charcoal);
+            transition: all 0.3s ease;
+        }
+
+        .mobile-menu-close::before {
+            transform: translate(-50%, -50%) rotate(45deg);
+        }
+
+        .mobile-menu-close::after {
+            transform: translate(-50%, -50%) rotate(-45deg);
+        }
+
+        .mobile-menu-close:hover::before,
+        .mobile-menu-close:hover::after {
+            background-color: var(--terracotta);
+        }
+
         /* Hero Section */
         .hero {
             margin-top: 80px;
@@ -792,6 +829,14 @@
                 right: 0;
             }
 
+            nav ul.active ~ .mobile-menu-close {
+                display: block;
+            }
+
+            .mobile-menu-close {
+                position: fixed;
+            }
+
             nav ul li {
                 border-bottom: 1px solid var(--cream);
                 padding: 1.5rem 0;
@@ -846,6 +891,7 @@
                 <li><a href="#philosophy">Philosophy</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
+            <div class="mobile-menu-close" id="mobileMenuClose"></div>
         </div>
     </nav>
 
@@ -1074,28 +1120,35 @@
     <script>
         // Mobile menu toggle
         const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+        const mobileMenuClose = document.getElementById('mobileMenuClose');
         const navMenu = document.getElementById('navMenu');
         const navLinks = navMenu.querySelectorAll('a');
+
+        function closeMenu() {
+            mobileMenuToggle.classList.remove('active');
+            navMenu.classList.remove('active');
+        }
 
         mobileMenuToggle.addEventListener('click', function() {
             this.classList.toggle('active');
             navMenu.classList.toggle('active');
         });
 
+        // Close button click
+        mobileMenuClose.addEventListener('click', closeMenu);
+
         // Close menu when clicking a link
         navLinks.forEach(link => {
-            link.addEventListener('click', function() {
-                mobileMenuToggle.classList.remove('active');
-                navMenu.classList.remove('active');
-            });
+            link.addEventListener('click', closeMenu);
         });
 
         // Close menu when clicking outside
         document.addEventListener('click', function(event) {
-            const isClickInsideNav = navMenu.contains(event.target) || mobileMenuToggle.contains(event.target);
+            const isClickInsideNav = navMenu.contains(event.target) ||
+                                     mobileMenuToggle.contains(event.target) ||
+                                     mobileMenuClose.contains(event.target);
             if (!isClickInsideNav && navMenu.classList.contains('active')) {
-                mobileMenuToggle.classList.remove('active');
-                navMenu.classList.remove('active');
+                closeMenu();
             }
         });
     </script>
