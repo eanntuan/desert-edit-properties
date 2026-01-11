@@ -660,9 +660,27 @@
         }
 
         .form-success {
-            color: var(--sage);
+            color: white;
             font-weight: 500;
-            margin-top: 1rem;
+            margin-top: 1.5rem;
+            padding: 1.25rem 2rem;
+            background: var(--sage);
+            border-radius: 8px;
+            display: inline-block;
+            box-shadow: 0 4px 12px rgba(115, 133, 97, 0.3);
+            animation: slideInUp 0.4s ease-out;
+            font-size: 1.1rem;
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         /* Video Section */
@@ -1357,7 +1375,12 @@
             <input type="email" name="email" placeholder="Enter your email" required>
             <button type="submit">SIGN UP</button>
         </form>
-        <p class="form-success" id="signupSuccess" style="display: none;">Thanks for signing up! Check your inbox.</p>
+        <div class="form-success" id="signupSuccess" style="display: none;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 0.5rem;">
+                <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+            Thanks for signing up! Check your inbox.
+        </div>
     </section>
 
     <!-- About Section -->
@@ -1505,8 +1528,22 @@
                 });
 
                 if (response.ok) {
-                    emailPopup.classList.remove('active');
-                    alert('Thanks! Check your email for the DIRECT10 discount code.');
+                    // Show success state
+                    const popupContent = emailPopup.querySelector('.email-popup');
+                    popupContent.innerHTML = `
+                        <div style="text-align: center; padding: 2rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="#738561" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 1rem;">
+                                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                                <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                            </svg>
+                            <h3 style="color: #738561; font-family: var(--font-serif); font-size: 2rem; margin-bottom: 1rem;">You're All Set!</h3>
+                            <p style="font-size: 1.1rem; color: var(--charcoal); margin-bottom: 1.5rem;">Check your email for the <strong>DIRECT10</strong> discount code.</p>
+                            <button onclick="document.getElementById('emailPopup').classList.remove('active')" style="padding: 0.75rem 2rem; background: var(--sage); color: white; border: none; border-radius: 4px; font-weight: 600; cursor: pointer; font-size: 1rem;">CLOSE</button>
+                        </div>
+                    `;
+                    setTimeout(() => {
+                        emailPopup.classList.remove('active');
+                    }, 5000);
                 } else {
                     alert('Something went wrong. Please try emailing us directly.');
                 }
