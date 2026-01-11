@@ -1624,15 +1624,35 @@
             <!-- Sage Green Header -->
             <div style="background-color: #738561; margin: -3rem -3rem 2rem -3rem; padding: 2.5rem 3rem; text-align: center;">
                 <h2 style="color: white; margin-bottom: 0.5rem;">Book Your Stay</h2>
-                <p class="booking-widget-subtitle" style="color: rgba(255,255,255,0.95); margin-bottom: 0;">Search availability and book directly</p>
+                <p class="booking-widget-subtitle" style="color: rgba(255,255,255,0.95); margin-bottom: 0;">Select your property to check availability</p>
             </div>
 
-            <!-- Hostaway Search Bar Widget -->
-            <div style="padding: 2rem; background-color: #f5f3ee; border-radius: 8px; margin-bottom: 1rem;">
-                <div id="hostaway-booking-widget"></div>
+            <!-- Property Selection Cards -->
+            <div class="booking-properties-grid">
+                <!-- The Cozy Cactus -->
+                <a href="https://luxuryvacations.holidayfuture.com/listing/123646" target="_blank" class="booking-property-card" style="text-decoration: none; cursor: pointer;">
+                    <div class="booking-property-image" style="background-image: url('email-images/cozy-cactus.jpg');"></div>
+                    <div class="booking-property-info">
+                        <h3>The Cozy Cactus</h3>
+                        <p class="location">Indio, CA</p>
+                        <p class="description">Family Adventure • 3 Bedrooms</p>
+                        <span class="booking-tag cozy-cactus-tag">Check Availability</span>
+                    </div>
+                </a>
+
+                <!-- Casa Moto -->
+                <a href="https://luxuryvacations.holidayfuture.com/listing/123633" target="_blank" class="booking-property-card" style="text-decoration: none; cursor: pointer;">
+                    <div class="booking-property-image" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1240.JPG');"></div>
+                    <div class="booking-property-info">
+                        <h3>Casa Moto</h3>
+                        <p class="location">Palm Desert, CA</p>
+                        <p class="description">Pet-Friendly • 3 Bedrooms</p>
+                        <span class="booking-tag casa-moto-tag">Check Availability</span>
+                    </div>
+                </a>
             </div>
 
-            <p class="booking-widget-note" style="margin-top: 2rem;">Use code <strong>DIRECT10</strong> for 10% off your direct booking</p>
+            <p class="booking-widget-note">Use code <strong>DIRECT10</strong> for 10% off your direct booking</p>
 
             <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--cream);">
                 <p style="text-align: center; color: #777; font-size: 0.95rem; margin-bottom: 1rem;">Also available:</p>
@@ -1912,20 +1932,6 @@
             if (!isClickInsideNav && navMenu.classList.contains('active')) {
                 closeMenu();
             }
-        });
-    </script>
-
-    <!-- Hostaway Search Bar Widget Script -->
-    <script src="https://d2q3n06xhbi0am.cloudfront.net/widget.js"></script>
-    <script>
-        // Initialize Hostaway search bar widget
-        window.searchBar({
-            baseUrl: 'https://luxuryvacations.holidayfuture.com/',
-            showLocation: false,
-            color: '#d2635b', // Your terracotta brand color
-            rounded: true,
-            openInNewTab: true,
-            font: 'Work Sans',
         });
     </script>
 
