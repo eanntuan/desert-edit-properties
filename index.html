@@ -493,6 +493,78 @@
             margin-top: 2rem;
         }
 
+        /* Email Signup Section */
+        .email-signup {
+            padding: 6rem 5%;
+            background: var(--cream);
+            text-align: center;
+        }
+
+        .email-signup h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--terracotta);
+        }
+
+        .email-signup p {
+            font-size: 1.1rem;
+            margin-bottom: 2.5rem;
+            color: var(--charcoal);
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .email-form {
+            max-width: 500px;
+            margin: 0 auto;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .email-form input[type="email"] {
+            flex: 1;
+            min-width: 250px;
+            padding: 1rem 1.5rem;
+            border: 2px solid var(--terracotta);
+            border-radius: 0;
+            font-family: var(--font-sans);
+            font-size: 1rem;
+            background: white;
+        }
+
+        .email-form input[type="email"]:focus {
+            outline: none;
+            border-color: var(--sage);
+        }
+
+        .email-form button {
+            padding: 1rem 3rem;
+            background-color: var(--terracotta);
+            color: white;
+            border: none;
+            font-weight: 500;
+            letter-spacing: 1.5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.95rem;
+            font-family: var(--font-sans);
+        }
+
+        .email-form button:hover {
+            background-color: #b8544a;
+            transform: translateY(-2px);
+        }
+
+        .form-success {
+            color: var(--sage);
+            font-weight: 500;
+            margin-top: 1rem;
+        }
+
         /* Video Section */
         .video-section {
             padding: 6rem 5%;
@@ -604,6 +676,18 @@
 
             .hero .description {
                 font-size: 1rem;
+            }
+
+            .email-form {
+                flex-direction: column;
+            }
+
+            .email-form input[type="email"] {
+                min-width: 100%;
+            }
+
+            .email-form button {
+                width: 100%;
             }
 
             /* Adjust video overlay for better mobile readability */
@@ -814,6 +898,17 @@
 
             <p><strong>Make it a moment.</strong> That's our invitation to you.</p>
         </div>
+    </section>
+
+    <!-- Email Signup Section -->
+    <section class="email-signup">
+        <h2>Stay in the Loop</h2>
+        <p>Be the first to know about new properties, exclusive offers, and last-minute availability</p>
+        <form name="email-signup" method="POST" data-netlify="true" class="email-form">
+            <input type="hidden" name="form-name" value="email-signup">
+            <input type="email" name="email" placeholder="Enter your email" required>
+            <button type="submit">SIGN UP</button>
+        </form>
     </section>
 
     <!-- Video Section -->
