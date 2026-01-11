@@ -1945,19 +1945,19 @@
         const closeBookingWidgetBtn = document.getElementById('closeBookingWidget');
         const bookingPropertyCards = document.querySelectorAll('.booking-property-card');
 
-        // PMS Booking URLs - TODO: Replace with actual booking URLs from Hostaway and Hospitable
+        // PMS Booking URLs
         const bookingURLs = {
             'cozy-cactus': {
                 pms: 'hostaway',
-                url: 'YOUR_HOSTAWAY_BOOKING_URL_COZY_CACTUS' // Replace with actual Hostaway URL
+                url: 'https://luxuryvacations.holidayfuture.com/listing/123646'
             },
             'casa-moto': {
                 pms: 'hostaway',
-                url: 'YOUR_HOSTAWAY_BOOKING_URL_CASA_MOTO' // Replace with actual Hostaway URL
+                url: 'https://luxuryvacations.holidayfuture.com/listing/123633'
             },
             'ps-retreat': {
-                pms: 'hospitable',
-                url: 'YOUR_HOSPITABLE_BOOKING_URL_PS_RETREAT' // Replace with actual Hospitable URL
+                pms: 'email',
+                url: 'mailto:thecozycactusindio@gmail.com?subject=Booking Inquiry: PS Retreat&body=Hi! I would like to book PS Retreat. Please send me availability and rates.'
             },
             'the-well': {
                 pms: 'email',
@@ -1993,9 +1993,6 @@
                     if (bookingInfo.pms === 'email') {
                         // Open email client
                         window.location.href = bookingInfo.url;
-                    } else if (bookingInfo.url.startsWith('YOUR_')) {
-                        // Temporary: Show alert that URL needs to be configured
-                        alert(`Booking URL for ${propertySlug} needs to be configured. Please contact us at thecozycactusindio@gmail.com to complete your booking.`);
                     } else {
                         // Open booking URL in new tab
                         window.open(bookingInfo.url, '_blank');
