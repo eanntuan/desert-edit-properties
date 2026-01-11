@@ -101,6 +101,34 @@
             color: var(--terracotta);
         }
 
+        /* Mobile Menu Toggle */
+        .mobile-menu-toggle {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            padding: 5px;
+        }
+
+        .mobile-menu-toggle span {
+            width: 25px;
+            height: 3px;
+            background-color: var(--charcoal);
+            transition: all 0.3s ease;
+        }
+
+        .mobile-menu-toggle.active span:nth-child(1) {
+            transform: rotate(45deg) translate(8px, 8px);
+        }
+
+        .mobile-menu-toggle.active span:nth-child(2) {
+            opacity: 0;
+        }
+
+        .mobile-menu-toggle.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(7px, -7px);
+        }
+
         /* Hero Section */
         .hero {
             margin-top: 80px;
@@ -732,16 +760,63 @@
                 background: rgba(115, 133, 97, 0.7);
             }
 
+            /* Mobile Navigation */
+            nav {
+                padding: 1rem 5%;
+            }
+
+            nav .logo {
+                font-size: 1.1rem;
+            }
+
+            .mobile-menu-toggle {
+                display: flex;
+            }
+
             nav ul {
-                gap: 1.5rem;
+                position: fixed;
+                top: 0;
+                right: -100%;
+                height: 100vh;
+                width: 80%;
+                max-width: 300px;
+                background: white;
+                flex-direction: column;
+                gap: 0;
+                padding: 5rem 2rem;
+                box-shadow: -5px 0 15px rgba(0,0,0,0.1);
+                transition: right 0.3s ease;
+            }
+
+            nav ul.active {
+                right: 0;
+            }
+
+            nav ul li {
+                border-bottom: 1px solid var(--cream);
+                padding: 1.5rem 0;
+            }
+
+            nav ul li:last-child {
+                border-bottom: none;
             }
 
             nav a {
-                font-size: 0.85rem;
+                font-size: 1.1rem;
+                display: block;
             }
 
             .section-title {
                 font-size: 2rem;
+            }
+
+            .direct-booking h2 {
+                font-size: 2.5rem;
+            }
+
+            .direct-booking .savings-badge {
+                font-size: 0.85rem;
+                padding: 0.4rem 1rem;
             }
 
             .property-grid {
@@ -760,7 +835,12 @@
     <nav>
         <div class="container">
             <div class="logo">THE DESERT EDIT</div>
-            <ul>
+            <div class="mobile-menu-toggle" id="mobileMenuToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul id="navMenu">
                 <li><a href="#properties">Properties</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#philosophy">Philosophy</a></li>
@@ -894,6 +974,21 @@
         </div>
     </section>
 
+    <!-- Direct Booking Section -->
+    <section class="direct-booking">
+        <div class="savings-badge">SAVE 15% + NO BOOKING FEES</div>
+        <h2>Book Direct & Save</h2>
+        <p>Why pay Airbnb's fees? Email us directly for the best rates and personalized service</p>
+        <a href="mailto:thecozycactusindio@gmail.com" class="email-link">EMAIL TO BOOK NOW</a>
+        <div class="social-links">
+            <a href="https://www.instagram.com/thecozycactus_/" target="_blank" rel="noopener noreferrer" class="social-icon" aria-label="Follow us on Instagram">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                </svg>
+            </a>
+        </div>
+    </section>
+
     <!-- Email Signup Section -->
     <section class="email-signup">
         <h2>Stay in the Loop</h2>
@@ -963,21 +1058,6 @@
         </div>
     </section>
 
-    <!-- Direct Booking Section -->
-    <section class="direct-booking">
-        <div class="savings-badge">SAVE 15% + NO BOOKING FEES</div>
-        <h2>Book Direct & Save</h2>
-        <p>Why pay Airbnb's fees? Email us directly for the best rates and personalized service</p>
-        <a href="mailto:thecozycactusindio@gmail.com" class="email-link">EMAIL TO BOOK NOW</a>
-        <div class="social-links">
-            <a href="https://www.instagram.com/thecozycactus_/" target="_blank" rel="noopener noreferrer" class="social-icon" aria-label="Follow us on Instagram">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
-                </svg>
-            </a>
-        </div>
-    </section>
-
     <!-- Footer -->
     <footer id="contact">
         <div class="footer-content">
@@ -990,5 +1070,34 @@
             </p>
         </div>
     </footer>
+
+    <script>
+        // Mobile menu toggle
+        const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+        const navMenu = document.getElementById('navMenu');
+        const navLinks = navMenu.querySelectorAll('a');
+
+        mobileMenuToggle.addEventListener('click', function() {
+            this.classList.toggle('active');
+            navMenu.classList.toggle('active');
+        });
+
+        // Close menu when clicking a link
+        navLinks.forEach(link => {
+            link.addEventListener('click', function() {
+                mobileMenuToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+            });
+        });
+
+        // Close menu when clicking outside
+        document.addEventListener('click', function(event) {
+            const isClickInsideNav = navMenu.contains(event.target) || mobileMenuToggle.contains(event.target);
+            if (!isClickInsideNav && navMenu.classList.contains('active')) {
+                mobileMenuToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+            }
+        });
+    </script>
 </body>
 </html>
