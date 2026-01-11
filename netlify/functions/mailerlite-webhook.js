@@ -37,12 +37,7 @@ exports.handler = async (event) => {
         'Accept': 'application/json'
       },
       body: JSON.stringify({
-        email: email,
-        fields: {
-          discount_code: discountCode
-        },
-        groups: [], // Will be assigned in MailerLite dashboard
-        status: 'active'
+        email: email
       })
     });
 

@@ -47,6 +47,10 @@
             --font-sans: 'Work Sans', sans-serif;
         }
 
+        html {
+            scroll-behavior: smooth;
+        }
+
         body {
             font-family: var(--font-sans);
             color: var(--charcoal);
@@ -75,11 +79,28 @@
         }
 
         nav .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        nav .logo img {
+            height: 40px;
+            width: auto;
+        }
+
+        nav .logo-text {
             font-family: var(--font-serif);
             font-size: 1.5rem;
             font-weight: 600;
             color: var(--charcoal);
             letter-spacing: 1px;
+        }
+
+        nav .logo:hover .logo-text {
+            color: var(--terracotta);
         }
 
         nav ul {
@@ -811,7 +832,11 @@
                 padding: 1rem 5%;
             }
 
-            nav .logo {
+            nav .logo img {
+                height: 30px;
+            }
+
+            nav .logo-text {
                 font-size: 1.1rem;
             }
 
@@ -1160,7 +1185,10 @@
     <!-- Navigation -->
     <nav>
         <div class="container">
-            <div class="logo">THE DESERT EDIT</div>
+            <a href="#" class="logo">
+                <img src="cactusicon.jpg" alt="The Desert Edit">
+                <span class="logo-text">THE DESERT EDIT</span>
+            </a>
             <div class="mobile-menu-toggle" id="mobileMenuToggle">
                 <span></span>
                 <span></span>
