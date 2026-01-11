@@ -378,6 +378,7 @@
             text-decoration: none;
             color: inherit;
             display: block;
+            height: 100%;
         }
 
         .property-card {
@@ -386,6 +387,9 @@
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             border-radius: 2px;
             cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
         }
 
         .property-card:hover {
@@ -413,6 +417,9 @@
 
         .property-content {
             padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
         }
 
         .property-title {
@@ -466,6 +473,8 @@
             font-size: 0.9rem;
             border-bottom: 2px solid var(--charcoal);
             padding-bottom: 0.3rem;
+            margin-top: auto;
+            align-self: flex-start;
         }
 
         .property-card-link:hover .property-link {
@@ -1036,7 +1045,7 @@
     </section>
 
     <!-- Email Signup Section -->
-    <section class="email-signup">
+    <section id="contact" class="email-signup">
         <h2>Stay in the Loop</h2>
         <p>Be the first to know about new properties, exclusive offers, and last-minute availability</p>
         <form name="email-signup" method="POST" data-netlify="true" class="email-form">
@@ -1105,7 +1114,7 @@
     </section>
 
     <!-- Footer -->
-    <footer id="contact">
+    <footer>
         <div class="footer-content">
             <div class="logo">THE DESERT EDIT</div>
             <p class="tagline">Intentional stays. Elevated experiences. The desert, edited.</p>
