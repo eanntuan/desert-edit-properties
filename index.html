@@ -771,6 +771,201 @@
             box-shadow: 0 12px 30px rgba(0,0,0,0.3);
         }
 
+        .booking-widget-btn {
+            display: inline-block;
+            padding: 1.5rem 4rem;
+            background-color: white;
+            color: var(--terracotta);
+            text-decoration: none;
+            font-weight: 600;
+            letter-spacing: 2px;
+            transition: all 0.3s ease;
+            font-size: 1.1rem;
+            border: 3px solid white;
+            position: relative;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+            cursor: pointer;
+            font-family: var(--font-sans);
+        }
+
+        .booking-widget-btn:hover {
+            background-color: transparent;
+            color: white;
+            transform: translateY(-3px);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.3);
+        }
+
+        /* Booking Widget Modal */
+        .booking-widget-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(5px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10000;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+            padding: 2rem;
+        }
+
+        .booking-widget-overlay.active {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .booking-widget-modal {
+            background: white;
+            border-radius: 12px;
+            max-width: 1000px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            padding: 3rem;
+            position: relative;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        .booking-widget-close {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            background: transparent;
+            border: none;
+            font-size: 2.5rem;
+            cursor: pointer;
+            color: var(--charcoal);
+            opacity: 0.6;
+            transition: all 0.3s ease;
+            line-height: 1;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .booking-widget-close:hover {
+            opacity: 1;
+            transform: rotate(90deg);
+        }
+
+        .booking-widget-modal h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            color: var(--charcoal);
+            margin-bottom: 0.5rem;
+            text-align: center;
+        }
+
+        .booking-widget-subtitle {
+            text-align: center;
+            color: var(--sage);
+            font-size: 1.1rem;
+            margin-bottom: 2.5rem;
+            font-style: italic;
+        }
+
+        .booking-properties-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .booking-property-card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 2px solid transparent;
+        }
+
+        .booking-property-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+            border-color: var(--sage);
+        }
+
+        .booking-property-image {
+            width: 100%;
+            height: 200px;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .booking-property-info {
+            padding: 1.25rem;
+        }
+
+        .booking-property-info h3 {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: var(--charcoal);
+        }
+
+        .booking-property-info .location {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .booking-property-info .description {
+            color: #888;
+            font-size: 0.85rem;
+            margin-bottom: 1rem;
+        }
+
+        .booking-tag {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            color: white;
+        }
+
+        .cozy-cactus-tag {
+            background-color: var(--turquoise);
+        }
+
+        .casa-moto-tag {
+            background-color: var(--terracotta);
+        }
+
+        .ps-retreat-tag {
+            background-color: var(--dusty-blue);
+        }
+
+        .the-well-tag {
+            background-color: var(--sage);
+        }
+
+        .booking-widget-note {
+            text-align: center;
+            color: var(--sage);
+            font-size: 1rem;
+            margin-top: 1.5rem;
+            padding: 1rem;
+            background: var(--cream);
+            border-radius: 8px;
+        }
+
+        .booking-widget-note strong {
+            color: var(--terracotta);
+            font-family: 'Courier New', monospace;
+            font-size: 1.1rem;
+        }
+
         .social-links {
             margin-top: 2rem;
             display: flex;
@@ -977,7 +1172,57 @@
                 font-size: 1.1rem;
             }
 
-            .philosophy {
+            .booking-widget-btn {
+                padding: 1.2rem 2.5rem;
+                font-size: 1rem;
+            }
+
+            .booking-widget-modal {
+                padding: 2rem 1.5rem;
+                max-height: 85vh;
+            }
+
+            .booking-widget-modal h2 {
+                font-size: 2rem;
+            }
+
+            .booking-properties-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+
+            .booking-property-card {
+                display: flex;
+                flex-direction: row;
+            }
+
+            .booking-property-image {
+                width: 120px;
+                height: 120px;
+                flex-shrink: 0;
+            }
+
+            .booking-property-info {
+                flex: 1;
+            }
+
+            .booking-property-info h3 {
+                font-size: 1.25rem;
+            }
+
+            .booking-widget-modal {
+                padding: 2rem 1.5rem;
+            }
+
+            .booking-widget-modal h2 {
+                font-size: 2rem;
+            }
+
+            .booking-properties-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .direct-booking {
                 padding: 1.5rem 5%;
             }
 
@@ -1356,8 +1601,9 @@
     <section class="direct-booking">
         <div class="savings-badge">SAVE 15% + NO BOOKING FEES</div>
         <h2>Book Direct & Save</h2>
-        <p>Why pay Airbnb's fees? Email us directly for the best rates and personalized service</p>
-        <a href="mailto:thecozycactusindio@gmail.com" class="email-link">EMAIL TO BOOK NOW</a>
+        <p>Why pay Airbnb's fees? Book directly with us for the best rates and personalized service</p>
+        <button class="booking-widget-btn" id="openBookingWidget">START BOOKING</button>
+        <p style="margin-top: 1rem; font-size: 0.9rem; opacity: 0.8;">Or email us at <a href="mailto:thecozycactusindio@gmail.com" style="color: inherit; text-decoration: underline;">thecozycactusindio@gmail.com</a></p>
         <div class="social-links">
             <a href="https://www.instagram.com/thecozycactus_/" target="_blank" rel="noopener noreferrer" class="social-icon" aria-label="Follow us on Instagram">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -1366,6 +1612,63 @@
             </a>
         </div>
     </section>
+
+    <!-- Unified Booking Widget Modal -->
+    <div class="booking-widget-overlay" id="bookingWidget">
+        <div class="booking-widget-modal">
+            <button class="booking-widget-close" id="closeBookingWidget">&times;</button>
+            <h2>Select Your Property</h2>
+            <p class="booking-widget-subtitle">Choose your perfect desert escape</p>
+
+            <div class="booking-properties-grid">
+                <!-- The Cozy Cactus -->
+                <div class="booking-property-card" data-property="cozy-cactus" data-pms="hostaway">
+                    <div class="booking-property-image" style="background-image: url('email-images/cozy-cactus.jpg');"></div>
+                    <div class="booking-property-info">
+                        <h3>The Cozy Cactus</h3>
+                        <p class="location">Indio, CA</p>
+                        <p class="description">Family Adventure • 3 Bedrooms</p>
+                        <span class="booking-tag cozy-cactus-tag">Book Now</span>
+                    </div>
+                </div>
+
+                <!-- Casa Moto -->
+                <div class="booking-property-card" data-property="casa-moto" data-pms="hostaway">
+                    <div class="booking-property-image" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1240.JPG');"></div>
+                    <div class="booking-property-info">
+                        <h3>Casa Moto</h3>
+                        <p class="location">Palm Desert, CA</p>
+                        <p class="description">Pet-Friendly • 3 Bedrooms</p>
+                        <span class="booking-tag casa-moto-tag">Book Now</span>
+                    </div>
+                </div>
+
+                <!-- PS Retreat -->
+                <div class="booking-property-card" data-property="ps-retreat" data-pms="hospitable">
+                    <div class="booking-property-image" style="background-image: url('../PS Retreat/IMG_3334.JPG');"></div>
+                    <div class="booking-property-info">
+                        <h3>PS Retreat</h3>
+                        <p class="location">Palm Springs, CA</p>
+                        <p class="description">Mid-Century Modern • 2 Bedrooms</p>
+                        <span class="booking-tag ps-retreat-tag">Book Now</span>
+                    </div>
+                </div>
+
+                <!-- The Well -->
+                <div class="booking-property-card" data-property="the-well" data-pms="email">
+                    <div class="booking-property-image" style="background-image: url('email-images/the-well.jpg');"></div>
+                    <div class="booking-property-info">
+                        <h3>The Well</h3>
+                        <p class="location">Palm Springs, CA</p>
+                        <p class="description">Wellness Retreat • 1 Bedroom</p>
+                        <span class="booking-tag the-well-tag">Contact Us</span>
+                    </div>
+                </div>
+            </div>
+
+            <p class="booking-widget-note">Use code <strong>DIRECT10</strong> for 10% off your direct booking</p>
+        </div>
+    </div>
 
     <!-- Email Signup Section -->
     <section id="contact" class="email-signup">
@@ -1631,5 +1934,73 @@
             }
         });
     </script>
+
+    <script>
+        // Booking Widget Logic
+        const bookingWidget = document.getElementById('bookingWidget');
+        const openBookingWidgetBtn = document.getElementById('openBookingWidget');
+        const closeBookingWidgetBtn = document.getElementById('closeBookingWidget');
+        const bookingPropertyCards = document.querySelectorAll('.booking-property-card');
+
+        // PMS Booking URLs - TODO: Replace with actual booking URLs from Hostaway and Hospitable
+        const bookingURLs = {
+            'cozy-cactus': {
+                pms: 'hostaway',
+                url: 'YOUR_HOSTAWAY_BOOKING_URL_COZY_CACTUS' // Replace with actual Hostaway URL
+            },
+            'casa-moto': {
+                pms: 'hostaway',
+                url: 'YOUR_HOSTAWAY_BOOKING_URL_CASA_MOTO' // Replace with actual Hostaway URL
+            },
+            'ps-retreat': {
+                pms: 'hospitable',
+                url: 'YOUR_HOSPITABLE_BOOKING_URL_PS_RETREAT' // Replace with actual Hospitable URL
+            },
+            'the-well': {
+                pms: 'email',
+                url: 'mailto:thecozycactusindio@gmail.com?subject=Booking Inquiry: The Well&body=Hi! I would like to book The Well. Please send me availability and rates.'
+            }
+        };
+
+        // Open booking widget
+        openBookingWidgetBtn.addEventListener('click', () => {
+            bookingWidget.classList.add('active');
+        });
+
+        // Close booking widget
+        closeBookingWidgetBtn.addEventListener('click', () => {
+            bookingWidget.classList.remove('active');
+        });
+
+        // Close booking widget when clicking outside
+        bookingWidget.addEventListener('click', (e) => {
+            if (e.target === bookingWidget) {
+                bookingWidget.classList.remove('active');
+            }
+        });
+
+        // Handle property card clicks
+        bookingPropertyCards.forEach(card => {
+            card.addEventListener('click', () => {
+                const propertySlug = card.getAttribute('data-property');
+                const bookingInfo = bookingURLs[propertySlug];
+
+                if (bookingInfo) {
+                    // Route to appropriate booking system
+                    if (bookingInfo.pms === 'email') {
+                        // Open email client
+                        window.location.href = bookingInfo.url;
+                    } else if (bookingInfo.url.startsWith('YOUR_')) {
+                        // Temporary: Show alert that URL needs to be configured
+                        alert(`Booking URL for ${propertySlug} needs to be configured. Please contact us at thecozycactusindio@gmail.com to complete your booking.`);
+                    } else {
+                        // Open booking URL in new tab
+                        window.open(bookingInfo.url, '_blank');
+                    }
+                }
+            });
+        });
+    </script>
+
 </body>
 </html>
