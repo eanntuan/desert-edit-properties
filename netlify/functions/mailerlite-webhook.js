@@ -28,6 +28,16 @@ exports.handler = async (event) => {
 
     console.log('Adding subscriber to MailerLite:', email);
 
+    // Prepare subscriber data with custom field for signup source
+    const subscriberData = {
+      email: email,
+      fields: {
+        signup_source: discountCode // DIRECT10 or NEWSLETTER
+      }
+    };
+
+    console.log('Subscriber data:', subscriberData);
+
     // Send to MailerLite API
     const response = await fetch('https://connect.mailerlite.com/api/subscribers', {
       method: 'POST',
@@ -36,9 +46,7 @@ exports.handler = async (event) => {
         'Authorization': `Bearer ${MAILERLITE_API_KEY}`,
         'Accept': 'application/json'
       },
-      body: JSON.stringify({
-        email: email
-      })
+      body: JSON.stringify(subscriberData)
     });
 
     const responseData = await response.json();
