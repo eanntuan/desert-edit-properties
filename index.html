@@ -1957,6 +1957,15 @@
                 bookingWidget.classList.remove('active');
             }
         });
+
+        // Auto-open booking widget if URL has ?booking=direct10 parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get('booking') === 'direct10') {
+            // Wait for page to load, then open booking widget
+            setTimeout(() => {
+                bookingWidget.classList.add('active');
+            }, 500);
+        }
     </script>
 
 </body>
