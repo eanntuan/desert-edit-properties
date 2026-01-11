@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Desert Edit - Email Builder</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #f5f5f5;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+
+        .panel {
+            background: white;
+            border-radius: 8px;
+            padding: 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #738561;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #2c2c2c;
+        }
+
+        .template-selector {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .template-btn {
+            flex: 1;
+            padding: 1rem;
+            background: #f0f0f0;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+
+        .template-btn:hover {
+            border-color: #738561;
+        }
+
+        .template-btn.active {
+            background: #738561;
+            color: white;
+            border-color: #738561;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: #2c2c2c;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+            font-family: inherit;
+        }
+
+        textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+
+        input:focus, textarea:focus {
+            outline: none;
+            border-color: #738561;
+        }
+
+        .btn {
+            padding: 1rem 2rem;
+            background: #d2635b;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .btn:hover {
+            background: #b8544a;
+        }
+
+        .btn-secondary {
+            background: #738561;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6b4a;
+        }
+
+        #preview {
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 2rem;
+            min-height: 400px;
+        }
+
+        #htmlOutput {
+            width: 100%;
+            min-height: 300px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.85rem;
+            background: #2c2c2c;
+            color: #0f0;
+            padding: 1rem;
+            border-radius: 4px;
+            display: none;
+            margin-top: 1rem;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .success-msg {
+            background: #738561;
+            color: white;
+            padding: 1rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+            display: none;
+        }
+
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="panel">
+            <h1>📧 Email Builder</h1>
+
+            <div class="template-selector">
+                <button class="template-btn active" onclick="selectTemplate('direct10')">DIRECT10 Discount</button>
+                <button class="template-btn" onclick="selectTemplate('newsletter')">Newsletter Welcome</button>
+            </div>
+
+            <div class="form-group">
+                <label for="subject">Email Subject</label>
+                <input type="text" id="subject" placeholder="Your 10% Off Code: DIRECT10 🌵">
+            </div>
+
+            <div class="form-group">
+                <label for="heading">Main Heading</label>
+                <input type="text" id="heading" placeholder="Thanks for your interest!">
+            </div>
+
+            <div class="form-group">
+                <label for="intro">Introduction Text</label>
+                <textarea id="intro" placeholder="Here's your exclusive discount..."></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="cta">Call to Action Text</label>
+                <input type="text" id="cta" placeholder="Browse Our Collection">
+            </div>
+
+            <div class="form-group">
+                <label for="ctaLink">CTA Button Link</label>
+                <input type="text" id="ctaLink" placeholder="https://thedesertedit.netlify.app">
+            </div>
+
+            <div class="form-group">
+                <label for="closing">Closing Text</label>
+                <textarea id="closing" placeholder="See you in the desert!"></textarea>
+            </div>
+
+            <div class="button-group">
+                <button class="btn btn-secondary" onclick="generateEmail()">Generate Email</button>
+                <button class="btn" onclick="copyHTML()">Copy HTML</button>
+            </div>
+
+            <div class="success-msg" id="successMsg">✓ HTML copied to clipboard!</div>
+
+            <textarea id="htmlOutput" readonly></textarea>
+        </div>
+
+        <div class="panel">
+            <h2>Preview</h2>
+            <div id="preview"></div>
+        </div>
+    </div>
+
+    <script>
+        let currentTemplate = 'direct10';
+
+        const templates = {
+            direct10: {
+                subject: 'Your 10% Off Code: DIRECT10 🌵',
+                heading: 'Thanks for your interest!',
+                intro: `Here's your exclusive 10% discount code for The Desert Edit. Book directly with us and save on fees while getting personalized service.`,
+                cta: 'Browse Our Collection',
+                ctaLink: 'https://thedesertedit.netlify.app',
+                closing: `Email us at thecozycactusindio@gmail.com to book with your DIRECT10 code.\n\nSee you in the desert!\nThe Desert Edit Team`,
+                showCode: true,
+                code: 'DIRECT10'
+            },
+            newsletter: {
+                subject: 'Welcome to The Desert Edit Newsletter 🌵',
+                heading: 'Welcome to our community!',
+                intro: `You're now in the loop for new properties, exclusive offers, last-minute deals, and desert getaway inspiration.`,
+                cta: 'Explore Our Homes',
+                ctaLink: 'https://thedesertedit.netlify.app',
+                closing: `Ready to book? Email us at thecozycactusindio@gmail.com\n\nSee you in the desert!\nThe Desert Edit Team`,
+                showCode: false
+            }
+        };
+
+        function selectTemplate(templateName) {
+            currentTemplate = templateName;
+
+            // Update button states
+            document.querySelectorAll('.template-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Load template data
+            const template = templates[templateName];
+            document.getElementById('subject').value = template.subject;
+            document.getElementById('heading').value = template.heading;
+            document.getElementById('intro').value = template.intro;
+            document.getElementById('cta').value = template.cta;
+            document.getElementById('ctaLink').value = template.ctaLink;
+            document.getElementById('closing').value = template.closing;
+
+            generateEmail();
+        }
+
+        function generateEmail() {
+            const subject = document.getElementById('subject').value;
+            const heading = document.getElementById('heading').value;
+            const intro = document.getElementById('intro').value;
+            const cta = document.getElementById('cta').value;
+            const ctaLink = document.getElementById('ctaLink').value;
+            const closing = document.getElementById('closing').value;
+
+            const template = templates[currentTemplate];
+            const showCode = template.showCode;
+            const code = template.code || '';
+
+            const emailHTML = `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${subject}</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; background-color: #f5f3ee;">
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #f5f3ee;">
+        <tr>
+            <td style="padding: 40px 20px;">
+                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+
+                    <!-- Header -->
+                    <tr>
+                        <td style="background: linear-gradient(135deg, #738561 0%, #adbab7 100%); padding: 40px 30px; text-align: center;">
+                            <h1 style="margin: 0; color: #ffffff; font-size: 32px; font-weight: 300; letter-spacing: 2px; font-family: 'Cormorant Garamond', serif;">THE DESERT EDIT</h1>
+                            <p style="margin: 10px 0 0 0; color: rgba(255,255,255,0.9); font-size: 14px; font-style: italic;">Curated stays across Coachella Valley</p>
+                        </td>
+                    </tr>
+
+                    <!-- Main Content -->
+                    <tr>
+                        <td style="padding: 40px 30px;">
+                            <h2 style="margin: 0 0 20px 0; color: #2c2c2c; font-size: 24px; font-weight: 400;">${heading}</h2>
+                            <p style="margin: 0 0 20px 0; color: #555; font-size: 16px; line-height: 1.6;">${intro}</p>
+                            ${showCode ? `
+                            <!-- Discount Code Box -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: 30px 0;">
+                                <tr>
+                                    <td style="background-color: #f5f3ee; border: 2px dashed #738561; border-radius: 8px; padding: 30px; text-align: center;">
+                                        <p style="margin: 0 0 10px 0; color: #738561; font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">Your Exclusive Code</p>
+                                        <p style="margin: 0; color: #2c2c2c; font-size: 32px; font-weight: 700; letter-spacing: 3px; font-family: 'Courier New', monospace;">${code}</p>
+                                        <p style="margin: 10px 0 0 0; color: #d2635b; font-size: 18px; font-weight: 600;">10% OFF Direct Bookings</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            ` : ''}
+
+                            <!-- CTA Button -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: 30px 0;">
+                                <tr>
+                                    <td style="text-align: center;">
+                                        <a href="${ctaLink}" style="display: inline-block; padding: 16px 40px; background-color: #d2635b; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 16px; font-weight: 600; letter-spacing: 1px;">${cta}</a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <p style="margin: 20px 0 0 0; color: #555; font-size: 16px; line-height: 1.6; white-space: pre-line;">${closing}</p>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td style="background-color: #2c2c2c; padding: 30px; text-align: center;">
+                            <p style="margin: 0 0 10px 0; color: rgba(255,255,255,0.7); font-size: 14px;">The Desert Edit | Coachella Valley</p>
+                            <p style="margin: 0; color: rgba(255,255,255,0.5); font-size: 12px;">
+                                <a href="https://thedesertedit.netlify.app" style="color: rgba(255,255,255,0.7); text-decoration: none;">Website</a> •
+                                <a href="https://instagram.com/thecozycactus_" style="color: rgba(255,255,255,0.7); text-decoration: none;">Instagram</a>
+                            </p>
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>`;
+
+            // Show preview
+            document.getElementById('preview').innerHTML = emailHTML;
+
+            // Show HTML output
+            document.getElementById('htmlOutput').value = emailHTML;
+            document.getElementById('htmlOutput').style.display = 'block';
+        }
+
+        function copyHTML() {
+            const htmlOutput = document.getElementById('htmlOutput');
+            htmlOutput.select();
+            document.execCommand('copy');
+
+            const successMsg = document.getElementById('successMsg');
+            successMsg.style.display = 'block';
+            setTimeout(() => {
+                successMsg.style.display = 'none';
+            }, 3000);
+        }
+
+        // Initialize with default template
+        window.onload = () => {
+            generateEmail();
+        };
+    </script>
+</body>
+</html>
