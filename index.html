@@ -581,39 +581,76 @@
 
         /* Direct Booking Section */
         .direct-booking {
-            padding: 6rem 5%;
-            background: var(--cream);
+            padding: 8rem 5%;
+            background: linear-gradient(135deg, var(--terracotta) 0%, #b8544a 100%);
             text-align: center;
+            position: relative;
+        }
+
+        .direct-booking::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><circle cx="2" cy="2" r="1" fill="white" opacity="0.1"/></svg>');
+            background-size: 30px 30px;
+            pointer-events: none;
         }
 
         .direct-booking h2 {
             font-family: var(--font-serif);
-            font-size: 2.5rem;
-            margin-bottom: 1.5rem;
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            color: white;
+            font-weight: 600;
+            position: relative;
+        }
+
+        .direct-booking .savings-badge {
+            display: inline-block;
+            background: white;
             color: var(--terracotta);
+            padding: 0.5rem 1.5rem;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 1.5rem;
+            letter-spacing: 1px;
         }
 
         .direct-booking p {
-            font-size: 1.2rem;
-            margin-bottom: 2rem;
-            color: var(--charcoal);
+            font-size: 1.4rem;
+            margin-bottom: 3rem;
+            color: white;
+            opacity: 0.95;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+            position: relative;
         }
 
         .direct-booking .email-link {
             display: inline-block;
-            padding: 1rem 3rem;
-            background-color: var(--terracotta);
-            color: white;
+            padding: 1.5rem 4rem;
+            background-color: white;
+            color: var(--terracotta);
             text-decoration: none;
-            font-weight: 500;
-            letter-spacing: 1.5px;
+            font-weight: 600;
+            letter-spacing: 2px;
             transition: all 0.3s ease;
-            font-size: 0.95rem;
+            font-size: 1.1rem;
+            border: 3px solid white;
+            position: relative;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
         }
 
         .direct-booking .email-link:hover {
-            background-color: #b8544a;
-            transform: translateY(-2px);
+            background-color: transparent;
+            color: white;
+            transform: translateY(-3px);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.3);
         }
 
         .social-links {
@@ -928,9 +965,10 @@
 
     <!-- Direct Booking Section -->
     <section class="direct-booking">
+        <div class="savings-badge">SAVE 15% + NO BOOKING FEES</div>
         <h2>Book Direct & Save</h2>
-        <p>Skip the fees and book directly with us for the best rates</p>
-        <a href="mailto:thecozycactusindio@gmail.com" class="email-link">EMAIL TO BOOK</a>
+        <p>Why pay Airbnb's fees? Email us directly for the best rates and personalized service</p>
+        <a href="mailto:thecozycactusindio@gmail.com" class="email-link">EMAIL TO BOOK NOW</a>
         <div class="social-links">
             <a href="https://www.instagram.com/thecozycactus_/" target="_blank" rel="noopener noreferrer" class="social-icon" aria-label="Follow us on Instagram">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
