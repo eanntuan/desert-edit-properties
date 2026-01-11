@@ -1,0 +1,8 @@
+{
+  "name": "desert-edit-deploy",
+  "version": "1.0.0",
+  "description": "The Desert Edit - Direct Booking Website",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

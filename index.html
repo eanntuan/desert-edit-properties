@@ -1446,13 +1446,41 @@
         });
 
         // Handle form submission
-        popupForm.addEventListener('submit', () => {
+        popupForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const formData = new FormData(popupForm);
+            const email = formData.get('email');
+            const discountCode = formData.get('discount-code');
+
+            // Mark popup as seen
             localStorage.setItem('emailPopupSeen', 'true');
-            // Form will be handled by Netlify
-            setTimeout(() => {
-                emailPopup.classList.remove('active');
-                alert('Thanks! Check your email for the DIRECT10 discount code.');
-            }, 100);
+
+            try {
+                // Send to Netlify Function which forwards to MailerLite
+                const response = await fetch('/.netlify/functions/mailerlite-webhook', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        payload: {
+                            email: email,
+                            'discount-code': discountCode
+                        }
+                    })
+                });
+
+                if (response.ok) {
+                    emailPopup.classList.remove('active');
+                    alert('Thanks! Check your email for the DIRECT10 discount code.');
+                } else {
+                    alert('Something went wrong. Please try emailing us directly.');
+                }
+            } catch (error) {
+                console.error('Error submitting form:', error);
+                alert('Something went wrong. Please try emailing us directly.');
+            }
         });
     </script>
 
