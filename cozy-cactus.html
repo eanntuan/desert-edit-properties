@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cozy Cactus | Family Adventure in Indio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --turquoise: #00877b;
+            --coral: #d2635b;
+            --sunset-pink: #E39B96;
+            --pineapple: #fad02c;
+            --cream: #F5F3EE;
+            --charcoal: #2C2C2C;
+            --font-serif: 'Cormorant Garamond', serif;
+            --font-sans: 'Work Sans', sans-serif;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            color: var(--charcoal);
+            line-height: 1.6;
+            background-color: var(--cream);
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 5%;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        nav .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav .logo {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--charcoal);
+            letter-spacing: 1px;
+            text-decoration: none;
+        }
+
+        nav .back-link {
+            text-decoration: none;
+            color: var(--charcoal);
+            font-weight: 400;
+            font-size: 0.95rem;
+            transition: color 0.3s;
+            letter-spacing: 0.5px;
+        }
+
+        nav .back-link:hover {
+            color: var(--turquoise);
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-top: 80px;
+            height: 70vh;
+            background: linear-gradient(rgba(0, 135, 123, 0.2), rgba(0, 135, 123, 0.2)),
+                        url('../Cozy Cactus/82381 Cochran Drive For Web/1TW_DZ5A8774web.jpg');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: flex-end;
+            padding: 4rem 5%;
+        }
+
+        .hero-content {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 3rem;
+            max-width: 600px;
+            backdrop-filter: blur(10px);
+        }
+
+        .property-tag {
+            display: inline-block;
+            background: var(--turquoise);
+            color: white;
+            padding: 0.5rem 1.5rem;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+
+        .hero h1 {
+            font-family: var(--font-serif);
+            font-size: 3.5rem;
+            color: var(--turquoise);
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .hero .location {
+            color: var(--turquoise);
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .hero .tagline {
+            font-style: italic;
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            font-weight: 300;
+        }
+
+        /* Property Details */
+        .details-section {
+            padding: 6rem 5%;
+            background: white;
+        }
+
+        .details-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 4rem;
+        }
+
+        .details-main h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            color: var(--turquoise);
+            margin-bottom: 1.5rem;
+        }
+
+        .details-main p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+            color: var(--charcoal);
+        }
+
+        .amenities {
+            margin-top: 3rem;
+        }
+
+        .amenities h3 {
+            font-family: var(--font-serif);
+            font-size: 1.8rem;
+            color: var(--turquoise);
+            margin-bottom: 1rem;
+        }
+
+        .amenities-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .amenity-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1rem;
+        }
+
+        .amenity-item::before {
+            content: '✓';
+            color: var(--turquoise);
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        /* Sidebar */
+        .details-sidebar {
+            background: var(--cream);
+            padding: 2.5rem;
+            height: fit-content;
+            position: sticky;
+            top: 120px;
+        }
+
+        .details-sidebar h3 {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--turquoise);
+        }
+
+        .detail-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 1rem 0;
+            border-bottom: 1px solid rgba(44, 44, 44, 0.1);
+            font-size: 1rem;
+        }
+
+        .detail-item:last-child {
+            border-bottom: none;
+        }
+
+        .detail-label {
+            font-weight: 500;
+        }
+
+        .cta-button {
+            display: block;
+            width: 100%;
+            padding: 1.2rem;
+            background-color: var(--turquoise);
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            font-weight: 500;
+            letter-spacing: 1.5px;
+            transition: all 0.3s ease;
+            margin-top: 2rem;
+            font-size: 0.95rem;
+        }
+
+        .cta-button:hover {
+            background-color: #006f65;
+            transform: translateY(-2px);
+        }
+
+        /* Color Palette */
+        .color-palette {
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(44, 44, 44, 0.1);
+        }
+
+        .color-palette h4 {
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 1rem;
+            color: var(--charcoal);
+        }
+
+        .color-dots {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .color-dot {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        /* Gallery Section */
+        .gallery-section {
+            padding: 6rem 5%;
+            background: var(--cream);
+        }
+
+        .gallery-section h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 3rem;
+            color: var(--turquoise);
+        }
+
+        .gallery-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .gallery-item {
+            height: 300px;
+            background-size: cover;
+            background-position: center;
+            transition: transform 0.3s ease;
+        }
+
+        .gallery-item:hover {
+            transform: scale(1.05);
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--charcoal);
+            color: white;
+            padding: 4rem 5%;
+            text-align: center;
+        }
+
+        footer .logo {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            letter-spacing: 1px;
+        }
+
+        footer p {
+            font-size: 0.9rem;
+            opacity: 0.7;
+            margin-top: 2rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .details-container {
+                grid-template-columns: 1fr;
+            }
+
+            .details-sidebar {
+                position: static;
+            }
+
+            .amenities-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .gallery-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <a href="the-desert-edit.html" class="logo">THE DESERT EDIT</a>
+            <a href="the-desert-edit.html" class="back-link">← Back to Collection</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="property-tag">FAMILY ADVENTURE</div>
+            <h1>Cozy Cactus</h1>
+            <p class="location">Indio, California</p>
+            <p class="tagline">Relax. Treat Yourself. Explore.</p>
+        </div>
+    </section>
+
+    <!-- Property Details -->
+    <section class="details-section">
+        <div class="details-container">
+            <div class="details-main">
+                <h2>A Multi-Sensory Family Experience</h2>
+                <p>Playful pops of color meet family-friendly functionality. This isn't just a vacation rental—it's where parents get their pick-me-up coffee bar and kids discover a treasure trove of curated toys.</p>
+
+                <p>A multi-sensory experience designed to nurture everyone. From the turquoise and coral color palette to the thoughtfully stocked coffee bar, every detail invites families to relax and explore together.</p>
+
+                <p>With 3 bedrooms and plenty of space for the whole crew, Cozy Cactus transforms family getaways into memorable adventures where everyone feels seen and cared for.</p>
+
+                <div class="amenities">
+                    <h3>Amenities</h3>
+                    <div class="amenities-grid">
+                        <div class="amenity-item">3 Bedrooms</div>
+                        <div class="amenity-item">Curated Toy Collection</div>
+                        <div class="amenity-item">Coffee Bar</div>
+                        <div class="amenity-item">Family-Friendly Design</div>
+                        <div class="amenity-item">Playful Color Palette</div>
+                        <div class="amenity-item">Multi-Sensory Details</div>
+                        <div class="amenity-item">Spacious Layout</div>
+                        <div class="amenity-item">Outdoor Space</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="details-sidebar">
+                <h3>Property Details</h3>
+                <div class="detail-item">
+                    <span class="detail-label">Bedrooms</span>
+                    <span>3</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Location</span>
+                    <span>Indio</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Type</span>
+                    <span>Family Adventure</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Vibe</span>
+                    <span>Playful & Nurturing</span>
+                </div>
+
+                <a href="https://www.airbnb.com/h/cozy-cactus" target="_blank" class="cta-button">CHECK AVAILABILITY</a>
+
+                <div class="color-palette">
+                    <h4>Color Palette</h4>
+                    <div class="color-dots">
+                        <div class="color-dot" style="background-color: #00877b;"></div>
+                        <div class="color-dot" style="background-color: #d2635b;"></div>
+                        <div class="color-dot" style="background-color: #E39B96;"></div>
+                        <div class="color-dot" style="background-color: #fad02c;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery-section">
+        <h2>Photo Gallery</h2>
+        <div class="gallery-grid">
+            <!-- 82381 Cochran Drive For Web Photos -->
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/1TW_DZ5A8774web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/2TW_DZ5A8783web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/3TW_DZ5A8619web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/4TW_DZ5A8628web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/5TW_4W6A8424web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/6TW_4W6A8436 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/6TW4W6A8441web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/7TW_4W6A8446web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/8TW_4W6A8434web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/9TW_DZ5A8649web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/10TW_DZ5A8636web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/11TW_DZ5A8641web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/12TW_4W6A8617web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/12TW_DZ5A8639web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/13TW_4W6A8478 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/14TW_4W6A8415web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/15TW_DZ5A8612web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/16TW_4W6A8430 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/17TW_4W6A8482web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/18TW_4W6A8484web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/19TW_DZ5A8617web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/20TW_DZ5A8667 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/22TW__DZ5A8656web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/23TW_DZ5A8676web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/24TW_4W6A8492web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/24TW_4W6A8618web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/24TW_DZ5A8660web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/24TW_DZ5A8688web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/25TW_4W6A8494web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/25TW_4W6A8693web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/26TW_DZ5A8674web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/27TW_DZ5A8695web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/28TW_4W6A8564web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/29TW_4W6A8498web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/30TW_4W6A8503web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/31TW_4W6A8561web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/31TW_4W6A8569web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/32TW_DZ5A8662web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/33TW_DZ5A8744web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/34TW_DZ5A8701web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/35TW_DZ5A8740web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/36TW_DZ5A8726web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/37TW_DZ5A8734web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/38TW_DZ5A8715web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/39TW_4W6A8595web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/40TW_DZ5A8721web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/40TW_DZ5A8758web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/41TW_DZ5A8764web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/42TW_DZ5A8586web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/43TW_DZ5A8574web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/44TW_4W6A8395web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/45TW_DZ5A8592web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/46TW_DZ5A8599web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/47TW_DZ5A8834 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/48TW_DZ5A8837 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/49TW_DZ5A8843 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/50TW_4W6A8608web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/51TW_4W6A8609web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/52TW_4W6A8589web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/53TW_DZ5A8767web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/54TW_4W6A8603web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/55TW_DZ5A8770web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/56TW_DZ5A8773web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/57TW_4W6A8572web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/58TW_4W6A8577web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/59DZ5A8808 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/60TW_DZ5A8814web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/61TW_DZ5A8798web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/62TW_DZ5A8810web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/63DZ5A8803 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/64TW_DZ5A8817web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/65DZ5A8821 V2web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/82381 Cochran Drive For Web/66TW_DZ5A8846web.jpg');"></div>
+
+            <!-- Coffee Bar & Family Kit Web Photos -->
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/1_4W6A1739web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/2_4W6A1745web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/3_4W6A1749web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/4_4W6A1797web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/4W6A1768web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/5_4W6A1779web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/6_4W6A1813web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/7_4W6A1789web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/8_4W6A1825web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/9_4W6A1832web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/10_4W6A1840web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/11_4W6A1847web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/12_4W6A1850editweb.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/13_4W6A1884web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/14_4W6A1888web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/15_4W6A1906web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/16_4W6A1856web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/17_4W6A1865web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/18_4W6A1895web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/19_4W6A1892web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/20_4W6A1869web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/21_4W6A1873web.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Coffee Bar & Family Kit Web/22_4W6A1821web.jpg');"></div>
+
+            <!-- Putting Green Photos -->
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00261.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00264.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00267.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00270.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00273.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00279.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00282.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00285.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00288.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00297.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00297_edited.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00300.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00303.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../Cozy Cactus/Putting Green/DSC00306.jpg');"></div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="logo">THE DESERT EDIT</div>
+        <p>&copy; 2026 The Desert Edit. All properties designed with The Olive Jar.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Desert Edit | Curated Stays Across Coachella Valley</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            /* Brand Colors */
+            --desert-sand: #E8DCC4;
+            --sage: #738561;
+            --sage-light: #adbab7;
+            --terracotta: #d2635b;
+            --terracotta-bright: #EA8B54;
+            --dusty-blue: #6E90AD;
+            --turquoise: #00877b;
+            --coral: #d2635b;
+            --sunset-pink: #E39B96;
+            --pineapple: #fad02c;
+            --cream: #F5F3EE;
+            --charcoal: #2C2C2C;
+
+            /* Typography */
+            --font-serif: 'Cormorant Garamond', serif;
+            --font-sans: 'Work Sans', sans-serif;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            color: var(--charcoal);
+            line-height: 1.6;
+            background-color: var(--cream);
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 5%;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        nav .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav .logo {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--charcoal);
+            letter-spacing: 1px;
+        }
+
+        nav ul {
+            display: flex;
+            gap: 2.5rem;
+            list-style: none;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--charcoal);
+            font-weight: 400;
+            font-size: 0.95rem;
+            transition: color 0.3s;
+            letter-spacing: 0.5px;
+        }
+
+        nav a:hover {
+            color: var(--terracotta);
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-top: 80px;
+            min-height: 85vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            background: linear-gradient(135deg, var(--sage) 0%, var(--sage-light) 100%);
+            padding: 4rem 5%;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Video Background - Temporarily disabled for deployment */
+        .hero-video {
+            display: none;
+            /* Re-enable after deploying video to CDN */
+        }
+
+        /* Dark overlay for video */
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(115, 133, 97, 0.5);
+            z-index: 1;
+        }
+
+        .hero-content {
+            max-width: 900px;
+            position: relative;
+            z-index: 2;
+        }
+
+        .hero h1 {
+            font-family: var(--font-serif);
+            font-size: 4.5rem;
+            font-weight: 300;
+            margin-bottom: 1rem;
+            color: white;
+            letter-spacing: 2px;
+            line-height: 1.2;
+        }
+
+        .hero .tagline {
+            font-size: 1.3rem;
+            font-weight: 300;
+            color: rgba(255, 255, 255, 0.95);
+            margin-bottom: 1rem;
+            font-style: italic;
+            letter-spacing: 1px;
+        }
+
+        .hero .description {
+            font-size: 1.1rem;
+            color: rgba(255, 255, 255, 0.9);
+            margin-bottom: 3rem;
+            font-weight: 300;
+            line-height: 1.8;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 1rem 3rem;
+            background-color: white;
+            color: var(--charcoal);
+            text-decoration: none;
+            font-weight: 500;
+            letter-spacing: 1.5px;
+            transition: all 0.3s ease;
+            border: 2px solid white;
+            font-size: 0.95rem;
+        }
+
+        .cta-button:hover {
+            background-color: transparent;
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        /* Container */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 5%;
+        }
+
+        /* Section Styling */
+        section {
+            padding: 6rem 5%;
+        }
+
+        .section-title {
+            font-family: var(--font-serif);
+            font-size: 3rem;
+            font-weight: 400;
+            text-align: center;
+            margin-bottom: 1rem;
+            color: var(--charcoal);
+            letter-spacing: 1px;
+        }
+
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.2rem;
+            color: var(--sage);
+            margin-bottom: 4rem;
+            font-weight: 300;
+            font-style: italic;
+            letter-spacing: 0.5px;
+        }
+
+        /* About Section */
+        .about {
+            background-color: white;
+        }
+
+        .about-content {
+            max-width: 900px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .about-content p {
+            font-size: 1.15rem;
+            line-height: 2;
+            margin-bottom: 1.5rem;
+            color: var(--charcoal);
+            font-weight: 300;
+        }
+
+        .about-content .highlight {
+            font-style: italic;
+            color: var(--terracotta);
+            font-weight: 400;
+        }
+
+        /* Brand Values */
+        .brand-values {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 3rem;
+            margin-top: 4rem;
+            max-width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .brand-value {
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .brand-value h3 {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--terracotta);
+            font-weight: 600;
+        }
+
+        .brand-value p {
+            font-size: 1rem;
+            color: var(--charcoal);
+            line-height: 1.8;
+        }
+
+        /* Properties Section */
+        .properties {
+            background-color: var(--cream);
+        }
+
+        .property-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 3rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .property-card-link {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .property-card {
+            background: white;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-radius: 2px;
+            cursor: pointer;
+        }
+
+        .property-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        .property-image {
+            height: 300px;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        .property-tag {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 0.5rem 1.5rem;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            font-weight: 500;
+        }
+
+        .property-content {
+            padding: 2rem;
+        }
+
+        .property-title {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .property-location {
+            color: var(--sage);
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .property-tagline {
+            font-style: italic;
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            line-height: 1.6;
+            font-weight: 300;
+        }
+
+        .property-description {
+            font-size: 0.95rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+            color: #555;
+        }
+
+        .property-colors {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .color-dot {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .property-link {
+            display: inline-block;
+            color: var(--charcoal);
+            font-weight: 500;
+            letter-spacing: 1px;
+            font-size: 0.9rem;
+            border-bottom: 2px solid var(--charcoal);
+            padding-bottom: 0.3rem;
+        }
+
+        .property-card-link:hover .property-link {
+            color: var(--terracotta);
+            border-color: var(--terracotta);
+        }
+
+        /* The Well Styling */
+        .property-card.the-well .property-tag { background-color: var(--sage-light); color: white; }
+        .property-card.the-well .property-title { color: var(--sage); }
+
+        /* Cozy Cactus Styling */
+        .property-card.cozy-cactus .property-tag { background-color: var(--turquoise); color: white; }
+        .property-card.cozy-cactus .property-title { color: var(--turquoise); }
+
+        /* Casa Moto Styling */
+        .property-card.casa-moto .property-tag { background-color: var(--terracotta); color: white; }
+        .property-card.casa-moto .property-title { color: var(--terracotta); }
+
+        /* PS Retreat Styling */
+        .property-card.ps-retreat .property-tag { background-color: var(--dusty-blue); color: white; }
+        .property-card.ps-retreat .property-title { color: var(--dusty-blue); }
+
+        /* Philosophy Section */
+        .philosophy {
+            background: linear-gradient(135deg, var(--sage) 0%, var(--sage-light) 100%);
+            color: white;
+            text-align: center;
+        }
+
+        .philosophy .section-title,
+        .philosophy .section-subtitle {
+            color: white;
+        }
+
+        .philosophy-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .philosophy-content p {
+            font-size: 1.2rem;
+            line-height: 2;
+            margin-bottom: 2rem;
+            font-weight: 300;
+        }
+
+        .philosophy-quote {
+            font-family: var(--font-serif);
+            font-size: 1.8rem;
+            font-style: italic;
+            margin: 3rem 0;
+            padding: 2rem;
+            border-left: 4px solid white;
+            text-align: left;
+            font-weight: 300;
+            line-height: 1.6;
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--charcoal);
+            color: white;
+            padding: 4rem 5%;
+            text-align: center;
+        }
+
+        footer .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        footer .logo {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            letter-spacing: 1px;
+        }
+
+        footer .tagline {
+            font-size: 1rem;
+            font-style: italic;
+            margin-bottom: 2rem;
+            opacity: 0.8;
+        }
+
+        footer p {
+            font-size: 0.9rem;
+            opacity: 0.7;
+            margin-top: 2rem;
+        }
+
+        /* Video Section */
+        .video-section {
+            padding: 6rem 5%;
+            background: white;
+            text-align: center;
+        }
+
+        .video-section h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            color: var(--terracotta);
+        }
+
+        .video-container {
+            max-width: 900px;
+            margin: 0 auto;
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .hero .tagline {
+                font-size: 1.1rem;
+            }
+
+            .hero .description {
+                font-size: 1rem;
+            }
+
+            /* Adjust video overlay for better mobile readability */
+            .hero::before {
+                background: rgba(115, 133, 97, 0.7);
+            }
+
+            nav ul {
+                gap: 1.5rem;
+            }
+
+            nav a {
+                font-size: 0.85rem;
+            }
+
+            .section-title {
+                font-size: 2rem;
+            }
+
+            .property-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .brand-values {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <div class="logo">THE DESERT EDIT</div>
+            <ul>
+                <li><a href="#properties">Properties</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#philosophy">Philosophy</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <!-- Video Background -->
+        <div class="hero-video">
+            <video autoplay muted loop playsinline>
+                <source src="../Cozy Cactus/the cozy cactus.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
+        <div class="hero-content">
+            <h1>The Desert Edit</h1>
+            <p class="tagline">Curated homes across the desert—each designed for meaningful moments</p>
+            <p class="description">From wellness sanctuaries to family adventures, mid-century romance to bohemian gatherings—your next getaway awaits.</p>
+            <a href="#properties" class="cta-button">EXPLORE OUR HOMES</a>
+        </div>
+    </section>
+
+    <!-- Properties Section -->
+    <!--
+        HERO SECTION BACKGROUND: Local video (the cozy cactus.mp4 rotated to landscape)
+
+        PROPERTY IMAGES - ALL REAL PHOTOS!
+        - The Well: ../The Well/1TW_4W6A0294.jpg
+        - Cozy Cactus: ../Cozy Cactus/82381 Cochran Drive For Web/1TW_DZ5A8774web.jpg
+        - Casa Moto: ../Casa Moto/IMG_1268.JPG
+        - PS Retreat: ../PS Retreat/IMG_3330.JPG
+
+        TO CHANGE HERO IMAGES:
+        1. Browse your property photo folders
+        2. Update the url('path/to/image.jpg') in each property-image div
+        3. Keep the gradient overlay for consistent styling
+    -->
+    <section id="properties" class="properties">
+        <h2 class="section-title">Our Collection</h2>
+        <p class="section-subtitle">Curated homes, infinite possibilities</p>
+        <div class="property-grid">
+            <!-- Cozy Cactus -->
+            <a href="cozy-cactus.html" class="property-card-link">
+                <div class="property-card cozy-cactus">
+                    <div class="property-image" style="background: linear-gradient(rgba(0, 135, 123, 0.2), rgba(0, 135, 123, 0.2)), url('../Cozy Cactus/82381 Cochran Drive For Web/1TW_DZ5A8774web.jpg'); background-size: cover; background-position: center;">
+                        <div class="property-tag">FAMILY ADVENTURE</div>
+                    </div>
+                    <div class="property-content">
+                        <h3 class="property-title">Cozy Cactus</h3>
+                        <p class="property-location">Indio | 3 Bedrooms</p>
+                        <p class="property-tagline">Relax. Treat Yourself. Explore.</p>
+                        <p class="property-description">Playful pops of color meet family-friendly functionality. This isn't just a vacation rental—it's where parents get their pick-me-up coffee bar and kids discover a treasure trove of curated toys. A multi-sensory experience designed to nurture everyone.</p>
+                        <div class="property-colors">
+                            <div class="color-dot" style="background-color: #00877b;"></div>
+                            <div class="color-dot" style="background-color: #d2635b;"></div>
+                            <div class="color-dot" style="background-color: #E39B96;"></div>
+                            <div class="color-dot" style="background-color: #fad02c;"></div>
+                        </div>
+                        <span class="property-link">VIEW COZY CACTUS →</span>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Casa Moto -->
+            <a href="casa-moto.html" class="property-card-link">
+                <div class="property-card casa-moto">
+                    <div class="property-image" style="background: linear-gradient(rgba(210, 99, 91, 0.2), rgba(210, 99, 91, 0.2)), url('../Casa Moto/Existing Listing Pictures/IMG_1240.JPG'); background-size: cover; background-position: center;">
+                        <div class="property-tag">PET-FRIENDLY</div>
+                    </div>
+                    <div class="property-content">
+                        <h3 class="property-title">Casa Moto</h3>
+                        <p class="property-location">Indian Palms Country Club | Pet-Friendly</p>
+                        <p class="property-tagline">Gather. Unwind. Belong.</p>
+                        <p class="property-description">Bohemian warmth in a gated oasis with a brand-new saltwater pool. Bring your four-legged friend, gather your favorite people, and sink into the kind of ease that only comes from truly welcoming spaces.</p>
+                        <div class="property-colors">
+                            <div class="color-dot" style="background-color: #d2635b;"></div>
+                            <div class="color-dot" style="background-color: #E39B96;"></div>
+                            <div class="color-dot" style="background-color: #adbab7;"></div>
+                        </div>
+                        <span class="property-link">VIEW CASA MOTO →</span>
+                    </div>
+                </div>
+            </a>
+
+            <!-- PS Retreat -->
+            <a href="ps-retreat.html" class="property-card-link">
+                <div class="property-card ps-retreat">
+                    <div class="property-image" style="background: linear-gradient(rgba(110, 144, 173, 0.2), rgba(110, 144, 173, 0.2)), url('../PS Retreat/IMG_3334.JPG'); background-size: cover; background-position: center;">
+                        <div class="property-tag">MID-CENTURY MODERN</div>
+                    </div>
+                    <div class="property-content">
+                        <h3 class="property-title">PS Retreat</h3>
+                        <p class="property-location">Palm Springs Central | Mid-Century</p>
+                        <p class="property-tagline">Iconic. Romantic. Effortless.</p>
+                        <p class="property-description">Mid-century magic in the heart of Palm Springs. Your "bowling alley" primary suite, turquoise pool days, and walking distance to downtown's best. This is the Palm Springs postcard—elevated.</p>
+                        <div class="property-colors">
+                            <div class="color-dot" style="background-color: #00877b;"></div>
+                            <div class="color-dot" style="background-color: #6E90AD;"></div>
+                            <div class="color-dot" style="background-color: #d2635b;"></div>
+                        </div>
+                        <span class="property-link">VIEW PS RETREAT →</span>
+                    </div>
+                </div>
+            </a>
+
+            <!-- The Well -->
+            <a href="the-well.html" class="property-card-link">
+                <div class="property-card the-well">
+                    <div class="property-image" style="background: linear-gradient(rgba(115, 133, 97, 0.3), rgba(115, 133, 97, 0.3)), url('../The Well/1TW_4W6A0294.jpg'); background-size: cover; background-position: center;">
+                        <div class="property-tag">WELLNESS RETREAT</div>
+                    </div>
+                    <div class="property-content">
+                        <h3 class="property-title">The Well</h3>
+                        <p class="property-location">Palm Springs | 1 Bedroom</p>
+                        <p class="property-tagline">Relax. Recharge. Reconnect.</p>
+                        <p class="property-description">A wellness-focused retreat where southwestern minimalism meets mid-century calm. Sage greens, terracotta warmth, and smart storage that clears the mind as much as the space. Perfect for solo travelers and remote workers seeking grounded motivation.</p>
+                        <div class="property-colors">
+                            <div class="color-dot" style="background-color: #738561;"></div>
+                            <div class="color-dot" style="background-color: #adbab7;"></div>
+                            <div class="color-dot" style="background-color: #EA8B54;"></div>
+                            <div class="color-dot" style="background-color: #6E90AD;"></div>
+                        </div>
+                        <span class="property-link">VIEW THE WELL →</span>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <h2 class="section-title">A Collection Worth Experiencing</h2>
+        <p class="section-subtitle">Curated • Intentional • Elevated</p>
+        <div class="about-content">
+            <p>We don't just offer places to stay—we curate spaces where <span class="highlight">memories take root.</span></p>
+            <p>Each home in our collection carries its own character, designed with intention. From the color palettes to the coffee bar setup, every detail invites you to slow down, reconnect, and <span class="highlight">make it a moment.</span></p>
+            <p>Whether you're seeking solitude in Palm Springs or gathering your crew in Indio, you'll find thoughtful touches that transform a trip into an experience.</p>
+
+            <div class="brand-values">
+                <div class="brand-value">
+                    <h3>Curated Selection</h3>
+                    <p>Each property is handpicked and designed with intentional attention to detail and guest experience.</p>
+                </div>
+                <div class="brand-value">
+                    <h3>Authentic Design</h3>
+                    <p>From southwestern minimalism to bohemian warmth, every space tells its own story through thoughtful styling.</p>
+                </div>
+                <div class="brand-value">
+                    <h3>Elevated Experiences</h3>
+                    <p>Multi-sensory details that nurture and inspire—because the best memories come from intentional spaces.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Philosophy Section -->
+    <section id="philosophy" class="philosophy">
+        <h2 class="section-title">Our Design Philosophy</h2>
+        <p class="section-subtitle">Intentional spaces for meaningful stays</p>
+        <div class="philosophy-content">
+            <p>We believe every space should tell a story—through <strong>mood, character, and moments</strong> that linger long after you leave.</p>
+
+            <div class="philosophy-quote">
+                "Functionality with thoughtful grounding design details, and smart storage that guides, will not only promote keeping an organized environment, but also result in clear headspace and motivation."
+            </div>
+
+            <p>Each property is designed with care: multi-sensory experiences, intentional styling, and hospitality choices that nurture. From the coffee bar to the color palette, nothing is an accident.</p>
+
+            <p><strong>Make it a moment.</strong> That's our invitation to you.</p>
+        </div>
+    </section>
+
+    <!-- Video Section -->
+    <section class="video-section">
+        <h2>Experience The Desert Edit</h2>
+        <div class="video-container">
+            <iframe
+                src="https://www.youtube.com/embed/CSY2yD4Yxmg?rel=0&modestbranding=1"
+                title="The Desert Edit Video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contact">
+        <div class="footer-content">
+            <div class="logo">THE DESERT EDIT</div>
+            <p class="tagline">Intentional stays. Elevated experiences. The desert, edited.</p>
+            <p>&copy; 2026 The Desert Edit. Curated properties across Coachella Valley.</p>
+        </div>
+    </footer>
+</body>
+</html>

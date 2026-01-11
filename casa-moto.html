@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa Moto | Pet-Friendly Bohemian Retreat in Indio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --terracotta: #d2635b;
+            --sunset-pink: #E39B96;
+            --sage-light: #adbab7;
+            --cream: #F5F3EE;
+            --charcoal: #2C2C2C;
+            --font-serif: 'Cormorant Garamond', serif;
+            --font-sans: 'Work Sans', sans-serif;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            color: var(--charcoal);
+            line-height: 1.6;
+            background-color: var(--cream);
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 5%;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        nav .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav .logo {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--charcoal);
+            letter-spacing: 1px;
+            text-decoration: none;
+        }
+
+        nav .back-link {
+            text-decoration: none;
+            color: var(--charcoal);
+            font-weight: 400;
+            font-size: 0.95rem;
+            transition: color 0.3s;
+            letter-spacing: 0.5px;
+        }
+
+        nav .back-link:hover {
+            color: var(--terracotta);
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-top: 80px;
+            height: 70vh;
+            background: linear-gradient(rgba(210, 99, 91, 0.2), rgba(210, 99, 91, 0.2)),
+                        url('../Casa Moto/Existing Listing Pictures/IMG_1240.JPG');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: flex-end;
+            padding: 4rem 5%;
+        }
+
+        .hero-content {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 3rem;
+            max-width: 600px;
+            backdrop-filter: blur(10px);
+        }
+
+        .property-tag {
+            display: inline-block;
+            background: var(--terracotta);
+            color: white;
+            padding: 0.5rem 1.5rem;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+
+        .hero h1 {
+            font-family: var(--font-serif);
+            font-size: 3.5rem;
+            color: var(--terracotta);
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .hero .location {
+            color: var(--terracotta);
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .hero .tagline {
+            font-style: italic;
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            font-weight: 300;
+        }
+
+        /* Property Details */
+        .details-section {
+            padding: 6rem 5%;
+            background: white;
+        }
+
+        .details-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 4rem;
+        }
+
+        .details-main h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            color: var(--terracotta);
+            margin-bottom: 1.5rem;
+        }
+
+        .details-main p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+            color: var(--charcoal);
+        }
+
+        .amenities {
+            margin-top: 3rem;
+        }
+
+        .amenities h3 {
+            font-family: var(--font-serif);
+            font-size: 1.8rem;
+            color: var(--terracotta);
+            margin-bottom: 1rem;
+        }
+
+        .amenities-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .amenity-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1rem;
+        }
+
+        .amenity-item::before {
+            content: '✓';
+            color: var(--terracotta);
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        /* Sidebar */
+        .details-sidebar {
+            background: var(--cream);
+            padding: 2.5rem;
+            height: fit-content;
+            position: sticky;
+            top: 120px;
+        }
+
+        .details-sidebar h3 {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--terracotta);
+        }
+
+        .detail-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 1rem 0;
+            border-bottom: 1px solid rgba(44, 44, 44, 0.1);
+            font-size: 1rem;
+        }
+
+        .detail-item:last-child {
+            border-bottom: none;
+        }
+
+        .detail-label {
+            font-weight: 500;
+        }
+
+        .cta-button {
+            display: block;
+            width: 100%;
+            padding: 1.2rem;
+            background-color: var(--terracotta);
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            font-weight: 500;
+            letter-spacing: 1.5px;
+            transition: all 0.3s ease;
+            margin-top: 2rem;
+            font-size: 0.95rem;
+        }
+
+        .cta-button:hover {
+            background-color: #b8544a;
+            transform: translateY(-2px);
+        }
+
+        /* Color Palette */
+        .color-palette {
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(44, 44, 44, 0.1);
+        }
+
+        .color-palette h4 {
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 1rem;
+            color: var(--charcoal);
+        }
+
+        .color-dots {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .color-dot {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        /* Gallery Section */
+        .gallery-section {
+            padding: 6rem 5%;
+            background: var(--cream);
+        }
+
+        .gallery-section h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 3rem;
+            color: var(--terracotta);
+        }
+
+        .gallery-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .gallery-item {
+            height: 300px;
+            background-size: cover;
+            background-position: center;
+            transition: transform 0.3s ease;
+        }
+
+        .gallery-item:hover {
+            transform: scale(1.05);
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--charcoal);
+            color: white;
+            padding: 4rem 5%;
+            text-align: center;
+        }
+
+        footer .logo {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            letter-spacing: 1px;
+        }
+
+        footer p {
+            font-size: 0.9rem;
+            opacity: 0.7;
+            margin-top: 2rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .details-container {
+                grid-template-columns: 1fr;
+            }
+
+            .details-sidebar {
+                position: static;
+            }
+
+            .amenities-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .gallery-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <a href="the-desert-edit.html" class="logo">THE DESERT EDIT</a>
+            <a href="the-desert-edit.html" class="back-link">← Back to Collection</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="property-tag">PET-FRIENDLY</div>
+            <h1>Casa Moto</h1>
+            <p class="location">Indian Palms Country Club, California</p>
+            <p class="tagline">Gather. Unwind. Belong.</p>
+        </div>
+    </section>
+
+    <!-- Property Details -->
+    <section class="details-section">
+        <div class="details-container">
+            <div class="details-main">
+                <h2>Bohemian Warmth in a Gated Oasis</h2>
+                <p>Bohemian warmth in a gated oasis with a brand-new saltwater pool. Bring your four-legged friend, gather your favorite people, and sink into the kind of ease that only comes from truly welcoming spaces.</p>
+
+                <p>Casa Moto is where terracotta meets comfort, where pets are family, and where every gathering feels like coming home. The saltwater pool sparkles under the desert sun, inviting endless afternoon swims and sunset cocktails.</p>
+
+                <p>Perfect for groups who want to unwind together in a space that celebrates connection, warmth, and the laid-back luxury of Coachella Valley living.</p>
+
+                <div class="amenities">
+                    <h3>Amenities</h3>
+                    <div class="amenities-grid">
+                        <div class="amenity-item">Pet-Friendly</div>
+                        <div class="amenity-item">Brand-New Saltwater Pool</div>
+                        <div class="amenity-item">Gated Community</div>
+                        <div class="amenity-item">Bohemian Design</div>
+                        <div class="amenity-item">Spacious for Groups</div>
+                        <div class="amenity-item">Outdoor Entertaining</div>
+                        <div class="amenity-item">Warm Color Palette</div>
+                        <div class="amenity-item">Indian Palms Country Club Location</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="details-sidebar">
+                <h3>Property Details</h3>
+                <div class="detail-item">
+                    <span class="detail-label">Location</span>
+                    <span>Indian Palms Country Club</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Type</span>
+                    <span>Pet-Friendly</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Vibe</span>
+                    <span>Bohemian Warmth</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Pool</span>
+                    <span>Saltwater</span>
+                </div>
+
+                <a href="https://airbnb.com/h/casamoto" target="_blank" class="cta-button">CHECK AVAILABILITY</a>
+
+                <div class="color-palette">
+                    <h4>Color Palette</h4>
+                    <div class="color-dots">
+                        <div class="color-dot" style="background-color: #d2635b;"></div>
+                        <div class="color-dot" style="background-color: #E39B96;"></div>
+                        <div class="color-dot" style="background-color: #adbab7;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery-section">
+        <h2>Photo Gallery</h2>
+        <div class="gallery-grid">
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1240.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Whitagram-Image.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Whitagram-Image 2.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Whitagram-Image 3.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Whitagram-Image 4.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Whitagram-Image 5.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Whitagram-Image 6.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Whitagram-Image 7.JPG');"></div>
+            <!-- New Photos from Existing Listing Pictures -->
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1239.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1348.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1265.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1230.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1231.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1235.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1240.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1236.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1266.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1351.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1238.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1237.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1345.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1262.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1229.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1232.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1234.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1343.JPG');"></div>
+            <div class="gallery-item" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1347.JPG');"></div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="logo">THE DESERT EDIT</div>
+        <p>&copy; 2026 The Desert Edit. All properties designed with The Olive Jar.</p>
+    </footer>
+</body>
+</html>

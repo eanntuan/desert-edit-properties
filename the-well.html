@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Well | Wellness Retreat in Palm Springs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --sage: #738561;
+            --sage-light: #adbab7;
+            --terracotta: #EA8B54;
+            --dusty-blue: #6E90AD;
+            --cream: #F5F3EE;
+            --charcoal: #2C2C2C;
+            --font-serif: 'Cormorant Garamond', serif;
+            --font-sans: 'Work Sans', sans-serif;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            color: var(--charcoal);
+            line-height: 1.6;
+            background-color: var(--cream);
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 5%;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        nav .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav .logo {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--charcoal);
+            letter-spacing: 1px;
+            text-decoration: none;
+        }
+
+        nav .back-link {
+            text-decoration: none;
+            color: var(--charcoal);
+            font-weight: 400;
+            font-size: 0.95rem;
+            transition: color 0.3s;
+            letter-spacing: 0.5px;
+        }
+
+        nav .back-link:hover {
+            color: var(--sage);
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-top: 80px;
+            height: 70vh;
+            background: linear-gradient(rgba(115, 133, 97, 0.3), rgba(115, 133, 97, 0.3)),
+                        url('../The Well/1TW_4W6A0294.jpg');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: flex-end;
+            padding: 4rem 5%;
+        }
+
+        .hero-content {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 3rem;
+            max-width: 600px;
+            backdrop-filter: blur(10px);
+        }
+
+        .property-tag {
+            display: inline-block;
+            background: var(--sage-light);
+            color: white;
+            padding: 0.5rem 1.5rem;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+
+        .hero h1 {
+            font-family: var(--font-serif);
+            font-size: 3.5rem;
+            color: var(--sage);
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .hero .location {
+            color: var(--sage);
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .hero .tagline {
+            font-style: italic;
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            font-weight: 300;
+        }
+
+        /* Property Details */
+        .details-section {
+            padding: 6rem 5%;
+            background: white;
+        }
+
+        .details-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 4rem;
+        }
+
+        .details-main h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            color: var(--sage);
+            margin-bottom: 1.5rem;
+        }
+
+        .details-main p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+            color: var(--charcoal);
+        }
+
+        .amenities {
+            margin-top: 3rem;
+        }
+
+        .amenities h3 {
+            font-family: var(--font-serif);
+            font-size: 1.8rem;
+            color: var(--sage);
+            margin-bottom: 1rem;
+        }
+
+        .amenities-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .amenity-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1rem;
+        }
+
+        .amenity-item::before {
+            content: '✓';
+            color: var(--sage);
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        /* Sidebar */
+        .details-sidebar {
+            background: var(--cream);
+            padding: 2.5rem;
+            height: fit-content;
+            position: sticky;
+            top: 120px;
+        }
+
+        .details-sidebar h3 {
+            font-family: var(--font-serif);
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--sage);
+        }
+
+        .detail-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 1rem 0;
+            border-bottom: 1px solid rgba(44, 44, 44, 0.1);
+            font-size: 1rem;
+        }
+
+        .detail-item:last-child {
+            border-bottom: none;
+        }
+
+        .detail-label {
+            font-weight: 500;
+        }
+
+        .cta-button {
+            display: block;
+            width: 100%;
+            padding: 1.2rem;
+            background-color: var(--sage);
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            font-weight: 500;
+            letter-spacing: 1.5px;
+            transition: all 0.3s ease;
+            margin-top: 2rem;
+            font-size: 0.95rem;
+        }
+
+        .cta-button:hover {
+            background-color: var(--sage-light);
+            transform: translateY(-2px);
+        }
+
+        /* Color Palette */
+        .color-palette {
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(44, 44, 44, 0.1);
+        }
+
+        .color-palette h4 {
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 1rem;
+            color: var(--charcoal);
+        }
+
+        .color-dots {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .color-dot {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        /* Gallery Section */
+        .gallery-section {
+            padding: 6rem 5%;
+            background: var(--cream);
+        }
+
+        .gallery-section h2 {
+            font-family: var(--font-serif);
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 3rem;
+            color: var(--sage);
+        }
+
+        .gallery-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .gallery-item {
+            height: 300px;
+            background-size: cover;
+            background-position: center;
+            transition: transform 0.3s ease;
+        }
+
+        .gallery-item:hover {
+            transform: scale(1.05);
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--charcoal);
+            color: white;
+            padding: 4rem 5%;
+            text-align: center;
+        }
+
+        footer .logo {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            letter-spacing: 1px;
+        }
+
+        footer p {
+            font-size: 0.9rem;
+            opacity: 0.7;
+            margin-top: 2rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .details-container {
+                grid-template-columns: 1fr;
+            }
+
+            .details-sidebar {
+                position: static;
+            }
+
+            .amenities-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .gallery-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <a href="the-desert-edit.html" class="logo">THE DESERT EDIT</a>
+            <a href="the-desert-edit.html" class="back-link">← Back to Collection</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="property-tag">WELLNESS RETREAT</div>
+            <h1>The Well</h1>
+            <p class="location">Palm Springs, California</p>
+            <p class="tagline">Relax. Recharge. Reconnect.</p>
+        </div>
+    </section>
+
+    <!-- Property Details -->
+    <section class="details-section">
+        <div class="details-container">
+            <div class="details-main">
+                <h2>A Wellness-Focused Retreat</h2>
+                <p>A wellness-focused retreat where southwestern minimalism meets mid-century calm. Sage greens, terracotta warmth, and smart storage that clears the mind as much as the space.</p>
+
+                <p>Perfect for solo travelers and remote workers seeking grounded motivation. Every detail has been thoughtfully designed to promote clear headspace and intentional living.</p>
+
+                <p>From the curated wellness amenities to the calming color palette, The Well invites you to slow down, breathe deeply, and reconnect with yourself in the heart of Palm Springs.</p>
+
+                <div class="amenities">
+                    <h3>Amenities</h3>
+                    <div class="amenities-grid">
+                        <div class="amenity-item">1 Bedroom</div>
+                        <div class="amenity-item">Smart Storage</div>
+                        <div class="amenity-item">Wellness-Focused Design</div>
+                        <div class="amenity-item">Remote Work Setup</div>
+                        <div class="amenity-item">Mid-Century Details</div>
+                        <div class="amenity-item">Southwestern Style</div>
+                        <div class="amenity-item">Calming Color Palette</div>
+                        <div class="amenity-item">Outdoor Space</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="details-sidebar">
+                <h3>Property Details</h3>
+                <div class="detail-item">
+                    <span class="detail-label">Bedrooms</span>
+                    <span>1</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Location</span>
+                    <span>Palm Springs</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Type</span>
+                    <span>Wellness Retreat</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Vibe</span>
+                    <span>Minimalist Calm</span>
+                </div>
+
+                <a href="https://airbnb.com/h/thewellatps" target="_blank" class="cta-button">CHECK AVAILABILITY</a>
+
+                <div class="color-palette">
+                    <h4>Color Palette</h4>
+                    <div class="color-dots">
+                        <div class="color-dot" style="background-color: #738561;"></div>
+                        <div class="color-dot" style="background-color: #adbab7;"></div>
+                        <div class="color-dot" style="background-color: #EA8B54;"></div>
+                        <div class="color-dot" style="background-color: #6E90AD;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery-section">
+        <h2>Photo Gallery</h2>
+        <div class="gallery-grid">
+            <div class="gallery-item" style="background-image: url('../The Well/1TW_4W6A0294.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/1TW_4W6A0294sage.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/2TW_DZ5A0912.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/2TW_DZ5A0912cropped.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/3TW_DZ5A0901.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/4TW_DZ5A0923.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/5TW_DZ5A0895.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/6TW_4W6A0299.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/7TW_DZ5A0884.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/8TW_DZ5A0864.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/9TW_DZ5A0868.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/9TW_DZ5A0868keurig.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/10TW_4W6A0304.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/11TW_DZ5A0876.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/11TW_DZ5A0876center.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/11TW_DZ5A0876left.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/11TW_DZ5A0876right.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/12TW_DZ5A0810.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/12TW_DZ5A0810sconce.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/13TW_DZ5A0820.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/13TW_DZ5A0828.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/13TW_DZ5A0828new.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/15TW_DZ5A0853.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/16TW_4W6A0319.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/17TW_DZ5A0843.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/18TW_DZ5A0839.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/19TW_DZ5A0774.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/20TW_DZ5A0787.jpg');"></div>
+            <div class="gallery-item" style="background-image: url('../The Well/21TW_DZ5A0779.jpg');"></div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="logo">THE DESERT EDIT</div>
+        <p>&copy; 2026 The Desert Edit. All properties designed with The Olive Jar.</p>
+    </footer>
+</body>
+</html>
