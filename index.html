@@ -1620,11 +1620,15 @@
     <div class="booking-widget-overlay" id="bookingWidget">
         <div class="booking-widget-modal">
             <button class="booking-widget-close" id="closeBookingWidget">&times;</button>
-            <h2>Book Your Stay</h2>
-            <p class="booking-widget-subtitle">Search availability and book directly</p>
+
+            <!-- Sage Green Header -->
+            <div style="background-color: #738561; margin: -3rem -3rem 2rem -3rem; padding: 2.5rem 3rem; text-align: center;">
+                <h2 style="color: white; margin-bottom: 0.5rem;">Book Your Stay</h2>
+                <p class="booking-widget-subtitle" style="color: rgba(255,255,255,0.95); margin-bottom: 0;">Search availability and book directly</p>
+            </div>
 
             <!-- Hostaway Search Bar Widget -->
-            <div style="padding: 2rem 0;">
+            <div style="padding: 0 0 2rem 0;">
                 <div id="hostaway-booking-widget"></div>
             </div>
 
@@ -1917,7 +1921,7 @@
         // Initialize Hostaway search bar widget
         window.searchBar({
             baseUrl: 'https://luxuryvacations.holidayfuture.com/',
-            showLocation: true,
+            showLocation: false,
             color: '#d2635b', // Your terracotta brand color
             rounded: true,
             openInNewTab: true,
