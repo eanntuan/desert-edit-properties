@@ -1620,56 +1620,29 @@
     <div class="booking-widget-overlay" id="bookingWidget">
         <div class="booking-widget-modal">
             <button class="booking-widget-close" id="closeBookingWidget">&times;</button>
-            <h2>Select Your Property</h2>
-            <p class="booking-widget-subtitle">Choose your perfect desert escape</p>
+            <h2>Book Your Stay</h2>
+            <p class="booking-widget-subtitle">Search availability and book directly</p>
 
-            <div class="booking-properties-grid">
-                <!-- The Cozy Cactus -->
-                <div class="booking-property-card" data-property="cozy-cactus" data-pms="hostaway">
-                    <div class="booking-property-image" style="background-image: url('email-images/cozy-cactus.jpg');"></div>
-                    <div class="booking-property-info">
-                        <h3>The Cozy Cactus</h3>
-                        <p class="location">Indio, CA</p>
-                        <p class="description">Family Adventure • 3 Bedrooms</p>
-                        <span class="booking-tag cozy-cactus-tag">Book Now</span>
-                    </div>
-                </div>
-
-                <!-- Casa Moto -->
-                <div class="booking-property-card" data-property="casa-moto" data-pms="hostaway">
-                    <div class="booking-property-image" style="background-image: url('../Casa Moto/Existing Listing Pictures/IMG_1240.JPG');"></div>
-                    <div class="booking-property-info">
-                        <h3>Casa Moto</h3>
-                        <p class="location">Palm Desert, CA</p>
-                        <p class="description">Pet-Friendly • 3 Bedrooms</p>
-                        <span class="booking-tag casa-moto-tag">Book Now</span>
-                    </div>
-                </div>
-
-                <!-- PS Retreat -->
-                <div class="booking-property-card" data-property="ps-retreat" data-pms="hospitable">
-                    <div class="booking-property-image" style="background-image: url('../PS Retreat/IMG_3334.JPG');"></div>
-                    <div class="booking-property-info">
-                        <h3>PS Retreat</h3>
-                        <p class="location">Palm Springs, CA</p>
-                        <p class="description">Mid-Century Modern • 2 Bedrooms</p>
-                        <span class="booking-tag ps-retreat-tag">Book Now</span>
-                    </div>
-                </div>
-
-                <!-- The Well -->
-                <div class="booking-property-card" data-property="the-well" data-pms="email">
-                    <div class="booking-property-image" style="background-image: url('email-images/the-well.jpg');"></div>
-                    <div class="booking-property-info">
-                        <h3>The Well</h3>
-                        <p class="location">Palm Springs, CA</p>
-                        <p class="description">Wellness Retreat • 1 Bedroom</p>
-                        <span class="booking-tag the-well-tag">Contact Us</span>
-                    </div>
-                </div>
+            <!-- Hostaway Search Bar Widget -->
+            <div style="padding: 2rem 0;">
+                <div id="hostaway-booking-widget"></div>
             </div>
 
-            <p class="booking-widget-note">Use code <strong>DIRECT10</strong> for 10% off your direct booking</p>
+            <p class="booking-widget-note" style="margin-top: 2rem;">Use code <strong>DIRECT10</strong> for 10% off your direct booking</p>
+
+            <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--cream);">
+                <p style="text-align: center; color: #777; font-size: 0.95rem; margin-bottom: 1rem;">Also available:</p>
+                <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                    <a href="mailto:thecozycactusindio@gmail.com?subject=Booking Inquiry: PS Retreat&body=Hi! I would like to book PS Retreat. Please send me availability and rates." style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: var(--dusty-blue); color: white; text-decoration: none; border-radius: 4px; font-weight: 600; font-size: 0.9rem;">
+                        <span>PS Retreat</span>
+                        <span style="font-size: 0.8rem; opacity: 0.9;">(Contact Us)</span>
+                    </a>
+                    <a href="mailto:thecozycactusindio@gmail.com?subject=Booking Inquiry: The Well&body=Hi! I would like to book The Well. Please send me availability and rates." style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: var(--sage); color: white; text-decoration: none; border-radius: 4px; font-weight: 600; font-size: 0.9rem;">
+                        <span>The Well</span>
+                        <span style="font-size: 0.8rem; opacity: 0.9;">(Contact Us)</span>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -1938,32 +1911,25 @@
         });
     </script>
 
+    <!-- Hostaway Search Bar Widget Script -->
+    <script src="https://d2q3n06xhbi0am.cloudfront.net/widget.js"></script>
     <script>
-        // Booking Widget Logic
+        // Initialize Hostaway search bar widget
+        window.searchBar({
+            baseUrl: 'https://luxuryvacations.holidayfuture.com/',
+            showLocation: true,
+            color: '#d2635b', // Your terracotta brand color
+            rounded: true,
+            openInNewTab: true,
+            font: 'Work Sans',
+        });
+    </script>
+
+    <script>
+        // Booking Widget Modal Logic
         const bookingWidget = document.getElementById('bookingWidget');
         const openBookingWidgetBtn = document.getElementById('openBookingWidget');
         const closeBookingWidgetBtn = document.getElementById('closeBookingWidget');
-        const bookingPropertyCards = document.querySelectorAll('.booking-property-card');
-
-        // PMS Booking URLs
-        const bookingURLs = {
-            'cozy-cactus': {
-                pms: 'hostaway',
-                url: 'https://luxuryvacations.holidayfuture.com/listing/123646'
-            },
-            'casa-moto': {
-                pms: 'hostaway',
-                url: 'https://luxuryvacations.holidayfuture.com/listing/123633'
-            },
-            'ps-retreat': {
-                pms: 'email',
-                url: 'mailto:thecozycactusindio@gmail.com?subject=Booking Inquiry: PS Retreat&body=Hi! I would like to book PS Retreat. Please send me availability and rates.'
-            },
-            'the-well': {
-                pms: 'email',
-                url: 'mailto:thecozycactusindio@gmail.com?subject=Booking Inquiry: The Well&body=Hi! I would like to book The Well. Please send me availability and rates.'
-            }
-        };
 
         // Open booking widget
         openBookingWidgetBtn.addEventListener('click', () => {
@@ -1980,25 +1946,6 @@
             if (e.target === bookingWidget) {
                 bookingWidget.classList.remove('active');
             }
-        });
-
-        // Handle property card clicks
-        bookingPropertyCards.forEach(card => {
-            card.addEventListener('click', () => {
-                const propertySlug = card.getAttribute('data-property');
-                const bookingInfo = bookingURLs[propertySlug];
-
-                if (bookingInfo) {
-                    // Route to appropriate booking system
-                    if (bookingInfo.pms === 'email') {
-                        // Open email client
-                        window.location.href = bookingInfo.url;
-                    } else {
-                        // Open booking URL in new tab
-                        window.open(bookingInfo.url, '_blank');
-                    }
-                }
-            });
         });
     </script>
 
