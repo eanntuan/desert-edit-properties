@@ -2,7 +2,16 @@
   "name": "desert-edit-deploy",
   "version": "1.0.0",
   "description": "The Desert Edit - Direct Booking Website",
+  "type": "module",
+  "scripts": {
+    "migrate": "node migrate-data-node.js",
+    "migrate-expenses": "node migrate-expenses-2025.js"
+  },
   "dependencies": {
+    "exceljs": "^4.4.0",
+    "firebase": "^10.7.1",
+    "firebase-admin": "^12.0.0",
+    "intuit-oauth": "^4.0.1",
     "node-fetch": "^2.6.7"
   }
 }

@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cozy Cactus Dashboard 🌵 | The Desert Edit</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="dashboard-styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+    <!-- Navigation Tabs -->
+    <div class="dashboard-container">
+        <div class="nav-tabs" style="display: flex; gap: 1rem; margin-bottom: 2rem; border-bottom: 2px solid #e0e0e0;">
+            <a href="dashboard.html" class="active" style="padding: 1rem 2rem; text-decoration: none; color: #738561; font-weight: 500; border-bottom: 3px solid #738561;">📊 Dashboard</a>
+            <a href="reviews.html" style="padding: 1rem 2rem; text-decoration: none; color: #666; font-weight: 500; border-bottom: 3px solid transparent;">⭐ Reviews</a>
+            <a href="#settings" onclick="showSettings(); return false;" style="padding: 1rem 2rem; text-decoration: none; color: #666; font-weight: 500; border-bottom: 3px solid transparent;">⚙️ Settings</a>
+        </div>
+    </div>
+
+    <!-- Hero Section with Property Carousel -->
+    <div class="hero-section">
+        <div class="hero-slide active" style="background-image: linear-gradient(rgba(115, 133, 97, 0.4), rgba(115, 133, 97, 0.6)), url('Cozy%20Cactus/82381%20Cochran%20Drive%20For%20Web/1TW_DZ5A8774web.jpg');">
+            <div class="hero-content">
+                <h1>Cozy Cactus Dashboard 🌵</h1>
+                <p class="hero-tagline">Building wealth, one stay at a time</p>
+            </div>
+        </div>
+
+        <div class="hero-nav">
+            <button class="hero-nav-btn prev" onclick="prevSlide()">‹</button>
+            <button class="hero-nav-btn next" onclick="nextSlide()">›</button>
+        </div>
+    </div>
+
+    <div class="dashboard-container">
+
+        <!-- Quick Answer Cards - Big & Bold -->
+        <section class="quick-answers">
+            <h2 class="section-title">Your Financial Snapshot</h2>
+            <div class="answers-grid">
+                <div class="answer-card monthly-income">
+                    <div class="card-icon">💰</div>
+                    <h3>Made This Month</h3>
+                    <p class="big-number" id="monthly-income">$0</p>
+                    <span class="context" id="monthly-income-context">Loading...</span>
+                </div>
+
+                <div class="answer-card monthly-expenses">
+                    <div class="card-icon">💸</div>
+                    <h3>Spent This Month</h3>
+                    <p class="big-number" id="monthly-expenses">$0</p>
+                    <span class="context" id="monthly-expenses-context">Loading...</span>
+                </div>
+
+                <div class="answer-card ytd-income">
+                    <div class="card-icon">📈</div>
+                    <h3>YTD Income</h3>
+                    <p class="big-number" id="ytd-income">$0</p>
+                    <span class="context">January - December</span>
+                </div>
+
+                <div class="answer-card ytd-expenses">
+                    <div class="card-icon">📊</div>
+                    <h3>YTD Expenses</h3>
+                    <p class="big-number" id="ytd-expenses">$0</p>
+                    <span class="context" id="ytd-expenses-context">Loading...</span>
+                </div>
+
+                <div class="answer-card utilities">
+                    <div class="card-icon">💡</div>
+                    <h3>Monthly Utilities</h3>
+                    <p class="big-number" id="utilities-avg">$0</p>
+                    <span class="context">Electric, water, gas, internet</span>
+                </div>
+
+                <div class="answer-card one-time">
+                    <div class="card-icon">🔧</div>
+                    <h3>Extra Costs</h3>
+                    <p class="big-number" id="one-time-costs">$0</p>
+                    <span class="context" id="one-time-context">Special repairs & upgrades</span>
+                </div>
+
+                <div class="answer-card roi">
+                    <div class="card-icon">🎯</div>
+                    <h3>Rate of Return</h3>
+                    <p class="big-number" id="roi-percent">0%</p>
+                    <span class="context">Annual ROI</span>
+                </div>
+
+                <div class="answer-card mortgage">
+                    <div class="card-icon">🏠</div>
+                    <h3>Mortgage Balance</h3>
+                    <p class="big-number" id="mortgage-balance">$0</p>
+                    <span class="context">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="mortgage-progress" style="width: 0%"></div>
+                        </div>
+                        <span id="mortgage-percent">0% paid off</span>
+                    </span>
+                </div>
+                <div class="answer-card avg-gross">
+                    <div class="card-icon">💵</div>
+                    <h3>Avg Gross/Month</h3>
+                    <p class="big-number" id="avg-gross-month">$0</p>
+                    <span class="context">2025 average</span>
+                </div>
+
+                <div class="answer-card occupancy">
+                    <div class="card-icon">📅</div>
+                    <h3>Occupancy Rate</h3>
+                    <p class="big-number" id="occupancy-rate">0%</p>
+                    <span class="context">YTD booking rate</span>
+                </div>
+
+                <div class="answer-card adr">
+                    <div class="card-icon">🌙</div>
+                    <h3>Average Daily Rate</h3>
+                    <p class="big-number" id="adr">$0</p>
+                    <span class="context">Per night average</span>
+                </div>
+            </div>
+        </section>
+
+                <!-- Year-over-Year Comparison -->
+        <section class="yoy-section">
+            <h2 class="section-title">Year-over-Year Performance</h2>
+            <p class="section-subtitle">Cozy Cactus revenue trends (all sources)</p>
+            <div class="yoy-grid">
+                <div class="yoy-card year-2023">
+                    <div class="yoy-year">2023</div>
+                    <div class="yoy-amount" id="yoy-2023">$0</div>
+                    <div class="yoy-change" id="yoy-2023-change"></div>
+                </div>
+
+                <div class="yoy-card year-2024">
+                    <div class="yoy-year">2024</div>
+                    <div class="yoy-amount" id="yoy-2024">$0</div>
+                    <div class="yoy-change" id="yoy-2024-change"></div>
+                </div>
+
+                <div class="yoy-card year-2025">
+                    <div class="yoy-year">2025</div>
+                    <div class="yoy-amount" id="yoy-2025">$0</div>
+                    <div class="yoy-change" id="yoy-2025-change"></div>
+                </div>
+            </div>
+        </section>
+
+
+                <!-- Property Focus - Cozy Cactus Only -->
+        <section class="property-selector">
+            <h2 class="section-title">Property Dashboard</h2>
+            <p class="section-subtitle">Currently showing: Cozy Cactus</p>
+            <div class="property-cards">
+                <div class="property-card active" data-property="cochran">
+                    <div class="property-photo" style="background-image: url('Cozy%20Cactus/82381%20Cochran%20Drive%20For%20Web/1TW_DZ5A8774web.jpg')"></div>
+                    <div class="property-info">
+                        <h3>Cozy Cactus</h3>
+                        <p class="property-address">82381 Cochran Drive, Indio CA</p>
+                        <p class="property-stat" id="cochran-revenue">$0/month</p>
+                        <span class="property-color" style="background-color: #00877b"></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- Summary Cards with Progress Bars -->
+        <section class="summary-section">
+            <div class="summary-grid">
+                <div class="summary-card revenue-progress">
+                    <h3>Revenue Goal</h3>
+                    <p class="amount" id="revenue-goal">$15,000</p>
+                    <div class="progress-bar large">
+                        <div class="progress-fill" id="revenue-goal-progress" style="width: 0%; background: linear-gradient(90deg, #738561, #9ca77e);"></div>
+                    </div>
+                    <span class="progress-label" id="revenue-goal-label">$0 / $15,000</span>
+                </div>
+
+                <div class="summary-card expense-budget">
+                    <h3>Expense Budget</h3>
+                    <p class="amount">$8,000</p>
+                    <div class="progress-bar large">
+                        <div class="progress-fill" id="expense-budget-progress" style="width: 0%;"></div>
+        <!-- Expense Breakdown by Category -->
+        <section class="expense-breakdown-section">
+            <h2 class="section-title">Expense Breakdown</h2>
+            <p class="section-subtitle">YTD expenses by category</p>
+            <div class="chart-card large">
+                <canvas id="expense-bar-chart"></canvas>
+            </div>
+        </section>
+
+                    </div>
+                    <span class="progress-label" id="expense-budget-label">$0 / $8,000</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Charts -->
+        <section class="charts-section">
+            <div class="charts-grid">
+                <div class="chart-card">
+                    <h3>Revenue Trend</h3>
+                    <canvas id="revenue-chart"></canvas>
+                </div>
+
+                <div class="chart-card">
+                    <h3>Expense Breakdown</h3>
+                    <canvas id="expense-chart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Month-by-Month Comparison -->
+        <section class="monthly-comparison-section">
+            <h2 class="section-title">Monthly Performance Comparison</h2>
+            <p class="section-subtitle">Compare revenue by month across 2023, 2024, and 2025</p>
+            <div class="chart-card large">
+                <canvas id="monthly-comparison-chart"></canvas>
+            </div>
+        </section>
+
+        <!-- Upload Section -->
+        <section class="upload-section">
+            <h2 class="section-title">Import Your Data 📤</h2>
+            <p class="section-subtitle">Upload your Airbnb and bank data to populate the dashboard</p>
+
+            <div class="upload-grid">
+                <div class="upload-card">
+                    <div class="upload-icon">🏠</div>
+                    <h3>Airbnb Data</h3>
+                    <p>Upload payment_processing.json from your Airbnb data export</p>
+                    <input type="file" id="airbnb-upload" accept=".json" style="display: none;">
+                    <button class="upload-btn" onclick="document.getElementById('airbnb-upload').click()">
+                        Choose File
+                    </button>
+                    <div id="airbnb-status" class="upload-status"></div>
+                </div>
+
+                <div class="upload-card">
+                    <div class="upload-icon">🏦</div>
+                    <h3>Bank Statement</h3>
+                    <p>Upload CSV from your bank (Relay, FPCU, etc.)</p>
+                    <input type="file" id="bank-upload" accept=".csv" style="display: none;">
+                    <button class="upload-btn" onclick="document.getElementById('bank-upload').click()">
+                        Choose File
+                    </button>
+                    <div id="bank-status" class="upload-status"></div>
+                </div>
+
+                <div class="upload-card">
+                    <div class="upload-icon">📊</div>
+                    <h3>Excel Expenses</h3>
+                    <p>Upload your Indio.xlsx spreadsheet</p>
+                    <input type="file" id="excel-upload" accept=".xlsx" style="display: none;">
+                    <button class="upload-btn" onclick="document.getElementById('excel-upload').click()">
+                        Choose File
+                    </button>
+                    <div id="excel-status" class="upload-status"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Settings Section (Hidden by default) -->
+        <section id="settings-section" class="settings-section" style="display: none;">
+            <h2 class="section-title">⚙️ Settings</h2>
+
+            <!-- QuickBooks Integration -->
+            <div class="settings-card">
+                <div class="settings-header">
+                    <h3>📚 QuickBooks Online Integration</h3>
+                    <span id="qb-status-badge" class="status-badge disconnected">Not Connected</span>
+                </div>
+
+                <div class="settings-content">
+                    <p class="settings-description">
+                        Connect your QuickBooks Online account to automatically sync expenses, revenue, and bank balances.
+                        All financial data will sync automatically - no more manual CSV uploads!
+                    </p>
+
+                    <div id="qb-connected-info" style="display: none;">
+                        <div class="info-row">
+                            <span class="info-label">Company:</span>
+                            <span id="qb-company-name">-</span>
+                        </div>
+                        <div class="info-row">
+                            <span class="info-label">Last Synced:</span>
+                            <span id="qb-last-sync">Never</span>
+                        </div>
+                        <div class="info-row">
+                            <span class="info-label">Last Sync Results:</span>
+                            <div id="qb-sync-results" style="margin-top: 0.5rem;">-</div>
+                        </div>
+                    </div>
+
+                    <div class="settings-actions">
+                        <button id="qb-connect-btn" class="btn-primary" onclick="connectQuickBooks()">
+                            Connect QuickBooks
+                        </button>
+                        <button id="qb-sync-btn" class="btn-secondary" onclick="syncQuickBooks()" style="display: none;">
+                            Sync Now
+                        </button>
+                        <button id="qb-disconnect-btn" class="btn-danger" onclick="disconnectQuickBooks()" style="display: none;">
+                            Disconnect
+                        </button>
+                    </div>
+
+                    <div id="qb-sync-progress" class="sync-progress" style="display: none;">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="qb-progress-fill"></div>
+                        </div>
+                        <p class="progress-text" id="qb-progress-text">Syncing...</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Data Management -->
+            <div class="settings-card">
+                <div class="settings-header">
+                    <h3>🗄️ Data Management</h3>
+                </div>
+
+                <div class="settings-content">
+                    <p class="settings-description">
+                        Manage your dashboard data, clear old records, or export for backup.
+                    </p>
+
+                    <div class="settings-actions">
+                        <button class="btn-secondary" onclick="exportDashboardData()">
+                            Export All Data (JSON)
+                        </button>
+                        <button class="btn-danger" onclick="clearOldData()">
+                            Clear Data Older Than 3 Years
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quick Stats -->
+        <section class="quick-stats">
+            <div class="stat-card">
+                <span class="stat-icon">📅</span>
+                <div class="stat-info">
+                    <h4>Last Updated</h4>
+                    <p id="last-updated">Never</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-icon">📦</span>
+                <div class="stat-info">
+                    <h4>Total Records</h4>
+                    <p id="total-records">0</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-icon">🎉</span>
+                <div class="stat-info">
+                    <h4>Net Profit</h4>
+                    <p id="net-profit">$0</p>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay" style="display: none;">
+        <div class="loading-content">
+            <div class="loader"></div>
+            <p>Loading your empire...</p>
+        </div>
+    </div>
+
+    <script type="module" src="dashboard-script.js"></script>
+</body>
+</html>
