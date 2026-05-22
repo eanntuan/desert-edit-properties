@@ -1,5 +1,5 @@
 ---
-title: "Stagecoach 2026: Where to Stay Near Indio"
+title: "Stagecoach 2026: Best Places to Stay Near Indio, CA"
 date: 2026-02-08
 metaDescription: "Stagecoach 2026 (April 25-27, Indio) with Post Malone headlining. Honest guide to where to stay, how far is too far, and what to know about the drive home."
 ogImage: /blog/images/cozy-cactus-aerial.webp

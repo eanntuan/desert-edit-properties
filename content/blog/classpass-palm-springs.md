@@ -1,5 +1,5 @@
 ---
-title: "ClassPass in Palm Springs: What to Expect"
+title: "ClassPass in Palm Springs: Studios, Options, What to Expect"
 date: 2026-03-28
 dateModified: 2026-05-03
 metaDescription: "ClassPass in Palm Springs: thinner studio selection than a big city, but still useful. What's available, which cities have more options, and how to book."

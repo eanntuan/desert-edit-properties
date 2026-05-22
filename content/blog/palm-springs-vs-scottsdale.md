@@ -2,7 +2,7 @@
 title: "Palm Springs vs Scottsdale: Cost, Vibe, and Who Wins"
 date: 2026-03-16
 dateModified: 2026-05-11
-metaDescription: "Palm Springs vs Scottsdale: Palm Springs is smaller and walkable, Scottsdale is larger and resort-focused. Here's the cost breakdown and which fits your trip."
+metaDescription: "Palm Springs vs Scottsdale: smaller and walkable vs larger and resort-focused. Here's the honest cost breakdown and which destination fits your trip."
 ogImage: /blog/images/scottsdale-resort-pool.webp
 heroImage: /blog/images/scottsdale-resort-pool.webp
 heroAlt: "luxury resort pool in Scottsdale Arizona desert vacation"
@@ -152,7 +152,7 @@ layout: blog-post.njk
       "name": "How far is Palm Springs from Scottsdale?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Palm Springs and Scottsdale are about 280 miles apart, roughly 4 hours by car through the desert on I-10. They're on opposite sides of the Colorado River — Palm Springs in California's Coachella Valley, Scottsdale in the Phoenix metro area."
+        "text": "Palm Springs and Scottsdale are about 280 miles apart, roughly 4 hours by car through the desert on I-10. They're on opposite sides of the Colorado River: Palm Springs in California's Coachella Valley, Scottsdale in the Phoenix metro area."
       }
     },
     {
@@ -160,7 +160,7 @@ layout: blog-post.njk
       "name": "Which is better for bachelorette parties, Palm Springs or Scottsdale?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Scottsdale's Old Town has more concentrated bar and club infrastructure for a crawl-based bachelorette. Palm Springs bachelorettes tend to be more poolside and dinner-focused — house rental, private pool, nicer restaurants. Both work depending on the group's style."
+        "text": "Scottsdale's Old Town has more concentrated bar and club infrastructure for a crawl-based bachelorette. Palm Springs bachelorettes tend to be more poolside and dinner-focused: house rental, private pool, nicer restaurants. Both work depending on the group's style."
       }
     },
     {

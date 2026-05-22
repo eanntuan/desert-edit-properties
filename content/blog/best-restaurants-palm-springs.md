@@ -2,7 +2,7 @@
 title: "Best Restaurants in Palm Springs: 15 Local Picks (2026)"
 date: 2026-02-17
 dateModified: 2026-05-06
-metaDescription: "The 15 best restaurants in Palm Springs for 2026 — from the famous bacon flight at Cheeky's to the Cary Grant estate patio at Copley's. Addresses and hours included."
+metaDescription: "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included."
 ogImage: /blog/images/tropicale-palm-springs.webp
 heroImage: /blog/images/tropicale-palm-springs.webp
 heroPosition: bottom
@@ -23,7 +23,7 @@ keywords:
 articleSection: "Local Guide"
 property: ps-retreat
 readTime: "10 min read"
-excerpt: "15 Palm Springs restaurants worth your time in 2026 — with addresses, hours, and what to order. From a Michelin-recommended industrial dining room to a Rat Pack-era supper club."
+excerpt: "15 Palm Springs restaurants worth your time in 2026, with addresses, hours, and what to order. From a Michelin-recommended industrial dining room to a Rat Pack-era supper club."
 layout: blog-post.njk
 ---
 
@@ -32,7 +32,7 @@ layout: blog-post.njk
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "Best Restaurants in Palm Springs: 15 Local Picks (2026)",
-  "description": "The 15 best restaurants in Palm Springs for 2026 — from the famous bacon flight at Cheeky's to the Cary Grant estate patio at Copley's. Addresses and hours included.",
+  "description": "The 15 best restaurants in Palm Springs for 2026: from the famous bacon flight at Cheeky's to the Cary Grant estate patio at Copley's. Addresses and hours included.",
   "image": "https://indigopalm.co/blog/images/tropicale-palm-springs.webp",
   "datePublished": "2026-04-09",
   "dateModified": "2026-05-06",
@@ -75,7 +75,7 @@ layout: blog-post.njk
 
 <p>You're sitting outside at 8pm. The temperature is finally dropping below 90, and the San Jacinto Mountains are turning dark purple behind whoever is across the table from you. That two-hour window, after the heat breaks and before the night fully sets, is when Palm Springs dining makes the most sense. Everything tastes better outside in the desert when the air finally cooperates.</p>
 
-<p>These are the 15 places I keep coming back to, organized by neighborhood and meal. I've included addresses and rough hours for each one because nothing kills a vacation mood like driving somewhere that's closed. Verify hours before you go — Palm Springs restaurants shift seasonally, and some reduce days during summer.</p>
+<p>These are the 15 places I keep coming back to, organized by neighborhood and meal. I've included addresses and rough hours for each one because nothing kills a vacation mood like driving somewhere that's closed. Verify hours before you go. Palm Springs restaurants shift seasonally, and some reduce days during summer.</p>
 
 <img src="/blog/images/tropicale-palm-springs.webp" alt="Tropicale Dining and Lounge exterior in Palm Springs with pink stucco walls, palm trees, and San Jacinto Mountains in background" width="1400" height="1050" loading="lazy">
 <p class="image-caption">Tropicale on East Amado Road. One of the more recognizable exteriors in the city.</p>

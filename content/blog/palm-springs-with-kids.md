@@ -1,5 +1,5 @@
 ---
-title: "Palm Springs with Kids: The Complete Guide"
+title: "Palm Springs with Kids: Complete Guide to a Family Trip"
 date: 2026-03-10
 metaDescription: "Palm Springs with kids is more doable than most people expect. Here's what actually works: activities, food, and a walkable home base at The Sundune."
 ogImage: /blog/images/palm-springs-kids-vacation.webp

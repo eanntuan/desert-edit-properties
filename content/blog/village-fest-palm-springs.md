@@ -1,5 +1,5 @@
 ---
-title: "Village Fest Palm Springs: What to Expect on a Thursday Night"
+title: "Village Fest Palm Springs: What to Expect on Thursdays"
 date: 2026-04-21
 dateModified: 2026-05-03
 metaDescription: "Village Fest is Palm Springs' weekly Thursday night street fair on Palm Canyon Drive. What to eat, what to buy, and when to arrive for the best experience."

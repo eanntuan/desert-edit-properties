@@ -1,5 +1,5 @@
 ---
-title: "Inside The Cozy Cactus: Built for Families"
+title: "Inside The Cozy Cactus: A Vacation Home Built for Families"
 date: 2025-12-07
 metaDescription: "From labeled drawers to Stokke high chairs, here is what makes The Cozy Cactus a family Airbnb in Indio where parents rest, not just survive."
 ogImage: /blog/images/cozy-cactus-exterior.webp

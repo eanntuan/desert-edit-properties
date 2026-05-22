@@ -1,5 +1,5 @@
 ---
-title: "Palm Springs Bachelorette Party: Real Guide"
+title: "Palm Springs Bachelorette Party: The Real Planning Guide"
 date: 2026-01-15
 metaDescription: "Desert bachelorette in Palm Springs: pools, restaurants, spas, 2 hours from LA. The honest guide to what to book, skip, and plan for your crew."
 ogImage: /blog/images/ps-palm-springs-sign.webp

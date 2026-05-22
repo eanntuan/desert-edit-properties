@@ -1,5 +1,5 @@
 ---
-title: "Outdoor Furniture That Survives Desert Heat"
+title: "Outdoor Furniture That Survives 115-Degree Desert Heat"
 date: 2025-11-04
 dateModified: 2026-04-15
 metaDescription: "What outdoor furniture holds up in 115°F desert heat. Lessons from furnishing vacation rentals in Indio, CA: what works, what fails, and what to use."

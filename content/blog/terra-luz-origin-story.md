@@ -1,5 +1,5 @@
 ---
-title: "Terra Luz: How a House Gets Its Name"
+title: "Terra Luz: How a Desert House Gets Its Name and Identity"
 date: 2025-12-22
 metaDescription: "How a vacation rental in Indio became Terra Luz: sun-washed terracotta, a Kahlo blue pool, and a brand built on Latin warmth and desert light."
 ogImage: /blog/images/terra-luz-origin-hero.webp

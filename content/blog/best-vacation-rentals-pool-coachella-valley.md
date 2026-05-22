@@ -29,7 +29,7 @@ layout: blog-post.njk
   "headline": "Best Vacation Rentals with Pool Coachella Valley: What to Look For",
   "datePublished": "2026-04-30",
   "dateModified": "2026-04-30",
-  "description": "Searching for the best vacation rentals with pool in the Coachella Valley? Here's what to look for beyond the listing photos — and what actually matters.",
+  "description": "Searching for the best vacation rentals with pool in the Coachella Valley? Here's what to look for beyond the listing photos, and what actually matters.",
   "author": {"@type": "Person", "name": "Eann Tuan"},
   "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-icon.png"}},
   "image": "https://indigopalm.co/blog/images/cozy-cactus-pool-backyard.webp",
@@ -179,7 +179,7 @@ layout: blog-post.njk
       "name": "What is the difference between a private pool and a community pool in a vacation rental?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A private pool is within the fenced perimeter of your rental: you control the hours, temperature, and who uses it. A community pool is shared with other guests in the HOA. Both get listed as pool access — private is the better option for most group trips."
+        "text": "A private pool is within the fenced perimeter of your rental: you control the hours, temperature, and who uses it. A community pool is shared with other guests in the HOA. Both get listed as pool access. Private is the better option for most group trips."
       }
     },
     {

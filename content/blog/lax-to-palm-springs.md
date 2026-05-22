@@ -1,5 +1,5 @@
 ---
-title: "How to Get from LAX to Palm Springs"
+title: "How to Get from LAX to Palm Springs: Every Option Compared"
 date: 2025-10-29
 dateModified: 2026-04-15
 metaDescription: "LAX to Palm Springs: drive, shuttle, fly into PSP, or Amtrak. Honest trade-offs for each option with real times and costs so you can plan before you book."

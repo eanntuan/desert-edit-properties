@@ -1,5 +1,5 @@
 ---
-title: "Pet-Friendly Palm Springs: Honest Dog Guide"
+title: "Pet-Friendly Palm Springs: Honest Guide for Dog Owners"
 date: 2026-01-03
 metaDescription: "Palm Springs is dog-friendly if you know where to look. The real guide to pet-friendly vacation rentals, restaurants, trails, and parks nearby."
 ogImage: /blog/images/cozy-cactus-backyard.webp

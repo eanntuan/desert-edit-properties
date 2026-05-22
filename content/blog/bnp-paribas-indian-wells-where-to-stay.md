@@ -1,5 +1,5 @@
 ---
-title: "BNP Paribas Open: Where to Stay in the Desert"
+title: "BNP Paribas Open: Where to Stay Near Indian Wells, CA"
 date: 2025-12-10
 dateModified: 2026-04-15
 metaDescription: "Palm Springs or Indio for the BNP Paribas Open? What to look for in a rental during tournament week, and why a private pool matters after stadium seats."

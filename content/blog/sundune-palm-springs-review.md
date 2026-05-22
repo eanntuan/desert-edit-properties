@@ -1,5 +1,5 @@
 ---
-title: "The Sundune Palm Springs: What Guests Say"
+title: "The Sundune Palm Springs: What 40 Guests Actually Say"
 date: 2026-02-26
 metaDescription: "The Sundune Palm Springs: 4.93 stars across 40 stays. What guests say about the 2BR condo, the walkable neighborhood, pool access, and what to expect."
 ogImage: /blog/images/sundune-palm-springs-condo.webp

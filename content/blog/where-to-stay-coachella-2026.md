@@ -1,5 +1,5 @@
 ---
-title: "Where to Stay for Coachella: The Honest Guide"
+title: "Where to Stay for Coachella 2026: The Honest Rental Guide"
 date: 2025-11-28
 dateModified: 2026-04-21
 redirectTo: /blog/where-to-stay-coachella/

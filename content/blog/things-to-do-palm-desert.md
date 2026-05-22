@@ -1,7 +1,7 @@
 ---
-title: "Things to Do in Palm Desert: The Local List"
+title: "Things to Do in Palm Desert: The Real Local List (2026)"
 date: 2026-03-19
-metaDescription: "Living Desert Zoo, El Paseo shopping, McCallum Theatre, Shields Date Garden, and where to eat. What's actually worth your time in Palm Desert and Indian Wells."
+metaDescription: "Living Desert Zoo, El Paseo, McCallum Theatre, Shields Date Garden, and where to eat. What's actually worth your time in Palm Desert and Indian Wells."
 ogImage: /blog/images/palm-desert-el-paseo.webp
 heroImage: /blog/images/palm-desert-el-paseo.webp
 heroAlt: "El Paseo outdoor shopping district in Palm Desert California"
@@ -155,7 +155,7 @@ layout: blog-post.njk
       "name": "How far is Palm Desert from Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Palm Desert is about 25 miles west of Empire Polo Club (Coachella/Stagecoach festival grounds), roughly 25 to 30 minutes by car without traffic. During festival weekends, roads east of the valley back up significantly — plan accordingly."
+        "text": "Palm Desert is about 25 miles west of Empire Polo Club (Coachella/Stagecoach festival grounds), roughly 25 to 30 minutes by car without traffic. During festival weekends, roads east of the valley back up significantly. Plan accordingly."
       }
     }
   ]

@@ -1,7 +1,7 @@
 ---
 title: "Best Hiking Near Palm Springs: 8 Trails Worth the Drive"
 date: 2025-12-25
-metaDescription: "Best hiking near Palm Springs: 8 trails with stats, fees, and honest notes. Palm Canyon to San Jacinto Peak, dog-friendly picks, and a waterfall you can swim to."
+metaDescription: "Best hiking near Palm Springs: 8 trails with stats, fees, and real notes. Palm Canyon to San Jacinto Peak, dog-friendly picks, plus a swimmable waterfall."
 ogImage: /blog/images/coachella-valley-desert-hiking.webp
 heroImage: /blog/images/coachella-valley-desert-hiking.webp
 heroAlt: "Desert hiking trail through rocky canyon near Palm Springs California with blue sky overhead"

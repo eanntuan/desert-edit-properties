@@ -1,5 +1,5 @@
 ---
-title: "Justin Bieber at Coachella: What to Expect"
+title: "Justin Bieber at Coachella 2026: What Actually Happened"
 date: 2026-03-01
 metaDescription: "Justin Bieber crashed Coachella 2026 and the internet lost its mind. Here's what that moment actually means for your indio vacation rental trip."
 ogImage: /blog/images/bieber-coachella-stage.webp

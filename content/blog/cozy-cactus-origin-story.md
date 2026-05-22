@@ -1,5 +1,5 @@
 ---
-title: "Buying My First Vacation Rental in Indio"
+title: "How I Bought My First Vacation Rental in Indio, CA"
 date: 2025-12-01
 metaDescription: "How I bought my first vacation rental in Indio, CA on Easter 2022 with zero experience, a line of credit, and way too many Facebook Marketplace trips."
 ogImage: /blog/images/cozy-cactus-origin-hero.webp

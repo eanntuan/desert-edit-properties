@@ -1,5 +1,5 @@
 ---
-title: "The Perfect 3-Day Palm Springs Itinerary"
+title: "The Perfect 3-Day Palm Springs Itinerary: Tram, Town, Trails"
 date: 2026-03-13
 metaDescription: "3 days in Palm Springs: aerial tram day one, downtown and mid-century architecture day two, Joshua Tree day three. Times, costs, and what to skip."
 ogImage: /blog/images/ps-aerial-tram-mountain-view.webp
@@ -138,7 +138,7 @@ layout: blog-post.njk
       "name": "What is the best time to visit Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "October through April is peak season with the best weather: daytime highs in the 70s and 80s, cool evenings. January through March is busiest. May and September are shoulder season with higher temps but lower prices. June through August is summer with 110-plus degree days — manageable with pool access and early mornings but not ideal for outdoor activity."
+        "text": "October through April is peak season with the best weather: daytime highs in the 70s and 80s, cool evenings. January through March is busiest. May and September are shoulder season with higher temps but lower prices. June through August is summer with 110-plus degree days. Manageable with pool access and early mornings but not ideal for outdoor activity."
       }
     },
     {

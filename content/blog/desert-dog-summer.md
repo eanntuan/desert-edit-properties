@@ -1,5 +1,5 @@
 ---
-title: "Dogs in Desert Heat: How to Keep Your Pet Safe in Palm Springs"
+title: "Dogs in Desert Heat: Keeping Pets Safe in Palm Springs"
 date: 2026-04-03
 dateModified: 2026-05-03
 metaDescription: "Dog safety in Coachella Valley heat: how to keep your pet safe when it hits 100 degrees in Palm Springs or Indio, and a local dog food brand worth knowing."

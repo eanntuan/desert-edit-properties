@@ -1,5 +1,5 @@
 ---
-title: "Palm Springs in Summer: Is It Worth Visiting?"
+title: "Palm Springs in Summer: Is It Actually Worth Visiting?"
 date: 2025-11-13
 dateModified: 2026-04-15
 metaDescription: "Yes, with caveats. Pool culture peaks in summer, rates drop 30-50%, crowds disappear. Here's how to do Palm Springs in the heat, month by month."

@@ -1,5 +1,5 @@
 ---
-title: "BNP Paribas Open: Where to Eat in Indian Wells"
+title: "BNP Paribas Open: Best Restaurants Near Indian Wells"
 date: 2026-03-25
 dateModified: 2026-05-03
 metaDescription: "Where to eat during the BNP Paribas Open: Nobu inside the stadium, best spots in Indian Wells and Palm Desert, and quick options between matches."
