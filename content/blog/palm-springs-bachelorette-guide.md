@@ -71,7 +71,7 @@ layout: blog-post.njk
 }
 </script>
 
-<p>Picture it: Saturday morning, nine of you, nobody has anywhere to be. The backyard pool is already warm from the sun. Someone made a pitcher of something cold. The mountains are right there, framed by the back gate like a painting nobody paid for. This is the specific version of Palm Springs that bachelorette trips are actually reaching for, and it's genuinely achievable if the planning is right. A desert bachelorette weekend is having a moment right now, and the Coachella Valley handles it better than almost any other destination.</p>
+<p>Picture it: Saturday morning, nine of you, nobody has anywhere to be. The backyard pool is already warm from the sun. Someone made a pitcher of something cold. The mountains are right there, framed by the back gate like a painting nobody paid for. This is what bachelorette trips are reaching for when they book Palm Springs, and it's genuinely achievable if the planning is right. A desert bachelorette weekend is having a moment right now, and the Coachella Valley handles it better than almost any other destination.</p>
 
 <p>I own vacation rentals in the Coachella Valley and I've watched a lot of groups come through. The ones who had a good trip planned two or three things in advance and left the rest flexible. Here's what I'd tell a friend.</p>
 

@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in Palm Desert: The Real Local List (2026)"
 date: 2026-03-19
-metaDescription: "Living Desert Zoo, El Paseo, McCallum Theatre, Shields Date Garden, and where to eat. What's actually worth your time in Palm Desert and Indian Wells."
+metaDescription: "Living Desert Zoo, El Paseo, McCallum Theatre, Shields Date Garden, and where to eat. What's worth your time in Palm Desert and Indian Wells."
 ogImage: /blog/images/palm-desert-el-paseo.webp
 heroImage: /blog/images/palm-desert-el-paseo.webp
 heroAlt: "El Paseo outdoor shopping district in Palm Desert California"
@@ -28,7 +28,7 @@ layout: blog-post.njk
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "Things to Do in Palm Desert, CA: A Practical Guide",
-  "description": "Living Desert Zoo, El Paseo shopping, McCallum Theatre, Shields Date Garden, and where to eat. What's actually worth your time in Palm Desert and Indian Wells.",
+  "description": "Living Desert Zoo, El Paseo shopping, McCallum Theatre, Shields Date Garden, and where to eat. What's worth your time in Palm Desert and Indian Wells.",
   "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
   "datePublished": "2026-03-19",
   "dateModified": "2026-03-19",
@@ -71,7 +71,7 @@ layout: blog-post.njk
 
 <p>Palm Desert sits roughly in the middle of the Coachella Valley, about 15 minutes east of Palm Springs and 20 minutes west of Indio. It's where people go when they want a more low-key version of the valley, less nightlife-focused than Palm Springs, less festival-adjacent than Indio. It earns that reputation.</p>
 
-<p>The city has two things the others don't: El Paseo, the valley's best shopping street, and the Living Desert Zoo and Gardens, which is genuinely one of the better small zoos in California. Here's what's actually worth your time.</p>
+<p>The city has two things the others don't: El Paseo, the valley's best shopping street, and the Living Desert Zoo and Gardens, which is genuinely one of the better small zoos in California. Here's what's worth your time.</p>
 
 <img src="/blog/images/ps-boulevard-palms-mountains.webp" alt="Palm-lined boulevard in Palm Desert California with desert mountains in the background" width="1400" height="933" loading="lazy">
 

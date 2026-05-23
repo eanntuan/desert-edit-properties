@@ -20,11 +20,11 @@ keywords:
 articleSection: "Travel Guide"
 property: all
 readTime: "8 min read"
-excerpt: "Neither is the wrong choice. But one is clearly right for your trip, depending on what you actually want. Here's the honest breakdown."
+excerpt: "Neither is the wrong choice. But one is clearly right for your trip, depending on what you want. Here's the honest breakdown."
 layout: blog-post.njk
 ---
 
-<p>The most common question we get from people booking a desert trip: should you stay in Palm Springs or closer to Indio? It's a real question with a real answer, and the answer depends entirely on what your group wants from the trip. I own properties in both areas, so I have no incentive to push one over the other. Here's what actually matters.</p>
+<p>The most common question we get from people booking a desert trip: should you stay in Palm Springs or closer to Indio? It's a real question with a real answer, and the answer depends entirely on what your group wants from the trip. I own properties in both areas, so I have no incentive to push one over the other. Here's what matters.</p>
 
 <h2>How Far Is Indio from Palm Springs?</h2>
 
@@ -132,7 +132,7 @@ layout: blog-post.njk
 
 <p><strong>Choose Indio if:</strong> your group is five or more people, you're attending Coachella or Stagecoach, you want a larger pool and actual outdoor living space, you're bringing kids and need room to move, or the nightly rate difference is a real budget consideration.</p>
 
-<p>The mistake people make is booking based on the name recognition of Palm Springs when what their group actually needs is space and proximity in Indio. And occasionally the reverse: booking Indio because it's cheaper, when a couple would have loved being 10 minutes from Palm Springs restaurants every night. Get clear on the trip first.</p>
+<p>The mistake people make is booking based on the name recognition of Palm Springs when what their group needs is space and proximity in Indio. And occasionally the reverse: booking Indio because it's cheaper, when a couple would have loved being 10 minutes from Palm Springs restaurants every night. Get clear on the trip first.</p>
 
 <img src="/blog/images/yes-please-palm-springs.jpg" alt="Yes Please Books storefront in a Palm Springs neighborhood, the kind of discovery that comes from wandering on foot" loading="lazy" width="1400" height="933">
 <p class="image-caption">The walkable neighborhoods in Palm Springs reward wandering. You find places like this just by turning off the main drag.</p>

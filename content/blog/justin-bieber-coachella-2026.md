@@ -1,7 +1,7 @@
 ---
 title: "Justin Bieber at Coachella 2026: What Actually Happened"
 date: 2026-03-01
-metaDescription: "Justin Bieber crashed Coachella 2026 and the internet lost its mind. Here's what that moment actually means for your indio vacation rental trip."
+metaDescription: "Justin Bieber crashed Coachella 2026 and the internet lost its mind. Here's what that moment means for your Indio vacation rental trip."
 ogImage: /blog/images/bieber-coachella-stage.webp
 heroImage: /blog/images/bieber-coachella-stage.webp
 heroAlt: "Performer on stage at Coachella 2026 with colorful smoke and lights at the Empire Polo Club in Indio CA"
@@ -22,7 +22,7 @@ layout: blog-post.njk
 
 <p>Nobody had Justin Bieber on their Coachella 2026 bingo card. He walked onto the Sahara tent stage unannounced, no set list, no hype buildup, and the crowd just went sideways. The clips hit every platform inside 20 minutes. Search trends spiked 2,300% before he'd finished the third song.</p>
 
-<p>I watched from my couch in Indio, which is exactly 7 minutes from where that happened. And sitting there, I kept thinking: there's actually a practical lesson buried in each of those five minutes. Five of them, specifically.</p>
+<p>I watched from my couch in Indio, which is exactly 7 minutes from where that happened. And sitting there, I kept thinking: there's a practical lesson buried in each of those five minutes. Five of them, specifically.</p>
 
 <img src="/blog/images/festival-crowd-hands.webp" alt="Concert crowd with hands raised at a music festival at night" width="1800" height="1196" loading="lazy">
 
@@ -64,7 +64,7 @@ layout: blog-post.njk
 
 <h2>4. The Late-Night Situation Matters More Than the Lineup.</h2>
 
-<p>The Bieber set happened late. That's when Coachella moments actually happen. The headliners and the surprise guests and the things you'll tell people about for years: they're all after 10pm. What you do between midnight and 3am is where the trip actually lives.</p>
+<p>The Bieber set happened late. That's when Coachella moments happen. The headliners and the surprise guests and the things you'll tell people about for years: they're all after 10pm. What you do between midnight and 3am is where the trip actually lives.</p>
 
 <img src="/blog/images/cozy-cactus-hot-tub.webp" alt="Private hot tub at night at Cozy Cactus vacation rental in Indio CA" width="1400" height="933" loading="lazy">
 
@@ -89,7 +89,7 @@ layout: blog-post.njk
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "5 Things Justin Bieber's Coachella Set Taught Us About the Desert",
-  "description": "Justin Bieber crashed Coachella 2026 and the internet lost its mind. Here's what that moment actually means for your indio vacation rental trip.",
+  "description": "Justin Bieber crashed Coachella 2026 and the internet lost its mind. Here's what that moment means for your Indio vacation rental trip.",
   "image": "https://indigopalm.co/blog/images/stagecoach-festival-crowd.webp",
   "author": {
     "@type": "Person",

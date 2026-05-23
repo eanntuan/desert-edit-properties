@@ -18,7 +18,7 @@ keywords:
 articleSection: "Travel Guide"
 property: terra-luz
 readTime: "7 min read"
-excerpt: "Most pet-friendly listings slap a policy in the fine print and call it a day. Casa Moto in Indio was designed with dogs in mind. Here's what that actually means."
+excerpt: "Most pet-friendly listings slap a policy in the fine print and call it a day. Casa Moto in Indio was designed with dogs in mind. Here's what that means in practice."
 layout: blog-post.njk
 ---
 
@@ -52,7 +52,7 @@ layout: blog-post.njk
 
 <p>That's it. That's the whole policy.</p>
 
-<p>I'd been around enough rentals (and traveled enough with my own dog) to know that's not really a pet-friendly experience. It's a liability disclaimer. So when <a href="https://theolivejarcreative.com" rel="noopener noreferrer">Dawn Asher of The Olive Jar</a> and I were working through the design direction for Casa Moto, I kept asking: what would this place actually need to feel right for a guest who shows up with a dog?</p>
+<p>I'd been around enough rentals (and traveled enough with my own dog) to know that's not really a pet-friendly experience. It's a liability disclaimer. So when <a href="https://theolivejarcreative.com" rel="noopener noreferrer">Dawn Asher of The Olive Jar</a> and I were working through the design direction for Casa Moto, I kept asking: what would this place need to feel right for a guest who shows up with a dog?</p>
 
 <p>Turns out the list is longer than I expected.</p>
 
@@ -73,14 +73,14 @@ layout: blog-post.njk
 
 <p>When Dawn and I were going through the touch points of the property, she flagged something I hadn't thought about: dog food mats.</p>
 
-<p>She had a specific vision for them. Not a generic rubber mat from the pet aisle. Something that fit the overall design language of the property, something that felt intentional, something a guest would actually notice and think: oh, they actually thought about this.</p>
+<p>She had a specific vision for them. Not a generic rubber mat from the pet aisle. Something that fit the overall design language of the property, something that felt intentional, something a guest would notice and think: oh, they thought about this.</p>
 
 <p>That sounds small. (It is small.) But that's kind of the point. Pet-friendly rentals almost never have considered pet details. They have permission slips. The difference between those two things is exactly what we were trying to build at Casa Moto.</p>
 
 <p>The mats are in. They photograph well. Dawn would tell you that's not the point, but it doesn't hurt.</p>
 
 <img src="/blog/images/cozy-cactus-backyard.webp" alt="Enclosed backyard at Indio vacation rental with desert landscaping and private outdoor space for guests with dogs" width="1400" height="933" loading="lazy">
-<p class="image-caption">Desert backyards done right have shade, space, and real fencing. This is what it looks like when outdoor design is actually prioritized.</p>
+<p class="image-caption">Desert backyards done right have shade, space, and real fencing. This is what it looks like when outdoor design is prioritized.</p>
 
 <h2>The Neighborhood Is Right for Dogs</h2>
 
@@ -116,7 +116,7 @@ layout: blog-post.njk
   <li><strong>Any of the date farms along Hwy 111</strong> welcome foot traffic and most are relaxed about dogs as long as they're on leash.</li>
 </ul>
 
-<p>For more on what's actually worth doing in the area, the <a href="/blog/things-to-do-indio-ca/">things to do in Indio guide</a> covers the local favorites that don't show up on the tourist lists.</p>
+<p>For what's worth doing in the area, the <a href="/blog/things-to-do-indio-ca/">things to do in Indio guide</a> covers the local favorites that don't show up on the tourist lists.</p>
 
 <img src="/blog/images/shields-date-garden.webp" alt="Shields Date Garden in Indio California along Highway 111, a dog-friendly stop near Casa Moto vacation rental" width="1400" height="933" loading="lazy">
 <p class="image-caption">Shields Date Garden is 10 minutes from Casa Moto. Outdoor, relaxed, and a classic Coachella Valley stop. Dogs welcome on leash.</p>
@@ -131,9 +131,9 @@ layout: blog-post.njk
 
 <p>If you're looking for a pet-friendly vacation rental in the Coachella Valley and tired of the listings that technically allow dogs but clearly weren't designed with them in mind, <a href="/terra-luz/">Casa Moto</a> is the different answer.</p>
 
-<p>Enclosed backyard. Thoughtful design. A neighborhood worth walking. A property that actually looks good when a dog is in the room.</p>
+<p>Enclosed backyard. Thoughtful design. A neighborhood worth walking. A property that looks good when a dog is in the room.</p>
 
-<p>That's what pet-friendly actually means here.</p>
+<p>That's what pet-friendly means here.</p>
 
 <p>Once you've sorted the lodging, the <a href="/blog/coachella-valley-vacation-rental-guide/">complete Coachella Valley vacation rental guide</a> goes deeper on everything from booking timing to what to look for in any desert rental, dogs included.</p>
 

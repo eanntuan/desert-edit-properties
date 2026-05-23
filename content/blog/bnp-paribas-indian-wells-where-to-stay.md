@@ -112,7 +112,7 @@ relatedPosts:
 
 <p>If you're reading this after January for the current-year tournament, check shoulder locations. Palm Desert and Rancho Mirage are 15-20 minutes from the venue and often have more availability than the primary cities. Quality varies more in these markets but the good properties are worth the extra few minutes of drive time.</p>
 
-<p>The desert in March is worth building a real trip around. The weather is the best it gets all year, the tennis is genuinely world-class, and having the right place to come back to each evening makes the whole week work better.</p>
+<p>The desert in March is worth building a real trip around. The weather is the best it gets all year, the tennis brings the full ATP and WTA top 10 to one venue, and having the right place to come back to each evening makes the whole week work better.</p>
 
 <p>If you're planning the full trip: the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> covers how to structure a 3-day visit with the right balance of activities and rest. The <a href="/blog/best-restaurants-palm-desert/">Coachella Valley restaurant guide</a> covers where to eat in Indio specifically, which matters more than people expect once they're here. And if you want to understand the full picture of what the two cities offer each other, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers everything side by side.</p>
 

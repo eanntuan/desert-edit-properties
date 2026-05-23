@@ -18,7 +18,7 @@ keywords:
 articleSection: "Vacation Rental Design"
 property: terra-luz
 readTime: "8 min read"
-excerpt: "Wild Tropics wallpaper, terracotta tile floors, a Kahlo Blue closet, and a 1,100 sq ft patio rebuilt from the ground up. Here's what we actually made at Terra Luz."
+excerpt: "Wild Tropics wallpaper, terracotta tile floors, a Kahlo Blue closet, and a 1,100 sq ft patio rebuilt from the ground up. Here's what we made at Terra Luz."
 layout: blog-post.njk
 ---
 

@@ -24,7 +24,7 @@ keywords:
 articleSection: "Local Guide"
 property: the-sundune
 readTime: "10 min read"
-excerpt: "From the best margaritas in the desert to drag shows on Arenas Road, here's where to actually drink in Palm Springs. 11 real spots organized by vibe. No sponsored picks."
+excerpt: "From the best margaritas in the desert to drag shows on Arenas Road, here's where to drink in Palm Springs. 11 real spots organized by vibe. No sponsored picks."
 layout: blog-post.njk
 ---
 
@@ -74,9 +74,9 @@ layout: blog-post.njk
 }
 </script>
 
-<p>I put this list together for guests at <a href="/the-sundune/">The Sundune</a>, my 2-bedroom walkable condo in Palm Springs. These are the spots I'd actually tell a friend about. Some are within walking distance of the property. Others require a car. I'm going to be clear about which is which, because a $30 Uber home at midnight changes the math.</p>
+<p>I put this list together for guests at <a href="/the-sundune/">The Sundune</a>, my 2-bedroom walkable condo in Palm Springs. These are the spots I'd tell a friend about. Some are within walking distance of the property. Others require a car. I'm going to be clear about which is which, because a $30 Uber home at midnight changes the math.</p>
 
-<p>This is not a sponsored list. Nobody paid me to include them. There are 11 spots below, organized by what you're actually looking for. Skip to your category.</p>
+<p>This is not a sponsored list. Nobody paid me to include them. There are 11 spots below, organized by what you're looking for. Skip to your category.</p>
 
 <img src="/blog/images/ps-boulevard-palms-mountains.webp" alt="Palm Canyon Drive in Palm Springs lined with palm trees and backed by San Jacinto mountains at dusk" width="1400" height="933" loading="lazy">
 <p class="image-caption">Palm Canyon Drive at dusk. Most of this list is within a few blocks of here or on Arenas Road, one block east.</p>
@@ -172,7 +172,7 @@ layout: blog-post.njk
 
 <p>This one requires a car. Indian Wells is about 20 minutes from Palm Springs, and The Nest is the kind of place that needs no explanation once you've been there and needs a lot of explanation before you go.</p>
 
-<p>Live music. Dancing. A full restaurant. A crowd that skews older than your average rooftop bar, which is actually a feature. The energy is high but not performative. People are there to have fun, not to perform having fun.</p>
+<p>Live music. Dancing. A full restaurant. A crowd that skews older than your average rooftop bar, which is a feature. The energy is high but not performative. People are there to have fun, not to perform having fun.</p>
 
 <p>I tell guests: go once, tell me what you think. Everyone comes back with a story. It's been there forever and shows no signs of apologizing for it.</p>
 
@@ -200,7 +200,7 @@ layout: blog-post.njk
 <p>Palm Springs is more walkable than people expect <a href="/blog/lax-to-palm-springs/">coming from LA</a>. The downtown strip is compact and Arenas Road is one block from Palm Canyon. You can hit three or four spots in a night without a car if you're staying centrally.</p>
 
 <img src="/blog/images/ps-palm-springs-sign.webp" alt="Palm Springs welcome sign at night with mountains behind it" width="1400" height="933" loading="lazy">
-<p class="image-caption">Downtown is small enough that walking between bars is actually faster than waiting for a rideshare on busy nights.</p>
+<p class="image-caption">Downtown is small enough that walking between bars is faster than waiting for a rideshare on busy nights.</p>
 
 <h2>Quick Reference</h2>
 
@@ -309,4 +309,4 @@ layout: blog-post.njk
 <h3>What's the bar scene like near downtown Palm Springs?</h3>
 <p>Palm Canyon Drive and Arenas Road cover most of what you need within a few walkable blocks. Palm Canyon has the cocktail bars, rooftop spots, and restaurant lounges. Arenas is one block east and is the LGBTQ+ and nightclub strip. Most venues are open until 2am on weekends. The strip is compact enough that you can walk between spots without needing a rideshare.</p>
 
-<p>For more on what to eat while you're out, the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurants guide</a> covers lunch and dinner across the valley with the same approach: places I'd actually recommend to someone I like.</p>
+<p>For more on what to eat while you're out, the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurants guide</a> covers lunch and dinner across the valley with the same approach: places I'd recommend to someone I like.</p>

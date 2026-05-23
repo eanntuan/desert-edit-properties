@@ -63,7 +63,7 @@ layout: blog-post.njk
 
 <p>Fall (October and November) is the underrated option. The crowds are gone, the prices are lower, and the days are warm without being brutal. Mornings and evenings are legitimately comfortable. If you can go in October, you should.</p>
 
-<p>May through September: possible, but you need a plan. The valley regularly hits 110 degrees from June through August. A weekend in summer works if you have a private pool you're willing to commit to, you do outdoor activities before 9am and after 6pm, and you embrace the fact that 2pm to 5pm is an indoor activity. Some people love this rhythm. (I've come around to it, actually. There's something peaceful about a city that goes quiet in the afternoon.)</p>
+<p>May through September: possible, but you need a plan. The valley regularly hits 110 degrees from June through August. A weekend in summer works if you have a private pool you're willing to commit to, you do outdoor activities before 9am and after 6pm, and you embrace the fact that 2pm to 5pm is an indoor activity. Some people love this rhythm. (I've come around to it. There's something peaceful about a city that goes quiet in the afternoon.)</p>
 
 <p>July and August are the hardest months to recommend to first-timers. October and March are the easiest months to recommend to anyone.</p>
 
@@ -92,7 +92,7 @@ layout: blog-post.njk
 
 <p>Having a private pool at your rental is the thing that makes this work well. A community pool helps. A hotel pool with shared chairs and a full pool bar situation can also work, though it's a different experience. What doesn't work is planning two full days of outdoor activity with no indoor base to return to in the afternoon.</p>
 
-<h2>What to Actually Do for a Weekend</h2>
+<h2>What to Do for a Weekend</h2>
 
 <p>The activities list for the Coachella Valley is longer than most people expect, especially if you're used to thinking of it purely as a festival destination.</p>
 
@@ -100,7 +100,7 @@ layout: blog-post.njk
 
 <p><strong>Arriola's Tortilleria</strong> in Indio is the kind of place that turns a Saturday morning into a whole thing. Fresh tortillas made in front of you. Tacos. The line moves. Go hungry.</p>
 
-<p><strong>Palm Springs Aerial Tram</strong> is the trip nobody expects to love. You take a rotating gondola up 8,500 feet to the top of Mount San Jacinto. It's 30 to 40 degrees cooler at the top than in the valley below. In summer, this is the outdoor activity that actually works. The views of the valley from up there are genuinely striking.</p>
+<p><strong>Palm Springs Aerial Tram</strong> is the trip nobody expects to love. You take a rotating gondola up 8,500 feet to the top of Mount San Jacinto. It's 30 to 40 degrees cooler at the top than in the valley below. In summer, this is the one outdoor activity that works. The views of the valley from up there are genuinely striking.</p>
 
 <p><strong>Indian Canyons</strong>, just south of downtown Palm Springs, are worth at least a few hours on a cool morning. Tall palms in canyon bottoms, rock formations, actual running water in some seasons. One of the better hikes in Southern California that most people don't know about.</p>
 

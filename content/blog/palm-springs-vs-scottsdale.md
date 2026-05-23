@@ -68,7 +68,7 @@ layout: blog-post.njk
 }
 </script>
 
-<p>Two desert cities. Both warm, both pool-heavy, both get compared to each other constantly. But the question "Palm Springs or Scottsdale?" has a real answer, and it depends on what kind of trip you're actually trying to take.</p>
+<p>Two desert cities. Both warm, both pool-heavy, both get compared to each other constantly. But the question "Palm Springs or Scottsdale?" has a real answer, and it depends on what kind of trip you're trying to take.</p>
 
 <p>I own vacation rentals in Palm Springs and the Coachella Valley. I've spent enough time in both cities to give you a straight comparison instead of a listicle of resorts.</p>
 
@@ -110,7 +110,7 @@ layout: blog-post.njk
 
 <p>Scottsdale has a reputation as a bachelorette destination, mostly earned. Old Town has a high density of bars, rooftop venues, and party-focused infrastructure. If the goal is a crawl-based night out with easy club access, Scottsdale is set up for it.</p>
 
-<p>Palm Springs is also popular for bachelorettes, but for a different kind of trip: poolside days, a house rental with a great backyard, nicer dinners, a spa day. It's more curated and less rowdy. Which one you want depends on what the group actually wants to do.</p>
+<p>Palm Springs is also popular for bachelorettes, but for a different kind of trip: poolside days, a house rental with a great backyard, nicer dinners, a spa day. It's more curated and less rowdy. Which one you want depends on what the group wants to do.</p>
 
 <h2>Golf</h2>
 

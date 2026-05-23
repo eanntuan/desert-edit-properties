@@ -80,7 +80,7 @@ layout: blog-post.njk
 
 <p>Escape Room Palm Springs is at 2500 N Palm Canyon Dr B3 (760-779-8888, <a href="https://escapeps.com" rel="noopener noreferrer" target="_blank">escapeps.com</a>). The owner, Dominique, is a friend of mine and was kind enough to offer our guests the code <strong>ABNB10</strong> for 10% off.</p>
 
-<p>It's legitimately the largest escape room in Southern California: over 6,000 square feet of games and puzzles spread across multiple rooms. This isn't a tiny closet you solve in 20 minutes. Plan for a real chunk of your afternoon. It's the kind of activity that actually absorbs time when you're trying to wait out the worst heat of the day.</p>
+<p>It's legitimately the largest escape room in Southern California: over 6,000 square feet of games and puzzles spread across multiple rooms. This isn't a tiny closet you solve in 20 minutes. Plan for a real chunk of your afternoon. It's the kind of activity that absorbs a real chunk of afternoon when you're waiting out the worst heat of the day.</p>
 
 <p>From The Sundune it's about a 10-minute drive. Book ahead, especially on summer weekends.</p>
 
@@ -127,7 +127,7 @@ layout: blog-post.njk
 
 <p>If you want nature without the suffering, the <a href="/blog/palm-springs-aerial-tram/">Palm Springs Aerial Tram</a> is your answer. It takes about 10 minutes to ride from the desert floor to 8,516 feet in the San Jacinto Mountains, where temperatures run 20 to 30 degrees cooler than the valley.</p>
 
-<p>Pine trees, mountain views, hiking trails that are actually hikeable in summer. It's the one outdoor option that sidesteps the heat problem entirely. Buy tickets in advance during summer months. It books up.</p>
+<p>Pine trees, mountain views, hiking trails you can hike in summer without the heat killing you. It's the one outdoor option that sidesteps the heat problem entirely. Buy tickets in advance during summer months. It books up.</p>
 
 <h2>Your Home Base: The Community Pool at The Sundune</h2>
 
@@ -152,7 +152,7 @@ layout: blog-post.njk
 
 <p>You won't feel like you wasted a day in the desert. You'll feel like you figured out how to use it properly.</p>
 
-<p>For more on navigating the Coachella Valley in summer, including what the temperature actually means month by month, see the full guide to <a href="/blog/palm-springs-summer/">Palm Springs in summer</a>. And when you're ready to eat, the <a href="/blog/best-restaurants-palm-springs/">best restaurants in Palm Springs</a> guide covers spots worth building an evening around.</p>
+<p>For more on navigating the Coachella Valley in summer, including what the temperature means month by month, see the full guide to <a href="/blog/palm-springs-summer/">Palm Springs in summer</a>. And when you're ready to eat, the <a href="/blog/best-restaurants-palm-springs/">best restaurants in Palm Springs</a> guide covers spots worth building an evening around.</p>
 
 <h2>Quick Reference</h2>
 

@@ -133,7 +133,7 @@ layout: blog-post.njk
 
 <h2>Palm Springs: Worth the 30-Minute Drive</h2>
 
-<p>Palm Springs is the valley's crown jewel. Mid-century modern architecture. Boutique shopping. Brunch culture. It's worth visiting, just not necessarily worth staying in. Too expensive, too crowded, too scene-y for a real escape.</p>
+<p>Palm Springs is 30 minutes west and worth the drive every time. Mid-century modern architecture. Boutique shopping. Brunch culture. It's worth visiting, just not necessarily worth staying in. Too expensive, too crowded, too scene-y for a real escape.</p>
 
 <p>What to do: modernist architecture tours, VillageFest on Thursday nights, the Aerial Tramway, and brunch at Cheeky's or Norma's (expect lines, worth it). For a full local breakdown, read <a href="/blog/coachella-valley-insider-guide/">our insider's guide to the valley</a>.</p>
 

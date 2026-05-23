@@ -18,7 +18,7 @@ keywords:
 articleSection: "Hosting"
 property: terra-luz
 readTime: "7 min read"
-excerpt: "The photo shoot is scheduled for Tuesday. It is Saturday. You think you have time. Here is what five days of vacation rental staging actually looks like, room by room."
+excerpt: "The photo shoot is scheduled for Tuesday. It is Saturday. You think you have time. Here is what five days of vacation rental staging looks like, room by room."
 layout: blog-post.njk
 ---
 

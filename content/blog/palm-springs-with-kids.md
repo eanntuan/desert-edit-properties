@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs with Kids: Complete Guide to a Family Trip"
 date: 2026-03-10
-metaDescription: "Palm Springs with kids is more doable than most people expect. Here's what actually works: activities, food, and a walkable home base at The Sundune."
+metaDescription: "Palm Springs with kids is more doable than most people expect. Here's what works: activities, food, and a walkable home base at The Sundune."
 ogImage: /blog/images/palm-springs-kids-vacation.webp
 heroImage: /blog/images/palm-springs-kids-vacation.webp
 heroAlt: "kids playing in vacation rental pool in Palm Springs Coachella Valley"
@@ -28,7 +28,7 @@ layout: blog-post.njk
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "Palm Springs with Kids: What to Do, Where to Stay",
-  "description": "Palm Springs with kids is more doable than most people expect. Here's what actually works: activities, food, and a walkable home base at The Sundune.",
+  "description": "Palm Springs with kids is more doable than most people expect. Here's what works: activities, food, and a walkable home base at The Sundune.",
   "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
   "datePublished": "2026-03-10",
   "dateModified": "2026-03-10",
@@ -73,7 +73,7 @@ layout: blog-post.njk
 
 <p>The city works for kids because it's walkable, it's compact, and most of the truly good stuff is within a 30-minute drive. You're not stuck in a theme park queue at 9am or fighting for a parking spot at a crowded beach. The pace is slower. That's the point.</p>
 
-<p>Here's what I actually tell families before they arrive.</p>
+<p>Here's what I tell families before they arrive.</p>
 
 <img src="/blog/images/ps-boulevard-palms-mountains.webp" alt="Palm Canyon Drive in Palm Springs lined with tall palm trees and the San Jacinto Mountains in the background" width="1400" height="933" loading="lazy">
 <p class="image-caption">Palm Canyon Drive, the main drag. Walkable from The Sundune, and the mountains are always in the frame.</p>
