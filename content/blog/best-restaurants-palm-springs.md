@@ -3,10 +3,10 @@ title: "Best Restaurants in Palm Springs: 15 Local Picks (2026)"
 date: 2026-02-17
 dateModified: 2026-05-06
 metaDescription: "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included."
-ogImage: /blog/images/tropicale-palm-springs.webp
-heroImage: /blog/images/tropicale-palm-springs.webp
+ogImage: /blog/images/bar-cecil.webp
+heroImage: /blog/images/bar-cecil.webp
 heroPosition: bottom
-heroAlt: "Tropicale Dining and Lounge exterior in Palm Springs with pink stucco walls, palm trees, and San Jacinto Mountains in background"
+heroAlt: "Bar Cecil interior in Palm Springs with moody lighting, plush seating, and vintage cocktail bar atmosphere"
 keywords:
   - best restaurants Palm Springs
   - Palm Springs restaurants 2026
@@ -33,7 +33,7 @@ layout: blog-post.njk
   "@type": "BlogPosting",
   "headline": "Best Restaurants in Palm Springs: 15 Local Picks (2026)",
   "description": "The 15 best restaurants in Palm Springs for 2026: from the famous bacon flight at Cheeky's to the Cary Grant estate patio at Copley's. Addresses and hours included.",
-  "image": "https://indigopalm.co/blog/images/tropicale-palm-springs.webp",
+  "image": "https://indigopalm.co/blog/images/bar-cecil.webp",
   "datePublished": "2026-04-09",
   "dateModified": "2026-05-06",
   "author": {
@@ -77,7 +77,7 @@ layout: blog-post.njk
 
 <p>These are the 15 places I keep coming back to, organized by neighborhood and meal. I've included addresses and rough hours for each one because nothing kills a vacation mood like driving somewhere that's closed. Verify hours before you go. Palm Springs restaurants shift seasonally, and some reduce days during summer.</p>
 
-<img src="/blog/images/tropicale-palm-springs.webp" alt="Tropicale Dining and Lounge exterior in Palm Springs with pink stucco walls, palm trees, and San Jacinto Mountains in background" width="1400" height="1050" loading="lazy">
+<img src="/blog/images/bar-cecil.webp" alt="Bar Cecil interior in Palm Springs with moody lighting, plush seating, and vintage cocktail bar atmosphere" width="1000" height="667" loading="lazy">
 <p class="image-caption">Tropicale on East Amado Road. One of the more recognizable exteriors in the city.</p>
 
 <h2>Neighborhood Map: Where Things Are</h2>
