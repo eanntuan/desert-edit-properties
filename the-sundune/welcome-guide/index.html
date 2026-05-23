@@ -652,30 +652,31 @@
       margin-bottom: 8px;
     }
     .blog-callout p { font-size: 0.88rem; line-height: 1.65; margin-bottom: 12px; color: var(--text); }
-    .blog-links { display: flex; flex-direction: column; gap: 8px; }
+    .blog-links { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
     .blog-link {
       position: relative;
       overflow: hidden;
       display: flex;
       align-items: flex-end;
-      min-height: 80px;
-      padding: 12px 14px;
+      height: 140px;
+      padding: 10px 12px;
       background: var(--sage);
       background-size: cover;
       background-position: center;
-      border-radius: 6px;
+      border-radius: 10px;
       text-decoration: none;
     }
+    .blog-link-wide { grid-column: 1 / -1; height: 80px; }
     .blog-link::before {
       content: '';
       position: absolute;
       inset: 0;
-      background: linear-gradient(to top, rgba(0,0,0,0.62) 0%, rgba(0,0,0,0.25) 100%);
+      background: linear-gradient(to top, rgba(0,0,0,0.68) 0%, rgba(0,0,0,0.18) 100%);
     }
     .blog-link-text {
       position: relative;
       z-index: 1;
-      font-size: 0.84rem;
+      font-size: 0.82rem;
       font-weight: 600;
       color: #fff;
       line-height: 1.3;
@@ -707,8 +708,7 @@
     /* Minimum touch target for tab buttons (already 56px height, belt+suspenders) */
     .tab-btn { min-height: 44px; }
 
-    /* Blog links — 80px tiles, 44px min tap target already satisfied */
-    .blog-link { min-height: 80px; }
+    /* Blog link cards — 2-col grid, 140px cards, wide variant for full-span links */
 
     /* Reduce motion for vestibular sensitivity */
     @media (prefers-reduced-motion: reduce) {
@@ -1146,7 +1146,7 @@
           <a class="blog-link" href="https://indigopalm.co/blog/best-restaurants-palm-springs/" target="_blank" rel="noopener" style="background-image: url('/blog/images/tropicale-palm-springs.webp')"><span class="blog-link-text">Best Restaurants in Palm Springs ↗</span></a>
           <a class="blog-link" href="https://indigopalm.co/blog/palm-springs-local-guide-sundune/" target="_blank" rel="noopener" style="background-image: url('/blog/images/palm-springs-local-guide-sundune.webp')"><span class="blog-link-text">Local Guide: Palm Springs ↗</span></a>
           <a class="blog-link" href="https://indigopalm.co/blog/coachella-valley-insider-guide/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-street-bougainvillea.webp')"><span class="blog-link-text">Coachella Valley Insider Guide ↗</span></a>
-          <a class="blog-link" href="https://indigopalm.co/blog/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-palm-street-blue-sky.webp')"><span class="blog-link-text">All posts ↗</span></a>
+          <a class="blog-link blog-link-wide" href="https://indigopalm.co/blog/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-palm-street-blue-sky.webp')"><span class="blog-link-text">All posts ↗</span></a>
         </div>
       </div>
 
@@ -1283,26 +1283,32 @@
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Las Palmas Brewing</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=461+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">461 N Palm Canyon Dr, Palm Springs ↗</a></p>
-          <p class="place-desc">Family-owned brewery with Tuesday specials. The tacos are better than they need to be.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7609925082">760-992-5082</a>
-            <a class="place-link" href="https://laspalmasbrewing.com" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/las-palmas-brewing.webp" alt="Fresh craft beer being poured at Las Palmas Brewing in Palm Springs" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Las Palmas Brewing</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=461+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">461 N Palm Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">Family-owned brewery with Tuesday specials. The tacos are better than they need to be.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7609925082">760-992-5082</a>
+              <a class="place-link" href="https://laspalmasbrewing.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">The Nest</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=75188+CA-111,+Indian+Wells,+CA" target="_blank" rel="noopener">75188 CA-111, Indian Wells ↗</a></p>
-          <p class="place-desc">Live music, drinks, dancing &amp; a full-service restaurant. You've got to experience it to understand. Tell me if you go.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7603462314">760-346-2314</a>
-            <a class="place-link" href="https://gotothenest.com" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/the-nest.webp" alt="Elegant cocktail at The Nest in Indian Wells, a classic desert nightlife spot" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">The Nest</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=75188+CA-111,+Indian+Wells,+CA" target="_blank" rel="noopener">75188 CA-111, Indian Wells ↗</a></p>
+            <p class="place-desc">Live music, drinks, dancing &amp; a full-service restaurant. You've got to experience it to understand. Tell me if you go.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603462314">760-346-2314</a>
+              <a class="place-link" href="https://gotothenest.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1364,58 +1370,73 @@
         <div class="page-banner-line"></div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Living Desert Zoo and Gardens</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=47900+Portola+Ave,+Palm+Desert,+CA" target="_blank" rel="noopener">47900 Portola Ave, Palm Desert ↗</a></p>
-          <p class="place-desc">Over 1,000 acres of desert ecosystem featuring a bighorn sheep enclosure &amp; small animal exhibits.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7603465694">760-346-5694</a>
-            <a class="place-link" href="https://livingdesert.org" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/living-desert.webp" alt="Lush tropical plants and palms inside Living Desert Zoo and Gardens in Palm Desert" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Living Desert Zoo and Gardens</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=47900+Portola+Ave,+Palm+Desert,+CA" target="_blank" rel="noopener">47900 Portola Ave, Palm Desert ↗</a></p>
+            <p class="place-desc">Over 1,000 acres of desert ecosystem featuring a bighorn sheep enclosure &amp; small animal exhibits.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603465694">760-346-5694</a>
+              <a class="place-link" href="https://livingdesert.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Over the Rainbow Desserts</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=1775+E+Palm+Canyon+Dr+STE+150,+Palm+Springs,+CA" target="_blank" rel="noopener">1775 E Palm Canyon Dr STE 150, Palm Springs ↗</a></p>
-          <p class="place-desc">Treat the family to cupcakes (their gluten-free ones are the best I've had). Go early for half-off day-olds that taste just as good.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7603222253">760-322-2253</a>
-            <a class="place-link" href="https://overtherainbowdesserts.com" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/over-rainbow-desserts.webp" alt="Pink frosted cupcake with sprinkles from Over the Rainbow Desserts in Palm Springs" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Over the Rainbow Desserts</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=1775+E+Palm+Canyon+Dr+STE+150,+Palm+Springs,+CA" target="_blank" rel="noopener">1775 E Palm Canyon Dr STE 150, Palm Springs ↗</a></p>
+            <p class="place-desc">Treat the family to cupcakes (their gluten-free ones are the best I've had). Go early for half-off day-olds that taste just as good.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603222253">760-322-2253</a>
+              <a class="place-link" href="https://overtherainbowdesserts.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Bear Creek Trailhead</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=Bear+Creek+Trail,+La+Quinta,+CA" target="_blank" rel="noopener">Bear Creek Trail, La Quinta ↗</a></p>
-          <p class="place-desc">A paved trail that meanders through a protected nature preserve along the base of the Southern Santa Rosa Mountains.</p>
-        </div>
-      </div>
-
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Cabazon Dinosaurs</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=50770+Seminole+Dr,+Cabazon,+CA" target="_blank" rel="noopener">50770 Seminole Dr, Cabazon ↗</a></p>
-          <p class="place-desc">The World's Biggest Dinosaurs museum with a dinosaur garden and robotic dinosaurs.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:9092728164">909-272-8164</a>
-            <a class="place-link" href="https://cabazondinosaurs.com" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/bear-creek-trail.webp" alt="Hiker walking along Bear Creek Trailhead in La Quinta through desert wilderness" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Bear Creek Trailhead</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=Bear+Creek+Trail,+La+Quinta,+CA" target="_blank" rel="noopener">Bear Creek Trail, La Quinta ↗</a></p>
+            <p class="place-desc">A paved trail that meanders through a protected nature preserve along the base of the Southern Santa Rosa Mountains.</p>
           </div>
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Palm Springs Air Museum</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=745+N+Gene+Autry+Trail,+Palm+Springs,+CA" target="_blank" rel="noopener">745 N Gene Autry Trail, Palm Springs ↗</a></p>
-          <p class="place-desc">Kids can go inside a fully functional Boeing B-17 Flying Fortress and test their skills in a flight simulator.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7607786262">760-778-6262</a>
-            <a class="place-link" href="https://palmspringsairmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/cabazon-dinosaurs.webp" alt="Life-size T-Rex dinosaur sculpture at Cabazon Dinosaurs roadside attraction in California" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Cabazon Dinosaurs</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=50770+Seminole+Dr,+Cabazon,+CA" target="_blank" rel="noopener">50770 Seminole Dr, Cabazon ↗</a></p>
+            <p class="place-desc">The World's Biggest Dinosaurs museum with a dinosaur garden and robotic dinosaurs.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:9092728164">909-272-8164</a>
+              <a class="place-link" href="https://cabazondinosaurs.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/palm-springs-air-museum-plane.webp" alt="Aircraft in flight over blue sky near Palm Springs Air Museum" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Palm Springs Air Museum</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=745+N+Gene+Autry+Trail,+Palm+Springs,+CA" target="_blank" rel="noopener">745 N Gene Autry Trail, Palm Springs ↗</a></p>
+            <p class="place-desc">Kids can go inside a fully functional Boeing B-17 Flying Fortress and test their skills in a flight simulator.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607786262">760-778-6262</a>
+              <a class="place-link" href="https://palmspringsairmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1441,38 +1462,47 @@
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Ice Skating at Acrisure Arena</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=75702+Varner+Rd,+Palm+Desert,+CA" target="_blank" rel="noopener">75702 Varner Rd, Palm Desert ↗</a></p>
-          <p class="place-desc">Skate where the Coachella Firebirds train. $15 a session, $5 skate rental. Pre-register.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7603187388">760-318-7388</a>
-            <a class="place-link" href="https://bergerfoundationiceplex.com/public-skating/" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/acrisure-arena-ice-skating.webp" alt="White ice skates on a reflective surface, ready for public skating at Acrisure Arena in Palm Desert" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Ice Skating at Acrisure Arena</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=75702+Varner+Rd,+Palm+Desert,+CA" target="_blank" rel="noopener">75702 Varner Rd, Palm Desert ↗</a></p>
+            <p class="place-desc">Skate where the Coachella Firebirds train. $15 a session, $5 skate rental. Pre-register.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603187388">760-318-7388</a>
+              <a class="place-link" href="https://bergerfoundationiceplex.com/public-skating/" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Palm Springs Art Museum</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=2500+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">2500 N Palm Canyon Dr, Palm Springs ↗</a></p>
-          <p class="place-desc">Desert art, European &amp; Native American works, theater, outdoor space &amp; cafe. Thursday afternoons are free, and there's live music too.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7603224800">760-322-4800</a>
-            <a class="place-link" href="https://psmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/palm-springs-art-museum.webp" alt="Outdoor sculpture garden at Palm Springs Art Museum with desert landscape" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Palm Springs Art Museum</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=2500+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">2500 N Palm Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">Desert art, European &amp; Native American works, theater, outdoor space &amp; cafe. Thursday afternoons are free, and there's live music too.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603224800">760-322-4800</a>
+              <a class="place-link" href="https://psmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="place-card no-photo">
-        <div class="place-body">
-          <p class="place-name">Agua Caliente Cultural Museum</p>
-          <p class="place-addr"><a href="https://maps.google.com/?q=140+N+Indian+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">140 N Indian Canyon Dr, Palm Springs ↗</a></p>
-          <p class="place-desc">Newer museum covering Cahuilla tribal history and desert culture. Well-designed space with AC.</p>
-          <div class="place-links">
-            <a class="place-link" href="tel:7607781079">(760) 778-1079</a>
-            <a class="place-link" href="https://accmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/agua-caliente-cultural-museum.webp" alt="Agua Caliente Cultural Museum exterior with palm trees and desert landscaping in Palm Springs" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Agua Caliente Cultural Museum</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=140+N+Indian+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">140 N Indian Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">Newer museum covering Cahuilla tribal history and desert culture. Well-designed space with AC.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607781079">(760) 778-1079</a>
+              <a class="place-link" href="https://accmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
           </div>
         </div>
       </div>

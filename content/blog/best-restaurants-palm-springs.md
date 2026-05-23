@@ -78,7 +78,7 @@ layout: blog-post.njk
 <p>These are the 15 places I keep coming back to, organized by neighborhood and meal. I've included addresses and rough hours for each one because nothing kills a vacation mood like driving somewhere that's closed. Verify hours before you go. Palm Springs restaurants shift seasonally, and some reduce days during summer.</p>
 
 <img src="/blog/images/bar-cecil.webp" alt="Bar Cecil interior in Palm Springs with moody lighting, plush seating, and vintage cocktail bar atmosphere" width="1000" height="667" loading="lazy">
-<p class="image-caption">Tropicale on East Amado Road. One of the more recognizable exteriors in the city.</p>
+<p class="image-caption">Bar Cecil on North Palm Canyon. One of the better cocktail bars in the desert.</p>
 
 <h2>Neighborhood Map: Where Things Are</h2>
 
@@ -90,6 +90,9 @@ layout: blog-post.njk
   <li><strong>South Indian Canyon / East Side:</strong> Rooster and the Pig, The Heyday. Less foot traffic, worth the detour.</li>
   <li><strong>Off the main grid:</strong> Escena Grill (golf club, west side), Copley's (North Palm Canyon, near the Design District), Purple Room (East Palm Canyon, different vibe entirely), Les Filles (Cathedral City, 5 minutes out).</li>
 </ul>
+
+<img src="/blog/images/palm-springs-neighborhood-map.webp" alt="Palm Springs restaurant neighborhood map showing Downtown Palm Canyon, Uptown Design District, South Indian Canyon, and surrounding areas" width="1033" height="820" loading="lazy">
+<p class="image-caption">The four main zones. Uptown Design District (North Palm Canyon) has the most density of good independent spots.</p>
 
 <h2>Coffee and Breakfast</h2>
 
