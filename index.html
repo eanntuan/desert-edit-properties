@@ -340,7 +340,13 @@
             flex-direction: column;
             gap: 5px;
             cursor: pointer;
-            padding: 5px;
+            padding: 10px;
+            background: none;
+            border: none;
+            min-width: 44px;
+            min-height: 44px;
+            align-items: center;
+            justify-content: center;
         }
 
         .mobile-menu-toggle span {
@@ -368,10 +374,12 @@
             position: absolute;
             top: 1.5rem;
             right: 1.5rem;
-            width: 40px;
-            height: 40px;
+            width: 44px;
+            height: 44px;
             cursor: pointer;
             z-index: 1001;
+            background: none;
+            border: none;
         }
 
         .mobile-menu-close::before,
@@ -1958,20 +1966,84 @@
                 display: flex;
             }
         }
+
+        /* ── ACCESSIBILITY ── */
+
+        /* Skip link — hidden until focused (keyboard/VoiceOver users) */
+        .skip-link {
+            position: absolute;
+            top: -100%;
+            left: 1rem;
+            z-index: 9999;
+            padding: 0.75rem 1.25rem;
+            background: var(--charcoal);
+            color: #fff;
+            font-size: 0.9rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 0 0 6px 6px;
+            transition: top 0.15s;
+        }
+        .skip-link:focus { top: 0; }
+
+        /* Screen-reader-only utility */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0,0,0,0);
+            white-space: nowrap;
+            border: 0;
+        }
+
+        /* Global focus indicator */
+        :focus-visible {
+            outline: 3px solid var(--kahlo-blue, #325CD9);
+            outline-offset: 3px;
+            border-radius: 3px;
+        }
+        /* Replace outline:none with visible alternative on email inputs */
+        .email-form input[type="email"]:focus {
+            outline: none;
+            border-color: var(--charcoal);
+            box-shadow: 0 0 0 3px rgba(50,92,217,0.25);
+        }
+        .email-popup-form input[type="email"]:focus {
+            outline: none;
+            border-color: var(--terracotta);
+            box-shadow: 0 0 0 3px rgba(210,99,91,0.25);
+        }
+
+        /* Sufficient footer text contrast — remove low-opacity that fails AA */
+        footer p { opacity: 1; color: #555; }
+
+        /* Reduced motion */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                transition-duration: 0.01ms !important;
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                scroll-behavior: auto !important;
+            }
+        }
     </style>
 </head>
 <body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     <!-- Navigation -->
     <nav>
         <div class="container">
             <a href="#" class="logo">
                 <span class="logo-text">Indigo Palm Collective</span>
             </a>
-            <div class="mobile-menu-toggle" id="mobileMenuToggle">
+            <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Open navigation menu" aria-expanded="false" aria-controls="navMenu">
                 <span></span>
                 <span></span>
                 <span></span>
-            </div>
+            </button>
             <ul id="navMenu">
                 <li><a href="#properties">Properties</a></li>
                 <li><a href="#about">About</a></li>
@@ -1979,10 +2051,11 @@
                 <li><a href="/quiz/">Take the Quiz</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
-            <div class="mobile-menu-close" id="mobileMenuClose"></div>
+            <button class="mobile-menu-close" id="mobileMenuClose" aria-label="Close navigation menu"></button>
         </div>
     </nav>
 
+    <main id="main-content">
     <!-- Hero Section -->
     <section class="hero">
         <!-- Video Background -->
@@ -2248,7 +2321,8 @@
         <h2>First to Know</h2>
         <p>New properties, last-minute availability, and the occasional deal that doesn't make it to Airbnb. Straight to your inbox, nothing else.</p>
         <form name="email-signup" class="email-form" id="emailSignupForm">
-            <input type="email" name="email" placeholder="Enter your email" required>
+            <label for="emailSignupInput" class="sr-only">Email address</label>
+            <input type="email" id="emailSignupInput" name="email" placeholder="Enter your email" required>
             <button type="submit">SIGN UP</button>
         </form>
         <div class="form-success" id="signupSuccess" style="display: none;">
@@ -2392,6 +2466,7 @@
         </div>
     </section>
 
+    </main>
     <footer id="contact">
         <div class="footer-content">
             <div class="logo">Indigo Palm Collective</div>
@@ -2410,8 +2485,8 @@
                     Pinterest
                 </a>
             </div>
-            <p style="font-size: 0.9rem; opacity: 0.7;">&copy; 2026 Indigo Palm Collective. Desert homes across Coachella Valley.</p>
-            <p style="margin-top: 0.75rem; font-size: 0.85rem; opacity: 0.5;">
+            <p style="font-size: 0.9rem; color: #555;">&copy; 2026 Indigo Palm Collective. Desert homes across Coachella Valley.</p>
+            <p style="margin-top: 0.75rem; font-size: 0.85rem; color: #666;">
                 Photography by <a href="https://www.thirdwallphoto.com/" target="_blank" style="color: inherit; text-decoration: underline;">Third Wall</a>
                 &nbsp;&middot;&nbsp;
                 Styling by <a href="https://www.theolivejar.co/" target="_blank" style="color: inherit; text-decoration: underline;">The Olive Jar</a>
@@ -2429,7 +2504,8 @@
             <form name="popup-signup" method="POST" data-netlify="true" class="email-popup-form" id="popupForm">
                 <input type="hidden" name="form-name" value="popup-signup">
                 <input type="hidden" name="discount-code" value="DIRECT10">
-                <input type="email" name="email" placeholder="Enter your email" required>
+                <label for="popupEmailInput" class="sr-only">Email address</label>
+                <input type="email" id="popupEmailInput" name="email" placeholder="Enter your email" required>
                 <button type="submit">GET MY 10% OFF</button>
             </form>
             <p class="fine-print">We respect your privacy. Unsubscribe anytime.</p>
@@ -2528,12 +2604,16 @@
 
         function closeMenu() {
             mobileMenuToggle.classList.remove('active');
+            mobileMenuToggle.setAttribute('aria-expanded', 'false');
+            mobileMenuToggle.setAttribute('aria-label', 'Open navigation menu');
             navMenu.classList.remove('active');
         }
 
         mobileMenuToggle.addEventListener('click', function() {
-            this.classList.toggle('active');
+            const isOpen = this.classList.toggle('active');
             navMenu.classList.toggle('active');
+            this.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+            this.setAttribute('aria-label', isOpen ? 'Close navigation menu' : 'Open navigation menu');
         });
 
         // Close button click

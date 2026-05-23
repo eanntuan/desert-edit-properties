@@ -36,7 +36,7 @@
       --bg: #F6F1E8;            /* Coconut Milk */
       --white: #ffffff;
       --text: #2c2c2c;
-      --muted: #888;
+      --muted: #666666;
       --border: rgba(44,44,44,0.1);
       --nav-h: 56px;
       --sage: #C9D6C9;          /* Cool Aloe */
@@ -221,7 +221,7 @@
       padding-top: 2px;
     }
     .info-val { flex: 1; line-height: 1.6; }
-    .info-val a { color: var(--terra); text-decoration: none; font-weight: 500; }
+    .info-val a { color: var(--terra-dark); text-decoration: none; font-weight: 500; }
 
     /* ── ARRIVAL STEPS ── */
     .step-list { list-style: none; margin: 0; }
@@ -442,7 +442,7 @@
       margin-bottom: 3px;
     }
     .e-detail { font-size: 0.85rem; line-height: 1.65; color: #555; }
-    .e-detail a { color: var(--terra); text-decoration: none; font-weight: 500; }
+    .e-detail a { color: var(--terra-dark); text-decoration: none; font-weight: 500; }
 
     /* ── POOL DETAIL ── */
     .pool-detail {
@@ -472,7 +472,7 @@
       border-radius: 0 10px 10px 0;
     }
     .tip-label {
-      font-size: 0.62rem;
+      font-size: 0.7rem;
       font-weight: 700;
       letter-spacing: 2px;
       text-transform: uppercase;
@@ -480,7 +480,7 @@
       margin-bottom: 5px;
     }
     .tip-text { font-size: 0.9rem; line-height: 1.7; }
-    .tip-text a { color: var(--terra); font-weight: 600; text-decoration: none; }
+    .tip-text a { color: var(--terra-dark); font-weight: 600; text-decoration: none; }
 
     /* ── GUIDE IMAGES ── */
     .guide-img {
@@ -540,10 +540,10 @@
       font-size: 0.73rem;
       font-weight: 600;
       letter-spacing: 0.5px;
-      color: var(--terra);
+      color: var(--terra-dark);
       text-decoration: none;
     }
-    .place-link:hover { color: var(--terra-dark); text-decoration: underline; }
+    .place-link:hover { color: var(--teal-dark); text-decoration: underline; }
     /* no-photo variant: just use padding on the card */
     .place-card.no-photo .place-body { padding: 16px; }
 
@@ -580,7 +580,7 @@
       margin-bottom: 5px;
     }
     .ev-text { font-size: 0.88rem; line-height: 1.65; color: var(--text); }
-    .ev-text a { color: var(--terra); text-decoration: none; }
+    .ev-text a { color: var(--terra-dark); text-decoration: none; }
 
     /* ── CHECKOUT ── */
     .checkout-list { list-style: none; margin: 16px 0; }
@@ -657,7 +657,7 @@
       margin: 20px 0;
     }
     .blog-callout-label {
-      font-size: 0.6rem;
+      font-size: 0.7rem;
       font-weight: 700;
       letter-spacing: 2px;
       text-transform: uppercase;
@@ -683,6 +683,36 @@
       .tab-btn { font-size: 0.56rem; min-width: 54px; }
       .page-banner-text { font-size: 1rem; letter-spacing: 3px; }
       .place-photo { width: 75px; }
+    }
+
+    /* ── ACCESSIBILITY ── */
+
+    /* Focus indicators — visible for keyboard and switch users */
+    :focus-visible {
+      outline: 3px solid var(--teal);
+      outline-offset: 3px;
+      border-radius: 4px;
+    }
+    /* Tab nav buttons need extra specificity since they override outline */
+    .tab-btn:focus-visible {
+      outline: 3px solid var(--golden-hour);
+      outline-offset: -3px;
+    }
+
+    /* Minimum touch target for tab buttons (already 56px height, belt+suspenders) */
+    .tab-btn { min-height: 44px; }
+
+    /* Blog links — enough padding for 44px tap target */
+    .blog-link { min-height: 44px; display: flex; align-items: center; }
+
+    /* Reduce motion for vestibular sensitivity */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+      }
+      html { scroll-behavior: auto; }
     }
   </style>
 </head>
