@@ -505,9 +505,11 @@
     }
     .place-photo {
       width: 90px;
+      height: 120px;
       flex-shrink: 0;
       object-fit: cover;
       display: block;
+      border-radius: 8px 0 0 8px;
     }
     .place-body {
       flex: 1;
@@ -652,31 +654,30 @@
       margin-bottom: 8px;
     }
     .blog-callout p { font-size: 0.88rem; line-height: 1.65; margin-bottom: 12px; color: var(--text); }
-    .blog-links { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .blog-links { display: flex; flex-direction: column; gap: 10px; }
     .blog-link {
       position: relative;
       overflow: hidden;
       display: flex;
       align-items: flex-end;
-      height: 140px;
-      padding: 10px 12px;
+      height: 180px;
+      padding: 14px 16px;
       background: var(--sage);
       background-size: cover;
       background-position: center;
-      border-radius: 10px;
+      border-radius: 12px;
       text-decoration: none;
     }
-    .blog-link-wide { grid-column: 1 / -1; height: 80px; }
     .blog-link::before {
       content: '';
       position: absolute;
       inset: 0;
-      background: linear-gradient(to top, rgba(0,0,0,0.68) 0%, rgba(0,0,0,0.18) 100%);
+      background: linear-gradient(to top, rgba(0,0,0,0.72) 0%, rgba(0,0,0,0.15) 100%);
     }
     .blog-link-text {
       position: relative;
       z-index: 1;
-      font-size: 0.82rem;
+      font-size: 0.9rem;
       font-weight: 600;
       color: #fff;
       line-height: 1.3;
@@ -688,7 +689,7 @@
       .hg-grid, .rules-grid, .todo-grid, .arrival-grid { grid-template-columns: 1fr; }
       .tab-btn { font-size: 0.56rem; min-width: 54px; }
       .page-banner-text { font-size: 1rem; letter-spacing: 3px; }
-      .place-photo { width: 75px; }
+      .place-photo { width: 75px; height: 100px; }
     }
 
     /* ── ACCESSIBILITY ── */
@@ -1143,10 +1144,10 @@
         <p class="blog-callout-label">Wanderlust Approved</p>
         <p>Restaurant picks, things to skip, and how the valley works. Written for guests who want to feel like a local, not a tourist.</p>
         <div class="blog-links">
-          <a class="blog-link" href="https://indigopalm.co/blog/best-restaurants-palm-springs/" target="_blank" rel="noopener" style="background-image: url('/blog/images/tropicale-palm-springs.webp')"><span class="blog-link-text">Best Restaurants in Palm Springs ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/best-restaurants-palm-springs/" target="_blank" rel="noopener" style="background-image: url('/blog/images/bar-cecil.webp')"><span class="blog-link-text">Best Restaurants in Palm Springs ↗</span></a>
           <a class="blog-link" href="https://indigopalm.co/blog/palm-springs-local-guide-sundune/" target="_blank" rel="noopener" style="background-image: url('/blog/images/palm-springs-local-guide-sundune.webp')"><span class="blog-link-text">Local Guide: Palm Springs ↗</span></a>
           <a class="blog-link" href="https://indigopalm.co/blog/coachella-valley-insider-guide/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-street-bougainvillea.webp')"><span class="blog-link-text">Coachella Valley Insider Guide ↗</span></a>
-          <a class="blog-link blog-link-wide" href="https://indigopalm.co/blog/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-palm-street-blue-sky.webp')"><span class="blog-link-text">All posts ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-palm-street-blue-sky.webp')"><span class="blog-link-text">All posts ↗</span></a>
         </div>
       </div>
 
