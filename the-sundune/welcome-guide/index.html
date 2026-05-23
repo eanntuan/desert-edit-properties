@@ -654,15 +654,33 @@
     .blog-callout p { font-size: 0.88rem; line-height: 1.65; margin-bottom: 12px; color: var(--text); }
     .blog-links { display: flex; flex-direction: column; gap: 8px; }
     .blog-link {
-      font-size: 0.82rem;
-      color: var(--teal);
-      text-decoration: none;
-      font-weight: 500;
-      padding: 9px 12px;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      align-items: flex-end;
+      min-height: 80px;
+      padding: 12px 14px;
       background: var(--sage);
+      background-size: cover;
+      background-position: center;
       border-radius: 6px;
+      text-decoration: none;
     }
-    .blog-link:hover { color: var(--teal-dark); }
+    .blog-link::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.62) 0%, rgba(0,0,0,0.25) 100%);
+    }
+    .blog-link-text {
+      position: relative;
+      z-index: 1;
+      font-size: 0.84rem;
+      font-weight: 600;
+      color: #fff;
+      line-height: 1.3;
+    }
+    .blog-link:hover .blog-link-text { color: #f5e6c8; }
 
     /* ── RESPONSIVE ── */
     @media (max-width: 400px) {
@@ -689,8 +707,8 @@
     /* Minimum touch target for tab buttons (already 56px height, belt+suspenders) */
     .tab-btn { min-height: 44px; }
 
-    /* Blog links — enough padding for 44px tap target */
-    .blog-link { min-height: 44px; display: flex; align-items: center; }
+    /* Blog links — 80px tiles, 44px min tap target already satisfied */
+    .blog-link { min-height: 80px; }
 
     /* Reduce motion for vestibular sensitivity */
     @media (prefers-reduced-motion: reduce) {
@@ -1125,10 +1143,10 @@
         <p class="blog-callout-label">Wanderlust Approved</p>
         <p>Restaurant picks, things to skip, and how the valley works. Written for guests who want to feel like a local, not a tourist.</p>
         <div class="blog-links">
-          <a class="blog-link" href="https://indigopalm.co/blog/best-restaurants-palm-springs/" target="_blank" rel="noopener">Best Restaurants in Palm Springs ↗</a>
-          <a class="blog-link" href="https://indigopalm.co/blog/palm-springs-local-guide-sundune/" target="_blank" rel="noopener">Local Guide: Palm Springs ↗</a>
-          <a class="blog-link" href="https://indigopalm.co/blog/coachella-valley-insider-guide/" target="_blank" rel="noopener">Coachella Valley Insider Guide ↗</a>
-          <a class="blog-link" href="https://indigopalm.co/blog/" target="_blank" rel="noopener">All posts ↗</a>
+          <a class="blog-link" href="https://indigopalm.co/blog/best-restaurants-palm-springs/" target="_blank" rel="noopener" style="background-image: url('/blog/images/tropicale-palm-springs.webp')"><span class="blog-link-text">Best Restaurants in Palm Springs ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/palm-springs-local-guide-sundune/" target="_blank" rel="noopener" style="background-image: url('/blog/images/palm-springs-local-guide-sundune.webp')"><span class="blog-link-text">Local Guide: Palm Springs ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/coachella-valley-insider-guide/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-street-bougainvillea.webp')"><span class="blog-link-text">Coachella Valley Insider Guide ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-palm-street-blue-sky.webp')"><span class="blog-link-text">All posts ↗</span></a>
         </div>
       </div>
 
