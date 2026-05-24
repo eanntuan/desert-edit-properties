@@ -83,7 +83,7 @@ The rule I follow for our guests at [The Cozy Cactus and Terra Luz](/cozy-cactus
 
 **Cooling mats and indoor enrichment.** A good cooling mat (the gel-based ones that don't need refrigeration work well) placed in front of the AC vent gives your dog a dedicated cool spot during the hottest part of the day. Puzzle feeders and frozen treats keep them occupied inside without requiring outdoor exertion.
 
-**Dog-friendly patios in the evening.** Most Palm Springs restaurants with patios allow dogs in the outdoor section, particularly after about 7pm when the heat has backed off. Check before you arrive. [Cheeky's, Birba, and El Mirasol](/blog/best-restaurants-palm-springs/) are good options, and all are dog-friendly at their outdoor tables.
+**Dog-friendly patios in the evening.** Most Palm Springs restaurants with patios allow dogs in the outdoor section, particularly after about 7pm when the heat has backed off. Check before you arrive. [Cheeky's, Birba, and El Mirasol](/blog/best-restaurants-palm-springs/) are good options, and all are dog-friendly at their outdoor tables. Boozehounds on North Palm Canyon is built around this: sprawling atrium, craft cocktails, food, and dog treats on hand at the bar. It's probably the most dog-forward spot in the city.
 
 <img src="/blog/images/cozy-cactus-pool.webp" alt="Private backyard pool at a vacation rental in Indio California, shaded patio and pool area in the Coachella Valley" loading="lazy" width="1400" height="933">
 

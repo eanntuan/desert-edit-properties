@@ -163,7 +163,7 @@ const GO_LINKS = {
   'welcome-terra-luz':   'https://indigopalm.co/welcome-guide-terra-luz/',
   'farewell-indio':      'https://indigopalm.co/farewell-guide-indio/?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
   'farewell-cozy-cactus': 'https://indigopalm.co/farewell-guide-cozy-cactus/?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
-  'farewell-terra-luz':  'https://indigopalm.co/farewell-guide-terra-luz/?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
+  'farewell-terra-luz':  'https://indigopalm.co/terra-luz/farewell.html?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
 };
 
 // Pages that should 301 redirect from .html to clean URL
@@ -312,7 +312,7 @@ async function sendPinterestDailyReport(env) {
     const m = row.metrics || {};
     return `
       <tr>
-        <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;">${campaignMap[row.campaign_id] || row.campaign_id}</td>
+        <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;">${campaignMap[row.CAMPAIGN_ID] || row.CAMPAIGN_ID || '—'}</td>
         <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;text-align:right;">${fmtMoney(m.SPEND_IN_DOLLAR)}</td>
         <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;text-align:right;">${fmt(m.IMPRESSION_1)}</td>
         <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;text-align:right;">${fmt(m.OUTBOUND_CLICK_1)}</td>
@@ -325,7 +325,7 @@ async function sendPinterestDailyReport(env) {
     const m = row.metrics || {};
     return `
       <tr>
-        <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;">${campaignMap[row.campaign_id] || row.campaign_id}</td>
+        <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;">${campaignMap[row.CAMPAIGN_ID] || row.CAMPAIGN_ID || '—'}</td>
         <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;text-align:right;">${fmtMoney(m.SPEND_IN_DOLLAR)}</td>
         <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;text-align:right;">${fmt(m.IMPRESSION_1)}</td>
         <td style="padding:8px 12px;font-size:13px;color:#333;border-bottom:1px solid #eee;text-align:right;">${fmt(m.OUTBOUND_CLICK_1)}</td>
@@ -368,6 +368,7 @@ async function sendPinterestDailyReport(env) {
     `),
   });
 }
+
 
 export default {
   async scheduled(event, env) {
@@ -1893,6 +1894,9 @@ async function sendEmail(apiKey, { from, to, subject, html, reply_to, cc }) {
 // Receives Hostaway webhooks on POST /api/webhook/hostaway
 // Generates Claude replies in Eann's voice, auto-sends or escalates to email.
 //
+// Set to false to disable entirely (no drafts, no auto-sends, emails still forward normally).
+const AI_REPLY_ENABLED = false;
+//
 // Required Cloudflare secrets (run once per secret):
 //   wrangler secret put ANTHROPIC_API_KEY      --name indigo-palm-api
 //   wrangler secret put HOSTAWAY_CLIENT_ID     --name indigo-palm-api
@@ -2402,10 +2406,32 @@ async function handleHostawayWebhook(request, env) {
 // Required secrets (already set): ANTHROPIC_API_KEY, RESEND_API_KEY
 
 const AIRBNB_PROPERTY_PATTERNS = [
-  { patterns: ['cozy cactus', 'cochran', '82381'],              key: 'cozy_cactus', name: 'The Cozy Cactus' },
-  { patterns: ['terra luz', 'casa moto', 'pacino', '49768'],    key: 'terra_luz',   name: 'Terra Luz'       },
-  { patterns: ['sundune', 'waverly', '5301', 'ps retreat', 'palm springs retreat'], key: 'sundune', name: 'The Sundune at Palm Springs' },
+  { patterns: ['cozy cactus', 'cochran', '82381', '610023395582313286', 'mini golf'],
+    key: 'cozy_cactus', icalId: 'cozy-cactus', name: 'The Cozy Cactus' },
+  { patterns: ['terra luz', 'casa moto', 'pacino', '49768', '716871660845992276', 'salt water pool', 'boho remodel'],
+    key: 'terra_luz',   icalId: 'casa-moto',   name: 'Terra Luz'       },
+  { patterns: ['sundune', 'waverly', '5301', 'ps retreat', 'palm springs retreat', '1171049679026732503', 'palm canyon villas'],
+    key: 'sundune', icalId: 'ps-retreat', name: 'The Sundune at Palm Springs' },
+  { patterns: ['the well', 'villa ct', 'villa court', 'n villa', '510', '868862893900280104'],
+    key: 'the_well', icalId: 'the-well', name: 'The Well' },
 ];
+
+// Fallback: find which property has an active booking for this guest name
+async function detectPropertyFromActiveBooking(env, guestName) {
+  if (!guestName || guestName === 'Guest') return null;
+  const today = new Date().toISOString().slice(0, 10);
+  const firstName = guestName.split(/\s+/)[0].toLowerCase();
+  for (const prop of AIRBNB_PROPERTY_PATTERNS) {
+    const bookings = await env.BOOKINGS.get(`ical:${prop.icalId}`, { type: 'json' }) || [];
+    for (const b of bookings) {
+      if (b.checkIn <= today && today < b.checkOut) {
+        const bookingFirst = (b.guestName || '').split(/\s+/)[0].toLowerCase();
+        if (bookingFirst && bookingFirst === firstName) return prop;
+      }
+    }
+  }
+  return null;
+}
 
 async function streamToText(stream) {
   const reader = stream.getReader();
@@ -2500,13 +2526,23 @@ function parseEmailParts(rawEmail) {
   return { plain, html };
 }
 
-function extractGuestName(subject) {
+function extractGuestName(subject, body = '') {
   let m = subject.match(/new message from ([^<\n]+?)(?:\s*[-|]|\s*$)/i);
   if (m) return m[1].trim().split(' ')[0];
   m = subject.match(/^([A-Z][a-z]+(?:\s[A-Z][a-z]+)?)\s+sent\s+/);
   if (m) return m[1].trim().split(' ')[0];
   m = subject.match(/message from ([A-Z][a-z]+)/i);
   if (m) return m[1];
+  // Fallback: Airbnb body patterns when subject is empty
+  if (body) {
+    m = body.match(/^([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s+sent\s+you\s+a\s+message/im);
+    if (m) return m[1].trim().split(' ')[0];
+    m = body.match(/Message from\s+([A-Z][a-z]+)/i);
+    if (m) return m[1];
+    // "Firstname: message text" pattern at line start
+    m = body.match(/^([A-Z][a-z]{2,}(?:\s+[A-Z][a-z]+)?):\s+\S/m);
+    if (m) return m[1].trim().split(' ')[0];
+  }
   return null;
 }
 
@@ -2551,7 +2587,8 @@ async function extractGuestMessageWithClaude(env, emailText, subject) {
   if (!res.ok) return null;
   const data = await res.json();
   const text = data.content?.[0]?.text?.trim();
-  return (text && text !== 'NO_MESSAGE') ? text : null;
+  // Haiku sometimes returns "NO_MESSAGE\n\nexplanation..." — catch any response starting with NO_MESSAGE
+  return (text && !/^NO_?MESSAGE\b/i.test(text)) ? text : null;
 }
 
 async function sendAirbnbReply(env, replyToAddress, propertyName, replyText) {
@@ -3200,7 +3237,14 @@ function buildAirbnbMessageEmail(subject, bodyText, property) {
   const e = escapeHtml;
   const fix = fixEncoding;
 
-  const cleaned = truncateAtBoilerplate(bodyText);
+  const cleaned = truncateAtBoilerplate(bodyText)
+    .replace(/%[a-z_]+%/gi, '')        // strip %opentrack% and similar placeholders
+    .replace(/https?:\/\/\S+/g, '')    // strip raw URLs
+    .replace(/\[[\s\S]{0,300}?\]/g, '') // strip [bracketed link text]
+    .replace(/^\s*[\[\]]\s*$/gm, '')   // remove stray lone [ or ] lines
+    .replace(/[ \t]+$/gm, '')          // trim trailing whitespace per line
+    .replace(/\n{3,}/g, '\n\n')        // collapse excess blank lines
+    .trim();
 
   const grab = (pattern, text, group = 1) => {
     const m = text.match(pattern);
@@ -3266,10 +3310,27 @@ function buildAirbnbMessageEmail(subject, bodyText, property) {
       <div style="background:#f7f5f1;border-left:3px solid #B67550;padding:12px 16px;border-radius:0 8px 8px 0;font-size:14px;color:#2C2C2C;line-height:1.6;">${e(text)}</div>
     </div>`;
 
+  // Strip residual Airbnb boilerplate from the fallback display text
+  const displayText = fix(cleaned)
+    .replace(/For your protection and safety,?\s*always communicate through Airbnb\.?/gi, '')
+    .replace(/RESERVATION FOR [^\n]+/gi, '')
+    .replace(/\bBooker\b/g, '')
+    .replace(/\bReply\b\s*$/gim, '')
+    .replace(/Send \w+ a Message/gi, '')
+    .replace(/Identity verified[^\n]*/gi, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+
+  // Title-case a string that is ALL CAPS
+  const titleCase = s => /^[^a-z]+$/.test(s)
+    ? s.toLowerCase().replace(/\b\w/g, c => c.toUpperCase())
+    : s;
+
   const latestSender = messages.length ? messages[messages.length - 1].name : null;
-  const headline = latestSender
+  const rawHeadline = latestSender
     ? `${latestSender} sent a message`
     : propertyName || fix(subject);
+  const headline = titleCase(rawHeadline);
 
   const photoBlock = property?.photo ? `
     <img src="${e(property.photo)}" alt="${e(property.name || 'Property')}" width="600" height="220"
@@ -3285,11 +3346,19 @@ function buildAirbnbMessageEmail(subject, bodyText, property) {
 
   const hasDetails = checkIn || checkOut || guests;
 
+  const fallbackBlock = !messages.length ? (
+    displayText.length > 20
+      ? `<div style="background:#f7f5f1;border-radius:8px;padding:16px 20px;margin-bottom:16px;">
+          <p style="margin:0;font-size:14px;color:#555;line-height:1.7;white-space:pre-wrap;">${e(displayText.slice(0, 600))}</p>
+        </div>`
+      : `<p style="font-size:13px;color:#aaa;font-style:italic;">Airbnb notification — no message content.</p>`
+  ) : '';
+
   return `
     ${photoBlock}
     <p style="margin:0 0 4px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:#888;">Forwarded from Airbnb</p>
     <h2 style="margin:0 0 4px;font-family:Georgia,serif;font-size:22px;font-weight:400;color:#2C2C2C;">${e(headline)}</h2>
-    ${propertyName ? `<p style="margin:0 0 20px;font-size:13px;color:#888;">${e(propertyName)}${dates ? ' · ' + e(dates) : ''}</p>` : '<div style="margin-bottom:20px"></div>'}
+    ${propertyName ? `<p style="margin:0 0 20px;font-size:13px;color:#888;">${e(titleCase(propertyName))}${dates ? ' · ' + e(dates) : ''}</p>` : '<div style="margin-bottom:20px"></div>'}
 
     ${airbnbLinkBlock}
 
@@ -3299,7 +3368,7 @@ function buildAirbnbMessageEmail(subject, bodyText, property) {
       ${row('Guests', guests)}
     </table>` : ''}
 
-    ${messages.length ? messages.map(msgBubble).join('') : `<p style="font-size:14px;color:#555;line-height:1.6;">${e(fix(cleaned).slice(0, 800))}</p>`}
+    ${messages.length ? messages.map(msgBubble).join('') : fallbackBlock}
   `;
 }
 
@@ -3322,6 +3391,7 @@ function buildAirbnbGenericEmail(subject, bodyText) {
 
 function buildAirbnbConfirmationEmail(subject, bodyText) {
   const e = escapeHtml;
+  const isReminder = /reservation reminder/i.test(subject);
   const clean = s => (s || '').replace(/[Â-ï][-¿]+/g, c => {
     try { return decodeURIComponent(escape(c)); } catch { return c; }
   }).replace(/\s+/g, ' ').trim();
@@ -3332,6 +3402,7 @@ function buildAirbnbConfirmationEmail(subject, bodyText) {
   };
 
   const guestName   = grab(/reservation confirmed\s*[-–]\s*([^\n]+?)\s+arrives/i, subject)
+                   || grab(/reservation reminder[:\s]+(\w+(?:\s+\w+)?)\s+is coming/i, subject)
                    || grab(/([A-Z][a-z]+(?: [A-Z][a-z]+)+)\s*\n/m, bodyText);
   const confCode    = grab(/CONFIRMATION CODE\s*\n([A-Z0-9]{6,12})/i, bodyText);
   const checkIn     = grab(/Check-in\s+Checkout[\s\S]{0,30}?(\w+,\s+\w+\s+\d+)/i, bodyText);
@@ -3361,9 +3432,9 @@ function buildAirbnbConfirmationEmail(subject, bodyText) {
     </tr>` : '';
 
   return `
-    <p style="margin:0 0 4px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:#888;">New Booking</p>
+    <p style="margin:0 0 4px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:#888;">${isReminder ? 'Reservation Reminder' : 'New Booking'}</p>
     <h2 style="margin:0 0 4px;font-family:Georgia,serif;font-size:22px;font-weight:400;color:#2C2C2C;">
-      ${guestName ? e(guestName) + ' is coming' : 'Reservation Confirmed'}
+      ${guestName ? e(guestName) + (isReminder ? ' arrives soon' : ' is coming') : (isReminder ? 'Upcoming Arrival' : 'Reservation Confirmed')}
     </h2>
     ${propertyName ? `<p style="margin:0 0 24px;font-size:13px;color:#888;">${e(propertyName)}</p>` : '<div style="margin-bottom:24px"></div>'}
 
@@ -3548,6 +3619,12 @@ async function handlePushSubStatus(env) {
 }
 
 async function handleAirbnbEmail(message, env) {
+  if (!AI_REPLY_ENABLED) {
+    console.log('AI reply disabled — forwarding email without generating draft.');
+    await logEmailEvent(env, { from: message.from || '', subject: message.headers?.get?.('subject') || '', outcome: 'ai_disabled', details: 'AI_REPLY_ENABLED=false' });
+    return;
+  }
+
   const from = (message.from || '').toLowerCase();
   if (!from.includes('airbnb.com')) {
     console.log('Email not from Airbnb, skipping:', from);
@@ -3560,25 +3637,29 @@ async function handleAirbnbEmail(message, env) {
 
   await logEmailEvent(env, { from, subject, outcome: 'received', details: `reply-to: ${replyTo.slice(0, 80)}` });
 
-  const airbnbReplyMatch = replyTo.match(/reply\+[^@\s]+@reply\.airbnb\.com/i);
+  // Airbnb uses both reply+TOKEN@reply.airbnb.com and TOKEN@reply.airbnb.com formats
+  const airbnbReplyMatch = replyTo.match(/(?:reply\+)?[A-Za-z0-9+/]{20,}@reply\.airbnb\.com/i);
   if (!airbnbReplyMatch) {
     console.log('No Airbnb reply-to token, forwarding to Gmail. Subject:', subject);
     try {
       const rawEmail = await streamToText(message.raw);
       const { plain, html } = parseEmailParts(rawEmail);
       const rawBodyText = plain || stripHtml(html) || '(no body)';
+      const isConfirmation       = /reservation confirmed/i.test(subject);
+      const isReservationReminder = /reservation reminder/i.test(subject);
+      const isMessageThread      = /reservation for /i.test(rawBodyText);
+      const property             = isMessageThread ? detectProperty(subject, rawBodyText) : null;
+      // Pass rawBodyText to message builder so it can extract the Airbnb conv URL before stripping;
+      // cleaning happens inside buildAirbnbMessageEmail on the `cleaned` copy.
       const bodyText = rawBodyText
-        .replace(/%opentrack%/gi, '')
-        .replace(/https?:\/\/\S{60,}/g, '')
-        .replace(/\[[^\]]{60,}\]/g, '')
+        .replace(/%[a-z_]+%/gi, '')
+        .replace(/https?:\/\/\S+/g, '')
+        .replace(/\[[\s\S]{0,300}?\]/g, '')
+        .replace(/^\s*[\[\]]\s*$/gm, '')   // remove lines with just stray [ or ]
         .replace(/[ \t]+$/gm, '')
         .replace(/\n{3,}/g, '\n\n')
         .trim();
-
-      const isConfirmation  = /reservation confirmed/i.test(subject);
-      const isMessageThread = /reservation for /i.test(rawBodyText);
-      const property        = isMessageThread ? detectProperty(subject, rawBodyText) : null;
-      const emailHtml = isConfirmation
+      const emailHtml = (isConfirmation || isReservationReminder)
         ? buildAirbnbConfirmationEmail(subject, bodyText)
         : isMessageThread
         ? buildAirbnbMessageEmail(subject, rawBodyText, property)
@@ -3602,34 +3683,47 @@ async function handleAirbnbEmail(message, env) {
   const rawEmail = await streamToText(message.raw);
   const { plain, html } = parseEmailParts(rawEmail);
   const bodyText = plain || stripHtml(html) || '';
+  // Use combined plain+HTML for detection — Airbnb plain text omits listing title/address
+  // Use raw HTML too (before stripping) so listing IDs in href links are matched
+  const detectText = (plain + ' ' + stripHtml(html) + ' ' + html).slice(0, 12000);
   const airbnbThreadUrl = extractAirbnbThreadUrl(rawEmail);
 
-  const guestName    = extractGuestName(subject) || 'Guest';
-  const property     = detectProperty(subject, bodyText);
+  const guestName    = extractGuestName(subject, bodyText) || 'Guest';
+  const property     = detectProperty(subject, detectText)
+                    || await detectPropertyFromActiveBooking(env, guestName);
   const guestMessage = await extractGuestMessageWithClaude(env, bodyText, subject);
 
   if (!guestMessage) {
-    console.log('Could not extract guest message. Subject:', subject);
+    // No guest message — likely a co-host action, reaction, or non-guest notification. Log and skip.
+    console.log('Could not extract guest message (co-host or non-guest email). Subject:', subject);
     await logEmailEvent(env, { from, subject, outcome: 'no_message_extracted', details: `guest: ${guestName}, body snippet: ${bodyText.slice(0, 100)}` });
-    await sendAirbnbEscalationEmail(env, guestName, property?.name || 'Unknown property', bodyText.slice(0, 500) || '(empty body)', null);
-    await sendWebPush(env, {
-      title: `${guestName} — message (check email)`,
-      body: 'Could not parse message. Check inbox.',
-      url: 'https://indigopalm.co/inbox',
-      id: crypto.randomUUID(),
-    }).catch(e => console.error('Push failed on no-message path:', e));
     return;
   }
 
   if (!property) {
     await logEmailEvent(env, { from, subject, outcome: 'no_property_detected', details: `guest: ${guestName}, msg: ${guestMessage.slice(0, 80)}` });
+    // Save to KV anyway so the inbox card shows up — push links directly to the card
+    const unknownId = crypto.randomUUID();
+    const unknownPending = {
+      airbnbReplyAddress,
+      propertyKey:   'unknown',
+      propertyName:  'Unknown property (check Airbnb)',
+      guestName,
+      guestMessage,
+      draft:         '',
+      airbnbThreadUrl,
+      createdAt:     Date.now(),
+      sent:          false,
+    };
+    await env.BOOKINGS.put(`airbnb_pending:${unknownId}`, JSON.stringify(unknownPending), { expirationTtl: 14400 });
     await sendAirbnbEscalationEmail(env, guestName, 'Unknown property (check Airbnb)', guestMessage, null);
-    await sendWebPush(env, {
+    const pushOkNoProp = await sendWebPush(env, {
       title: `${guestName} — unknown property`,
       body: guestMessage.slice(0, 100),
-      url: 'https://indigopalm.co/inbox',
-      id: crypto.randomUUID(),
-    }).catch(e => console.error('Push failed on no-property path:', e));
+      url: `https://indigopalm.co/api/approve-reply?id=${unknownId}`,
+      id: unknownId,
+    }).then(() => true).catch(e => { console.error('Push failed on no-property path:', e); return false; });
+    await logEmailEvent(env, { from, subject, outcome: pushOkNoProp ? 'push_sent' : 'push_failed', details: `no-property path, guest: ${guestName}, id: ${unknownId}` });
     return;
   }
 
@@ -3712,6 +3806,7 @@ async function handleAirbnbEmail(message, env) {
 }
 
 async function processPendingAirbnbReplies(env) {
+  if (!AI_REPLY_ENABLED) return;
   const TEN_MINUTES = 10 * 60 * 1000;
   let list;
   try {
