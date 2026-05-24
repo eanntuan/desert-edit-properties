@@ -219,6 +219,15 @@ permalink: "{{ page.fileSlug }}/index.html"
         .related-post-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-color: var(--terracotta); color: var(--terracotta); }
         @media (max-width: 768px) { .related-posts-grid { grid-template-columns: 1fr; } }
 
+        .summary-box { background: #f6f1e9; border: 1px solid #e8ddd0; border-radius: 10px; padding: 1.25rem 1.5rem; margin: 2rem 0 2.5rem; font-size: 0.95rem; }
+        .summary-box table { width: 100%; border-collapse: collapse; }
+        .summary-box tr { border-bottom: 1px solid #e8ddd0; }
+        .summary-box tr:last-child { border-bottom: none; }
+        .summary-box th { text-align: left; font-weight: 600; color: #7a6652; padding: 0.45rem 0.75rem 0.45rem 0; width: 38%; font-family: var(--font-sans); font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.04em; }
+        .summary-box td { color: #2a2a2a; padding: 0.45rem 0; font-size: 0.93rem; }
+        .inline-cta { background: #fdf8f2; border-left: 3px solid var(--terracotta); border-radius: 0 8px 8px 0; padding: 1rem 1.25rem; margin: 2.5rem 0; font-size: 0.95rem; color: #2a2a2a; line-height: 1.6; }
+        .inline-cta a { color: var(--terracotta); font-weight: 600; text-decoration: none; }
+        .inline-cta a:hover { text-decoration: underline; }
         .cta-box { background: linear-gradient(135deg, var(--terracotta) 0%, var(--canyon-clay) 100%); color: white; padding: 3rem; border-radius: 12px; text-align: center; margin: 4rem 0; }
         .cta-box h3 { font-family: var(--font-serif); font-size: 2rem; font-weight: 600; margin-bottom: 1rem; }
         .cta-box p { font-size: 1.1rem; margin-bottom: 1.5rem; opacity: 0.95; }

@@ -40,7 +40,7 @@ relatedPosts:
   "description": "Best time to visit Palm Springs depends on what you want: peak weather, budget prices, or avoiding crowds. A real breakdown of every season with honest tradeoffs.",
   "image": "https://indigopalm.co/blog/images/ps-via-sol-sunset.webp",
   "datePublished": "2026-05-15",
-  "dateModified": "2026-05-15",
+  "dateModified": "2026-05-23",
   "author": {
     "@type": "Person",
     "name": "Eann Tuan"
@@ -89,6 +89,16 @@ People ask me when to visit Palm Springs like there's one correct answer. There 
 
 Here's the honest version.
 
+<div class="summary-box">
+  <table>
+    <tr><th>Peak Season</th><td>January–April (Modernism Week, Coachella, BNP Paribas)</td></tr>
+    <tr><th>Shoulder Season</th><td>October–November, May (warm but not brutal)</td></tr>
+    <tr><th>Off-Season</th><td>June–September (100°F+, but cheap rates and pool weather)</td></tr>
+    <tr><th>Busiest Weekends</th><td>Coachella (April), Stagecoach (April), Splash House (June, August)</td></tr>
+    <tr><th>Closest Property</th><td><a href="https://indigopalm.co/the-sundune">The Sundune</a>, Palm Springs</td></tr>
+  </table>
+</div>
+
 <img src="/blog/images/ps-via-sol-sunset.webp" alt="Palm Springs sunset with warm orange light over the desert valley and silhouetted palm trees" loading="lazy" width="1200" height="800">
 <p class="image-caption">Desert sunsets don't require a specific season to be good. This is late October, which is as close to perfect as Palm Springs gets.</p>
 
@@ -127,6 +137,10 @@ April brings Coachella and Stagecoach, which transforms the eastern Coachella Va
 
 May is the transition month. Crowds thin and prices drop as temperatures climb toward the 90s. It's still very doable, especially if you structure your day around mornings and evenings. Our [guide on Coachella Valley weekends](/blog/coachella-valley-weekend-getaway/) covers the spring logistics in more detail.
 
+<div class="inline-cta">
+  <p>Timing matters more in the desert than almost anywhere else. <a href="https://indigopalm.co/the-sundune">The Sundune</a> is available year-round — rates drop significantly in summer if you can handle the heat. <a href="https://indigopalm.co/the-sundune">Check availability →</a></p>
+</div>
+
 ## Summer: June to August
 
 **Temperatures:** 100-115°F days, 70-80°F nights
@@ -135,7 +149,13 @@ May is the transition month. Crowds thin and prices drop as temperatures climb t
 
 I'm going to be honest about summer: the heat is real. At 2pm in July, stepping outside feels like standing in front of an open oven. That's not an exaggeration.
 
-And yet. The hotel rates can drop 50% from peak season. The pools are actually uncrowded. Desert evenings, once the sun drops, are warm and clear in a way that genuinely feels nice rather than punishing. Splash House in August turns a few Palm Springs hotels into a multi-day music festival built entirely around the pool.
+And yet. The hotel rates can drop 50% from peak season. The pools are actually uncrowded. Desert evenings, once the sun drops, are warm and clear in a way that genuinely feels nice rather than punishing.
+
+### Splash House
+
+Splash House is a pool festival held across three Palm Springs hotels in June and again in August. The venues rotate but usually include the Margaritaville, Renaissance, and Saguaro. You get a wristband that lets you move between all three hotel pools. Music runs throughout the day, and the programming leans toward electronic and house.
+
+It's the reason summer in Palm Springs has real value beyond just cheap rates. The Splash House weekends are genuinely fun, and the weeks around them are the quietest and most affordable in the whole calendar year. If you're price-sensitive and heat-tolerant, this is the move. Tickets at [splashhouse.com](https://www.splashhouse.com).
 
 The summer playbook: book a rental with a private pool, plan outdoor activities before 9am and after 6pm, embrace the afternoon as an indoor reading hour. People who try to replicate their spring or fall trip itinerary in summer get in trouble. People who lean into the rhythm of the desert heat have a good time.
 
@@ -159,20 +179,30 @@ If you want the weather of spring without the crowds and prices of spring, Octob
 
 ## Month-by-Month Quick Reference
 
-| Month | Temp Range | Crowds | Rates | Best For |
-|---|---|---|---|---|
-| January | 65-72°F | Moderate | Mid | Film Festival, hiking |
-| February | 68-78°F | High | High | Perfect weather, architecture |
-| March | 75-85°F | Peak | Peak | Modernism Week, tennis |
-| April | 85-95°F | High | High | Coachella, Stagecoach |
-| May | 90-100°F | Moderate | Mid | Shoulder season value |
-| June | 100-110°F | Low | Low | Budget trip, pool focus |
-| July | 105-115°F | Low | Low | Cheapest month |
-| August | 100-112°F | Low-Moderate | Low | Splash House |
-| September | 95-105°F | Low | Low-Mid | Early fall value |
-| October | 80-90°F | Moderate | Mid | Best fall weather |
-| November | 70-80°F | Moderate | Mid | Pride, ideal conditions |
-| December | 65-75°F | Low-Moderate | Mid | Quiet, mild winter |
+<table style="width:100%;border-collapse:collapse;margin:1.5rem 0;font-size:0.93rem;">
+  <thead>
+    <tr style="background:#f6f1e9;text-align:left;">
+      <th style="padding:0.5rem 0.75rem;border-bottom:2px solid #e8ddd0;">Month</th>
+      <th style="padding:0.5rem 0.75rem;border-bottom:2px solid #e8ddd0;">Avg High</th>
+      <th style="padding:0.5rem 0.75rem;border-bottom:2px solid #e8ddd0;">Avg Low</th>
+      <th style="padding:0.5rem 0.75rem;border-bottom:2px solid #e8ddd0;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">January</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">70°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">44°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Modernism Week, cool nights</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">February</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">74°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">47°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">BNP Paribas Open, wildflower season</td></tr>
+    <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">March</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">80°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">52°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Peak season begins, Coachella prep</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">April</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">89°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">57°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Coachella and Stagecoach weekends</td></tr>
+    <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">May</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">98°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">65°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Crowds thin, pool season opens</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">June</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">107°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">74°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Splash House, low rates</td></tr>
+    <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">July</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">108°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">79°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Hottest month, outdoor activities before 8am only</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">August</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">107°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">78°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Splash House again, monsoon storms possible</td></tr>
+    <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">September</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">101°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">72°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Still hot, rates stay low</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">October</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">91°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">61°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Shoulder season, great hiking window opens</td></tr>
+    <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">November</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">78°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">51°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Palm Springs Pride, Village Fest in full swing</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;">December</td><td style="padding:0.45rem 0.75rem;">69°F</td><td style="padding:0.45rem 0.75rem;">43°F</td><td style="padding:0.45rem 0.75rem;">Quiet season, Living Desert WildLights</td></tr>
+  </tbody>
+</table>
 
 ## The One Thing That Changes Everything
 

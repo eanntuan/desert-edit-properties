@@ -1,7 +1,7 @@
 ---
 title: "Coachella Valley with Kids: Best Rentals, Activities, Tips"
 date: 2026-01-18
-dateModified: 2026-05-11
+dateModified: 2026-05-23
 metaDescription: "Coachella Valley with kids: best months to visit, family-friendly vacation rentals in Indio, and where to take toddlers and babies in the desert."
 ogImage: /blog/images/cozy-cactus-infant-gear.webp
 heroImage: /blog/images/cozy-cactus-infant-gear.webp
@@ -34,6 +34,16 @@ relatedPosts:
 <p>It's 8am in Indio. Your toddler woke up early for once and you didn't fight it. You made coffee while he stared out at the backyard, completely absorbed by a lizard on the patio wall. Nobody is rushing anywhere. The sun is still low and soft and the pool hasn't heated past comfortable yet. This is the Coachella Valley with kids when it's working.</p>
 
 <p>After four years hosting families with babies and toddlers at <a href="/cozy-cactus/">The Cozy Cactus</a>, I know what that morning looks like and what makes it possible. Not the "just pack light and relax!" version. The kind that comes from watching a lot of exhausted parents arrive, and watching what made them leave actually rested.</p>
+
+<div class="summary-box">
+  <table>
+    <tr><th>Region</th><td>Coachella Valley, CA (Palm Springs to Indio)</td></tr>
+    <tr><th>Best Season</th><td>November–April (outdoor activities are comfortable)</td></tr>
+    <tr><th>Best For</th><td>Ages 3–14, though Living Desert works for all ages</td></tr>
+    <tr><th>Family Properties</th><td><a href="https://indigopalm.co/cozy-cactus">The Cozy Cactus</a> (sleeps 8) and <a href="https://indigopalm.co/the-sundune">The Sundune</a> (sleeps 4)</td></tr>
+    <tr><th>Pro Tip</th><td>Book Living Desert and Cabazon Dinosaurs on the same day — they're 30 min apart</td></tr>
+  </table>
+</div>
 
 <img src="/blog/images/cozy-cactus-infant-gear.webp" alt="Baby gear at Cozy Cactus vacation rental in Indio CA including pack n play stroller and infant supplies for family travel" width="1400" height="933" loading="lazy">
 <p class="image-caption">Everything on this table was chosen because a tired parent asked for it. The pack-n-play has a real crib mattress, not the foam insert.</p>
@@ -91,11 +101,21 @@ relatedPosts:
 
 <p><strong>Coachella Valley Preserve (Thousand Palms, 20 min):</strong> Wild palm oases fed by the San Andreas Fault. The McCallum Trail is easy, about 3 miles, and genuinely arresting for kids: fan palms growing wild out of the desert floor, fed by fault water underground. Free admission. Go in the morning before it heats up.</p>
 
-<p><strong>Joshua Tree National Park (45 min):</strong> The Cholla Cactus Garden near the south entrance is 10 minutes from the park gate and requires almost no hiking. Kids love the alien landscape. Go at 7am or late afternoon. Midday heat is not for small people.</p>
+<p><strong>Joshua Tree National Park (45 min):</strong> The Cholla Cactus Garden near the south entrance is 10 minutes from the park gate and requires almost no hiking. Kids love the alien landscape. Go at 7am or late afternoon. Midday heat is not for small people. Joshua Tree also has a Junior Ranger Booklet: kids complete activities, answer questions about the park, and get a badge from a ranger at the end. It's $1 at the visitor center and keeps the 8-and-up crowd engaged for the whole visit.</p>
 
 <p><strong>Old Town Indio Farmers Market (Saturday mornings):</strong> Tamales, fresh citrus, local produce. Kids can eat their way through it. Runs 8am-noon, free to browse, genuinely good coffee from the corner stand.</p>
 
 <p>For the full list of things to do in the area, the <a href="/blog/things-to-do-indio-ca/">Indio local guide</a> covers 15 spots worth your time, most of which work fine with kids in tow.</p>
+
+<h3>Children's Discovery Museum of the Desert</h3>
+
+<p>If you hit a hot afternoon or an overcast day and need somewhere to go indoors, the Children's Discovery Museum of the Desert in Rancho Mirage is the best option in the valley. Two floors, 80+ interactive exhibits, and kids can touch everything. Weekend workshops, science activities, a hands-on art studio.</p>
+
+<p>The sweet spot is ages 2-10. Kids under 2 get in free, and older kids will probably max out in under an hour. Admission is $9/person. Open Tuesday through Sunday at 71701 Gerald Ford Dr, Rancho Mirage.</p>
+
+<div class="inline-cta">
+  <p><a href="https://indigopalm.co/cozy-cactus">The Cozy Cactus</a> in Indio sleeps 8, has a private pool, and puts you 15 minutes from Living Desert, Cabazon, and the date farms. It's built for exactly this kind of trip. <a href="https://indigopalm.co/cozy-cactus">Check availability →</a></p>
+</div>
 
 <h2>What to Pack (and What You Can Leave Home)</h2>
 
@@ -123,7 +143,7 @@ relatedPosts:
   "description": "Coachella Valley with kids: what works for families with toddlers and babies, where to stay, what to skip, and why baby gear matters.",
   "image": "https://indigopalm.co/blog/images/cozy-cactus-infant-gear.webp",
   "datePublished": "2026-01-18",
-  "dateModified": "2026-05-11",
+  "dateModified": "2026-05-23",
   "author": {
     "@type": "Person",
     "name": "Eann Tuan"

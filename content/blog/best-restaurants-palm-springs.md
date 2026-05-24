@@ -1,7 +1,7 @@
 ---
 title: "Best Restaurants in Palm Springs: 15 Local Picks (2026)"
 date: 2026-02-17
-dateModified: 2026-05-06
+dateModified: 2026-05-23
 metaDescription: "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included."
 ogImage: /blog/images/bar-cecil.webp
 heroImage: /blog/images/bar-cecil.webp
@@ -35,7 +35,7 @@ layout: blog-post.njk
   "description": "The 15 best restaurants in Palm Springs for 2026: from the famous bacon flight at Cheeky's to the Cary Grant estate patio at Copley's. Addresses and hours included.",
   "image": "https://indigopalm.co/blog/images/bar-cecil.webp",
   "datePublished": "2026-04-09",
-  "dateModified": "2026-05-06",
+  "dateModified": "2026-05-23",
   "author": {
     "@type": "Person",
     "name": "Eann Tuan"
@@ -76,6 +76,16 @@ layout: blog-post.njk
 <p>You're sitting outside at 8pm. The temperature is finally dropping below 90, and the San Jacinto Mountains are turning dark purple behind whoever is across the table from you. That two-hour window, after the heat breaks and before the night fully sets, is when Palm Springs dining makes the most sense. Everything tastes better outside in the desert when the air finally cooperates.</p>
 
 <p>These are the 15 places I keep coming back to, organized by neighborhood and meal. I've included addresses and rough hours for each one because nothing kills a vacation mood like driving somewhere that's closed. Verify hours before you go. Palm Springs restaurants shift seasonally, and some reduce days during summer.</p>
+
+<div class="summary-box">
+  <table>
+    <tr><th>Location</th><td>Palm Springs, CA</td></tr>
+    <tr><th>Best For</th><td>Date nights, casual dinners, weekend brunch</td></tr>
+    <tr><th>Closest Property</th><td><a href="https://indigopalm.co/the-sundune">The Sundune</a>, 5 min from Downtown PS</td></tr>
+    <tr><th>Price Range</th><td>$ (casual) to $$$ (sit-down dinner)</td></tr>
+    <tr><th>Reservations</th><td>Recommended for dinner Fri–Sat; most lunch spots are walk-in</td></tr>
+  </table>
+</div>
 
 <img src="/blog/images/bar-cecil.webp" alt="Bar Cecil interior in Palm Springs with moody lighting, plush seating, and vintage cocktail bar atmosphere" width="1000" height="667" loading="lazy">
 <p class="image-caption">Bar Cecil on North Palm Canyon. One of the better cocktail bars in the desert.</p>
@@ -165,6 +175,10 @@ layout: blog-post.njk
 <img src="/blog/images/workshop-kitchen-bar-palm-springs.webp" alt="Workshop Kitchen and Bar interior in Palm Springs showing high concrete ceilings, long communal table, and dramatic bar at the end of the room" width="2500" height="1667" loading="lazy">
 <p class="image-caption">The dining room at Workshop Kitchen and Bar. 1926 building, exposed concrete, booths carved from the walls. The space won a James Beard Foundation design award and it shows.</p>
 
+<div class="inline-cta">
+  <p>Every restaurant on this list is within a 10-minute drive of <a href="https://indigopalm.co/the-sundune">The Sundune</a>. Staying in Palm Springs makes dinner decisions a lot easier. <a href="https://indigopalm.co/the-sundune">Check availability →</a></p>
+</div>
+
 <h3>The Heyday</h3>
 
 <p>A smash burger spot on North Palm Canyon and one of the better burgers in the Coachella Valley. Thin, crispy-edged patties, good bun, nothing overthought. Open daily from noon. The kind of place you go when you want something specific and done right without a lot of ceremony.</p>
@@ -181,9 +195,19 @@ layout: blog-post.njk
 
 <h3>Rooster and the Pig</h3>
 
-<p>Vietnamese-American restaurant named USA Today's Restaurant of the Year. The pork belly bun is the dish everyone references and it delivers: tender, layered, finished properly. The shaking beef is worth ordering when it's on. The lychee cocktails are better than they sound. It's a small, lively room that fills up fast, and service is genuinely warm. Closed Monday and Tuesday.</p>
+<p>Vietnamese fusion spot that the locals quietly love. USA Today named it Restaurant of the Year, which brought attention, but the cooking earns it independent of that. The pork belly buns are what everyone references, and they deliver. The lemongrass chicken is worth ordering. The cocktail list is better than it needs to be.</p>
+
+<p>The room is small and loud in the best way. Walk-in friendly at lunch; dinner fills up fast and the wait is real if you show up without a plan on a weekend. Closed Monday and Tuesday.</p>
 
 <p><strong>356 S Indian Canyon Dr, Palm Springs, CA 92262.</strong> (760) 832-6691. Wed-Sun 5-9pm. Find them at <a href="https://www.instagram.com/roosterandthepig/" target="_blank" rel="noopener">@roosterandthepig</a>.</p>
+
+<h3>Sandfish</h3>
+
+<p>Intimate Japanese restaurant with counter seating, omakase-style ordering, and maybe 15 to 20 seats total. The whole concept is built around nigiri and small plates done carefully. Nothing about it tries to be the flashiest room in Palm Springs, and that restraint is exactly why it works.</p>
+
+<p>Order the uni if they have it. The scallop nigiri is consistent. If the whole fish is on the menu that night, get it. Reservations are essential on weekends; this one books out days in advance and walk-ins rarely work out in your favor.</p>
+
+<p><strong>100 W Tahquitz Canyon Way, Palm Springs, CA 92262.</strong> Reservations strongly recommended. Check current hours before you go.</p>
 
 <h3>Birba</h3>
 

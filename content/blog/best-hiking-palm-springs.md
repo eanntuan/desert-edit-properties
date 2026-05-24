@@ -43,7 +43,7 @@ relatedPosts:
   "description": "Eight hikes near Palm Springs with trail stats, fees, dog policies, and honest notes. Palm Canyon, Murray Canyon, Tahquitz Canyon, Lykken Trail, San Jacinto Peak, and more.",
   "image": "https://indigopalm.co/blog/images/coachella-valley-desert-hiking.webp",
   "datePublished": "2025-12-25",
-  "dateModified": "2026-05-06",
+  "dateModified": "2026-05-23",
   "author": {
     "@type": "Person",
     "name": "Eann Tuan"
@@ -86,6 +86,16 @@ relatedPosts:
 <p>Hiking near Palm Springs is one of those things that surprises people who showed up for the pools and the architecture. The mountains are right there, and the canyons cut into them hold palm oases, seasonal waterfalls, and trails that feel nothing like the flat Mojave scrub around them. October through April is the window. Summer requires a 5am start and a serious conversation with yourself about heat.</p>
 
 <p>Here are eight trails worth knowing, with real stats so you can plan before you drive.</p>
+
+<div class="summary-box">
+  <table>
+    <tr><th>Region</th><td>Palm Springs / Coachella Valley, CA</td></tr>
+    <tr><th>Best Season</th><td>November–April (avoid June–September heat)</td></tr>
+    <tr><th>Closest Property</th><td><a href="https://indigopalm.co/the-sundune">The Sundune</a>, Palm Springs</td></tr>
+    <tr><th>Entry Fees</th><td>Indian Canyons $12/person, Tahquitz Canyon $15/person, tram $32</td></tr>
+    <tr><th>Dog Friendly</th><td>Lykken Trail, Bump and Grind — leash required</td></tr>
+  </table>
+</div>
 
 <h2>Quick Comparison: All 8 Trails</h2>
 
@@ -211,15 +221,21 @@ relatedPosts:
 
 <p>The canyon walls close in as you get deeper, which is the point. The last stretch before the falls is rockier and requires some scrambling over boulders. Plan 2.5 to 3 hours and wear shoes with actual grip. The same Indian Canyons entry fee covers both Murray and Palm Canyon if you visit on the same day. <a href="https://www.alltrails.com/trail/us/california/murray-canyon-trail-to-seven-falls" target="_blank" rel="noopener">Murray Canyon on AllTrails</a>.</p>
 
+<div class="inline-cta">
+  <p>All of these trailheads are within 20 minutes of <a href="https://indigopalm.co/the-sundune">The Sundune</a> in Palm Springs. Early morning starts are easier when you're already in the desert. <a href="https://indigopalm.co/the-sundune">Check availability →</a></p>
+</div>
+
 <h2>4. Tahquitz Canyon (Moderate, Guided)</h2>
 
 <div style="background:#f5f0eb;border-left:3px solid #c8a97a;padding:12px 16px;margin:16px 0;font-size:0.9rem;">
 <strong>Distance:</strong> 2.0 mi loop &nbsp;|&nbsp; <strong>Elevation gain:</strong> 321 ft &nbsp;|&nbsp; <strong>Difficulty:</strong> Moderate &nbsp;|&nbsp; <strong>Fee:</strong> $15/adult, $7 ages 6-12 &nbsp;|&nbsp; <strong>Dogs:</strong> No
 </div>
 
-<p>Tahquitz Canyon is a separate canyon system on Agua Caliente land, accessed from downtown Palm Springs rather than the Indian Canyons tollgate. Guided tours only, which changes the character of the hike: you move with a group, stop at interpretive points, and learn about the Cahuilla people who used this canyon for centuries. The guides know the place. The canyon walls are volcanic breccia, rust-colored and layered.</p>
+<p>Tahquitz Canyon is a separate canyon system on Agua Caliente land, with its own entry point, its own ticket ($15/person), and a different feel from Indian Canyons entirely. You access it from 500 W Mesquite Ave in Palm Springs, not from the Indian Canyons tollgate south of downtown. These are not the same place and they don't share a ticket.</p>
 
-<p>The destination is Tahquitz Falls: a 60-foot waterfall that drops off a smooth granite face into a pool. In a wet winter, the pool runs clear and the falls are running hard by February. In a dry year, it slows to a curtain of mist by April. Either way, the canyon itself justifies the trip. Tours run multiple times daily in season. Check the <a href="https://www.tahquitzcanyon.com/" target="_blank" rel="noopener">Tahquitz Canyon website</a> for current times. Open daily October through early July; weekend-only in summer.</p>
+<p>The trail is a 2-mile loop with about 350 feet of elevation gain. Most of it is pretty flat, with one rocky section near the waterfall where you're picking your way up boulders. The destination is Tahquitz Falls, a 60-foot drop off smooth granite into a pool. It's one of the only year-round waterfalls in the Coachella Valley. In a wet winter, the pool runs clear and the falls are going hard by February. In a dry year, it slows to a curtain of mist by April. The canyon itself, with Cahuilla rock art and old irrigation channels along the trail, is worth the trip either way.</p>
+
+<p>Ranger-led tours run twice daily at 9am and noon. Self-guided entry is also available if you'd rather go at your own pace. The canyon uses timed entry, so reservations are recommended in winter and spring when it fills up. Check the <a href="https://www.tahquitzcanyon.com/" target="_blank" rel="noopener">Tahquitz Canyon website</a> for current times and booking. Open daily October through early July; weekend-only in summer.</p>
 
 <img src="/blog/images/desert-canyon-waterfall.webp" alt="Desert waterfall dropping into a rocky canyon pool, similar to Tahquitz Falls near Palm Springs California" width="1400" height="933" loading="lazy">
 <p class="image-caption">Tahquitz Falls drops 60 feet off a smooth granite face into a pool below. In a wet winter it runs hard from February onward. In a dry year it slows to a curtain of mist by April.</p>
