@@ -1,5 +1,5 @@
 ---
-title: "Running Trails in Palm Springs: 6 Routes Worth Waking Up For"
+title: "Palm Springs Running Trails: 6 Routes Worth Waking Up For"
 date: 2026-05-12
 metaDescription: "Six running trails in Palm Springs with real details: distance, elevation, heat tips, and when to go. From a flat CV Link path to the steep Museum Trail."
 ogImage: /blog/images/desert-ridge-hike-valley-view.webp
@@ -31,58 +31,7 @@ relatedPosts:
     url: /blog/palm-springs-morning-vs-evening/
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Running Trails in Palm Springs: 6 Routes Worth Waking Up For",
-  "description": "Six running trails in Palm Springs with real details: distance, elevation, heat tips, and when to go. From a flat CV Link path to the steep Museum Trail.",
-  "image": "https://indigopalm.co/blog/images/desert-ridge-hike-valley-view.webp",
-  "datePublished": "2026-05-12",
-  "dateModified": "2026-05-12",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-running-trails/"
-  },
-  "keywords": "running trails palm springs, CV Link, Araby Trail, Museum Trail, South Lykken Trail, desert running tips"
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://indigopalm.co"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Running Trails in Palm Springs",
-      "item": "https://indigopalm.co/blog/palm-springs-running-trails/"
-    }
-  ]
-}
-</script>
 
 Running in Palm Springs sounds like a bad idea until you do it at 6am in October and realize you've just had the best run of your year. The San Jacinto Mountains behind you, the valley floor still cool, the light doing that pink-orange thing it does in the desert before the sun fully arrives. It's one of those experiences that makes you understand why people keep coming back here.
 

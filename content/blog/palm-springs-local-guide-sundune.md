@@ -23,51 +23,7 @@ excerpt: "Things to do in Palm Springs, from a local who eats here. Coffee, brun
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "The Sundune Palm Springs Local Guide",
-  "description": "Things to do in Palm Springs, from a local who eats here. The Sundune's guide: coffee, brunch, surf, botanical, dinner, and drinks worth knowing about.",
-  "image": "https://indigopalm.co/blog/images/palm-springs-local-guide-sundune.webp",
-  "datePublished": "2026-01-24",
-  "dateModified": "2026-05-24",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-local-guide-sundune/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "The Sundune Palm Springs Local Guide",
-      "item": "https://indigopalm.co/blog/palm-springs-local-guide-sundune/"
-    }
-  ]
-}
-</script>
 
 <p>I'm a surfer from Culver City who ended up owning vacation rentals in the Coachella Valley. Not a Palm Springs local, but I spend enough time here to say these recommendations are real. Not affiliate-coded, not algorithmic. This is the guide we give <a href="/the-sundune/">Sundune</a> guests.</p>
 

@@ -22,51 +22,7 @@ excerpt: "Wild Tropics wallpaper, terracotta tile floors, a Kahlo Blue closet, a
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How We Rebuilt Terra Luz: Room by Room",
-  "description": "From Casa Moto to Terra Luz: the full renovation story. Wild Tropics wallpaper, terracotta tile, Kahlo Blue pool deck, and a Latin/Cuban design built room by room.",
-  "image": "https://indigopalm.co/blog/images/terra-luz-pool-backyard.webp",
-  "datePublished": "2026-05-06",
-  "dateModified": "2026-05-06",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/terra-luz-renovation-story/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "How We Rebuilt Terra Luz",
-      "item": "https://indigopalm.co/blog/terra-luz-renovation-story/"
-    }
-  ]
-}
-</script>
 
 <p>When I bought this house, it was called Casa Moto. Beige walls, basic fixtures, a pool that looked like every other pool in the neighborhood. Nothing wrong with it. Nothing memorable about it either.</p>
 

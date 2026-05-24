@@ -18,31 +18,6 @@ readTime: "7 min read"
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Modernism Week Palm Springs: What to Know",
-  "datePublished": "2026-04-12",
-  "dateModified": "2026-04-12",
-  "description": "Modernism Week Palm Springs runs every February with home tours, bus tours, and parties. How to get tickets, what sells out first, and where to stay.",
-  "author": {"@type": "Person", "name": "Eann Tuan"},
-  "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-icon.png"}},
-  "image": "https://indigopalm.co/blog/images/ps-blue-door-cacti.webp",
-  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://indigopalm.co/blog/modernism-week-palm-springs/"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-    {"@type": "ListItem", "position": 3, "name": "Modernism Week Palm Springs: What to Know", "item": "https://indigopalm.co/blog/modernism-week-palm-springs/"}
-  ]
-}
-</script>
 
 Every February, Palm Springs stops pretending to be a regular desert city and leans fully into what it is: one of the most intact collections of mid-century modern architecture in the country. Modernism Week is eleven days of home tours, double-decker bus rides, film screenings, and cocktail parties built around that fact. If you care about architecture at all, it's worth building a trip around.
 

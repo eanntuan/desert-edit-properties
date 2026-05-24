@@ -21,51 +21,7 @@ excerpt: "Palm Springs is surprisingly dog-friendly, if you know where to go. Th
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Pet-Friendly Palm Springs: Honest Dog Guide",
-  "description": "Palm Springs is dog-friendly if you know where to look. The real guide to pet-friendly vacation rentals, restaurants, trails, and parks nearby.",
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-backyard.webp",
-  "datePublished": "2026-01-03",
-  "dateModified": "2026-01-03",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/pet-friendly-palm-springs/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Pet-Friendly Palm Springs: Honest Dog Guide",
-      "item": "https://indigopalm.co/blog/pet-friendly-palm-springs/"
-    }
-  ]
-}
-</script>
 
 
 <p>The Coachella Valley has a dog problem, and by that I mean everyone brings their dog and nobody quite knows what to do with them. Hotels say "pet-friendly" and mean "we'll charge you $75 and ask you not to bring them to the pool." The gap between what you need and what's available is real.</p>

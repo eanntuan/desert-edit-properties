@@ -27,51 +27,7 @@ excerpt: "15 Palm Springs restaurants worth your time in 2026, with addresses, h
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Best Restaurants in Palm Springs: 15 Local Picks (2026)",
-  "description": "The 15 best restaurants in Palm Springs for 2026: from the famous bacon flight at Cheeky's to the Cary Grant estate patio at Copley's. Addresses and hours included.",
-  "image": "https://indigopalm.co/blog/images/bar-cecil.webp",
-  "datePublished": "2026-04-09",
-  "dateModified": "2026-05-23",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/best-restaurants-palm-springs/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Best Restaurants in Palm Springs: 15 Local Picks (2026)",
-      "item": "https://indigopalm.co/blog/best-restaurants-palm-springs/"
-    }
-  ]
-}
-</script>
 
 <p>You're sitting outside at 8pm. The temperature is finally dropping below 90, and the San Jacinto Mountains are turning dark purple behind whoever is across the table from you. That two-hour window, after the heat breaks and before the night fully sets, is when Palm Springs dining makes the most sense. Everything tastes better outside in the desert when the air finally cooperates.</p>
 

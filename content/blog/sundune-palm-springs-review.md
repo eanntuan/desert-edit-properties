@@ -91,48 +91,4 @@ relatedPosts:
 
 <p><a href="/the-sundune/">View The Sundune listing</a> for photos, availability, and direct booking.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "The Sundune Palm Springs: What Guests Say",
-  "description": "Sundune Palm Springs reviews: what guests say about this Palm Springs condo, the neighborhood, walkability, and what to expect.",
-  "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-  "datePublished": "2026-02-26",
-  "dateModified": "2026-02-26",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/sundune-palm-springs-review/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "The Sundune Palm Springs: What Guests Say",
-      "item": "https://indigopalm.co/blog/sundune-palm-springs-review/"
-    }
-  ]
-}
-</script>

@@ -31,51 +31,7 @@ relatedPosts:
     url: /blog/coachella-valley-vacation-rental-guide/
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Terra Luz Review: What to Expect at Indio's Private Pool Rental",
-  "description": "Terra Luz in Indio: 4.98 stars, 146 reviews. Private saltwater pool, Latin/Cuban design. What guests consistently love and what to know before booking.",
-  "image": "https://indigopalm.co/blog/images/IMG_6691.webp",
-  "datePublished": "2026-02-14",
-  "dateModified": "2026-02-14",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/terra-luz-review/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Terra Luz Review: What to Expect at Indio's Private Pool Rental",
-      "item": "https://indigopalm.co/blog/terra-luz-review/"
-    }
-  ]
-}
-</script>
 
 <p>Terra Luz launched in 2026 with an existing 146-review track record from its previous listing, carrying a 4.98 rating into the rebrand. The property went through a full design renovation (Latin/Cuban aesthetic, directed by Dawn Asher of The Olive Jar) and relaunched under the Indigo Palm Collective umbrella in May 2026. This is what the property is, what guests consistently highlight, and what you should know before booking.</p>
 

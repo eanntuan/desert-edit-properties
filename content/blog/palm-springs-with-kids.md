@@ -23,51 +23,7 @@ excerpt: "Palm Springs with kids works better than you'd think. Here's where to 
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs with Kids: What to Do, Where to Stay",
-  "description": "Palm Springs with kids is more doable than most people expect. Here's what works: activities, food, and a walkable home base at The Sundune.",
-  "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-  "datePublished": "2026-03-10",
-  "dateModified": "2026-03-10",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-with-kids/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs with Kids: What to Do, Where to Stay",
-      "item": "https://indigopalm.co/blog/palm-springs-with-kids/"
-    }
-  ]
-}
-</script>
 
 <p>Most people associate Palm Springs with bachelorette weekends and golf retirees. It's fair. But I've hosted a lot of families at <a href="/the-sundune/">The Sundune</a>, and the pattern is always the same: they arrive a little unsure, leave totally sold, and immediately start asking about repeat availability.</p>
 
@@ -186,43 +142,3 @@ layout: blog-post.njk
 <h3>Is The Sundune suitable for a family with a baby or toddler?</h3>
 <p>Yes. We keep a Pack 'n Play and high chair available, the community pool is a one-minute walk, and the two-bedroom layout gives parents actual separation from kids at night. It fits a family of four comfortably. For families of 5 or more, the Cozy Cactus in Indio is the better fit.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is Palm Springs good for young kids and toddlers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with some planning. The Living Desert Zoo is excellent for toddlers, Bear Creek Trail is stroller-friendly, and a condo with a kitchen and pool changes the daily rhythm significantly. The main challenge is heat: morning activities and afternoon pool time is the practical rhythm."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What age is the Palm Springs Aerial Tram appropriate for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "8 and up is the comfortable range. The destination at the top is cold, exposed, and alpine, which can be hard for very young children. Older kids who like heights and outdoor activities tend to love it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far is the Living Desert from Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "About 20 minutes, in Palm Desert. Budget 2.5 to 3 hours to actually see it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is The Sundune suitable for a family with a baby or toddler?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. We keep a Pack 'n Play and high chair available, the community pool is a one-minute walk, and the two-bedroom layout gives parents actual separation from kids at night. It fits a family of four comfortably."
-      }
-    }
-  ]
-}
-</script>

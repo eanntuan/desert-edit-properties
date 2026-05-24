@@ -25,51 +25,7 @@ excerpt: "A wave pool in the middle of the desert. What Palm Springs Surf Club i
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs Surf Club: Hours, Prices & Sessions",
-  "description": "Palm Springs Surf Club hours: open daily 10am-8pm (seasonal). Sessions from ~$100 beginner to ~$250 expert. Book in advance.",
-  "image": "https://indigopalm.co/blog/images/pssc-wave-pool-reflection.webp",
-  "datePublished": "2025-12-04",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-surf-club/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs Surf Club: What to Know Before You Go",
-      "item": "https://indigopalm.co/blog/palm-springs-surf-club/"
-    }
-  ]
-}
-</script>
 
 <table class="comparison-table">
   <thead>
@@ -170,54 +126,6 @@ layout: blog-post.njk
 <img src="/blog/images/pssc-restaurant-pool-view.webp" alt="PSSC restaurant terrace with diners overlooking the wave pool lounge and desert mountains at Palm Springs Surf Club" width="1400" height="933" loading="lazy">
 <p class="image-caption">The restaurant at PSSC overlooks the full venue. If you're bringing people who aren't surfing, this is where they'll be. Solid food and a genuinely good view.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you need to know how to surf to go to Palm Springs Surf Club?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. The beginner session (Waikiki Wave) includes soft-top boards and structured coaching. Most people stand up at least once during a first visit. Book in advance at palmspringssurfclub.com. Don't show up without a reservation on a weekend."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are Palm Springs Surf Club hours?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Springs Surf Club is generally open daily 10am–8pm, with seasonal variations. Check palmspringssurfclub.com before you go, as hours shift outside peak season (October through May)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much does Palm Springs Surf Club cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Session prices vary by level. Beginner (Waikiki Wave) is approximately $100, including coaching. Intermediate sessions (A-Frames, Lefts and Rights) run $150–$200. Advanced A-Frames are around $200. Expert sessions (5 Slabs) are approximately $250. Spectator tickets and cabana rentals are available separately."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Palm Springs Surf Club worth it for non-surfers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "There's a restaurant, bar, and seating area where non-surfers can watch while others surf. It's a fine way to spend a few hours with a group. But if nobody in your group surfs and you're not interested in lessons, a private pool rental is a better use of your afternoon."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far is Palm Springs Surf Club from downtown Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "About 10 minutes by car. It's technically in Cathedral City, but the border is seamless. From Indio, it's approximately 25 to 30 minutes west on I-10."
-      }
-    }
-  ]
-}
-</script>
 
 <h2>Frequently Asked Questions</h2>
 

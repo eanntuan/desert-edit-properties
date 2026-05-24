@@ -23,51 +23,7 @@ excerpt: "Palm Springs has the best-preserved collection of midcentury modern ar
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs Midcentury Architecture Walk",
-  "description": "Palm Springs has the most intact collection of midcentury modern homes in the country. Here's how to walk it, what to look for, and which streets are worth your time.",
-  "image": "https://indigopalm.co/blog/images/ps-mcm-neighborhood.webp",
-  "datePublished": "2026-01-12",
-  "dateModified": "2026-01-12",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-midcentury-architecture/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs Midcentury Architecture Walk",
-      "item": "https://indigopalm.co/blog/palm-springs-midcentury-architecture/"
-    }
-  ]
-}
-</script>
 
 <p>You're standing in the living room of a house built in 1957. The floor-to-ceiling glass faces the San Jacinto mountains at exactly the angle the architect calculated for the morning light. The roofline is flat. The overhang is deep enough to kill the direct sun in summer but let the low winter sun through. The pool is the center of the floor plan, not an afterthought tacked on later. Whoever designed this solved the desert in a way that hasn't been improved on since.</p>
 

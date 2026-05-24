@@ -25,51 +25,7 @@ excerpt: "Yes, with caveats. Pool culture peaks, rates drop 30-50%, crowds disap
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs in Summer: Is It Worth Visiting?",
-  "description": "Yes, with caveats. Pool culture peaks, rates drop 30-50%, crowds disappear. Here's how to do summer in the desert right, month by month.",
-  "image": "https://indigopalm.co/blog/images/palm-springs-pool.webp",
-  "datePublished": "2025-11-13",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-summer/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs in Summer: Is It Worth Visiting?",
-      "item": "https://indigopalm.co/blog/palm-springs-summer/"
-    }
-  ]
-}
-</script>
 
 <p>At 7am in July, the Coachella Valley is already 95 degrees and the light is the kind of flat, total brightness that makes everything look slightly overexposed. You slide into the pool before the heat locks in for the day. The water is warm from sitting overnight. Nobody else is up yet. There's an iced coffee on the patio table and the mountains are still purple at the edges. This is the version of Palm Springs that summer regulars come back for.</p>
 

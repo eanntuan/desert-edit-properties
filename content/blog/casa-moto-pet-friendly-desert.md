@@ -22,31 +22,6 @@ excerpt: "Most pet-friendly listings slap a policy in the fine print and call it
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Pet-Friendly Vacation Rental Coachella Valley: What Casa Moto Actually Built for Dogs",
-  "datePublished": "2026-04-24",
-  "dateModified": "2026-04-24",
-  "description": "Casa Moto is a pet-friendly vacation rental in Indio, CA built with dogs in mind. Here's what that looks like beyond the fine print.",
-  "author": {"@type": "Person", "name": "Eann Tuan"},
-  "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-icon.png"}},
-  "image": "https://indigopalm.co/blog/images/terra-luz-pool-backyard.webp",
-  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://indigopalm.co/blog/casa-moto-pet-friendly-desert/"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-    {"@type": "ListItem", "position": 3, "name": "Pet-Friendly Vacation Rental Coachella Valley: What Casa Moto Actually Built for Dogs", "item": "https://indigopalm.co/blog/casa-moto-pet-friendly-desert/"}
-  ]
-}
-</script>
 
 <p>When I started designing Casa Moto, "pet-friendly" was on the list. It's on most lists. The problem is that for most vacation rentals, "pet-friendly" means exactly one thing: there's a sentence in the listing rules that says dogs are allowed, probably with a $75 fee attached and a stern note about the furniture.</p>
 
@@ -154,43 +129,3 @@ layout: blog-post.njk
 <h3>What dog-friendly activities are near Casa Moto in Indio?</h3>
 <p>Shields Date Garden (10 minutes, dog-tolerant outdoor space), the Indian Palms neighborhood walking paths, the Salton Sea (30-minute day trip, dogs welcome), and the date farms along Hwy 111. Spring and fall are the best seasons for most outdoor activities with dogs in the valley.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is Casa Moto pet-friendly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Casa Moto in Indio welcomes dogs and was designed with pets in mind: fully enclosed backyard, thoughtful pet-specific details, and a design aesthetic that works with dogs in the space. There is a pet fee; details are on the listing page."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What makes a vacation rental actually pet-friendly versus just allowing pets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The difference shows up in the details: a properly enclosed outdoor space, design that's meant to be used rather than displayed, and a neighborhood that works for dog walks. Most pet-allowed listings stop at the policy; a genuinely pet-friendly property is designed around the actual experience."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the Coachella Valley good for dogs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, especially in the shoulder seasons: March, April, October, November. Spring and fall mornings in Indio are great for dog walks. Summer requires planning: early walks, paw protection on hot pavement, shade and water."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What dog-friendly activities are near Casa Moto in Indio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Shields Date Garden (10 minutes), the Indian Palms neighborhood walking paths, the Salton Sea (30-minute day trip), and date farms along Hwy 111. Spring and fall are best for outdoor activities with dogs in the valley."
-      }
-    }
-  ]
-}
-</script>

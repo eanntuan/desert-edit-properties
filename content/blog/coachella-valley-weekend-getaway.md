@@ -22,31 +22,6 @@ excerpt: "A Coachella Valley weekend can go wrong in predictable ways: wrong sea
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Coachella Valley Weekend Getaway: The Honest Desert Guide",
-  "datePublished": "2026-05-03",
-  "dateModified": "2026-05-03",
-  "description": "Planning a Coachella Valley weekend getaway? Here's the honest guide: when to go, where to stay, and how to handle the 100-degree afternoon problem.",
-  "author": {"@type": "Person", "name": "Eann Tuan"},
-  "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-icon.png"}},
-  "image": "https://indigopalm.co/blog/images/coachella-valley-map.webp",
-  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://indigopalm.co/blog/coachella-valley-weekend-getaway/"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-    {"@type": "ListItem", "position": 3, "name": "Coachella Valley Weekend Getaway: The Honest Desert Guide", "item": "https://indigopalm.co/blog/coachella-valley-weekend-getaway/"}
-  ]
-}
-</script>
 
 <p>The first time I drove out to the Coachella Valley for a weekend, I had no idea where anything was. I knew the Coachella music festival was somewhere near Palm Springs. I knew it was hot. I booked a hotel in Palm Desert because the name sounded like the right vibe, ate at the one restaurant on Yelp that had more than 100 reviews, and spent the whole second afternoon trapped inside because I hadn't accounted for the fact that it was 108 degrees and I had no pool.</p>
 
@@ -147,43 +122,3 @@ layout: blog-post.njk
 <h3>What is there to do in the Coachella Valley besides Coachella?</h3>
 <p>Quite a lot: Palm Springs Aerial Tram, Indian Canyons hiking, Shields Date Garden, the Salton Sea day trip, the midcentury architecture circuit in Palm Springs, Joshua Tree National Park (90 minutes away), the restaurant and bar scene in Palm Springs and La Quinta, and the various date farms and roadside markets along Hwy 111. The valley is not just a festival destination.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best time of year for a Coachella Valley weekend getaway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "October through April is the season, with spring as peak and fall as the underrated alternative. October is particularly good: mild temperatures, fewer crowds, lower prices. July and August require a pool and willingness to go inside during the hottest afternoon hours."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Indio or Palm Springs better for a weekend trip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Springs has more walkable density and the midcentury hotel experience. Indio is quieter, closer to the festival grounds, and better positioned for exploring the whole valley. For festival weekends, Indio. For a walkable city-style desert trip, Palm Springs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many days do you need for a Coachella Valley trip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Two full days is enough for a real taste. Three days lets you cover both Indio and Palm Springs comfortably. Four or more opens up the Salton Sea, Joshua Tree day trip, and the full design circuit."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is there to do in the Coachella Valley besides Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Springs Aerial Tram, Indian Canyons hiking, Shields Date Garden, the Salton Sea day trip, midcentury architecture in Palm Springs, Joshua Tree (90 minutes away), the restaurant and bar scenes in Palm Springs and La Quinta, and date farms along Hwy 111."
-      }
-    }
-  ]
-}
-</script>

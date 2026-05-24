@@ -24,51 +24,7 @@ excerpt: "First-timer or returning desert guest, here's what to pack, what the h
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Desert Vacation Prep: What You Need to Know",
-  "description": "First time in the Coachella Valley? What to pack, what to expect, and how to make the most of desert heat, morning light, and pool days.",
-  "image": "https://indigopalm.co/blog/images/ps-desert-valley-view.webp",
-  "datePublished": "2026-02-02",
-  "dateModified": "2026-02-02",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/desert-vacation-prep/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Desert Vacation Prep: What You Need to Know",
-      "item": "https://indigopalm.co/blog/desert-vacation-prep/"
-    }
-  ]
-}
-</script>
 
 <p>The Coachella Valley does one thing most people don't expect: it changes your pace. Not just slows it down. Changes it. The mornings are cool and still and pink at the edges. By 2pm it's 95 degrees and you're making decisions about shade. By evening the temperature drops 20 degrees and suddenly the whole day resets.</p>
 

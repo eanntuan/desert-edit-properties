@@ -133,48 +133,4 @@ layout: blog-post.njk
 
 <p>If you're planning now, pick your accommodation type before you buy tickets. The type determines the budget, and the budget determines whether the trip works.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Where to Stay for Coachella: The Full Breakdown",
-  "description": "Hotels, camping, vacation rentals: an honest breakdown of every Coachella accommodation type from someone who lives here. No affiliate links, no sponsored takes.",
-  "image": "https://indigopalm.co/blog/images/coachella-festival-crowd.webp",
-  "datePublished": "2025-11-10",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/where-to-stay-coachella/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Where to Stay for Coachella: The Full Breakdown",
-      "item": "https://indigopalm.co/blog/where-to-stay-coachella/"
-    }
-  ]
-}
-</script>

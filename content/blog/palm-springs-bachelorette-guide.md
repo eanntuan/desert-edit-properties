@@ -25,51 +25,7 @@ excerpt: "Palm Springs works as a bachelorette destination because it has privat
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs Bachelorette Party: Real Guide",
-  "description": "Palm Springs bachelorette trips work well because the valley has pools, restaurants, spas, and a 2-hour drive from LA. Here's what to book and skip.",
-  "image": "https://indigopalm.co/blog/images/ps-palm-springs-sign.webp",
-  "datePublished": "2026-01-15",
-  "dateModified": "2026-01-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-bachelorette-guide/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs Bachelorette Party: Real Guide",
-      "item": "https://indigopalm.co/blog/palm-springs-bachelorette-guide/"
-    }
-  ]
-}
-</script>
 
 <p>Picture it: Saturday morning, nine of you, nobody has anywhere to be. The backyard pool is already warm from the sun. Someone made a pitcher of something cold. The mountains are right there, framed by the back gate like a painting nobody paid for. This is what bachelorette trips are reaching for when they book Palm Springs, and it's genuinely achievable if the planning is right. A desert bachelorette weekend is having a moment right now, and the Coachella Valley handles it better than almost any other destination.</p>
 

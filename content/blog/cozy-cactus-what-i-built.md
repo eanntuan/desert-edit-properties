@@ -22,51 +22,7 @@ excerpt: "From labeling drawers to Stokke high chairs, here's what makes The Coz
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Inside The Cozy Cactus: Built for Families",
-  "description": "From labeled drawers to Stokke high chairs, here is what makes The Cozy Cactus a family Airbnb in Indio where parents rest, not just survive.",
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-living-room.webp",
-  "datePublished": "2025-12-07",
-  "dateModified": "2025-12-07",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/cozy-cactus-what-i-built/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Inside The Cozy Cactus: Built for Families",
-      "item": "https://indigopalm.co/blog/cozy-cactus-what-i-built/"
-    }
-  ]
-}
-</script>
 
 <div class="series-badge">Part 2 of 2 · <a href="/blog/cozy-cactus-origin-story/">Read Part 1</a></div>
 

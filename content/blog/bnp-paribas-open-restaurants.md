@@ -19,31 +19,6 @@ readTime: "7 min read"
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "BNP Paribas Open: Where to Eat in Indian Wells",
-  "datePublished": "2026-03-25",
-  "dateModified": "2026-03-25",
-  "description": "Where to eat during the BNP Paribas Open: Nobu inside the stadium, best spots in Indian Wells and Palm Desert, and quick options between matches.",
-  "author": {"@type": "Person", "name": "Eann Tuan"},
-  "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-world.png"}},
-  "image": "https://indigopalm.co/blog/images/indian-wells-tennis-garden-aerial.webp",
-  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://indigopalm.co/blog/bnp-paribas-open-restaurants/"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-    {"@type": "ListItem", "position": 3, "name": "BNP Paribas Open: Where to Eat in Indian Wells", "item": "https://indigopalm.co/blog/bnp-paribas-open-restaurants/"}
-  ]
-}
-</script>
 
 Indian Wells Tennis Garden has the best stadium food of any tennis tournament in the country. That's not a claim to take on faith. Nobu is literally inside the stadium. MOTO Pizza is a regular at the concession circuit. And the 2026 lineup added Sweetfin poke bowls, Beecher's Handmade Cheese, and a Peruvian rice bowl concept called Pacha Mamas. Most tournaments have hot dogs. This one has black cod miso courtside.
 

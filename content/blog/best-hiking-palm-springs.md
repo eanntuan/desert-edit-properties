@@ -35,51 +35,7 @@ relatedPosts:
     url: /blog/palm-springs-vs-indio/
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Best Hiking Near Palm Springs: 8 Trails Worth the Drive",
-  "description": "Eight hikes near Palm Springs with trail stats, fees, dog policies, and honest notes. Palm Canyon, Murray Canyon, Tahquitz Canyon, Lykken Trail, San Jacinto Peak, and more.",
-  "image": "https://indigopalm.co/blog/images/coachella-valley-desert-hiking.webp",
-  "datePublished": "2025-12-25",
-  "dateModified": "2026-05-23",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/best-hiking-palm-springs/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Best Hiking Near Palm Springs: 8 Trails Worth the Drive",
-      "item": "https://indigopalm.co/blog/best-hiking-palm-springs/"
-    }
-  ]
-}
-</script>
 
 <p>You're thirty minutes from a private pool in Palm Springs, standing in a canyon so thick with native fan palms that the desert on either side disappears. The creek is running. The fronds are rattling. Somewhere overhead, the San Jacinto range climbs from here to 10,834 feet. You had no idea any of this was available to you an hour ago.</p>
 
@@ -317,44 +273,6 @@ relatedPosts:
 
 <p>If you're basing yourself for a hiking trip, <a href="/the-sundune/">The Sundune</a> in Palm Springs puts you closest to the mountain trails. If you want space to come back to after a hard morning, <a href="/cozy-cactus/">The Cozy Cactus</a> in Indio has a private hot tub and pool. Both are under 30 minutes from every trail on this list. If you're bringing your dog, see the <a href="/blog/pet-friendly-palm-springs/">pet-friendly Palm Springs guide</a> for which trails and properties work for dogs.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the easiest hike in Palm Springs?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Andreas Canyon in the Indian Canyons is the easiest hike near Palm Springs. It's a 1.2-mile loop with only 177 feet of elevation gain, and it runs through a palm oasis along a seasonal creek. Takes under an hour at a relaxed pace. The $12 Indian Canyons entry fee applies." }
-    },
-    {
-      "@type": "Question",
-      "name": "Which Palm Springs hikes have waterfalls?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Two hikes near Palm Springs reliably have seasonal waterfalls. Murray Canyon (3.7 miles, moderate) leads to the Seven Sisters, a series of cascade falls that run strongest January through April. Tahquitz Canyon (2 miles, guided) ends at a 60-foot waterfall off a smooth granite face. Both are on Agua Caliente tribal land with separate entry fees." }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you bring dogs on Palm Springs hiking trails?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Most of the popular Palm Springs trails don't allow dogs. Indian Canyons (Palm Canyon, Murray Canyon, Andreas Canyon) prohibits all animals. Tahquitz Canyon doesn't allow dogs. The Bump and Grind Trail in Palm Desert is also no-dogs. The best dog-friendly option close to downtown is the North Lykken Trail, which is free and allows leashed dogs. The Palm Springs Aerial Tramway and San Jacinto State Park wilderness area don't permit dogs." }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the best hike near Palm Springs for beginners?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Andreas Canyon is the best entry point: easy, short, visually rewarding, and accessible. Palm Canyon is a good step up for beginners who want more distance without technical terrain. Both are inside Indian Canyons and use the same $12 entry fee. Go in the morning from October through April." }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you hike in Palm Springs in summer?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Technically yes, but you need a 5am start and serious heat awareness. Temperatures at canyon floor level can exceed 110°F by mid-morning in July and August. The tram hike to the Mountain Station area is the most viable summer option since Mountain Station sits at 8,516 feet and runs 30-40 degrees cooler than the valley floor. Most experienced desert hikers skip trail hiking in summer entirely." }
-    },
-    {
-      "@type": "Question",
-      "name": "How hard is the hike to San Jacinto Peak from the tram?",
-      "acceptedAnswer": { "@type": "Answer", "text": "San Jacinto Peak via the tram is 11 miles out-and-back with 2,620 feet of elevation gain starting at 8,516 feet. It's strenuous and takes 6-8 hours total. A free wilderness permit is required from the ranger station at Mountain Station. Taking the first tram up is essential. Snow is possible on the summit into May. Dogs are not allowed in the Mt. San Jacinto State Park wilderness." }
-    }
-  ]
-}
-</script>
 
 <h2>Frequently Asked Questions</h2>
 

@@ -23,51 +23,7 @@ excerpt: "Palm Desert sits halfway between Palm Springs and Indio. El Paseo, the
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Things to Do in Palm Desert, CA: A Practical Guide",
-  "description": "Living Desert Zoo, El Paseo shopping, McCallum Theatre, Shields Date Garden, and where to eat. What's worth your time in Palm Desert and Indian Wells.",
-  "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-  "datePublished": "2026-03-19",
-  "dateModified": "2026-03-19",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/things-to-do-palm-desert/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Things to Do in Palm Desert",
-      "item": "https://indigopalm.co/blog/things-to-do-palm-desert/"
-    }
-  ]
-}
-</script>
 
 <p>Palm Desert sits roughly in the middle of the Coachella Valley, about 15 minutes east of Palm Springs and 20 minutes west of Indio. It's where people go when they want a more low-key version of the valley, less nightlife-focused than Palm Springs, less festival-adjacent than Indio. It earns that reputation.</p>
 
@@ -121,43 +77,3 @@ layout: blog-post.njk
 
 <p>October through May is the season. The valley is genuinely pleasant: daytime highs in the 70s and 80s, cool evenings, green courses. June through September, highs regularly exceed 110 degrees. The Living Desert reduces its hours. El Paseo is quieter. Prices drop 30 to 50 percent. Some restaurants reduce days. If you're going in summer, <a href="/blog/palm-springs-summer/">read our summer guide</a> first.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Palm Desert known for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Desert is known for El Paseo (the Coachella Valley's main upscale shopping street), the Living Desert Zoo and Gardens, golf, and its location near Indian Wells where the BNP Paribas Open tennis tournament is held each March."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far is Palm Desert from Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Desert is about 12 to 15 miles east of Palm Springs, roughly 15 to 20 minutes by car. Both cities are in the Coachella Valley."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the Living Desert Zoo worth visiting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The Living Desert is a 1,200-acre zoo and botanical garden focused on desert ecosystems. Adults are around $32, children $22. Best visited October through May. In summer, arrive when it opens at 8am to beat the heat."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far is Palm Desert from Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Desert is about 25 miles west of Empire Polo Club (Coachella/Stagecoach festival grounds), roughly 25 to 30 minutes by car without traffic. During festival weekends, roads east of the valley back up significantly. Plan accordingly."
-      }
-    }
-  ]
-}
-</script>

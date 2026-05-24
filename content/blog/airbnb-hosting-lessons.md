@@ -19,57 +19,7 @@ excerpt: "Hard-won hosting lessons from 191 Airbnb reviews and four years runnin
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "What 191 Airbnb Reviews Taught Us About Hosting",
-  "datePublished": "2025-10-26",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "description": "Hard-won hosting lessons from 191 Airbnb reviews and four years running rentals in Indio, CA. The details that move the needle on 5-star reviews.",
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-exterior.webp",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/airbnb-hosting-lessons/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://indigopalm.co/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "What 191 Airbnb Reviews Taught Us About Hosting",
-      "item": "https://indigopalm.co/blog/airbnb-hosting-lessons/"
-    }
-  ]
-}
-</script>
 
 <p>When I started hosting at <a href="/cozy-cactus/">The Cozy Cactus</a>, I thought the secret was somewhere obvious. Better pool. Nicer towels. A welcome bottle of wine. Four years and 191 reviews later, almost none of that is what guests write about.</p>
 

@@ -135,48 +135,4 @@ relatedPosts:
 
 <p><a href="/cozy-cactus/">The Cozy Cactus</a> is built for exactly this trip. Three bedrooms, two bathrooms, private hot tub, game room, putting green, and a gear closet stocked for families with babies through school-age kids. Check availability: it books early for March and October.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Coachella Valley with Kids: Best Rentals, Activities, Tips",
-  "description": "Coachella Valley with kids: what works for families with toddlers and babies, where to stay, what to skip, and why baby gear matters.",
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-infant-gear.webp",
-  "datePublished": "2026-01-18",
-  "dateModified": "2026-05-23",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/coachella-valley-with-kids/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Coachella Valley with Kids: A Practical Family Guide",
-      "item": "https://indigopalm.co/blog/coachella-valley-with-kids/"
-    }
-  ]
-}
-</script>

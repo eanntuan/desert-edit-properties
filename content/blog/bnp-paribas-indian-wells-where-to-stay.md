@@ -118,48 +118,4 @@ relatedPosts:
 
 <p>For accommodation: <a href="/the-sundune/">The Sundune</a> is our Palm Springs 2BR if you want the city access option. <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both 3BR options in Indio, 20-25 minutes from the venue. Terra Luz has a private saltwater pool; Cozy Cactus has a private hot tub and community pool steps away. All three book out early for tournament week. Check availability before it goes.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "BNP Paribas Open: Where to Stay in the Desert",
-  "description": "Palm Springs or Indio for the BNP Paribas Open? What to look for in a rental during the tournament, and why a private pool matters after a day in stadium seats.",
-  "image": "https://indigopalm.co/blog/images/bnp-paribas-stadium-packed.webp",
-  "datePublished": "2025-12-10",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/bnp-paribas-indian-wells-where-to-stay/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "BNP Paribas Open: Where to Stay in the Desert",
-      "item": "https://indigopalm.co/blog/bnp-paribas-indian-wells-where-to-stay/"
-    }
-  ]
-}
-</script>

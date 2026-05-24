@@ -1,5 +1,5 @@
 ---
-title: "Best Grocery Stores Near Palm Springs, Indio, and the Valley"
+title: "Best Grocery Stores Near Palm Springs and Indio"
 date: 2026-04-06
 dateModified: 2026-05-03
 metaDescription: "Grocery stores near Palm Springs and Indio: Trader Joe's, Whole Foods, Jensen's, Stater Bros locations and which one to use based on where you're staying."
@@ -23,31 +23,6 @@ excerpt: "A practical rundown of where to buy groceries in the Coachella Valley,
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Best Grocery Stores Near Palm Springs and Indio",
-  "datePublished": "2026-04-06",
-  "dateModified": "2026-04-06",
-  "description": "Where to grocery shop near Palm Springs, Indio, and the Coachella Valley: Trader Joe's, Whole Foods, Jensen's, Stater Bros, and which one is closest to your rental.",
-  "author": {"@type": "Person", "name": "Eann Tuan"},
-  "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-icon.png"}},
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-family-kitchen.webp",
-  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://indigopalm.co/blog/grocery-stores-coachella-valley/"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-    {"@type": "ListItem", "position": 3, "name": "Best Grocery Stores Near Palm Springs and Indio", "item": "https://indigopalm.co/blog/grocery-stores-coachella-valley/"}
-  ]
-}
-</script>
 
 This is the post I wish existed when I first started hosting here. Every few weeks a guest asks some version of "where should we shop?" right after they land, usually while sitting in the Costco parking lot in Rancho Mirage having already bought too much.
 

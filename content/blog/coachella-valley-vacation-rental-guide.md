@@ -107,48 +107,4 @@ layout: blog-post.njk
 
 <p>If you're planning a stay in Indio, we'd love to have you. <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> were both built with these considerations at the center, and either one is a good starting point for your search.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "5 Things to Check in a Coachella Valley Rental",
-  "description": "From pool access to honest reviews to a host who responds. Five things worth checking before you book a Coachella Valley vacation rental.",
-  "image": "https://indigopalm.co/blog/images/palm-springs-hotel-pool.webp",
-  "datePublished": "2025-11-07",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/coachella-valley-vacation-rental-guide/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "5 Things to Check in a Coachella Valley Rental",
-      "item": "https://indigopalm.co/blog/coachella-valley-vacation-rental-guide/"
-    }
-  ]
-}
-</script>

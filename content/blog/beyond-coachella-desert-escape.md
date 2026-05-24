@@ -25,51 +25,7 @@ excerpt: "Most people only think of the Coachella Valley during festival season.
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Coachella Valley: A Year-Round Desert Escape",
-  "description": "Most people only think of the Coachella Valley during festival season. Here's why every season in the desert is worth the trip, and how to plan it.",
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-pool.webp",
-  "datePublished": "2025-12-16",
-  "dateModified": "2025-12-16",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/beyond-coachella-desert-escape/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Coachella Valley: A Year-Round Desert Escape",
-      "item": "https://indigopalm.co/blog/beyond-coachella-desert-escape/"
-    }
-  ]
-}
-</script>
 
 <p>October in the Coachella Valley: the crowds are gone, the dates are being harvested, and the light in the afternoon turns a specific shade of amber that makes you want to sit outside and not move. The pool is still warm enough to use. The nights drop to the low 60s. The mountains go pink at dusk. You will not want to leave.</p>
 

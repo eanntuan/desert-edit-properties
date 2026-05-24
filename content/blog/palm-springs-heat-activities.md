@@ -23,51 +23,7 @@ excerpt: "When the thermometer hits 110°F in Palm Springs, you need a plan that
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs When It's Too Hot: Indoor Activities",
-  "description": "Palm Springs summer heat hits 110°F+. Here are the best indoor and cool-off activities: escape rooms, ice skating, and free museum Thursdays.",
-  "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-  "datePublished": "2026-03-07",
-  "dateModified": "2026-03-07",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-heat-activities/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs When It's Too Hot: Indoor Activities",
-      "item": "https://indigopalm.co/blog/palm-springs-heat-activities/"
-    }
-  ]
-}
-</script>
 
 <p>June through September in the Coachella Valley is not a metaphor. The thermometer hits 110°F and the asphalt radiates heat back at you like a pizza oven. Every outdoor activity guide I've read underestimates this. Even early mornings can feel brutal by 9am.</p>
 
@@ -228,51 +184,3 @@ layout: blog-post.njk
 <h3>How much cooler is it on the Palm Springs Aerial Tram?</h3>
 <p>Typically 20 to 30 degrees cooler at the top. When it's 108°F on the valley floor, it's usually 75-80°F at 8,516 feet in the San Jacinto Mountains. The ride takes about 10 minutes each way. Buy tickets in advance during summer.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What do people do in Palm Springs when it's too hot to be outside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best midday options are Escape Room Palm Springs (air-conditioned, 2-3 hours, use code ABNB10 for 10% off), the Palm Springs Art Museum (free on Thursday afternoons), the Agua Caliente Cultural Museum, and ice skating at the Berger Foundation IcePlex in Palm Desert. By evening, temperatures drop enough for outdoor activities: the aerial tram, mini-golf at Indian Wells, or dinner on a patio."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Palm Springs Art Museum free?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Thursday afternoons are free admission, often with live music. Any other day, admission runs around $18-25 for adults. The museum is at 2500 N Palm Canyon Dr and is fully air-conditioned."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much is ice skating in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Public skating at the Berger Foundation IcePlex at Acrisure Arena costs $15 per session plus $5 for skate rental. Pre-register online at bergerfoundationiceplex.com. The rink is at 75702 Varner Rd in Palm Desert, about 20 minutes from central Palm Springs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there an escape room in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Escape Room Palm Springs is at 2500 N Palm Canyon Dr B3 (760-779-8888). It's the largest escape room in Southern California at over 6,000 square feet. Use code ABNB10 for 10% off. Book ahead on summer weekends."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much cooler is it on the Palm Springs Aerial Tram?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typically 20 to 30 degrees cooler at the top station at 8,516 feet. When it's 108 degrees on the valley floor, it's usually 75-80 degrees in the San Jacinto Mountains. The tram ride takes about 10 minutes each way. Buy tickets in advance during summer months."
-      }
-    }
-  ]
-}
-</script>

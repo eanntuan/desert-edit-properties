@@ -22,51 +22,7 @@ excerpt: "Both are desert cities with pools, golf, and warm winters. But they at
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs vs Scottsdale: Cost, Vibe, and Who Wins",
-  "description": "Palm Springs vs Scottsdale compared on vibe, cost, driving distance, weather, and who each one fits best.",
-  "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-  "datePublished": "2026-03-16",
-  "dateModified": "2026-05-11",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-vs-scottsdale/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs vs Scottsdale",
-      "item": "https://indigopalm.co/blog/palm-springs-vs-scottsdale/"
-    }
-  ]
-}
-</script>
 
 <p>Two desert cities. Both warm, both pool-heavy, both get compared to each other constantly. But the question "Palm Springs or Scottsdale?" has a real answer, and it depends on what kind of trip you're trying to take.</p>
 
@@ -134,43 +90,3 @@ layout: blog-post.njk
 
 <p>Both are good. They're just different trips.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is Palm Springs better than Scottsdale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Depends on what you want. Palm Springs is better for walkable street life, mid-century architecture, art, and day trips to Joshua Tree and the aerial tram. It's closer to LA (2-2.5 hours). Scottsdale is better for resort-scale pool complexes, more golf courses, and is closer to Phoenix and Midwest flights. Both are warm-weather desert destinations with pools."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far is Palm Springs from Scottsdale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Springs and Scottsdale are about 280 miles apart, roughly 4 hours by car through the desert on I-10. They're on opposite sides of the Colorado River: Palm Springs in California's Coachella Valley, Scottsdale in the Phoenix metro area."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which is better for bachelorette parties, Palm Springs or Scottsdale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Scottsdale's Old Town has more concentrated bar and club infrastructure for a crawl-based bachelorette. Palm Springs bachelorettes tend to be more poolside and dinner-focused: house rental, private pool, nicer restaurants. Both work depending on the group's style."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Palm Springs or Scottsdale closer to Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Springs is much closer to LA: 2 to 2.5 hours east on I-10. Scottsdale is about 5.5 to 6 hours from LA, or a short flight. If you're coming from Southern California, Palm Springs is the practical choice for a weekend trip."
-      }
-    }
-  ]
-}
-</script>

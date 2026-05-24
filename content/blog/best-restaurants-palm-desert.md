@@ -22,51 +22,7 @@ excerpt: "Pink Cabana, Tía Carmen, Kitchen 86 on El Paseo. Palm Desert and Indi
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Desert Restaurants Worth Knowing",
-  "description": "Pink Cabana, Kitchen 86 on El Paseo, and a 30-year Italian institution. Palm Desert and Indian Wells restaurants worth knowing, organized by vibe.",
-  "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-  "datePublished": "2026-02-20",
-  "dateModified": "2026-02-20",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/best-restaurants-palm-desert/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Desert Restaurants Worth Knowing",
-      "item": "https://indigopalm.co/blog/best-restaurants-palm-desert/"
-    }
-  ]
-}
-</script>
 
 <p>Palm Desert and Indian Wells sit roughly halfway between Palm Springs and Indio along Highway 111, about 15 to 20 minutes from either. Most visitors either anchor in Palm Springs and never leave downtown, or stay near the festival grounds in Indio without venturing west. That leaves this stretch of the valley quietly to itself, which is part of why it has some of the best restaurants in the region.</p>
 

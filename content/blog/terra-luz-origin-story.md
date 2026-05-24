@@ -22,51 +22,7 @@ excerpt: "How a Latin/Cuban-inspired vacation rental in Indio became Terra Luz: 
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Terra Luz: How a House Gets Its Name",
-  "description": "How a vacation rental in Indio became Terra Luz: sun-washed terracotta, a Kahlo blue pool, and a brand built on Latin warmth and desert light.",
-  "image": "https://indigopalm.co/blog/images/ps-street-bougainvillea.webp",
-  "datePublished": "2025-12-22",
-  "dateModified": "2025-12-22",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/terra-luz-origin-story/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Terra Luz: How a House Gets Its Name",
-      "item": "https://indigopalm.co/blog/terra-luz-origin-story/"
-    }
-  ]
-}
-</script>
 
 <p>When we first bought this house in Indio, it was called "Pacino," after the street name, which felt about as romantic as naming your firstborn "Highway 111." Then came "Casa Moto," a nod to vintage motorcycles and mid-century vibes. Solid enough. But as the house started taking shape, something didn't fit.</p>
 

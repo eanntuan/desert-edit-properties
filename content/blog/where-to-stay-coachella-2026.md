@@ -26,51 +26,7 @@ excerpt: "An honest breakdown of every Coachella accommodation option: camping, 
 layout: redirect.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Where to Stay for Coachella: The Honest Guide",
-  "description": "Vacation rental, hotel, or camping for Coachella? The polo grounds are in Indio. Here's what's close, what it costs, and what to book first.",
-  "image": "https://indigopalm.co/blog/images/festival-coachella-aerial.webp",
-  "datePublished": "2025-11-28",
-  "dateModified": "2026-04-21",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/where-to-stay-coachella-2026/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Where to Stay for Coachella: The Honest Guide",
-      "item": "https://indigopalm.co/blog/where-to-stay-coachella-2026/"
-    }
-  ]
-}
-</script>
 
 <p>You're going to Coachella. With Justin Bieber on the 2026 lineup, this year's booking pressure hit earlier than usual. Now comes the part that takes more planning than most people expect: finding a place to stay that fits your budget, your sleep, and your energy for all three days.</p>
 
@@ -221,43 +177,3 @@ layout: redirect.njk
 <h3>Can you walk to Coachella from Indian Palms Country Club?</h3>
 <p>Yes. Indian Palms Country Club is one of the only neighborhoods in the valley where walking to the festival is practical. The walk from most rentals in the community to the festival entrance is 1.5 to 2.2 miles, roughly 25 to 49 minutes. This is the route that lets you skip traffic, surge pricing, and shuttle lines entirely.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How far is Coachella from Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "About 24 miles. Without traffic, that's 30 minutes on the I-10. During Coachella weekend, add 30 to 45 minutes each way on Friday, Saturday, and Sunday evenings when festival traffic backs up Monroe, Madison, and the freeway approaches."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it better to stay in Indio or Palm Springs for Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Indio is the better choice. The Empire Polo Club is in Indio. Staying locally means a 5-15 minute drive versus 45-75 minutes from Palm Springs in festival traffic. You can return to your rental between afternoon and evening sets and walk home after the headliner if your rental is close enough."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far in advance should I book a Coachella rental?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Six to nine months is the safe window for the best properties near the polo grounds. October or November for the following April. By January, walking-distance properties with private pools are mostly gone."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you walk to Coachella from Indian Palms Country Club?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Indian Palms Country Club is one of the only neighborhoods where walking to the festival is practical. The walk from most rentals to the festival entrance is 1.5 to 2.2 miles, roughly 25 to 49 minutes. This lets you skip traffic, surge pricing, and shuttle lines entirely."
-      }
-    }
-  ]
-}
-</script>

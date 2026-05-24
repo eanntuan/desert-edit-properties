@@ -22,31 +22,6 @@ excerpt: "Pool shows up in a thousand listings. Here's what separates a desert p
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Best Vacation Rentals with Pool Coachella Valley: What to Look For",
-  "datePublished": "2026-04-30",
-  "dateModified": "2026-04-30",
-  "description": "Searching for the best vacation rentals with pool in the Coachella Valley? Here's what to look for beyond the listing photos, and what matters most.",
-  "author": {"@type": "Person", "name": "Eann Tuan"},
-  "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-icon.png"}},
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-pool-backyard.webp",
-  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://indigopalm.co/blog/best-vacation-rentals-pool-coachella-valley/"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-    {"@type": "ListItem", "position": 3, "name": "Best Vacation Rentals with Pool Coachella Valley: What to Look For", "item": "https://indigopalm.co/blog/best-vacation-rentals-pool-coachella-valley/"}
-  ]
-}
-</script>
 
 <p>The first time a guest mentioned the pool in a review, I read it three times. Not because it was unusually nice. Because I realized I'd spent months obsessing over the indoor design and almost no time thinking about whether the outdoor space was actually good.</p>
 
@@ -153,43 +128,3 @@ layout: blog-post.njk
 <h3>When is the best time to rent a pool house in the Coachella Valley?</h3>
 <p>October and November are the best value: warm enough to use the pool in the afternoon, cool enough to want the hot tub at night, and far less demand than festival season. April (festival season) is the hardest to find and most expensive. Fall and spring shoulder months are the practical sweet spot for both availability and weather.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best vacation rental with a private pool near Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Cozy Cactus and Casa Moto are both in Indian Palms, Indio, within a few miles of the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds with a community hot tub. Casa Moto has a saltwater pool with sun shelf and enclosed backyard."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do vacation rental pools in the Coachella Valley need to be heated in April?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. April nights can drop into the low 50s. An unheated pool is usable during the day but cold by evening. Confirm the pool is heated and ask about any additional heating fee before booking for Coachella or Stagecoach weekend."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between a private pool and a community pool in a vacation rental?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A private pool is within the fenced perimeter of your rental: you control the hours, temperature, and who uses it. A community pool is shared with other guests in the HOA. Both get listed as pool access. Private is the better option for most group trips."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "When is the best time to rent a pool house in the Coachella Valley?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "October and November are the best value: warm enough for afternoon swimming, cool enough for the hot tub at night, with far less demand than festival season. Fall and spring shoulder months are the practical sweet spot for availability and weather."
-      }
-    }
-  ]
-}
-</script>

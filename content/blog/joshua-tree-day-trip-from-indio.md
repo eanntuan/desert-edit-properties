@@ -1,5 +1,5 @@
 ---
-title: "Joshua Tree Day Trip from Indio: Itinerary, Entry Fees, Tips"
+title: "Joshua Tree Day Trip from Indio: Entry, Tips, Itinerary"
 date: 2026-01-30
 dateModified: 2026-05-10
 metaDescription: "Joshua Tree day trip from Indio: 45 min drive, Cottonwood entrance, $35 entry fee, full itinerary, and what to bring from a Coachella Valley local."
@@ -25,51 +25,7 @@ excerpt: "Which entrance to use, what to bring, best time of year, and how to pl
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Joshua Tree Day Trip from Indio: Itinerary, Entry Fees, Tips",
-  "description": "Joshua Tree day trip from Indio or Palm Springs: which entrance, what to see, entry fees, what to bring, and a full-day itinerary from a Coachella Valley local.",
-  "image": "https://indigopalm.co/blog/images/joshua-tree-national-park.webp",
-  "datePublished": "2026-01-30",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/joshua-tree-day-trip-from-indio/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Joshua Tree Day Trip from Indio: Itinerary, Entry Fees, Tips",
-      "item": "https://indigopalm.co/blog/joshua-tree-day-trip-from-indio/"
-    }
-  ]
-}
-</script>
 
 <p>Joshua Tree National Park sits right at the edge of what makes the Coachella Valley feel like a different world. From Indio, the south entrance is about 45 minutes. From Palm Springs, the north entrance is roughly an hour. Close enough for a day trip that feels completely removed from the valley floor.</p>
 

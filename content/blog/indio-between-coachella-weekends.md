@@ -24,51 +24,7 @@ excerpt: "Stuck in Indio between Coachella weekends? Date shakes, the Salton Sea
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Indio Between Coachella Weekends: What to Do",
-  "description": "Stuck in Indio CA between Coachella Weekend 1 and 2? Here's exactly what to do, from date shakes to the Salton Sea. A real local's guide, not a listicle.",
-  "image": "https://indigopalm.co/blog/images/indio-between-coachella-weekends.webp",
-  "datePublished": "2026-01-27",
-  "dateModified": "2026-01-27",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/indio-between-coachella-weekends/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Indio Between Coachella Weekends: What to Do",
-      "item": "https://indigopalm.co/blog/indio-between-coachella-weekends/"
-    }
-  ]
-}
-</script>
 
 <p>So you're staying for both weekends. Smart. Slightly chaotic. Fully committed.</p>
 

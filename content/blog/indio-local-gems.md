@@ -25,51 +25,7 @@ heroPosition: center 90%
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Indio CA Hidden Gems: Food, Drinks, and Local Spots",
-  "description": "Skip the tourist traps. Date shakes at L&G, smash burgers at Papa Headz, and a vinyl listening lounge most visitors drive right past. The real Indio, CA.",
-  "image": "https://indigopalm.co/blog/images/indio-sign-miles-ave.webp",
-  "datePublished": "2025-12-13",
-  "dateModified": "2026-05-09",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/indio-local-gems/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Indio CA Hidden Gems: Food, Drinks, and Local Spots",
-      "item": "https://indigopalm.co/blog/indio-local-gems/"
-    }
-  ]
-}
-</script>
 
 <p>You're parked outside a small roadside shop on Jackson Street. The sign is hand-painted, slightly sun-faded, and surrounded by date palms that are actually producing dates. Inside, it smells like dried fruit and something caramel-warm. You're about to eat the best Medjool date of your life and wonder why nobody told you about this place.</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "The Perfect 3-Day Palm Springs Itinerary: Tram, Town, Trails"
+title: "3-Day Palm Springs Itinerary: Tram, Town, and Trails"
 date: 2026-03-13
 metaDescription: "3 days in Palm Springs: aerial tram day one, downtown and mid-century architecture day two, Joshua Tree day three. Times, costs, and what to skip."
 ogImage: /blog/images/ps-aerial-tram-mountain-view.webp
@@ -22,51 +22,7 @@ excerpt: "Three days in Palm Springs: aerial tram on day one, walkable downtown 
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs 3-Day Itinerary: What to Do Each Day",
-  "description": "3 days in Palm Springs: aerial tram, downtown, mid-century neighborhoods, and a Joshua Tree day trip. Times, costs, and what to skip.",
-  "image": "https://indigopalm.co/blog/images/ps-aerial-tram-mountain-view.webp",
-  "datePublished": "2026-03-13",
-  "dateModified": "2026-03-13",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-3-day-itinerary/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs 3-Day Itinerary",
-      "item": "https://indigopalm.co/blog/palm-springs-3-day-itinerary/"
-    }
-  ]
-}
-</script>
 
 <p>Palm Springs is small enough that you can cover most of it in three days without feeling rushed. The city rewards a slower pace: morning coffee, pool time at midday, late afternoon exploration before the light gets good. Here's a day-by-day breakdown of what works and in what order.</p>
 
@@ -120,43 +76,3 @@ layout: blog-post.njk
 
 <p>If you're staying in Indio for Coachella or Stagecoach and want to do a Palm Springs day, it's 30 minutes west, easy enough for a day trip. Read our <a href="/blog/things-to-do-indio-ca/">Indio guide</a> for what's on the eastern side of the valley.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many days do you need in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Three days is enough to see the main attractions: the aerial tram, downtown Palm Canyon Drive, the art museum, mid-century architecture neighborhoods, and a day trip to Joshua Tree. Two days works if you skip the day trip. Four or five days lets you slow down and explore the broader Coachella Valley including Palm Desert, Indian Wells, and Indio."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the best time to visit Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "October through April is peak season with the best weather: daytime highs in the 70s and 80s, cool evenings. January through March is busiest. May and September are shoulder season with higher temps but lower prices. June through August is summer with 110-plus degree days. Manageable with pool access and early mornings but not ideal for outdoor activity."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you need a car in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Palm Springs downtown is walkable, but the aerial tram, Joshua Tree, and most neighborhoods outside the main strip require driving. Rideshare is available but can be unreliable in the outer areas. Rent a car or drive in."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far is Palm Springs from Joshua Tree?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The north entrance of Joshua Tree National Park (Joshua Tree Village side) is about 45 minutes from Palm Springs via Highway 62. The south entrance (Cottonwood) is about 40 minutes via I-10. Most people use the north entrance as it has better access to the iconic Joshua tree formations."
-      }
-    }
-  ]
-}
-</script>

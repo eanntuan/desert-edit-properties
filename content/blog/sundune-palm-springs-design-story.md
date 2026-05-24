@@ -21,57 +21,7 @@ excerpt: "The design story behind The Sundune: how a coastal-desert identity too
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Inside The Sundune: A Palm Springs Design Story",
-  "datePublished": "2025-11-19",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "description": "The design story behind The Sundune at Palm Springs: coastal-desert vibes, sun-faded palettes, and a surf-inspired sanctuary steps from downtown.",
-  "image": "https://indigopalm.co/blog/images/ps-orange-door-mcm.webp",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/sundune-palm-springs-design-story/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://indigopalm.co/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Inside The Sundune: A Palm Springs Design Story",
-      "item": "https://indigopalm.co/blog/sundune-palm-springs-design-story/"
-    }
-  ]
-}
-</script>
 
 <p>When we started working on The Sundune, the question wasn't "what style works in Palm Springs?" There are plenty of answers to that. The question was what would make this particular apartment feel genuinely worth coming back to.</p>
 

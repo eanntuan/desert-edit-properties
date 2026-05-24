@@ -22,57 +22,7 @@ excerpt: "The photo shoot is scheduled for Tuesday. It is Saturday. You think yo
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Staging a Vacation Rental for Photography: The 5-Day Plan",
-  "description": "How to stage a vacation rental for photography: the 5-day countdown we ran at Casa Moto before our listing shoot, with specific tasks and honest mistakes.",
-  "image": "https://indigopalm.co/blog/images/terra-luz-pool-backyard.webp",
-  "datePublished": "2026-04-27",
-  "dateModified": "2026-04-27",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/staging-vacation-rental-photo-shoot/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://indigopalm.co/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Staging a Vacation Rental for Photography: The 5-Day Plan",
-      "item": "https://indigopalm.co/blog/staging-vacation-rental-photo-shoot/"
-    }
-  ]
-}
-</script>
 
 <p>The photographer was booked for Tuesday. It was Saturday afternoon. I walked through Casa Moto with a coffee and told myself we were basically ready.</p>
 

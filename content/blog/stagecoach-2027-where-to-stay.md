@@ -104,48 +104,4 @@ relatedPosts:
 
 <p>And if you want the full comparison between festival accommodation options, the <a href="/blog/where-to-stay-coachella-2026/">Coachella accommodation guide</a> covers the same tradeoffs in detail. Most of it applies equally to Stagecoach.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Stagecoach 2027: Where to Stay Near the Festival",
-  "description": "Where to stay for Stagecoach 2027: camping, hotels, or vacation rental near the polo grounds? The real tradeoffs, written by a host 7 minutes from the stage.",
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-pool-backyard.webp",
-  "datePublished": "2026-02-11",
-  "dateModified": "2026-02-11",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/stagecoach-2027-where-to-stay/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Stagecoach 2027: Where to Stay Near the Festival",
-      "item": "https://indigopalm.co/blog/stagecoach-2027-where-to-stay/"
-    }
-  ]
-}
-</script>

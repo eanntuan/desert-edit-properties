@@ -28,51 +28,7 @@ excerpt: "From the best margaritas in the desert to drag shows on Arenas Road, h
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Best Bars in Palm Springs: Where to Drink in 2026",
-  "description": "From margaritas at La Perlita to drag at Toucans, here are the 11 best bars in Palm Springs for 2026. Real spots, no sponsored picks, organized by vibe.",
-  "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-  "datePublished": "2026-03-04",
-  "dateModified": "2026-05-06",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-bars/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Best Bars in Palm Springs: Where to Drink in 2026",
-      "item": "https://indigopalm.co/blog/palm-springs-bars/"
-    }
-  ]
-}
-</script>
 
 <p>I put this list together for guests at <a href="/the-sundune/">The Sundune</a>, my 2-bedroom walkable condo in Palm Springs. These are the spots I'd tell a friend about. Some are within walking distance of the property. Others require a car. I'm going to be clear about which is which, because a $30 Uber home at midnight changes the math.</p>
 

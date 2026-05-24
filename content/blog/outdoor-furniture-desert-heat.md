@@ -21,57 +21,7 @@ excerpt: "Furnishing rentals in a climate that hits 115°F teaches you fast what
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Outdoor Furniture That Survives Desert Heat",
-  "datePublished": "2025-11-04",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "description": "What outdoor furniture holds up in 115°F desert heat. Lessons from furnishing vacation rentals in Indio, CA: what works, what fails, and what we use.",
-  "image": "https://indigopalm.co/blog/images/cozy-cactus-patio.webp",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/outdoor-furniture-desert-heat/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://indigopalm.co/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Outdoor Furniture That Survives Desert Heat",
-      "item": "https://indigopalm.co/blog/outdoor-furniture-desert-heat/"
-    }
-  ]
-}
-</script>
 
 <p>Outdoor furniture desert heat is a different category from "patio furniture." The Coachella Valley hits 115°F in peak summer. Direct sun exposure all day, no coastal breeze to moderate anything. UV index in July that would make a dermatologist faint. Whatever you put outside here gets tested hard, and it either holds up or it doesn't.</p>
 

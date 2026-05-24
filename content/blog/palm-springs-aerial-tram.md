@@ -1,5 +1,5 @@
 ---
-title: "Palm Springs Aerial Tram: Tickets, Hours, and What to Expect"
+title: "Palm Springs Aerial Tram: Tickets, Hours, What to Expect"
 date: 2026-01-21
 dateModified: 2026-04-15
 metaDescription: "Palm Springs Aerial Tram: ticket prices, hours, what's at 8,516 feet, and when to go. Honest guide from a Coachella Valley local who's been up many times."
@@ -24,51 +24,7 @@ excerpt: "Ten minutes in a rotating tram car and you go from 95-degree desert to
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Palm Springs Aerial Tram: What to Know Before You Go",
-  "description": "Palm Springs Aerial Tram guide: ticket prices, hours, what's at 8,516 feet, and when to go. What to expect from a Coachella Valley local who's been up many times.",
-  "image": "https://indigopalm.co/blog/images/ps-aerial-tram-sunrise.webp",
-  "datePublished": "2026-01-21",
-  "dateModified": "2026-04-15",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/palm-springs-aerial-tram/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Palm Springs Aerial Tram: What to Know Before You Go",
-      "item": "https://indigopalm.co/blog/palm-springs-aerial-tram/"
-    }
-  ]
-}
-</script>
 
 <p>Ten minutes. That's how long the ride takes. You get in at the Valley Station at 2,643 feet, the car rotates slowly as it climbs, and by the time you step out at the Mountain Station you're at 8,516 feet and it's 30 to 40 degrees cooler.</p>
 

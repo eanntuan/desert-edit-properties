@@ -23,31 +23,6 @@ excerpt: "Palm Springs heat is real, but it's manageable if you stop fighting it
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Beat the Heat in Palm Springs: Morning vs Evening",
-  "datePublished": "2026-04-18",
-  "dateModified": "2026-04-18",
-  "description": "How to structure your day in Palm Springs around desert heat: what to do in the morning, how to survive midday, and why evenings are underrated. A local's guide.",
-  "author": {"@type": "Person", "name": "Eann Tuan"},
-  "publisher": {"@type": "Organization", "name": "Indigo Palm Collective", "logo": {"@type": "ImageObject", "url": "https://indigopalm.co/images/logo-icon.png"}},
-  "image": "https://indigopalm.co/blog/images/heyday-palm-springs.webp",
-  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://indigopalm.co/blog/palm-springs-morning-vs-evening/"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-    {"@type": "ListItem", "position": 3, "name": "How to Beat the Heat in Palm Springs: Morning vs Evening", "item": "https://indigopalm.co/blog/palm-springs-morning-vs-evening/"}
-  ]
-}
-</script>
 
 The single biggest mistake I see visitors make in the Coachella Valley: they treat it like any other destination and try to do everything during daylight hours. Then they're wrecked by 2pm, sunburned, mildly dehydrated, and wondering why anyone would choose to vacation here in summer.
 

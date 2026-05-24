@@ -135,48 +135,4 @@ layout: blog-post.njk
 
 <p>If you're staying with us at <a href="/cozy-cactus/">The Cozy Cactus</a> in Indio, we keep a printed local food guide in the house with current hours for all of the above. Things change, especially during festival season, so always double-check before you drive.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Coachella Valley Food Guide: Best Restaurants by City",
-  "description": "The honest food guide to the Coachella Valley: Papa Headz and One Stop in Indio, Yes Please in La Quinta, and Koffi in Palm Springs. Organized by city, no filler.",
-  "image": "https://indigopalm.co/blog/images/one-stop-taco-shop.webp",
-  "datePublished": "2025-11-22",
-  "dateModified": "2026-05-09",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/coachella-valley-food-guide/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Where to Eat in the Coachella Valley: By City",
-      "item": "https://indigopalm.co/blog/coachella-valley-food-guide/"
-    }
-  ]
-}
-</script>

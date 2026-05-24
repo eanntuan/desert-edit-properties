@@ -25,51 +25,7 @@ excerpt: "Indian Palms Country Club is one of the only neighborhoods in the Coac
 layout: blog-post.njk
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Indian Palms Country Club: Vacation Rental Guide",
-  "description": "Indian Palms Country Club is 2.5 miles from the Coachella polo grounds. Private pools, gated streets, and a walk to the festival that skips traffic entirely.",
-  "image": "https://indigopalm.co/blog/images/indian-palms-front-entrance.webp",
-  "datePublished": "2025-12-31",
-  "dateModified": "2026-04-21",
-  "author": {
-    "@type": "Person",
-    "name": "Eann Tuan"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Indigo Palm Collective",
-    "url": "https://indigopalm.co"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://indigopalm.co/blog/indian-palms-vacation-rental/"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Blog",
-      "item": "https://indigopalm.co/blog/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Indian Palms Country Club: Vacation Rental Guide",
-      "item": "https://indigopalm.co/blog/indian-palms-vacation-rental/"
-    }
-  ]
-}
-</script>
 
 <p>There's a moment on festival Saturday when you step out of your front door, walk through a quiet palm-lined street, pass a neighbor sitting on their porch with coffee, and realize you're going to Coachella on foot. No shuttle line. No surge pricing. No standing in traffic. You're just walking there, like it's down the block. Because it mostly is.</p>
 
@@ -163,51 +119,3 @@ layout: blog-post.njk
 
 <p>If you want the full breakdown on festival logistics, gates, road closures, shuttle options, timing: read our <a href="/festival-guide-cozy-cactus/">complete festival guide</a>. And for everything else worth doing in Indio while you're here, read <a href="/blog/things-to-do-indio-ca/">our honest Indio activity guide</a>.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How far is Indian Palms Country Club from Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Indian Palms Country Club is about 2.5 miles from Empire Polo Club, where Coachella and Stagecoach are held. By car without traffic, that's 8 to 10 minutes. On foot, the walk is approximately 1.5 to 2.2 miles depending on your rental's location within the community, and takes 25 to 49 minutes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you walk to Coachella from Indian Palms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Indian Palms Country Club is one of the only neighborhoods in the Coachella Valley where walking to the festival is practical. The route goes through the community to the Monroe Gate, then up Eisenhower Drive to the festival entrance. The pedestrian path on Eisenhower is gravel, so wear closed-toe shoes. Plan 25 to 49 minutes depending on your starting point. This lets you skip shuttles, surge pricing, and gridlocked roads entirely."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there parking at Indian Palms during Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Parking inside Indian Palms Country Club is available at your rental. If you need to drive to the festival, leave well before noon on Friday, Saturday, and Sunday, Monroe, Madison, and nearby roads reach full standstill from 2pm onward. Use the Monroe Gate (the main guest entry, staffed with security). The Avenue 50 Gate is for residents only."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What amenities does Indian Palms Country Club have?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Indian Palms Country Club has three community pools, pickleball courts, tennis courts, a 27-hole golf course, and a Lifestyle Center fitness facility. The community is gated with palm tree-lined streets. It's a residential neighborhood, not a resort, there's no lobby or front desk."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between The Cozy Cactus and Terra Luz?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both are 3-bedroom, 2-bathroom vacation rentals in Indian Palms Country Club that sleep up to 8. The Cozy Cactus is family-focused, it has a community pool steps away, a private hot tub, putting green, and amenities like a Stokke high chair, pack-n-play, and a curated toy collection. Terra Luz is a Latin/Cuban-inspired property with a private saltwater pool, terracotta courtyard, and a design by brand architect Dawn Asher. Terra Luz is also pet-friendly. Both let you skip platform fees when you book direct."
-      }
-    }
-  ]
-}
-</script>
