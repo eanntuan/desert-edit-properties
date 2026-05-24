@@ -92,7 +92,7 @@ layout: blog-post.njk
 
 <p>Large property management companies often have the worst response times despite the most professional-looking listings. A small owner-operator running 2-4 properties almost always has faster, more personalized response, because the reviews matter more to them and they know the house specifically.</p>
 
-<p>This applies to direct booking options too. If a property has a direct booking site alongside its Airbnb listing, messaging through direct booking often gets you faster response and sometimes a better rate, because the host doesn't pay a platform commission on direct bookings.</p>
+<p>This applies to direct booking options too. If a property has a direct booking site alongside its Airbnb listing, messaging through direct booking often gets you faster response and sometimes a better rate, because the host doesn't pay a platform commission on direct bookings. For the actual math on what you save, <a href="/blog/why-book-direct-vacation-rental/">here's the honest breakdown on booking direct versus Airbnb</a>.</p>
 
 <img src="/blog/images/cozy-cactus-hot-tub.webp" alt="Private hot tub at night at the Cozy Cactus vacation rental in Indio California with string lights and desert sky" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus hot tub. Knowing a host responds fast matters most when something like this needs attention during your stay.</p>
@@ -103,7 +103,7 @@ layout: blog-post.njk
 
 <p>The five things above are what separate a rental that works from one that looked great in the listing. A little research before you book saves a lot of frustration once you're there.</p>
 
-<p>If you're deciding between Indio and Palm Springs as a base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers the trade-offs in detail, including what each city offers beyond just proximity to Coachella.</p>
+<p>If you're deciding between Indio and Palm Springs as a base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers the trade-offs in detail, including what each city offers beyond just proximity to Coachella. And if pool access is the priority, the <a href="/blog/best-vacation-rentals-pool-coachella-valley/">guide to Coachella Valley rentals with private pools</a> goes deeper on exactly what to look for.</p>
 
 <p>If you're planning a stay in Indio, we'd love to have you. <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> were both built with these considerations at the center, and either one is a good starting point for your search.</p>
 

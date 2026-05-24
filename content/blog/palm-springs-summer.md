@@ -85,7 +85,7 @@ layout: blog-post.njk
 
 <p>The <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> is worth reading if you're still deciding where to base yourself. Summer heat is similar across the valley, but there are trade-offs in terms of what's near you that matter more in summer when you're not doing as much driving.</p>
 
-<p>And if you want a private pool during a summer trip, both <a href="/the-sundune/">The Sundune</a> in Palm Springs and our Indio properties are worth looking at. The pool situation changes the summer trip entirely.</p>
+<p>And if you want a private pool during a summer trip, both <a href="/the-sundune/">The Sundune</a> in Palm Springs and our Indio properties are worth looking at. The pool situation changes the summer trip entirely. For a full breakdown of every season, the <a href="/blog/best-time-to-visit-palm-springs/">best time to visit Palm Springs guide</a> covers spring, fall, winter, and summer in detail with honest tradeoffs.</p>
 
 <h2>Frequently Asked Questions</h2>
 

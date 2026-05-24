@@ -114,7 +114,7 @@ layout: blog-post.njk
 
 <p>What's not changing: the identity. Coastal-desert. Playful and nostalgic. A place that earns the word basecamp without it being a marketing term.</p>
 
-<p>You can browse the full property details and availability at <a href="/the-sundune/">The Sundune listing page</a>. If you're still building your itinerary, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> breaks down which city is the better base depending on what you're planning to do.</p>
+<p>You can browse the full property details and availability at <a href="/the-sundune/">The Sundune listing page</a>. For an honest guest perspective on the stay, read the <a href="/blog/sundune-palm-springs-review/">Sundune Palm Springs review</a>. If you're still building your itinerary, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> breaks down which city is the better base depending on what you're planning to do.</p>
 
 <h2>FAQ: The Sundune at Palm Springs</h2>
 

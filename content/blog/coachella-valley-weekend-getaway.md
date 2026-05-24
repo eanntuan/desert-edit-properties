@@ -92,7 +92,7 @@ layout: blog-post.njk
 
 <p>For Palm Springs proper, the options range from the big design hotels (the Parker, the Ace, the Saguaro) to smaller vacation rentals that put you in the residential neighborhoods north or south of downtown. Both have merit. The hotel experience is more social; the rental experience is quieter and gives you a kitchen and a pool you don't share with strangers.</p>
 
-<p>For the full breakdown on what to look for in a Coachella Valley rental, including the questions to ask before you book, the <a href="/blog/coachella-valley-vacation-rental-guide/">complete rental guide</a> is the place to start.</p>
+<p>For the full breakdown on what to look for in a Coachella Valley rental, including the questions to ask before you book, the <a href="/blog/coachella-valley-vacation-rental-guide/">complete rental guide</a> is the place to start. If a private pool is a priority, the <a href="/blog/best-vacation-rentals-pool-coachella-valley/">best vacation rentals with pools in the Coachella Valley</a> covers the options worth knowing.</p>
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Private pool and backyard at Cozy Cactus vacation rental in Indio California, ideal base for a Coachella Valley weekend getaway" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus in Indian Palms. Private pool, two miles from the festival grounds, and exactly the kind of base you want for the afternoon heat recovery strategy.</p>

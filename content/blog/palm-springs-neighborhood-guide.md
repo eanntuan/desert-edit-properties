@@ -58,7 +58,7 @@ If you're coming to Palm Springs to hunt for mid-century furniture, explore inde
 
 ## Downtown: First-Timers, Nightlife, Walkability
 
-Downtown is the area around the 100-400 blocks of South Palm Canyon Drive and the surrounding streets. This is where most visitors default to, and for good reason. Restaurants, bars, shops, and the Marilyn Monroe statue are all within walking distance. On Thursday nights, VillageFest turns Palm Canyon Drive into a street fair with food stalls and live art.
+Downtown is the area around the 100-400 blocks of South Palm Canyon Drive and the surrounding streets. This is where most visitors default to, and for good reason. Restaurants, bars, shops, and the Marilyn Monroe statue are all within walking distance. On Thursday nights, <a href="/blog/village-fest-palm-springs/">VillageFest</a> turns Palm Canyon Drive into a street fair with food stalls and live art.
 
 If it's your first time in Palm Springs and you're not sure which parts you'll like, staying near Downtown means you can walk to most things without a plan. The tradeoff: it's the busiest, noisiest part of the city, especially on weekends. If you want a quiet morning, you won't find it here.
 

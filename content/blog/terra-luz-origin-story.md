@@ -114,4 +114,4 @@ layout: blog-post.njk
 
 <p>This is more than a Coachella vacation rental or a Palm Springs getaway. It's a love letter to the desert, built into a house. Read more about <a href="/blog/desert-vacation-prep/">how to prepare for your desert stay</a> and what to expect when you get here.</p>
 
-<p>If you're ready to book, <a href="/terra-luz/">Terra Luz</a> is open for summer 2026 and beyond.</p>
+<p>If you want the honest guest perspective on what staying here is actually like, read the <a href="/blog/terra-luz-review/">Terra Luz review</a> from a guest's point of view. If you're ready to book, <a href="/terra-luz/">Terra Luz</a> is open for summer 2026 and beyond.</p>

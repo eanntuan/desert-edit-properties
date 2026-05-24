@@ -103,7 +103,7 @@ layout: blog-post.njk
 
 <h2>Where to Stay in Palm Springs</h2>
 
-<p><a href="/the-sundune/">The Sundune</a> is our 2-bedroom in Palm Springs at 5301 E Waverly Drive. Close to the architecture neighborhoods, the right size for a couple or small group doing exactly this kind of long weekend.</p>
+<p><a href="/the-sundune/">The Sundune</a> is our 2-bedroom in Palm Springs at 5301 E Waverly Drive. Close to the architecture neighborhoods, the right size for a couple or small group doing exactly this kind of long weekend. If you're planning a bachelorette, the <a href="/blog/palm-springs-bachelorette-guide/">Palm Springs bachelorette guide</a> covers the specifics: what to book, where to eat, and how to structure the weekend for a group.</p>
 
 <h2>Frequently Asked Questions</h2>
 

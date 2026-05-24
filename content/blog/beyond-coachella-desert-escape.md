@@ -44,7 +44,7 @@ layout: blog-post.njk
 
 <p>This is peak season, and for good reason. While the rest of the country scrapes ice off windshields, the Coachella Valley sits at a perfect 70-75°F. Pool weather, no crowds, and outdoor everything: hiking, grilling, movie nights on the patio.</p>
 
-<p>Good winter moves: Joshua Tree sunrise hikes (Cholla Cactus Garden or Skull Rock), the Palm Springs Aerial Tramway (ride up to 8,500 feet where there's actual snow while it's 70°F below), and the La Quinta Farmers Market on Sunday mornings.</p>
+<p>Good winter moves: Joshua Tree sunrise hikes (Cholla Cactus Garden or Skull Rock), the Palm Springs Aerial Tramway (ride up to 8,500 feet where there's actual snow while it's 70°F below), and the La Quinta Farmers Market on Sunday mornings. If mineral pools are your thing, the <a href="/blog/desert-hot-springs-day-trip/">Desert Hot Springs mineral pools</a> are a 30-minute drive north and worth knowing about.</p>
 
 <h2>Spring (March – May): Festival Season + Wildflower Blooms</h2>
 
