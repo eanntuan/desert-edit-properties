@@ -1,7 +1,7 @@
 ---
-title: "Things to Do in Palm Desert: The Real Local List (2026)"
+title: "6 Best Things to Do in Palm Desert: The Real Local List"
 date: 2026-03-19
-metaDescription: "Living Desert Zoo, El Paseo, McCallum Theatre, Shields Date Garden, and where to eat. What's worth your time in Palm Desert and Indian Wells."
+metaDescription: "6 best things to do in Palm Desert: Living Desert Zoo, El Paseo, McCallum Theatre, Shields Date Garden, Indian Wells tennis, and where to eat."
 ogImage: /blog/images/palm-desert-el-paseo.webp
 heroImage: /blog/images/palm-desert-el-paseo.webp
 heroAlt: "El Paseo outdoor shopping district in Palm Desert California"

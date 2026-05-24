@@ -120,7 +120,7 @@ layout: blog-post.njk
 
 <h3>Rooster and the Pig</h3>
 
-<p>Vietnamese fusion, which sounds like a hedge but isn't. The pork belly bun is the order. The room is loud in a good way. Rooster and the Pig has been a Palm Springs recommendation that holds up year after year without the kind of decline that happens when a restaurant gets too popular too fast. The portions are generous for the price point.</p>
+<p>Vietnamese fusion, which sounds like a hedge but isn't. The pork belly bun is the order. The room is loud in a good way. USA Today named it one of the top 47 restaurants in the country, and it earns that. Rooster and the Pig holds up year after year without the decline that hits most popular spots. The portions are generous for the price point.</p>
 
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Mid-century modern neighborhood street in Palm Springs California with flat-roofed homes and mountain backdrop" width="1400" height="933" loading="lazy">
 <p class="image-caption">Palm Springs residential streets. The restaurant scene is concentrated near downtown but worth the walk from a Palm Springs-area rental.</p>

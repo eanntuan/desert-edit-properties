@@ -1,7 +1,7 @@
 ---
 title: "Justin Bieber at Coachella 2026: What Actually Happened"
 date: 2026-03-01
-metaDescription: "Justin Bieber crashed Coachella 2026 and the internet lost its mind. Here's what that moment means for your Indio vacation rental trip."
+metaDescription: "Justin Bieber crashed Coachella 2026 and the internet lost its mind. What that moment means for your Indio vacation rental trip, and what comes next."
 ogImage: /blog/images/bieber-coachella-stage.webp
 heroImage: /blog/images/bieber-coachella-stage.webp
 heroAlt: "Performer on stage at Coachella 2026 with colorful smoke and lights at the Empire Polo Club in Indio CA"

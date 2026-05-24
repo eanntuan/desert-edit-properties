@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs LGBTQ+ Guide: Bars, Events, and Where to Stay"
 date: 2026-05-24
-metaDescription: "Arenas Road bars, White Party, Dinah Shore Weekend, Pride November. The honest practical guide to Palm Springs as an LGBTQ+ destination."
+metaDescription: "Arenas Road bars, White Party, Dinah Shore Weekend, Pride in November. The honest practical guide to Palm Springs as a top LGBTQ+ destination."
 ogImage: /blog/images/palm-springs-bar-cocktails.webp
 heroImage: /blog/images/palm-springs-bar-cocktails.webp
 heroAlt: "Cocktails on a bar counter at a Palm Springs bar with warm lighting and neon signs"

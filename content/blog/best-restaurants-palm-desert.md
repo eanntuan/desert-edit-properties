@@ -1,5 +1,5 @@
 ---
-title: "Best Restaurants in Palm Desert: Local Picks for 2026"
+title: "5 Best Restaurants in Palm Desert: Local Picks for 2026"
 date: 2026-02-20
 metaDescription: "Pink Cabana, Kitchen 86 on El Paseo, and a 30-year Italian institution. Palm Desert and Indian Wells restaurants worth knowing, organized by vibe."
 ogImage: /blog/images/palm-desert-restaurant-patio.webp
