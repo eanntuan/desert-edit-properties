@@ -545,10 +545,22 @@
       background: var(--white);
       border: 1px solid var(--border);
       border-radius: 10px;
-      padding: 14px 12px;
+      overflow: hidden;
     }
+    .todo-card-wide { grid-column: 1 / -1; }
+    .todo-img {
+      width: 100%;
+      height: 120px;
+      object-fit: cover;
+      display: block;
+    }
+    .todo-card-wide .todo-img { height: 140px; }
+    .todo-body { padding: 12px; }
     .todo-title { font-weight: 700; font-size: 0.82rem; margin-bottom: 5px; }
-    .todo-text { font-size: 0.8rem; line-height: 1.55; color: #555; }
+    .todo-text { font-size: 0.8rem; line-height: 1.55; color: #555; margin-bottom: 8px; }
+    .todo-links { display: flex; gap: 10px; flex-wrap: wrap; }
+    .todo-link { font-size: 0.72rem; font-weight: 600; color: var(--terra-dark); text-decoration: none; }
+    .todo-link:hover { color: var(--teal-dark); text-decoration: underline; }
 
     /* ── EV SECTION ── */
     .ev-option {
@@ -1323,40 +1335,83 @@
 
       <div class="todo-grid">
         <div class="todo-card">
-          <p class="todo-title">Palm Springs Tram</p>
-          <p class="todo-text">Climb 6,000 ft to San Jacinto Peak. It's next door.</p>
+          <img src="/blog/images/ps-aerial-tram-car.webp" alt="Palm Springs Aerial Tram car ascending toward San Jacinto Peak" class="todo-img" loading="lazy" width="1280" height="853">
+          <div class="todo-body">
+            <p class="todo-title">Palm Springs Aerial Tram</p>
+            <p class="todo-text">Climb 6,000 ft to San Jacinto Peak in 10 minutes. Two seasons in one trip. Get there early on weekends.</p>
+            <div class="todo-links">
+              <a href="https://www.pstramway.com" class="todo-link" target="_blank" rel="noopener">pstramway.com ↗</a>
+            </div>
+          </div>
         </div>
         <div class="todo-card">
-          <p class="todo-title">Moorten Botanical Garden</p>
-          <p class="todo-text">Cacti and succulents you won't see anywhere else. Good for an hour.</p>
+          <div class="todo-body" style="padding-top:14px;">
+            <p class="todo-title">Moorten Botanical Garden</p>
+            <p class="todo-text">Cactarium of rare cacti and succulents you won't find anywhere else. Plan an hour. The gift shop has unusual plants worth taking home.</p>
+            <div class="todo-links">
+              <a href="https://www.moortenbotanicalgarden.com" class="todo-link" target="_blank" rel="noopener">moortenbotanicalgarden.com ↗</a>
+            </div>
+          </div>
         </div>
         <div class="todo-card">
-          <p class="todo-title">Modernism Week</p>
-          <p class="todo-text">If you're visiting in February, rearrange your schedule for this.</p>
+          <div class="todo-body" style="padding-top:14px;">
+            <p class="todo-title">Modernism Week</p>
+            <p class="todo-text">11 days in February. Architecture tours, home tours, film, and design panels. Book specific events early — many sell out weeks ahead.</p>
+            <div class="todo-links">
+              <a href="https://www.modernismweek.com" class="todo-link" target="_blank" rel="noopener">modernismweek.com ↗</a>
+            </div>
+          </div>
         </div>
         <div class="todo-card">
-          <p class="todo-title">Coachella</p>
-          <p class="todo-text">Two weekends in April, the valley becomes something else entirely.</p>
+          <img src="/blog/images/palm-springs-art-museum.webp" alt="Outdoor sculpture garden at Palm Springs Art Museum with desert landscape" class="todo-img" loading="lazy" width="270" height="360">
+          <div class="todo-body">
+            <p class="todo-title">Palm Springs Art Museum</p>
+            <p class="todo-text">Desert art, European works, and a strong Native American collection. Thursdays are free from 4–8pm.</p>
+            <div class="todo-links">
+              <a href="https://www.psmuseum.org" class="todo-link" target="_blank" rel="noopener">psmuseum.org ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card todo-card-wide">
+          <img src="/blog/images/festival-coachella-aerial.webp" alt="Aerial view of the Coachella and Stagecoach festival grounds in Indio California" class="todo-img" loading="lazy" width="960" height="503">
+          <div class="todo-body">
+            <p class="todo-title">Coachella + Stagecoach</p>
+            <p class="todo-text">Two weekends each in April. Coachella is pop, electronic, and indie. Stagecoach is country. Both completely take over the valley — and both are 20 minutes from here.</p>
+            <div class="todo-links">
+              <a href="https://www.coachella.com" class="todo-link" target="_blank" rel="noopener">coachella.com ↗</a>
+              <a href="https://www.stagecoachfestival.com" class="todo-link" target="_blank" rel="noopener">stagecoachfestival.com ↗</a>
+            </div>
+          </div>
         </div>
         <div class="todo-card">
-          <p class="todo-title">Stagecoach</p>
-          <p class="todo-text">More into country? (Me too). Grab your boots and bandana.</p>
+          <img src="/blog/images/palm-springs-hotel-pool.webp" alt="Palm Springs hotel pool with lounge chairs and desert mountain backdrop" class="todo-img" loading="lazy" width="1400" height="1050">
+          <div class="todo-body">
+            <p class="todo-title">The V Pool Party</p>
+            <p class="todo-text">Weekend pool parties at The Sonder Hotel. DJs, day drinking, classic Palm Springs energy. No ticket required.</p>
+            <div class="todo-links">
+              <a href="https://www.sonder.com/destinations/palm_springs/the_v_palm_springs" class="todo-link" target="_blank" rel="noopener">thevpalmsprings.com ↗</a>
+            </div>
+          </div>
         </div>
         <div class="todo-card">
-          <p class="todo-title">Art Museum</p>
-          <p class="todo-text">Desert art, European works, Native American collections. Thursdays are free.</p>
+          <img src="/blog/images/ps-vintage-cadillac.webp" alt="Vintage cadillac at Palm Springs Vintage Market mid-century modern finds" class="todo-img" loading="lazy" width="1200" height="1800">
+          <div class="todo-body">
+            <p class="todo-title">Palm Springs Vintage Market</p>
+            <p class="todo-text">MCM furniture, clothing, and art. First Sunday of the month, October–May. Arrive by 8am if you want the good stuff.</p>
+            <div class="todo-links">
+              <a href="https://www.palmspringsvintagemarkets.com" class="todo-link" target="_blank" rel="noopener">palmspringsvintagemarkets.com ↗</a>
+            </div>
+          </div>
         </div>
         <div class="todo-card">
-          <p class="todo-title">The V Pool Party</p>
-          <p class="todo-text">Weekends at The Sonder Hotel. Classic Palm Springs pool vibe.</p>
-        </div>
-        <div class="todo-card">
-          <p class="todo-title">Vintage Market</p>
-          <p class="todo-text">MCM finds, first Sunday of the month, October–May. Go early.</p>
-        </div>
-        <div class="todo-card">
-          <p class="todo-title">El Paseo</p>
-          <p class="todo-text">Open-air designer shopping in Palm Desert with mountain views.</p>
+          <img src="/blog/images/palm-desert-el-paseo.webp" alt="El Paseo shopping district in Palm Desert with mountain views and outdoor promenade" class="todo-img" loading="lazy" width="1400" height="933">
+          <div class="todo-body">
+            <p class="todo-title">El Paseo, Palm Desert</p>
+            <p class="todo-text">Open-air shopping strip with mountain views. Mix of high-end brands and independent boutiques. Good for a half-day, 20 minutes from here.</p>
+            <div class="todo-links">
+              <a href="https://www.elpaseo.com" class="todo-link" target="_blank" rel="noopener">elpaseo.com ↗</a>
+            </div>
+          </div>
         </div>
       </div>
 
