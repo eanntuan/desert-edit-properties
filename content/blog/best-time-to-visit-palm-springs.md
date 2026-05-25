@@ -68,7 +68,7 @@ relatedPosts:
 }
 </script>
 
-People ask me when to visit Palm Springs like there's one correct answer. There isn't. I've stayed there in every season over the past few years, and each one has something real going for it, including July, which I know sounds insane. The answer depends on what you actually want out of the trip.
+People ask me when to visit Palm Springs like there's one correct answer. There isn't. I've stayed there in every season over the past few years, and each one has something real going for it, including July, which I know sounds insane. The answer depends on what you want out of the trip.
 
 Here's the honest version.
 
