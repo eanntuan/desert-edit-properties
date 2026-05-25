@@ -90,6 +90,9 @@ relatedPosts:
 
 <p>The design carries through every room. This is not a house with a nice living room and forgotten bedrooms. Dawn's brief was to create something that feels like a destination in every space, not just where you take photos for Instagram.</p>
 
+<img src="/blog/images/IMG_6781.webp" alt="Hand-painted chevron mural wall in terracotta and gold in a bedroom at Terra Luz vacation rental in Indio California during renovation" width="1400" height="1050" loading="lazy" decoding="async">
+<p class="image-caption">Dawn's zigzag mural going up in the primary bedroom during the May 2026 renovation. This is what intentional design looks like mid-process.</p>
+
 <h2>Location</h2>
 
 <p>49768 Pacino St, Indio, CA. Inside the Indian Palms neighborhood, 7-10 minutes to Empire Polo Club (Coachella/Stagecoach), no freeway. 5 minutes to Shields Date Garden, 30 minutes to downtown Palm Springs, 45 minutes to Joshua Tree.</p>

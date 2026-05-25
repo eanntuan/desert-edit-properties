@@ -71,6 +71,9 @@ relatedPosts:
 
 <p>I've hosted Stagecoach guests at my two Indio properties since 2022. Here's what I've seen work and what hasn't.</p>
 
+<img src="/blog/images/stagecoach-festival-crowd.webp" alt="Stagecoach country music festival crowd at Empire Polo Club in Indio California with stage in background" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">Three days of country music at the Empire Polo Club. The crowd is different from Coachella. The heat is identical.</p>
+
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at Cozy Cactus vacation rental in Indio CA, seven minutes from Stagecoach festival grounds at Empire Polo Club" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus backyard. Seven minutes from the Stagecoach stage, no freeway. This is where festival weekends end well.</p>
 

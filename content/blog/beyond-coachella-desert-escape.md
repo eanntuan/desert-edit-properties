@@ -118,6 +118,9 @@ layout: blog-post.njk
 
 <p>Pro tip: wake up early, hit Joshua Tree for sunrise, and be back at the pool by 11 AM. Best of both worlds.</p>
 
+<img src="/blog/images/joshua-tree-national-park.webp" alt="Joshua Tree National Park landscape with iconic twisted trees and massive granite boulders in the Mojave Desert California" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">Sunrise hike, back at the pool by 11 AM. Best of both worlds.</p>
+
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private pool and backyard at Terra Luz vacation rental in Indio CA, perfect for a Coachella Valley desert escape" width="1400" height="933" loading="lazy">
 <p class="image-caption">Back at Terra Luz by 11 AM. The pool does not care what time you got up.</p>
 
