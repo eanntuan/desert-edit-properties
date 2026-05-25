@@ -169,4 +169,21 @@ layout: blog-post.njk
 
 <p>If you're planning now, pick your accommodation type before you buy tickets. The type determines the budget, and the budget determines whether the trip works.</p>
 
+<h2>FAQ: Coachella Accommodation</h2>
+
+<h3>Is it better to stay in Indio or Palm Springs for Coachella?</h3>
+<p>Indio. The Empire Polo Club is in Indio. Staying locally means 5-15 minutes to the grounds versus 45-75 minutes from Palm Springs in festival traffic. The difference compounds over three days: 6-9 hours of commute time that you could spend at the festival or recovering at a pool.</p>
+
+<h3>What is the cheapest way to stay at Coachella?</h3>
+<p>On-site car camping runs approximately $149 per person. For groups of four to eight, splitting a vacation rental in Indian Palms often comes out to a lower or equal per-person cost once you account for rideshare surge pricing and gear costs from camping. The right answer depends on how you want to experience the festival.</p>
+
+<h3>How far in advance should I book a Coachella rental?</h3>
+<p>Six to nine months out is the safe window for Indian Palms properties with private pools and walking distance to the grounds. October or November for the following April. By January, most of the best options are gone. Properties further from the grounds stay available longer but come with the commute trade-off.</p>
+
+<h3>Can you walk to Coachella from Indian Palms?</h3>
+<p>Yes. Indian Palms Country Club is the only neighborhood in the Coachella Valley where walking to the Empire Polo Club festival entrance is genuinely practical. The walk runs 1.5 to 2.2 miles from most rental locations in the community, or roughly 25 to 49 minutes. This is the option that eliminates rideshare costs and parking coordination entirely.</p>
+
+<h3>What should I look for in a Coachella vacation rental?</h3>
+<p>Private pool, covered outdoor space, laundry, and enough parking for your group's cars. Verify the actual bed count, not just the headcount the listing advertises. For festivals specifically, distance to the grounds and private pool availability matter more than square footage or kitchen layout. The 3pm afternoon recovery window is real, and it only works if your rental is close enough to make the trip worthwhile.</p>
+
 

@@ -162,3 +162,18 @@ layout: blog-post.njk
 <p>If you need a home base for all of it, we have two houses in Indio: <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a>. Both have pools and sit close to Old Town, the polo grounds, and everything on this list.</p>
 
 <p>If you're figuring out where to stay, read our guide on <a href="/blog/where-to-stay-coachella-2026/">honest Coachella Valley accommodation options</a>. No affiliate codes, just the real tradeoffs. And if you have kids, <a href="/cozy-cactus/">Cozy Cactus</a> is built for exactly what you're trying to do here.</p>
+
+<h2>FAQ: Things to Do in Indio, CA</h2>
+
+<h3>What is Indio, CA known for?</h3>
+<p>Coachella and Stagecoach, primarily. But Indio has been a date palm growing hub since the 1920s, hosts the world's largest tamale festival each December, and has an Old Town district with genuine local character that predates the festivals by decades. The city is the agricultural and working-class core of the Coachella Valley.</p>
+
+<h3>Is Indio worth visiting outside of festival season?</h3>
+<p>Yes, particularly October through April. The Coachella Valley Preserve is one of the better desert hikes in Southern California. Papa Headz and One Stop Taco Shop are open year-round. Rosemary HiFi makes a strong case for visiting Old Town on any given Wednesday evening. The Indio Tamale Festival in December is the best single-day event in the valley.</p>
+
+<h3>How far is Indio from Palm Springs?</h3>
+<p>About 24-30 miles, or 30-35 minutes without traffic. The two cities are connected by the I-10 and Highway 111. On festival weekends, add significant time in both directions. For day-to-day valley life, they're easily combined on the same itinerary.</p>
+
+<h3>What is the best restaurant in Indio?</h3>
+<p>One Stop Taco Shop on Indio Blvd gets the most recommendations from guests and locals. Carne asada tacos, handmade tortillas, a line that tells you everything you need to know. Papa Headz is close behind for smash burgers. Everbloom handles the sit-down dinner and matcha side of things. All three are within 10 minutes of the Indian Palms neighborhood.</p>
+

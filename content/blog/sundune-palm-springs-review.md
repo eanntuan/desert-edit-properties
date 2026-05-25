@@ -127,4 +127,18 @@ relatedPosts:
 
 <p><a href="/the-sundune/">View The Sundune listing</a> for photos, availability, and direct booking.</p>
 
+<h2>FAQ: The Sundune Palm Springs</h2>
+
+<h3>How many people does The Sundune sleep?</h3>
+<p>Four comfortably, across two bedrooms. The primary bedroom has two king beds; the second bedroom has one king. All beds are set up as actual sleeping arrangements, not air mattresses. For groups of five or more, our Indio properties with larger floor plans are the better fit.</p>
+
+<h3>Is The Sundune pet-friendly?</h3>
+<p>One pet is welcome with a $100 pet fee. Email us at indigopalmco@gmail.com before booking to confirm. The condo has a balcony but no fenced yard, so dogs that need a private outdoor run are better suited to <a href="/terra-luz/">Terra Luz</a> in Indio, which has a fully fenced backyard.</p>
+
+<h3>Is The Sundune walking distance to downtown Palm Springs?</h3>
+<p>Yes. Palm Canyon Drive, with its restaurants, coffee shops, and galleries, is a short walk from the condo. The exact walk time depends on where on the strip you're headed, but most guests walk to dinner and back without thinking about it.</p>
+
+<h3>When is the best time to stay at The Sundune?</h3>
+<p>March is the best month: mid-70s to low-80s, open restaurant tables, the desert at its most comfortable. October and November are nearly as good. The Sundune in summer works for guests who know the desert and plan accordingly, staying pool-based in the afternoon and out in the evening.</p>
+
 

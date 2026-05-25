@@ -122,4 +122,22 @@ layout: blog-post.njk
 
 <p>It took from February to May 2026. Dawn's photo shoot is May 14. The first guests check in May 21.</p>
 
-<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, about 2.5 miles from the Coachella and Stagecoach festival grounds.</p>
+<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, about 2.5 miles from the Coachella and Stagecoach festival grounds. The full design story behind the brand identity is in the <a href="/blog/terra-luz-origin-story/">Terra Luz origin story</a>.</p>
+
+<h2>FAQ: Terra Luz Renovation</h2>
+
+<h3>How long did the Terra Luz renovation take?</h3>
+<p>About four months, from February to May 2026. That covers the pool deck resurfacing, all tile work (terracotta floors, Talavera accent dots, tile headboard in the second bedroom), Wild Tropics wallpaper installation, lime-wash painting throughout, and all furniture sourcing and delivery.</p>
+
+<h3>Who did the design for Terra Luz?</h3>
+<p>Dawn Asher of The Olive Jar handled the brand identity and design direction. She set the six brand filters that governed every decision and provided the room-by-room briefs. Orlin handled tile, paint, and wallpaper installation on-site. Michael Cagle handled electrical work, and Tom at Concrete By Design did the pool deck.</p>
+
+<h3>What is the Wild Tropics wallpaper in the second bedroom?</h3>
+<p>A floor-to-ceiling tropical print from Rebel Walls, hung in blue, 57 feet wide across all four walls. Matte paste-on application. Orlin hung it over two days. The tile headboard mounted on plywood behind the bed uses Merola Manises Decor tiles in a terracotta and blue-white pattern. The combination is the most photographed room in the house.</p>
+
+<h3>What is Kahlo Blue?</h3>
+<p>The cobalt accent color that runs through Terra Luz as a recurring thread. It shows up in throw pillows, the closet interior of the third bedroom, and the pool water itself. Named as a reference to Frida Kahlo's signature use of bold color. The pool water color comes from the combination of the Kahlo Blue pool deck paint and the natural chemistry of a saltwater system.</p>
+
+<h3>How much did the Terra Luz renovation cost?</h3>
+<p>The Version 1 renovation budget was $19,900, covering pool deck, all tile, wallpaper, paint, furniture, and Dawn's design fees. Version 2 (exterior paint, summer 2026) adds approximately $5,000. Version 3 (pass-through kitchen window, summer 2027) is estimated at $2,500 to $3,500.</p>
+

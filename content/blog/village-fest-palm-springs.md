@@ -123,6 +123,23 @@ From [The Sundune in Palm Springs](/the-sundune/), it's a 10-minute drive north 
 
 The vendor booths selling mass-produced sunglasses, phone cases, and imported novelty items. They're fine if you need something, but there's nothing local about them and the prices aren't particularly good. The produce, dates, and local craft vendors are where the fair earns its reputation.
 
+## FAQ: Village Fest Palm Springs
+
+<h3>What time does Village Fest start and end?</h3>
+<p>Village Fest runs roughly 6pm to 10pm every Thursday, year-round. In summer, 6pm is the right arrival time to catch the cooler part of the evening. In winter and spring, 7pm works fine. The fair gets crowded by 7:30pm on holiday weekends and during festival season.</p>
+
+<h3>Is Village Fest free?</h3>
+<p>Yes, entry is free. You pay for whatever food, produce, or goods you buy from vendors. Budget $15-30 if you're picking up produce and a tamale, more if you're browsing art or jewelry. Parking is free on surrounding side streets but fills up after 6:30pm.</p>
+
+<h3>Where do I park for Village Fest?</h3>
+<p>Palm Canyon Drive is closed during the fair, so park on adjacent side streets. Museum Way, Belardo Road, and Cahuilla Road are the best bets. There's also a city parking structure on Belardo that most people overlook. Budget 10-15 minutes to find parking if you arrive after 6:30pm.</p>
+
+<h3>What is the best thing to buy at Village Fest?</h3>
+<p>Produce from the local farm vendors. Imperial Valley and Coachella Valley farms sell citrus, peppers, and seasonal vegetables at prices better than any grocery store in Palm Springs. In winter, the citrus selection is particularly good. Dates are the other reliable buy, with vendors who will let you sample variety differences.</p>
+
+<h3>How do I get to Village Fest from Indio?</h3>
+<p>About 25-30 minutes west on I-10 from the Indian Palms area, then north into downtown Palm Springs. The lack of traffic on Palm Canyon Drive during the fair actually makes parking on side streets slightly easier than on a regular evening. Guests staying at <a href="/cozy-cactus/">The Cozy Cactus or Terra Luz</a> in Indio can make Village Fest a worthwhile Thursday evening trip.</p>
+
 ---
 
 *Eann hosts guests at Indigo Palm Collective properties in Indio and Palm Springs. She's done Village Fest more times than she's kept track of, usually in search of tamales.*

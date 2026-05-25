@@ -128,3 +128,18 @@ relatedPosts:
 <p>4.98 stars is a difficult number to maintain across 146 stays. Terra Luz has it because the combination of a genuinely private saltwater pool, intentional design, and responsive hosting is hard to find in the Coachella Valley at this price point. Most private-pool rentals in the valley are either newer builds with no design coherence, or older homes with neglected pools. Terra Luz was designed by someone with a specific vision, and it shows in every room and every review.</p>
 
 <p>If that's what you're looking for, <a href="/terra-luz/">book Terra Luz directly</a> or email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> with questions.</p>
+
+<h2>FAQ: Terra Luz Vacation Rental</h2>
+
+<h3>Is Terra Luz dog-friendly?</h3>
+<p>Yes. Two dogs maximum, $100 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible. Dog bowl and treats are stocked in the kitchen. Email to confirm before booking.</p>
+
+<h3>How far is Terra Luz from the Coachella and Stagecoach festival grounds?</h3>
+<p>7-10 minutes by car, no freeway required. Terra Luz is at 49768 Pacino St in Indio's Indian Palms neighborhood, inside the same community as The Cozy Cactus. The walk to the Empire Polo Club from Indian Palms runs roughly 25-50 minutes depending on your starting point, which is one of the only neighborhoods in the valley where walking to the festival is genuinely practical.</p>
+
+<h3>What is included with a Terra Luz stay?</h3>
+<p>Private saltwater pool heated year-round, covered pergola patio with string lights, fully fenced backyard, full-size kitchen with spices and basics, Keurig and pour-over setup, Ninja slushie maker, outdoor projector on the pergola, and in-pool sun shelf loungers. Sheets and towels included. Self-check-in via smart lock.</p>
+
+<h3>What is the pool heating fee at Terra Luz?</h3>
+<p>Pool heating is complimentary. The saltwater pool is heated year-round as a standard part of the stay. No add-on fee required.</p>
+

@@ -148,4 +148,19 @@ layout: blog-post.njk
 
 <p>This is more than a Coachella vacation rental or a Palm Springs getaway. It's a love letter to the desert, built into a house. Read more about <a href="/blog/desert-vacation-prep/">how to prepare for your desert stay</a> and what to expect when you get here.</p>
 
-<p>If you want the honest guest perspective on what staying here is actually like, read the <a href="/blog/terra-luz-review/">Terra Luz review</a> from a guest's point of view. If you're ready to book, <a href="/terra-luz/">Terra Luz</a> is open for summer 2026 and beyond.</p>
+<p>For the honest guest perspective on what staying here is like, read the <a href="/blog/terra-luz-review/">Terra Luz review</a>. If you're ready to book, <a href="/terra-luz/">Terra Luz</a> is open for summer 2026 and beyond.</p>
+
+<h2>FAQ: Terra Luz</h2>
+
+<h3>What does "Terra Luz" mean?</h3>
+<p>Terra means earth in Spanish. Luz means light. Together they describe the design identity of the house: grounded in terracotta, natural materials, and desert warmth, filled with light from the pool, the open patio, and 300-plus days of sun. The name came from brand strategist Dawn Asher, who drove the full rebrand from Casa Moto.</p>
+
+<h3>What is the design inspiration behind Terra Luz?</h3>
+<p>Old Havana meets the Coachella Valley desert. The six brand filters Dawn set were: cocooned and soothing, vibrant and rejuvenating, cultured (Latin and Cuban), rhythmic, effortless ease, and grounded. Every furniture piece and paint color had to pass those filters, which is why the rooms feel coherent rather than assembled from a trend.</p>
+
+<h3>Is Terra Luz pet-friendly?</h3>
+<p>Yes. Two dogs maximum, $100 pet fee. The backyard is fully fenced, which is the main reason people ask. The saltwater pool is dog-accessible. Dog bowl and treats are in the kitchen.</p>
+
+<h3>What is the best time of year to stay at Terra Luz?</h3>
+<p>October through May covers the most comfortable range, with March, April, and November being the sweet spots for weather. Festival season (Coachella in April, Stagecoach in late April) books earliest. Summer stays are pool-focused by design; the house handles the heat well with covered patio shade and the outdoor projector for evening movie nights.</p>
+

@@ -90,7 +90,7 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private saltwater pool at Terra Luz vacation rental in Indio California, ideal for Stagecoach festival groups" width="1400" height="933" loading="lazy">
 <p class="image-caption">A private pool changes the whole trip. After three days of dust and sun, having somewhere to decompress that's yours alone is genuinely the best thing.</p>
 
-<p>Stagecoach runs late April, which means daytime temps in Indio regularly hit 95-105 degrees Fahrenheit. This is not an exaggeration and it's not a complaint, it's just the reality of the desert in late April. A rental with a private pool shifts from "nice to have" to "essential for your group to enjoy the week."</p>
+<p>Stagecoach runs late April, which means daytime temps in Indio regularly hit 95-105 degrees Fahrenheit. Desert in late April, full stop. A rental with a private pool shifts from "nice to have" to essential for your group to enjoy the week.</p>
 
 <p>A few things worth prioritizing:</p>
 
@@ -158,3 +158,18 @@ layout: blog-post.njk
 </ul>
 
 <p>Stagecoach is a genuinely good festival. The crowd is friendly, the production is well-run, and the desert setting at night, with the mountains lit up against the sky, is hard to replicate anywhere else. Staying in the right place just means you get to enjoy the whole thing without the commute overhead eating your energy.</p>
+
+<h2>FAQ: Stagecoach 2026</h2>
+
+<h3>How far is Stagecoach from Palm Springs?</h3>
+<p>About 24 miles, or 30 minutes on a normal day. On festival evenings when 80,000 people all exit at once, that stretch becomes 60 to 90 minutes each way. If you're staying in Palm Springs, build the commute honestly into your plan, because it compounds over three days.</p>
+
+<h3>What is the best neighborhood to stay in for Stagecoach?</h3>
+<p>Indian Palms in Indio. It's a residential neighborhood that sits a 7-10 minute drive from the Empire Polo Club with no freeway. Vacation rentals here have private outdoor space, and some are close enough to walk to the festival gates.</p>
+
+<h3>Is a private pool worth it for a Stagecoach rental?</h3>
+<p>Yes, unambiguously. Late April in Indio regularly hits 95-105 degrees Fahrenheit during the day. A private pool lets you leave the grounds at 3pm during peak heat, recharge for two hours, and come back for the evening headliners. Community pools have hours; a private pool doesn't.</p>
+
+<h3>How does driving to Stagecoach compare to rideshares?</h3>
+<p>If you're within 10 minutes of the grounds, driving is easy. Parking passes cost $30-50 per day and are worth buying in advance. Rideshares surge 2-3x after the headliner ends, which is the only time the wait and cost become significant. Groups often drive in and rideshare back, then reverse the next day.</p>
+

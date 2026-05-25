@@ -69,7 +69,7 @@ layout: blog-post.njk
 
 <p>This is the one thing in Palm Desert that's hard to replicate anywhere else in the valley. The Living Desert is a 1,200-acre zoo and botanical garden focused entirely on desert ecosystems. You'll see African and North American desert animals: cheetahs, meerkats, mountain lions, a giraffe feeding station, desert tortoises, and a walk-through African village area. The botanical sections cover cacti and succulents from around the world.</p>
 
-<p>It's not a big-city zoo. The scale is intimate enough to do in half a day without feeling rushed. Tickets run about $32 for adults, $22 for children. Worth it, especially in cooler months. In summer, get there when it opens (8am) and leave by noon before the heat spikes.</p>
+<p>The scale is intimate enough to do in half a day without feeling rushed. Tickets run about $32 for adults, $22 for children. Worth it, especially in cooler months. In summer, get there when it opens (8am) and leave by noon before the heat spikes.</p>
 
 <h2>El Paseo Shopping District</h2>
 
@@ -110,4 +110,20 @@ layout: blog-post.njk
 <h2>When to Visit</h2>
 
 <p>October through May is the season. The valley is genuinely pleasant: daytime highs in the 70s and 80s, cool evenings, green courses. June through September, highs regularly exceed 110 degrees. The Living Desert reduces its hours. El Paseo is quieter. Prices drop 30 to 50 percent. Some restaurants reduce days. If you're going in summer, <a href="/blog/palm-springs-summer/">read our summer guide</a> first.</p>
+
+<p>If you're spending more than a day in the valley, our properties in Indio give you a useful base: <a href="/cozy-cactus/">The Cozy Cactus</a> (3BR, private hot tub, community pool) and <a href="/terra-luz/">Terra Luz</a> (3BR, private saltwater pool, Latin/Cuban design) are both 20 minutes east of Palm Desert in Indian Palms. Either makes a comfortable home base for a valley trip that includes Palm Desert, Palm Springs, and Indio.</p>
+
+<h2>FAQ: Things to Do in Palm Desert</h2>
+
+<h3>What is the most popular attraction in Palm Desert?</h3>
+<p>The Living Desert Zoo and Gardens. It's the one attraction in Palm Desert with no equivalent elsewhere in the valley: 1,200 acres of desert zoo and botanical garden, with African and North American desert animals in an intimate format. Half a day is enough, and it earns the admission price in cooler months.</p>
+
+<h3>Is El Paseo in Palm Desert worth visiting?</h3>
+<p>Yes, particularly if your visit overlaps with a Thursday from October through May. The Desert Art Walk keeps galleries open late and puts music on the street, which makes El Paseo genuinely lively rather than just a shopping district. Even outside of Art Walk evenings, it's a pleasant mile-long stretch to walk with good dining options built in.</p>
+
+<h3>How far is Palm Desert from Palm Springs?</h3>
+<p>About 15 miles, or 20 minutes on Highway 111. From Indio, Palm Desert is roughly 20 minutes west. Most Coachella Valley visitors end up driving this corridor at some point, and Palm Desert makes a natural midday stop between the two ends of the valley.</p>
+
+<h3>What is the best time of year to visit Palm Desert?</h3>
+<p>November through April is the reliable window. March brings the BNP Paribas Open at nearby Indian Wells, which fills hotels but keeps the valley energized. January and February are quieter and cooler, with the occasional cold morning offset by clear skies and uncrowded courses and trails.</p>
 

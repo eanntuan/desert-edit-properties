@@ -146,7 +146,7 @@ layout: blog-post.njk
 
 <p>The staging you do before the shoot is the foundation for those photos. A good photographer can make a well-staged room look exceptional. They cannot make a cluttered or half-finished room look ready. The work happens before the camera shows up.</p>
 
-<p>At <a href="/terra-luz/">Terra Luz</a>, the photo shoot was the first time I saw every room finished and styled at the same time. It was also the first time I understood how much a deliberate five-day process changes what ends up on the listing. If you want the deeper hosting philosophy behind these details, the <a href="/blog/airbnb-hosting-lessons/">lessons from 191 Airbnb reviews</a> covers what actually moves the needle with guests.</p>
+<p>At <a href="/terra-luz/">Terra Luz</a>, the photo shoot was the first time I saw every room finished and styled at the same time. It was also the first time I understood how much a deliberate five-day process changes what ends up on the listing. If you want the deeper hosting philosophy behind these details, the <a href="/blog/airbnb-hosting-lessons/">lessons from 191 Airbnb reviews</a> covers what moves the needle with guests.</p>
 
 <h2>The 5-Day Staging Checklist</h2>
 
@@ -161,3 +161,18 @@ layout: blog-post.njk
 <p>Five days feels like a lot until it's Tuesday morning and you realize Day 5 was Saturday and Saturday was mostly driving to HomeGoods.</p>
 
 <p>Start on Day 5. Do the list. The photos are worth it.</p>
+
+<h2>FAQ: Staging a Vacation Rental for Photography</h2>
+
+<h3>How long does it take to stage a vacation rental for photography?</h3>
+<p>Five days is the realistic minimum if you're doing it properly. Day 5 is the walk-through and problem list. Day 4 is deep cleaning and furniture finalization. Day 3 is vignette styling. Day 2 is the tchotchke audit. Day 1 is the reset check and morning prep. Starting two days out almost guarantees you miss something the camera will find.</p>
+
+<h3>Do I need a professional photographer for vacation rental photos?</h3>
+<p>For a listing that's your primary income source, yes. A good photographer can make a well-staged room look exceptional. They work with light, angles, and timing that a phone camera captures poorly. The return on investment in photography shows up in booking rates, not just in how the listing looks. Our bookings increased measurably after upgrading from phone photos to professional shots.</p>
+
+<h3>What are the most common vacation rental staging mistakes?</h3>
+<p>Too many items on any given surface is the most common one. Second is staging for how the room looks in person rather than how it reads in a wide-angle photo from a doorway. Third is leaving operational clutter visible: extension cords, router cables, cleaning supplies on counters. A camera finds all of these before your eye does.</p>
+
+<h3>What should I put on surfaces for vacation rental photos?</h3>
+<p>Less than you think. A tray with two or three items on a coffee table reads better than twelve items scattered across it. Prioritize things that suggest occupancy without creating clutter: a book open face-down, a citrus bowl, two wine glasses. Fresh flowers and fruit are worth placing the morning of the shoot because they show up beautifully but wilt fast.</p>
+

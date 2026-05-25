@@ -110,3 +110,20 @@ layout: blog-post.njk
 
 <p>If you're based in Indio, <a href="/blog/things-to-do-indio-ca/">the things to do in Indio guide</a> covers where to eat before or after this trip. For more day trip ideas, <a href="/blog/indio-between-coachella-weekends/">the between-Coachella-weekends guide</a> covers the Salton Sea alongside other options from the valley. And if you need a home base on the eastern Coachella Valley side, <a href="/cozy-cactus/">The Cozy Cactus</a> is in Indian Palms, Indio, with a pool and hot tub to come back to.</p>
 
+<h2>FAQ: Salton Sea Day Trip</h2>
+
+<h3>Is the Salton Sea worth visiting?</h3>
+<p>Yes, if you go knowing what it is. Bombay Beach has become one of California's most interesting accidental art destinations, and Salvation Mountain is genuinely moving at human scale. The smell near the shoreline is real. Stay back from the water and it's manageable, especially from October through March.</p>
+
+<h3>How long does a Salton Sea day trip take from Indio?</h3>
+<p>Budget a full half day at minimum: 45 minutes each way from Indio, plus an hour to 90 minutes at Bombay Beach and 30 to 45 minutes at Salvation Mountain. Adding Slab City's East Jesus makes it a full-day trip. Leave early and you're back in Indio by late afternoon.</p>
+
+<h3>Can you swim in the Salton Sea?</h3>
+<p>No. The water is saltier than the Pacific Ocean and carries high concentrations of agricultural runoff. The shoreline is fine to walk and photograph. The water is not for swimming.</p>
+
+<h3>What is Bombay Beach Biennale?</h3>
+<p>An annual spring arts festival held in Bombay Beach that brings together artists, musicians, and performers for a few days of programming. It typically happens in March. The outdoor art installations created for it tend to stay up after the festival ends, which is why the town has permanent outdoor art year-round.</p>
+
+<h3>What should I bring to the Salton Sea?</h3>
+<p>Water (more than you think), sun protection, a full tank of gas, and closed-toe shoes for walking the Bombay Beach streets. There are no coffee shops, no gas stations between Niland and the freeway, and very few restrooms. Plan accordingly before you leave Indio.</p>
+
