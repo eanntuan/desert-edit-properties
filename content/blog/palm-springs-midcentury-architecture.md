@@ -143,4 +143,18 @@ layout: blog-post.njk
 
 <p>A few related things to know: The <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> has a full two-day structure if this is your first time in the city. If you want a driving tour instead of a walking tour, the <a href="/blog/palm-springs-midcentury-architecture-tour/">Palm Springs midcentury driving tour guide</a> covers 8 specific stops with real street names and golden hour timing. And if you're planning a longer stay in the area and want to understand the differences between Palm Springs and Indio, <a href="/blog/palm-springs-vs-indio/">the comparison guide</a> covers the trade-offs honestly.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>What neighborhood in Palm Springs has the best midcentury modern homes?</h3>
+<p>Vista Las Palmas, bounded by Via Colusa, Via Vaquer, and Via Las Palmas, has the most consistent MCM streetscape in the city. Butterfly roofs, breezeblock screen walls, and desert landscaping are dense here with very little dilution from newer construction. Old Las Palmas and the Movie Colony are also strong, with larger estates and a few of the most photographed houses in the valley.</p>
+
+<h3>Can you tour the Kaufmann Desert House?</h3>
+<p>Not typically. The Kaufmann Desert House at 470 W Vista Chino is a private residence. The exterior is fully visible from the street, which is worth doing. During Modernism Week in February, some private homes open for ticketed interior tours, though the Kaufmann House lineup often runs several hours.</p>
+
+<h3>What is the Alexander Construction Company and why does it matter?</h3>
+<p>George and Robert Alexander built over 2,000 homes in Palm Springs between 1955 and 1965, hiring architects including William Krisel to design plans at scale. The result was affordable midcentury modern housing across entire neighborhoods, not just custom estates for the wealthy. That democratic spread is why Palm Springs has so much intact MCM: it wasn't only for the rich, so there was much more of it to survive.</p>
+
+<h3>What is the best time of year to walk the Palm Springs architecture neighborhoods?</h3>
+<p>October through April, early morning. The light is best before 9am, the streets are quiet, and the temperature is genuinely comfortable for walking. Summer mornings work too if you're out before 8am, but the window is narrow before the heat makes walking unpleasant. Avoid midday in any season for photography: flat overhead light kills the shadows that give the architecture its depth.</p>
+
 <p class="cta-block">Staying in Palm Springs for the architecture and everything else the city has? <a href="/the-sundune/">The Sundune</a> is a 2-bedroom condo in Palm Springs with a balcony and pool access. Walk distance to North Palm Canyon. <a href="/the-sundune/">Check availability.</a></p>

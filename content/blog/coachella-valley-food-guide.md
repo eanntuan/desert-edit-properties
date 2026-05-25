@@ -171,4 +171,16 @@ layout: blog-post.njk
 
 <p>If you're staying with us at <a href="/cozy-cactus/">The Cozy Cactus</a> in Indio, we keep a printed local food guide in the house with current hours for all of the above. Things change, especially during festival season, so always double-check before you drive.</p>
 
+<h2>Frequently Asked Questions</h2>
 
+<h3>What is the best restaurant in Indio, CA?</h3>
+<p>One Stop Taco Shop for birria tacos, full stop. The quesabirria with dipping broth is the order. Papa Headz earns the second spot for smash burgers with a local following that predates any festival tourism. Arriola's Tortilleria, operating since 1927, is the place for handmade tortillas and simple honest Mexican food.</p>
+
+<h3>Where should I eat near the Coachella grounds?</h3>
+<p>One Stop Taco Shop and Papa Headz are both in Indio and a short drive from the Empire Polo Club. Arriola's and El Tranvia are local institutions that predate the festival and deliver consistent food at neighborhood prices. Avoid defaulting to the chain restaurants on Highway 111: the local spots are better and usually faster during festival weeks.</p>
+
+<h3>Is there good food in the Coachella Valley outside of Palm Springs?</h3>
+<p>Yes. Indio has a deep Latin food tradition that most visitors miss because they're following Palm Springs-focused guides. La Quinta has Yes Please (specialty coffee and food worth a 15-minute drive from Indio). Shields Date Garden on Highway 111 is a Coachella Valley institution since 1924 and worth a stop on any trip through the valley.</p>
+
+<h3>How far is Palm Springs from Indio for dining?</h3>
+<p>About 30 minutes by car. Worth doing for a specific evening: Workshop Kitchen + Bar, Rooster and the Pig, or Cheeky's brunch. Not practical as your everyday dining radius if you're based in Indio. Use the Indio and La Quinta spots above for most meals and save Palm Springs for one or two deliberate evenings out.</p>

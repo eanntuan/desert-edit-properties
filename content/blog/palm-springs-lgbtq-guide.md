@@ -129,6 +129,23 @@ layout: blog-post.njk
 
 <p>For a fuller picture of the neighborhood and how to spend your days in Palm Springs, the <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide</a> covers the city from the perspective of a guest staying in the Sunrise Park area.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>Is Palm Springs a good destination for LGBTQ+ travelers?</h3>
+<p>Yes, one of the most established in the country. The city has had LGBTQ+ mayors and council majorities for years, and the Arenas Road bar district has been a gathering hub since the 1970s. Public displays of affection are completely normal throughout the city, not just on Arenas Road.</p>
+
+<h3>When is White Party Palm Springs?</h3>
+<p>White Party typically runs over four days in mid-April, usually the weekend after Coachella. Book accommodation months in advance. It's one of the biggest fundraising events for HIV/AIDS organizations in the country and draws tens of thousands of visitors.</p>
+
+<h3>What is The Dinah Shore Weekend?</h3>
+<p>The Dinah, held in late March or early April, is the largest lesbian event in the world. The weekend runs pool parties, concerts, comedy shows, and a full schedule of events centered at one of the main hotels. It's been running for over 30 years.</p>
+
+<h3>What bars are on Arenas Road in Palm Springs?</h3>
+<p>The main anchors are Hunters Nightclub (dance bar, drag shows nightly), The Barracks (leather and Levi's, pool tables), Toucan's Tiki Lounge (neighborhood bar, drag shows), Chill Bar, and Quadz Video Bar. Bar Cecil on N Palm Canyon Drive is a 10-minute walk and worth adding for cocktails before the strip.</p>
+
+<h3>When is Palm Springs Pride?</h3>
+<p>The first full weekend in November. A street festival on Saturday, a parade on Sunday morning, and venues running events throughout the weekend. The November timing means ideal weather, with daytime highs in the mid-70s.</p>
+
 <h2>Where to Stay</h2>
 
 <p><a href="/the-sundune/">The Sundune</a> is 5 minutes from Arenas Road. It's a two-bedroom condo in a gated community with a pool, fully stocked kitchen, and parking. Not a clothing-optional resort, not a gay-specific property, but a well-designed place to stay that puts you close to everything in this guide without the noise of being in the middle of it. Good for a group of four, or a couple who wants to stay somewhere comfortable rather than squeezing into a motel room.</p>

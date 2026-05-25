@@ -110,7 +110,7 @@ layout: blog-post.njk
 <p>Best hikes from Terra Luz as a base camp:</p>
 <ul>
     <li><strong>Cholla Cactus Garden</strong> (Easy, 0.25 miles): golden hour is magic here</li>
-    <li><strong>Skull Rock</strong> (Easy, 1.7 miles): great for kids, cool formations</li>
+    <li><strong>Skull Rock</strong> (Easy, 1.7 miles): good for kids, interesting formations that reward closer inspection</li>
     <li><strong>Hidden Valley</strong> (Moderate, 1-mile loop): rock climbers, gorgeous views</li>
     <li><strong>Ryan Mountain</strong> (Strenuous, 3 miles): summit views worth every step</li>
     <li><strong>Barker Dam</strong> (Easy, 1.3 miles): petroglyphs, seasonal water</li>
@@ -146,3 +146,17 @@ layout: blog-post.njk
 <p>If you're planning a trip out here, <a href="/terra-luz/">Terra Luz</a> is our Indio home base: private saltwater pool, covered patio with pergola, and 10 minutes from everything in this guide.</p>
 
 <p><a href="/blog/terra-luz-origin-story/">Terra Luz</a> is our love letter to this place. Whether you're coming for Coachella, escaping winter, or just need a long weekend to reset, the Coachella Valley is waiting.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the best time of year to visit the Coachella Valley outside of festival season?</h3>
+<p>October and November are the best-kept window in the valley. Temperatures drop to the mid-70s to low-80s by October, the summer crowds are gone, and prices are well below peak. November in particular hits a low-humidity sweet spot that makes every outdoor activity feel easier. The dates are being harvested at the farms along Highway 111, which is its own reason to come.</p>
+
+<h3>Is Indio worth visiting if you're not going to Coachella?</h3>
+<p>Yes. Indio is the most affordable base in the valley for families and groups, and it sits in the middle of everything: Joshua Tree is 45 minutes north, the Salton Sea is 30 minutes south, Palm Springs is 30 minutes west. The local food scene in Indio, particularly the birria and taco spots on and off Highway 111, is worth the trip independent of any festival.</p>
+
+<h3>How far is Joshua Tree from the Coachella Valley?</h3>
+<p>About 45 minutes from Indio and roughly an hour from Palm Springs, depending on which park entrance you're heading to. The Cottonwood entrance is closer to Indio. The North Entrance near Joshua Tree town is more accessible from Palm Springs. Either works as a day trip.</p>
+
+<h3>What is there to do in the Coachella Valley in summer?</h3>
+<p>Summer is pool season. The valley clears out, rates drop, and a private pool with no shared-space rules is the whole itinerary. Early morning Joshua Tree hikes are possible before 9am. The Palm Springs Art Museum and aerial tramway are the best midday options. Night swims when the air finally drops below 90°F are a specific pleasure that doesn't exist anywhere else.</p>

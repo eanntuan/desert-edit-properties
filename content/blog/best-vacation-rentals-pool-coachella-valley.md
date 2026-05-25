@@ -71,7 +71,7 @@ layout: blog-post.njk
 
 <h2>Private vs. Shared: The First Filter</h2>
 
-<p>The Coachella Valley has a lot of rental communities built around shared amenities, which is fine for some trips and genuinely frustrating for others. Shared pools can be great if you're going to Coachella and want the community energy. They're less great if you're here for a bachelorette weekend or a family trip where you actually want to use the pool at 11pm without navigating community rules.</p>
+<p>The Coachella Valley has a lot of rental communities built around shared amenities, which is fine for some trips and genuinely frustrating for others. Shared pools work well if you're going to Coachella and want the communal energy. They're a friction point if you're here for a bachelorette weekend or a family trip where you want the pool at 11pm without navigating community rules.</p>
 
 <p>When listings say "pool access," read carefully. That can mean a private pool steps from your back door, a community pool in a common area shared with other guests, or a resort pool at a hotel nearby that technically comes with your booking. All three get labeled as "pool access." They're very different experiences.</p>
 

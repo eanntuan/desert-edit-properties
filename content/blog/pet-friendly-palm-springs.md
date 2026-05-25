@@ -160,6 +160,23 @@ layout: blog-post.njk
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>Can you bring a dog to Palm Springs vacation rentals?</h3>
+<p>Most vacation rentals in the area do not allow pets. The ones that do have usually set up for it: tile or concrete floors, a fenced outdoor space, and a pet deposit or fee. We have two pet-friendly properties. Terra Luz in Indio accepts up to two dogs with a fenced backyard and private saltwater pool. The Sundune in Palm Springs accepts one dog with a community pool and walkable neighborhood. Email indigopalmco@gmail.com before booking to confirm your situation.</p>
+
+<h3>Is the Palm Canyon trail dog-friendly?</h3>
+<p>Dogs on leash are allowed on most Palm Springs area trails, including Palm Canyon inside Indian Canyons. The entry fee is around $12 per adult and the canyon is one of the largest natural fan palm oases in North America. Go before 8am in any warm month. Pavement temperatures can hit 150 degrees by midday, which is dangerous for paws in 60 seconds.</p>
+
+<h3>What is the best season to bring a dog to Palm Springs?</h3>
+<p>October through April. The pavement temperatures between May and September are dangerous for dogs, and the afternoon heat window is too long to manage safely. In peak season, go out before 8am and after 6pm for any outdoor dog activities. Bring more water than you think you need for both of you.</p>
+
+<h3>Are dogs allowed at VillageFest in Palm Springs?</h3>
+<p>Yes. VillageFest runs every Thursday night on Palm Canyon Drive and dogs on leash are welcome and common. It's one of the better dog-friendly evening options in Palm Springs proper: street food, local vendors, and enough activity to keep a dog engaged without the stress of a crowded indoor space.</p>
+
+<h3>What restaurants in Palm Springs allow dogs?</h3>
+<p>California law allows dogs in outdoor dining areas when the restaurant permits it. In Palm Springs, Cheeky's, The Tropicale, Ernest Coffee, and Boozehounds all have dog-friendly patios. Boozehounds is the most explicitly dog-forward, with actual dog treats on hand. Keep your dog on leash or under the table and tip accordingly.</p>
+
 <h2>The Bottom Line</h2>
 
 <p>Palm Springs works for dogs better than most places its size, but you need the right base. A private yard, tile floors, and outdoor space matter more than the amenity checklist. The trails and parks are there. The restaurant patios are there. Get the accommodation right first, then build the trip around that.</p>

@@ -104,8 +104,22 @@ Koffi North on N Indian Canyon Drive is the most convenient of the Koffi locatio
 
 All of this points to the same conclusion: the best pastry window in Palm Springs is 7:30am to 9:30am. It's before the heat arrives, before the selection thins out, and before the weekend crowds make every parking spot a contest.
 
-If you're staying at [The Sundune](/the-sundune/) in Palm Springs, Peninsula Pastries and Koffi are both an easy drive from the property. Pair an early pastry run with a walk on Palm Canyon before the shops open and you've structured a good desert morning.
+If you're staying at [The Sundune](/the-sundune/) in Palm Springs, Peninsula Pastries and Koffi are both an easy drive from the property. Pair an early pastry run with a walk on Palm Canyon before the shops open and you've structured a good desert morning. For restaurant options later in the day, the [Palm Springs restaurant guide](/blog/best-restaurants-palm-springs/) covers the full dining picture.
 
 For the full coffee and café picture beyond just pastries, the [Palm Springs coffee guide](/blog/palm-springs-coffee-guide/) covers the broader café scene.
 
 <img src="/blog/images/ps-palm-street-blue-sky.webp" alt="Palm Springs street with palm trees against a bright blue desert sky on a clear morning" loading="lazy" width="1400" height="933">
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the best pastry in Palm Springs?</h3>
+<p>The almond croissant at Koffi on N Palm Canyon Drive is the most consistent pick: proper lamination, dense almond filling, and sized like an actual croissant rather than a miniature version. Peninsula Pastries on S Palm Canyon Drive is the more French option, with imported flour and butter that makes a clear difference in the pain au chocolat.</p>
+
+<h3>What time do Palm Springs bakeries run out of pastries?</h3>
+<p>Most of the best items are gone by 10am on weekends. The ideal window is 8 to 9:30am. Peninsula Pastries in particular sells out of the most popular items early on Saturdays. Arriving at opening gives you the full selection.</p>
+
+<h3>Is Peninsula Pastries open every day?</h3>
+<p>No. Peninsula Pastries is closed Monday through Wednesday. Hours are Thursday through Saturday 8:30am to 5pm, Sunday 8:30am to 4pm. If your trip runs Sunday through Tuesday, plan for Koffi or Townie Bagels instead.</p>
+
+<h3>Where can I get a good bagel in Palm Springs?</h3>
+<p>Townie Bagels on E Sunny Dunes Road is the place. Water-boiled in the New York style, chewy and dense with a crust that holds up. The olive and fennel bagel appears as a weekend special and is worth planning around. Expect a wait on weekend mornings.</p>

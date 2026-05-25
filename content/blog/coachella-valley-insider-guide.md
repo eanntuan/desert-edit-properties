@@ -174,3 +174,17 @@ relatedPosts:
 
 <img src="/blog/images/cozy-cactus-hot-tub.webp" alt="Private hot tub at The Cozy Cactus vacation rental in Indio CA, covered patio, string lights, palm trees at dusk" loading="lazy" width="800" height="533">
 <p class="image-caption">The hot tub at golden hour. Palm trees. String lights. This is why you stay in Indio.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the Coachella Valley known for besides the music festival?</h3>
+<p>Joshua Tree National Park is 45 minutes from Indio and draws its own serious crowd for hiking, rock climbing, and stargazing. The Indian Canyons in Palm Springs offer ancient Cahuilla trails through native fan palm oases. The valley has some of the best date farms in the country, including Shields Date Garden (since 1924) and Arriola's Tortilleria (since 1927). The Salton Sea, 30 minutes south, is a singular California experience that has nothing to do with festivals.</p>
+
+<h3>Is Indio worth staying in if you're not going to Coachella?</h3>
+<p>Yes. Indio is the most affordable base in the Coachella Valley for groups and families, and it sits in the middle of everything: Palm Springs is 30 minutes west, Joshua Tree is 45 minutes north, and the Salton Sea is 30 minutes south. The local food scene, particularly the birria and taqueria spots, is worth visiting independent of any festival. The polo fields at the Empire Polo Club host matches from January through March, open to the public.</p>
+
+<h3>What is VillageFest in Palm Springs?</h3>
+<p>VillageFest is a weekly street fair that closes Palm Canyon Drive every Thursday evening. Local vendors, live music, produce, and a version of Palm Springs that's more neighborhood than resort. It runs year-round and is worth attending at least once. Get there around 6pm before it fills up.</p>
+
+<h3>What is the best day trip from the Coachella Valley?</h3>
+<p>Joshua Tree for most people. Go for sunrise, hit the Cholla Cactus Garden trail, stop in the town of Joshua Tree for coffee and the weird art galleries, and be back at the pool by noon. If you've done Joshua Tree already, the Salton Sea offers a completely different experience: quieter, stranger, and more memorable than most California day trips.</p>

@@ -154,4 +154,16 @@ relatedPosts:
 
 <p>For accommodation: <a href="/the-sundune/">The Sundune</a> is our Palm Springs 2BR if you want the city access option. <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both 3BR options in Indio, 20-25 minutes from the venue. Terra Luz has a private saltwater pool; Cozy Cactus has a private hot tub and community pool steps away. All three book out early for tournament week. Check availability before it goes.</p>
 
+<h2>Frequently Asked Questions</h2>
 
+<h3>How far is Palm Springs from the BNP Paribas Open?</h3>
+<p>About 20 minutes west on Highway 111. Indian Wells Tennis Garden is roughly between Palm Springs and Indio, making both about equal in drive time to the venue. Palm Springs gives you walkable access to restaurants and a city atmosphere. Indio gives you more space per dollar and private pools at most vacation rental price points during tournament week.</p>
+
+<h3>When should I book accommodation for the BNP Paribas Open?</h3>
+<p>By November of the preceding year for the best properties. The valley's top vacation rentals in both Palm Springs and Indio fill for tournament weeks before the calendar turns. If you're reading this in January for the current-year tournament, check Palm Desert and Rancho Mirage for remaining availability. Both are 15 to 20 minutes from the venue and often have properties that haven't been claimed yet.</p>
+
+<h3>Is a private pool worth the extra cost for a BNP Paribas Open trip?</h3>
+<p>Yes, particularly in March when desert nights drop to the low 50s. After 8 to 10 hours in stadium seats, a heated private pool with no schedule or shared-space etiquette is a different recovery experience than a hotel pool. Properties with private heated pools command higher rates, but the daily return on a full tournament week makes the math work for groups.</p>
+
+<h3>Should I stay in Palm Springs or Indio for the BNP Paribas Open?</h3>
+<p>Couples and solo travelers tend to prefer Palm Springs: walkable dining, a more established city feel, and a shorter list of logistics. Groups of four or more usually get more value in Indio: larger houses, private pools, full kitchen access, and rates that don't spike as sharply during tournament week. The drive to the venue is comparable from either direction.</p>

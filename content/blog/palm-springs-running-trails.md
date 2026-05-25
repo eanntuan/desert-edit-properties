@@ -154,6 +154,28 @@ If you're visiting in May through September, run before 7am or after 6pm. In sum
 
 If you're based at [The Sundune at Palm Springs](/the-sundune), the CV Link trailhead near our property is an easy starting point for a flat morning run before the heat arrives. And there's a shower waiting when you get back.
 
+## Frequently Asked Questions
+
+### What is the best running trail in Palm Springs for beginners?
+
+South Lykken Trail is the most accessible entry point. The trailhead is at the end of Mesquite Avenue, the loop is 2 miles with 324 feet of gain, and the views over the valley floor start within the first quarter mile. Nothing technical, manageable for someone new to desert terrain. Go before 8am.
+
+### Can you run with a dog in Palm Springs?
+
+The CV Link is the only trail on this list that allows leashed dogs. The mountain trails, including South Lykken, Araby, Murray Canyon, and the Museum Trail, don't allow dogs. Ruth Hardy Park has a dedicated off-leash area if your dog needs to run. In summer, pavement temperatures can hit 150 degrees, so early morning and evening are the only safe windows for dogs.
+
+### Is it safe to run in Palm Springs in summer?
+
+On the right schedule, yes. The summer window is before 7am or after 6pm. By 9am in July, even the easy trails are becoming genuinely dangerous. Hydration is serious: the dry air means you're losing water faster than you feel it. Bring more than you think you need, turn around if you feel wrong, and stick to the shaded canyon trails when the temperature is already pushing 90 at sunrise.
+
+### How steep is the Museum Trail in Palm Springs?
+
+Very. At 833 feet of elevation gain over 1.6 miles, it's the steepest trail on this list by a significant margin. Most people run the lower section and hike the switchbacks above. The payoff is earning the view faster than any other trail in Palm Springs proper: Downtown looks like a small grid surrounded by a very large desert.
+
+### Where does the CV Link trail start in Palm Springs?
+
+The CV Link's Palm Springs segment runs along the eastern edge of the city. The easiest access points are near the north end of Gene Autry Trail or from the trailhead off Garnet Avenue. The 4.6-mile segment is flat, paved, and leash-friendly, making it the best option for running with a dog or anyone who wants a predictable surface.
+
 <div class="cta-box">
   <h3>Base Camp in Palm Springs</h3>
   <p>The Sundune at Palm Springs puts you close to Araby, the CV Link, and the Museum Trail. Wake up early, run, shower, and be at a coffee shop by 8am.</p>

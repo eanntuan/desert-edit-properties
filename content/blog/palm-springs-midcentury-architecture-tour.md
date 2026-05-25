@@ -138,6 +138,23 @@ layout: blog-post.njk
 
 <p>The Sundune is 10 minutes from downtown Palm Springs and within walking distance of the Uptown Design District. If you're staying with us, you're already positioned to do this tour on arrival day without a car for most of it. More on the neighborhood in the <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide.</a></p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>Can you see the Kaufmann Desert House from the street?</h3>
+<p>Yes. The Kaufmann Desert House at 470 W Vista Chino is a private residence, but the exterior is visible from the street. You can see the horizontal rooflines, the post-and-beam structure, and the pool area from the sidewalk. Do not enter the property or approach the house. It's enough from the street to understand why Neutra's 1946 design defined desert modernism for decades after.</p>
+
+<h3>Is Modernism Week worth planning a trip around?</h3>
+<p>Yes, if midcentury architecture is a real interest rather than a casual one. The February event runs 11 days, opens private homes for interior tours, and includes architect talks and specialty bus tours. Tickets for the most popular home tours sell out months in advance. The Kaufmann House alone typically has a multi-hour wait, and it's worth every minute.</p>
+
+<h3>How long does the self-guided tour take?</h3>
+<p>Budget two to three hours for a relaxed driving tour with short walks at each stop. Photography-focused visitors tend to run longer. If you add the Art Museum stop, plan for an additional hour minimum. The route works as a half-day activity with time for coffee at the start and lunch afterward.</p>
+
+<h3>Do you need a guide, or can you do this tour alone?</h3>
+<p>You can do this entirely on your own with a map and this guide. The Palm Springs Architectural Foundation offers guided walking and bus tours year-round if you want names, dates, and architectural context attached to what you're seeing. Their tours cover additional properties and neighborhoods not included in this self-guided route.</p>
+
+<h3>Where should I park for the architecture tour?</h3>
+<p>For the Downtown starting point and Uptown Design District, use the public parking structure on Amado Road. For Vista Las Palmas and Old Las Palmas, street parking is available throughout but streets are narrow. Park once and walk a cluster of blocks rather than moving the car between stops.</p>
+
 <h2>Where to Stay</h2>
 
 <p><a href="/the-sundune/">The Sundune</a> is 10 minutes from downtown Palm Springs, walking distance from the Uptown Design District, and close to the main architectural neighborhoods this tour covers. It's a midcentury-influenced two-bedroom condo in a gated community with a pool. The right base for doing this properly.</p>

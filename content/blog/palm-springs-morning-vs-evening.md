@@ -133,6 +133,24 @@ The desert heat is a real thing, but it's a dry heat in a way that matters. At 1
 
 The guests who tell me they had the best trip? Almost all of them figured out the schedule by day two and leaned into it. The morning light, the midday pool, the evening out. That's the rhythm here.
 
+## Frequently Asked Questions
+
+### What is the best time of day to visit Palm Springs?
+
+Early morning. The hour from 7am to 9am is when the light is right, the temperature is manageable even in summer, and the city feels like yours. This is when to hike, explore architecture neighborhoods, or get coffee on an outdoor patio. Everything else follows from making the most of that window.
+
+### Is Palm Springs too hot in the summer to visit?
+
+It depends on your planning. Afternoons in July and August hit 110 to 115 degrees, which is not safe for extended outdoor exposure. But mornings before 10am and evenings after 6pm are genuinely comfortable, and the pool fills the rest. Rates drop 30 to 50 percent from spring. If you structure your days around the heat, summer in the desert is one of the better kept secrets in California travel.
+
+### What should I do in Palm Springs in the evening?
+
+Dinner at a patio restaurant after 7pm when temperatures have dropped, a walk along Palm Canyon Drive, and on Thursdays, Village Fest runs the full length of the main drag with food vendors and live art. The desert sky after dark has almost no light pollution and the stars are something else. If you're staying at a rental with a private outdoor space, use it at night.
+
+### Does Palm Springs cool down at night in summer?
+
+Yes, meaningfully. The desert dry heat dissipates faster than humid heat. By 9pm in summer, temperatures drop from the afternoon peak by 20 to 30 degrees. A hot tub or patio at night when the air temperature is in the 90s feels legitimately pleasant after a 115-degree afternoon. That shift is part of why desert summer visitors come back.
+
 ---
 
 *Eann is the founder of Indigo Palm Collective, operating vacation rentals in Indio and Palm Springs. She's given this same advice in approximately two hundred welcome messages.*

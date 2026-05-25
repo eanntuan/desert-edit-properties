@@ -110,3 +110,17 @@ Book classes 7 days out if your plan allows it. That's the typical opening windo
 If you're a new ClassPass member, the trial offer typically gives you a lower per-class credit cost. Signing up for the trial before a desert trip can make the math work better even if the selection is smaller than your home city.
 
 The ClassPass app lets you save studios as favorites, which makes it faster to check the same studios each time a new week of availability opens. Worth setting up before your trip.
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Does ClassPass work in Palm Springs?</h3>
+<p>Yes, with a smaller catalog than a major city. F45 Training, Club Pilates, and Hot Yoga Plus all have Palm Springs locations on ClassPass. The key is widening your search radius to include Palm Desert and Cathedral City, which adds more studio options a 10 to 20-minute drive away.</p>
+
+<h3>What is the best time to take a ClassPass class in Palm Springs?</h3>
+<p>The 6am to 9am window. After 10am, outdoor activity in the desert stops being comfortable for most people, especially from May through September. Early morning classes keep the rest of the day open for the pool or other plans. Book as soon as the 7-day window opens because the best slots fill fast during festival weeks.</p>
+
+<h3>Is ClassPass available in Indio near the Coachella grounds?</h3>
+<p>Indio has fewer boutique fitness studios on ClassPass than Palm Springs or Palm Desert. Guests staying at [The Cozy Cactus](/cozy-cactus/) or [Terra Luz](/terra-luz/) in Indio should plan for a 15 to 20-minute drive toward Palm Desert for the best studio selection. Factor that into your morning schedule if early workouts are a priority.</p>
+
+<h3>What should I do if no ClassPass classes are available in Palm Springs?</h3>
+<p>Check for drop-in studios directly: several Palm Springs yoga and Pilates studios take walk-ins without ClassPass. Resort day-pass fitness centers are another option. If the heat is manageable, the Indian Canyons trails are open without reservation from October through May, and the [Palm Springs hiking guide](/blog/best-hiking-palm-springs/) has the full breakdown of what's available and when.</p>

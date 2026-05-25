@@ -100,11 +100,11 @@ layout: blog-post.njk
 
 <p>Scottsdale has a reputation as a bachelorette destination, mostly earned. Old Town has a high density of bars, rooftop venues, and party-focused infrastructure. If the goal is a crawl-based night out with easy club access, Scottsdale is set up for it.</p>
 
-<p>Palm Springs is also popular for bachelorettes, but for a different kind of trip: poolside days, a house rental with a great backyard, nicer dinners, a spa day. It's more curated and less rowdy. Which one you want depends on what the group wants to do.</p>
+<p>Palm Springs is also popular for bachelorettes, but for a different kind of trip: poolside days, a house rental with a great backyard, nicer dinners, a spa day. It's more intentional and less rowdy. Which one you want depends on what the group wants to do.</p>
 
 <h2>Golf</h2>
 
-<p>Scottsdale has more courses and more high-profile ones. TPC Scottsdale, where the Waste Management Phoenix Open is played, is here. Courses are generally better maintained year-round given Scottsdale's larger golf tourism infrastructure.</p>
+<p>Scottsdale has more courses and more high-profile ones. TPC Scottsdale, where the Waste Management Phoenix Open is played, is here. Courses are generally well-maintained year-round given Scottsdale's larger golf tourism infrastructure.</p>
 
 <p>Palm Springs and the Coachella Valley have over 100 courses. Indian Wells hosts the BNP Paribas Open and has excellent resort courses. The views (playing with the San Jacinto Mountains as backdrop) are among the best in the country. Serious golfers could argue either city depending on specific courses.</p>
 
@@ -120,7 +120,25 @@ layout: blog-post.njk
 
 <p>Choose Palm Springs if: you're coming from Southern California, you want walkable street life and a sense of place, you care about day-trip access to nature, or you're renting a vacation home rather than staying at a resort.</p>
 
-<p>Choose Scottsdale if: you're coming from Phoenix or the Midwest, you want world-class resort infrastructure and don't plan to leave the property much, or you want the classic bachelorette bar crawl setup.</p>
+<p>Choose Scottsdale if: you're coming from Phoenix or the Midwest, you want a resort with a full pool complex and spa and don't plan to leave the property much, or you want the classic bachelorette bar crawl setup.</p>
 
 <p>Both are good. They're just different trips.</p>
+
+<p>For more on the Palm Springs side of this comparison, the <a href="/blog/palm-springs-neighborhood-guide/">Palm Springs neighborhood guide</a> breaks down which part of the city fits which kind of trip. And if you're weighing a vacation rental against a resort stay, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> gets into the specifics of where in the valley to base yourself.</p>
+
+<p>Our Palm Springs property, <a href="/the-sundune/">The Sundune</a>, is a two-bedroom condo close to the Uptown Design District and walking distance to the residential architecture neighborhoods this city is known for. For visitors coming from Southern California who want the walkable version of Palm Springs without the resort price tag, it's the right fit.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Is Palm Springs or Scottsdale better for a bachelorette party?</h3>
+<p>Depends on what the group wants. Scottsdale is better structured for a bar-crawl weekend: Old Town has a high concentration of rooftop venues and clubs within walking distance. Palm Springs bachelorettes tend to center on a house rental with a great backyard, poolside days, and nicer dinners. Neither is wrong. The question is whether the group wants to move from bar to bar or spend the day at a private pool and go to one good restaurant.</p>
+
+<h3>Which is hotter in summer, Palm Springs or Scottsdale?</h3>
+<p>Both hit similar highs, around 110 to 115 degrees Fahrenheit in July and August. The key difference is humidity. Palm Springs sits in a low desert valley with very low humidity, so the heat is dry and shade makes it bearable. Scottsdale has Arizona's monsoon season from July through September, which brings elevated humidity and afternoon storms. The heat in Scottsdale can feel heavier during monsoon months.</p>
+
+<h3>Is Palm Springs cheaper than Scottsdale?</h3>
+<p>For vacation rentals, they're broadly comparable in nightly rate for similar properties. Scottsdale's flagship resort hotels (Sanctuary, Four Seasons, Andaz) run $500 to $1,000 per night in peak season, higher than comparable Palm Springs boutique options. For a private house rental with a pool, the math depends more on season and size than city.</p>
+
+<h3>How far is Palm Springs from Los Angeles?</h3>
+<p>About 2 to 2.5 hours east on the I-10, depending on traffic. No state lines, no flights necessary. Scottsdale from Los Angeles is 5.5 to 6 hours by car or a short flight. For Southern California travelers, Palm Springs is the obvious weekend destination on geography alone.</p>
 

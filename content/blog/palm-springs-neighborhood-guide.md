@@ -145,6 +145,28 @@ If you're staying at [The Sundune at Palm Springs](/the-sundune), we're in the E
 
 The honest version: Palm Springs is small enough that no neighborhood is truly inconvenient. The differences are more about vibe than logistics. Pick based on what you want your mornings to feel like, not just where the restaurants are.
 
+## Frequently Asked Questions
+
+### What is the best neighborhood in Palm Springs for first-time visitors?
+
+Downtown is the most practical base for a first visit. Restaurants, bars, the Marilyn Monroe statue, and Thursday night VillageFest are all walkable. The tradeoff is noise on weekend nights and the busiest streets in the city. If you know you want architecture and quiet mornings, Movie Colony or Uptown will serve you better.
+
+### Is Palm Springs walkable?
+
+Downtown and Uptown are genuinely walkable. Movie Colony is mostly walkable to the neighborhoods themselves. The Mesa, Twin Palms, and Warm Sands require a car for most errands and dining. The city is compact enough that the drive between neighborhoods is rarely more than 10 minutes, so no neighborhood is truly inconvenient by desert standards.
+
+### Where is Warm Sands in Palm Springs?
+
+Warm Sands sits south of Downtown, between Ramon Road and East Palm Canyon Drive. It's the historic LGBTQ-friendly resort corridor, with clothing-optional and adult-oriented properties in quieter residential blocks. It's a short drive to Downtown but the feel is noticeably calmer, especially midweek.
+
+### What is the difference between Uptown and Downtown Palm Springs?
+
+Downtown is the primary visitor core, from the 100 to 400 blocks of South Palm Canyon Drive, where restaurants, bars, and shops are densest. Uptown, from roughly Amado Road north to Vista Chino, is where independent design boutiques, antique shops, and galleries concentrate. Uptown has more browsing energy, Downtown has more nightlife energy.
+
+### Which Palm Springs neighborhood is best for families?
+
+The Mesa, southeast of Downtown, tends to work best for families. More outdoor space per property, quieter streets, and views back over the valley floor. Vacation rentals in The Mesa typically have larger lots and more usable backyard space than the compact Downtown properties.
+
 <div class="cta-box">
   <h3>Stay in the Heart of It</h3>
   <p>The Sundune at Palm Springs puts you close to everything without being in the middle of it. Two bedrooms, a private patio, and the San Jacinto Mountains out the window.</p>

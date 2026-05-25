@@ -132,3 +132,19 @@ The 2026 food and beverage lineup was officially announced in January. For the m
 The standard hot dog and pretzel concession stands exist and serve their purpose. But with the lineup above available, there's no reason to default to them. The 2026 tournament made a deliberate investment in upgrading the food program, and it shows in the variety.
 
 The best summary of the stadium dining situation: Nobu is the prestige stop, Sweetfin and MOTO are the efficient stops, and the Champagne Lounge is for the gap between afternoon and evening sessions when you want to sit somewhere with a glass of wine and watch the desert light change.
+
+For restaurant options beyond the tennis grounds, the [Palm Desert dining guide](/blog/best-restaurants-palm-desert/) covers the El Paseo corridor and Indian Wells hotel restaurants in detail.
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Is Nobu open to the public during the BNP Paribas Open?</h3>
+<p>Yes. Nobu Indian Wells in Stadium 2 is open to attendees with a grounds pass during tournament days. No separate reservation is required to enter the stadium, though tables at Nobu fill fast. Arrive right at opening (5pm) for the best walk-in availability, or book in advance if Nobu is the primary reason you're staying for the evening session.</p>
+
+<h3>What is the best food option at the BNP Paribas Open for a quick meal between matches?</h3>
+<p>Sweetfin poke bowls for something light and easy to carry. MOTO Pizza if you want something more substantial. Both are in concession areas across the grounds, and the best time to hit either is 15 to 20 minutes after a match starts, when the crowds thin from the changeover rush.</p>
+
+<h3>Are there vegetarian or plant-based options at the BNP Paribas Open?</h3>
+<p>Chef Tanya's Kitchen is on site and is one of the valley's best-known plant-based restaurants. Sweetfin poke bowls also have vegetarian options. The Nobu menu includes vegetarian small plates. The 2026 lineup made a deliberate push toward variety, and plant-based options are more available than at most tennis tournaments.</p>
+
+<h3>Where should I eat near the Indian Wells Tennis Garden if I leave the grounds?</h3>
+<p>Kestrel at the Indian Wells Golf Resort is the closest off-site option, about a 5-minute drive. El Paseo Drive in Palm Desert is 10 minutes west and has the highest density of sit-down restaurants in the valley. La Quinta Village, 15 to 20 minutes east, works well for guests staying closer to Indio.</p>

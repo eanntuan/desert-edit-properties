@@ -85,7 +85,7 @@ layout: blog-post.njk
 
 <p>She had a specific vision for them. Not a generic rubber mat from the pet aisle. Something that fit the overall design language of the property, something that felt intentional, something a guest would notice and think: oh, they thought about this.</p>
 
-<p>That sounds small. (It is small.) But that's kind of the point. Pet-friendly rentals almost never have considered pet details. They have permission slips. The difference between those two things is exactly what we were trying to build at Casa Moto.</p>
+<p>That sounds small. (It is small.) But that's the point. Pet-friendly rentals almost never have considered pet details. They have permission slips. The difference between those two things is exactly what we were trying to build at Casa Moto.</p>
 
 <p>The mats are in. They photograph well. Dawn would tell you that's not the point, but it doesn't hurt.</p>
 
@@ -159,7 +159,7 @@ layout: blog-post.njk
 <p>The difference shows up in the details: a properly enclosed outdoor space (so you don't have to monitor the fence), design that's meant to be used rather than displayed, and a neighborhood that works for dog walks. Most pet-allowed listings stop at the policy; a genuinely pet-friendly property is designed around the actual experience.</p>
 
 <h3>Is the Coachella Valley good for dogs?</h3>
-<p>Yes, especially in the shoulder seasons: March, April, October, November. Spring and fall mornings in Indio are genuinely great for dog walks. Summer requires planning: early walks, paw protection on hot pavement, shade and water. The enclosed backyard at Casa Moto helps with summer stays since the dog can be outside without the pavement risk.</p>
+<p>Yes, especially in the shoulder seasons: March, April, October, November. Spring and fall mornings in Indio are genuinely good for dog walks: wide sidewalks, quiet streets, and temperatures that stay comfortable well into mid-morning. Summer requires planning: early walks, paw protection on hot pavement, shade and water. The enclosed backyard at Casa Moto helps with summer stays since the dog can be outside without the pavement risk.</p>
 
 <h3>What dog-friendly activities are near Casa Moto in Indio?</h3>
 <p>Shields Date Garden (10 minutes, dog-tolerant outdoor space), the Indian Palms neighborhood walking paths, the Salton Sea (30-minute day trip, dogs welcome), and the date farms along Hwy 111. Spring and fall are the best seasons for most outdoor activities with dogs in the valley.</p>

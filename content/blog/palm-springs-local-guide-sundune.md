@@ -129,4 +129,21 @@ layout: blog-post.njk
 
 <p>There's a version of Palm Springs built entirely for first-timers: the Instagram midcentury shot, the pool selfie, the frozen rosé. That version is fine. But there's a quieter, more interesting version underneath, and that's what this guide points toward.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the best coffee shop in Palm Springs?</h3>
+<p>Les Filles in Cathedral City is the most consistent, with a genuine European café approach. Koffi on N Palm Canyon Drive is the longtime local institution and opens at 6am, which matters when you're trying to beat the heat. Sottovoce at The Shops at Thirteen Forty-Five is worth it if you want something slower and more interesting to browse afterward.</p>
+
+<h3>Where should I eat brunch in Palm Springs?</h3>
+<p>The Farm is the reliable group option, handles a table of six well. Wilma and Frieda's is the right call if you want the iconic cinnamon roll experience and don't mind waiting. The Front Porch, right next door to The Farm, is a Latin-inspired hole-in-the-wall that earns a separate visit.</p>
+
+<h3>Is Palm Springs Surf Club worth it?</h3>
+<p>Yes, if surfing is your thing or you want to try it in a controlled environment. Budget the whole day. The wave pool uses Wavegarden Cove technology and generates real, surfable sets. Non-surfers can eat and watch from the lounge side of the venue. Book sessions at least a week ahead on weekends.</p>
+
+<h3>What is Moorten Botanical Garden like?</h3>
+<p>Small, quiet, and worth going slowly. Over 3,000 cacti and succulents from around the world on about an acre of land in the middle of Palm Springs. Go at golden hour and give yourself at least an hour. It costs a few dollars and stays with you longer than most things you'll pay more for.</p>
+
+<h3>Where do locals drink in Palm Springs?</h3>
+<p>Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene.</p>
+
 <p>For more Coachella Valley intel, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the other end of the valley. Different energy, just as worth knowing. And if you're still deciding where to stay: <a href="/the-sundune/">The Sundune</a> is exactly what it sounds like.</p>
