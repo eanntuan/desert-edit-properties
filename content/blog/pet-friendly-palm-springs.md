@@ -131,6 +131,6 @@ layout: blog-post.njk
 
 <p>Palm Springs works for dogs better than most places its size, but you need the right base. A private yard, tile floors, and outdoor space matter more than the amenity checklist. The trails and parks are there. The restaurant patios are there. Get the accommodation right first, then build the trip around that.</p>
 
-<p>If you want more on the area, read our <a href="https://indigopalm.co/blog/palm-springs-local-guide-sundune">local Palm Springs guide</a>, written by someone who eats here, not just visits.</p>
+<p>If you want more on the area, read our <a href="/blog/palm-springs-local-guide-sundune/">local Palm Springs guide</a>, written by someone who eats here, not just visits.</p>
 
 <p>We have two pet-friendly properties. <a href="/the-sundune/">The Sundune</a> in Palm Springs accepts one pet (pet fee applies): walkable neighborhood, community pool. <a href="/terra-luz/">Terra Luz</a> in Indio accepts up to two dogs (pet fee applies) with a fully fenced backyard and private saltwater pool. Email us at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> before booking to confirm your situation.</p>
