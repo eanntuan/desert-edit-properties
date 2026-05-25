@@ -40,8 +40,8 @@ relatedPosts:
     <tr><th>Region</th><td>Coachella Valley, CA (Palm Springs to Indio)</td></tr>
     <tr><th>Best Season</th><td>November–April (outdoor activities are comfortable)</td></tr>
     <tr><th>Best For</th><td>Ages 3–14, though Living Desert works for all ages</td></tr>
-    <tr><th>Family Properties</th><td><a href="https://indigopalm.co/cozy-cactus">The Cozy Cactus</a> (sleeps 8) and <a href="https://indigopalm.co/the-sundune">The Sundune</a> (sleeps 4)</td></tr>
-    <tr><th>Pro Tip</th><td>Book Living Desert and Cabazon Dinosaurs on the same day — they're 30 min apart</td></tr>
+    <tr><th>Family Properties</th><td><a href="/cozy-cactus/">The Cozy Cactus</a> (sleeps 8) and <a href="/the-sundune/">The Sundune</a> (sleeps 4)</td></tr>
+    <tr><th>Pro Tip</th><td>Book Living Desert and Cabazon Dinosaurs on the same day. They're 30 min apart.</td></tr>
   </table>
 </div>
 

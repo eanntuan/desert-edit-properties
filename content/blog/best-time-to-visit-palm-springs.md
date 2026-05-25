@@ -44,7 +44,7 @@ Here's the honest version.
     <tr><th>Shoulder Season</th><td>October–November, May (warm but not brutal)</td></tr>
     <tr><th>Off-Season</th><td>June–September (100°F+, but cheap rates and pool weather)</td></tr>
     <tr><th>Busiest Weekends</th><td>Coachella (April), Stagecoach (April), Splash House (June, August)</td></tr>
-    <tr><th>Closest Property</th><td><a href="https://indigopalm.co/the-sundune">The Sundune</a>, Palm Springs</td></tr>
+    <tr><th>Closest Property</th><td><a href="/the-sundune/">The Sundune</a>, Palm Springs</td></tr>
   </table>
 </div>
 
@@ -87,7 +87,7 @@ April brings Coachella and Stagecoach, which transforms the eastern Coachella Va
 May is the transition month. Crowds thin and prices drop as temperatures climb toward the 90s. It's still very doable, especially if you structure your day around mornings and evenings. Our [guide on Coachella Valley weekends](/blog/coachella-valley-weekend-getaway/) covers the spring logistics in more detail.
 
 <div class="inline-cta">
-  <p>Timing matters more in the desert than almost anywhere else. <a href="https://indigopalm.co/the-sundune">The Sundune</a> is available year-round — rates drop significantly in summer if you can handle the heat. <a href="https://indigopalm.co/the-sundune">Check availability →</a></p>
+  <p>Timing matters more in the desert than almost anywhere else. <a href="/the-sundune/">The Sundune</a> is available year-round. Rates drop significantly in summer if you can handle the heat. <a href="/the-sundune/">Check availability →</a></p>
 </div>
 
 ## Summer: June to August
@@ -147,7 +147,7 @@ If you want the weather of spring without the crowds and prices of spring, Octob
     <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">July</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">108°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">79°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Hottest month, outdoor activities before 8am only</td></tr>
     <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">August</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">107°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">78°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Splash House again, monsoon storms possible</td></tr>
     <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">September</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">101°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">72°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Still hot, rates stay low</td></tr>
-    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">October</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">91°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">61°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Shoulder season, great hiking window opens</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">October</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">91°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">61°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Shoulder season, hiking window opens</td></tr>
     <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">November</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">78°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">51°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Palm Springs Pride, Village Fest in full swing</td></tr>
     <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;">December</td><td style="padding:0.45rem 0.75rem;">69°F</td><td style="padding:0.45rem 0.75rem;">43°F</td><td style="padding:0.45rem 0.75rem;">Quiet season, Living Desert WildLights</td></tr>
   </tbody>
@@ -164,7 +164,7 @@ We have properties in both Indio (the east valley, close to Coachella) and Palm 
 <div class="cta-box">
   <h3>Plan Your Desert Trip</h3>
   <p>Whether you're coming in peak season or summer, we have properties in Palm Springs and Indio built for guests who want to actually enjoy the desert.</p>
-  <a href="https://indigopalm.co" class="cta-button">View All Properties</a>
+  <a href="/" class="cta-button">View All Properties</a>
 </div>
 
 <section class="related-posts">

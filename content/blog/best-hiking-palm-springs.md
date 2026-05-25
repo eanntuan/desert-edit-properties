@@ -47,9 +47,9 @@ relatedPosts:
   <table>
     <tr><th>Region</th><td>Palm Springs / Coachella Valley, CA</td></tr>
     <tr><th>Best Season</th><td>November–April (avoid June–September heat)</td></tr>
-    <tr><th>Closest Property</th><td><a href="https://indigopalm.co/the-sundune">The Sundune</a>, Palm Springs</td></tr>
+    <tr><th>Closest Property</th><td><a href="/the-sundune/">The Sundune</a>, Palm Springs</td></tr>
     <tr><th>Entry Fees</th><td>Indian Canyons $12/person, Tahquitz Canyon $15/person, tram $32</td></tr>
-    <tr><th>Dog Friendly</th><td>Lykken Trail, Bump and Grind — leash required</td></tr>
+    <tr><th>Dog Friendly</th><td>Lykken Trail, Bump and Grind (leash required)</td></tr>
   </table>
 </div>
 
@@ -178,7 +178,7 @@ relatedPosts:
 <p>The canyon walls close in as you get deeper, which is the point. The last stretch before the falls is rockier and requires some scrambling over boulders. Plan 2.5 to 3 hours and wear shoes with actual grip. The same Indian Canyons entry fee covers both Murray and Palm Canyon if you visit on the same day. <a href="https://www.alltrails.com/trail/us/california/murray-canyon-trail-to-seven-falls" target="_blank" rel="noopener">Murray Canyon on AllTrails</a>.</p>
 
 <div class="inline-cta">
-  <p>All of these trailheads are within 20 minutes of <a href="https://indigopalm.co/the-sundune">The Sundune</a> in Palm Springs. Early morning starts are easier when you're already in the desert. <a href="https://indigopalm.co/the-sundune">Check availability →</a></p>
+  <p>All of these trailheads are within 20 minutes of <a href="/the-sundune/">The Sundune</a> in Palm Springs. Early morning starts are easier when you're already in the desert. <a href="/the-sundune/">Check availability →</a></p>
 </div>
 
 <h2>4. Tahquitz Canyon (Moderate, Guided)</h2>
