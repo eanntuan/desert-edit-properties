@@ -127,6 +127,9 @@ layout: blog-post.njk
 
 <p>These aren't add-ons. They're the whole point. Every detail was chosen to help you feel more, do more, connect more, without working for it.</p>
 
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz Kahlo blue pool with desert landscaping and covered patio in Indio California" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The Kahlo blue pool. In-pool sun shelf. Pergola lights overhead. This is the whole point.</p>
+
 <h2>From Casa Moto to Terra Luz: What Changed, What Stayed</h2>
 
 <p>We kept the bones of what made this house special: the open living space, the massive patio, the primary bedroom with its own fireplace and soaking tub. But we deepened the identity.</p>
