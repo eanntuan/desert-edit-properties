@@ -118,4 +118,18 @@ The full schedule for all 450+ events is posted at modernismweek.com once it goe
 
 <img src="/blog/images/ps-pink-door-midcentury.webp" alt="Pink door on a Palm Springs mid-century home with palm trees and blue sky" loading="lazy" width="1400" height="933">
 
+## Frequently Asked Questions
+
+<h3>When is Modernism Week in Palm Springs?</h3>
+<p>The main event runs eleven days in February, typically the second and third weeks of the month. In 2026, the dates were February 12 through 22. There is also a shorter fall edition in October (four days). February is the main event with the most tours, events, and ticket demand.</p>
+
+<h3>How do you get tickets to Modernism Week?</h3>
+<p>Tickets go on sale November 1 at noon Pacific Time at modernismweek.com. The double-decker bus tours and popular home tours can sell out within hours of going live. Set a calendar reminder. There's no ticket resale marketplace, so if you miss the sale, your options are limited.</p>
+
+<h3>What sells out first at Modernism Week?</h3>
+<p>The Premier Double Decker Bus Tour and the Twilight Bus Tour sell fastest. Popular individual home tours are close behind, especially anything with a reception included. The Opening Night Party on February 12 also sells out early. Lectures and walking tours have more availability and can often be booked closer to the event.</p>
+
+<h3>Is it worth staying in Palm Springs for Modernism Week?</h3>
+<p>It's the right way to experience it. Many of the home tours are in residential neighborhoods that require driving, and the best of the festival spans multiple days. Staying in a mid-century property like [The Sundune](/the-sundune/) puts you inside the architectural era you're celebrating. The [3-day Palm Springs itinerary](/blog/palm-springs-3-day-itinerary/) is a useful planning framework for structuring your visit around festival events.</p>
+
 For the broader Palm Springs architecture context outside of festival week, the [Palm Springs Mid-Century Architecture Guide](/blog/palm-springs-midcentury-architecture/) goes deeper into the specific neighborhoods and architects worth knowing before you arrive.

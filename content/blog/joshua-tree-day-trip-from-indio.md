@@ -124,4 +124,21 @@ layout: blog-post.njk
 <img src="/blog/images/coachella-valley-map.webp" alt="Coachella Valley map showing Joshua Tree to the north, Indio at center, and Palm Springs to the west" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Coachella Valley's geography: Joshua Tree is due north of Indio, making it the easiest national park day trip from the east valley.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>How far is Joshua Tree from Indio?</h3>
+<p>The Cottonwood South Entrance is about 45 minutes from central Indio via I-10 east to CA-195 north. It's the closest and least crowded entrance for east valley visitors. The north and west entrances via Highway 62 are about 1 hour 15 minutes from Indio.</p>
+
+<h3>Do you need a reservation for Joshua Tree National Park?</h3>
+<p>During peak weekends, yes. The park requires timed entry reservations on busy spring weekends, which includes Coachella and Stagecoach festival weekends in April. Check the NPS Joshua Tree page before you go. Weekday visits outside peak season are generally walk-up friendly.</p>
+
+<h3>How much is the entrance fee at Joshua Tree?</h3>
+<p>$35 per vehicle, valid for 7 days. An America the Beautiful annual pass at $80 covers Joshua Tree and every other national park and pays for itself in three visits. Buy at the entrance kiosk or in advance at store.usgs.gov.</p>
+
+<h3>What should you bring on a Joshua Tree day trip?</h3>
+<p>At minimum: 1 gallon of water per person, food (no services inside most of the park), sunscreen, a hat, and closed-toe shoes for even the shortest trails. Download offline maps before entering since cell service is limited. Bring a light layer for after sunset even in warm months.</p>
+
+<h3>What is the best Joshua Tree entrance to use from Palm Springs?</h3>
+<p>From Palm Springs, most people use the north or west entrances via Highway 62 toward Yucca Valley or Twentynine Palms. This puts you near Skull Rock, Hidden Valley, and the classic boulder landscape. From Indio or the east valley, the Cottonwood South Entrance is significantly closer and far less crowded.</p>
+
 <p>For other day trip options, <a href="/blog/things-to-do-indio-ca/">the things to do in Indio guide</a> covers what else is close. And if you need a base in Indio with a private saltwater pool to come back to after a full day in the park, <a href="/terra-luz/">Terra Luz</a> is pet-friendly and sleeps up to eight.</p>

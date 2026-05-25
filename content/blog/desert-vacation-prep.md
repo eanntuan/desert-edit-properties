@@ -138,4 +138,18 @@ layout: blog-post.njk
 
 <p>That's the whole point. The house is set up for it. The desert helps.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the single most important thing to pack for a desert vacation?</h3>
+<p>Sun protection that you'll actually use consistently. SPF 50+, a hat with a real brim, UV-blocking sunglasses. The desert sun reflects off sand, pavement, and pool surfaces simultaneously. People who burn in the desert almost always underestimated how fast it happens.</p>
+
+<h3>Do I need a car in the Coachella Valley?</h3>
+<p>Yes. The valley stretches 45 miles from Palm Springs to Indio and there's no meaningful public transit between cities. Rideshare exists but runs slow and expensive on busy festival weekends. Rent a car or bring your own. If you're based in Indio, many morning activities are a 10-15 minute drive.</p>
+
+<h3>How do I plan around the desert heat if I'm visiting in summer?</h3>
+<p>The two-window system works: be outside before 10am and after 5pm. Block the afternoon for pool time, indoor activities, or rest. Guests who fight this schedule spend the trip sweaty and frustrated. The ones who lean into it usually say it's the most relaxed vacation they've taken in years.</p>
+
+<h3>What should I know about pool etiquette at vacation rentals?</h3>
+<p>Private pools are yours for the stay. Community pools have posted hours (typically closing at 10pm), shared lanes, and rules about glass and noise. Know which one your rental has before you book, and plan accordingly. If the pool is private and heated, it becomes the organizing principle of the trip in the best way.</p>
+
 <p>If you're planning a trip, we have properties in both Indio (<a href="/cozy-cactus/">The Cozy Cactus</a>, <a href="/terra-luz/">Terra Luz</a>) and Palm Springs (<a href="/the-sundune/">The Sundune</a>) depending on which end of the valley fits your trip.</p>

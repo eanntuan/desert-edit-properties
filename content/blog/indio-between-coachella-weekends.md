@@ -199,6 +199,20 @@ layout: blog-post.njk
 <img src="/blog/images/rosemary-hifi.webp" alt="Rosemary HiFi interior with cobalt blue tile bar, walnut shelving with vinyl records and 1960s JBL speakers, Indio CA" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">1960s JBL speakers, natural wine, and a record collection where the liquor display should be</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>What should you do in Indio between Coachella weekends?</h3>
+<p>Spend the first day recovering by the pool. Then use the remaining days for the Salton Sea day trip (about 40 minutes south on Highway 86), a stop at Shields Date Garden for the date shake, and at least one evening at Rosemary HiFi in Old Town Indio. You don't need to fill every hour. The rental, the pool, and a couple of real meals will carry most of the week.</p>
+
+<h3>Is Shields Date Garden worth visiting?</h3>
+<p>Yes. The date shake is the most-awarded in the valley, and the 17-acre grove and short film about date cultivation are genuinely worth the extra hour. It's been on Highway 111 since 1924. You're going to pass it anyway. Stop.</p>
+
+<h3>How far is the Salton Sea from Indio?</h3>
+<p>About 35 miles south on Highway 86, roughly a 40-minute drive. The east shore around Bombay Beach and Salvation Mountain is the most interesting part. Go in the morning before the heat peaks, bring water and snacks, and keep realistic expectations: it's strange and beautiful, not polished or comfortable.</p>
+
+<h3>What is the best coffee shop in Indio during Coachella week?</h3>
+<p>Everbloom Coffee on Highway 111 in Indio. Two brothers run it, the drinks use real ingredients, and the honey lavender latte is worth ordering twice. Go before 10am on weekend mornings before the lines build up.</p>
+
 <h2>You're Already Here. Use That.</h2>
 
 <p>The in-between week exists in a strange liminal state that most Coachella coverage completely ignores. Every guide is about how to survive the festival itself. Nobody writes about the five days where you're living in the Coachella Valley like a person instead of a festival attendee.</p>

@@ -133,6 +133,24 @@ If you're doing the full Indio food tour, pair the date farm visit with a stop a
 
 Our properties at The Cozy Cactus and Terra Luz both sit less than two miles from some of the best date-adjacent eating in the valley. Guests who take the time to leave the pool for an afternoon almost always say it was worth it.
 
+## Frequently Asked Questions
+
+### Are the Coachella Valley date farms open year-round?
+
+Shield's Date Garden is open year-round and serves date shakes daily. The date harvest season runs August through November, when fresh fruit is available at some farms. Outside that window, you're buying dried or cured dates, which are still excellent. Oasis Date Gardens in Thermal is more seasonal and worth calling ahead.
+
+### What is the best date variety to try if you've never had one?
+
+Medjool is the starting point. It's large, soft, and sweet with a slight toffee flavor. If Shield's has Barhi dates in season (August through October), try those too: they taste like butterscotch and are rarely available anywhere else.
+
+### Can you buy dates to take home as gifts?
+
+Yes, and it's one of the better Coachella Valley souvenirs. Shield's sells gift boxes in several sizes. Hadley's has date rolls and trail mixes that travel well. Jensen's Fine Foods in Palm Springs carries local variety packs if you want something packaged more neatly than a farm bag.
+
+### How far are the date farms from Coachella and Stagecoach?
+
+Shield's Date Garden is on Highway 111 in Indio, about five minutes from the Indian Palms area and ten minutes from Empire Polo Club. It's an easy morning trip before the festival opens, and the date shake makes a reasonable pre-show snack.
+
 ---
 
 *Eann is the founder of Indigo Palm Collective, which operates vacation rentals in Indio and Palm Springs. She's eaten too many date shakes to count and has no regrets.*

@@ -139,7 +139,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/cozy-cactus-exterior.webp" alt="The Cozy Cactus vacation rental exterior in Indian Palms Country Club Indio CA" width="800" height="533" loading="lazy">
 
-<p><a href="/cozy-cactus/">Cozy Cactus</a> is a 3-bedroom family-focused home with a community pool steps away, private hot tub, and putting green. It's designed for families: pack-n-play, Stokke high chair, curated toy collection, an organization system parents consistently mention in reviews. It sleeps up to 8.</p>
+<p><a href="/cozy-cactus/">Cozy Cactus</a> is a 3-bedroom family-focused home with a community pool steps away, private hot tub, and putting green. It's designed for families: pack-n-play, Stokke high chair, a toy collection built for ages 2-10, an organization system parents consistently mention in reviews. It sleeps up to 8.</p>
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Backyard pool and patio at the Cozy Cactus vacation rental in Indian Palms Country Club Indio CA" width="1400" height="933" loading="lazy">
 
@@ -150,6 +150,23 @@ layout: blog-post.njk
 <p>Both are in Indian Palms Country Club, about 2.5 miles from the festival grounds. Both skip the platform fees when you <a href="/booking-flow/">book direct</a>.</p>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Is Indian Palms Country Club actually walking distance to Coachella?</h3>
+<p>Yes. The walk from inside the community to the festival entrance at 49th and Monroe runs 25 to 49 minutes depending on where you start in Indian Palms. The path goes through the Monroe Gate onto Eisenhower Drive on a gravel pedestrian path. Closed-toe shoes are worth it.</p>
+
+<h3>Can anyone drive into Indian Palms during Coachella weekend?</h3>
+<p>The community is gated. The Monroe Gate is the main entry point for guests and is staffed with security during festival weekends. The Avenue 50 Gate is residents-only. Your host will provide the gate code and check-in instructions 24 hours before arrival.</p>
+
+<h3>What is the noise situation in Indian Palms during the festivals?</h3>
+<p>You can hear the bass from the main stage when you're outside, especially late at night. It's not disruptive inside the house with windows closed, but it's present. Some guests find it adds to the experience. If you need complete silence, Indian Palms is probably not the right base for festival weekend.</p>
+
+<h3>What is the golf situation at Indian Palms Country Club?</h3>
+<p>Indian Palms has a 27-hole course. Tee times are booked directly through the Indian Palms Country Club pro shop. The course is open to rental guests, not just residents. Between festival weekends (the week between Coachella Weekend 1 and Weekend 2), the course is usually quiet and easy to get on.</p>
+
+<h3>Are there places to eat within walking distance of Indian Palms?</h3>
+<p>A few taco shops and a pizza place are within a 10-minute walk of the community entrance, but Indian Palms isn't a walkable restaurant neighborhood. Most dining requires a short drive: Old Town Indio is 10 minutes, and Highway 111 has plenty of options. Shields Date Garden is 5 minutes away and worth the trip.</p>
 
 <p>If you want the full breakdown on festival logistics, gates, road closures, shuttle options, timing: read our <a href="/festival-guide-cozy-cactus/">complete festival guide</a>. And for everything else worth doing in Indio while you're here, read <a href="/blog/things-to-do-indio-ca/">our honest Indio activity guide</a>.</p>
 

@@ -76,6 +76,8 @@ layout: blog-post.njk
 
 <h2>Day 2: Downtown, Architecture, and the Art Museum</h2>
 
+<p>If you're staying at <a href="/the-sundune/">The Sundune</a>, you're a 20-minute walk from Koffi and about 10 minutes from the aerial tram road. The location removes a lot of logistics from this kind of itinerary.</p>
+
 <p>Morning: coffee at Koffi (1700 S Camino Real or the North Palm Springs location). It's the closest thing to a local institution the city has. Then walk downtown.</p>
 
 <p>Palm Springs Architecture: the city's mid-century modern heritage is genuinely distinctive and worth slowing down for. The Kaufmann Desert House (designed by Richard Neutra, 1946) is on Tahquitz Canyon Way, privately owned but visible from the street. The Tramway Gas Station, designed by Albert Frey, is at the gateway to the tram road and is now the Palm Springs Visitor Center. The Sunnylands estate in Rancho Mirage, where presidents have stayed, offers guided tours by reservation.</p>
@@ -92,7 +94,7 @@ layout: blog-post.njk
 
 <p>Leave by 8am. Joshua Tree's south entrance (Cottonwood) is about 40 minutes from Palm Springs via I-10. The north entrance (Joshua Tree Village) is about 45 minutes via Highway 62. Most people enter through the north side because that's where the most visited sites are: Skull Rock, Cholla Cactus Garden, Hidden Valley, and the Barker Dam trail.</p>
 
-<p>Plan 5 to 6 hours in the park minimum to feel like you've actually seen it. The Barker Dam trail (1.3 miles round trip) is the easiest introduction. Ryan Mountain (3 miles round trip, 1,000 feet of gain) gives you the panoramic view that photographs well. Keys View looks west over the Coachella Valley toward the Salton Sea and is a short walk from the parking area.</p>
+<p>Plan 5 to 6 hours in the park minimum to feel like you've seen it properly. The Barker Dam trail (1.3 miles round trip) is the easiest introduction. Ryan Mountain (3 miles round trip, 1,000 feet of gain) gives you the panoramic view that photographs well. Keys View looks west over the Coachella Valley toward the Salton Sea and is a short walk from the parking area.</p>
 
 <p>Bring more water than you think you need. The park recommends 1 liter per hour per person in warmer months. There are no services inside the park except at Cottonwood and Black Rock campgrounds. Fill up before you enter.</p>
 
@@ -109,4 +111,18 @@ layout: blog-post.njk
 <p>You need a car. Palm Springs has rideshare but not in abundance, and the aerial tram, Joshua Tree, and most neighborhoods require driving. <a href="/blog/lax-to-palm-springs/">Getting here from LA</a> takes about 2 to 2.5 hours depending on traffic. Early Friday or after 7pm Friday avoids the worst of it.</p>
 
 <p>If you're staying in Indio for Coachella or Stagecoach and want to do a Palm Springs day, it's 30 minutes west, easy enough for a day trip. Read our <a href="/blog/things-to-do-indio-ca/">Indio guide</a> for what's on the eastern side of the valley.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Is 3 days in Palm Springs enough?</h3>
+<p>Three days covers the highlights comfortably: the aerial tram, downtown, the Art Museum, and a Joshua Tree day trip. The city is small and walkable, which helps. A long weekend from Friday evening to Monday morning gives you all three full days without rushing any of them.</p>
+
+<h3>Do you need a car in Palm Springs?</h3>
+<p>Yes, for most of this itinerary. Downtown Palm Springs is walkable, but the aerial tram, Joshua Tree, and most residential neighborhoods require driving or rideshare. Rideshare availability is solid in Palm Springs proper during peak season but thinner after midnight and in the east valley.</p>
+
+<h3>What is the best time to visit Palm Springs?</h3>
+<p>October through April. The weather is 70 to 85 degrees most days, cool enough for outdoor walking and hiking. November and March are particularly good windows: warm pool weather, comfortable evenings, and fewer crowds than January or April. Summer is manageable with the right plan, but midday heat from June through September limits outdoor time to mornings and evenings.</p>
+
+<h3>How far is Joshua Tree from Palm Springs?</h3>
+<p>About 40 to 45 minutes from Palm Springs to the Cottonwood South Entrance via I-10, or slightly longer to the north and west entrances via Highway 62. It makes an easy day trip if you leave by 8am and return by mid-afternoon. See the full <a href="/blog/joshua-tree-day-trip-from-indio/">Joshua Tree day trip guide</a> for entrance options and what to bring.</p>
 

@@ -135,6 +135,24 @@ If you're visiting in summer and bringing your dog, it can work. But it requires
 
 The [pet-friendly Palm Springs](/blog/pet-friendly-palm-springs/) landscape is genuinely good here when the timing is right.
 
+## Frequently Asked Questions
+
+### Which Indigo Palm Collective properties accept dogs?
+
+[Terra Luz](/terra-luz/) in Indio and [The Sundune](/the-sundune/) in Palm Springs both welcome dogs with prior approval. A pet fee applies at both properties. The Cozy Cactus does not accept pets.
+
+### What is the pavement temperature rule for dogs in the desert?
+
+Place the back of your hand on the pavement for 7 seconds. If you can't hold it there, your dog should not be walking on it. In summer, this eliminates most of the 10am-to-6pm window on asphalt. Grass and dirt paths run cooler, but they're not abundant in most Coachella Valley neighborhoods.
+
+### Are dogs allowed on trails at Indian Canyons?
+
+Yes, dogs on leash are permitted on the trails at Indian Canyons. Go before 9am in warm months. The canyon trail surfaces are rough in places, so a dog with thin paws or who isn't used to rocky terrain may need trail booties.
+
+### What are signs of heat stress in dogs?
+
+Excessive panting beyond what the exertion warrants, heavy drooling, slowing or stopping during walks, and glazed or disoriented behavior. The window between uncomfortable and emergency is shorter in the desert than most people expect. Get your dog into air conditioning and offer water immediately. If symptoms don't resolve within a few minutes, contact a vet.
+
 ---
 
 *Eann runs Indigo Palm Collective in Indio and Palm Springs. Terra Luz and The Sundune both welcome dogs with prior approval. A pet fee applies. Ask at booking.*

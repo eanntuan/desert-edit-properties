@@ -141,6 +141,23 @@ layout: blog-post.njk
 
 <p>If you're deciding between Indio and Palm Springs as a base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers the trade-offs in detail, including what each city offers beyond just proximity to Coachella. And if pool access is the priority, the <a href="/blog/best-vacation-rentals-pool-coachella-valley/">guide to Coachella Valley rentals with private pools</a> goes deeper on exactly what to look for.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the most important thing to check before booking a Coachella Valley vacation rental?</h3>
+<p>Pool access is the single detail that affects the most trips. Whether the pool is private or community, heated or unheated, determines how your afternoons go in the desert. Ask directly if a listing isn't clear about it.</p>
+
+<h3>How do I know if a Coachella Valley rental is close enough to the festival?</h3>
+<p>Map the actual street address before you commit. "Near Palm Springs" or "near Coachella" can mean a 10-minute walk or a 45-minute drive depending on which city and which part of it. Indian Palms Country Club in Indio is one of the few neighborhoods close enough to walk to the festival grounds.</p>
+
+<h3>Are Airbnb fees in the Coachella Valley higher than other markets?</h3>
+<p>Airbnb platform fees are standard (14-16% on the guest side) valley-wide, but cleaning fees in the desert tend to run higher than comparable markets because properties often need more intensive cleaning after sandy, sunny stays. Run the total for your exact dates before comparing listings.</p>
+
+<h3>What's the difference between booking direct and booking on Airbnb?</h3>
+<p>Booking direct skips the 14-16% Airbnb guest service fee and often gets you faster communication with the host. Some properties offer direct booking discounts for multi-night stays. You trade some platform protections for a more direct relationship with the host and lower cost.</p>
+
+<h3>Is it worth messaging a host before booking?</h3>
+<p>Yes, and the response tells you more than the listing does. A host who replies within an hour with a direct answer is showing you how they'll handle check-in day, a broken AC, or a pool question at 9pm. A three-day response previews exactly that.</p>
+
 <p>If you're planning a stay in Indio, we'd love to have you. <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> were both built with these considerations at the center, and either one is a good starting point for your search.</p>
 
 

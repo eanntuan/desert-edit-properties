@@ -63,7 +63,7 @@ layout: blog-post.njk
 
 <p>You're parked outside a small roadside shop on Jackson Street. The sign is hand-painted, slightly sun-faded, and surrounded by date palms that are actually producing dates. Inside, it smells like dried fruit and something caramel-warm. You're about to eat the best Medjool date of your life and wonder why nobody told you about this place.</p>
 
-<p>That's Indio. Not Palm Springs. Grittier, more working-class, less curated, and exactly what makes it worth your time. This is the city that hosts Coachella and Stagecoach every year, gets overlooked for eleven months, and quietly goes about being one of the most interesting corners of the Coachella Valley. Here's what's worth finding.</p>
+<p>That's Indio. Not Palm Springs. Grittier, more working-class, less polished for an audience, and exactly what makes it worth your time. This is the city that hosts Coachella and Stagecoach every year, gets overlooked for eleven months, and quietly goes about being one of the most interesting corners of the Coachella Valley. Here's what's worth finding.</p>
 
 <img src="/blog/images/indio-sign-miles-ave.webp" alt="Colorful INDIO letter sign at Miles Avenue Park in Indio California with palm trees and string lights" width="800" height="533" loading="lazy">
 <p class="image-caption">Miles Avenue Park. The sign is new, the city behind it has been worth knowing for a long time.</p>
@@ -150,6 +150,8 @@ layout: blog-post.njk
 <img src="/blog/images/indio-tamale-festival.webp" alt="Colorful pinata-style MERCADO sign arch over lowrider cars and festival crowd at the Indio Tamale Festival" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">30+ years of tamales, live music, and absolute chaos (the good kind)</p>
 
+<p>If you're using Indio as your base for any of this, <a href="/cozy-cactus/">The Cozy Cactus</a> is within a few miles of most of these spots and has a private hot tub and community pool to come back to after a full day of eating and wandering.</p>
+
 <div class="gem-heading">
     <span class="gem-number">6</span>
     Coachella Valley Preserve: Hike Into the Oasis
@@ -225,6 +227,20 @@ layout: blog-post.njk
 
 <img src="/blog/images/rosemary-hifi.webp" alt="Rosemary HiFi bar interior, cobalt blue tile, walnut shelving with vinyl records, 1960s JBL speakers, concrete bar, Indio CA" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">Cobalt blue tile, 1960s JBL speakers, a turntable built into the bar. The Coachella Valley's first listening lounge.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Is Indio worth visiting beyond Coachella festival weekends?</h3>
+<p>Yes, and it's honestly better when the festival isn't happening. The restaurants are less crowded, the streets are quieter, and you can actually get a table at One Stop Taco Shop without planning around a line. Shields Date Garden, the Coachella Valley Preserve, and Rosemary HiFi are all here year-round.</p>
+
+<h3>What are the best local restaurants in Indio, CA?</h3>
+<p>One Stop Taco Shop for carne asada tacos, Papa Headz for smash burgers, and Thai Hot for drunken noodles that actually deliver real heat. For a more sit-down lunch, El Tranvia in nearby Coachella (10 minutes) has been doing birria since 1969, long before it became a trend.</p>
+
+<h3>What is Rosemary HiFi in Indio?</h3>
+<p>It's the Coachella Valley's first vinyl listening lounge, in Old Town Indio. The owner's personal record collection plays through 1960s JBL speakers behind a custom walnut bar. They pour beer from Las Palmas Brewing and natural wines. Open Wednesday through Sunday from 4pm.</p>
+
+<h3>What is the Indio Tamale Festival?</h3>
+<p>An annual festival in Old Town Indio every first weekend of December, running for over 30 years. Hundreds of vendors, live music, and every style of tamale you can imagine. It's free to attend and gets busy by midday Saturday. Arrive early if you want the best vendor selection.</p>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
 

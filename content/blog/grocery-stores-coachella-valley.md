@@ -75,7 +75,7 @@ The Coachella Valley is about 45 miles long, and where you shop genuinely depend
 
 For wine, cheese, and anything specific, you'll be driving west toward Palm Desert. That's a 15 to 20-minute drive on Highway 111. Worth it if you want options.
 
-Guests staying at [The Cozy Cactus or Terra Luz](/cozy-cactus/) in Indio are best off doing a Stater Bros run for basics and then hitting Jensen's or Whole Foods in Palm Desert if they want anything more curated.
+Guests staying at [The Cozy Cactus or Terra Luz](/cozy-cactus/) in Indio are best off doing a Stater Bros run for basics and then hitting Jensen's or Whole Foods in Palm Desert for wine, specialty cheese, or a better produce selection.
 
 ## If You're Staying in Palm Springs
 
@@ -129,5 +129,23 @@ The best move during festival weeks: shop Thursday afternoon before the crowds a
 One thing I tell guests at checkout: the valley has better produce than most people expect, because so much of it is grown locally. Dates, citrus, peppers, and greens from the Imperial Valley and Coachella Valley farms end up in these stores fresher than they would be at a grocery in LA or Phoenix. Ask a Sprouts employee which produce is California-grown and you'll usually be pointed toward something good.
 
 If you're curious about the <a href="/blog/date-farms-indio-coachella-valley/">Coachella Valley date farms</a>, several of them sell direct. It's worth a stop when you're in the area.
+
+## Frequently Asked Questions
+
+### What is the closest grocery store to The Cozy Cactus and Terra Luz in Indio?
+
+Stater Bros on Jackson Street is the closest full-service option, about a 5-minute drive from both properties. For wine, specialty cheese, or better produce, Jensen's Fine Foods and Whole Foods are 15-20 minutes west in the mid-valley.
+
+### Is Trader Joe's in Palm Springs worth the drive from Indio?
+
+For a quick staples run, the Stater Bros in Indio is more practical. Trader Joe's on North Palm Canyon is better for specific items: Two-Buck Chuck, frozen meals for a crowd, or TJ's branded pantry staples. The parking lot is a real obstacle on weekend mornings. Go before 10am or skip it.
+
+### Where should I shop if I'm feeding a large group during festival week?
+
+Costco in Rancho Mirage is the move for bulk hauls: olive oil, sparkling water, snacks, rotisserie chickens. The store gets packed on festival weekends, so shop Thursday before the crowds land. Instacart delivers from most major chains in the valley if you'd rather skip the store entirely.
+
+### Can I order groceries for delivery to a vacation rental in Indio?
+
+Yes. Instacart delivers from Stater Bros, Walmart, Ralphs, and most other valley chains. Some guests place an order for arrival day so the kitchen is stocked when they check in. For Cozy Cactus and Terra Luz stays, that's the most efficient way to skip the first-day grocery trip entirely.
 
 *Eann hosts guests at Indigo Palm Collective properties in Indio and Palm Springs. She's done this grocery run more times than she can count.*

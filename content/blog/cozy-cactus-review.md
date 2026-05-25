@@ -133,6 +133,23 @@ relatedPosts:
 
 <p>The Cozy Cactus was built to give families somewhere to exhale. Somewhere that was already ready when they arrived, where the first night felt easy, and where the kids had something to do so the adults could sit on the patio with a glass of wine and feel, maybe for the first time in a while, like they were on vacation.</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>Does The Cozy Cactus have a private pool?</h3>
+<p>The hot tub is private and on the property. The pool is community access through Indian Palms Country Club, steps from the back gate. If a private swimming pool is the priority, <a href="/terra-luz/">Terra Luz</a> is 15 minutes away and has a private saltwater pool heated year-round.</p>
+
+<h3>Is The Cozy Cactus pet-friendly?</h3>
+<p>No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a $100 pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets.</p>
+
+<h3>What is the minimum stay at The Cozy Cactus?</h3>
+<p>Minimum stays vary by season. During Coachella and Stagecoach festival weekends, the minimum is typically four nights. Off-peak periods often allow two or three-night stays. Current minimums are always visible when you search your specific dates.</p>
+
+<h3>How quickly does the host respond to questions?</h3>
+<p>Response time has consistently come up in guest reviews as a standout feature. Most questions get answered within the hour, including evenings and weekends. Pre-booking questions are welcome and often answered faster than through Airbnb's messaging system.</p>
+
+<h3>Can The Cozy Cactus accommodate a group for Coachella?</h3>
+<p>It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location puts you about 2.5 miles from Empire Polo Club, and the walk to the festival entrance takes 25-45 minutes depending on where you're starting in the community.</p>
+
 <p>That's what 4.97 stars across 146 stays looks like in practice. Not perfection in every sense. A specific kind of care that guests feel when they walk in the door, and that they write about when they leave.</p>
 
 <p>If that's what you're looking for, <a href="/cozy-cactus/">check availability here</a> or email us at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a>. If you need a private pool instead of a hot tub, <a href="/terra-luz/">Terra Luz</a> is the right fit.</p>

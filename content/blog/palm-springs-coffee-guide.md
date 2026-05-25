@@ -135,3 +135,17 @@ layout: blog-post.njk
 <h2>A Note on Timing</h2>
 
 <p>In summer, get your coffee run done before 9 AM. Not because the shops close, but because standing in a parking lot at 11 AM when it's 108°F is a character-building experience you only need once. In winter and spring, mornings in the valley are perfect: 65°F, clear sky, low wind. Take the long way back.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the best coffee shop in Palm Springs?</h3>
+<p>Koffi at the North Palm Canyon location is the local standard. It's been around for over 20 years, the outdoor patio is the right place to start a morning, and the iced latte is consistent. Cartel Coffee Lab at the Arrive Hotel is the right call if you want specialty single-origin coffee with serious sourcing behind it.</p>
+
+<h3>Is there good coffee in Indio, CA?</h3>
+<p>Yes. Everbloom Coffee on Highway 111 is the best in Indio: precise drinks, real ingredients, and a matcha latte that rivals anything in LA. Saguaro Coffee is a solid independent alternative with good outdoor seating and an unhurried pace. Both are within minutes of <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a>.</p>
+
+<h3>Where is Koffi in Palm Springs?</h3>
+<p>Koffi has multiple locations. The flagship with the best outdoor seating is at 515 N Palm Canyon Dr. There's also a location at 1700 S Camino Real and a newer outpost further north. All three are worth knowing; the North Palm Canyon location is the right one for a slow morning with somewhere to sit.</p>
+
+<h3>What should I order at Cartel Coffee Lab in Palm Springs?</h3>
+<p>Cold brew if you're visiting in the hot months. Their focus is on direct-trade, single-origin beans, so whatever pour-over or espresso they're featuring on a given day is usually the honest answer. The Arrive Hotel location is well-designed and worth stopping for even if coffee wasn't your original plan.</p>

@@ -135,6 +135,20 @@ layout: blog-post.njk
 
 <p>I have repeat guests. Groups who come back for Coachella every year. Couples who stayed before they had kids, then came back with infants because they trusted the setup. Even adults with no children who just want a well-organized house, a good coffee bar, and a pool without suspicious floaties from the previous guests. (Always clean. Non-negotiable.)</p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>How long did it take to furnish The Cozy Cactus?</h3>
+<p>Several months of active collecting, starting on a Facebook Marketplace habit and ending when Dawn Asher came in and gave everything a framework. The bones (white walls, LVP flooring, modern light fixtures) came first. The design layer came after. The family infrastructure layer came last, and it's the part guests mention most in reviews.</p>
+
+<h3>Why did you replace all the ceiling fixtures?</h3>
+<p>Every room had the same round frosted-glass globe fixture from approximately 1994. They made even freshly-painted white walls feel like a waiting room. Swapping them for simple modern fixtures was one of the cheapest and highest-impact changes in the whole renovation. Good light changes how a room feels before anything else does.</p>
+
+<h3>Is the baby gear at The Cozy Cactus really that different from other rentals?</h3>
+<p>Most rentals have a pack-n-play with the included foam insert, which is thin enough that babies sleep badly on it. The Cozy Cactus has a real crib mattress on the pack-n-play. That one detail has come up in reviews from parents who hadn't expected to sleep well on a trip with an infant. The Stokke high chair, sound machines in every room, and bottle warmer round out a setup that most rental properties treat as optional.</p>
+
+<h3>What does it actually cost to furnish a vacation rental from scratch?</h3>
+<p>More than you think, less than you fear. The mix of West Elm and Facebook Marketplace kept costs manageable, but there were no shortcuts on the family gear and the kitchen setup. The $30 knife sharpener, the matching Tupperware lids, the bottle warmer: individually small, collectively the thing that separates a rental guests recommend from one they endure.</p>
+
 <p>The Cozy Cactus is thoughtfully designed for humans who notice when someone cared. It started as a backup plan for a Honda Element and became something I'm proud of.</p>
 
 <p>If that sounds like what you need, <a href="/cozy-cactus/">you know where to find us</a>. And if you want the full origin story, the Easter Sunday purchase, the Facebook Marketplace era, all of it, read <a href="/blog/cozy-cactus-story/">the complete story of how The Cozy Cactus came to be</a>. For more on what to do in the valley with younger kids, the <a href="/blog/coachella-valley-with-kids/">Coachella Valley with kids guide</a> covers the family-friendly angle in more depth.</p>

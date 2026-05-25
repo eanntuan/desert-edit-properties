@@ -105,4 +105,18 @@ layout: blog-post.njk
 <img src="/blog/images/family-closet.webp" alt="Family vacation rental closet with baby gear pack n play stroller and travel supplies" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">All. The. Things. Why families needed a different kind of vacation rental<br><small>Photo: Third Wall Photography | Styling: The Olive Jar</small></p>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>How did The Cozy Cactus get its name?</h3>
+<p>Honestly, I needed something that felt like the desert without being generic. "Cozy" came from the specific feeling I wanted guests to have walking in: settled, comfortable, ready to stop moving. "Cactus" because it's Indio and there's no pretending otherwise. Together it stuck.</p>
+
+<h3>Is The Cozy Cactus good for families with babies?</h3>
+<p>It was built for exactly that. Pack-n-play with a real crib mattress, Stokke high chair, baby monitor, sound machine, outlet covers, and a fully labeled kitchen are all on-site. The goal was to remove the gear-hauling part of traveling with an infant so parents could actually rest.</p>
+
+<h3>What is the neighborhood like around The Cozy Cactus?</h3>
+<p>Indian Palms Country Club is a gated residential community with palm-lined streets, three community pools, pickleball courts, and a golf course. It's quiet, no through traffic, and about 2.5 miles from the Coachella festival grounds. The back gate opens directly to the community pool path.</p>
+
+<h3>How close is The Cozy Cactus to Coachella and Stagecoach?</h3>
+<p>About 2.5 miles from Empire Polo Club, which means the walk takes 25-45 minutes depending on where you're starting. It's one of the only neighborhoods in the valley where walking to the festival is actually practical, without shuttles or surge pricing.</p>
+
 <p>If you're planning a trip to the Coachella Valley with kids, <a href="/cozy-cactus/">The Cozy Cactus</a> is built around exactly that: families who need gear, space, and a host who thought about the pack-n-play before you asked. For an honest guest perspective on the property, read the <a href="/blog/cozy-cactus-review/">Cozy Cactus review</a>.</p>

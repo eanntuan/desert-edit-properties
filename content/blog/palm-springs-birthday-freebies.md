@@ -104,4 +104,18 @@ No Sprinkles Cupcakes in the Coachella Valley as of 2026. The nearest locations 
 
 The birthday freebie landscape changes year to year as chains update their programs. The specific offers above were current as of early 2026, but check each brand's app or website before your trip to confirm nothing has changed.
 
-For more things to do in Palm Springs beyond the sugar tour, the [3-day Palm Springs itinerary](/blog/palm-springs-3-day-itinerary/) has a full day-by-day structure worth bookmarking.
+For more things to do in Palm Springs beyond the sugar tour, the [3-day Palm Springs itinerary](/blog/palm-springs-3-day-itinerary/) has a full day-by-day structure worth bookmarking. And if you want to know where to eat a proper birthday dinner, the [Palm Springs restaurants guide](/blog/best-restaurants-palm-springs/) covers the spots I'd actually recommend.
+
+## Frequently Asked Questions
+
+<h3>Do you need to sign up in advance for birthday freebies in Palm Springs?</h3>
+<p>Most programs require you to be a registered member before your birthday month for the offer to activate. A week of lead time works for most. A month is safer. Don't sign up the morning of your birthday expecting rewards to be ready. Read each program's terms when you sign up since windows vary from birthday-day-only to the full month.</p>
+
+<h3>What is the best birthday freebie in the Palm Springs area?</h3>
+<p>Starbucks gives you a free drink of any size, any complexity, which has the highest dollar value of any program here if you'd order something elaborate anyway. Nothing Bundt Cakes gives you a free Bundtlet in flavors like red velvet or lemon, which is worth the signup on its own. Both require advance enrollment.</p>
+
+<h3>Is there a Crumbl Cookies in Palm Springs?</h3>
+<p>The closest Crumbl location is in Palm Desert at 44-491 Town Center Way, about 20 minutes from downtown Palm Springs on Highway 111. Rewards members get a free cookie during their birthday month through the Crumbl app.</p>
+
+<h3>Where is the Cheesecake Factory near Palm Springs?</h3>
+<p>The Cheesecake Factory at The River shopping center in Rancho Mirage (71800 Highway 111) is about 15 to 20 minutes from Palm Springs. SocialPoints members receive a free birthday treat, historically a free slice with a purchase. It makes more sense as a dinner destination where the cheesecake becomes dessert.</p>

@@ -137,6 +137,24 @@ Indian Canyons is actively managed tribal land of the Agua Caliente Band of Cahu
 
 The Cahuilla have a specific connection to the California fan palm. The fruit was a food source, the leaves were used for baskets and construction, and the canyon system provided water through the desert. That context is worth holding while you're there.
 
+## Frequently Asked Questions
+
+### Do you need to buy tickets in advance for Indian Canyons?
+
+No advance purchase required; tickets are sold at the gate. That said, the canyons close on select Fridays for tribal ceremonies, so check the Agua Caliente tribal website before making the drive. Summer weekends can have a line at the gate, but it moves fast.
+
+### Which canyon is best for a first-time visitor?
+
+Palm Canyon first. It has the largest natural fan palm grove in the US and the most dramatic landscape. If you have two to three hours, add Andreas Canyon on the way back out. Murray Canyon is for return visits when you want a longer hike with a waterfall at the end.
+
+### Can you visit Indian Canyons in summer?
+
+Technically yes, but it requires early timing. The canyons open at 8am; be on the trail before 9am in summer and plan to be back at the trailhead by 11am. The canyon bottom is shadier than the exposed ridgeline, but the heat builds fast. Midday in July is not the right call.
+
+### Is Indian Canyons good for kids?
+
+Andreas Canyon is the best option with kids under 8: flat trail, dramatic canyon walls, and about a mile roundtrip. The Children's Discovery Museum of the Desert in Rancho Mirage is a good pairing for the same day if you want an indoor activity for the afternoon heat window.
+
 ---
 
 *Eann runs Indigo Palm Collective, a small vacation rental company with properties in Indio and Palm Springs. She's hiked these canyons a handful of times and still thinks the first drop into Palm Canyon is the best moment of any first visit.*

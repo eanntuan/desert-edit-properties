@@ -115,6 +115,8 @@ layout: blog-post.njk
 
 <img src="/blog/images/ps-aerial-tram-sunrise.webp" alt="Cable car ascending over mountain peaks at sunrise near Palm Springs, dramatic sky and valley view below" width="1400" height="934" loading="lazy">
 
+<p>If you're staying at <a href="/the-sundune/">The Sundune</a> in Palm Springs, the tram base is about 20 minutes away. It's the right half-day anchor for any spring or summer visit, especially before the valley heat peaks.</p>
+
 <p><strong>Summer (June through September):</strong> The temperature contrast is the draw. The valley is 105 degrees and the top is around 70. Weekday crowds are lighter. The extended Friday and Saturday evening hours mean you can ride up at sunset, watch the valley light up below, and come down in the dark. That's a good use of a summer evening.</p>
 
 <p><strong>Fall and spring:</strong> The most popular seasons overall. Wildflowers appear in spring. Fall foliage in the mountains. Comfortable temperatures at both elevations. Weekends fill up quickly. Go early or go on a weekday if you want to park without circling.</p>
@@ -142,6 +144,20 @@ layout: blog-post.njk
 <p>If you're staying at <a href="/the-sundune/">The Sundune in Palm Springs</a>, the tram is about 20 minutes from the property. It makes an easy half-day, especially on a summer morning when you want relief from the heat before noon. For everything else worth doing in the valley, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio breakdown</a> covers where to base yourself and what's close to each.</p>
 
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Palm Springs midcentury modern neighborhood with flat-roofed homes and the San Jacinto Mountains rising behind, near the tram base" width="1400" height="933" loading="lazy">
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>How much does the Palm Springs Aerial Tram cost?</h3>
+<p>As of 2026, adult tickets are $36.95 with the $2 online processing fee included. Seniors (65+) pay $33.95 and children ages 3 to 10 pay $20.95. Parking at the Valley Station is $5. Dining packages that bundle a ticket with a meal credit at the summit restaurants run $27.50 to $43 per person.</p>
+
+<h3>How long should you plan for the Palm Springs Aerial Tram?</h3>
+<p>Two to three hours is the right minimum. The tram ride is 10 minutes each way. Add wait time for departures, 30 minutes of buffer, and at least an hour for the Desert View Trail at the top. If you're planning any serious hiking in the San Jacinto Wilderness, plan for a full day and check with the rangers about current trail conditions.</p>
+
+<h3>Is the Palm Springs Aerial Tram worth it?</h3>
+<p>Yes. The elevation change from 2,643 feet to 8,516 feet in 10 minutes is genuinely dramatic, and the view from the top reframes the entire geography of the valley. At $37 per adult it's a real cost, but the experience is not a tourist trap: the scenery, trails, and temperature contrast are all genuine. I've sent many guests up there who had been to Palm Springs multiple times and never done it. The reaction is always some version of "why did I wait."</p>
+
+<h3>Can you hike at the top of the Palm Springs Aerial Tram?</h3>
+<p>Yes. The Mountain Station at 8,516 feet sits at the edge of Mount San Jacinto State Park with over 50 miles of trails. The Desert View Trail is a two-mile loop accessible to most fitness levels. The trail to San Jacinto Peak at 10,834 feet is a serious full-day undertaking requiring ranger check-in. Dogs are allowed on the trails, leashed.</p>
 
 <h2>Is It Worth It?</h2>
 

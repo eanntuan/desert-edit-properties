@@ -124,4 +124,18 @@ layout: blog-post.njk
 
 <h2>Indio Is Your Base</h2>
 
+<h2>Frequently Asked Questions</h2>
+
+<h3>Do you need a reservation for Desert Hot Springs mineral pools?</h3>
+<p>For Two Bunch Palms and Azure Palm, yes. Both book out, especially on weekends and in spring. Sam's Family Spa and the public city pools are more walk-in friendly. Call ahead for any resort you're planning to visit on a Friday or Saturday.</p>
+
+<h3>What is the difference between a day pass and a private pool rental?</h3>
+<p>A day pass at most resorts gives you access to the communal mineral pool areas for a set window of time. Azure Palm operates differently: you book a private outdoor mineral pool by the hour rather than joining a shared space. Good for couples or anyone who wants the mineral soak without the communal setting.</p>
+
+<h3>Is Desert Hot Springs worth visiting in summer?</h3>
+<p>It works, but the calculus changes when it's already 105 degrees outside. Soaking in 104-degree mineral water in summer heat is a different experience than doing it on a mild October afternoon. If you're going in summer, aim for mid-morning before the air temperature peaks, and stick to pools with shade structures.</p>
+
+<h3>How far is Desert Hot Springs from The Cozy Cactus and Terra Luz?</h3>
+<p>About 20 minutes north of Indio, straight up Gene Autry Trail. Both properties make a convenient base for a day trip to the mineral pools. Leave in the morning, soak for a few hours, and you're back in Indio in time for the pool and dinner.</p>
+
 <p>Both <a href="/terra-luz/">Terra Luz</a> and <a href="/cozy-cactus/">The Cozy Cactus</a> are 20 minutes from Desert Hot Springs. Private pools at both properties handle your daily swim. Desert Hot Springs handles the mineral soak.</p>
