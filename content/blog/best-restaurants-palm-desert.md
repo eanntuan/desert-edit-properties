@@ -104,8 +104,8 @@ layout: blog-post.njk
 
 <p>Katsuyama is a Japanese izakaya on Country Club Drive, off the main El Paseo strip. The kitchen centers on ramen, including a tonkotsu that takes the broth seriously, alongside katsu and shareable plates. The energy is casual and neighborhood-forward. This is the kind of place you find because someone who lives nearby told you about it. Find them at <a href="https://www.instagram.com/katsuyama_us/" target="_blank" rel="noopener">@katsuyama_us</a>.</p>
 
-<img src="/blog/images/palm-desert-el-paseo.webp" alt="El Paseo boulevard in Palm Desert California lined with galleries boutiques and restaurants on a sunny day" width="1400" height="933" loading="lazy" decoding="async">
-<p class="image-caption">El Paseo runs about a mile. Park once and walk the length of it.</p>
+<img src="/blog/images/ps-palm-street-blue-sky.webp" alt="Palm-tree-lined street in the Coachella Valley with clear blue sky and desert landscaping" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The valley between Palm Springs and Indio. Palm Desert sits right in the middle of it.</p>
 
 <h2>Practical Notes</h2>
 
