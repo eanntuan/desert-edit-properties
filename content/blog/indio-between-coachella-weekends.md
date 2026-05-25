@@ -23,14 +23,48 @@ readTime: "7 min read"
 excerpt: "Stuck in Indio between Coachella weekends? Date shakes, the Salton Sea, birria tacos, and a vinyl listening lounge: here's exactly what to do with the five days in between."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Indio Between Coachella Weekends: 7 Days, No Filler",
+      "description": "Staying in Indio between Coachella weekends? Date shakes at Shields, the Salton Sea, and spots where locals eat. A real guide, not a listicle.",
+      "image": "https://indigopalm.co/blog/images/indio-between-coachella-weekends.webp",
+      "datePublished": "2026-01-27",
+      "dateModified": "2026-05-06",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/indio-between-coachella-weekends/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Indio Between Coachella Weekends: 7 Days, No Filler", "item": "https://indigopalm.co/blog/indio-between-coachella-weekends/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>So you're staying for both weekends. Smart. Slightly chaotic. Fully committed.</p>
 
 <p>Weekend 1 ends April 13th. Weekend 2 starts April 18th. That's five days in Indio with no festival, no agenda, and probably a depleted phone battery and a vague sense that you've eaten nothing but overpriced festival burritos for three days. You could drive back to wherever you came from and turn around again (a lot of people do), but that seems like a lot of freeway for a mediocre outcome.</p>
 
-<p>If you're staying in a vacation rental near the polo grounds (like <a href="https://indigopalm.co/cozy-cactus">The Cozy Cactus</a> or <a href="https://indigopalm.co/terra-luz">Terra Luz</a>), you're already positioned perfectly for everything on this list. Same base, no hotel logistics, five days to use the valley properly.</p>
+<p>If you're staying in a vacation rental near the polo grounds (like <a href="/cozy-cactus/">The Cozy Cactus</a> or <a href="/terra-luz/">Terra Luz</a>), you're already positioned perfectly for everything on this list. Same base, no hotel logistics, five days to use the valley properly.</p>
 
 <p>Here's mine.</p>
 

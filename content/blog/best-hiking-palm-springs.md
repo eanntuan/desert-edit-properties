@@ -34,8 +34,42 @@ relatedPosts:
   - title: "Palm Springs vs Indio: Which to Base Yourself"
     url: /blog/palm-springs-vs-indio/
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Best Hiking Near Palm Springs: 8 Trails Worth the Drive",
+      "description": "Best hiking near Palm Springs: 8 trails with stats, fees, and real notes. Palm Canyon to San Jacinto Peak, dog-friendly picks, plus a swimmable waterfall.",
+      "image": "https://indigopalm.co/blog/images/coachella-valley-desert-hiking.webp",
+      "datePublished": "2025-12-25",
+      "dateModified": "2025-12-25",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/best-hiking-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Best Hiking Near Palm Springs: 8 Trails Worth the Drive", "item": "https://indigopalm.co/blog/best-hiking-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>You're thirty minutes from a private pool in Palm Springs, standing in a canyon so thick with native fan palms that the desert on either side disappears. The creek is running. The fronds are rattling. Somewhere overhead, the San Jacinto range climbs from here to 10,834 feet. You had no idea any of this was available to you an hour ago.</p>
 

@@ -22,7 +22,42 @@ readTime: "5 min read"
 excerpt: "Every Thursday night, Palm Canyon Drive closes to cars and becomes a street fair. Here's what's worth stopping for and what to skip."
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Village Fest Palm Springs: What to Expect on Thursdays",
+      "description": "Village Fest is Palm Springs' weekly Thursday night street fair on Palm Canyon Drive. What to eat, what to buy, and when to arrive for the best experience.",
+      "image": "https://indigopalm.co/blog/images/cheekys-palm-springs.webp",
+      "datePublished": "2026-04-21",
+      "dateModified": "2026-05-03",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/village-fest-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Village Fest Palm Springs: What to Expect on Thursdays", "item": "https://indigopalm.co/blog/village-fest-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 Every Thursday night, the City of Palm Springs closes a long stretch of Palm Canyon Drive to traffic, sets up booths down the center of the street, and calls it Village Fest. It's been running since 1991. In a city that's spent decades carefully managing its identity as a destination, Village Fest is one of the most genuinely local things you can do here.
 

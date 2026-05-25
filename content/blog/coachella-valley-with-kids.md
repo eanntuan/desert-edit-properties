@@ -30,6 +30,42 @@ relatedPosts:
   - title: "Coachella Valley Vacation Rental Guide"
     url: /blog/coachella-valley-vacation-rental-guide/
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Coachella Valley with Kids: Best Rentals, Activities, Tips",
+      "description": "Coachella Valley with kids: best months to visit, family-friendly vacation rentals in Indio, and where to take toddlers and babies in the desert.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-infant-gear.webp",
+      "datePublished": "2026-01-18",
+      "dateModified": "2026-05-23",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/coachella-valley-with-kids/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Coachella Valley with Kids: Best Rentals, Activities, Tips", "item": "https://indigopalm.co/blog/coachella-valley-with-kids/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>It's 8am in Indio. Your toddler woke up early for once and you didn't fight it. You made coffee while he stared out at the backyard, completely absorbed by a lizard on the patio wall. Nobody is rushing anywhere. The sun is still low and soft and the pool hasn't heated past comfortable yet. This is the Coachella Valley with kids when it's working.</p>
 
@@ -114,7 +150,7 @@ relatedPosts:
 <p>The sweet spot is ages 2-10. Kids under 2 get in free, and older kids will probably max out in under an hour. Admission is $9/person. Open Tuesday through Sunday at 71701 Gerald Ford Dr, Rancho Mirage.</p>
 
 <div class="inline-cta">
-  <p><a href="https://indigopalm.co/cozy-cactus">The Cozy Cactus</a> in Indio sleeps 8, has a private pool, and puts you 15 minutes from Living Desert, Cabazon, and the date farms. It's built for exactly this kind of trip. <a href="https://indigopalm.co/cozy-cactus">Check availability →</a></p>
+  <p><a href="/cozy-cactus/">The Cozy Cactus</a> in Indio sleeps 8, has a private pool, and puts you 15 minutes from Living Desert, Cabazon, and the date farms. It's built for exactly this kind of trip. <a href="/cozy-cactus/">Check availability →</a></p>
 </div>
 
 <h2>What to Pack (and What You Can Leave Home)</h2>

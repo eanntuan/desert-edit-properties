@@ -22,8 +22,42 @@ readTime: "7 min read"
 excerpt: "Palm Springs has the best-preserved collection of midcentury modern architecture in the US. Here's the self-guided walk, the best streets, and what you're looking at."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs Midcentury Architecture: Self-Guided Walk",
+      "description": "Palm Springs has the most intact collection of midcentury modern homes in the country. Here's how to walk it, what to look for, and which streets matter.",
+      "image": "https://indigopalm.co/blog/images/ps-mcm-neighborhood.webp",
+      "datePublished": "2026-01-12",
+      "dateModified": "2026-01-12",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-midcentury-architecture/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs Midcentury Architecture: Self-Guided Walk", "item": "https://indigopalm.co/blog/palm-springs-midcentury-architecture/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>You're standing in the living room of a house built in 1957. The floor-to-ceiling glass faces the San Jacinto mountains at exactly the angle the architect calculated for the morning light. The roofline is flat. The overhang is deep enough to kill the direct sun in summer but let the low winter sun through. The pool is the center of the floor plan, not an afterthought tacked on later. Whoever designed this solved the desert in a way that hasn't been improved on since.</p>
 

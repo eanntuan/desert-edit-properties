@@ -25,8 +25,42 @@ readTime: "8 min read"
 excerpt: "Day 1: arrive and decompress. Day 2: architecture walk, coffee, and a hike. Day 3: farmers market and brunch. Three days in Palm Springs, planned well."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs Weekend Trip: A Well-Planned 3-Day Itinerary",
+      "description": "Day 1: arrive and decompress. Day 2: architecture walk, coffee, and a hike. Day 3: farmers market and brunch. Three days in Palm Springs, planned well.",
+      "image": "https://indigopalm.co/blog/images/ps-mcm-house-palm-trees.webp",
+      "datePublished": "2025-11-16",
+      "dateModified": "2026-04-15",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-weekend-itinerary/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs Weekend Trip: A Well-Planned 3-Day Itinerary", "item": "https://indigopalm.co/blog/palm-springs-weekend-itinerary/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Three days is the right amount of time in Palm Springs. Enough to feel the pace of the place, not enough to run out of things you want to do. I've done this trip enough times that I have a rhythm I default to, and this is it.</p>
 

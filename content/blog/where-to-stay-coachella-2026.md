@@ -25,8 +25,42 @@ readTime: "7 min read"
 excerpt: "An honest breakdown of every Coachella accommodation option: camping, hotels, vacation rentals. No affiliate codes, from a vacation rental owner in Indio."
 layout: redirect.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Where to Stay for Coachella 2026: The Honest Rental Guide",
+      "description": "Vacation rental, hotel, or camping for Coachella? The polo grounds are in Indio. Here's what's close, what it costs, and what to book first.",
+      "image": "https://indigopalm.co/blog/images/festival-concert-night.webp",
+      "datePublished": "2025-11-28",
+      "dateModified": "2026-04-21",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/where-to-stay-coachella-2026/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Where to Stay for Coachella 2026: The Honest Rental Guide", "item": "https://indigopalm.co/blog/where-to-stay-coachella-2026/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>You're going to Coachella. With Justin Bieber on the 2026 lineup, this year's booking pressure hit earlier than usual. Now comes the part that takes more planning than most people expect: finding a place to stay that fits your budget, your sleep, and your energy for all three days.</p>
 
@@ -74,7 +108,7 @@ layout: redirect.njk
 
 <h2>The Cozy Cactus: Walking Distance from the Polo Grounds</h2>
 
-<p><a href="/cozy-cactus">The Cozy Cactus</a> is our 3-bedroom vacation rental in Indio, <strong>walking distance from the Empire Polo Club</strong>. Not "close." Walking distance.</p>
+<p><a href="/cozy-cactus/">The Cozy Cactus</a> is our 3-bedroom vacation rental in Indio, <strong>walking distance from the Empire Polo Club</strong>. Not "close." Walking distance.</p>
 
 <p><strong>Getting there:</strong> Walk. Or drive 5 minutes at normal times, maybe 10 during festival entry. Compare that to 45 minutes from Palm Springs in surge traffic.</p>
 

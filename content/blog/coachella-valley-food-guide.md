@@ -25,6 +25,42 @@ readTime: "8 min read"
 excerpt: "The honest food guide to the Coachella Valley: Papa Headz and One Stop in Indio, Yes Please in La Quinta, Thai Hot and Koffi in Palm Springs. Organized by city, no filler."
 layout: blog-post.njk
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Coachella Valley Food Guide: Best Restaurants by City",
+      "description": "The honest Coachella Valley food guide: Papa Headz and One Stop in Indio, Yes Please in La Quinta, Koffi and Thai Hot in Palm Springs. By city, no filler.",
+      "image": "https://indigopalm.co/blog/images/one-stop-taco-shop.webp",
+      "datePublished": "2025-11-22",
+      "dateModified": "2026-05-09",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/coachella-valley-food-guide/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Coachella Valley Food Guide: Best Restaurants by City", "item": "https://indigopalm.co/blog/coachella-valley-food-guide/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The Coachella Valley is 45 miles east to west. Where to eat in Palm Springs is a different question from where to eat in Indio, and using a Palm Springs food guide when you're staying in Indio means a 30-minute drive for every meal recommendation. This guide is organized by city for that reason.</p>
 

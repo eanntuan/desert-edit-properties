@@ -31,8 +31,42 @@ relatedPosts:
   - title: "Best Hiking Near Palm Springs: 8 Trails Worth the Drive"
     url: /blog/best-hiking-palm-springs/
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs Neighborhood Guide: Where to Stay and Why",
+      "description": "Palm Springs neighborhoods broken down honestly: Uptown, Downtown, Movie Colony, Warm Sands, and more. Where to stay based on your trip type.",
+      "image": "https://indigopalm.co/blog/images/palm-springs-neighborhood-map.webp",
+      "datePublished": "2026-05-09",
+      "dateModified": "2026-05-09",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-neighborhood-guide/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs Neighborhood Guide: Where to Stay and Why", "item": "https://indigopalm.co/blog/palm-springs-neighborhood-guide/"}
+      ]
+    }
+  ]
+}
+</script>
 
 The first time I drove into Palm Springs, I had no idea there were neighborhoods to choose from. I booked based on price and ended up fine, but I had no idea what I was missing. The area near the Marilyn Monroe statue and the area near the Museum Trail look like the same city on Google Maps. On the ground, they feel like different trips.
 
@@ -114,7 +148,7 @@ The honest version: Palm Springs is small enough that no neighborhood is truly i
 <div class="cta-box">
   <h3>Stay in the Heart of It</h3>
   <p>The Sundune at Palm Springs puts you close to everything without being in the middle of it. Two bedrooms, a private patio, and the San Jacinto Mountains out the window.</p>
-  <a href="/the-sundune" class="cta-button">View The Sundune</a>
+  <a href="/the-sundune/" class="cta-button">View The Sundune</a>
 </div>
 
 <section class="related-posts">

@@ -20,8 +20,42 @@ readTime: "8 min read"
 excerpt: "A self-guided driving tour of Palm Springs midcentury architecture. Eight stops across Movie Colony, Vista Las Palmas, and Twin Palms, with golden hour timing and what to photograph."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs Midcentury Architecture: Self-Guided Tour",
+      "description": "Self-guided driving tour of Palm Springs midcentury architecture. 8 stops, real addresses, Neutra, Frey, Wexler, and the best golden hour timing.",
+      "image": "https://indigopalm.co/blog/images/ps-midcentury-teal-door.webp",
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-midcentury-architecture-tour/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs Midcentury Architecture: Self-Guided Tour", "item": "https://indigopalm.co/blog/palm-springs-midcentury-architecture-tour/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Palm Springs has more midcentury modern architecture per square mile than anywhere else in the country. This is not marketing copy. The city became a weekend escape for Hollywood in the 1940s and 50s, and the architects who followed built in a style that fit the desert: flat roofs, wide overhangs, glass walls, carports instead of garages. Most of it is still standing, lived in, and walkable from the street.</p>
 
@@ -106,4 +140,4 @@ layout: blog-post.njk
 
 <h2>Where to Stay</h2>
 
-<p><a href="/the-sundune">The Sundune</a> is 10 minutes from downtown Palm Springs, walking distance from the Uptown Design District, and close to the main architectural neighborhoods this tour covers. It's a midcentury-influenced two-bedroom condo in a gated community with a pool. The right base for doing this properly.</p>
+<p><a href="/the-sundune/">The Sundune</a> is 10 minutes from downtown Palm Springs, walking distance from the Uptown Design District, and close to the main architectural neighborhoods this tour covers. It's a midcentury-influenced two-bedroom condo in a gated community with a pool. The right base for doing this properly.</p>

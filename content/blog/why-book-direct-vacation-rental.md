@@ -20,8 +20,42 @@ readTime: "6 min read"
 excerpt: "Airbnb adds 14-16% on top of the nightly rate. Here's what that means in real dollars, when direct booking makes sense, and how to do it safely."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Why Book Direct Instead of Airbnb: The Honest Math",
+      "description": "Booking a vacation rental direct saves you 14-16% in Airbnb service fees. The honest math, what you get, and when direct booking makes sense.",
+      "image": "https://indigopalm.co/blog/images/west-elm-dining.webp",
+      "datePublished": "2025-11-01",
+      "dateModified": "2026-04-15",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/why-book-direct-vacation-rental/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Why Book Direct Instead of Airbnb: The Honest Math", "item": "https://indigopalm.co/blog/why-book-direct-vacation-rental/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>You find a place you like. The nightly rate looks reasonable. Then you hit the checkout screen and $250/night is suddenly $310/night. A four-night stay that looked like $1,000 is $1,240.</p>
 

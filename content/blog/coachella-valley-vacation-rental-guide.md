@@ -24,6 +24,42 @@ readTime: "7 min read"
 excerpt: "From pool access to honest reviews to a host who responds. Five things worth checking before you book a Coachella Valley vacation rental."
 layout: blog-post.njk
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "5 Things to Check Before Booking a Coachella Valley Rental",
+      "description": "From pool access to honest reviews to a host who responds. Five things to check before booking a Coachella Valley vacation rental in Indio or Palm Springs.",
+      "image": "https://indigopalm.co/blog/images/palm-springs-hotel-pool.webp",
+      "datePublished": "2025-11-07",
+      "dateModified": "2026-04-15",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/coachella-valley-vacation-rental-guide/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "5 Things to Check Before Booking a Coachella Valley Rental", "item": "https://indigopalm.co/blog/coachella-valley-vacation-rental-guide/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>You find the listing on a Thursday night. The photos look right: private pool, mountain views, enough bedrooms. You book it. You arrive on Friday afternoon and the pool is cold, the bed in the primary is a platform frame from 2012, and the "private" pool turns out to share a fence with the house next door whose kids are out there every afternoon. None of this was hidden. It was just written in a way that required reading carefully, and Thursday night you were tired.</p>
 

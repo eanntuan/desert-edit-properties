@@ -21,7 +21,42 @@ readTime: "7 min read"
 excerpt: "Most pet-friendly listings slap a policy in the fine print and call it a day. Casa Moto in Indio was designed with dogs in mind. Here's what that means in practice."
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Pet-Friendly Vacation Rental in Coachella Valley: Casa Moto",
+      "description": "Pet-friendly vacation rental in Coachella Valley: Casa Moto in Indio was built for dogs. Enclosed yard, tile floors, saltwater pool. No carpet anywhere.",
+      "image": "https://indigopalm.co/blog/images/pet-friendly-rental-dog.webp",
+      "datePublished": "2026-04-24",
+      "dateModified": "2026-05-04",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/casa-moto-pet-friendly-desert/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Pet-Friendly Vacation Rental in Coachella Valley: Casa Moto", "item": "https://indigopalm.co/blog/casa-moto-pet-friendly-desert/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>When I started designing Casa Moto, "pet-friendly" was on the list. It's on most lists. The problem is that for most vacation rentals, "pet-friendly" means exactly one thing: there's a sentence in the listing rules that says dogs are allowed, probably with a $75 fee attached and a stern note about the furniture.</p>
 

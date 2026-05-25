@@ -17,7 +17,42 @@ articleSection: "Local Guide"
 readTime: "5 min read"
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Birthday Freebies in Palm Springs: Free Treats and Deals",
+      "description": "Birthday freebies in the Palm Springs area: free cookies, bundtlets, cheesecake, cupcakes, and more. What to sign up for, when, and exactly where to go.",
+      "image": "https://indigopalm.co/blog/images/yes-please-palm-springs.webp",
+      "datePublished": "2026-04-15",
+      "dateModified": "2026-05-03",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-birthday-freebies/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Birthday Freebies in Palm Springs: Free Treats and Deals", "item": "https://indigopalm.co/blog/palm-springs-birthday-freebies/"}
+      ]
+    }
+  ]
+}
+</script>
 
 Celebrating a birthday in the Coachella Valley means you can layer in free treats from multiple spots across Palm Springs, Palm Desert, and Rancho Mirage in a single day. Most of these require signing up for a loyalty or rewards program before your birthday month, so this is a plan ahead situation.
 

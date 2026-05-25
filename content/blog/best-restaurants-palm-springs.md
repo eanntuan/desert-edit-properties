@@ -26,8 +26,42 @@ readTime: "10 min read"
 excerpt: "15 Palm Springs restaurants worth your time in 2026, with addresses, hours, and what to order. From a Michelin-recommended industrial dining room to a Rat Pack-era supper club."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Best Restaurants in Palm Springs: 15 Local Picks (2026)",
+      "description": "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included.",
+      "image": "https://indigopalm.co/blog/images/bar-cecil.webp",
+      "datePublished": "2026-02-17",
+      "dateModified": "2026-05-23",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/best-restaurants-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Best Restaurants in Palm Springs: 15 Local Picks (2026)", "item": "https://indigopalm.co/blog/best-restaurants-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>You're sitting outside at 8pm. The temperature is finally dropping below 90, and the San Jacinto Mountains are turning dark purple behind whoever is across the table from you. That two-hour window, after the heat breaks and before the night fully sets, is when Palm Springs dining makes the most sense. Everything tastes better outside in the desert when the air finally cooperates.</p>
 
@@ -37,7 +71,7 @@ layout: blog-post.njk
   <table>
     <tr><th>Location</th><td>Palm Springs, CA</td></tr>
     <tr><th>Best For</th><td>Date nights, casual dinners, weekend brunch</td></tr>
-    <tr><th>Closest Property</th><td><a href="https://indigopalm.co/the-sundune">The Sundune</a>, 5 min from Downtown PS</td></tr>
+    <tr><th>Closest Property</th><td><a href="/the-sundune/">The Sundune</a>, 5 min from Downtown PS</td></tr>
     <tr><th>Price Range</th><td>$ (casual) to $$$ (sit-down dinner)</td></tr>
     <tr><th>Reservations</th><td>Recommended for dinner Fri–Sat; most lunch spots are walk-in</td></tr>
   </table>
@@ -132,7 +166,7 @@ layout: blog-post.njk
 <p class="image-caption">The dining room at Workshop Kitchen and Bar. 1926 building, exposed concrete, booths carved from the walls. The space won a James Beard Foundation design award and it shows.</p>
 
 <div class="inline-cta">
-  <p>Every restaurant on this list is within a 10-minute drive of <a href="https://indigopalm.co/the-sundune">The Sundune</a>. Staying in Palm Springs makes dinner decisions a lot easier. <a href="https://indigopalm.co/the-sundune">Check availability →</a></p>
+  <p>Every restaurant on this list is within a 10-minute drive of <a href="/the-sundune/">The Sundune</a>. Staying in Palm Springs makes dinner decisions a lot easier. <a href="/the-sundune/">Check availability →</a></p>
 </div>
 
 <h3>The Heyday</h3>

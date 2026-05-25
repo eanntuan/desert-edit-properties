@@ -20,9 +20,42 @@ readTime: "6 min read"
 excerpt: "Palm Springs is surprisingly dog-friendly, if you know where to go. The real guide to pet-friendly vacation rentals, restaurants, trails, and parks in the Coachella Valley."
 layout: blog-post.njk
 ---
-
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Pet-Friendly Palm Springs: Honest Guide for Dog Owners",
+      "description": "Palm Springs is dog-friendly if you know where to look. The real guide to pet-friendly vacation rentals, restaurants, trails, and parks nearby.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-backyard.webp",
+      "datePublished": "2026-01-03",
+      "dateModified": "2026-01-03",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/pet-friendly-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Pet-Friendly Palm Springs: Honest Guide for Dog Owners", "item": "https://indigopalm.co/blog/pet-friendly-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The Coachella Valley has a dog problem, and by that I mean everyone brings their dog and nobody quite knows what to do with them. Hotels say "pet-friendly" and mean "we'll charge you $75 and ask you not to bring them to the pool." The gap between what you need and what's available is real.</p>
 
@@ -35,7 +68,7 @@ layout: blog-post.njk
 
 <p>Most vacation rentals in the area don't allow pets, not because hosts don't like dogs, but because one bad incident in a carpeted rental creates a problem that costs more than a summer of bookings to fix. The ones that do allow pets have usually thought it through.</p>
 
-<p>We have two pet-friendly properties. <a href="https://indigopalm.co/terra-luz">Terra Luz</a> in Indio accepts up to two dogs (pet fee applies): 3-bedroom, private saltwater pool, fully fenced backyard. <a href="https://indigopalm.co/the-sundune/">The Sundune</a> in Palm Springs accepts one pet (pet fee applies): walkable neighborhood, community pool. Email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> before booking to confirm your situation.</p>
+<p>We have two pet-friendly properties. <a href="/terra-luz/">Terra Luz</a> in Indio accepts up to two dogs (pet fee applies): 3-bedroom, private saltwater pool, fully fenced backyard. <a href="/the-sundune/">The Sundune</a> in Palm Springs accepts one pet (pet fee applies): walkable neighborhood, community pool. Email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> before booking to confirm your situation.</p>
 
 <div class="callout">
     <p><strong>The real test for a pet-friendly rental:</strong> Does it have outdoor space? Tile or concrete floors (not carpet)? A fenced yard or pool area? These things matter more than whether it says "pets allowed" in the headline.</p>

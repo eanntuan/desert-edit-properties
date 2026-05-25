@@ -20,8 +20,42 @@ readTime: "7 min read"
 excerpt: "Desert Hot Springs is 20 minutes from Indio. Here are the 7 mineral pool spots worth knowing, from free public soaks to full spa days at Two Bunch Palms."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Desert Hot Springs Day Trip: 7 Mineral Pools Worth Visiting",
+      "description": "7 mineral pool spots near Indio and Palm Springs: from free public soaks to full-day spa passes. Two Bunch Palms, Azure Palm, Miracle Springs, and more.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-hot-tub.webp",
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/desert-hot-springs-day-trip/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Desert Hot Springs Day Trip: 7 Mineral Pools Worth Visiting", "item": "https://indigopalm.co/blog/desert-hot-springs-day-trip/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Desert Hot Springs is one of those places guests mention they meant to visit and then ran out of time. It's 20 minutes from Terra Luz and The Cozy Cactus, the drive is a straight shot up Gene Autry Trail, and the mineral water there is the real thing: geothermal, naturally hot, no chemical tricks. If you have one afternoon with nothing locked in, this is a good way to spend it.</p>
 
@@ -90,4 +124,4 @@ layout: blog-post.njk
 
 <h2>Indio Is Your Base</h2>
 
-<p>Both <a href="/terra-luz">Terra Luz</a> and <a href="/cozy-cactus">The Cozy Cactus</a> are 20 minutes from Desert Hot Springs. Private pools at both properties handle your daily swim. Desert Hot Springs handles the mineral soak.</p>
+<p>Both <a href="/terra-luz/">Terra Luz</a> and <a href="/cozy-cactus/">The Cozy Cactus</a> are 20 minutes from Desert Hot Springs. Private pools at both properties handle your daily swim. Desert Hot Springs handles the mineral soak.</p>

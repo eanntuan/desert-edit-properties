@@ -30,6 +30,42 @@ relatedPosts:
   - title: "Where to Stay for Coachella"
     url: /blog/where-to-stay-coachella/
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Stagecoach 2027: Location, Lodging, and What to Book",
+      "description": "Stagecoach 2027 is at Empire Polo Club in Indio, CA. Vacation rental 7 minutes from the stage beats hotels on price and sleep. Here's what to book first.",
+      "image": "https://indigopalm.co/blog/images/stagecoach-festival-crowd.webp",
+      "datePublished": "2026-02-11",
+      "dateModified": "2026-05-06",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/stagecoach-2027-where-to-stay/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Stagecoach 2027: Location, Lodging, and What to Book", "item": "https://indigopalm.co/blog/stagecoach-2027-where-to-stay/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Stagecoach runs the last weekend of April at the Empire Polo Club in Indio, California. Same grounds as Coachella, different crowd, three days of country music, and one of the more interesting accommodation puzzles in live events because your options range from literal dirt camping to houses with private pools a 7-minute drive from the stage.</p>
 

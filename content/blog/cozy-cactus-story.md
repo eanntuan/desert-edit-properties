@@ -21,8 +21,42 @@ readTime: "8 min read"
 excerpt: "How a backup plan for a Honda Element became The Cozy Cactus: a family vacation rental where parents rest, now with 4.66 stars and 191+ reviews."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Cozy Cactus: How a Blank Canvas Became a Family Sanctuary",
+      "description": "A backup Honda Element plan became The Cozy Cactus: family vacation rental in Indio, CA. Now 4.97 stars and 146 reviews across three years of hosting.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-exterior.webp",
+      "datePublished": "2025-11-25",
+      "dateModified": "2025-11-25",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/cozy-cactus-story/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Cozy Cactus: How a Blank Canvas Became a Family Sanctuary", "item": "https://indigopalm.co/blog/cozy-cactus-story/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The backyard at The Cozy Cactus has a hot tub that sits maybe 15 feet from a putting green, backed by a mural of cacti and desert color that I picked partly because I liked it and partly because kids would lose their minds over it. On any given weekend, there's a toddler losing their mind over it while their parents drink coffee on the patio and, for the first time all trip, actually feel like they're on vacation. That specific scene is why I bought the place.</p>
 

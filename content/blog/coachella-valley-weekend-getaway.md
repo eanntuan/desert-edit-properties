@@ -21,7 +21,42 @@ readTime: "9 min read"
 excerpt: "A Coachella Valley weekend can go wrong in predictable ways: wrong season, no plan for the 2pm heat, wrong base. Here's how to do it right."
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Coachella Valley Weekend Getaway: The Honest Desert Guide",
+      "description": "Planning a Coachella Valley weekend getaway? Here's the honest guide: when to go, where to stay, and how to handle the 100-degree afternoon problem.",
+      "image": "https://indigopalm.co/blog/images/coachella-valley-map.webp",
+      "datePublished": "2026-05-03",
+      "dateModified": "2026-05-11",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/coachella-valley-weekend-getaway/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Coachella Valley Weekend Getaway: The Honest Desert Guide", "item": "https://indigopalm.co/blog/coachella-valley-weekend-getaway/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The first time I drove out to the Coachella Valley for a weekend, I had no idea where anything was. I knew the Coachella music festival was somewhere near Palm Springs. I knew it was hot. I booked a hotel in Palm Desert because the name sounded like the right vibe, ate at the one restaurant on Yelp that had more than 100 reviews, and spent the whole second afternoon trapped inside because I hadn't accounted for the fact that it was 108 degrees and I had no pool.</p>
 

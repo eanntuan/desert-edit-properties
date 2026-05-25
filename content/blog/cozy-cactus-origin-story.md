@@ -21,8 +21,42 @@ readTime: "5 min read"
 excerpt: "How I bought my first vacation rental in Indio, CA on Easter 2022 with zero experience, a line of credit, and way too many Facebook Marketplace trips."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "How I Bought My First Vacation Rental in Indio, CA",
+      "description": "How I bought my first vacation rental in Indio, CA on Easter 2022 with zero experience, a line of credit, and way too many Facebook Marketplace trips.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-origin-hero.webp",
+      "datePublished": "2025-12-01",
+      "dateModified": "2025-12-01",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/cozy-cactus-origin-story/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "How I Bought My First Vacation Rental in Indio, CA", "item": "https://indigopalm.co/blog/cozy-cactus-origin-story/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>It was Easter Sunday 2022. Tyler and I drove out to Indio to look at a house, which is a strange thing to do on a holiday but here we were. The place was yellow. The furniture was grandma-brown. The carpet was the kind that has lived through several decades and multiple pets. And standing in that living room, I could see exactly what it could be.</p>
 

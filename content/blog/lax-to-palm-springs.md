@@ -24,9 +24,42 @@ readTime: "7 min read"
 excerpt: "Drive, shuttle, fly into PSP, or take Amtrak. What each option involves, with honest trade-offs for every type of traveler."
 layout: blog-post.njk
 ---
-
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "How to Get from LAX to Palm Springs: Every Option Compared",
+      "description": "LAX to Palm Springs: drive, shuttle, fly into PSP, or Amtrak. Honest trade-offs for each option with real times and costs so you can plan before you book.",
+      "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
+      "datePublished": "2025-10-29",
+      "dateModified": "2026-04-15",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/lax-to-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "How to Get from LAX to Palm Springs: Every Option Compared", "item": "https://indigopalm.co/blog/lax-to-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>There's a moment on the I-10 East, somewhere past Banning, where the pass opens up and the Coachella Valley drops in front of you all at once. Palm trees, flat desert, mountains on three sides, and a sky that's a slightly different blue than the one you left behind in Los Angeles. If you're driving, this is the moment the trip starts.</p>
 

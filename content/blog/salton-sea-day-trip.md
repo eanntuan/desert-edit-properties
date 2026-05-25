@@ -23,8 +23,42 @@ readTime: "7 min read"
 excerpt: "Bombay Beach, Salvation Mountain, Slab City. The Salton Sea is strange and fascinating. Here's the honest answer on who should go and when."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Salton Sea Day Trip from Indio: Bombay Beach, Worth It?",
+      "description": "Bombay Beach, Salvation Mountain, Slab City from Indio. 45 minutes east, genuinely strange, not for everyone. Honest guide, including the smell.",
+      "image": "https://indigopalm.co/blog/images/salton-sea.webp",
+      "datePublished": "2026-01-09",
+      "dateModified": "2026-04-15",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/salton-sea-day-trip/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Salton Sea Day Trip from Indio: Bombay Beach, Worth It?", "item": "https://indigopalm.co/blog/salton-sea-day-trip/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The Salton Sea day trip gets a polarizing response. Some find it one of the most atmospheric places in California. Others drive out, catch a whiff of the shoreline, and turn around. Both reactions are valid.</p>
 

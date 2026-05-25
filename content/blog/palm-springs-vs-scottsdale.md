@@ -21,8 +21,42 @@ readTime: "7 min read"
 excerpt: "Both are desert cities with pools, golf, and warm winters. But they attract different kinds of travelers. Here's the actual breakdown."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs vs Scottsdale: Cost, Vibe, and Who Wins",
+      "description": "Palm Springs vs Scottsdale: smaller and walkable vs larger and resort-focused. Here's the honest cost breakdown and which destination fits your trip.",
+      "image": "https://indigopalm.co/blog/images/scottsdale-resort-pool.webp",
+      "datePublished": "2026-03-16",
+      "dateModified": "2026-05-11",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-vs-scottsdale/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs vs Scottsdale: Cost, Vibe, and Who Wins", "item": "https://indigopalm.co/blog/palm-springs-vs-scottsdale/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Two desert cities. Both warm, both pool-heavy, both get compared to each other constantly. But the question "Palm Springs or Scottsdale?" has a real answer, and it depends on what kind of trip you're trying to take.</p>
 

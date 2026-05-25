@@ -31,8 +31,42 @@ relatedPosts:
   - title: "Palm Springs Neighborhood Guide: Where to Stay and Why"
     url: /blog/palm-springs-neighborhood-guide/
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Best Time to Visit Palm Springs: Month-by-Month Guide",
+      "description": "Best time to visit Palm Springs by season: peak weather, budget prices, or avoiding crowds. A real breakdown of every season with honest tradeoffs.",
+      "image": "https://indigopalm.co/blog/images/ps-via-sol-sunset.webp",
+      "datePublished": "2026-05-15",
+      "dateModified": "2026-05-15",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/best-time-to-visit-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Best Time to Visit Palm Springs: Month-by-Month Guide", "item": "https://indigopalm.co/blog/best-time-to-visit-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 People ask me when to visit Palm Springs like there's one correct answer. There isn't. I've stayed there in every season over the past few years, and each one has something real going for it, including July, which I know sounds insane. The answer depends on what you actually want out of the trip.
 

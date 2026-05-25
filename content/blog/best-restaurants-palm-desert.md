@@ -21,8 +21,42 @@ readTime: "7 min read"
 excerpt: "Pink Cabana, Tía Carmen, Kitchen 86 on El Paseo. Palm Desert and Indian Wells are halfway between Palm Springs and Indio and have some of the best restaurants in the valley."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "5 Best Restaurants in Palm Desert: Local Picks for 2026",
+      "description": "Pink Cabana, Kitchen 86 on El Paseo, and a 30-year Italian institution. Palm Desert and Indian Wells restaurants worth knowing, organized by vibe.",
+      "image": "https://indigopalm.co/blog/images/palm-desert-restaurant-patio.webp",
+      "datePublished": "2026-02-20",
+      "dateModified": "2026-02-20",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/best-restaurants-palm-desert/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "5 Best Restaurants in Palm Desert: Local Picks for 2026", "item": "https://indigopalm.co/blog/best-restaurants-palm-desert/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Palm Desert and Indian Wells sit roughly halfway between Palm Springs and Indio along Highway 111, about 15 to 20 minutes from either. Most visitors either anchor in Palm Springs and never leave downtown, or stay near the festival grounds in Indio without venturing west. That leaves this stretch of the valley quietly to itself, which is part of why it has some of the best restaurants in the region.</p>
 

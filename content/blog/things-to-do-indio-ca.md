@@ -22,9 +22,42 @@ readTime: "7 min read"
 excerpt: "Skip the recycled lists. Here are 15 things worth doing in Indio, CA: from date farms and desert hikes to a listening lounge that opened in a city nobody expected."
 layout: blog-post.njk
 ---
-
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "15 Things to Do in Indio, CA: Local Guide to Hidden Gems",
+      "description": "15 things to do in Indio, CA in the Coachella Valley: date shakes, a vinyl listening lounge, Old Town, and spots most visitors never find on their own.",
+      "image": "https://indigopalm.co/blog/images/indio-sign-miles-ave.webp",
+      "datePublished": "2026-01-06",
+      "dateModified": "2026-01-06",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/things-to-do-indio-ca/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "15 Things to Do in Indio, CA: Local Guide to Hidden Gems", "item": "https://indigopalm.co/blog/things-to-do-indio-ca/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>If you Google "things to do in Indio, CA" right now, you'll get chain restaurants, a water park, and maybe a mention of Coachella. That's not wrong, it's just not the city. Indio is where the Coachella Valley gets real: working-class, date-palm-lined, with taquerias that don't have websites and music venues that opened without press releases.</p>
 
@@ -95,7 +128,7 @@ layout: blog-post.njk
 <p>30 minutes south. An accidental inland sea created by an irrigation canal breach in 1905 that never stopped. Bombay Beach, a half-abandoned town on the eastern side, is one of the most interesting accidental art installations in California. Don't swim. Stay for sunset.</p>
 
 <div class="item-heading"><span class="item-number">10</span>Indian Palms Country Club: Golf, Pickleball, and Three Pools</div>
-<p>If you're staying at <a href="https://indigopalm.co/cozy-cactus">Cozy Cactus</a> or <a href="https://indigopalm.co/terra-luz">Terra Luz</a>, you're already inside Indian Palms. Three community pools, pickleball, tennis, and a fitness center. Walkable to the festival grounds during Coachella and Stagecoach, one of the only spots in the valley where that's true.</p>
+<p>If you're staying at <a href="/cozy-cactus/">Cozy Cactus</a> or <a href="/terra-luz/">Terra Luz</a>, you're already inside Indian Palms. Three community pools, pickleball, tennis, and a fitness center. Walkable to the festival grounds during Coachella and Stagecoach, one of the only spots in the valley where that's true.</p>
 
 <div class="item-heading"><span class="item-number">11</span>Old Town Indio: Farmers Market on Saturday Mornings</div>
 <p>The Old Town Indio Certified Farmers Market runs Saturday mornings year-round. Local produce, date vendors, tamales, fresh citrus. It takes about 45 minutes, it's free to browse, and the coffee from the stand near the corner is better than most café coffee.</p>
@@ -128,4 +161,4 @@ layout: blog-post.njk
 
 <p>If you need a home base for all of it, we have two houses in Indio: <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a>. Both have pools and sit close to Old Town, the polo grounds, and everything on this list.</p>
 
-<p>If you're figuring out where to stay, read our guide on <a href="/blog/where-to-stay-coachella-2026/">honest Coachella Valley accommodation options</a>. No affiliate codes, just the real tradeoffs. And if you have kids, <a href="https://indigopalm.co/cozy-cactus">Cozy Cactus</a> is built for exactly what you're trying to do here.</p>
+<p>If you're figuring out where to stay, read our guide on <a href="/blog/where-to-stay-coachella-2026/">honest Coachella Valley accommodation options</a>. No affiliate codes, just the real tradeoffs. And if you have kids, <a href="/cozy-cactus/">Cozy Cactus</a> is built for exactly what you're trying to do here.</p>

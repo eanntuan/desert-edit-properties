@@ -24,8 +24,42 @@ readTime: "7 min read"
 excerpt: "Most people only think of the Coachella Valley during festival season. Here's why every season in the desert is worth the trip, and how to plan it."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Coachella Valley Beyond the Festival: A Year-Round Guide",
+      "description": "Winter and fall are the Coachella Valley's best-kept secret. Hiking, hot springs, and rental prices 40% below festival season. How to plan your trip.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-pool.webp",
+      "datePublished": "2025-12-16",
+      "dateModified": "2026-05-06",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/beyond-coachella-desert-escape/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Coachella Valley Beyond the Festival: A Year-Round Guide", "item": "https://indigopalm.co/blog/beyond-coachella-desert-escape/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>October in the Coachella Valley: the crowds are gone, the dates are being harvested, and the light in the afternoon turns a specific shade of amber that makes you want to sit outside and not move. The pool is still warm enough to use. The nights drop to the low 60s. The mountains go pink at dusk. You will not want to leave.</p>
 

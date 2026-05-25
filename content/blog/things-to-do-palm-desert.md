@@ -22,8 +22,42 @@ readTime: "6 min read"
 excerpt: "Palm Desert sits halfway between Palm Springs and Indio. El Paseo, the Living Desert, McCallum Theatre, and some of the best restaurants in the valley. Here's what's worth your time."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "6 Best Things to Do in Palm Desert: The Real Local List",
+      "description": "6 best things to do in Palm Desert: Living Desert Zoo, El Paseo, McCallum Theatre, Shields Date Garden, Indian Wells tennis, and where to eat.",
+      "image": "https://indigopalm.co/blog/images/palm-desert-el-paseo.webp",
+      "datePublished": "2026-03-19",
+      "dateModified": "2026-03-19",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/things-to-do-palm-desert/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "6 Best Things to Do in Palm Desert: The Real Local List", "item": "https://indigopalm.co/blog/things-to-do-palm-desert/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Palm Desert sits roughly in the middle of the Coachella Valley, about 15 minutes east of Palm Springs and 20 minutes west of Indio. It's where people go when they want a more low-key version of the valley, less nightlife-focused than Palm Springs, less festival-adjacent than Indio. It earns that reputation.</p>
 

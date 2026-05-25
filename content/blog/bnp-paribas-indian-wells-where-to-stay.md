@@ -30,6 +30,42 @@ relatedPosts:
   - title: "Coachella Valley Insider Guide"
     url: /blog/coachella-valley-insider-guide/
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "BNP Paribas Open: Where to Stay Near Indian Wells, CA",
+      "description": "Palm Springs or Indio for the BNP Paribas Open? What to look for in a rental during tournament week, and why a private pool matters after stadium seats.",
+      "image": "https://indigopalm.co/blog/images/bnp-paribas-stadium-packed.webp",
+      "datePublished": "2025-12-10",
+      "dateModified": "2026-04-15",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/bnp-paribas-indian-wells-where-to-stay/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "BNP Paribas Open: Where to Stay Near Indian Wells, CA", "item": "https://indigopalm.co/blog/bnp-paribas-indian-wells-where-to-stay/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The BNP Paribas Open is one of the largest tennis events in the world outside the Grand Slams, a combined Masters 1000 and WTA 1000 tournament held every March at the Indian Wells Tennis Garden. It draws 450,000-plus attendees over two weeks. The venue sits in Indian Wells, California, a small city that sits almost exactly between Palm Springs and Indio.</p>
 

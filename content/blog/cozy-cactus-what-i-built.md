@@ -21,8 +21,42 @@ readTime: "8 min read"
 excerpt: "From labeling drawers to Stokke high chairs, here's what makes The Cozy Cactus a family vacation rental in Indio where parents rest, not just survive."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Inside The Cozy Cactus: A Vacation Home Built for Families",
+      "description": "From labeled drawers to Stokke high chairs, here is what makes The Cozy Cactus a family Airbnb in Indio where parents rest, not just survive.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-exterior.webp",
+      "datePublished": "2025-12-07",
+      "dateModified": "2025-12-07",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/cozy-cactus-what-i-built/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Inside The Cozy Cactus: A Vacation Home Built for Families", "item": "https://indigopalm.co/blog/cozy-cactus-what-i-built/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <div class="series-badge">Part 2 of 2 · <a href="/blog/cozy-cactus-origin-story/">Read Part 1</a></div>
 

@@ -22,7 +22,42 @@ readTime: "5 min read"
 excerpt: "A practical rundown of where to buy groceries in the Coachella Valley, whether you're at a rental in Indio, Palm Springs, or anywhere in between."
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Best Grocery Stores Near Palm Springs and Indio, CA",
+      "description": "Grocery stores near Palm Springs and Indio: Trader Joe's, Whole Foods, Jensen's, Stater Bros locations and which one to use based on where you're staying.",
+      "image": "https://indigopalm.co/blog/images/west-elm-dining.webp",
+      "datePublished": "2026-04-06",
+      "dateModified": "2026-05-03",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/grocery-stores-coachella-valley/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Best Grocery Stores Near Palm Springs and Indio, CA", "item": "https://indigopalm.co/blog/grocery-stores-coachella-valley/"}
+      ]
+    }
+  ]
+}
+</script>
 
 This is the post I wish existed when I first started hosting here. Every few weeks a guest asks some version of "where should we shop?" right after they land, usually while sitting in the Costco parking lot in Rancho Mirage having already bought too much.
 

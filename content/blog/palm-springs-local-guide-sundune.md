@@ -22,8 +22,42 @@ readTime: "7 min read"
 excerpt: "Things to do in Palm Springs, from a local who eats here. Coffee, brunch, surf, botanical, dinner, and drinks: the guide we give Sundune guests."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The Sundune Palm Springs Local Guide: Coffee to Late Night",
+      "description": "Things to do in Palm Springs, from a local who eats here. The Sundune's guide: coffee, brunch, surf, botanical, dinner, and drinks worth knowing about.",
+      "image": "https://indigopalm.co/blog/images/palm-springs-local-guide-sundune.webp",
+      "datePublished": "2026-01-24",
+      "dateModified": "2026-01-24",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-local-guide-sundune/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "The Sundune Palm Springs Local Guide: Coffee to Late Night", "item": "https://indigopalm.co/blog/palm-springs-local-guide-sundune/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>I'm a surfer from Culver City who ended up owning vacation rentals in the Coachella Valley. Not a Palm Springs local, but I spend enough time here to say these recommendations are real. Not affiliate-coded, not algorithmic. This is the guide we give <a href="/the-sundune/">Sundune</a> guests.</p>
 
@@ -47,7 +81,7 @@ layout: blog-post.njk
 <h2>Brunch</h2>
 
 <h3>The Farm + The Front Porch</h3>
-<p><a href="https://farmpalmsprings.com/" target="_blank" rel="noopener"><strong>The Farm</strong></a> is the reliable group brunch move: spacious, good food, handles a table of six without falling apart. After, walk next door to <a href="https://frontporchpalmsprings.com/" target="_blank" rel="noopener"><strong>The Front Porch</strong></a>, a Latin-styled hole-in-the-wall with tile work that will immediately remind you of <a href="https://indigopalm.co/terra-luz">Terra Luz</a>. These two spots sit side by side and together cover everything you want from a late morning.</p>
+<p><a href="https://farmpalmsprings.com/" target="_blank" rel="noopener"><strong>The Farm</strong></a> is the reliable group brunch move: spacious, good food, handles a table of six without falling apart. After, walk next door to <a href="https://frontporchpalmsprings.com/" target="_blank" rel="noopener"><strong>The Front Porch</strong></a>, a Latin-styled hole-in-the-wall with tile work that will immediately remind you of <a href="/terra-luz/">Terra Luz</a>. These two spots sit side by side and together cover everything you want from a late morning.</p>
 
 <img src="/blog/images/front-porch-cafe-palm-springs.webp" alt="The Front Porch cafe in Palm Springs with colorful Latin-inspired decor and tile work on the patio" width="1200" height="800" loading="lazy">
 <p class="image-caption">The Front Porch is right next to The Farm. Go for the tile work alone.</p>

@@ -30,8 +30,42 @@ relatedPosts:
   - title: "How to Beat the Heat in Palm Springs: Morning vs Evening"
     url: /blog/palm-springs-morning-vs-evening/
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs Running Trails: 6 Routes Worth Waking Up For",
+      "description": "Six running trails in Palm Springs with real details: distance, elevation, heat tips, and when to go. From a flat CV Link path to the steep Museum Trail.",
+      "image": "https://indigopalm.co/blog/images/desert-ridge-hike-valley-view.webp",
+      "datePublished": "2026-05-12",
+      "dateModified": "2026-05-12",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-running-trails/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs Running Trails: 6 Routes Worth Waking Up For", "item": "https://indigopalm.co/blog/palm-springs-running-trails/"}
+      ]
+    }
+  ]
+}
+</script>
 
 Running in Palm Springs sounds like a bad idea until you do it at 6am in October and realize you've just had the best run of your year. The San Jacinto Mountains behind you, the valley floor still cool, the light doing that pink-orange thing it does in the desert before the sun fully arrives. It's one of those experiences that makes you understand why people keep coming back here.
 
@@ -123,7 +157,7 @@ If you're based at [The Sundune at Palm Springs](/the-sundune), the CV Link trai
 <div class="cta-box">
   <h3>Base Camp in Palm Springs</h3>
   <p>The Sundune at Palm Springs puts you close to Araby, the CV Link, and the Museum Trail. Wake up early, run, shower, and be at a coffee shop by 8am.</p>
-  <a href="/the-sundune" class="cta-button">View The Sundune</a>
+  <a href="/the-sundune/" class="cta-button">View The Sundune</a>
 </div>
 
 <section class="related-posts">

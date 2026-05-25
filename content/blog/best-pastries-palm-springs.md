@@ -17,7 +17,42 @@ articleSection: "Local Guide"
 readTime: "6 min read"
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Best Pastries in Palm Springs: Specific Items Worth Seeking",
+      "description": "The best pastries in Palm Springs by specific item: the almond croissant at Koffi, pain au chocolat at Peninsula Pastries, and what else is worth the stop.",
+      "image": "https://indigopalm.co/blog/images/koffi-palm-springs.webp",
+      "datePublished": "2026-03-22",
+      "dateModified": "2026-05-03",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/best-pastries-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Best Pastries in Palm Springs: Specific Items Worth Seeking", "item": "https://indigopalm.co/blog/best-pastries-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 Most pastry guides tell you to go somewhere and then leave you to figure out what to order. This one skips that part. Palm Springs has a small but genuinely good pastry scene, and the items worth finding are specific enough to name.
 

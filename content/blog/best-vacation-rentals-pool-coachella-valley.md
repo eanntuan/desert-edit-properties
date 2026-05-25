@@ -21,7 +21,42 @@ readTime: "8 min read"
 excerpt: "Pool shows up in a thousand listings. Here's what separates a desert pool worth your money from one that photographs well and disappoints in person."
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Best Vacation Rentals with Pool in Coachella Valley",
+      "description": "Searching for the best vacation rentals with pool in the Coachella Valley? Here's what to look for beyond the listing photos, and what matters most.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-pool-backyard.webp",
+      "datePublished": "2026-04-30",
+      "dateModified": "2026-05-11",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/best-vacation-rentals-pool-coachella-valley/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Best Vacation Rentals with Pool in Coachella Valley", "item": "https://indigopalm.co/blog/best-vacation-rentals-pool-coachella-valley/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The first time a guest mentioned the pool in a review, I read it three times. Not because it was unusually nice. Because I realized I'd spent months obsessing over the indoor design and almost no time thinking about whether the outdoor space was actually good.</p>
 

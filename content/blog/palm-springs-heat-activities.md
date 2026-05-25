@@ -22,8 +22,42 @@ readTime: "6 min read"
 excerpt: "When the thermometer hits 110°F in Palm Springs, you need a plan that isn't a hiking trail. Here's what to do when the desert floor is genuinely brutal."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Things to Do in Palm Springs When It's 110 Degrees",
+      "description": "Palm Springs summer heat hits 110°F+. Here are the best indoor and cool-off activities: escape rooms, ice skating, and free museum Thursdays.",
+      "image": "https://indigopalm.co/blog/images/palm-springs-summer-pool.webp",
+      "datePublished": "2026-03-07",
+      "dateModified": "2026-03-07",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-heat-activities/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Things to Do in Palm Springs When It's 110 Degrees", "item": "https://indigopalm.co/blog/palm-springs-heat-activities/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>June through September in the Coachella Valley is not a metaphor. The thermometer hits 110°F and the asphalt radiates heat back at you like a pizza oven. Every outdoor activity guide I've read underestimates this. Even early mornings can feel brutal by 9am.</p>
 

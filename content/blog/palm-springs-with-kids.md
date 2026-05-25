@@ -22,8 +22,42 @@ readTime: "7 min read"
 excerpt: "Palm Springs with kids works better than you'd think. Here's where to go, what to skip, and why a walkable 2-bedroom is the right home base for a family of four."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs with Kids: Complete Guide to a Family Trip",
+      "description": "Palm Springs with kids is more doable than most people expect. Here's what works: activities, food, and a walkable home base at The Sundune.",
+      "image": "https://indigopalm.co/blog/images/palm-springs-kids-vacation.webp",
+      "datePublished": "2026-03-10",
+      "dateModified": "2026-03-10",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-with-kids/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs with Kids: Complete Guide to a Family Trip", "item": "https://indigopalm.co/blog/palm-springs-with-kids/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Most people associate Palm Springs with bachelorette weekends and golf retirees. It's fair. But I've hosted a lot of families at <a href="/the-sundune/">The Sundune</a>, and the pattern is always the same: they arrive a little unsure, leave totally sold, and immediately start asking about repeat availability.</p>
 

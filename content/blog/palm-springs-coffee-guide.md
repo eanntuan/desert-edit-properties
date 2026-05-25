@@ -22,8 +22,42 @@ readTime: 4 min read
 excerpt: "Skip the hotel lobby drip. A local's guide to the 5 best coffee shops in Palm Springs and the Coachella Valley: where to go, what to order, and why it matters."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "5 Best Palm Springs Coffee Shops Locals Keep Going Back To",
+      "description": "Skip the hotel lobby drip. The 5 best coffee shops in Palm Springs and the Coachella Valley: where to go, what to order, and what makes each worth it.",
+      "image": "https://indigopalm.co/blog/images/coffee-lattes-hero.webp",
+      "datePublished": "2025-12-28",
+      "dateModified": "2025-12-28",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-coffee-guide/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "5 Best Palm Springs Coffee Shops Locals Keep Going Back To", "item": "https://indigopalm.co/blog/palm-springs-coffee-guide/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <img src="/blog/images/coffee-lattes-hero.webp" alt="Three coffee drinks held together at a Palm Springs coffee shop" loading="lazy" width="800" height="533">
 

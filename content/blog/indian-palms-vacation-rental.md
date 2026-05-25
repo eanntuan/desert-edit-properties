@@ -24,8 +24,42 @@ readTime: "6 min read"
 excerpt: "Indian Palms Country Club is one of the only neighborhoods in the Coachella Valley where you can walk to Coachella. Here's what it's like to stay here."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Indian Palms Country Club Rentals: Coachella's Best Base",
+      "description": "Indian Palms Country Club is 2.5 miles from the Coachella stage. Private pools, gated streets, no surge pricing. Why it's the smartest festival base.",
+      "image": "https://indigopalm.co/blog/images/indian-palms-front-entrance.webp",
+      "datePublished": "2025-12-31",
+      "dateModified": "2026-05-06",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/indian-palms-vacation-rental/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Indian Palms Country Club Rentals: Coachella's Best Base", "item": "https://indigopalm.co/blog/indian-palms-vacation-rental/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>There's a moment on festival Saturday when you step out of your front door, walk through a quiet palm-lined street, pass a neighbor sitting on their porch with coffee, and realize you're going to Coachella on foot. No shuttle line. No surge pricing. No standing in traffic. You're just walking there, like it's down the block. Because it mostly is.</p>
 

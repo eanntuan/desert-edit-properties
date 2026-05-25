@@ -18,7 +18,42 @@ articleSection: "Local Guide"
 readTime: "5 min read"
 layout: blog-post.njk
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "ClassPass in Palm Springs: Studios, Options, What to Expect",
+      "description": "ClassPass in Palm Springs: thinner studio selection than a big city, but still useful. What's available, which cities have more options, and how to book.",
+      "image": "https://indigopalm.co/blog/images/classpass-fitness-studio.webp",
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-05-03",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/classpass-palm-springs/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "ClassPass in Palm Springs: Studios, Options, What to Expect", "item": "https://indigopalm.co/blog/classpass-palm-springs/"}
+      ]
+    }
+  ]
+}
+</script>
 
 If you're a regular ClassPass user at home, the desert will work but the catalog is smaller. Palm Springs and the surrounding valley have a handful of solid studios on the platform. The selection narrows fast once you filter by time, class type, and availability, especially during Coachella or BNP Paribas weeks when visitors flood in and regulars keep their bookings.
 

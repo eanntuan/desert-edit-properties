@@ -19,6 +19,42 @@ readTime: "5 min read"
 excerpt: "Bieber showed up unannounced and reminded everyone why Coachella still surprises. Five things that moment taught us about booking a desert festival trip."
 layout: blog-post.njk
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Justin Bieber at Coachella 2026: What Actually Happened",
+      "description": "Justin Bieber crashed Coachella 2026 and the internet lost its mind. What that moment means for your Indio vacation rental trip, and what comes next.",
+      "image": "https://indigopalm.co/blog/images/bieber-coachella-stage.webp",
+      "datePublished": "2026-03-01",
+      "dateModified": "2026-03-01",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/justin-bieber-coachella-2026/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Justin Bieber at Coachella 2026: What Actually Happened", "item": "https://indigopalm.co/blog/justin-bieber-coachella-2026/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Nobody had Justin Bieber on their Coachella 2026 bingo card. He walked onto the Sahara tent stage unannounced, no set list, no hype buildup, and the crowd just went sideways. The clips hit every platform inside 20 minutes. Search trends spiked 2,300% before he'd finished the third song.</p>
 

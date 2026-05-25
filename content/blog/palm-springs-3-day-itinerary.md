@@ -21,8 +21,42 @@ readTime: "7 min read"
 excerpt: "Three days in Palm Springs: aerial tram on day one, walkable downtown and architecture on day two, Joshua Tree on day three. Actual times, costs, what to skip."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "3-Day Palm Springs Itinerary: Tram, Town, and Trails",
+      "description": "3 days in Palm Springs: aerial tram day one, downtown and mid-century architecture day two, Joshua Tree day three. Times, costs, and what to skip.",
+      "image": "https://indigopalm.co/blog/images/ps-aerial-tram-mountain-view.webp",
+      "datePublished": "2026-03-13",
+      "dateModified": "2026-03-13",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-3-day-itinerary/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "3-Day Palm Springs Itinerary: Tram, Town, and Trails", "item": "https://indigopalm.co/blog/palm-springs-3-day-itinerary/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Palm Springs is small enough that you can cover most of it in three days without feeling rushed. The city rewards a slower pace: morning coffee, pool time at midday, late afternoon exploration before the light gets good. Here's a day-by-day breakdown of what works and in what order.</p>
 

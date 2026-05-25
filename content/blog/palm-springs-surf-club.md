@@ -24,8 +24,42 @@ readTime: "6 min read"
 excerpt: "A wave pool in the middle of the desert. What Palm Springs Surf Club is, who it's for, and what to book before you show up empty-handed."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs Surf Club: Prices, Hours, and Honest Review",
+      "description": "Palm Springs Surf Club day passes run $100-250 depending on level. Open daily until 8pm. Book 1-2 weeks ahead on weekends. What to know before you go.",
+      "image": "https://indigopalm.co/blog/images/pssc-wave-pool-reflection.webp",
+      "datePublished": "2025-12-04",
+      "dateModified": "2026-05-06",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-surf-club/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs Surf Club: Prices, Hours, and Honest Review", "item": "https://indigopalm.co/blog/palm-springs-surf-club/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <table class="comparison-table">
   <thead>

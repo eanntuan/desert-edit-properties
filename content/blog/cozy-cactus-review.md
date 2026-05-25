@@ -31,8 +31,42 @@ relatedPosts:
   - title: "Coachella Valley Vacation Rental Guide"
     url: /blog/coachella-valley-vacation-rental-guide/
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Cozy Cactus Vacation Rental in Indio: An Honest Review",
+      "description": "The Cozy Cactus in Indio: 4.97 stars, 146 reviews. Here's what guests consistently love, what to know before booking, and how it compares to other options.",
+      "image": "https://indigopalm.co/blog/images/cozy-cactus-review-hero.webp",
+      "datePublished": "2026-02-23",
+      "dateModified": "2026-02-23",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/cozy-cactus-review/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Cozy Cactus Vacation Rental in Indio: An Honest Review", "item": "https://indigopalm.co/blog/cozy-cactus-review/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>I'm Eann, and I built The Cozy Cactus for one specific person: the tired parent scrolling Airbnb at midnight, hoping to find a place where she might rest.</p>
 

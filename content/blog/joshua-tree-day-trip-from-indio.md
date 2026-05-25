@@ -24,8 +24,42 @@ readTime: "8 min read"
 excerpt: "Which entrance to use, what to bring, best time of year, and how to plan a full Joshua Tree day trip from your Coachella Valley base."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Joshua Tree Day Trip from Indio: Entry, Tips, Itinerary",
+      "description": "Joshua Tree day trip from Indio: 45 min drive, Cottonwood entrance, $35 entry fee, full itinerary, and what to bring from a Coachella Valley local.",
+      "image": "https://indigopalm.co/blog/images/joshua-tree-national-park.webp",
+      "datePublished": "2026-01-30",
+      "dateModified": "2026-05-10",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/joshua-tree-day-trip-from-indio/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Joshua Tree Day Trip from Indio: Entry, Tips, Itinerary", "item": "https://indigopalm.co/blog/joshua-tree-day-trip-from-indio/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Joshua Tree National Park sits right at the edge of what makes the Coachella Valley feel like a different world. From Indio, the south entrance is about 45 minutes. From Palm Springs, the north entrance is roughly an hour. Close enough for a day trip that feels completely removed from the valley floor.</p>
 

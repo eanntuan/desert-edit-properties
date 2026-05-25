@@ -20,8 +20,42 @@ readTime: "7 min read"
 excerpt: "Arenas Road, White Party, Dinah Shore, Pride in November. The practical guide to Palm Springs as one of the most established LGBTQ+ destinations in California."
 layout: blog-post.njk
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs LGBTQ+ Guide: Bars, Events, and Where to Stay",
+      "description": "Arenas Road bars, White Party, Dinah Shore Weekend, Pride in November. The honest practical guide to Palm Springs as a top LGBTQ+ destination.",
+      "image": "https://indigopalm.co/blog/images/palm-springs-bar-cocktails.webp",
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-lgbtq-guide/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs LGBTQ+ Guide: Bars, Events, and Where to Stay", "item": "https://indigopalm.co/blog/palm-springs-lgbtq-guide/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>Palm Springs has been a gathering place for LGBTQ+ travelers since the 1970s, when the gay community began buying up the midcentury motels along the main corridors. Today it's one of the most established LGBTQ+ destinations in the country, with a city government that's been majority LGBTQ+ for decades, an Arenas Road bar district that functions as the social hub, and a calendar of annual events that draws people from across California and well beyond.</p>
 
@@ -97,6 +131,6 @@ layout: blog-post.njk
 
 <h2>Where to Stay</h2>
 
-<p><a href="/the-sundune">The Sundune</a> is 5 minutes from Arenas Road. It's a two-bedroom condo in a gated community with a pool, fully stocked kitchen, and parking. Not a clothing-optional resort, not a gay-specific property, but a well-designed place to stay that puts you close to everything in this guide without the noise of being in the middle of it. Good for a group of four, or a couple who wants to stay somewhere comfortable rather than squeezing into a motel room.</p>
+<p><a href="/the-sundune/">The Sundune</a> is 5 minutes from Arenas Road. It's a two-bedroom condo in a gated community with a pool, fully stocked kitchen, and parking. Not a clothing-optional resort, not a gay-specific property, but a well-designed place to stay that puts you close to everything in this guide without the noise of being in the middle of it. Good for a group of four, or a couple who wants to stay somewhere comfortable rather than squeezing into a motel room.</p>
 
 <p>The gay-specific resorts (INNdulge, Triangle Inn, Hacienda at Warm Sands) are clothing-optional properties in the Warm Sands neighborhood south of downtown. Different experience. Worth knowing if that's what you're looking for.</p>

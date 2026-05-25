@@ -23,6 +23,42 @@ readTime: "8 min read"
 excerpt: "Neither is the wrong choice. But one is clearly right for your trip, depending on what you want. Here's the honest breakdown."
 layout: blog-post.njk
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Palm Springs vs Indio: 25 Miles, Very Different Trips",
+      "description": "Indio is 25 miles from Palm Springs, 30-40% cheaper per night, and 2 miles from the Coachella stage. Here's which base makes more sense for your trip.",
+      "image": "https://indigopalm.co/blog/images/blog-hero-palm-springs.webp",
+      "datePublished": "2026-02-05",
+      "dateModified": "2026-05-11",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/palm-springs-vs-indio/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Palm Springs vs Indio: 25 Miles, Very Different Trips", "item": "https://indigopalm.co/blog/palm-springs-vs-indio/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <p>The most common question we get from people booking a desert trip: should you stay in Palm Springs or closer to Indio? It's a real question with a real answer, and the answer depends entirely on what your group wants from the trip. I own properties in both areas, so I have no incentive to push one over the other. Here's what matters.</p>
 

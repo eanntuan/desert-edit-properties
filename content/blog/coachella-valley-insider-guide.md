@@ -31,8 +31,42 @@ relatedPosts:
   - title: "Palm Springs vs Indio: Which to Base Yourself"
     url: /blog/palm-springs-vs-indio/
 ---
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Coachella Valley Insider Guide: Local Spots Worth Knowing",
+      "description": "Skip the tourist traps. A Coachella Valley local shares the spots worth your time in Indio, Palm Springs, and Joshua Tree. No recycled lists.",
+      "image": "https://indigopalm.co/blog/images/ps-street-bougainvillea.webp",
+      "datePublished": "2025-12-19",
+      "dateModified": "2026-04-09",
+      "author": {
+        "@type": "Person",
+        "name": "Eann Tuan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Indigo Palm Collective",
+        "url": "https://indigopalm.co"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://indigopalm.co/blog/coachella-valley-insider-guide/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
+        {"@type": "ListItem", "position": 3, "name": "Coachella Valley Insider Guide: Local Spots Worth Knowing", "item": "https://indigopalm.co/blog/coachella-valley-insider-guide/"}
+      ]
+    }
+  ]
+}
+</script>
 
 <img src="/blog/images/indian-palms-front-entrance.webp" alt="Entrance to Indian Palms Country Club neighborhood in Indio California with palm trees and desert landscaping" loading="lazy" width="800" height="533">
 <p class="image-caption">The Indian Palms neighborhood in Indio. Quiet, gated, and 10 minutes from everything worth doing in the valley.</p>
