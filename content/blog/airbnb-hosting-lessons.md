@@ -18,42 +18,6 @@ readTime: "7 min read"
 excerpt: "Hard-won hosting lessons from 191 Airbnb reviews and four years running rentals in Indio, CA. The details that move the needle on 5-star reviews."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "191 Airbnb Reviews: What Four Years of Hosting Taught Us",
-      "description": "Hard-won hosting lessons from 191 Airbnb reviews and four years running rentals in Indio, CA. The details that move the needle on 5-star reviews.",
-      "image": "https://indigopalm.co/blog/images/airbnb-hosting-welcome.webp",
-      "datePublished": "2025-10-26",
-      "dateModified": "2025-12-08",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/airbnb-hosting-lessons/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "191 Airbnb Reviews: What Four Years of Hosting Taught Us", "item": "https://indigopalm.co/blog/airbnb-hosting-lessons/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>When I started hosting at <a href="/cozy-cactus/">The Cozy Cactus</a>, I thought the secret was somewhere obvious. Better pool. Nicer towels. A welcome bottle of wine. Four years and 191 reviews later, almost none of that is what guests write about.</p>
 

@@ -24,42 +24,6 @@ readTime: "6 min read"
 excerpt: "Indian Palms Country Club is one of the only neighborhoods in the Coachella Valley where you can walk to Coachella. Here's what it's like to stay here."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Indian Palms Country Club Rentals: Coachella's Best Base",
-      "description": "Indian Palms Country Club is 2.5 miles from the Coachella stage. Private pools, gated streets, no surge pricing. Why it's the smartest festival base.",
-      "image": "https://indigopalm.co/blog/images/indian-palms-front-entrance.webp",
-      "datePublished": "2025-12-31",
-      "dateModified": "2026-03-09",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/indian-palms-vacation-rental/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Indian Palms Country Club Rentals: Coachella's Best Base", "item": "https://indigopalm.co/blog/indian-palms-vacation-rental/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>There's a moment on festival Saturday when you step out of your front door, walk through a quiet palm-lined street, pass a neighbor sitting on their porch with coffee, and realize you're going to Coachella on foot. No shuttle line. No surge pricing. No standing in traffic. You're just walking there, like it's down the block. Because it mostly is.</p>
 
@@ -150,6 +114,55 @@ layout: blog-post.njk
 <p>Both are in Indian Palms Country Club, about 2.5 miles from the festival grounds. Both skip the platform fees when you <a href="/booking-flow/">book direct</a>.</p>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Indian Palms Country Club actually walking distance to Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The walk from inside the community to the festival entrance at 49th and Monroe runs 25 to 49 minutes depending on where you start in Indian Palms. The path goes through the Monroe Gate onto Eisenhower Drive on a gravel pedestrian path. Closed-toe shoes are worth it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can anyone drive into Indian Palms during Coachella weekend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The community is gated. The Monroe Gate is the main entry point for guests and is staffed with security during festival weekends. The Avenue 50 Gate is residents-only. Your host will provide the gate code and check-in instructions 24 hours before arrival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the noise situation in Indian Palms during the festivals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can hear the bass from the main stage when you're outside, especially late at night. It's not disruptive inside the house with windows closed, but it's present. Some guests find it adds to the experience. If you need complete silence, Indian Palms is probably not the right base for festival weekend."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the golf situation at Indian Palms Country Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indian Palms has a 27-hole course. Tee times are booked directly through the Indian Palms Country Club pro shop. The course is open to rental guests, not just residents. Between festival weekends (the week between Coachella Weekend 1 and Weekend 2), the course is usually quiet and easy to get on."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there places to eat within walking distance of Indian Palms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A few taco shops and a pizza place are within a 10-minute walk of the community entrance, but Indian Palms isn't a walkable restaurant neighborhood. Most dining requires a short drive: Old Town Indio is 10 minutes, and Highway 111 has plenty of options. Shields Date Garden is 5 minutes away and worth the trip."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

@@ -21,42 +21,6 @@ readTime: "7 min read"
 excerpt: "Most pet-friendly listings slap a policy in the fine print and call it a day. Casa Moto in Indio was designed with dogs in mind. Here's what that means in practice."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Pet-Friendly Vacation Rental in Coachella Valley: Casa Moto",
-      "description": "Pet-friendly vacation rental in Coachella Valley: Casa Moto in Indio was built for dogs. Enclosed yard, tile floors, saltwater pool. No carpet anywhere.",
-      "image": "https://indigopalm.co/blog/images/pet-friendly-rental-dog.webp",
-      "datePublished": "2026-04-24",
-      "dateModified": "2026-05-23",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/casa-moto-pet-friendly-desert/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Pet-Friendly Vacation Rental in Coachella Valley: Casa Moto", "item": "https://indigopalm.co/blog/casa-moto-pet-friendly-desert/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>When I started designing Casa Moto, "pet-friendly" was on the list. It's on most lists. The problem is that for most vacation rentals, "pet-friendly" means exactly one thing: there's a sentence in the listing rules that says dogs are allowed, probably with a $75 fee attached and a stern note about the furniture.</p>
 
@@ -149,6 +113,47 @@ layout: blog-post.njk
 
 <img src="/blog/images/ps-desert-valley-view.webp" alt="Coachella Valley desert view from above showing Indio and Palm Springs area where Casa Moto pet-friendly vacation rental is located" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Coachella Valley. Casa Moto is in Indio, right in the middle of all of this. Close enough to Palm Springs, far enough to feel like its own place.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Casa Moto pet-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Casa Moto in Indio welcomes dogs and was designed with pets in mind: fully enclosed backyard, thoughtful pet-specific details, and a design aesthetic that actually works with dogs in the space. There is a pet fee; details are on the listing page."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes a vacation rental actually pet-friendly versus just allowing pets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The difference shows up in the details: a properly enclosed outdoor space (so you don't have to monitor the fence), design that's meant to be used rather than displayed, and a neighborhood that works for dog walks. Most pet-allowed listings stop at the policy; a genuinely pet-friendly property is designed around the actual experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Coachella Valley good for dogs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially in the shoulder seasons: March, April, October, November. Spring and fall mornings in Indio are genuinely good for dog walks: wide sidewalks, quiet streets, and temperatures that stay comfortable well into mid-morning. Summer requires planning: early walks, paw protection on hot pavement, shade and water. The enclosed backyard at Casa Moto helps with summer stays since the dog can be outside without the pavement risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What dog-friendly activities are near Casa Moto in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shields Date Garden (10 minutes, dog-tolerant outdoor space), the Indian Palms neighborhood walking paths, the Salton Sea (30-minute day trip, dogs welcome), and the date farms along Hwy 111. Spring and fall are the best seasons for most outdoor activities with dogs in the valley."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

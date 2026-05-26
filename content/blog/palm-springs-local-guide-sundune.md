@@ -22,42 +22,6 @@ readTime: "7 min read"
 excerpt: "Things to do in Palm Springs, from a local who eats here. Coffee, brunch, surf, botanical, dinner, and drinks: the guide we give Sundune guests."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "The Sundune Palm Springs Local Guide: Coffee to Late Night",
-      "description": "Things to do in Palm Springs, from a local who eats here. The Sundune's guide: coffee, brunch, surf, botanical, dinner, and drinks worth knowing about.",
-      "image": "https://indigopalm.co/blog/images/palm-springs-local-guide-sundune.webp",
-      "datePublished": "2026-01-24",
-      "dateModified": "2026-01-24",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-local-guide-sundune/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "The Sundune Palm Springs Local Guide: Coffee to Late Night", "item": "https://indigopalm.co/blog/palm-springs-local-guide-sundune/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>I'm a surfer from Culver City who ended up owning vacation rentals in the Coachella Valley. Not a Palm Springs local, but I spend enough time here to say these recommendations are real. Not affiliate-coded, not algorithmic. This is the guide we give <a href="/the-sundune/">Sundune</a> guests.</p>
 
@@ -128,6 +92,55 @@ layout: blog-post.njk
 <hr style="border: none; border-top: 1px solid #ddd; margin: 3rem 0;">
 
 <p>There's a version of Palm Springs built entirely for first-timers: the Instagram midcentury shot, the pool selfie, the frozen rosé. That version is fine. But there's a quieter, more interesting version underneath, and that's what this guide points toward.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best coffee shop in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les Filles in Cathedral City is the most consistent, with a genuine European café approach. Koffi on N Palm Canyon Drive is the longtime local institution and opens at 6am, which matters when you're trying to beat the heat. Sottovoce at The Shops at Thirteen Forty-Five is worth it if you want something slower and more interesting to browse afterward."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat brunch in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Farm is the reliable group option, handles a table of six well. Wilma and Frieda's is the right call if you want the iconic cinnamon roll experience and don't mind waiting. The Front Porch, right next door to The Farm, is a Latin-inspired hole-in-the-wall that earns a separate visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs Surf Club worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if surfing is your thing or you want to try it in a controlled environment. Budget the whole day. The wave pool uses Wavegarden Cove technology and generates real, surfable sets. Non-surfers can eat and watch from the lounge side of the venue. Book sessions at least a week ahead on weekends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Moorten Botanical Garden like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small, quiet, and worth going slowly. Over 3,000 cacti and succulents from around the world on about an acre of land in the middle of Palm Springs. Go at golden hour and give yourself at least an hour. It costs a few dollars and stays with you longer than most things you'll pay more for."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where do locals drink in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

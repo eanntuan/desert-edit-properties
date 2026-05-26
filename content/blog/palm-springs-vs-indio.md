@@ -23,42 +23,6 @@ readTime: "8 min read"
 excerpt: "Neither is the wrong choice. But one is clearly right for your trip, depending on what you want. Here's the honest breakdown."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Palm Springs vs Indio: 25 Miles, Very Different Trips",
-      "description": "Indio is 25 miles from Palm Springs, 30-40% cheaper per night, and 2 miles from the Coachella stage. Here's which base makes more sense for your trip.",
-      "image": "https://indigopalm.co/blog/images/blog-hero-palm-springs.webp",
-      "datePublished": "2026-02-05",
-      "dateModified": "2026-04-11",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-vs-indio/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Palm Springs vs Indio: 25 Miles, Very Different Trips", "item": "https://indigopalm.co/blog/palm-springs-vs-indio/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>The most common question we get from people booking a desert trip: should you stay in Palm Springs or closer to Indio? It's a real question with a real answer, and the answer depends entirely on what your group wants from the trip. I own properties in both areas, so I have no incentive to push one over the other. Here's what matters.</p>
 
@@ -181,6 +145,47 @@ layout: blog-post.njk
 
 <p>In Palm Springs, <a href="/the-sundune/">The Sundune</a> is our 2-bedroom near downtown. Coastal-desert aesthetic, walkable to the main drag, good for couples or a small group who want the walkable Palm Springs experience.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far is Indio from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 30 miles, which is typically 30 to 40 minutes without traffic on the I-10. During Coachella or Stagecoach festival days, that drive can stretch to an hour or more in the evenings. It's a short enough distance to day-trip between the two, but long enough that staying in the wrong city can cost you a lot of time over a weekend."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs or Indio better for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio is the clear choice for Coachella or Stagecoach. The Empire Polo Club is in Indio, so staying locally means a 5–15 minute drive versus 30–60 minutes from Palm Springs. You save money on rideshares, you can actually go back to the house between afternoon and evening sets, and you avoid the surge pricing nightmare that hits Palm Springs rideshares on festival weekends. For the full breakdown on where to stay during festival week, the Coachella accommodation guide covers neighborhoods, timing, and what to book first."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Indio cheaper than Palm Springs for vacation rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally yes, and significantly so for larger properties. A 3-bedroom with a private pool in Indio typically runs 30–50% less per night than a comparable space in Palm Springs. You're trading walkability and design prestige for space, outdoor room, and value. That's the right trade for most groups."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you visit Palm Springs as a day trip from Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Easily. The drive is about 30 minutes. Many guests staying at our Indio properties spend a day in Palm Springs doing the architecture walk, lunch, and afternoon shopping, then come back to cook dinner and use the pool. You get the best of both without paying Palm Springs nightly rates for the whole trip."
+      }
+    }
+  ]
+}
+</script>
+
 <h2>Frequently Asked Questions</h2>
 
 <h3>How far is Indio from Palm Springs?</h3>
@@ -199,5 +204,4 @@ layout: blog-post.njk
 <p class="image-caption">Palm Springs at sunset. Whether you're staying there or just visiting for the day, at least one evening like this is worth planning for.</p>
 
 <p>If you want a deeper look at the whole valley, our <a href="/blog/coachella-valley-insider-guide/">Coachella Valley insider guide</a> breaks down every city and neighborhood worth knowing about. The desert is bigger than most people realize when they book.</p>
-
 

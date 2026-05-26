@@ -21,42 +21,6 @@ readTime: "5 min read"
 excerpt: "How a Latin/Cuban-inspired vacation rental in Indio became Terra Luz: sun-washed terracotta, Kahlo blue pool, and a brand philosophy that changed everything."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Terra Luz: How a Desert House Gets Its Name and Identity",
-      "description": "How a vacation rental in Indio became Terra Luz: sun-washed terracotta, a Kahlo blue pool, and a brand built on Latin warmth and desert light.",
-      "image": "https://indigopalm.co/blog/images/terra-luz-origin-hero.webp",
-      "datePublished": "2025-12-22",
-      "dateModified": "2025-12-22",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/terra-luz-origin-story/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Terra Luz: How a Desert House Gets Its Name and Identity", "item": "https://indigopalm.co/blog/terra-luz-origin-story/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>When we first bought this house in Indio, it was called "Pacino," after the street name, which felt about as romantic as naming your firstborn "Highway 111." Then came "Casa Moto," a nod to vintage motorcycles and mid-century vibes. Solid enough. But as the house started taking shape, something didn't fit.</p>
 

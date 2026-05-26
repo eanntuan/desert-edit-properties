@@ -23,42 +23,6 @@ readTime: "7 min read"
 excerpt: "Indio sits in the only part of the US where Medjool dates grow commercially. Here's where to go, what to taste, and why the date shake at Shield's is worth the detour."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Date Farms Near Indio: Shield's, Hadley's, and More",
-      "description": "The best date farms near Indio and Palm Springs: Shield's Date Garden, Hadley's, and where to find fresh Medjool dates in the Coachella Valley.",
-      "image": "https://indigopalm.co/blog/images/shields-date-garden.webp",
-      "datePublished": "2026-03-31",
-      "dateModified": "2026-05-08",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/date-farms-indio-coachella-valley/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Date Farms Near Indio: Shield's, Hadley's, and More", "item": "https://indigopalm.co/blog/date-farms-indio-coachella-valley/"}
-      ]
-    }
-  ]
-}
-</script>
 
 People who haven't been to the Coachella Valley are often surprised to learn that 95 percent of all US-grown dates come from here. Specifically from Indio, where long hot summers, low humidity, and alkaline soil replicate the Saharan conditions dates need to thrive.
 

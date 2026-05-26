@@ -24,42 +24,6 @@ readTime: "7 min read"
 excerpt: "Drive, shuttle, fly into PSP, or take Amtrak. What each option involves, with honest trade-offs for every type of traveler."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "How to Get from LAX to Palm Springs: Every Option Compared",
-      "description": "LAX to Palm Springs: drive, shuttle, fly into PSP, or Amtrak. Honest trade-offs for each option with real times and costs so you can plan before you book.",
-      "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
-      "datePublished": "2025-10-29",
-      "dateModified": "2025-12-11",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/lax-to-palm-springs/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "How to Get from LAX to Palm Springs: Every Option Compared", "item": "https://indigopalm.co/blog/lax-to-palm-springs/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>There's a moment on the I-10 East, somewhere past Banning, where the pass opens up and the Coachella Valley drops in front of you all at once. Palm trees, flat desert, mountains on three sides, and a sky that's a slightly different blue than the one you left behind in Los Angeles. If you're driving, this is the moment the trip starts.</p>
 
@@ -113,6 +77,47 @@ layout: blog-post.njk
 
 <img src="/blog/images/ps-desert-moonrise.webp" alt="Full moon rising over the Coachella Valley desert near Palm Springs at dusk" width="1200" height="1800" loading="lazy" decoding="async">
 <p class="image-caption">The valley at night. Worth staying for.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long is the drive from LAX to Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 2 hours without traffic, roughly 120 miles on the I-10 east. Friday afternoons or Sunday mornings can add 45 to 60 minutes. Check Google Maps before leaving the airport."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a shuttle from LAX to Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Shared shuttles run $100 to $150 per person and take 2.5 to 3 hours with stops. Best for solo travelers staying in walkable downtown Palm Springs who don't need a car."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it better to fly into LAX or PSP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PSP is more convenient if you can get a reasonable fare. LAX has more routes and often lower fares but adds the 2-hour drive. ONT is worth checking as a middle-ground. Run the numbers for your dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you get to Palm Springs without a car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can get there. Getting around the broader valley without one is difficult. Downtown Palm Springs is walkable. Anywhere else in the valley requires a car or rideshare."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

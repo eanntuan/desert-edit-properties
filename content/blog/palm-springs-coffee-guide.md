@@ -22,42 +22,6 @@ readTime: 4 min read
 excerpt: "Skip the hotel lobby drip. A local's guide to the 5 best coffee shops in Palm Springs and the Coachella Valley: where to go, what to order, and why it matters."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "5 Best Palm Springs Coffee Shops Locals Keep Going Back To",
-      "description": "Skip the hotel lobby drip. The 5 best coffee shops in Palm Springs and the Coachella Valley: where to go, what to order, and what makes each worth it.",
-      "image": "https://indigopalm.co/blog/images/coffee-lattes-hero.webp",
-      "datePublished": "2025-12-28",
-      "dateModified": "2025-12-28",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-coffee-guide/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "5 Best Palm Springs Coffee Shops Locals Keep Going Back To", "item": "https://indigopalm.co/blog/palm-springs-coffee-guide/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <img src="/blog/images/coffee-lattes-hero.webp" alt="Three coffee drinks held together at a Palm Springs coffee shop" loading="lazy" width="800" height="533">
 
@@ -137,6 +101,47 @@ layout: blog-post.njk
 <p>In summer, get your coffee run done before 9 AM. Not because the shops close, but because standing in a parking lot at 11 AM when it's 108°F is a character-building experience you only need once. In winter and spring, mornings in the valley are perfect: 65°F, clear sky, low wind. Take the long way back.</p>
 
 <p>If you want to know where to end the day after you've started it right, the <a href="/blog/palm-springs-bars/">Palm Springs bars guide</a> covers where to drink at night: tiki bars, rooftop spots, and the Arenas Road LGBTQ+ scene.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best coffee shop in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Koffi at the North Palm Canyon location is the local standard. It's been around for over 20 years, the outdoor patio is the right place to start a morning, and the iced latte is consistent. Cartel Coffee Lab at the Arrive Hotel is the right call if you want specialty single-origin coffee with serious sourcing behind it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there good coffee in Indio, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Everbloom Coffee on Highway 111 is the best in Indio: precise drinks, real ingredients, and a matcha latte that rivals anything in LA. Saguaro Coffee is a solid independent alternative with good outdoor seating and an unhurried pace. Both are within minutes of The Cozy Cactus and Terra Luz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Koffi in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Koffi has multiple locations. The flagship with the best outdoor seating is at 515 N Palm Canyon Dr. There's also a location at 1700 S Camino Real and a newer outpost further north. All three are worth knowing; the North Palm Canyon location is the right one for a slow morning with somewhere to sit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I order at Cartel Coffee Lab in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cold brew if you're visiting in the hot months. Their focus is on direct-trade, single-origin beans, so whatever pour-over or espresso they're featuring on a given day is usually the honest answer. The Arrive Hotel location is well-designed and worth stopping for even if coffee wasn't your original plan."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

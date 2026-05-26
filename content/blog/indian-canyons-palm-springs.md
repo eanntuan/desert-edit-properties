@@ -22,42 +22,6 @@ readTime: "7 min read"
 excerpt: "Indian Canyons is the easiest full-day outdoors activity near Palm Springs. Three canyons, one entry fee, and genuine California fan palm groves that have been here for thousands of years."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Indian Canyons Palm Springs: What to Know Before You Go",
-      "description": "Indian Canyons in Palm Springs: which canyon to hike, how long it takes, entry fees, parking, and the best time to visit the Agua Caliente tribal lands.",
-      "image": "https://indigopalm.co/blog/images/palm-canyon-oasis-trail.webp",
-      "datePublished": "2026-04-09",
-      "dateModified": "2026-05-16",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/indian-canyons-palm-springs/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Indian Canyons Palm Springs: What to Know Before You Go", "item": "https://indigopalm.co/blog/indian-canyons-palm-springs/"}
-      ]
-    }
-  ]
-}
-</script>
 
 Most people who visit Palm Springs spend their time on Palm Canyon Drive, then wonder if they should do the <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tram</strong></a>. Both are fine. But <a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Canyons</strong></a>, which sits at the southern edge of the city on Agua Caliente Band of Cahuilla Indians tribal land, is genuinely different from everything else you can do in the area.
 

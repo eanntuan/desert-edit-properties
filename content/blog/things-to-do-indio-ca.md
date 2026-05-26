@@ -22,42 +22,6 @@ readTime: "7 min read"
 excerpt: "Skip the recycled lists. Here are 15 things worth doing in Indio, CA: from date farms and desert hikes to a listening lounge that opened in a city nobody expected."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "15 Things to Do in Indio, CA: Local Guide to Hidden Gems",
-      "description": "15 things to do in Indio, CA in the Coachella Valley: date shakes, a vinyl listening lounge, Old Town, and spots most visitors never find on their own.",
-      "image": "https://indigopalm.co/blog/images/indio-sign-miles-ave.webp",
-      "datePublished": "2026-01-06",
-      "dateModified": "2026-01-06",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/things-to-do-indio-ca/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "15 Things to Do in Indio, CA: Local Guide to Hidden Gems", "item": "https://indigopalm.co/blog/things-to-do-indio-ca/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>If you Google "things to do in Indio, CA" right now, you'll get chain restaurants, a water park, and maybe a mention of Coachella. That's not wrong, it's just not the city. Indio is where the Coachella Valley gets real: working-class, date-palm-lined, with taquerias that don't have websites and music venues that opened without press releases.</p>
 

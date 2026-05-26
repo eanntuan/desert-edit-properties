@@ -30,42 +30,6 @@ relatedPosts:
   - title: "Where to Stay for Coachella"
     url: /blog/where-to-stay-coachella/
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Stagecoach 2027: Location, Lodging, and What to Book",
-      "description": "Stagecoach 2027 is at Empire Polo Club in Indio, CA. Vacation rental 7 minutes from the stage beats hotels on price and sleep. Here's what to book first.",
-      "image": "https://indigopalm.co/blog/images/stagecoach-festival-crowd.webp",
-      "datePublished": "2026-02-11",
-      "dateModified": "2026-04-14",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/stagecoach-2027-where-to-stay/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Stagecoach 2027: Location, Lodging, and What to Book", "item": "https://indigopalm.co/blog/stagecoach-2027-where-to-stay/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p><a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach</strong></a> runs the last weekend of April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Same grounds as Coachella, different crowd, three days of country music, and one of the more interesting accommodation puzzles in live events because your options range from literal dirt camping to houses with private pools a 7-minute drive from the stage.</p>
 
@@ -159,5 +123,4 @@ relatedPosts:
 
 <h3>How early should I book a Stagecoach rental?</h3>
 <p>Stagecoach doesn't book out as aggressively as Coachella, but the best Indio vacation rentals within 10 minutes of the grounds go quickly once the lineup drops. Fall 2026 is the right window to start looking for 2027. By early spring, the private-pool properties in Indian Palms have limited availability at reasonable rates.</p>
-
 

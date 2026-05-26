@@ -23,42 +23,6 @@ readTime: "6 min read"
 excerpt: "First-timer or returning desert guest, here's what to pack, what the heat means for your schedule, and how to make the most of every day."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "First-Time Desert Vacation Prep: What You Need to Know",
-      "description": "First time in the Coachella Valley? What to pack, what to expect, and how to make the most of desert heat, morning light, and pool days when you arrive.",
-      "image": "https://indigopalm.co/blog/images/ps-desert-valley-view.webp",
-      "datePublished": "2026-02-02",
-      "dateModified": "2026-02-02",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/desert-vacation-prep/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "First-Time Desert Vacation Prep: What You Need to Know", "item": "https://indigopalm.co/blog/desert-vacation-prep/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>The Coachella Valley does one thing most people don't expect: it changes your pace. Not just slows it down. Changes it. The mornings are cool and still and pink at the edges. By 2pm it's 95 degrees and you're making decisions about shade. By evening the temperature drops 20 degrees and suddenly the whole day resets.</p>
 
@@ -140,6 +104,47 @@ layout: blog-post.njk
 <p>The desert has a way of slowing people down. Not everyone knows what to do when their nervous system finally stops running. Give it a day. By day two, most guests have figured out the pace. They stop trying to fill every hour. They sit by the pool longer than planned. They eat dinner slowly.</p>
 
 <p>That's the whole point. The house is set up for it. The desert helps.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the single most important thing to pack for a desert vacation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sun protection that you'll actually use consistently. SPF 50+, a hat with a real brim, UV-blocking sunglasses. The desert sun reflects off sand, pavement, and pool surfaces simultaneously. People who burn in the desert almost always underestimated how fast it happens."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a car in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The valley stretches 45 miles from Palm Springs to Indio and there's no meaningful public transit between cities. Rideshare exists but runs slow and expensive on busy festival weekends. Rent a car or bring your own. If you're based in Indio, many morning activities are a 10-15 minute drive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I plan around the desert heat if I'm visiting in summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The two-window system works: be outside before 10am and after 5pm. Block the afternoon for pool time, indoor activities, or rest. Guests who fight this schedule spend the trip sweaty and frustrated. The ones who lean into it usually say it's the most relaxed vacation they've taken in years."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know about pool etiquette at vacation rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Private pools are yours for the stay. Community pools have posted hours (typically closing at 10pm), shared lanes, and rules about glass and noise. Know which one your rental has before you book, and plan accordingly. If the pool is private and heated, it becomes the organizing principle of the trip in the best way."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

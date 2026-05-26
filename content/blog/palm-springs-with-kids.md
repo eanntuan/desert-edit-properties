@@ -22,42 +22,6 @@ readTime: "7 min read"
 excerpt: "Palm Springs with kids works better than you'd think. Here's where to go, what to skip, and why a walkable 2-bedroom is the right home base for a family of four."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Palm Springs with Kids: Complete Guide to a Family Trip",
-      "description": "Palm Springs with kids is more doable than most people expect. Here's what works: activities, food, and a walkable home base at The Sundune.",
-      "image": "https://indigopalm.co/blog/images/palm-springs-kids-vacation.webp",
-      "datePublished": "2026-03-10",
-      "dateModified": "2026-03-10",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-with-kids/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Palm Springs with Kids: Complete Guide to a Family Trip", "item": "https://indigopalm.co/blog/palm-springs-with-kids/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Most people associate Palm Springs with bachelorette weekends and golf retirees. It's fair. But I've hosted a lot of families at <a href="/the-sundune/">The Sundune</a>, and the pattern is always the same: they arrive a little unsure, leave totally sold, and immediately start asking about repeat availability.</p>
 
@@ -161,6 +125,47 @@ layout: blog-post.njk
 <p>The families who leave happiest are the ones who came in knowing that. They picked two or three actual things to do each day, built in pool time, and didn't try to turn it into Disneyland.</p>
 
 <p>It works. You just have to let it be what it is.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs good for young kids and toddlers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with some planning. The Living Desert Zoo is excellent for toddlers, Bear Creek Trail is stroller-friendly, and a condo with a kitchen and pool changes the daily rhythm significantly. The main challenge is heat: desert spring and summer temperatures peak in the early afternoon, so morning activities and afternoon pool time is the practical rhythm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What age is the Palm Springs Aerial Tram appropriate for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I'd say 8 and up is the comfortable range. The tram car itself is fine for younger kids, but the destination at the top is cold, exposed, and alpine, which can be hard for very young children who aren't dressed for it or patient enough for the experience. Older kids who like heights and outdoor stuff tend to love it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is the Living Desert from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 20 minutes, in Palm Desert. It's a straightforward drive on Highway 111. Plan for it to be an anchor activity, not a quick stop: budget 2.5 to 3 hours to actually see it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune suitable for a family with a baby or toddler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We keep a Pack 'n Play and high chair available, the community pool is a one-minute walk, and the two-bedroom layout gives parents actual separation from kids at night. It fits a family of four comfortably. For families of 5 or more, the Cozy Cactus in Indio is the better fit."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

@@ -20,42 +20,6 @@ readTime: "7 min read"
 excerpt: "Arenas Road, White Party, Dinah Shore, Pride in November. The practical guide to Palm Springs as one of the most established LGBTQ+ destinations in California."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Palm Springs LGBTQ+ Guide: Bars, Events, and Where to Stay",
-      "description": "Arenas Road bars, White Party, Dinah Shore Weekend, Pride in November. The honest practical guide to Palm Springs as a top LGBTQ+ destination.",
-      "image": "https://indigopalm.co/blog/images/palm-springs-bar-cocktails.webp",
-      "datePublished": "2026-05-24",
-      "dateModified": "2026-05-24",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-lgbtq-guide/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Palm Springs LGBTQ+ Guide: Bars, Events, and Where to Stay", "item": "https://indigopalm.co/blog/palm-springs-lgbtq-guide/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Palm Springs has been a gathering place for LGBTQ+ travelers since the 1970s, when the gay community began buying up the midcentury motels along the main corridors. Today it's one of the most established LGBTQ+ destinations in the country, with a city government that's been majority LGBTQ+ for decades, an Arenas Road bar district that functions as the social hub, and a calendar of annual events that draws people from across California and well beyond.</p>
 
@@ -128,6 +92,55 @@ layout: blog-post.njk
 <p>For the restaurant side, the <a href="/blog/best-restaurants-palm-springs/">best restaurants in Palm Springs guide</a> covers the broader dining scene. Arenas Road itself has a few restaurant options (Draughtsman is a solid pub option if you want food while you're in the district), but most people eat elsewhere and come to Arenas for drinks and nightlife.</p>
 
 <p>For a fuller picture of the neighborhood and how to spend your days in Palm Springs, the <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide</a> covers the city from the perspective of a guest staying in the Sunrise Park area.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs a good destination for LGBTQ+ travelers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, one of the most established in the country. The city has had LGBTQ+ mayors and council majorities for years, and the Arenas Road bar district has been a gathering hub since the 1970s. Public displays of affection are completely normal throughout the city, not just on Arenas Road."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is White Party Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "White Party typically runs over four days in mid-April, usually the weekend after Coachella. Book accommodation months in advance. It's one of the biggest fundraising events for HIV/AIDS organizations in the country and draws tens of thousands of visitors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is The Dinah Shore Weekend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Dinah, held in late March or early April, is the largest lesbian event in the world. The weekend runs pool parties, concerts, comedy shows, and a full schedule of events centered at one of the main hotels. It's been running for over 30 years."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What bars are on Arenas Road in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main anchors are Hunters Nightclub (dance bar, drag shows nightly), The Barracks (leather and Levi's, pool tables), Toucan's Tiki Lounge (neighborhood bar, drag shows), Chill Bar, and Quadz Video Bar. Bar Cecil on N Palm Canyon Drive is a 10-minute walk and worth adding for cocktails before the strip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is Palm Springs Pride?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first full weekend in November. A street festival on Saturday, a parade on Sunday morning, and venues running events throughout the weekend. The November timing means ideal weather, with daytime highs in the mid-70s."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

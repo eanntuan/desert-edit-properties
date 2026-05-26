@@ -21,42 +21,6 @@ readTime: "8 min read"
 excerpt: "From labeling drawers to Stokke high chairs, here's what makes The Cozy Cactus a family vacation rental in Indio where parents rest, not just survive."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Inside The Cozy Cactus: A Vacation Home Built for Families",
-      "description": "From labeled drawers to Stokke high chairs, here is what makes The Cozy Cactus a family Airbnb in Indio where parents rest, not just survive.",
-      "image": "https://indigopalm.co/blog/images/cozy-cactus-exterior.webp",
-      "datePublished": "2025-12-07",
-      "dateModified": "2025-12-07",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/cozy-cactus-what-i-built/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Inside The Cozy Cactus: A Vacation Home Built for Families", "item": "https://indigopalm.co/blog/cozy-cactus-what-i-built/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <div class="series-badge">Part 2 of 2 · <a href="/blog/cozy-cactus-origin-story/">Read Part 1</a></div>
 
@@ -134,6 +98,47 @@ layout: blog-post.njk
 <p>A family of five checked out and told me it was "the first time we have truly rested during our vacation with our 3 children." Not just visited a different location. Rested. That's the whole point.</p>
 
 <p>I have repeat guests. Groups who come back for Coachella every year. Couples who stayed before they had kids, then came back with infants because they trusted the setup. Even adults with no children who just want a well-organized house, a good coffee bar, and a pool without suspicious floaties from the previous guests. (Always clean. Non-negotiable.)</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long did it take to furnish The Cozy Cactus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several months of active collecting, starting on a Facebook Marketplace habit and ending when Dawn Asher came in and gave everything a framework. The bones (white walls, LVP flooring, modern light fixtures) came first. The design layer came after. The family infrastructure layer came last, and it's the part guests mention most in reviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why did you replace all the ceiling fixtures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every room had the same round frosted-glass globe fixture from approximately 1994. They made even freshly-painted white walls feel like a waiting room. Swapping them for simple modern fixtures was one of the cheapest and highest-impact changes in the whole renovation. Good light changes how a room feels before anything else does."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the baby gear at The Cozy Cactus really that different from other rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most rentals have a pack-n-play with the included foam insert, which is thin enough that babies sleep badly on it. The Cozy Cactus has a real crib mattress on the pack-n-play. That one detail has come up in reviews from parents who hadn't expected to sleep well on a trip with an infant. The Stokke high chair, sound machines in every room, and bottle warmer round out a setup that most rental properties treat as optional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does it actually cost to furnish a vacation rental from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "More than you think, less than you fear. The mix of West Elm and Facebook Marketplace kept costs manageable, but there were no shortcuts on the family gear and the kitchen setup. The $30 knife sharpener, the matching Tupperware lids, the bottle warmer: individually small, collectively the thing that separates a rental guests recommend from one they endure."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

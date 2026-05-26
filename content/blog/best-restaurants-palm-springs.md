@@ -26,42 +26,6 @@ readTime: "10 min read"
 excerpt: "15 Palm Springs restaurants worth your time in 2026, with addresses, hours, and what to order. From a Michelin-recommended industrial dining room to a Rat Pack-era supper club."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Best Restaurants in Palm Springs: 15 Local Picks (2026)",
-      "description": "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included.",
-      "image": "https://indigopalm.co/blog/images/bar-cecil.webp",
-      "datePublished": "2026-02-17",
-      "dateModified": "2026-04-18",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/best-restaurants-palm-springs/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Best Restaurants in Palm Springs: 15 Local Picks (2026)", "item": "https://indigopalm.co/blog/best-restaurants-palm-springs/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>You're sitting outside at 8pm. The temperature is finally dropping below 90, and the San Jacinto Mountains are turning dark purple behind whoever is across the table from you. That two-hour window, after the heat breaks and before the night fully sets, is when Palm Springs dining makes the most sense. Everything tastes better outside in the desert when the air finally cooperates.</p>
 
@@ -249,6 +213,63 @@ layout: blog-post.njk
 <p>Downtown parking: use the structure on Amado Road, park once, and walk the full Palm Canyon corridor. The Design District stretch at 500-800 N Palm Canyon has street parking that opens up after 6pm. Reservations matter most at Workshop, Copley's, and Trio on weekends. Cheeky's and FARM breakfast/lunch are walk-in only.</p>
 
 <p>If you're deciding between Palm Springs and Indio for your base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> covers the trade-offs in detail. If you're staying at <a href="/the-sundune/">The Sundune</a>, most of these restaurants are within a 10-minute drive. And if you want a drink before or after dinner, the <a href="/blog/palm-springs-bars/">Palm Springs bars guide</a> covers the cocktail side of the same neighborhoods.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best restaurants in Palm Springs for brunch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cheeky's is the most well-known, with a rotating seasonal menu and the bacon flight that people plan trips around. It's walk-in only, so arrive before 9am on weekends. FARM in La Plaza is a quieter option with a beautiful courtyard and French-inspired cooking. Wilma &amp; Frieda's is best for groups who want comfort food and something to talk about (the pop tart)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best outdoor dining restaurants in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Escena Grill has the best view in the city, a full golf course patio with the mountains behind it. Copley's has the most atmospheric outdoor setup, a shaded patio on the former Cary Grant estate. Birba has a tree-lined patio in the Design District. The Tropicale patio is the right call if you want the full mid-century Palm Springs feel. Koffi North's courtyard is the best morning option."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat in Palm Springs with views?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Escena Grill is the clear answer for mountain and golf course views. Workshop Kitchen + Bar has a courtyard with good natural light. Cheeky's outdoor patio looks toward the mountains. For a city view from a rooftop, check the bar scene at the Thompson Hotel or Saguaro Hotel rather than the restaurant category."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat near Coachella in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most of these restaurants are 30-45 minutes from the Coachella/Stagecoach grounds. Tac/Quila and Rooster and the Pig are the best bets for a pre-festival meal: quick, excellent, and won't put you in a food coma. If you're staying closer to Indio, check the Indio area guide for options in that direction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do Palm Springs restaurants take reservations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workshop, Trio, Copley's, Escena, and The Tropicale all take reservations and it's worth using them on weekends. Cheeky's and FARM breakfast/lunch are walk-in only. Most restaurants in the Design District are first-come for the bar and walk-in for the patio when available. Check each restaurant's site before you go since policies shift seasonally."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat in Palm Springs on a budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Heyday for lunch. Tac/Quila for lunch or early dinner. Koffi for a proper coffee and something baked. Happy hour at Escena runs 2pm-close on some days and the patio comes with no surcharge."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

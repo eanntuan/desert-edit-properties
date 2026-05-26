@@ -24,42 +24,6 @@ readTime: "6 min read"
 excerpt: "A wave pool in the middle of the desert. What Palm Springs Surf Club is, who it's for, and what to book before you show up empty-handed."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Palm Springs Surf Club: Prices, Hours, and Honest Review",
-      "description": "Palm Springs Surf Club day passes run $100-250 depending on level. Open daily until 8pm. Book 1-2 weeks ahead on weekends. What to know before you go.",
-      "image": "https://indigopalm.co/blog/images/pssc-wave-pool-reflection.webp",
-      "datePublished": "2025-12-04",
-      "dateModified": "2026-02-11",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-surf-club/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Palm Springs Surf Club: Prices, Hours, and Honest Review", "item": "https://indigopalm.co/blog/palm-springs-surf-club/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <table class="comparison-table">
   <thead>
@@ -160,6 +124,46 @@ layout: blog-post.njk
 <img src="/blog/images/pssc-restaurant-pool-view.webp" alt="PSSC restaurant terrace with diners overlooking the wave pool lounge and desert mountains at Palm Springs Surf Club" width="1400" height="933" loading="lazy">
 <p class="image-caption">The restaurant at PSSC overlooks the full venue. If you're bringing people who aren't surfing, this is where they'll be. Solid food and a genuinely good view.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you need to know how to surf to go to Palm Springs Surf Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The beginner session includes soft-top boards and structured coaching. Most people stand up at least once during a first visit. Book your session in advance at palmspringssurfclub.com. Don't show up without a reservation and expect to get in on a weekend."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs Surf Club worth it for non-surfers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends what you want. There's a restaurant, bar, and seating area where non-surfers can hang while others surf. It's a fine way to spend a few hours if you're with a group. But if nobody in your group surfs and you're not interested in lessons, a private rental pool is probably a better use of your afternoon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Palm Springs Surf Club from downtown Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 10 minutes by car. It's technically in Cathedral City, but the border between the two cities is seamless. From Indio, it's approximately 25 to 30 minutes west on I-10."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to go to Palm Springs Surf Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through May. The weather cooperates, the mountain backdrop looks good, and the full experience clicks into place when it's not 110 degrees outside. Summer works if you go early in the morning before the heat peaks. Check the website for seasonal hours before planning your trip."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

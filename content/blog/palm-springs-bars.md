@@ -28,42 +28,6 @@ readTime: "10 min read"
 excerpt: "From the best margaritas in the desert to drag shows on Arenas Road, here's where to drink in Palm Springs. 11 real spots organized by vibe. No sponsored picks."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Best Bars in Palm Springs: Where Locals Drink in 2026",
-      "description": "From margaritas at La Perlita to drag at Toucans, here are the 11 best bars in Palm Springs for 2026. Real spots, no sponsored picks, organized by vibe.",
-      "image": "https://indigopalm.co/blog/images/palm-springs-bar-cocktails.webp",
-      "datePublished": "2026-03-04",
-      "dateModified": "2026-04-21",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-bars/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Best Bars in Palm Springs: Where Locals Drink in 2026", "item": "https://indigopalm.co/blog/palm-springs-bars/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>I put this list together for guests at <a href="/the-sundune/">The Sundune</a>, my 2-bedroom walkable condo in Palm Springs. These are the spots I'd tell a friend about. Some are within walking distance of the property. Others require a car. I'm going to be clear about which is which, because a $30 Uber home at midnight changes the math.</p>
 
@@ -285,6 +249,47 @@ layout: blog-post.njk
     </tr>
   </tbody>
 </table>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best gay bars in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arenas Road is the center of Palm Springs LGBTQ+ nightlife, one block east of Palm Canyon Drive. Hunters (302 E Arenas Rd) is the main dance club, open daily until 2am. Toucans Tiki Lounge (2100 N Palm Canyon Dr) runs the city's longest-running drag shows including Saturday brunch drag at 1pm. Village Pub on Palm Canyon also has a welcoming crowd and DJs until 2am. All three are within walking distance of each other."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there rooftop bars in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rooftop 262 at 262 S Palm Canyon Drive is the most prominent rooftop bar in downtown Palm Springs, with views of the San Jacinto Mountains. It gets busiest Thursday through Saturday after 9pm. Several hotel bars also have rooftop or elevated patios, but Rooftop 262 is the dedicated rooftop venue on the main strip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Palm Springs bars are open late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hunters and Village Pub are both open until 2am daily. Toucans is open until 2am on Fridays and Saturdays. Bootlegger Tiki closes at 11pm on weekdays and 1am on weekends. Seymour's runs until midnight. Sherman's Deli is the late-night food option if you need to eat after everything else closes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the bar scene like near downtown Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Palm Canyon Drive and Arenas Road cover most of what you need within a few walkable blocks. Palm Canyon has the cocktail bars, rooftop spots, and restaurant lounges. Arenas is one block east and is the LGBTQ+ and nightclub strip. Most venues are open until 2am on weekends. The strip is compact enough that you can walk between spots without needing a rideshare."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

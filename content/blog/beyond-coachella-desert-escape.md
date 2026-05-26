@@ -24,42 +24,6 @@ readTime: "7 min read"
 excerpt: "Most people only think of the Coachella Valley during festival season. Here's why every season in the desert is worth the trip, and how to plan it."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Coachella Valley Beyond the Festival: A Year-Round Guide",
-      "description": "The Coachella Valley is worth visiting any time of year. Hiking, hot springs, desert towns, and rental prices 40% below festival season.",
-      "image": "https://indigopalm.co/blog/images/cozy-cactus-pool.webp",
-      "datePublished": "2025-12-16",
-      "dateModified": "2026-02-26",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/beyond-coachella-desert-escape/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Coachella Valley Beyond the Festival: A Year-Round Guide", "item": "https://indigopalm.co/blog/beyond-coachella-desert-escape/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>October in the Coachella Valley: the crowds are gone, the dates are being harvested, and the light in the afternoon turns a specific shade of amber that makes you want to sit outside and not move. The pool is still warm enough to use. The nights drop to the low 60s. The mountains go pink at dusk. You will not want to leave.</p>
 
@@ -154,6 +118,47 @@ layout: blog-post.njk
 <p>If you're planning a trip out here, <a href="/terra-luz/">Terra Luz</a> is our Indio home base: private saltwater pool, covered patio with pergola, and 10 minutes from everything in this guide.</p>
 
 <p><a href="/blog/terra-luz-origin-story/">Terra Luz</a> is our love letter to this place. Whether you're coming for Coachella, escaping winter, or just need a long weekend to reset, the Coachella Valley is waiting.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit the Coachella Valley outside of festival season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October and November are the best-kept window in the valley. Temperatures drop to the mid-70s to low-80s by October, the summer crowds are gone, and prices are well below peak. November in particular hits a low-humidity sweet spot that makes every outdoor activity feel easier. The dates are being harvested at the farms along Highway 111, which is its own reason to come."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Indio worth visiting if you're not going to Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Indio is the most affordable base in the valley for families and groups, and it sits in the middle of everything: Joshua Tree is 45 minutes north, the Salton Sea is 30 minutes south, Palm Springs is 30 minutes west. The local food scene in Indio, particularly the birria and taco spots on and off Highway 111, is worth the trip independent of any festival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Joshua Tree from the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 45 minutes from Indio and roughly an hour from Palm Springs, depending on which park entrance you're heading to. The Cottonwood entrance is closer to Indio. The North Entrance near Joshua Tree town is more accessible from Palm Springs. Either works as a day trip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is there to do in the Coachella Valley in summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Summer is pool season. The valley clears out, rates drop, and a private pool with no shared-space rules is the whole itinerary. Early morning Joshua Tree hikes are possible before 9am. The Palm Springs Art Museum and aerial tramway are the best midday options. Night swims when the air finally drops below 90°F are a specific pleasure that doesn't exist anywhere else."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

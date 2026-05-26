@@ -20,42 +20,6 @@ readTime: "7 min read"
 excerpt: "Desert Hot Springs is 20 minutes from Indio. Here are the 7 mineral pool spots worth knowing, from free public soaks to full spa days at Two Bunch Palms."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Desert Hot Springs Day Trip: 7 Mineral Pools Worth Visiting",
-      "description": "7 mineral pool spots near Indio and Palm Springs: from free public soaks to full-day spa passes. Two Bunch Palms, Azure Palm, Miracle Springs, and more.",
-      "image": "https://indigopalm.co/blog/images/cozy-cactus-hot-tub.webp",
-      "datePublished": "2026-05-24",
-      "dateModified": "2026-05-24",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/desert-hot-springs-day-trip/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Desert Hot Springs Day Trip: 7 Mineral Pools Worth Visiting", "item": "https://indigopalm.co/blog/desert-hot-springs-day-trip/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Desert Hot Springs is one of those places guests mention they meant to visit and then ran out of time. It's 20 minutes from Terra Luz and The Cozy Cactus, the drive is a straight shot up Gene Autry Trail, and the mineral water there is the real thing: geothermal, naturally hot, no chemical tricks. If you have one afternoon with nothing locked in, this is a good way to spend it.</p>
 
@@ -126,6 +90,47 @@ layout: blog-post.njk
 <p>Looking for more things to do near the Indio properties? The <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the best spots in and around town, and the <a href="/blog/salton-sea-day-trip/">Salton Sea day trip guide</a> covers the other direction if you want something more atmospheric.</p>
 
 <h2>Indio Is Your Base</h2>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you need a reservation for Desert Hot Springs mineral pools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Two Bunch Palms and Azure Palm, yes. Both book out, especially on weekends and in spring. Sam's Family Spa and the public city pools are more walk-in friendly. Call ahead for any resort you're planning to visit on a Friday or Saturday."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between a day pass and a private pool rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A day pass at most resorts gives you access to the communal mineral pool areas for a set window of time. Azure Palm operates differently: you book a private outdoor mineral pool by the hour rather than joining a shared space. Good for couples or anyone who wants the mineral soak without the communal setting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Desert Hot Springs worth visiting in summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It works, but the calculus changes when it's already 105 degrees outside. Soaking in 104-degree mineral water in summer heat is a different experience than doing it on a mild October afternoon. If you're going in summer, aim for mid-morning before the air temperature peaks, and stick to pools with shade structures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Desert Hot Springs from The Cozy Cactus and Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 20 minutes north of Indio, straight up Gene Autry Trail. Both properties make a convenient base for a day trip to the mineral pools. Leave in the morning, soak for a few hours, and you're back in Indio in time for the pool and dinner."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

@@ -24,42 +24,6 @@ heroAlt: Colorful INDIO letter sign at Miles Avenue Park in Indio California wit
 heroPosition: center 90%
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "10 Indio CA Hidden Gems: Food, Drinks, and Local Spots",
-      "description": "Skip the tourist traps. Date shakes at L&G, smash burgers at Papa Headz, and a vinyl listening lounge most visitors drive right past. The real Indio, CA.",
-      "image": "https://indigopalm.co/blog/images/indio-sign-miles-ave.webp",
-      "datePublished": "2025-12-13",
-      "dateModified": "2026-02-20",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/indio-local-gems/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "10 Indio CA Hidden Gems: Food, Drinks, and Local Spots", "item": "https://indigopalm.co/blog/indio-local-gems/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>You're parked outside a small roadside shop on Jackson Street. The sign is hand-painted, slightly sun-faded, and surrounded by date palms that are actually producing dates. Inside, it smells like dried fruit and something caramel-warm. You're about to eat the best Medjool date of your life and wonder why nobody told you about this place.</p>
 
@@ -227,6 +191,47 @@ layout: blog-post.njk
 
 <img src="/blog/images/rosemary-hifi.webp" alt="Rosemary HiFi bar interior, cobalt blue tile, walnut shelving with vinyl records, 1960s JBL speakers, concrete bar, Indio CA" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">Cobalt blue tile, 1960s JBL speakers, a turntable built into the bar. The Coachella Valley's first listening lounge.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Indio worth visiting beyond Coachella festival weekends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and it's honestly better when the festival isn't happening. The restaurants are less crowded, the streets are quieter, and you can actually get a table at One Stop Taco Shop without planning around a line. Shields Date Garden, the Coachella Valley Preserve, and Rosemary HiFi are all here year-round."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best local restaurants in Indio, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One Stop Taco Shop for carne asada tacos, Papa Headz for smash burgers, and Thai Hot for drunken noodles that actually deliver real heat. For a more sit-down lunch, El Tranvia in nearby Coachella (10 minutes) has been doing birria since 1969, long before it became a trend."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Rosemary HiFi in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's the Coachella Valley's first vinyl listening lounge, in Old Town Indio. The owner's personal record collection plays through 1960s JBL speakers behind a custom walnut bar. They pour beer from Las Palmas Brewing and natural wines. Open Wednesday through Sunday from 4pm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Indio Tamale Festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An annual festival in Old Town Indio every first weekend of December, running for over 30 years. Hundreds of vendors, live music, and every style of tamale you can imagine. It's free to attend and gets busy by midday Saturday. Arrive early if you want the best vendor selection."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

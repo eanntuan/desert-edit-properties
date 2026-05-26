@@ -23,42 +23,6 @@ readTime: "6 min read"
 excerpt: "Stagecoach is in Indio, not Palm Springs. Staying in the right city changes the entire trip. Here's what you need to know about distance, driving, and where to book."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Stagecoach 2026: Best Places to Stay Near Indio, CA",
-      "description": "Stagecoach 2026 (April 25-27, Indio) with Post Malone headlining. Honest guide to where to stay, how far is too far, and what to know about the drive home.",
-      "image": "https://indigopalm.co/blog/images/cozy-cactus-aerial.webp",
-      "datePublished": "2026-02-08",
-      "dateModified": "2026-02-08",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/stagecoach-2026-where-to-stay/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Stagecoach 2026: Best Places to Stay Near Indio, CA", "item": "https://indigopalm.co/blog/stagecoach-2026-where-to-stay/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p style="background:#f5f3ee;border-left:3px solid #B67550;padding:1rem 1.25rem;margin-bottom:1.5rem;font-size:0.95rem;"><strong>Stagecoach 2026 is April 25-27.</strong> Already planning for next year? <a href="/blog/stagecoach-2027-where-to-stay/">Read the Stagecoach 2027 guide here.</a></p>
 

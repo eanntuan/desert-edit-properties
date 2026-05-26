@@ -20,42 +20,6 @@ readTime: "8 min read"
 excerpt: "A self-guided driving tour of Palm Springs midcentury architecture. Eight stops across Movie Colony, Vista Las Palmas, and Twin Palms, with golden hour timing and what to photograph."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Palm Springs Midcentury Architecture: Self-Guided Tour",
-      "description": "Self-guided driving tour of Palm Springs midcentury architecture. 8 stops, real addresses, Neutra, Frey, Wexler, and the best golden hour timing.",
-      "image": "https://indigopalm.co/blog/images/ps-midcentury-teal-door.webp",
-      "datePublished": "2026-05-24",
-      "dateModified": "2026-05-24",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-midcentury-architecture-tour/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Palm Springs Midcentury Architecture: Self-Guided Tour", "item": "https://indigopalm.co/blog/palm-springs-midcentury-architecture-tour/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Palm Springs has more midcentury modern architecture per square mile than anywhere else in the country. This is not marketing copy. The city became a weekend escape for Hollywood in the 1940s and 50s, and the architects who followed built in a style that fit the desert: flat roofs, wide overhangs, glass walls, carports instead of garages. Most of it is still standing, lived in, and walkable from the street.</p>
 
@@ -139,6 +103,55 @@ layout: blog-post.njk
 <p>For a neighborhood-by-neighborhood breakdown of where to sleep based on your trip type, the <a href="/blog/palm-springs-neighborhood-guide/">Palm Springs neighborhood guide</a> covers Movie Colony, Vista Las Palmas, Uptown, and more with honest trade-offs.</p>
 
 <p>The Sundune is 10 minutes from downtown Palm Springs and within walking distance of the Uptown Design District. If you're staying with us, you're already positioned to do this tour on arrival day without a car for most of it. More on the neighborhood in the <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide.</a></p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you see the Kaufmann Desert House from the street?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Kaufmann Desert House at 470 W Vista Chino is a private residence, but the exterior is visible from the street. You can see the horizontal rooflines, the post-and-beam structure, and the pool area from the sidewalk. Do not enter the property or approach the house. It's enough from the street to understand why Neutra's 1946 design defined desert modernism for decades after."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Modernism Week worth planning a trip around?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if midcentury architecture is a real interest rather than a casual one. The February event runs 11 days, opens private homes for interior tours, and includes architect talks and specialty bus tours. Tickets for the most popular home tours sell out months in advance. The Kaufmann House alone typically has a multi-hour wait, and it's worth every minute."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the self-guided tour take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget two to three hours for a relaxed driving tour with short walks at each stop. Photography-focused visitors tend to run longer. If you add the Art Museum stop, plan for an additional hour minimum. The route works as a half-day activity with time for coffee at the start and lunch afterward."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you need a guide, or can you do this tour alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can do this entirely on your own with a map and this guide. The Palm Springs Architectural Foundation offers guided walking and bus tours year-round if you want names, dates, and architectural context attached to what you're seeing. Their tours cover additional properties and neighborhoods not included in this self-guided route."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I park for the architecture tour?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For the Downtown starting point and Uptown Design District, use the public parking structure on Amado Road. For Vista Las Palmas and Old Las Palmas, street parking is available throughout but streets are narrow. Park once and walk a cluster of blocks rather than moving the car between stops."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

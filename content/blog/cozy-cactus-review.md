@@ -31,42 +31,6 @@ relatedPosts:
   - title: "Coachella Valley Vacation Rental Guide"
     url: /blog/coachella-valley-vacation-rental-guide/
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Cozy Cactus Vacation Rental in Indio: An Honest Review",
-      "description": "The Cozy Cactus in Indio: 4.97 stars, 146 reviews. Here's what guests consistently love, what to know before booking, and how it compares to other options.",
-      "image": "https://indigopalm.co/blog/images/cozy-cactus-review-hero.webp",
-      "datePublished": "2026-02-23",
-      "dateModified": "2026-02-23",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/cozy-cactus-review/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Cozy Cactus Vacation Rental in Indio: An Honest Review", "item": "https://indigopalm.co/blog/cozy-cactus-review/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>I'm Eann, and I built The Cozy Cactus for one specific person: the tired parent scrolling Airbnb at midnight, hoping to find a place where she might rest.</p>
 
@@ -132,6 +96,55 @@ relatedPosts:
 <h2>The Bigger Picture</h2>
 
 <p>The Cozy Cactus was built to give families somewhere to exhale. Somewhere that was already ready when they arrived, where the first night felt easy, and where the kids had something to do so the adults could sit on the patio with a glass of wine and feel, maybe for the first time in a while, like they were on vacation.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does The Cozy Cactus have a private pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The hot tub is private and on the property. The pool is community access through Indian Palms Country Club, steps from the back gate. If a private swimming pool is the priority, Terra Luz is 15 minutes away and has a private saltwater pool heated year-round."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Cozy Cactus pet-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a $100 pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay at The Cozy Cactus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum stays vary by season. During Coachella and Stagecoach festival weekends, the minimum is typically four nights. Off-peak periods often allow two or three-night stays. Current minimums are always visible when you search your specific dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly does the host respond to questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Response time has consistently come up in guest reviews as a standout feature. Most questions get answered within the hour, including evenings and weekends. Pre-booking questions are welcome and often answered faster than through Airbnb's messaging system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can The Cozy Cactus accommodate a group for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location puts you about 2.5 miles from Empire Polo Club, and the walk to the festival entrance takes 25-45 minutes depending on where you're starting in the community."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

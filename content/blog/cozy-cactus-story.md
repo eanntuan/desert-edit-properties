@@ -21,42 +21,6 @@ readTime: "8 min read"
 excerpt: "How a backup plan for a Honda Element became The Cozy Cactus: a family vacation rental where parents rest, now with 4.66 stars and 191+ reviews."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Cozy Cactus: How a Blank Canvas Became a Family Sanctuary",
-      "description": "A backup Honda Element plan became The Cozy Cactus: family vacation rental in Indio, CA. Now 4.97 stars and 146 reviews across three years of hosting.",
-      "image": "https://indigopalm.co/blog/images/cozy-cactus-exterior.webp",
-      "datePublished": "2025-11-25",
-      "dateModified": "2025-11-25",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/cozy-cactus-story/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Cozy Cactus: How a Blank Canvas Became a Family Sanctuary", "item": "https://indigopalm.co/blog/cozy-cactus-story/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>The backyard at The Cozy Cactus has a hot tub that sits maybe 15 feet from a putting green, backed by a mural of cacti and desert color that I picked partly because I liked it and partly because kids would lose their minds over it. On any given weekend, there's a toddler losing their mind over it while their parents drink coffee on the patio and, for the first time all trip, actually feel like they're on vacation. That specific scene is why I bought the place.</p>
 
@@ -147,6 +111,47 @@ layout: blog-post.njk
 <p class="image-caption">I joke that this mural was painted by a "local artist," aka yours truly. Took lots of measurements and painter's tape, but not too shabby!</p>
 
 <p>I'm not trying to win design awards, though we did get featured on a <a href="https://minoan.com/blog/host-spotlight-eann" target="_blank" rel="noopener noreferrer">Minoan blog post</a>! I'm trying to solve the problem of families who book a vacation rental and end up more exhausted than before they left. That's The Cozy Cactus. Families keep coming back. They don't just survive vacation. They enjoy it.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is The Cozy Cactus, exactly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 3-bedroom, 2-bathroom vacation rental in Indian Palms Country Club, Indio, CA. It was built from the ground up for families with young kids: gear closet stocked before you arrive, labeled kitchen, private hot tub, putting green, and a game room that absorbs the 2pm-to-5pm desert heat window. Sleeps up to 8."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes it different from other Airbnbs in the area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The intentionality in the setup. Most rentals have furniture and a pool. The Cozy Cactus has a Stokke high chair, a pack-n-play with a real crib mattress, sound machines in every bedroom, and a labeling system one guest called \"unprecedented in 10 years of Airbnb stays.\" The family infrastructure is built in, not bolted on."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Cozy Cactus good for Coachella and Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Indian Palms Country Club sits 2.5 miles from Empire Polo Club. The walk to the festival entrance takes 25-45 minutes. No shuttles, no surge pricing. Guests leave from the front door and walk there. The backyard and hot tub become the decompression zone between festival days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who designed The Cozy Cactus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The design vision came from Dawn Asher of The Olive Jar, a brand strategist and interior designer based in the desert. She brought the six-filter framework that governs every detail, from paint colors to linens to the mural in the backyard. I executed it with too many trips to HomeGoods and a Honda Element that fits more than it should."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

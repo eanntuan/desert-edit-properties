@@ -28,42 +28,6 @@ relatedPosts:
   - title: "How Far Is Indio from Palm Springs?"
     url: /blog/palm-springs-vs-indio/
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "The Sundune Palm Springs: What 40 Guests Actually Say",
-      "description": "The Sundune Palm Springs: 4.93 stars across 40 stays. What guests say about the 2BR condo, the walkable neighborhood, pool access, and what to expect.",
-      "image": "https://indigopalm.co/blog/images/sundune-palm-springs-condo.webp",
-      "datePublished": "2026-02-26",
-      "dateModified": "2026-02-26",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/sundune-palm-springs-review/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "The Sundune Palm Springs: What 40 Guests Actually Say", "item": "https://indigopalm.co/blog/sundune-palm-springs-review/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>The Sundune is our 2BR/2BA condo in central Palm Springs, 5 minutes on foot from Palm Canyon Drive. It has 4.93 stars across 40+ reviews on Airbnb. Here's what guests say about it, and what I'd tell you before you book.</p>
 
@@ -143,5 +107,4 @@ relatedPosts:
 
 <h3>When is the best time to stay at The Sundune?</h3>
 <p>March is the best month: mid-70s to low-80s, open restaurant tables, the desert at its most comfortable. October and November are nearly as good. The Sundune in summer works for guests who know the desert and plan accordingly, staying pool-based in the afternoon and out in the evening.</p>
-
 

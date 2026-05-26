@@ -20,42 +20,6 @@ readTime: "6 min read"
 excerpt: "Palm Springs is surprisingly dog-friendly, if you know where to go. The real guide to pet-friendly vacation rentals, restaurants, trails, and parks in the Coachella Valley."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Pet-Friendly Palm Springs: Honest Guide for Dog Owners",
-      "description": "Palm Springs is dog-friendly if you know where to look. The real guide to pet-friendly vacation rentals, restaurants, trails, and parks nearby.",
-      "image": "https://indigopalm.co/blog/images/cozy-cactus-backyard.webp",
-      "datePublished": "2026-01-03",
-      "dateModified": "2026-01-03",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/pet-friendly-palm-springs/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Pet-Friendly Palm Springs: Honest Guide for Dog Owners", "item": "https://indigopalm.co/blog/pet-friendly-palm-springs/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>The Coachella Valley has a dog problem, and by that I mean everyone brings their dog and nobody quite knows what to do with them. Hotels say "pet-friendly" and mean "we'll charge you $75 and ask you not to bring them to the pool." The gap between what you need and what's available is real.</p>
 
@@ -159,6 +123,55 @@ layout: blog-post.njk
 </ul>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you bring a dog to Palm Springs vacation rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most vacation rentals in the area do not allow pets. The ones that do have usually set up for it: tile or concrete floors, a fenced outdoor space, and a pet deposit or fee. We have two pet-friendly properties. Terra Luz in Indio accepts up to two dogs with a fenced backyard and private saltwater pool. The Sundune in Palm Springs accepts one dog with a community pool and walkable neighborhood. Email indigopalmco@gmail.com before booking to confirm your situation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Palm Canyon trail dog-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dogs on leash are allowed on most Palm Springs area trails, including Palm Canyon inside Indian Canyons. The entry fee is around $12 per adult and the canyon is one of the largest natural fan palm oases in North America. Go before 8am in any warm month. Pavement temperatures can hit 150 degrees by midday, which is dangerous for paws in 60 seconds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best season to bring a dog to Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through April. The pavement temperatures between May and September are dangerous for dogs, and the afternoon heat window is too long to manage safely. In peak season, go out before 8am and after 6pm for any outdoor dog activities. Bring more water than you think you need for both of you."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are dogs allowed at VillageFest in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. VillageFest runs every Thursday night on Palm Canyon Drive and dogs on leash are welcome and common. It's one of the better dog-friendly evening options in Palm Springs proper: street food, local vendors, and enough activity to keep a dog engaged without the stress of a crowded indoor space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What restaurants in Palm Springs allow dogs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California law allows dogs in outdoor dining areas when the restaurant permits it. In Palm Springs, Cheeky's, The Tropicale, Ernest Coffee, and Boozehounds all have dog-friendly patios. Boozehounds is the most explicitly dog-forward, with actual dog treats on hand. Keep your dog on leash or under the table and tip accordingly."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

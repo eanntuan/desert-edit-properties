@@ -21,42 +21,6 @@ readTime: "7 min read"
 excerpt: "Pink Cabana, Tía Carmen, Kitchen 86 on El Paseo. Palm Desert and Indian Wells are halfway between Palm Springs and Indio and have some of the best restaurants in the valley."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "5 Best Restaurants in Palm Desert: Local Picks for 2026",
-      "description": "Pink Cabana, Kitchen 86 on El Paseo, and a 30-year Italian institution. Palm Desert and Indian Wells restaurants worth knowing, organized by vibe.",
-      "image": "https://indigopalm.co/blog/images/palm-desert-restaurant-patio.webp",
-      "datePublished": "2026-02-20",
-      "dateModified": "2026-02-20",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/best-restaurants-palm-desert/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "5 Best Restaurants in Palm Desert: Local Picks for 2026", "item": "https://indigopalm.co/blog/best-restaurants-palm-desert/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Palm Desert and Indian Wells sit roughly halfway between Palm Springs and Indio along Highway 111, about 15 to 20 minutes from either. Most visitors either anchor in Palm Springs and never leave downtown, or stay near the festival grounds in Indio without venturing west. That leaves this stretch of the valley quietly to itself, which is part of why it has some of the best restaurants in the region.</p>
 
@@ -120,6 +84,47 @@ layout: blog-post.njk
 <p>El Paseo parking is easier than downtown Palm Springs. There are surface lots behind the boulevard on the south side. Park once and walk between Kitchen 86, Le Donne, and the galleries nearby.</p>
 
 <p>If you're deciding between Palm Springs and Indio for your base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers everything that matters for that decision. And if you're looking for Palm Springs-specific restaurants, the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurant guide</a> covers that stretch separately.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are Palm Desert restaurants open year-round?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most are open year-round, with reduced hours in summer (June through September). October through May is the busiest season. Check each restaurant's website before going in summer, as some reduce days or close for a few weeks in July or August."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is El Paseo worth visiting for dinner in Palm Desert?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Kitchen 86 and Le Donne are both solid options on the boulevard, and the walkable mile of galleries and boutiques makes it easy to spend a full evening there without planning much. It's a bit quieter than downtown Palm Springs, which is either a drawback or a feature depending on what you're after."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Palm Desert from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 15 to 20 minutes by car. It sits on Highway 111 between Palm Springs and Indio. From any of our Indio properties, Palm Desert is about 25 minutes west. From The Sundune in Palm Springs, it's 15 to 20 minutes east."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best restaurant in Indian Wells?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Pink Cabana at the Sands Hotel gets the most consistent mentions from people who eat around the valley regularly. The room, the food, and the cocktail program are all at the same level, which is rarer than it sounds in a resort area. Tía Carmen at the Hyatt is the other strong option for a proper dinner."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

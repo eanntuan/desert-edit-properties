@@ -19,42 +19,6 @@ readTime: "5 min read"
 excerpt: "Bieber showed up unannounced and reminded everyone why Coachella still surprises. Five things that moment taught us about booking a desert festival trip."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Justin Bieber at Coachella 2026: What Actually Happened",
-      "description": "Justin Bieber crashed Coachella 2026 and the internet lost its mind. What that moment means for your Indio vacation rental trip, and what comes next.",
-      "image": "https://indigopalm.co/blog/images/bieber-coachella-stage.webp",
-      "datePublished": "2026-03-01",
-      "dateModified": "2026-03-01",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/justin-bieber-coachella-2026/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Justin Bieber at Coachella 2026: What Actually Happened", "item": "https://indigopalm.co/blog/justin-bieber-coachella-2026/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Nobody had Justin Bieber on their <a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> 2026 bingo card. He walked onto the Sahara tent stage unannounced, no set list, no hype buildup, and the crowd just went sideways. The clips hit every platform inside 20 minutes. Search trends spiked 2,300% before he'd finished the third song.</p>
 
@@ -120,6 +84,47 @@ layout: blog-post.njk
 
 <p>Read the <a href="/blog/where-to-stay-coachella-2026/">full Coachella 2026 accommodation guide</a> for a breakdown of what's close, what it costs, and why Indio is the right base. And if you're figuring out what to do in the valley between festival weekends, the <a href="/blog/indio-between-coachella-weekends/">Indio between Coachella weekends guide</a> has you covered.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Did Justin Bieber perform at Coachella 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. He appeared unannounced at the Sahara tent stage during Coachella 2026 weekend one, performing without a set list to a crowd that had no idea he was coming. The clips reached every platform within minutes. It was the most-talked-about surprise of the festival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is the Coachella festival from vacation rentals in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Empire Polo Club in Indio is the festival site. Properties in Indio like The Cozy Cactus and Terra Luz are 7 to 10 minutes away with no freeway driving. Properties in Palm Springs are 25 to 30 miles west, which can translate to 35 minutes on a normal day or 90 minutes on a peak festival Saturday afternoon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When do Coachella 2027 tickets go on sale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally May 1 of the prior year, about eight days after Coachella 2026 wrapped. They sell out fast. If you want good Indio rental options within 10 minutes of the grounds, lock in housing before the ticket sale date. The best properties book up before the lineup is even announced."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a vacation rental better than a hotel for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a group of four or more, almost always yes. You get a private pool or hot tub to decompress in after long festival days, a full kitchen, and outdoor space for the late-night debrief. Hotel rooms have a midnight checkout energy that vacation rentals don't. The math on per-person cost usually favors the rental by weekend two."
+      }
+    }
+  ]
+}
+</script>
+
 <h2>Frequently Asked Questions</h2>
 
 <h3>Did Justin Bieber perform at Coachella 2026?</h3>
@@ -135,5 +140,4 @@ layout: blog-post.njk
 <p>For a group of four or more, almost always yes. You get a private pool or hot tub to decompress in after long festival days, a full kitchen, and outdoor space for the late-night debrief. Hotel rooms have a midnight checkout energy that vacation rentals don't. The math on per-person cost usually favors the rental by weekend two.</p>
 
 <p>Bieber showed up unannounced and somehow that felt like the most prepared move of the weekend. Know where you're sleeping, know how long it takes to get back there, and leave everything else open. That's the actual move.</p>
-
 

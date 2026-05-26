@@ -21,42 +21,6 @@ readTime: "8 min read"
 excerpt: "Wild Tropics wallpaper, terracotta tile floors, a Kahlo Blue closet, and a 1,100 sq ft patio rebuilt from the ground up. Here's what we made at Terra Luz."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Terra Luz Renovation: How We Rebuilt the House Room by Room",
-      "description": "Terra Luz renovation: Wild Tropics wallpaper, terracotta tile, Kahlo Blue pool deck, and a Latin/Cuban design rebuilt room by room. What we made and why.",
-      "image": "https://indigopalm.co/blog/images/terra-luz-pool-backyard.webp",
-      "datePublished": "2026-05-06",
-      "dateModified": "2026-05-06",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/terra-luz-renovation-story/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Terra Luz Renovation: How We Rebuilt the House Room by Room", "item": "https://indigopalm.co/blog/terra-luz-renovation-story/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>When I bought this house, it was called Casa Moto. Beige walls, basic fixtures, a pool that looked like every other pool in the neighborhood. Nothing wrong with it. Nothing memorable about it either.</p>
 

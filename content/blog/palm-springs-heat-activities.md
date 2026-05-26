@@ -22,42 +22,6 @@ readTime: "6 min read"
 excerpt: "When the thermometer hits 110°F in Palm Springs, you need a plan that isn't a hiking trail. Here's what to do when the desert floor is genuinely brutal."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Things to Do in Palm Springs When It's 110 Degrees",
-      "description": "Palm Springs summer heat hits 110°F+. Here are the best indoor and cool-off activities: escape rooms, ice skating, and free museum Thursdays.",
-      "image": "https://indigopalm.co/blog/images/palm-springs-summer-pool.webp",
-      "datePublished": "2026-03-07",
-      "dateModified": "2026-03-07",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-heat-activities/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Things to Do in Palm Springs When It's 110 Degrees", "item": "https://indigopalm.co/blog/palm-springs-heat-activities/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>June through September in the Coachella Valley is not a metaphor. The thermometer hits 110°F and the asphalt radiates heat back at you like a pizza oven. Every outdoor activity guide I've read underestimates this. Even early mornings can feel brutal by 9am.</p>
 
@@ -200,6 +164,55 @@ layout: blog-post.njk
     </tr>
   </tbody>
 </table>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do people do in Palm Springs when it's too hot to be outside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best midday options are the Escape Room Palm Springs (air-conditioned, 2-3 hours, use code ABNB10 for 10% off), the Palm Springs Art Museum (free on Thursday afternoons), the Agua Caliente Cultural Museum, and ice skating at the Berger Foundation IcePlex in Palm Desert. By evening, temperatures drop enough to do outdoor things again: the tram, mini-golf, or dinner on a patio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs Art Museum free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thursday afternoons are free admission, and there's often live music. Any other day, admission runs around $18-25 for adults. The Thursday free window is worth planning around if your trip overlaps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is ice skating in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Public skating at the Berger Foundation IcePlex at Acrisure Arena is $15 per session plus $5 for skate rental. Pre-register online before you go. The rink is in Palm Desert, about 20 minutes from central Palm Springs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an escape room in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Escape Room Palm Springs is at 2500 N Palm Canyon Dr B3. It's the largest escape room in Southern California at over 6,000 square feet. Guests staying at The Sundune can use code ABNB10 for 10% off. Book ahead on summer weekends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much cooler is it on the Palm Springs Aerial Tram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically 20 to 30 degrees cooler at the top. When it's 108°F on the valley floor, it's usually 75-80°F at 8,516 feet in the San Jacinto Mountains. The ride takes about 10 minutes each way. Buy tickets in advance during summer."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

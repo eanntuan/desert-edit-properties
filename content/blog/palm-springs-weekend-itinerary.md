@@ -25,42 +25,6 @@ readTime: "8 min read"
 excerpt: "Day 1: arrive and decompress. Day 2: architecture walk, coffee, and a hike. Day 3: farmers market and brunch. Three days in Palm Springs, planned well."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Palm Springs Weekend Trip: A Well-Planned 3-Day Itinerary",
-      "description": "Day 1: arrive and decompress. Day 2: architecture walk, coffee, and a hike. Day 3: farmers market and brunch. Three days in Palm Springs, planned well.",
-      "image": "https://indigopalm.co/blog/images/ps-mcm-house-palm-trees.webp",
-      "datePublished": "2025-11-16",
-      "dateModified": "2026-01-23",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/palm-springs-weekend-itinerary/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Palm Springs Weekend Trip: A Well-Planned 3-Day Itinerary", "item": "https://indigopalm.co/blog/palm-springs-weekend-itinerary/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Three days is the right amount of time in Palm Springs. Enough to feel the pace of the place, not enough to run out of things you want to do. I've done this trip enough times that I have a rhythm I default to, and this is it.</p>
 
@@ -138,6 +102,47 @@ layout: blog-post.njk
 <h2>Where to Stay in Palm Springs</h2>
 
 <p><a href="/the-sundune/">The Sundune</a> is our 2-bedroom in Palm Springs at 5301 E Waverly Drive. Close to the architecture neighborhoods, the right size for a couple or small group doing exactly this kind of long weekend. If you're planning a bachelorette, the <a href="/blog/palm-springs-bachelorette-guide/">Palm Springs bachelorette guide</a> covers the specifics: what to book, where to eat, and how to structure the weekend for a group.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many days do you need in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three days is the sweet spot. Two feels rushed if you want to hike and eat well. Four starts to feel padded. For festival weekends, plan around the festival schedule rather than a fixed city itinerary."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs walkable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Downtown is very walkable. For Indian Canyons, the Aerial Tram, or Joshua Tree, you need a car. Rentals close to the center of town get the most out of the walkability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through April. Spring is the most popular for good reason: perfect temperatures and the full energy of the city. Summer works on a heat-adjusted schedule. Fall and winter offer lower rates and quieter streets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do a day trip from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Joshua Tree is about an hour away. The Palm Springs Aerial Tram is 15 minutes from downtown and worth a half-day. Build one day trip into the schedule and leave the others for the city itself."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 

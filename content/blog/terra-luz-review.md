@@ -30,42 +30,6 @@ relatedPosts:
   - title: "Coachella Valley Vacation Rental Guide"
     url: /blog/coachella-valley-vacation-rental-guide/
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Terra Luz Vacation Rental in Indio: An Honest Review",
-      "description": "Terra Luz in Indio: 4.98 stars, 146 reviews. Private saltwater pool, Latin/Cuban design. What guests consistently love and what to know before booking.",
-      "image": "https://indigopalm.co/blog/images/IMG_6691.webp",
-      "datePublished": "2026-02-14",
-      "dateModified": "2026-02-14",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/terra-luz-review/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Terra Luz Vacation Rental in Indio: An Honest Review", "item": "https://indigopalm.co/blog/terra-luz-review/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Terra Luz launched in 2026 with an existing 146-review track record from its previous listing, carrying a 4.98 rating into the rebrand. The property went through a full design renovation (Latin/Cuban aesthetic, directed by Dawn Asher of <a href="https://theolivejar.co" target="_blank" rel="noopener noreferrer"><strong>The Olive Jar</strong></a>) and relaunched under the Indigo Palm Collective umbrella in May 2026. This is what the property is, what guests consistently highlight, and what you should know before booking.</p>
 

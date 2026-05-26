@@ -25,42 +25,6 @@ readTime: "8 min read"
 excerpt: "Hotels, camping, vacation rentals: an honest breakdown of every Coachella accommodation type from someone who lives here. No affiliate links, no sponsored takes."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Where to Stay for Coachella: Rental vs Hotel vs Camp",
-      "description": "2 miles from the stage, $250-500/night private rental beats hotel prices. Hotels sell out fast, camping is rougher than it looks. What to book and when.",
-      "image": "https://indigopalm.co/blog/images/coachella-festival-crowd.webp",
-      "datePublished": "2025-11-10",
-      "dateModified": "2026-01-14",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/where-to-stay-coachella/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Where to Stay for Coachella: Rental vs Hotel vs Camp", "item": "https://indigopalm.co/blog/where-to-stay-coachella/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>Every year, people book <a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> accommodation without fully understanding the trade-offs between options. In 2026, with Justin Bieber on the lineup, the urgency arrived earlier than usual and the mistakes multiplied. On-site camping sounds adventurous until you're sleeping in dust at 2am. A Palm Springs hotel sounds comfortable until you're paying $140 for the Uber home at midnight. A vacation rental sounds ideal until you realize it's 45 minutes from the grounds.</p>
 
@@ -185,5 +149,4 @@ layout: blog-post.njk
 
 <h3>What should I look for in a Coachella vacation rental?</h3>
 <p>Private pool, covered outdoor space, laundry, and enough parking for your group's cars. Verify the actual bed count, not just the headcount the listing advertises. For festivals specifically, distance to the grounds and private pool availability matter more than square footage or kitchen layout. The 3pm afternoon recovery window is real, and it only works if your rental is close enough to make the trip worthwhile.</p>
-
 

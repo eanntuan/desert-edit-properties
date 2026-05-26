@@ -24,42 +24,6 @@ readTime: "7 min read"
 excerpt: "From pool access to honest reviews to a host who responds. Five things worth checking before you book a Coachella Valley vacation rental."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "5 Things to Check Before Booking a Coachella Valley Rental",
-      "description": "From pool access to honest reviews to a host who responds. Five things to check before booking a Coachella Valley vacation rental in Indio or Palm Springs.",
-      "image": "https://indigopalm.co/blog/images/palm-springs-hotel-pool.webp",
-      "datePublished": "2025-11-07",
-      "dateModified": "2026-01-09",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/coachella-valley-vacation-rental-guide/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "5 Things to Check Before Booking a Coachella Valley Rental", "item": "https://indigopalm.co/blog/coachella-valley-vacation-rental-guide/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>You find the listing on a Thursday night. The photos look right: private pool, mountain views, enough bedrooms. You book it. You arrive on Friday afternoon and the pool is cold, the bed in the primary is a platform frame from 2012, and the "private" pool turns out to share a fence with the house next door whose kids are out there every afternoon. None of this was hidden. It was just written in a way that required reading carefully, and Thursday night you were tired.</p>
 
@@ -144,6 +108,55 @@ layout: blog-post.njk
 
 <p>If you're deciding between Indio and Palm Springs as a base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers the trade-offs in detail, including what each city offers beyond just proximity to Coachella. And if pool access is the priority, the <a href="/blog/best-vacation-rentals-pool-coachella-valley/">guide to Coachella Valley rentals with private pools</a> goes deeper on exactly what to look for.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the most important thing to check before booking a Coachella Valley vacation rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool access is the single detail that affects the most trips. Whether the pool is private or community, heated or unheated, determines how your afternoons go in the desert. Ask directly if a listing isn't clear about it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a Coachella Valley rental is close enough to the festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Map the actual street address before you commit. \"Near Palm Springs\" or \"near Coachella\" can mean a 10-minute walk or a 45-minute drive depending on which city and which part of it. Indian Palms Country Club in Indio is one of the few neighborhoods close enough to walk to the festival grounds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Airbnb fees in the Coachella Valley higher than other markets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Airbnb platform fees are standard (14-16% on the guest side) valley-wide, but cleaning fees in the desert tend to run higher than comparable markets because properties often need more intensive cleaning after sandy, sunny stays. Run the total for your exact dates before comparing listings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between booking direct and booking on Airbnb?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Booking direct skips the 14-16% Airbnb guest service fee and often gets you faster communication with the host. Some properties offer direct booking discounts for multi-night stays. You trade some platform protections for a more direct relationship with the host and lower cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth messaging a host before booking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and the response tells you more than the listing does. A host who replies within an hour with a direct answer is showing you how they'll handle check-in day, a broken AC, or a pool question at 9pm. A three-day response previews exactly that."
+      }
+    }
+  ]
+}
+</script>
+
 <h2>Frequently Asked Questions</h2>
 
 <h3>What is the most important thing to check before booking a Coachella Valley vacation rental?</h3>
@@ -162,5 +175,4 @@ layout: blog-post.njk
 <p>Yes, and the response tells you more than the listing does. A host who replies within an hour with a direct answer is showing you how they'll handle check-in day, a broken AC, or a pool question at 9pm. A three-day response previews exactly that.</p>
 
 <p>If you're planning a stay in Indio, we'd love to have you. <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> were both built with these considerations at the center, and either one is a good starting point for your search.</p>
-
 

@@ -22,42 +22,6 @@ readTime: "7 min read"
 excerpt: "The Coachella Valley hits 110 degrees and pavement can blister paws by 9am. Here's how to keep your dog safe and comfortable when you bring them to the desert."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Dogs in Desert Heat: Keeping Pets Safe in Palm Springs",
-      "description": "Dog safety in Coachella Valley heat: how to keep your pet safe when it hits 100 degrees in Palm Springs or Indio, and a local dog food brand worth knowing.",
-      "image": "https://indigopalm.co/blog/images/desert-dog-hero.webp",
-      "datePublished": "2026-04-03",
-      "dateModified": "2026-05-11",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/desert-dog-summer/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Dogs in Desert Heat: Keeping Pets Safe in Palm Springs", "item": "https://indigopalm.co/blog/desert-dog-summer/"}
-      ]
-    }
-  ]
-}
-</script>
 
 The Coachella Valley is dog-friendly in a real way. Most short-term rentals allow pets, patios are everywhere, and in the right season, bringing your dog here is a genuinely good idea. But in summer, the desert becomes a different place, and the rules that apply to dogs in mild climates don't apply here.
 

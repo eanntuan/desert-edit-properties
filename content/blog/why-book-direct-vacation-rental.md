@@ -20,42 +20,6 @@ readTime: "6 min read"
 excerpt: "Airbnb adds 14-16% on top of the nightly rate. Here's what that means in real dollars, when direct booking makes sense, and how to do it safely."
 layout: blog-post.njk
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "headline": "Why Book Direct Instead of Airbnb: The Honest Math",
-      "description": "Booking a vacation rental direct saves you 14-16% in Airbnb service fees. The honest math, what you get, and when direct booking makes sense.",
-      "image": "https://indigopalm.co/blog/images/west-elm-dining.webp",
-      "datePublished": "2025-11-01",
-      "dateModified": "2025-12-16",
-      "author": {
-        "@type": "Person",
-        "name": "Eann Tuan"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Indigo Palm Collective",
-        "url": "https://indigopalm.co"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://indigopalm.co/blog/why-book-direct-vacation-rental/"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indigopalm.co/"},
-        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://indigopalm.co/blog/"},
-        {"@type": "ListItem", "position": 3, "name": "Why Book Direct Instead of Airbnb: The Honest Math", "item": "https://indigopalm.co/blog/why-book-direct-vacation-rental/"}
-      ]
-    }
-  ]
-}
-</script>
 
 <p>You find a place you like. The nightly rate looks reasonable. Then you hit the checkout screen and $250/night is suddenly $310/night. A four-night stay that looked like $1,000 is $1,240.</p>
 
@@ -129,6 +93,47 @@ layout: blog-post.njk
 <p>For help planning the actual trip, our <a href="/blog/coachella-valley-insider-guide/">Coachella Valley insider guide</a> covers what to do once you're here. And if you're figuring out which city to base yourself in, see our breakdown of <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio</a>.</p>
 
 <hr>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to book a vacation rental directly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with the right host. Look for properties with a real website, verifiable reviews on Airbnb or VRBO, and secure payment processing (credit card, not wire transfer or Venmo). Established hosts with a long review history are as safe to book directly as through any platform. Your credit card's buyer protection applies regardless of where you book."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do you save booking direct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most guests save 14-16% of the subtotal. On a $1,000 stay, that's $140-160. On a longer trip or more expensive property, the savings scale accordingly. Some direct booking hosts also offer small discounts for repeat guests, which platforms can't do without violating their own terms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the Airbnb service fee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Airbnb's guest service fee is typically 14-16% of the booking subtotal (nightly rate plus cleaning fee, before taxes). This goes entirely to Airbnb, not the host. It shows up on the payment screen before you confirm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find vacation rentals that accept direct bookings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Search the property or brand name on Google. Most legitimate short-term rental operators have their own websites. If you've stayed somewhere before, or if the listing mentions a property brand, look it up before rebooking through the platform. For Coachella Valley properties, search Indigo Palm Collective."
+      }
+    }
+  ]
+}
+</script>
 
 <h2>Frequently Asked Questions</h2>
 
