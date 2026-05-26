@@ -62,9 +62,9 @@ layout: redirect.njk
 }
 </script>
 
-<p>You're going to Coachella. With Justin Bieber on the 2026 lineup, this year's booking pressure hit earlier than usual. Now comes the part that takes more planning than most people expect: finding a place to stay that fits your budget, your sleep, and your energy for all three days.</p>
+<p>You're going to <a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a>. With Justin Bieber on the 2026 lineup, this year's booking pressure hit earlier than usual. Now comes the part that takes more planning than most people expect: finding a place to stay that fits your budget, your sleep, and your energy for all three days.</p>
 
-<p>I own vacation rentals in Indio, two minutes from the polo grounds. I've watched this cycle play out every April. Here's the breakdown. No affiliate codes. No sponsored posts. Just what works.</p>
+<p>I own vacation rentals in Indio, two minutes from the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a>. I've watched this cycle play out every April. Here's the breakdown. No affiliate codes. No sponsored posts. Just what works.</p>
 
 <img src="/blog/images/coachella-festival-map-2026.webp" alt="Coachella 2026 festival grounds map showing Empire Polo Club layout and stage locations in Indio CA" width="1400" height="933" loading="lazy">
 <p class="image-caption">The festival grounds at Empire Polo Club. Knowing the layout helps you plan your lodging strategy.</p>

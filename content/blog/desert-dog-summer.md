@@ -93,7 +93,7 @@ The rule I follow for our guests at [The Cozy Cactus and Terra Luz](/cozy-cactus
 
 **Cooling mats and indoor enrichment.** A good cooling mat (the gel-based ones that don't need refrigeration work well) placed in front of the AC vent gives your dog a dedicated cool spot during the hottest part of the day. Puzzle feeders and frozen treats keep them occupied inside without requiring outdoor exertion.
 
-**Dog-friendly patios in the evening.** Most Palm Springs restaurants with patios allow dogs in the outdoor section, particularly after about 7pm when the heat has backed off. Check before you arrive. [Cheeky's, Birba, and El Mirasol](/blog/best-restaurants-palm-springs/) are good options, and all are dog-friendly at their outdoor tables. Boozehounds on North Palm Canyon is built around this: sprawling atrium, craft cocktails, food, and dog treats on hand at the bar. It's probably the most dog-forward spot in the city.
+**Dog-friendly patios in the evening.** Most Palm Springs restaurants with patios allow dogs in the outdoor section, particularly after about 7pm when the heat has backed off. Check before you arrive. <a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a>, Birba, and El Mirasol are good options, and all are dog-friendly at their outdoor tables. See the full roundup in our <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurant guide</a>. Boozehounds on North Palm Canyon is built around this: sprawling atrium, craft cocktails, food, and dog treats on hand at the bar. It's probably the most dog-forward spot in the city.
 
 <img src="/blog/images/cozy-cactus-pool.webp" alt="Private backyard pool at a vacation rental in Indio California, shaded patio and pool area in the Coachella Valley" loading="lazy" width="1400" height="933">
 
@@ -107,7 +107,7 @@ The products read more like a deli counter than a pet store. Proteins like chick
 
 In desert heat, dogs' appetites often drop. A dog who's been outside even briefly in 105-degree air is not going to be excited about dry kibble. Higher-quality, more palatable food matters more when your dog is stressed by heat and already inclined to skip meals.
 
-Their website is [slaterandsullivans.com](https://slaterandsullivans.com) and the Palm Springs location is worth visiting if you want to see what's in stock. It's a small company doing genuine work, and it happens to be based in the same valley where heat-related pet issues come up most often.
+Their website is <a href="https://slaterandsullivans.com/" target="_blank" rel="noopener noreferrer"><strong>slaterandsullivans.com</strong></a> and the Palm Springs location is worth visiting if you want to see what's in stock. It's a small company doing genuine work, and it happens to be based in the same valley where heat-related pet issues come up most often.
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz pool and backyard in Indio California, dog-friendly vacation rental with private pool for hot day cooling" loading="lazy" width="1400" height="933">
 

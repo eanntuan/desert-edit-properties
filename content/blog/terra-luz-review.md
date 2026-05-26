@@ -67,7 +67,7 @@ relatedPosts:
 }
 </script>
 
-<p>Terra Luz launched in 2026 with an existing 146-review track record from its previous listing, carrying a 4.98 rating into the rebrand. The property went through a full design renovation (Latin/Cuban aesthetic, directed by Dawn Asher of The Olive Jar) and relaunched under the Indigo Palm Collective umbrella in May 2026. This is what the property is, what guests consistently highlight, and what you should know before booking.</p>
+<p>Terra Luz launched in 2026 with an existing 146-review track record from its previous listing, carrying a 4.98 rating into the rebrand. The property went through a full design renovation (Latin/Cuban aesthetic, directed by Dawn Asher of <a href="https://theolivejar.co" target="_blank" rel="noopener noreferrer"><strong>The Olive Jar</strong></a>) and relaunched under the Indigo Palm Collective umbrella in May 2026. This is what the property is, what guests consistently highlight, and what you should know before booking.</p>
 
 <p>I'm Eann. I own it.</p>
 
@@ -95,7 +95,7 @@ relatedPosts:
 
 <h2>Location</h2>
 
-<p>49768 Pacino St, Indio, CA. Inside the Indian Palms neighborhood, 7-10 minutes to Empire Polo Club (Coachella/Stagecoach), no freeway. 5 minutes to Shields Date Garden, 30 minutes to downtown Palm Springs, 45 minutes to Joshua Tree.</p>
+<p>49768 Pacino St, Indio, CA. Inside the Indian Palms neighborhood, 7-10 minutes to <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> (Coachella/Stagecoach), no freeway. 5 minutes to <a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a>, 30 minutes to downtown Palm Springs, 45 minutes to Joshua Tree.</p>
 
 <p>For festivals, this proximity is the main practical argument for booking in Indio vs Palm Springs. You leave the property, you're at the grounds in 8 minutes on surface streets. No I-10, no festival-weekend gridlock that turns a 20-minute drive into an hour. The <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> breaks down exactly what each location gets you, if you're still deciding.</p>
 
@@ -126,11 +126,14 @@ relatedPosts:
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of Indian Palms neighborhood in Indio showing vacation rental area near Coachella" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Indian Palms area from above. Terra Luz and The Cozy Cactus are both in this neighborhood, about 15 minutes apart.</p>
 
+<img src="/blog/images/IMG_9555.webp" alt="Terra Luz vacation rental interior with Latin Cuban design details and warm lighting in Indio California" width="1800" height="1350" loading="lazy" decoding="async">
+<p class="image-caption">The design carries through every room. This is not a house with a nice living room and forgotten bedrooms.</p>
+
 <h2>The Bottom Line</h2>
 
 <p>4.98 stars is a difficult number to maintain across 146 stays. Terra Luz has it because the combination of a genuinely private saltwater pool, intentional design, and responsive hosting is hard to find in the Coachella Valley at this price point. Most private-pool rentals in the valley are either newer builds with no design coherence, or older homes with neglected pools. Terra Luz was designed by someone with a specific vision, and it shows in every room and every review.</p>
 
-<p>If that's what you're looking for, <a href="/terra-luz/">book Terra Luz directly</a> or email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> with questions.</p>
+<p>If that's what you're looking for, <a href="/terra-luz/">book Terra Luz directly</a> or email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> with questions. For the full design story behind the renovation, the <a href="/blog/terra-luz-renovation-story/">Terra Luz renovation story</a> covers every room from start to finish.</p>
 
 <h2>FAQ: Terra Luz Vacation Rental</h2>
 

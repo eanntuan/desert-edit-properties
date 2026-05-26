@@ -79,7 +79,7 @@ layout: blog-post.njk
 
 <h3>Evening</h3>
 
-<p>Dinner on Friday works best somewhere on or near downtown Palm Canyon Drive. Rooster and the Pig in the Uptown Design District is the move if you want something punchy. Workshop Kitchen + Bar is the call if you want a more deliberate dinner. Full breakdown in the <a href="/blog/best-restaurants-palm-springs/">best restaurants in Palm Springs guide</a>. After dinner, walk the main drag. The shops stay open late and the street energy on a Friday night in the fall-through-spring season is genuinely good.</p>
+<p>Dinner on Friday works best somewhere on or near downtown Palm Canyon Drive. <a href="https://www.roosterandthepig.com/" target="_blank" rel="noopener noreferrer"><strong>Rooster and the Pig</strong></a> in the Uptown Design District is the move if you want something punchy. <a href="https://www.workshopkitchenbar.com/" target="_blank" rel="noopener noreferrer"><strong>Workshop Kitchen + Bar</strong></a> is the call if you want a more deliberate dinner. Full breakdown in the <a href="/blog/best-restaurants-palm-springs/">best restaurants in Palm Springs guide</a>. After dinner, walk the main drag. The shops stay open late and the street energy on a Friday night in the fall-through-spring season is genuinely good.</p>
 
 <img src="/blog/images/ps-boulevard-palms-mountains.webp" alt="Palm tree-lined boulevard in downtown Palm Springs with San Jacinto Mountains at the end of the street" width="1400" height="933" loading="lazy">
 <p class="image-caption">Downtown Palm Canyon Drive in the evening. Worth the walk even if you're just wandering.</p>
@@ -88,7 +88,7 @@ layout: blog-post.njk
 
 <h3>Morning: Koffi and the Architecture Walk</h3>
 
-<p>Saturday morning starts at Koffi on N Palm Canyon Drive. This is not negotiable. It's been a Palm Springs institution for over 20 years and the outdoor patio is the right place to start a day of walking the city. Cold brew or iced latte, 45 minutes, no phone. Then walk.</p>
+<p>Saturday morning starts at <a href="https://kofficoffee.com/" target="_blank" rel="noopener noreferrer"><strong>Koffi</strong></a> on N Palm Canyon Drive. This is not negotiable. It's been a Palm Springs institution for over 20 years and the outdoor patio is the right place to start a day of walking the city. Cold brew or iced latte, 45 minutes, no phone. Then walk.</p>
 
 <img src="/blog/images/koffi-palm-springs.webp" alt="Koffi coffee shop in Palm Springs with outdoor patio seating and palm trees, a 20-year Palm Springs institution" width="1400" height="933" loading="lazy">
 <p class="image-caption">Koffi on N Palm Canyon Drive. Start every Palm Springs Saturday here.</p>
@@ -119,7 +119,7 @@ layout: blog-post.njk
 
 <h3>Late Morning: Brunch at Cheeky's</h3>
 
-<p>Cheeky's is the Palm Springs brunch. The menu rotates weekly, the bacon flight is real and worth it, and the wait on weekend mornings is also real. Get there by 9am if you want to eat before 10:30. Walk-in only. If you're not in the mood to wait, Lulu's on Indian Canyon Drive handles groups and has shorter waits. Full restaurant notes in the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurant guide</a>.</p>
+<p><a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a> is the Palm Springs brunch. The menu rotates weekly, the bacon flight is real and worth it, and the wait on weekend mornings is also real. Get there by 9am if you want to eat before 10:30. Walk-in only. If you're not in the mood to wait, Lulu's on Indian Canyon Drive handles groups and has shorter waits. Full restaurant notes in the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurant guide</a>.</p>
 
 <h3>Checkout and the Drive Home</h3>
 
@@ -133,7 +133,7 @@ layout: blog-post.njk
 
 <p><strong>Weather:</strong> October through April is peak season with temperatures in the 70s-80s. Summer requires a different schedule. See the <a href="/blog/palm-springs-summer/">Palm Springs in summer guide</a> for the full picture.</p>
 
-<p><strong>Festival weekends:</strong> Coachella and Stagecoach (April) make Palm Springs busier and more expensive. Worth knowing before you book.</p>
+<p><strong>Festival weekends:</strong> Coachella and Stagecoach (April) make Palm Springs busier and more expensive. Worth knowing before you book. If a festival is part of the plan, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> covers why where you stay matters more during festival weeks.</p>
 
 <h2>Where to Stay in Palm Springs</h2>
 

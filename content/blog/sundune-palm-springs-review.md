@@ -80,7 +80,7 @@ relatedPosts:
 
 <h2>Location</h2>
 
-<p>The Sundune is in a midcentury neighborhood that hasn't been overdeveloped. Palm Canyon Drive, with its restaurants, coffee, galleries, and boutiques, is a short walk. The Marilyn Monroe statue and the weekend VillageFest street market are walkable. The Indian Canyons trailheads are about 10 minutes by car.</p>
+<p>The Sundune is in a midcentury neighborhood that hasn't been overdeveloped. Palm Canyon Drive, with its restaurants, coffee, galleries, and boutiques, is a short walk. The Marilyn Monroe statue and the weekend <a href="https://www.villagefestpalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>VillageFest</strong></a> street market are walkable. The <a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Canyons</strong></a> trailheads are about 10 minutes by car.</p>
 
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Palm Springs midcentury modern neighborhood street with low profile homes and San Jacinto Mountains backdrop" width="1400" height="933" loading="lazy">
 <p class="image-caption">The neighborhood around The Sundune. Midcentury, quiet, within walking range of downtown but with residential calm.</p>
@@ -121,9 +121,12 @@ relatedPosts:
 
 <h2>Booking</h2>
 
+<img src="/blog/images/sundune-palm-springs-condo.webp" alt="The Sundune Palm Springs vacation rental condo exterior with pool and midcentury modern architecture" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The Sundune at Palm Springs. Two bedrooms, two bathrooms, community pool, five minutes on foot from Palm Canyon Drive.</p>
+
 <p>The Sundune books out quickly for BNP Paribas Open weeks in March and during Coachella/Stagecoach weekends. If you're planning around a specific event, check availability early, ideally 2-3 months out.</p>
 
-<p>For the Palm Springs trip itself, the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> covers three days done right: where to eat, what to see, and how to pace it so you come back rested.</p>
+<p>For the Palm Springs trip itself, the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> covers three days done right: where to eat, what to see, and how to pace it so you come back rested. If you're visiting on a Thursday, <a href="/blog/village-fest-palm-springs/">Village Fest</a> is a walkable evening from The Sundune and worth building dinner around.</p>
 
 <p><a href="/the-sundune/">View The Sundune listing</a> for photos, availability, and direct booking.</p>
 

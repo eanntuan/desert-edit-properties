@@ -59,7 +59,7 @@ layout: blog-post.njk
 }
 </script>
 
-Every Thursday night, the City of Palm Springs closes a long stretch of Palm Canyon Drive to traffic, sets up booths down the center of the street, and calls it Village Fest. It's been running since 1991. In a city that's spent decades carefully managing its identity as a destination, Village Fest is one of the most genuinely local things you can do here.
+Every Thursday night, the City of Palm Springs closes a long stretch of Palm Canyon Drive to traffic, sets up booths down the center of the street, and calls it <a href="https://www.villagefestpalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>Village Fest</strong></a>. It's been running since 1991. In a city that's spent decades carefully managing its identity as a destination, Village Fest is one of the most genuinely local things you can do here.
 
 It runs from approximately 6pm to 10pm, year round. The booths stretch roughly from Amado Road north to Andreas Road, about four blocks. The crowd is a mix of tourists who stumbled onto it and locals who've been coming for years. Vendors range from produce and handmade jewelry to vintage finds, tamales, and kettle corn.
 
@@ -109,7 +109,7 @@ Village Fest works best when you approach it as a stroll rather than an errand. 
 
 In winter and spring, the crowds are larger and the energy is up. In summer, it's quieter and more local. Both versions are worth experiencing for different reasons.
 
-The Thursday timing means it works well as a pre-dinner outing. Walk Village Fest for an hour, then grab a reservation nearby. Downtown Palm Springs dining options are dense along this stretch: [Cheeky's](/blog/best-restaurants-palm-springs/), Workshop, Lulu's, El Mirasol are all walkable.
+The Thursday timing means it works well as a pre-dinner outing. Walk Village Fest for an hour, then grab a reservation nearby. Downtown Palm Springs dining options are dense along this stretch: <a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a>, Workshop, Lulu's, El Mirasol are all walkable. For the full Palm Springs restaurant rundown, read the <a href="/blog/best-restaurants-palm-springs/">best restaurants in Palm Springs guide</a>.
 
 <img src="/blog/images/ps-street-bougainvillea.webp" alt="Palm Springs street with bougainvillea blooms, the evening atmosphere around Village Fest on Palm Canyon Drive" loading="lazy" width="1400" height="933">
 

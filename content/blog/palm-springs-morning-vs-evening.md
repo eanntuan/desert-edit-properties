@@ -85,7 +85,7 @@ This is when to hike. [Indian Canyons](/blog/indian-canyons-palm-springs/) opens
 
 It's also when to explore the residential neighborhoods. The midcentury modern architecture that Palm Springs is known for looks best in morning light, before the sun gets high and flat. If you're doing any [architecture walks](/blog/palm-springs-midcentury-architecture/), go early.
 
-A good start: coffee at Koffi on North Palm Canyon (opens at 6am daily), walk the neighborhoods, be back at your rental or at a shaded patio before 10:30am. The Koffi muffins are worth ordering even if you don't normally eat in the morning.
+A good start: coffee at <a href="https://kofficoffee.com/" target="_blank" rel="noopener noreferrer"><strong>Koffi</strong></a> on North Palm Canyon (opens at 6am daily), walk the neighborhoods, be back at your rental or at a shaded patio before 10:30am. The Koffi muffins are worth ordering even if you don't normally eat in the morning.
 
 <img src="/blog/images/ps-boulevard-palms-mountains.webp" alt="Palm Canyon Drive in Palm Springs lined with palm trees and mountain views early in the morning" loading="lazy" width="1400" height="933">
 
@@ -93,7 +93,7 @@ A good start: coffee at Koffi on North Palm Canyon (opens at 6am daily), walk th
 
 Pool time. Or indoor time. This is not a knock on the destination. This is just what the desert does.
 
-Every vacation rental in the valley has a pool for a reason. This window is when you use it. Or you nap. Or you go to a museum. The Palm Springs Art Museum is air-conditioned and genuinely good (the glass collection and permanent modernist sculpture are worth an hour). The Spa Resort Casino has a spa and indoor pools. Movie theaters are everywhere.
+Every vacation rental in the valley has a pool for a reason. This window is when you use it. Or you nap. Or you go to a museum. The <a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Art Museum</strong></a> is air-conditioned and genuinely good (the glass collection and permanent modernist sculpture are worth an hour). The Spa Resort Casino has a spa and indoor pools. Movie theaters are everywhere.
 
 If you're eating lunch, do it in a shaded patio or inside. Most restaurants on Palm Canyon Drive have covered patios. Shade versus direct sun makes about a 20-degree difference in perceived temperature.
 
@@ -103,11 +103,11 @@ The one outdoor activity that works during midday: floating in the pool with a d
 
 This is when the desert delivers. The air cools, the light goes spectacular, and the entire city seems to relax at once.
 
-The Thursday night Village Fest street fair on Palm Canyon Drive runs year round and hits its stride in the evening. The weekend farmer's markets are early morning, but weekday evenings are when the restaurant patios fill up and the city feels most alive.
+The Thursday night <a href="https://villagefest.org/" target="_blank" rel="noopener noreferrer"><strong>VillageFest</strong></a> street fair on Palm Canyon Drive runs year round and hits its stride in the evening. The weekend farmer's markets are early morning, but weekday evenings are when the restaurant patios fill up and the city feels most alive.
 
-Dinner reservations at 7 or 8pm are more pleasant than 6pm in summer, because by then the temperature has dropped 10 to 15 degrees from its afternoon peak. Birba has a great patio. Cheeky's on North Palm Canyon gets rightfully crowded. The Tropicale is a classic for a reason.
+Dinner reservations at 7 or 8pm are more pleasant than 6pm in summer, because by then the temperature has dropped 10 to 15 degrees from its afternoon peak. <a href="https://www.birbaf10.com/" target="_blank" rel="noopener noreferrer"><strong>Birba</strong></a> has a great patio. <a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a> on North Palm Canyon gets rightfully crowded. <a href="https://www.thetropicale.com/" target="_blank" rel="noopener noreferrer"><strong>The Tropicale</strong></a> is a classic for a reason.
 
-The desert sky at dusk is worth scheduling around. Because there's almost no light pollution west of the valley and the air is extremely dry, sunsets here are saturated in a way that's hard to photograph without looking like you used a filter. Sunset point at the top of the Aerial Tram, or anywhere with an unobstructed western view, is worth stopping for.
+The desert sky at dusk is worth scheduling around. Because there's almost no light pollution west of the valley and the air is extremely dry, sunsets here are saturated in a way that's hard to photograph without looking like you used a filter. Sunset point at the top of the <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tram</strong></a>, or anywhere with an unobstructed western view, is worth stopping for. Our full <a href="/blog/palm-springs-aerial-tram/">Aerial Tram guide</a> covers timing, tickets, and what to expect at the top.
 
 <img src="/blog/images/ps-desert-moonrise.webp" alt="Desert moonrise over Palm Springs with the valley floor lit from below and mountains silhouetted" loading="lazy" width="1400" height="933">
 
@@ -152,5 +152,7 @@ Dinner at a patio restaurant after 7pm when temperatures have dropped, a walk al
 Yes, meaningfully. The desert dry heat dissipates faster than humid heat. By 9pm in summer, temperatures drop from the afternoon peak by 20 to 30 degrees. A hot tub or patio at night when the air temperature is in the 90s feels legitimately pleasant after a 115-degree afternoon. That shift is part of why desert summer visitors come back.
 
 ---
+
+If you're planning a summer trip, the full <a href="/blog/palm-springs-summer/">Palm Springs in summer guide</a> goes deeper on month-by-month expectations, what restaurants close, and how to structure a heat-adjusted week. And for a running-specific angle on the morning window, the <a href="/blog/palm-springs-running-trails/">Palm Springs running trails guide</a> covers six routes worth waking up early for.
 
 *Eann is the founder of Indigo Palm Collective, operating vacation rentals in Indio and Palm Springs. She's given this same advice in approximately two hundred welcome messages.*

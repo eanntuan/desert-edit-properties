@@ -105,7 +105,7 @@ layout: blog-post.njk
 
 <h3>Palm Springs Aerial Tram</h3>
 
-<p>Worth mentioning, with a caveat: this one works best for kids 8 and up. The tram climbs 6,000 feet to the top of Mount San Jacinto, and the experience at the top (cold, exposed, genuinely alpine) can be overwhelming for very young kids who just want to run around in warm weather.</p>
+<p>Worth mentioning, with a caveat: this one works best for kids 8 and up. The <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tram</strong></a> climbs 6,000 feet to the top of Mount San Jacinto, and the experience at the top (cold, exposed, genuinely alpine) can be overwhelming for very young kids who just want to run around in warm weather.</p>
 
 <p>For older kids who can handle the elevation change and have some patience for stunning views, it's legitimately one of the best things to do in the whole valley. Just read the room before committing to the ticket price.</p>
 
@@ -137,7 +137,7 @@ layout: blog-post.njk
 
 <p>That's different from the Cozy Cactus, which is in Indio, built for bigger groups with a private pool and proximity to festival venues. The Sundune is smaller, more central, and better suited for a family that wants a downtown-adjacent base rather than a house to themselves.</p>
 
-<p>If you're deciding between the two properties for a family trip, the short version: <a href="/the-sundune/">The Sundune</a> for a family of 3-4 who want walkability and Palm Springs proper. <a href="/cozy-cactus/">The Cozy Cactus</a> for a larger group or families who want more space, a private hot tub, and Indio/festival proximity.</p>
+<p>If you're deciding between the two properties for a family trip, the short version: <a href="/the-sundune/">The Sundune</a> for a family of 3-4 who want walkability and Palm Springs proper. <a href="/cozy-cactus/">The Cozy Cactus</a> for a larger group or families who want more space, a private hot tub, and Indio/festival proximity. For a deeper look at which neighborhood in Palm Springs works best for families, the <a href="/blog/palm-springs-neighborhood-guide/">neighborhood guide</a> has an honest breakdown of The Mesa and why families tend to end up there.</p>
 
 <img src="/blog/images/palm-springs-hotel-pool.webp" alt="Outdoor pool area in Palm Springs with desert palm trees and blue sky, typical of the resort and rental scene in the Coachella Valley" width="1400" height="1050" loading="lazy">
 <p class="image-caption">The community pool at The Sundune is a one-minute walk. After a morning at the Living Desert, that math works out perfectly.</p>

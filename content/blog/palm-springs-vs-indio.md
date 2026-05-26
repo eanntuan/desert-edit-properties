@@ -73,7 +73,7 @@ layout: blog-post.njk
 
 <p>Palm Springs is walkable in a way that almost nothing else in the desert is. You can park once, walk to dinner, get coffee in the morning without moving the car, wander the architecture streets in the afternoon, and come back to your rental without ever touching your keys again. For the Coachella Valley, that is genuinely unusual.</p>
 
-<p>The midcentury modern architecture here lives up to the reputation. The residential streets off Palm Canyon Drive are lined with flat-roofed homes in terracotta, teal, and deep ochre, most of them unchanged since the 1950s and 60s. <a href="https://www.psarchitecturalfoundation.org/" target="_blank" rel="noopener">The Palm Springs Architectural Foundation</a> runs excellent walking tours if you want context for what you're seeing.</p>
+<p>The midcentury modern architecture here lives up to the reputation. The residential streets off Palm Canyon Drive are lined with flat-roofed homes in terracotta, teal, and deep ochre, most of them unchanged since the 1950s and 60s. <a href="https://www.psarchitecturalfoundation.org/" target="_blank" rel="noopener noreferrer"><strong>The Palm Springs Architectural Foundation</strong></a> runs excellent walking tours if you want context for what you're seeing. Our <a href="/blog/palm-springs-midcentury-architecture/">self-guided architecture walk</a> covers the same territory on foot.</p>
 
 <p>Downtown Palm Springs has density: restaurants, galleries, a weekend street market, vintage shops, and a handful of bars that go reasonably late. If your trip is about wandering and discovery, Palm Springs rewards that kind of itinerary.</p>
 

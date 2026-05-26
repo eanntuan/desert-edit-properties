@@ -73,7 +73,7 @@ layout: blog-post.njk
     <p><strong>Don't miss:</strong> Medjool dates, local honey, dried citrus</p>
 </div>
 
-<div class="item-heading"><span class="item-number">2</span>Shields Date Garden: The Date Shake That Started Everything</div>
+<div class="item-heading"><span class="item-number">2</span><a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a>: The Date Shake That Started Everything</div>
 <p>Open since 1924 on Highway 111. The date shake is one of the best things you'll eat in the Coachella Valley: cold, thick, made with actual Shields dates. The on-site museum about date cultivation is genuinely worth the stop, especially with kids who want to look at things.</p>
 <div class="quick-info">
     <p><strong>Address:</strong> 80-225 Hwy 111, Indio, CA 92201 · Daily 9am–5pm</p>
@@ -81,7 +81,7 @@ layout: blog-post.njk
 <img src="/blog/images/shields-date-garden.webp" alt="Shields Date Garden entrance in Indio CA, open since 1924 on Highway 111, famous for date shakes" width="1400" height="933" loading="lazy">
 <p class="image-caption">Shields has been doing this since 1924. The date shake is not optional.</p>
 
-<div class="item-heading"><span class="item-number">3</span>Papa Headz: The Smash Burger That Requires an Apology to In-N-Out</div>
+<div class="item-heading"><span class="item-number">3</span><a href="https://www.papaheadz.com/" target="_blank" rel="noopener noreferrer"><strong>Papa Headz</strong></a>: The Smash Burger That Requires an Apology to In-N-Out</div>
 <p>I say this as a longtime In-N-Out defender: Papa Headz is better. The patty has the right crispy lace edge, the bun holds, and the whole thing was designed by someone who took the problem seriously. Go early. They sell out.</p>
 <div class="quick-info">
     <p><strong>Address:</strong> 82868 Miles Ave, Indio, CA 92201 · Mon–Sat, closes at 8–10pm</p>
@@ -89,7 +89,7 @@ layout: blog-post.njk
 <img src="/blog/images/papa-headz.webp" alt="Papa Headz smash burger in Indio CA with crispy lace edge patty on toasted bun" width="1400" height="933" loading="lazy">
 <p class="image-caption">Papa Headz. Go early, they sell out.</p>
 
-<div class="item-heading"><span class="item-number">4</span>One Stop Taco Shop: The Taco I Think About Between Visits</div>
+<div class="item-heading"><span class="item-number">4</span><a href="https://onestoptacoshop.com/" target="_blank" rel="noopener noreferrer"><strong>One Stop Taco Shop</strong></a>: The Taco I Think About Between Visits</div>
 <p>Carne asada. Simple, charred right, in a tortilla that was made today. The line out front is the signal, not the deterrent. Go at 11am or after 2pm to beat the rush. This is the single recommendation I've given most in four years of hosting.</p>
 <div class="quick-info">
     <p><strong>Address:</strong> 84051 Indio Blvd, Indio, CA 92201</p>
@@ -103,7 +103,7 @@ layout: blog-post.njk
     <p><strong>Address:</strong> 81944 US-111, Indio, CA 92201 · Mon–Fri 11am–3pm, 4–9pm</p>
 </div>
 
-<div class="item-heading"><span class="item-number">6</span>Coachella Valley Preserve: Hike Into a Desert Oasis</div>
+<div class="item-heading"><span class="item-number">6</span><a href="https://www.blm.gov/visit/coachella-valley-preserve" target="_blank" rel="noopener noreferrer"><strong>Coachella Valley Preserve</strong></a>: Hike Into a Desert Oasis</div>
 <p>Twenty minutes from central Indio. Underground water pushed up by the San Andreas Fault creates wild palm groves in the middle of the desert. The McCallum Trail is an easy 3-mile out-and-back. Free admission, no crowds.</p>
 <div class="quick-info">
     <p><strong>Address:</strong> 29200 Thousand Palms Canyon Rd, Thousand Palms, CA</p>
@@ -136,7 +136,7 @@ layout: blog-post.njk
     <p><strong>Where:</strong> Miles Ave at Fargo St, Old Town Indio · Saturdays 8am–noon (seasonal hours vary)</p>
 </div>
 
-<div class="item-heading"><span class="item-number">12</span>Empire Polo Club (Outside Festival Season)</div>
+<div class="item-heading"><span class="item-number">12</span><a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> (Outside Festival Season)</div>
 <p>Most people only see the polo grounds during Coachella. But Empire Polo Club hosts polo matches and equestrian events throughout fall and winter, open to the public, often free, and a completely different side of what these grounds can be outside of festival season.</p>
 
 <div class="item-heading"><span class="item-number">13</span>The Indio Tamale Festival (December)</div>

@@ -183,7 +183,9 @@ relatedPosts:
 
 <p>The trail stays mostly level and takes under an hour at a comfortable pace. It's the right pick for families with kids, anyone who wants a taste of the canyons without committing to distance, or a warm-up before the longer Palm Canyon loop. The smooth creek stones underfoot require attention but nothing technical. Open October through May daily; summer hours are Friday through Sunday only.</p>
 
-<p><a href="https://www.alltrails.com/trail/us/california/andreas-canyon" target="_blank" rel="noopener">Andreas Canyon on AllTrails</a> | <a href="https://www.indian-canyons.com/" target="_blank" rel="noopener">Indian Canyons official site</a></p>
+<p><a href="https://www.alltrails.com/trail/us/california/andreas-canyon" target="_blank" rel="noopener noreferrer">Andreas Canyon on AllTrails</a> | <a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Canyons</strong></a> official site</p>
+
+<p>Planning the rest of your Palm Springs day? The <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurant guide</a> covers where to eat after a morning in the canyons.</p>
 
 <h2>2. Palm Canyon (Easy to Moderate)</h2>
 
@@ -195,7 +197,7 @@ relatedPosts:
 
 <p>Plan 2 to 3 hours for a comfortable out-and-back that reaches far enough to feel the canyon open up. The trail continues much further for those who want more mileage. Go before 10am if you're visiting in spring: the light comes into the canyon at a low angle and the temperature is still in the 70s. Afternoon in late March means 90+ degrees and shadow-free stretches on the return.</p>
 
-<p>This is part of the <a href="https://www.aguacalientebands.com/tourism/indian-canyons" target="_blank" rel="noopener">Indian Canyons</a> on Agua Caliente Tribal Land. The entry fee goes to the tribe. <a href="https://www.alltrails.com/trail/us/california/palm-canyon-trail--6" target="_blank" rel="noopener">Palm Canyon Trail on AllTrails</a>.</p>
+<p>This is part of the <a href="https://www.aguacalientebands.com/tourism/indian-canyons" target="_blank" rel="noopener noreferrer">Indian Canyons</a> on Agua Caliente Tribal Land. The entry fee goes to the tribe. <a href="https://www.alltrails.com/trail/us/california/palm-canyon-trail--6" target="_blank" rel="noopener noreferrer">Palm Canyon Trail on AllTrails</a>.</p>
 
 <img src="/blog/images/palm-canyon-oasis-trail.webp" alt="Hikers on the Palm Canyon trail surrounded by native California fan palms in the Indian Canyons near Palm Springs" width="1400" height="931" loading="lazy">
 <p class="image-caption">Inside Palm Canyon: thousands of native fan palms line the creek bed, the trunks charcoal grey and skirt-draped. The scale only becomes clear once you are inside.</p>
@@ -211,6 +213,8 @@ relatedPosts:
 
 <p>The canyon walls close in as you get deeper, which is the point. The last stretch before the falls is rockier and requires some scrambling over boulders. Plan 2.5 to 3 hours and wear shoes with actual grip. The same Indian Canyons entry fee covers both Murray and Palm Canyon if you visit on the same day. <a href="https://www.alltrails.com/trail/us/california/murray-canyon-trail-to-seven-falls" target="_blank" rel="noopener">Murray Canyon on AllTrails</a>.</p>
 
+<p>After a morning in the canyons, the <a href="/blog/best-time-to-visit-palm-springs/">guide to when to visit Palm Springs</a> covers how the seasons affect everything from trail conditions to festival crowds.</p>
+
 <div class="inline-cta">
   <p>All of these trailheads are within 20 minutes of <a href="/the-sundune/">The Sundune</a> in Palm Springs. Early morning starts are easier when you're already in the desert. <a href="/the-sundune/">Check availability →</a></p>
 </div>
@@ -225,7 +229,7 @@ relatedPosts:
 
 <p>The trail is a 2-mile loop with about 350 feet of elevation gain. Most of it is pretty flat, with one rocky section near the waterfall where you're picking your way up boulders. The destination is Tahquitz Falls, a 60-foot drop off smooth granite into a pool. It's one of the only year-round waterfalls in the Coachella Valley. In a wet winter, the pool runs clear and the falls are going hard by February. In a dry year, it slows to a curtain of mist by April. The canyon itself, with Cahuilla rock art and old irrigation channels along the trail, is worth the trip either way.</p>
 
-<p>Ranger-led tours run twice daily at 9am and noon. Self-guided entry is also available if you'd rather go at your own pace. The canyon uses timed entry, so reservations are recommended in winter and spring when it fills up. Check the <a href="https://www.tahquitzcanyon.com/" target="_blank" rel="noopener">Tahquitz Canyon website</a> for current times and booking. Open daily October through early July; weekend-only in summer.</p>
+<p>Ranger-led tours run twice daily at 9am and noon. Self-guided entry is also available if you'd rather go at your own pace. The canyon uses timed entry, so reservations are recommended in winter and spring when it fills up. Check the <a href="https://www.tahquitzcanyon.com/" target="_blank" rel="noopener noreferrer">Tahquitz Canyon website</a> for current times and booking. Open daily October through early July; weekend-only in summer.</p>
 
 <img src="/blog/images/desert-canyon-waterfall.webp" alt="Desert waterfall dropping into a rocky canyon pool, similar to Tahquitz Falls near Palm Springs California" width="1400" height="933" loading="lazy">
 <p class="image-caption">Tahquitz Falls drops 60 feet off a smooth granite face into a pool below. In a wet winter it runs hard from February onward. In a dry year it slows to a curtain of mist by April.</p>
@@ -260,9 +264,9 @@ relatedPosts:
 <strong>Distance:</strong> ~1.5 mi loop &nbsp;|&nbsp; <strong>Elevation gain:</strong> ~200 ft &nbsp;|&nbsp; <strong>Difficulty:</strong> Easy &nbsp;|&nbsp; <strong>Fee:</strong> ~$37/adult (tram ticket) &nbsp;|&nbsp; <strong>Dogs:</strong> No
 </div>
 
-<p>The <a href="https://pstramway.com/" target="_blank" rel="noopener">Palm Springs Aerial Tramway</a> takes you from the desert floor at 2,643 feet to Mountain Station at 8,516 feet in 10 minutes. The tram cars rotate slowly on the way up, and at some point you go from saguaro and scrub to granite walls streaked with snowmelt to ponderosa pine. The altitude change is more than most flights. The Desert View Trail at the top is an easy loop from the station with views down into the Coachella Valley and across the San Jacinto Wilderness.</p>
+<p>The <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tramway</strong></a> takes you from the desert floor at 2,643 feet to Mountain Station at 8,516 feet in 10 minutes. The tram cars rotate slowly on the way up, and at some point you go from saguaro and scrub to granite walls streaked with snowmelt to ponderosa pine. The altitude change is more than most flights. The Desert View Trail at the top is an easy loop from the station with views down into the Coachella Valley and across the San Jacinto Wilderness.</p>
 
-<p>This is the right option for people who want the high-altitude experience without the physical effort. The air at 8,500 feet is noticeably thinner and noticeably cooler: bring a layer even in May. Tram tickets run around $37 per adult. First tram up is typically 10am on weekdays, 8am on weekends; check the <a href="https://pstramway.com/tickets/" target="_blank" rel="noopener">tram site</a> for current schedules. The tram itself is the experience. The hiking is a bonus.</p>
+<p>This is the right option for people who want the high-altitude experience without the physical effort. The air at 8,500 feet is noticeably thinner and noticeably cooler: bring a layer even in May. Tram tickets run around $37 per adult. First tram up is typically 10am on weekdays, 8am on weekends; check the <a href="https://www.pstramway.com/tickets/" target="_blank" rel="noopener noreferrer">tram site</a> for current schedules. The tram itself is the experience. The hiking is a bonus.</p>
 
 <h2>8. San Jacinto Peak via the Tram (Strenuous)</h2>
 

@@ -61,7 +61,7 @@ layout: blog-post.njk
 }
 </script>
 
-<p>Joshua Tree National Park sits right at the edge of what makes the Coachella Valley feel like a different world. From Indio, the south entrance is about 45 minutes. From Palm Springs, the north entrance is roughly an hour. Close enough for a day trip that feels completely removed from the valley floor.</p>
+<p><a href="https://www.nps.gov/jotr/" target="_blank" rel="noopener noreferrer"><strong>Joshua Tree National Park</strong></a> sits right at the edge of what makes the Coachella Valley feel like a different world. From Indio, the south entrance is about 45 minutes. From Palm Springs, the north entrance is roughly an hour. Close enough for a day trip that feels completely removed from the valley floor.</p>
 
 <p>I've directed a lot of guests toward Joshua Tree, and the poorly-done version usually involves showing up in July at noon with one water bottle and no reservation. The well-done version is more straightforward than you'd think.</p>
 
@@ -119,7 +119,7 @@ layout: blog-post.njk
 
 <p><strong>12:00pm:</strong> Keys View for the valley overlook. Five-minute walk from the parking lot.</p>
 
-<p><strong>1:00pm:</strong> Head back. On the way, stop at Shields Date Garden in Indio (<a href="https://www.shields1924.com/" target="_blank" rel="noopener">shields1924.com</a>) for a date shake.</p>
+<p><strong>1:00pm:</strong> Head back. On the way, stop at <a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> in Indio for a date shake. Open since 1924, and the shake is worth every minute of the detour.</p>
 
 <img src="/blog/images/coachella-valley-map.webp" alt="Coachella Valley map showing Joshua Tree to the north, Indio at center, and Palm Springs to the west" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Coachella Valley's geography: Joshua Tree is due north of Indio, making it the easiest national park day trip from the east valley.</p>
@@ -141,4 +141,7 @@ layout: blog-post.njk
 <h3>What is the best Joshua Tree entrance to use from Palm Springs?</h3>
 <p>From Palm Springs, most people use the north or west entrances via Highway 62 toward Yucca Valley or Twentynine Palms. This puts you near Skull Rock, Hidden Valley, and the classic boulder landscape. From Indio or the east valley, the Cottonwood South Entrance is significantly closer and far less crowded.</p>
 
-<p>For other day trip options, <a href="/blog/things-to-do-indio-ca/">the things to do in Indio guide</a> covers what else is close. And if you need a base in Indio with a private saltwater pool to come back to after a full day in the park, <a href="/terra-luz/">Terra Luz</a> is pet-friendly and sleeps up to eight.</p>
+<img src="/blog/images/coachella-valley-preserve.webp" alt="Fan palm oasis at the Coachella Valley Preserve near Thousand Palms, a natural desert oasis fed by the San Andreas Fault" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The Coachella Valley Preserve is another easy half-day from Indio if Joshua Tree isn't enough desert for you.</p>
+
+<p>For other day trip options, <a href="/blog/things-to-do-indio-ca/">the things to do in Indio guide</a> covers what else is close. If the Salton Sea is on your radar too, read the <a href="/blog/salton-sea-day-trip/">Salton Sea day trip guide</a> before you go. And if you need a base in Indio with a private saltwater pool to come back to after a full day in the park, <a href="/terra-luz/">Terra Luz</a> is pet-friendly and sleeps up to eight.</p>

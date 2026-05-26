@@ -102,6 +102,9 @@ layout: blog-post.njk
 <img src="/blog/images/ps-desert-moonrise.webp" alt="Full moon rising over the desert southeast of Palm Springs, the kind of sky you get driving back from the Salton Sea at dusk" width="1400" height="933" loading="lazy">
 <p class="image-caption">Time the drive back right and you get this.</p>
 
+<img src="/blog/images/coachella-valley-desert-hiking.webp" alt="Desert landscape in the Coachella Valley with open terrain and mountain range in the background, similar to the drive toward the Salton Sea" width="1400" height="788" loading="lazy" decoding="async">
+<p class="image-caption">The terrain between Indio and the Salton Sea is flat, open, and unlike anything else in Southern California.</p>
+
 <h2>Who Should Go</h2>
 
 <p>Go if you like places that feel genuinely off the tourist map, if outsider art or landscape photography interests you, or if you're curious about California's complicated history with water and land.</p>

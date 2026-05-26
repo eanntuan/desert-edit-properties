@@ -91,7 +91,7 @@ layout: blog-post.njk
 
 <h2>Ice Skating at the Acrisure Arena (Berger Foundation IcePlex)</h2>
 
-<p>This one is a little unexpected, which is exactly why I like it. You can skate on the same ice where the Coachella Valley Firebirds train. The Berger Foundation IcePlex is at 75702 Varner Rd in Palm Desert (760-318-7388, <a href="https://bergerfoundationiceplex.com/public-skating/" rel="noopener noreferrer" target="_blank">bergerfoundationiceplex.com/public-skating/</a>).</p>
+<p>This one is a little unexpected, which is exactly why I like it. You can skate on the same ice where the Coachella Valley Firebirds train at <a href="https://acrisurearena.com/" target="_blank" rel="noopener noreferrer"><strong>Acrisure Arena</strong></a>. The Berger Foundation IcePlex is at 75702 Varner Rd in Palm Desert (760-318-7388, <a href="https://bergerfoundationiceplex.com/public-skating/" rel="noopener noreferrer" target="_blank">bergerfoundationiceplex.com/public-skating/</a>).</p>
 
 <p>Public skating runs $15 a session, $5 for skate rental. Pre-register online before you go. It's about 20 minutes from The Sundune. Going from 108°F outside to an ice rink at 55°F is, genuinely, one of the better temperature contrasts you'll experience. Bring a light layer.</p>
 
@@ -106,7 +106,7 @@ layout: blog-post.njk
 
 <h2>Over the Rainbow Desserts</h2>
 
-<p>This is less of an activity and more of a mandatory stop. Over the Rainbow Desserts is at 1775 E Palm Canyon Dr STE 150 (760-322-2253). Their gluten-free cupcakes are the best I've had anywhere, and I've eaten a lot of cupcakes in the name of research.</p>
+<p>This is less of an activity and more of a mandatory stop. <a href="https://www.overtherainbowdesserts.com/" target="_blank" rel="noopener noreferrer"><strong>Over the Rainbow Desserts</strong></a> is at 1775 E Palm Canyon Dr STE 150 (760-322-2253). Their gluten-free cupcakes are the best I've had anywhere, and I've eaten a lot of cupcakes in the name of research.</p>
 
 <p>The practical tip: go early in the day and ask about day-old items, which are half price and taste identical. It's a small detour that's worth building into whatever route you're running.</p>
 

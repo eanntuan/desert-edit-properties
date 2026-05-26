@@ -64,13 +64,13 @@ layout: blog-post.njk
 
 <h2>Day 1: Aerial Tram and Arrival Day</h2>
 
-<p>Do the aerial tram first. The Palm Springs Aerial Tram leaves from the valley floor at 2,643 feet and drops you at the Mountain Station at 8,516 feet in about 10 minutes. At the top, the temperature is typically 30 to 40 degrees cooler than the desert below. There are hiking trails ranging from easy walks to serious backcountry routes in the San Jacinto Wilderness.</p>
+<p>Do the aerial tram first. The <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tramway</strong></a> leaves from the valley floor at 2,643 feet and drops you at the Mountain Station at 8,516 feet in about 10 minutes. At the top, the temperature is typically 30 to 40 degrees cooler than the desert below. There are hiking trails ranging from easy walks to serious backcountry routes in the San Jacinto Wilderness.</p>
 
 <p>Book tickets in advance, especially on weekends. The first tram departs at 10am on weekdays, 8am on weekends. Go early. By noon the line is long and the crowds at the top increase. The ride costs about $31 for adults. Budget 2 to 3 hours for the full experience including hiking.</p>
 
 <p>Afternoon: check into your rental or hotel, decompress at the pool. Palm Springs afternoons are made for doing nothing. The city's mid-century architecture was designed around outdoor living, and if you're staying in a vacation rental with a private pool, this is when you use it.</p>
 
-<p>Evening: Palm Canyon Drive is the main strip. Walk it and choose somewhere for dinner. Sandfish is well-regarded for sushi. Tropicale is a mid-century throwback with strong cocktails and good food that fits the city's vibe. Reservations on weekends, especially in peak season (January through April).</p>
+<p>Evening: Palm Canyon Drive is the main strip. Walk it and choose somewhere for dinner. Sandfish is well-regarded for sushi. <a href="https://www.thetropicale.com/" target="_blank" rel="noopener noreferrer"><strong>Tropicale</strong></a> is a mid-century throwback with strong cocktails and good food that fits the city's vibe. Reservations on weekends, especially in peak season (January through April).</p>
 
 <img src="/blog/images/ps-palm-springs-sign.webp" alt="Palm Springs city sign on Palm Canyon Drive with San Jacinto Mountains in the background" width="1400" height="933" loading="lazy">
 
@@ -82,7 +82,7 @@ layout: blog-post.njk
 
 <p>Palm Springs Architecture: the city's mid-century modern heritage is genuinely distinctive and worth slowing down for. The Kaufmann Desert House (designed by Richard Neutra, 1946) is on Tahquitz Canyon Way, privately owned but visible from the street. The Tramway Gas Station, designed by Albert Frey, is at the gateway to the tram road and is now the Palm Springs Visitor Center. The Sunnylands estate in Rancho Mirage, where presidents have stayed, offers guided tours by reservation.</p>
 
-<p>The Palm Springs Art Museum is on Museum Drive, about a block off Palm Canyon. Its collection skews toward 20th-century American and California art, with some excellent pieces and a good architecture and design section covering the valley's modernist legacy. Admission is $17.50 for adults. Closed Tuesdays.</p>
+<p>The <a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Art Museum</strong></a> is on Museum Drive, about a block off Palm Canyon. Its collection skews toward 20th-century American and California art, with some excellent pieces and a good architecture and design section covering the valley's modernist legacy. Admission is $17.50 for adults. Closed Tuesdays.</p>
 
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Mid-century modern residential street in Palm Springs California with flat-roof architecture and mountain views" width="1400" height="933" loading="lazy">
 
@@ -101,6 +101,9 @@ layout: blog-post.njk
 <img src="/blog/images/joshua-tree-national-park.webp" alt="Joshua Tree National Park desert landscape with Joshua trees and boulder formations at sunrise" width="1440" height="990" loading="lazy">
 
 <p>Back in Palm Springs by mid-afternoon. Last evening: find a spot with a rooftop or patio for sunset. The San Jacinto Mountains go orange-pink around golden hour and it's consistently one of the better desert sunsets in California.</p>
+
+<img src="/blog/images/ps-street-bougainvillea.webp" alt="Bougainvillea-lined street in Palm Springs California on a sunny afternoon with colorful pink blooms" width="1800" height="1350" loading="lazy" decoding="async">
+<p class="image-caption">Palm Springs residential streets in peak season. Worth walking for an hour before the day ends.</p>
 
 <h2>What to Skip</h2>
 

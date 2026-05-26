@@ -64,7 +64,7 @@ layout: blog-post.njk
 
 <p>You've been on your feet for seven hours. It's after midnight, the headliner just finished, and 80,000 people are all walking toward the same parking exits at the same time. At this point, the distance between your rental and the Empire Polo Club is the only thing that matters. Ten minutes is a beer and a debrief on the way home. Forty-five minutes is a traffic crawl down Gene Autry Trail that will test every friendship in the car.</p>
 
-<p>I own two vacation rentals in Indio, both within a 10-minute drive of the polo grounds. I've watched a lot of groups learn the hard way that "Palm Springs area" can mean anything from 5 miles to 45 miles from the festival gates. With Post Malone headlining Stagecoach 2026, inventory near the grounds went faster than usual. Here's what you need to know before you book.</p>
+<p>I own two vacation rentals in Indio, both within a 10-minute drive of the polo grounds. I've watched a lot of groups learn the hard way that "Palm Springs area" can mean anything from 5 miles to 45 miles from the festival gates. With Post Malone headlining <a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach 2026</strong></a>, inventory near the grounds went faster than usual. Here's what you need to know before you book.</p>
 
 <h2>How Far Is "Palm Springs" From Stagecoach?</h2>
 
@@ -78,7 +78,7 @@ layout: blog-post.njk
 <p>The closer cities, in order of proximity to the polo grounds:</p>
 
 <ul>
-  <li><strong>Indio:</strong> 5-15 min depending on neighborhood. Best option for festival proximity.</li>
+  <li><strong>Indio:</strong> 5-15 min depending on neighborhood. Best option for festival proximity. <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> is on Monroe Street.</li>
   <li><strong>Coachella (city):</strong> 10-20 min. Cheaper inventory, more basic accommodations.</li>
   <li><strong>La Quinta:</strong> 15-25 min. Some nice properties here, slightly further south.</li>
   <li><strong>Indian Wells / Palm Desert:</strong> 20-35 min. Fine for a daytime festival, harder at midnight.</li>
@@ -138,9 +138,9 @@ layout: blog-post.njk
 <p>Indio has solid food options that most festival-goers miss because they don't look. A few that are worth knowing:</p>
 
 <ul>
-  <li><strong>Arriola's Tortilleria:</strong> Old school tortilla shop on Miles Ave. The kind of place that's been there for 30 years for good reason.</li>
-  <li><strong>Saguaro Coffee:</strong> Independent coffee on Monroe, easy to hit on the way to the grounds.</li>
-  <li><strong>Everbloom:</strong> Farm-to-table spot in Indio. Good for a real sit-down dinner pre-show.</li>
+  <li><a href="https://www.facebook.com/p/Arriolas-Tortilleria-100063453224369/" target="_blank" rel="noopener noreferrer"><strong>Arriola's Tortilleria</strong></a>: Old school tortilla shop on Miles Ave. The kind of place that's been there for 30 years for good reason.</li>
+  <li><a href="https://www.instagram.com/saguarocoffee/" target="_blank" rel="noopener noreferrer"><strong>Saguaro Coffee</strong></a>: Independent coffee roaster in Old Town Indio, easy to hit on the way to the grounds.</li>
+  <li><a href="https://www.everbloom.coffee/" target="_blank" rel="noopener noreferrer"><strong>Everbloom</strong></a>: Farm-to-table cafe in Indio. Good for a real sit-down meal pre-show.</li>
 </ul>
 
 <p>For a deeper look at food options across the valley, the <a href="/blog/coachella-valley-food-guide/">Coachella Valley food guide</a> covers Indio through Palm Springs with specific recommendations. And if your group wants a day-off activity between festival days, <a href="/blog/indio-local-gems/">Indio's best local spots</a> has the non-obvious ones.</p>

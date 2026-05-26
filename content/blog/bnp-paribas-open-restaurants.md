@@ -55,7 +55,7 @@ layout: blog-post.njk
 }
 </script>
 
-Indian Wells Tennis Garden has the best stadium food of any tennis tournament in the country. That's not a claim to take on faith. Nobu is literally inside the stadium. MOTO Pizza is a regular at the concession circuit. And the 2026 lineup added Sweetfin poke bowls, Beecher's Handmade Cheese, and a Peruvian rice bowl concept called Pacha Mamas. Most tournaments have hot dogs. This one has black cod miso courtside.
+<a href="https://bnpparibasopen.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Wells Tennis Garden</strong></a> has the best stadium food of any tennis tournament in the country. That's not a claim to take on faith. <a href="https://www.noburestaurants.com/indian-wells/home/" target="_blank" rel="noopener noreferrer"><strong>Nobu</strong></a> is literally inside the stadium. MOTO Pizza is a regular at the concession circuit. And the 2026 lineup added Sweetfin poke bowls, Beecher's Handmade Cheese, and a Peruvian rice bowl concept called Pacha Mamas. Most tournaments have hot dogs. This one has black cod miso courtside.
 
 This post is specifically about the food. For accommodation, the [BNP Paribas Open: Where to Stay](/blog/bnp-paribas-indian-wells-where-to-stay/) post covers that separately.
 

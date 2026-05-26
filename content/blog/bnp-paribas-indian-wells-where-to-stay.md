@@ -67,7 +67,7 @@ relatedPosts:
 }
 </script>
 
-<p>The BNP Paribas Open is one of the largest tennis events in the world outside the Grand Slams, a combined Masters 1000 and WTA 1000 tournament held every March at the Indian Wells Tennis Garden. It draws 450,000-plus attendees over two weeks. The venue sits in Indian Wells, California, a small city that sits almost exactly between Palm Springs and Indio.</p>
+<p>The <a href="https://bnpparibasopen.com/" target="_blank" rel="noopener noreferrer"><strong>BNP Paribas Open</strong></a> is one of the largest tennis events in the world outside the Grand Slams, a combined Masters 1000 and WTA 1000 tournament held every March at the <a href="https://www.iwtg.net/" target="_blank" rel="noopener noreferrer"><strong>Indian Wells Tennis Garden</strong></a>. It draws 450,000-plus attendees over two weeks. The venue sits in Indian Wells, California, a small city that sits almost exactly between Palm Springs and Indio.</p>
 
 <p>That geography creates the core accommodation question: Palm Springs to the west, or Indio to the east? Both are about 20-25 minutes from the venue. The right answer depends on what you want the non-tennis hours to look like.</p>
 

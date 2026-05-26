@@ -96,9 +96,12 @@ layout: blog-post.njk
 
 <p><strong>6am to 10am:</strong> The golden window. This is when you hike, walk the architecture neighborhoods, get coffee, do the farmers market, or do anything that requires being outside. The air is clear and cool. The city feels like yours. Do not save this time for sleeping in.</p>
 
-<p><strong>10am to 5pm:</strong> Pool, AC, or both. Palm Springs museums and galleries are air-conditioned and genuinely good. The <a href="https://www.themuseumps.org/" target="_blank" rel="noopener">Palm Springs Art Museum</a> is worth a few hours. Spa treatments make sense in summer in a way they don't in spring. Napping counts. The pool is valid for this entire window.</p>
+<p><strong>10am to 5pm:</strong> Pool, AC, or both. Palm Springs museums and galleries are air-conditioned and genuinely good. The <a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Art Museum</strong></a> is worth a few hours. Spa treatments make sense in summer in a way they don't in spring. Napping counts. The pool is valid for this entire window.</p>
 
 <p><strong>5pm to 10pm:</strong> Back outside. Happy hour at an outdoor bar. Dinner at a patio restaurant. Evening walks when the light is at its best. Golf in the early morning is popular for the same reason: start at 6am, finish by 10am, the rest of the day is yours.</p>
+
+<img src="/blog/images/palm-springs-summer-pool.webp" alt="Palm Springs backyard pool at dusk with string lights and desert landscape, peak summer evening scene" width="1400" height="787" loading="lazy" decoding="async">
+<p class="image-caption">The evening pool is the whole point of summer in the desert. The heat breaks, the light turns gold, and the water is still warm from the day.</p>
 
 <img src="/blog/images/ps-desert-valley-view.webp" alt="Wide desert valley view near Palm Springs with mountain ranges and sparse vegetation in summer heat" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Coachella Valley in summer. Understand the scale of it and you understand the heat.</p>
@@ -120,6 +123,8 @@ layout: blog-post.njk
 <p>The <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> is worth reading if you're still deciding where to base yourself. Summer heat is similar across the valley, but there are trade-offs in terms of what's near you that matter more in summer when you're not doing as much driving.</p>
 
 <p>And if you want a private pool during a summer trip, both <a href="/the-sundune/">The Sundune</a> in Palm Springs and our Indio properties are worth looking at. The pool situation changes the summer trip entirely. For a full breakdown of every season, the <a href="/blog/best-time-to-visit-palm-springs/">best time to visit Palm Springs guide</a> covers spring, fall, winter, and summer in detail with honest tradeoffs.</p>
+
+<p>If you're booking summer morning activities, <a href="/blog/palm-springs-surf-club/"><strong>Palm Springs Surf Club</strong></a> is one of the best uses of the early window: book the first session, surf before 10am, and you're back at the pool by noon. And for timing all outdoor activities around the heat, the <a href="/blog/palm-springs-morning-vs-evening/">morning vs evening guide</a> gives you the full schedule logic.</p>
 
 <h2>Frequently Asked Questions</h2>
 

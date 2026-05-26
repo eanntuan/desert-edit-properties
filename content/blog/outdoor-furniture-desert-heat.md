@@ -90,7 +90,7 @@ layout: blog-post.njk
 
 <h3>Sunbrella or Solution-Dyed Acrylic Cushion Fabric</h3>
 
-<p>Outdoor cushion fabric is where most people make the biggest mistake. Polyester cushion fabric will fade to a pale, sad version of its original color within one season in the desert. The solution is solution-dyed acrylic: a process where the color is locked into the fiber during manufacturing, not applied to the surface afterward. Sunbrella is the most well-known brand but it's a category, not just one company.</p>
+<p>Outdoor cushion fabric is where most people make the biggest mistake. Polyester cushion fabric will fade to a pale, sad version of its original color within one season in the desert. The solution is solution-dyed acrylic: a process where the color is locked into the fiber during manufacturing, not applied to the surface afterward. <a href="https://www.sunbrella.com/" target="_blank" rel="noopener noreferrer"><strong>Sunbrella</strong></a> is the most well-known brand but it's a category, not just one company.</p>
 
 <p>Check that any outdoor cushion you buy says "solution-dyed acrylic" in the fabric description. If it says "polyester" or just "100% outdoor fabric" without specifying the construction, it will fade. Not might fade. Will fade.</p>
 
@@ -115,6 +115,8 @@ layout: blog-post.njk
 <h3>Big-Box Bundle Patio Sets</h3>
 
 <p>The $399 six-piece patio set from a home improvement store. You know the one. The cushions are polyester. The frame is painted aluminum that isn't powder-coated properly. The wicker is cheap resin, not HDPE. Everything about it is optimized for the photo and the price point, not for surviving heat. I bought one of these early on. It was gone in 18 months.</p>
+
+<p>Brands worth looking at instead: <a href="https://www.westelm.com/" target="_blank" rel="noopener noreferrer"><strong>West Elm</strong></a> carries outdoor teak and powder-coated aluminum with proper fabric specs. <a href="https://www.cb2.com/" target="_blank" rel="noopener noreferrer"><strong>CB2</strong></a> has some outdoor options that list materials clearly. <a href="https://www.potterybarn.com/" target="_blank" rel="noopener noreferrer"><strong>Pottery Barn</strong></a> is more expensive but tends to be transparent about construction. For cushion fabric specifically, look for anything certified <a href="https://www.sunbrella.com/" target="_blank" rel="noopener noreferrer">Sunbrella</a> in the product spec sheet.</p>
 
 <img src="/blog/images/cozy-cactus-backyard.webp" alt="Cozy Cactus vacation rental backyard in Indio California with community pool access, outdoor space, and desert vegetation" width="1400" height="933" loading="lazy" decoding="async">
 <p class="image-caption">The backyard at The Cozy Cactus. Outdoor furniture here earns its keep every summer.</p>

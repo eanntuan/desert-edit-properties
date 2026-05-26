@@ -95,9 +95,9 @@ This is a good warmup trail if you haven't run in desert terrain before. Loose g
 
 **Distance:** 2-mile loop | **Elevation gain:** 210 feet | **Difficulty:** Easy
 
-The Palm Canyon trail inside Indian Canyons is less a running trail and more a trail you run on. The creek bottom is lined with California fan palms, and the shade is real. The entry fee into Indian Canyons is around $12 per adult, which discourages the crowds that hit South Lykken.
+The Palm Canyon trail inside <a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Canyons</strong></a> is less a running trail and more a trail you run on. The creek bottom is lined with California fan palms, and the shade is real. The entry fee into Indian Canyons is around $12 per adult, which discourages the crowds that hit South Lykken.
 
-The trail is mostly flat with one short climb out of the canyon. If you want somewhere scenic and cooler than the open desert, this is it. Check our [guide to Indian Canyons](/blog/best-hiking-palm-springs/) for the full logistics on fees and timing.
+The trail is mostly flat with one short climb out of the canyon. If you want somewhere scenic and cooler than the open desert, this is it. Check our <a href="/blog/indian-canyons-palm-springs/">guide to Indian Canyons</a> for the full logistics on fees and timing.
 
 ## Araby Trail: Best Views, Worth the Effort
 
@@ -114,7 +114,10 @@ It's a real climb. Loose rock, steep sections, nothing technical but you'll work
 
 **Distance:** 3.7-mile loop | **Elevation gain:** 538 feet | **Difficulty:** Moderate
 
-Murray Canyon is also inside Indian Canyons, south of Palm Canyon. It gets fewer visitors and has a stream running through the lower section most of the year. In wet winters, there are small waterfalls near the top of the loop.
+<img src="/blog/images/desert-canyon-waterfall.webp" alt="Seasonal waterfall in a desert canyon near Palm Springs with native fan palms and rocky terrain" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">Murray Canyon has a seasonal stream and small waterfalls in wet years. One of the more atmospheric runs in the valley.</p>
+
+Murray Canyon is also inside <a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer">Indian Canyons</a>, south of Palm Canyon. It gets fewer visitors and has a stream running through the lower section most of the year. In wet winters, there are small waterfalls near the top of the loop.
 
 This is a trail where you'll actually feel like you're in a canyon rather than on a hillside. The terrain is varied, with some creek crossings that can be muddy in early spring. Good choice if you've done South Lykken and want something that takes a bit more attention.
 
@@ -122,7 +125,7 @@ This is a trail where you'll actually feel like you're in a canyon rather than o
 
 **Distance:** 4.6 miles (Palm Springs segment) | **Elevation gain:** 26 meters | **Difficulty:** Easy
 
-The CV Link is a paved multi-use path running through the Coachella Valley, connecting Palm Springs to other valley cities over time. The Palm Springs segment runs along the eastern edge of the city. It's flat, it's wide, and leashed dogs are welcome.
+The <a href="https://coachellavalleylink.com/" target="_blank" rel="noopener noreferrer"><strong>CV Link</strong></a> is a paved multi-use path running through the Coachella Valley, connecting Palm Springs to other valley cities over time. The Palm Springs segment runs along the eastern edge of the city. It's flat, it's wide, and leashed dogs are welcome.
 
 This is the best option if you're running with a dog, pushing a stroller, or just want a predictable surface after a few days on loose desert rock. It lacks the drama of the mountain trails, but the views are still the Coachella Valley on one side and the San Jacinto Mountains on the other.
 
@@ -130,7 +133,7 @@ This is the best option if you're running with a dog, pushing a stroller, or jus
 
 **Distance:** 1.6-mile loop | **Elevation gain:** 833 feet | **Difficulty:** Hard
 
-Museum Trail starts near the Palm Springs Art Museum and goes almost straight up the hillside behind it. At 833 feet of gain in 1.6 miles, it's the steepest trail on this list by a significant margin. Most people run the bottom and hike the upper switchbacks.
+Museum Trail starts near the <a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Art Museum</strong></a> and goes almost straight up the hillside behind it. At 833 feet of gain in 1.6 miles, it's the steepest trail on this list by a significant margin. Most people run the bottom and hike the upper switchbacks.
 
 The reward is that you earn the view faster than any other trail in Palm Springs proper. From the top, Downtown Palm Springs looks like a very small grid surrounded by a very large desert. Which is, of course, exactly what it is.
 

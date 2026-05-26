@@ -79,7 +79,7 @@ layout: blog-post.njk
 
 <p>There is something genuinely funny about a surf club in the middle of the Sonoran Desert. The nearest ocean is two hours west. The average July temperature is 115°F. And yet Palm Springs Surf Club exists, and it works.</p>
 
-<p>The facility is operated by BSR Wave Co (the parent company that runs similar operations elsewhere) and sits in Cathedral City, which is technically a separate city from Palm Springs but about 10 minutes from downtown and close enough that everyone calls it Palm Springs. It uses Wavegarden Cove technology to generate real, surfable waves in a roughly 6,000 square foot pool. It opened to real surf sessions, drew the attention of surfers who live nowhere near a coast, and has been a regular stop for desert visitors ever since.</p>
+<p>The facility is operated by BSR Wave Co (the parent company that runs similar operations elsewhere) and sits in Cathedral City, which is technically a separate city from Palm Springs but about 10 minutes from downtown and close enough that everyone calls it Palm Springs. It uses <a href="https://www.wavegarden.com/" target="_blank" rel="noopener noreferrer"><strong>Wavegarden Cove</strong></a> technology to generate real, surfable waves in a roughly 6,000 square foot pool. It opened to real surf sessions, drew the attention of surfers who live nowhere near a coast, and has been a regular stop for desert visitors ever since.</p>
 
 <p>Here's what you need to know before you show up.</p>
 
@@ -139,7 +139,7 @@ layout: blog-post.njk
 
 <p><strong>Parking:</strong> On-site parking is available. Peak season fees may apply. Check signage on arrival.</p>
 
-<p><strong>Food and drinks:</strong> No outside food, outside beverages, coolers, or glass containers are allowed on the venue grounds. Drifters, the on-site restaurant, is open Thursday through Sunday: Thursday and Friday 11am-8pm, Saturday and Sunday 10am-8pm. Plan accordingly if you're visiting on a weekday and want a sit-down meal on-site.</p>
+<p><strong>Food and drinks:</strong> No outside food, outside beverages, coolers, or glass containers are allowed on the venue grounds. Drifters, the on-site restaurant at <a href="https://palmspringssurfclub.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Surf Club</strong></a>, is open Thursday through Sunday: Thursday and Friday 11am-8pm, Saturday and Sunday 10am-8pm. Plan accordingly if you're visiting on a weekday and want a sit-down meal on-site.</p>
 
 <p><strong>Height and age requirements:</strong> Minimum height is 42 inches to participate in surf sessions. Children under 14 must be supervised by a participating adult in the water.</p>
 
@@ -155,7 +155,7 @@ layout: blog-post.njk
 
 <p>Sessions run $80+ and this isn't a casual splash pool. If surfing is your thing, or you've always wanted to try it in a controlled environment with good instruction, the price makes sense. The venue handles non-surfers well enough that bringing a mixed group isn't a problem.</p>
 
-<p>If you're building it into a Palm Springs weekend, the <a href="/blog/palm-springs-weekend-itinerary/">3-day Palm Springs itinerary</a> has a sensible structure for fitting the Surf Club into a larger trip. And if you're staying in Palm Springs for that weekend, <a href="/the-sundune/">The Sundune</a> is our 2-bedroom at 5301 E Waverly Drive, 1.3 miles from the facility, about 3 minutes by car.</p>
+<p>If you're building it into a Palm Springs weekend, the <a href="/blog/palm-springs-weekend-itinerary/">3-day Palm Springs itinerary</a> has a sensible structure for fitting the Surf Club into a larger trip. The <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide</a> covers the rest of the day: coffee, brunch, and dinner once you're done surfing. And if you're staying in Palm Springs for that weekend, <a href="/the-sundune/">The Sundune</a> is our 2-bedroom at 5301 E Waverly Drive, 1.3 miles from the facility, about 3 minutes by car.</p>
 
 <img src="/blog/images/pssc-restaurant-pool-view.webp" alt="PSSC restaurant terrace with diners overlooking the wave pool lounge and desert mountains at Palm Springs Surf Club" width="1400" height="933" loading="lazy">
 <p class="image-caption">The restaurant at PSSC overlooks the full venue. If you're bringing people who aren't surfing, this is where they'll be. Solid food and a genuinely good view.</p>

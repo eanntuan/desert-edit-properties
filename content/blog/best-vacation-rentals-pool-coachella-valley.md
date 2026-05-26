@@ -108,7 +108,7 @@ layout: blog-post.njk
 
 <h2>What the Properties in Our Portfolio Actually Have</h2>
 
-<p>I'll just tell you directly, because vague descriptions are what got me into this whole soapbox.</p>
+<p>I'll just tell you directly, because vague descriptions are what got me into this whole soapbox. And if timing is still a question, the <a href="/blog/best-time-to-visit-palm-springs/">seasonal guide to Palm Springs</a> breaks down exactly when pool weather peaks and when you'll be fighting for availability.</p>
 
 <p><a href="/cozy-cactus/">The Cozy Cactus</a> in Indio: private in-ground pool, full-length, heated. Community hot tub steps from the back gate through the Indian Palms community. Walking distance to the Coachella festival grounds. This is the property where the pool strategy I described earlier: leave at 3pm, swim, nap, go back for the evening sets. It actually works in practice.</p>
 

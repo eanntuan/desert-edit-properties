@@ -106,11 +106,11 @@ layout: blog-post.njk
 
 <p>Scottsdale has more courses and more high-profile ones. TPC Scottsdale, where the Waste Management Phoenix Open is played, is here. Courses are generally well-maintained year-round given Scottsdale's larger golf tourism infrastructure.</p>
 
-<p>Palm Springs and the Coachella Valley have over 100 courses. Indian Wells hosts the BNP Paribas Open and has excellent resort courses. The views (playing with the San Jacinto Mountains as backdrop) are among the best in the country. Serious golfers could argue either city depending on specific courses.</p>
+<p>Palm Springs and the Coachella Valley have over 100 courses. Indian Wells hosts the <a href="https://bnpparibasopen.com/" target="_blank" rel="noopener noreferrer"><strong>BNP Paribas Open</strong></a> and has excellent resort courses. The views (playing with the San Jacinto Mountains as backdrop) are among the best in the country. Serious golfers could argue either city depending on specific courses.</p>
 
 <h2>Nature and Day Trips</h2>
 
-<p>Palm Springs has a clear edge here. The Palm Springs Aerial Tram takes you from desert floor to 8,516 feet in 10 minutes. Joshua Tree National Park is 40 minutes away. The Salton Sea is 45 minutes. The San Jacinto Wilderness is accessible from downtown. The natural variety within driving distance is exceptional.</p>
+<p>Palm Springs has a clear edge here. The <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tram</strong></a> takes you from desert floor to 8,516 feet in 10 minutes. <a href="https://www.nps.gov/jotr/" target="_blank" rel="noopener noreferrer"><strong>Joshua Tree National Park</strong></a> is 40 minutes away. The Salton Sea is 45 minutes. The San Jacinto Wilderness is accessible from downtown. The natural variety within driving distance is exceptional. See the <a href="/blog/salton-sea-day-trip/">Salton Sea day trip guide</a> for what to expect on that one.</p>
 
 <p>Scottsdale has Camelback Mountain and Pinnacle Peak for hiking, both excellent. The Sonoran Desert is beautiful. But the dramatic elevation changes and unique ecosystems accessible from Palm Springs don't have a direct equivalent.</p>
 
@@ -123,6 +123,9 @@ layout: blog-post.njk
 <p>Choose Scottsdale if: you're coming from Phoenix or the Midwest, you want a resort with a full pool complex and spa and don't plan to leave the property much, or you want the classic bachelorette bar crawl setup.</p>
 
 <p>Both are good. They're just different trips.</p>
+
+<img src="/blog/images/ps-house-cactus-garden.webp" alt="Palm Springs midcentury modern home with cactus garden and desert landscaping in a residential neighborhood" width="1400" height="934" loading="lazy" decoding="async">
+<p class="image-caption">Palm Springs has character on every block. It's harder to find that in Scottsdale outside the resort corridors.</p>
 
 <p>For more on the Palm Springs side of this comparison, the <a href="/blog/palm-springs-neighborhood-guide/">Palm Springs neighborhood guide</a> breaks down which part of the city fits which kind of trip. And if you're weighing a vacation rental against a resort stay, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> gets into the specifics of where in the valley to base yourself.</p>
 

@@ -102,11 +102,11 @@ layout: blog-post.njk
 
 <p>The Coachella Valley has genuinely good food, and most of it isn't on the main drag. A few places worth knowing:</p>
 
-<p><strong>Shields Date Garden</strong> in Indio has been there since 1924. Date shakes are not a gimmick. Get one.</p>
+<p><a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> in Indio has been there since 1924. Date shakes are not a gimmick. Get one.</p>
 
-<p><strong>Papa Headz</strong> in Indio for breakfast burritos. Cash only, worth it.</p>
+<p><a href="https://www.papaheadz.com/" target="_blank" rel="noopener noreferrer"><strong>Papa Headz</strong></a> in Indio for smash burgers and breakfast burritos. Worth it.</p>
 
-<p><strong>Saguaro Coffee</strong> in Indio if you need a proper coffee situation before the day starts.</p>
+<p><a href="https://www.everbloom.coffee/" target="_blank" rel="noopener noreferrer"><strong>Everbloom Coffee</strong></a> in Indio if you need a proper coffee situation before the day starts. In-house roasted beans and house-made syrups.</p>
 
 <p>For a full breakdown, our <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers 10 spots that don't show up on the tourist maps. If you're staying closer to Palm Springs, <a href="/blog/palm-springs-coffee-guide/">this Palm Springs coffee guide</a> covers the best morning options.</p>
 
@@ -120,6 +120,9 @@ layout: blog-post.njk
 <p>If you're here for a festival (Coachella, Stagecoach), the calculus changes. Staying walkable to the venue is a different trip than staying in Palm Springs and commuting. We cover that in detail in our <a href="/blog/where-to-stay-coachella-2026/">Coachella accommodation guide</a>.</p>
 
 <p>For everyday driving: gas up before you need to. The valley is large and not all areas have stations close together.</p>
+
+<img src="/blog/images/saguaro-coffee-indio.webp" alt="Saguaro Coffee in Indio CA, a local specialty roastery in downtown Indio Coachella Valley" width="1400" height="920" loading="lazy" decoding="async">
+<p class="image-caption">Saguaro Coffee in downtown Indio. Local roast, house-made syrups, open at 7am. Get your coffee before the valley heats up.</p>
 
 <h2>Mornings Are the Whole Thing</h2>
 

@@ -89,7 +89,7 @@ layout: blog-post.njk
 
 <p>Follow along to read about my journey to becoming a 4x vacation rental owner, property manager, Youtube university student, a kind-of handy woman, decent interior designer, and bargain shopper. This series of blogs is part reflection on what I've learned as a short term rental host, and maybe some inspiration that you, too, can do this, because I still feel like I don't know what I'm doing! I've also written a deeper dive into <a href="/blog/cozy-cactus-origin-story/">the origin story of buying my first vacation rental in Indio</a> and a full breakdown of <a href="/blog/cozy-cactus-what-i-built/">what I built and why families keep coming back</a>.</p>
 
-<p>Here's what I changed. First, I hired Dawn Asher, of <a href="https://www.theolivejar.co/" target="_blank">The Olive Jar</a>. Not only did she help me unify the design into one cohesive home, but she also helped me reframe my hospitality mindset, that every detail matters, and creating moments of experiential hospitality (her buzz words!) would set me apart from the rest of the cookie cutter homes in the desert. Turns out, she is a genius, and she was right.</p>
+<p>Here's what I changed. First, I hired Dawn Asher, of <a href="https://theolivejar.co/" target="_blank" rel="noopener noreferrer"><strong>The Olive Jar</strong></a>. Not only did she help me unify the design into one cohesive home, but she also helped me reframe my hospitality mindset, that every detail matters, and creating moments of experiential hospitality (her buzz words!) would set me apart from the rest of the cookie cutter homes in the desert. Turns out, she is a genius, and she was right.</p>
 
 <img src="/blog/images/cc-dawn-designer.webp" alt="Eann and Dawn Asher of The Olive Jar at The Cozy Cactus" loading="lazy" decoding="async" width="1400" height="934">
 <p class="image-caption">Dawn, the mastermind, whom I now call a friend!!</p>
@@ -146,7 +146,7 @@ layout: blog-post.njk
 <img src="/blog/images/cozy-cactus-mural.webp" alt="Colorful hand-painted mural on The Cozy Cactus backyard wall in Indio CA" loading="lazy" decoding="async" width="1400" height="934">
 <p class="image-caption">I joke that this mural was painted by a "local artist," aka yours truly. Took lots of measurements and painter's tape, but not too shabby!</p>
 
-<p>I'm not trying to win design awards, though we did get featured on a <a href="https://minoan.com/blog/host-spotlight-eann" target="_blank">Minoan blog post</a>! I'm trying to solve the problem of families who book a vacation rental and end up more exhausted than before they left. That's The Cozy Cactus. Families keep coming back. They don't just survive vacation. They enjoy it.</p>
+<p>I'm not trying to win design awards, though we did get featured on a <a href="https://minoan.com/blog/host-spotlight-eann" target="_blank" rel="noopener noreferrer">Minoan blog post</a>! I'm trying to solve the problem of families who book a vacation rental and end up more exhausted than before they left. That's The Cozy Cactus. Families keep coming back. They don't just survive vacation. They enjoy it.</p>
 
 <h2>Frequently Asked Questions</h2>
 

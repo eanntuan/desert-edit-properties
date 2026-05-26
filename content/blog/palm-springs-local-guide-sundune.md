@@ -146,4 +146,4 @@ layout: blog-post.njk
 <h3>Where do locals drink in Palm Springs?</h3>
 <p>Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene.</p>
 
-<p>For more Coachella Valley intel, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the other end of the valley. Different energy, just as worth knowing. And if you're still deciding where to stay: <a href="/the-sundune/">The Sundune</a> is exactly what it sounds like.</p>
+<p>For more Coachella Valley intel, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the other end of the valley. Different energy, just as worth knowing. If you want a full two-day structure for your first Palm Springs visit, the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> maps it out hour by hour. And if you're still deciding where to stay: <a href="/the-sundune/">The Sundune</a> is exactly what it sounds like.</p>

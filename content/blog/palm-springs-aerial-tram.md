@@ -62,7 +62,7 @@ layout: blog-post.njk
 
 <p>Ten minutes. That's how long the ride takes. You get in at the Valley Station at 2,643 feet, the car rotates slowly as it climbs, and by the time you step out at the Mountain Station you're at 8,516 feet and it's 30 to 40 degrees cooler.</p>
 
-<p>In summer, that temperature drop is the whole point. In winter, there's actual snow up there while the valley floor is sitting at 70 degrees. The Palm Springs Aerial Tram is one of the most visited attractions in the Coachella Valley and, in my experience, one of the few that earns the attention.</p>
+<p>In summer, that temperature drop is the whole point. In winter, there's actual snow up there while the valley floor is sitting at 70 degrees. The <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tramway</strong></a> is one of the most visited attractions in the Coachella Valley and, in my experience, one of the few that earns the attention.</p>
 
 <p>Here's what you need to know before you go.</p>
 
@@ -158,6 +158,9 @@ layout: blog-post.njk
 
 <h3>Can you hike at the top of the Palm Springs Aerial Tram?</h3>
 <p>Yes. The Mountain Station at 8,516 feet sits at the edge of Mount San Jacinto State Park with over 50 miles of trails. The Desert View Trail is a two-mile loop accessible to most fitness levels. The trail to San Jacinto Peak at 10,834 feet is a serious full-day undertaking requiring ranger check-in. Dogs are allowed on the trails, leashed.</p>
+
+<img src="/blog/images/ps-mcm-neighborhood.webp" alt="Palm Springs midcentury modern neighborhood with flat-roofed homes and the San Jacinto Mountains rising behind, near the tram base" width="1800" height="1200" loading="lazy" decoding="async">
+<p class="image-caption">The valley you're leaving behind. Ten minutes up and the temperature drops 30 degrees.</p>
 
 <h2>Is It Worth It?</h2>
 

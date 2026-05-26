@@ -120,7 +120,7 @@ layout: blog-post.njk
 <p>From Casa Moto, with a dog in tow:</p>
 
 <ul>
-  <li><strong>Shields Date Garden</strong> on Hwy 111 has outdoor space and dog-tolerant energy. Go for the date shake. Let the dog sniff around the grounds. It's a Coachella Valley institution and worth a stop on any trip to Indio.</li>
+  <li><a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> on Hwy 111 has outdoor space and dog-tolerant energy. Go for the date shake. Let the dog sniff around the grounds. It's a Coachella Valley institution and worth a stop on any trip to Indio.</li>
   <li><strong>The Indian Palms neighborhood itself</strong> is the easiest dog activity. The morning walks are genuinely good here, particularly the stretch near the canal that has a little more shade.</li>
   <li><strong>Salton Sea day trip</strong> is 30 minutes south and is one of those experiences that's easier with a dog than without one. The sea itself is strange and beautiful and completely unlike anything else in California. Dogs do fine there.</li>
   <li><strong>Any of the date farms along Hwy 111</strong> welcome foot traffic and most are relaxed about dogs as long as they're on leash.</li>

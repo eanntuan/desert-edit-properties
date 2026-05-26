@@ -101,7 +101,7 @@ Now the longer version.
 
 December is a mixed bag. Some restaurants and shops cut their hours around the holidays, and a lot of locals take the week between Christmas and New Year off. The weather is mild, the crowds haven't peaked yet, and rates are reasonable. It's the quiet version of Palm Springs, which some people prefer.
 
-January and February are when the city starts to wake up. The Palm Springs International Film Festival runs in early January and brings a real energy to Downtown. By February, the BNP Paribas Open tennis tournament in nearby Indian Wells is approaching, and hotel prices reflect it.
+January and February are when the city starts to wake up. The Palm Springs International Film Festival runs in early January and brings a real energy to Downtown. By February, the <a href="https://bnpparibasopen.com/" target="_blank" rel="noopener noreferrer"><strong>BNP Paribas Open</strong></a> tennis tournament in nearby Indian Wells is approaching, and hotel prices reflect it.
 
 If hiking is part of your plan, winter is ideal. The trails are cool enough for long days, and the lower desert has intermittent wildflowers after rain years.
 
@@ -116,7 +116,7 @@ If hiking is part of your plan, winter is ideal. The trails are cool enough for 
 
 Spring is what most people picture when they think of Palm Springs. The temperatures are perfect in March: warm enough for a pool in the afternoon, cool enough for a walk at 7pm. Modernism Week draws architecture obsessives from everywhere. The BNP Paribas Open is legitimately one of the best tennis events in the world and worth planning around.
 
-April brings Coachella and Stagecoach, which transforms the eastern Coachella Valley around Indio. If you're coming for the festivals, plan months ahead. If you're not, you'll find Palm Springs itself quieter than you'd expect since most festival crowds stay closer to the venues in Indio.
+April brings <a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> and <a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach</strong></a>, which transform the eastern Coachella Valley around Indio. If you're coming for the festivals, plan months ahead. If you're not, you'll find Palm Springs itself quieter than you'd expect since most festival crowds stay closer to the venues in Indio.
 
 May is the transition month. Crowds thin and prices drop as temperatures climb toward the 90s. It's still very doable, especially if you structure your day around mornings and evenings. Our [guide on Coachella Valley weekends](/blog/coachella-valley-weekend-getaway/) covers the spring logistics in more detail.
 
@@ -136,9 +136,9 @@ And yet. The hotel rates can drop 50% from peak season. The pools are actually u
 
 ### Splash House
 
-Splash House is a pool festival held across three Palm Springs hotels in June and again in August. The venues rotate but usually include the Margaritaville, Renaissance, and Saguaro. You get a wristband that lets you move between all three hotel pools. Music runs throughout the day, and the programming leans toward electronic and house.
+<a href="https://www.splashhouse.com/" target="_blank" rel="noopener noreferrer"><strong>Splash House</strong></a> is a pool festival held across three Palm Springs hotels in June and again in August. The venues rotate but usually include the Margaritaville, Renaissance, and Saguaro. You get a wristband that lets you move between all three hotel pools. Music runs throughout the day, and the programming leans toward electronic and house.
 
-It's the reason summer in Palm Springs has real value beyond just cheap rates. The Splash House weekends are genuinely fun, and the weeks around them are the quietest and most affordable in the whole calendar year. If you're price-sensitive and heat-tolerant, this is the move. Tickets at [splashhouse.com](https://www.splashhouse.com).
+It's the reason summer in Palm Springs has real value beyond just cheap rates. The Splash House weekends are genuinely fun, and the weeks around them are the quietest and most affordable in the whole calendar year. If you're price-sensitive and heat-tolerant, this is the move. Check the schedule at splashhouse.com.
 
 The summer playbook: book a rental with a private pool, plan outdoor activities before 9am and after 6pm, embrace the afternoon as an indoor reading hour. People who try to replicate their spring or fall trip itinerary in summer get in trouble. People who lean into the rhythm of the desert heat have a good time.
 
@@ -153,7 +153,7 @@ The summer playbook: book a rental with a private pool, plan outdoor activities 
 
 September still has full desert heat. If you're not prepared for that, wait until October. But October and November are legitimately the best-kept secret in Palm Springs. The temperatures are perfect, the summer crowds are gone, peak season hasn't started, and the light is extraordinary.
 
-I've had what I'd call my favorite Palm Springs trips in early November. Everything is open, nothing is overcrowded, and the desert has this amber late-afternoon light that photographers make entire careers chasing. Palm Springs Pride in early November draws a lively crowd without overwhelming the city.
+I've had what I'd call my favorite Palm Springs trips in early November. Everything is open, nothing is overcrowded, and the desert has this amber late-afternoon light that photographers make entire careers chasing. Palm Springs Pride in early November draws a lively crowd without overwhelming the city. <a href="https://www.villagefestpalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>VillageFest</strong></a>, the weekly Thursday night street fair on Palm Canyon, runs year-round and is worth catching at least once.
 
 If you want the weather of spring without the crowds and prices of spring, October to mid-November is the answer. It won't stay a secret forever.
 
@@ -183,9 +183,12 @@ If you want the weather of spring without the crowds and prices of spring, Octob
     <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">September</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">101°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">72°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Still hot, rates stay low</td></tr>
     <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">October</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">91°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">61°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Shoulder season, hiking window opens</td></tr>
     <tr><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">November</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">78°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">51°F</td><td style="padding:0.45rem 0.75rem;border-bottom:1px solid #e8ddd0;">Palm Springs Pride, Village Fest in full swing</td></tr>
-    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;">December</td><td style="padding:0.45rem 0.75rem;">69°F</td><td style="padding:0.45rem 0.75rem;">43°F</td><td style="padding:0.45rem 0.75rem;">Quiet season, Living Desert WildLights</td></tr>
+    <tr style="background:#fdf8f2;"><td style="padding:0.45rem 0.75rem;">December</td><td style="padding:0.45rem 0.75rem;">69°F</td><td style="padding:0.45rem 0.75rem;">43°F</td><td style="padding:0.45rem 0.75rem;">Quiet season, <a href="https://www.livingdesert.org/" target="_blank" rel="noopener noreferrer">Living Desert</a> WildLights</td></tr>
   </tbody>
 </table>
+
+<img src="/blog/images/tennis-stadium-crowd.webp" alt="Packed tennis stadium at the BNP Paribas Open in Indian Wells California with desert mountains in the background" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The BNP Paribas Open at Indian Wells. One of the best tennis events in the world, and a reason hotel rates spike across the entire valley in March.</p>
 
 ## The One Thing That Changes Everything
 

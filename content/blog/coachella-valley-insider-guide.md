@@ -81,17 +81,17 @@ relatedPosts:
 
 <p>Let's get this out of the way: the Coachella Valley has good food. Not "good for the desert" good. Good.</p>
 
-<p><strong>Shields Date Garden</strong> in Indio is the move everyone skips because it sounds like a tourist trap. It's not. Go for the date shake (obviously), but stay for the date crystals and the weirdly charming film about date pollination from the 1950s. You'll leave with a bag of Medjools and zero regrets.</p>
+<p><a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> in Indio is the move everyone skips because it sounds like a tourist trap. It's not. Go for the date shake (obviously), but stay for the date crystals and the weirdly charming film about date pollination from the 1950s. You'll leave with a bag of Medjools and zero regrets.</p>
 
 <p>For Mexican food, you're spoiled. The valley is full of family-run spots where the salsa is made that morning and the tortillas are pressed while you wait. Ask any local and they'll give you a different answer. That's because there are dozens of right answers.</p>
 
 <p>Downtown Palm Springs has the upscale dining scene if that's your thing. El Jefe for tacos and mezcal. Workshop Kitchen + Bar if you want to feel fancy. Some of the best meals I've had out here cost under $12.</p>
 
-<p>A few specific picks near <a href="/blog/indio-local-gems/">The Cozy Cactus in Indio</a>: Gambino's for savory crepes, Papa Headz for smash burgers, Everbloom for matcha that rivals anything in LA, and L&amp;G Desert Store for fresh tamales and Medjool dates grown a few miles away.</p>
+<p>A few specific picks near <a href="/blog/indio-local-gems/">The Cozy Cactus in Indio</a>: Gambino's for savory crepes, Papa Headz for smash burgers, <a href="https://www.everbloom.coffee/" target="_blank" rel="noopener noreferrer">Everbloom</a> for matcha that rivals anything in LA, and L&amp;G Desert Store for fresh tamales and Medjool dates grown a few miles away.</p>
 
 <h2>Joshua Tree (Yes, It's Worth the Drive)</h2>
 
-<p>About 45 minutes from Indio. People treat it like a day trip. It should be.</p>
+<p>About 45 minutes from Indio. People treat it like a day trip. It should be. <a href="https://www.nps.gov/jotr/" target="_blank" rel="noopener noreferrer">Joshua Tree National Park</a> is one of the most accessible wilderness experiences in Southern California.</p>
 
 <p>Get there early. Like, sunrise early. The park is a completely different place at 6 AM versus noon. The light hits those rock formations and you'll understand why every photographer in California makes the pilgrimage.</p>
 
@@ -106,14 +106,14 @@ relatedPosts:
 
 <p>Palm Springs proper is about 30 minutes west of Indio, and it's worth exploring beyond the Instagram spots.</p>
 
-<p><strong>The Palm Springs Art Museum</strong> is worth your time. Small enough to see in a couple hours, big enough to surprise you. The architecture alone is worth the visit.</p>
+<p><a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>The Palm Springs Art Museum</strong></a> is worth your time. Small enough to see in a couple hours, big enough to surprise you. The architecture alone is worth the visit.</p>
 
 <p><strong>Palm Canyon Drive</strong> is the main drag. Wander it. Pop into the vintage shops. Get an overpriced cocktail at a mid-century modern hotel bar. That's the Palm Springs experience and it delivers.</p>
 
 <img src="/blog/images/ps-vintage-cadillac.webp" alt="Vintage silver Cadillac parked on a Palm Springs street with palm trees and mountains" loading="lazy" width="800" height="533">
 <p class="image-caption">Palm Springs has always had this energy. Some things don't change.</p>
 
-<p><strong>The Aerial Tramway</strong> takes you from desert floor to 8,500 feet in ten minutes. The temperature drops 30 degrees. In summer, that's the whole selling point. In winter, there's actual snow up there while it's 70 degrees below.</p>
+<p><a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>The Aerial Tramway</strong></a> takes you from desert floor to 8,500 feet in ten minutes. The temperature drops 30 degrees. In summer, that's the whole selling point. In winter, there's actual snow up there while it's 70 degrees below.</p>
 
 <img src="/blog/images/ps-midcentury-teal-door.webp" alt="Mid-century modern home with teal door and palm trees in Palm Springs CA" loading="lazy" width="800" height="533">
 <p class="image-caption">The mid-century architecture neighborhoods are worth an afternoon just walking and looking.</p>
@@ -141,7 +141,7 @@ relatedPosts:
 <img src="/blog/images/ps-desert-valley-view.webp" alt="Wide desert valley view from above with palm trees and mountains surrounding the Coachella Valley" loading="lazy" width="800" height="533">
 <p class="image-caption">The valley from above. Joshua Tree to the north, Salton Sea to the south, everything in between.</p>
 
-<p><strong>Indian Canyons</strong> in Palm Springs. Ancient Cahuilla trading routes lined with California fan palms. The Andreas Canyon trail follows a stream through a palm oasis. It feels like you walked through a portal into somewhere tropical.</p>
+<p><a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Canyons</strong></a> in Palm Springs. Ancient Cahuilla trading routes lined with California fan palms. The Andreas Canyon trail follows a stream through a palm oasis. It feels like you walked through a portal into somewhere tropical.</p>
 
 <p><strong>Painted Canyon</strong> near Mecca (yes, there's a Mecca in California). Slot canyon. Ladder Canyon trail. You're literally climbing ladders bolted into canyon walls. It's free and it's one of the best hikes in Southern California. Not an exaggeration.</p>
 
@@ -154,7 +154,7 @@ relatedPosts:
 
 <p>The wind comes up almost every afternoon. Plan outdoor activities for morning.</p>
 
-<p>Thursday nights in Palm Springs is VillageFest. They close down Palm Canyon Drive for a street fair. Worth going at least once: it's the real Palm Springs, not the resort version.</p>
+<p>Thursday nights in Palm Springs is <a href="https://www.villagefestpalmsprings.com/" target="_blank" rel="noopener noreferrer">VillageFest</a>. They close down Palm Canyon Drive for a street fair. Worth going at least once: it's the real Palm Springs, not the resort version.</p>
 
 <p>The best sunsets are looking west from Indio toward the San Jacinto mountains. The alpenglow on those peaks is unreal.</p>
 

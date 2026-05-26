@@ -92,7 +92,7 @@ If you're coming to Palm Springs to hunt for mid-century furniture, explore inde
 
 ## Downtown: First-Timers, Nightlife, Walkability
 
-Downtown is the area around the 100-400 blocks of South Palm Canyon Drive and the surrounding streets. This is where most visitors default to, and for good reason. Restaurants, bars, shops, and the Marilyn Monroe statue are all within walking distance. On Thursday nights, <a href="/blog/village-fest-palm-springs/">VillageFest</a> turns Palm Canyon Drive into a street fair with food stalls and live art.
+Downtown is the area around the 100-400 blocks of South Palm Canyon Drive and the surrounding streets. This is where most visitors default to, and for good reason. Restaurants, bars, shops, and the Marilyn Monroe statue are all within walking distance. On Thursday nights, <a href="https://villagefest.org/" target="_blank" rel="noopener noreferrer"><strong>VillageFest</strong></a> turns Palm Canyon Drive into a street fair with food stalls and live art. More on what to expect in the <a href="/blog/village-fest-palm-springs/">VillageFest guide</a>.
 
 If it's your first time in Palm Springs and you're not sure which parts you'll like, staying near Downtown means you can walk to most things without a plan. The tradeoff: it's the busiest, noisiest part of the city, especially on weekends. If you want a quiet morning, you won't find it here.
 
@@ -103,7 +103,7 @@ If it's your first time in Palm Springs and you're not sure which parts you'll l
 
 Movie Colony is east of Downtown, roughly between Indian Canyon Drive and Sunrise Way. It was where Hollywood's Golden Age elite built weekend homes, and the architecture reflects that. Albert Frey designed the Movie Colony Hotel in 1935. L'Horizon, now a boutique hotel on East Palm Canyon, came from William F. Cody in 1952.
 
-This neighborhood is quieter than Downtown but still central. It appeals to people who care about where they're sleeping more than how close they are to a bar. The streets are wide, the lots are generous, and you can walk blocks without seeing another tourist. If mid-century architecture is part of why you're coming to Palm Springs, this is worth considering as your home base. Check out our [self-guided mid-century architecture walk](/blog/palm-springs-midcentury-architecture/) for a route worth doing from here.
+This neighborhood is quieter than Downtown but still central. It appeals to people who care about where they're sleeping more than how close they are to a bar. The streets are wide, the lots are generous, and you can walk blocks without seeing another tourist. If mid-century architecture is part of why you're coming to Palm Springs, this is worth considering as your home base. Check out our <a href="/blog/palm-springs-midcentury-architecture/">self-guided mid-century architecture walk</a> for a route worth doing from here. Or take the <a href="/blog/palm-springs-midcentury-architecture-tour/">driving tour version</a> for eight specific stops with golden hour timing.
 
 ## Warm Sands: LGBTQ-Friendly, Quiet, Resort Pools
 

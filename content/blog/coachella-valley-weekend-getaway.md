@@ -106,13 +106,13 @@ layout: blog-post.njk
 
 <p>The activities list for the Coachella Valley is longer than most people expect, especially if you're used to thinking of it purely as a festival destination.</p>
 
-<p><strong>Shields Date Garden</strong> on Hwy 111 in Indio is a non-negotiable stop. A Coachella Valley institution since 1924. They have date shakes, date products in every form imaginable, and a genuine piece of California agricultural history. Go before it gets hot. Buy the Medjool dates. The shield-shaped logo is everywhere for a reason.</p>
+<p><a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> on Hwy 111 in Indio is a non-negotiable stop. A Coachella Valley institution since 1924. They have date shakes, date products in every form imaginable, and a genuine piece of California agricultural history. Go before it gets hot. Buy the Medjool dates. The shield-shaped logo is everywhere for a reason.</p>
 
 <p><strong>Arriola's Tortilleria</strong> in Indio is the kind of place that turns a Saturday morning into a whole thing. Fresh tortillas made in front of you. Tacos. The line moves. Go hungry.</p>
 
-<p><strong>Palm Springs Aerial Tram</strong> is the trip nobody expects to love. You take a rotating gondola up 8,500 feet to the top of Mount San Jacinto. It's 30 to 40 degrees cooler at the top than in the valley below. In summer, this is the one outdoor activity that works. The views of the valley from up there are genuinely striking.</p>
+<p><a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tram</strong></a> is the trip nobody expects to love. You take a rotating gondola up 8,500 feet to the top of Mount San Jacinto. It's 30 to 40 degrees cooler at the top than in the valley below. In summer, this is the one outdoor activity that works. The views of the valley from up there are genuinely striking.</p>
 
-<p><strong>Indian Canyons</strong>, just south of downtown Palm Springs, are worth at least a few hours on a cool morning. Tall palms in canyon bottoms, rock formations, actual running water in some seasons. One of the better hikes in Southern California that most people don't know about.</p>
+<p><a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Canyons</strong></a>, just south of downtown Palm Springs, are worth at least a few hours on a cool morning. Tall palms in canyon bottoms, rock formations, actual running water in some seasons. One of the better hikes in Southern California that most people don't know about. For a full trail breakdown, read our <a href="/blog/indian-canyons-palm-springs/">Indian Canyons hiking guide</a>.</p>
 
 <p><strong>The drive down Hwy 111</strong> from Palm Springs through Cathedral City, Rancho Mirage, Palm Desert, La Quinta, and into Indio is the valley in one transect. Date farms, roadside stands, the transition from resort desert to working desert. Takes about 45 minutes without stops and you'll understand the geography in a way no map conveys.</p>
 

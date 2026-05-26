@@ -55,7 +55,7 @@ layout: blog-post.njk
 }
 </script>
 
-If you're a regular ClassPass user at home, the desert will work but the catalog is smaller. Palm Springs and the surrounding valley have a handful of solid studios on the platform. The selection narrows fast once you filter by time, class type, and availability, especially during Coachella or BNP Paribas weeks when visitors flood in and regulars keep their bookings.
+If you're a regular <a href="https://classpass.com/" target="_blank" rel="noopener noreferrer"><strong>ClassPass</strong></a> user at home, the desert will work but the catalog is smaller. Palm Springs and the surrounding valley have a handful of solid studios on the platform. The selection narrows fast once you filter by time, class type, and availability, especially during Coachella or BNP Paribas weeks when visitors flood in and regulars keep their bookings.
 
 Worth knowing upfront: the Coachella Valley is spread across several cities. Palm Springs, Palm Desert, and Cathedral City all have different studio clusters. Searching "Palm Springs" in the app only returns what's in the city proper. Widen your search radius to pull in the full valley.
 
@@ -102,6 +102,9 @@ The valley has several drop-in studios that don't use ClassPass at all. Palm Spr
 If you want something outdoor and the heat is tolerable, the Indian Canyons trails and the trails at Palm Springs offer solid morning hikes that don't require a reservation. The [Palm Springs morning guide](/blog/palm-springs-morning-vs-evening/) covers some of this if you want the fuller picture on timing your outdoor time right.
 
 <img src="/blog/images/ps-desert-moonrise.webp" alt="Desert moonrise over Palm Springs with palm trees silhouetted against a pink and blue sky" loading="lazy" width="1400" height="933">
+
+<img src="/blog/images/sundune-palm-springs-condo.webp" alt="The Sundune vacation rental in Palm Springs California, close to ClassPass fitness studios and hiking trails" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The Sundune in Palm Springs. An early morning class fits naturally into a stay here. Most studios are within a 10-minute drive.</p>
 
 ## Booking Tips
 

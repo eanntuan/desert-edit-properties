@@ -56,7 +56,7 @@ layout: blog-post.njk
 }
 </script>
 
-<p>Nobody had Justin Bieber on their Coachella 2026 bingo card. He walked onto the Sahara tent stage unannounced, no set list, no hype buildup, and the crowd just went sideways. The clips hit every platform inside 20 minutes. Search trends spiked 2,300% before he'd finished the third song.</p>
+<p>Nobody had Justin Bieber on their <a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> 2026 bingo card. He walked onto the Sahara tent stage unannounced, no set list, no hype buildup, and the crowd just went sideways. The clips hit every platform inside 20 minutes. Search trends spiked 2,300% before he'd finished the third song.</p>
 
 <p>I watched from my couch in Indio, which is exactly 7 minutes from where that happened. And sitting there, I kept thinking: there's a practical lesson buried in each of those five minutes. Five of them, specifically.</p>
 
@@ -92,7 +92,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/coachella-festival-crowd.webp" alt="Festival crowd at Coachella in the Coachella Valley desert" width="1400" height="933" loading="lazy">
 
-<p>Coachella runs the first two weekends of April. Stagecoach runs the last weekend. Same polo grounds in Indio. Completely different crowd, energy, and what-to-expect-at-midnight situation. If you've never compared the two directly, the <a href="/blog/stagecoach-2026-where-to-stay/">Stagecoach guide</a> is worth five minutes of your time before you book anything.</p>
+<p>Coachella runs the first two weekends of April. <a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach</strong></a> runs the last weekend. Same polo grounds in Indio. Completely different crowd, energy, and what-to-expect-at-midnight situation. If you've never compared the two directly, the <a href="/blog/stagecoach-2026-where-to-stay/">Stagecoach guide</a> is worth five minutes of your time before you book anything.</p>
 
 <p>The reason it matters for your rental: Stagecoach guests tend to drive in, pack coolers, and want outdoor space for tailgating. Coachella guests lean harder on late nights, are younger on average, and the noise at 2am in the neighborhood reads differently. Both work great with the right property. The property that's perfect for one crowd can feel wrong for the other.</p>
 
@@ -116,7 +116,9 @@ layout: blog-post.njk
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at Cozy Cactus vacation rental in Indio CA, minutes from Coachella" width="1400" height="933" loading="lazy">
 
-<p>The smartest move after a festival like this one is to lock in your housing before the tickets even go on sale. Every year I watch groups scramble for rentals in March because they waited until the lineup dropped. The houses closest to the polo grounds go first. If you want 7-10 minutes from the Empire Polo Club with a private pool or hot tub, <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both worth looking at now, before the May 1 ticket rush puts everyone in booking mode at the same time.</p>
+<p>The smartest move after a festival like this one is to lock in your housing before the tickets even go on sale. Every year I watch groups scramble for rentals in March because they waited until the lineup dropped. The houses closest to the polo grounds go first. If you want 7-10 minutes from the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> with a private pool or hot tub, <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both worth looking at now, before the May 1 ticket rush puts everyone in booking mode at the same time.</p>
+
+<p>Read the <a href="/blog/where-to-stay-coachella-2026/">full Coachella 2026 accommodation guide</a> for a breakdown of what's close, what it costs, and why Indio is the right base. And if you're figuring out what to do in the valley between festival weekends, the <a href="/blog/indio-between-coachella-weekends/">Indio between Coachella weekends guide</a> has you covered.</p>
 
 <h2>Frequently Asked Questions</h2>
 

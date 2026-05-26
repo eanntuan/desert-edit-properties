@@ -69,14 +69,14 @@ layout: blog-post.njk
 <h2>1. Two Bunch Palms Resort</h2>
 <p><strong>$$$</strong> | Day passes available</p>
 
-<p>The most well-known mineral spa in the area, and the one that earns that reputation. Two Bunch Palms has been operating since the 1940s and the grounds feel it: mature palms, rock grottos, a genuinely unhurried pace. Day passes run around $80 to $140 depending on season and day of week. That gets you access to the main mineral pool and grotto. Spa treatments book out, so plan ahead if that's the goal.</p>
+<p><a href="https://twobunchpalms.com/" target="_blank" rel="noopener noreferrer"><strong>Two Bunch Palms</strong></a> is the most well-known mineral spa in the area, and the one that earns that reputation. Two Bunch Palms has been operating since the 1940s and the grounds feel it: mature palms, rock grottos, a genuinely unhurried pace. Day passes run around $80 to $140 depending on season and day of week. That gets you access to the main mineral pool and grotto. Spa treatments book out, so plan ahead if that's the goal.</p>
 
 <p>They have a specific approach to quiet here. No phones at the pools, no loud conversations. If you're coming with someone who needs to be on a call every 30 minutes, this is not the right spot.</p>
 
 <h2>2. Azure Palm Hot Springs</h2>
 <p><strong>$$</strong> | Day passes available</p>
 
-<p>Azure Palm is a boutique motel-style resort with six private mineral pools. The day pass model here is different from Two Bunch: you book a private outdoor mineral pool by the hour rather than access to a shared pool area. Good if you want the mineral experience without the communal setup. Rates are around $35 to $50 per hour for the pool, depending on size and season. Book online in advance; availability fills up on weekends.</p>
+<p><a href="https://azurepalmhotsprings.com/" target="_blank" rel="noopener noreferrer"><strong>Azure Palm Hot Springs</strong></a> is a boutique motel-style resort with six private mineral pools. The day pass model here is different from Two Bunch: you book a private outdoor mineral pool by the hour rather than access to a shared pool area. Good if you want the mineral experience without the communal setup. Rates are around $35 to $50 per hour for the pool, depending on size and season. Book online in advance; availability fills up on weekends.</p>
 
 <img src="/blog/images/palm-springs-hotel-pool.webp" alt="Outdoor pool at a Palm Springs resort with mountain views, afternoon sun, and desert landscaping" width="1400" height="933" loading="lazy">
 <p class="image-caption">The private pool model at Azure Palm runs differently from traditional spas. Worth it for the solo or couple experience.</p>
@@ -84,7 +84,7 @@ layout: blog-post.njk
 <h2>3. Miracle Springs Resort</h2>
 <p><strong>$$</strong> | Day passes available</p>
 
-<p>Miracle Springs is one of the larger properties in Desert Hot Springs, with seven mineral pools and a full spa. Day passes are available from around $30 to $50. The vibe is more traditional resort than boutique spa: bigger property, more people, but also more pool options. The outdoor pools include a hot mineral option around 104 degrees and a cooler soaking pool. Family-friendly, straightforward, no pretense.</p>
+<p><a href="https://www.miraclesprings.com/" target="_blank" rel="noopener noreferrer"><strong>Miracle Springs Resort</strong></a> is one of the larger properties in Desert Hot Springs, with seven mineral pools and a full spa. Day passes are available from around $30 to $50. The vibe is more traditional resort than boutique spa: bigger property, more people, but also more pool options. The outdoor pools include a hot mineral option around 104 degrees and a cooler soaking pool. Family-friendly, straightforward, no pretense.</p>
 
 <h2>4. Hacienda Hot Springs Inn</h2>
 <p><strong>$$</strong> | Day passes available (call ahead)</p>
@@ -111,6 +111,9 @@ layout: blog-post.njk
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Backyard pool and patio at Terra Luz vacation rental in Indio, desert landscaping and clear blue sky" width="1400" height="933" loading="lazy">
 <p class="image-caption">Terra Luz is your base. Desert Hot Springs is 20 minutes north.</p>
+
+<img src="/blog/images/desert-canyon-waterfall.webp" alt="Desert canyon waterfall near Palm Springs, the kind of landscape visible on the drive to Desert Hot Springs" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The drive through the desert to Desert Hot Springs. Twenty minutes from Indio and a different world.</p>
 
 <h2>Practical Notes for the Drive</h2>
 

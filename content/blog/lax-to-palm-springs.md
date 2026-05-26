@@ -106,10 +106,13 @@ layout: blog-post.njk
 
 <h2>A Note on Festival Weekends</h2>
 
-<p>During Coachella, Stagecoach, and BNP Paribas Open weekends, the I-10 into the valley gets heavy. Friday afternoon inbound and Sunday evening outbound are the worst windows. Arrive Thursday evening or depart Monday morning and the drive is noticeably easier. Rideshare surges are real late at night during festival hours.</p>
+<p>During <a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a>, <a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach</strong></a>, and BNP Paribas Open weekends, the I-10 into the valley gets heavy. Friday afternoon inbound and Sunday evening outbound are the worst windows. Arrive Thursday evening or depart Monday morning and the drive is noticeably easier. Rideshare surges are real late at night during festival hours.</p>
 
 <img src="/blog/images/ps-via-sol-sunset.webp" alt="Desert sunset over the Coachella Valley, the view from Palm Springs at golden hour on a clear evening" width="1400" height="933" loading="lazy">
 <p class="image-caption">What you're driving toward.</p>
+
+<img src="/blog/images/ps-desert-moonrise.webp" alt="Full moon rising over the Coachella Valley desert near Palm Springs at dusk" width="1200" height="1800" loading="lazy" decoding="async">
+<p class="image-caption">The valley at night. Worth staying for.</p>
 
 <h2>Frequently Asked Questions</h2>
 

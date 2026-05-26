@@ -108,11 +108,11 @@ relatedPosts:
 
 <h2>Location</h2>
 
-<p>Indian Palms Country Club neighborhood. Gated, quiet, no through traffic. 7-10 minutes to Empire Polo Club (Coachella/Stagecoach) on surface streets with no freeway. 30 minutes to downtown Palm Springs. 5 minutes to Shields Date Garden.</p>
+<p>Indian Palms Country Club neighborhood. Gated, quiet, no through traffic. 7-10 minutes to Empire Polo Club (Coachella/Stagecoach) on surface streets with no freeway. 30 minutes to downtown Palm Springs. 5 minutes to <a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a>.</p>
 
 <p>During festival weekends especially, that proximity matters. You leave the property, you're there in 8 minutes. You come back, you're in your own backyard. There's something restoring about having a real home base to return to, rather than a hotel room, when the day has been long and the crowd has been big.</p>
 
-<p>For more on the area, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> breaks down where to base yourself and what's close to each. If you're coming for a festival, <a href="/blog/stagecoach-2026-where-to-stay/">this breakdown of Stagecoach rental options</a> puts the Indio proximity in concrete terms.</p>
+<p>For more on the area, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> breaks down where to base yourself and what's close to each. If you're coming for a festival, <a href="/blog/stagecoach-2026-where-to-stay/">this breakdown of Stagecoach rental options</a> puts the Indio proximity in concrete terms. For the local food scene, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the spots worth leaving the pool for.</p>
 
 <h2>What to Know Before You Book</h2>
 

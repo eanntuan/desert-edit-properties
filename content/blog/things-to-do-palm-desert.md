@@ -67,7 +67,7 @@ layout: blog-post.njk
 
 <h2>The Living Desert Zoo and Gardens</h2>
 
-<p>This is the one thing in Palm Desert that's hard to replicate anywhere else in the valley. The Living Desert is a 1,200-acre zoo and botanical garden focused entirely on desert ecosystems. You'll see African and North American desert animals: cheetahs, meerkats, mountain lions, a giraffe feeding station, desert tortoises, and a walk-through African village area. The botanical sections cover cacti and succulents from around the world.</p>
+<p>This is the one thing in Palm Desert that's hard to replicate anywhere else in the valley. <a href="https://www.livingdesert.org/" target="_blank" rel="noopener noreferrer"><strong>The Living Desert Zoo and Gardens</strong></a> is a 1,200-acre zoo and botanical garden focused entirely on desert ecosystems. You'll see African and North American desert animals: cheetahs, meerkats, mountain lions, a giraffe feeding station, desert tortoises, and a walk-through African village area. The botanical sections cover cacti and succulents from around the world.</p>
 
 <p>The scale is intimate enough to do in half a day without feeling rushed. Tickets run about $32 for adults, $22 for children. Worth it, especially in cooler months. In summer, get there when it opens (8am) and leave by noon before the heat spikes.</p>
 
@@ -79,19 +79,19 @@ layout: blog-post.njk
 
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Mid-century modern neighborhood street in the Coachella Valley with palm trees and mountain backdrop" width="1400" height="933" loading="lazy">
 
-<h2>McCallum Theatre</h2>
+<h2><a href="https://www.mccallumtheatre.org/" target="_blank" rel="noopener noreferrer">McCallum Theatre</a></h2>
 
 <p>The valley's main performing arts venue seats about 1,100 and books a solid season: touring Broadway shows, jazz and classical, comedy acts, and international performers. It's on Bob Hope Drive in the center of Palm Desert. If you're staying in the valley for more than a few days, checking the calendar is worth it. Shows sell out during peak season.</p>
 
-<h2>Shields Date Garden</h2>
+<h2><a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer">Shields Date Garden</a></h2>
 
 <p>Technically in Indio (20 minutes east), but worth mentioning because most people hear about it in the Palm Desert context. Shields has been growing and selling Medjool dates since 1924. The retail shop sells date shakes, date bread, and dates in every variety. There's also a short but genuinely charming film about the sex life of the date palm that's been screening there since the 1950s. Go, buy a date shake, watch the film.</p>
 
 <img src="/blog/images/shields-date-garden.webp" alt="Shields Date Garden sign and palm trees in Indio California" width="1400" height="933" loading="lazy">
 
-<h2>Indian Wells Tennis Garden</h2>
+<h2><a href="https://indianwellstennisgarden.com/" target="_blank" rel="noopener noreferrer">Indian Wells Tennis Garden</a></h2>
 
-<p>The Indian Wells Tennis Garden, just east of Palm Desert, hosts the BNP Paribas Open every March, one of the largest tennis tournaments in the world. Outside of tournament weeks, the facility is open for public play on its courts. The grounds are well-maintained and the views of the mountains make it one of the more scenic places to play tennis in California.</p>
+<p>The Indian Wells Tennis Garden, just east of Palm Desert, hosts the <a href="https://bnpparibasopen.com/" target="_blank" rel="noopener noreferrer"><strong>BNP Paribas Open</strong></a> every March, one of the largest tennis tournaments in the world. Outside of tournament weeks, the facility is open for public play on its courts. The grounds are well-maintained and the views of the mountains make it one of the more scenic places to play tennis in California.</p>
 
 <h2>Golf</h2>
 
@@ -104,6 +104,9 @@ layout: blog-post.njk
 <img src="/blog/images/ps-street-mountains.webp" alt="Desert street in the Coachella Valley with mountain views and palm trees" width="1400" height="933" loading="lazy">
 
 <h2>Day Trips from Palm Desert</h2>
+
+<img src="/blog/images/indian-wells-tennis-garden-aerial.webp" alt="Aerial view of Indian Wells Tennis Garden with multiple courts and mountain backdrop in the Coachella Valley" width="1024" height="768" loading="lazy" decoding="async">
+<p class="image-caption">Indian Wells Tennis Garden from above. 29 courts, including a 16,000-seat stadium that hosts the BNP Paribas Open every March.</p>
 
 <p>Palm Desert is a good base for the valley. From here: Palm Springs is 15 minutes west (aerial tram, downtown, mid-century architecture). Coachella and Stagecoach festival grounds are 25 minutes east. Joshua Tree's south entrance is about 50 minutes. Salton Sea is an hour southeast. Read our <a href="/blog/things-to-do-indio-ca/">Indio guide</a> for what's on the eastern side of the valley.</p>
 

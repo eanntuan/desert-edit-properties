@@ -59,7 +59,7 @@ layout: blog-post.njk
 }
 </script>
 
-Most people who visit Palm Springs spend their time on Palm Canyon Drive, then wonder if they should do the aerial tram. Both are fine. But Indian Canyons, which sits at the southern edge of the city on Agua Caliente Band of Cahuilla Indians tribal land, is genuinely different from everything else you can do in the area.
+Most people who visit Palm Springs spend their time on Palm Canyon Drive, then wonder if they should do the <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Aerial Tram</strong></a>. Both are fine. But <a href="https://www.indian-canyons.com/" target="_blank" rel="noopener noreferrer"><strong>Indian Canyons</strong></a>, which sits at the southern edge of the city on Agua Caliente Band of Cahuilla Indians tribal land, is genuinely different from everything else you can do in the area.
 
 It's the only place near Palm Springs where you can walk through a canyon with 2,000-year-old native fan palms, a stream running through it, and actual shade. In a desert where shade is scarce and the landscape often feels post-apocalyptic by 11am, that matters.
 
@@ -125,7 +125,7 @@ Indian Canyons is about 25 miles from our Indio properties. From [The Cozy Cactu
 
 From [The Sundune in Palm Springs](/the-sundune/), it's a 10-minute drive south.
 
-A full Indian Canyons morning leaves you back in Palm Springs by noon with time for lunch on Palm Canyon Drive before it gets too hot. Birba, Workshop Kitchen, or Cheeky's are all worth the stop. Then back to the pool in the afternoon, which is exactly the right order of operations in this climate.
+A full Indian Canyons morning leaves you back in Palm Springs by noon with time for lunch on Palm Canyon Drive before it gets too hot. Birba, Workshop Kitchen, or <a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a> are all worth the stop. See our <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurant guide</a> for the full rundown. Then back to the pool in the afternoon, which is exactly the right order of operations in this climate.
 
 If you want to do the Aerial Tram on the same day, reverse the order. Tram first (cooler up top, better views in the morning), canyons after. Both are ticketed experiences and neither requires advance reservations in shoulder season, though summer weekends on the tram can have long waits.
 

@@ -62,7 +62,7 @@ layout: blog-post.njk
 }
 </script>
 
-<p>Every year, people book Coachella accommodation without fully understanding the trade-offs between options. In 2026, with Justin Bieber on the lineup, the urgency arrived earlier than usual and the mistakes multiplied. On-site camping sounds adventurous until you're sleeping in dust at 2am. A Palm Springs hotel sounds comfortable until you're paying $140 for the Uber home at midnight. A vacation rental sounds ideal until you realize it's 45 minutes from the grounds.</p>
+<p>Every year, people book <a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> accommodation without fully understanding the trade-offs between options. In 2026, with Justin Bieber on the lineup, the urgency arrived earlier than usual and the mistakes multiplied. On-site camping sounds adventurous until you're sleeping in dust at 2am. A Palm Springs hotel sounds comfortable until you're paying $140 for the Uber home at midnight. A vacation rental sounds ideal until you realize it's 45 minutes from the grounds.</p>
 
 <p>I own two vacation rentals in Indio, two miles from the polo grounds. I've talked through this decision with hundreds of guests. Here's the full breakdown of every real option, with honest trade-offs for each.</p>
 
@@ -71,7 +71,7 @@ layout: blog-post.njk
 
 <h2>The Location Question Comes First</h2>
 
-<p>Before you pick an accommodation type, you need to understand the geography. The Coachella Valley is 45 miles east to west. The Empire Polo Club, where the festival happens, is in Indio. That's the eastern end of the valley.</p>
+<p>Before you pick an accommodation type, you need to understand the geography. The Coachella Valley is 45 miles east to west. The <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a>, where the festival happens, is in Indio. That's the eastern end of the valley.</p>
 
 <p>Palm Springs is 30 miles west of Indio. On a normal day, that's 35 minutes. On Coachella weekend, it's 60-90 minutes each direction. That math compounds over three days.</p>
 

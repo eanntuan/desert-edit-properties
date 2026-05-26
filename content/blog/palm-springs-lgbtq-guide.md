@@ -72,7 +72,7 @@ layout: blog-post.njk
 
 <h3>Hunters Nightclub</h3>
 
-<p>Hunters is the main dance bar on Arenas Road. Two indoor spaces plus a patio, nightly entertainment including drag shows, theme nights, and DJs on the weekends. It's been operating for decades and is the most reliably busy venue on the street on a Friday or Saturday night. Cover charges vary by night and event. The outdoor patio is the right move on warmer evenings when the crowds inside get heavy.</p>
+<p><a href="https://hunterspalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>Hunters</strong></a> is the main dance bar on Arenas Road. Two indoor spaces plus a patio, nightly entertainment including drag shows, theme nights, and DJs on the weekends. It's been operating for decades and is the most reliably busy venue on the street on a Friday or Saturday night. Cover charges vary by night and event. The outdoor patio is the right move on warmer evenings when the crowds inside get heavy.</p>
 
 <h3>The Barracks</h3>
 
@@ -80,14 +80,14 @@ layout: blog-post.njk
 
 <h3>Toucan's Tiki Lounge</h3>
 
-<p>Toucan's has been around since 1989 and leans into the tiki aesthetic: tropical drinks, neon lighting, an outdoor area with seating. Drag shows run throughout the week. The vibe is more neighborhood bar than nightclub. Good for early evening before the larger venues fill up.</p>
+<p><a href="https://toucanstikilounge.com/" target="_blank" rel="noopener noreferrer"><strong>Toucan's Tiki Lounge</strong></a> has been around since 1989 and leans into the tiki aesthetic: tropical drinks, neon lighting, an outdoor area with seating. Drag shows run throughout the week. The vibe is more neighborhood bar than nightclub. Good for early evening before the larger venues fill up.</p>
 
 <img src="/blog/images/bootlegger-tiki-palm-springs.webp" alt="Tiki bar interior in Palm Springs with dim lighting, tropical decor, and neon signs" width="1400" height="933" loading="lazy">
 <p class="image-caption">The tiki bar aesthetic shows up in a few Arenas Road spots. Toucan's is the most established version.</p>
 
 <h3>Bar Cecil</h3>
 
-<p>Bar Cecil is on N Palm Canyon Drive rather than Arenas Road, but it's a 10-minute walk and worth including. A cocktail bar with a strong menu, indoor and patio seating, and a crowd that mixes LGBTQ+ locals and visitors with the broader downtown scene. If you want a proper cocktail before heading to the Arenas Road bars, this is where to start.</p>
+<p><a href="https://barcecil.com/" target="_blank" rel="noopener noreferrer"><strong>Bar Cecil</strong></a> is on N Palm Canyon Drive rather than Arenas Road, but it's a 10-minute walk and worth including. A cocktail bar with a strong menu, indoor and patio seating, and a crowd that mixes LGBTQ+ locals and visitors with the broader downtown scene. If you want a proper cocktail before heading to the Arenas Road bars, this is where to start.</p>
 
 <h3>Other Spots Worth Knowing</h3>
 
@@ -145,6 +145,11 @@ layout: blog-post.njk
 
 <h3>When is Palm Springs Pride?</h3>
 <p>The first full weekend in November. A street festival on Saturday, a parade on Sunday morning, and venues running events throughout the weekend. The November timing means ideal weather, with daytime highs in the mid-70s.</p>
+
+<img src="/blog/images/bar-cecil.webp" alt="Bar Cecil interior in Palm Springs with moody lighting, a well-stocked bar, and patio seating visible in the background" width="1000" height="667" loading="lazy" decoding="async">
+<p class="image-caption">Bar Cecil is a 10-minute walk from Arenas Road and the right first stop of the night.</p>
+
+<p>For a fuller picture of the bar scene beyond the LGBTQ+ district, the <a href="/blog/palm-springs-bars/">complete Palm Springs bars guide</a> covers cocktail bars, tiki spots, live music venues, and late-night options across the city. And if Arenas Road is your base for a bachelorette trip or group weekend, the <a href="/blog/palm-springs-bachelorette-guide/">Palm Springs bachelorette guide</a> has the planning framework that works.</p>
 
 <h2>Where to Stay</h2>
 

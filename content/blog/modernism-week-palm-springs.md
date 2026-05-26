@@ -76,7 +76,7 @@ Palm Springs is the right backdrop for this because the city has the density. Th
 
 <img src="/blog/images/ps-orange-door-mcm.webp" alt="Orange door on a mid-century modern Palm Springs home with desert landscaping" loading="lazy" width="1400" height="933">
 
-**Lectures and Screenings.** Many of these are free or low-cost. The Palm Springs Art Museum runs programming throughout the festival, and there are usually architect-led walking tours of specific neighborhoods. These don't sell out the way bus tours do, so they're good to leave open for planning closer to arrival.
+**Lectures and Screenings.** Many of these are free or low-cost. The <a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Art Museum</strong></a> runs programming throughout the festival, and there are usually architect-led walking tours of specific neighborhoods. These don't sell out the way bus tours do, so they're good to leave open for planning closer to arrival.
 
 **Opening Night Party.** February 12 in 2026 had a Modernist Motown theme. These opening events draw a crowd and typically sell out, so if you want the full social experience, buy early.
 
@@ -84,7 +84,7 @@ Palm Springs is the right backdrop for this because the city has the density. Th
 
 Tickets for Modernism Week go live November 1 at noon Pacific Time. That's when the high-demand events disappear. The double-decker bus tours and popular home tours can sell out within hours. Set a calendar reminder.
 
-Tickets are available at [modernismweek.com](https://modernismweek.com). There's no official discount for buying multiple events, but purchasing a pass bundle sometimes makes sense if you're planning to attend five or more ticketed events.
+Tickets are available at <a href="https://modernismweek.com" target="_blank" rel="noopener noreferrer"><strong>modernismweek.com</strong></a>. There's no official discount for buying multiple events, but purchasing a pass bundle sometimes makes sense if you're planning to attend five or more ticketed events.
 
 <img src="/blog/images/ps-midcentury-teal-door.webp" alt="Teal door on a mid-century modern home in Palm Springs with cacti in front" loading="lazy" width="1400" height="933">
 
@@ -114,7 +114,7 @@ The festival runs rain or shine. February temperatures in Palm Springs average a
 
 Parking near event venues fills quickly on weekends. Downtown Palm Springs has a few public lots, but rideshare is easier if you're doing multiple stops. Many attendees rent bikes for the weekend.
 
-The full schedule for all 450+ events is posted at modernismweek.com once it goes live, usually in late October or early November before the February festival.
+The full schedule for all 450+ events is posted at <a href="https://modernismweek.com" target="_blank" rel="noopener noreferrer">modernismweek.com</a> once it goes live, usually in late October or early November before the February festival.
 
 <img src="/blog/images/ps-pink-door-midcentury.webp" alt="Pink door on a Palm Springs mid-century home with palm trees and blue sky" loading="lazy" width="1400" height="933">
 

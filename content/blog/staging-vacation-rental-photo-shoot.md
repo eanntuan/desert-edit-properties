@@ -71,7 +71,7 @@ layout: blog-post.njk
 
 <h2>Why Staging for Photography Is Its Own Skill</h2>
 
-<p>Airbnb guests make booking decisions in about eight seconds of photo scrolling. Not reading. Scrolling. The first image either stops their thumb or it doesn't. If it doesn't, your description, your amenities list, your five-star reviews: none of it matters. They're already on the next listing.</p>
+<p><a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer"><strong>Airbnb</strong></a> guests make booking decisions in about eight seconds of photo scrolling. Not reading. Scrolling. The first image either stops their thumb or it doesn't. If it doesn't, your description, your amenities list, your five-star reviews: none of it matters. They're already on the next listing.</p>
 
 <p>I learned this with our first property, <a href="/cozy-cactus/">Cozy Cactus</a>, where we shot with a point-and-shoot in mixed afternoon light and watched identical properties outbook us three to one. We upgraded the photos. Bookings went up. I've been evangelical about photography ever since.</p>
 
@@ -160,7 +160,7 @@ layout: blog-post.njk
 
 <p>Five days feels like a lot until it's Tuesday morning and you realize Day 5 was Saturday and Saturday was mostly driving to HomeGoods.</p>
 
-<p>Start on Day 5. Do the list. The photos are worth it.</p>
+<p>Start on Day 5. Do the list. The photos are worth it. For more on how the full Terra Luz renovation came together before the shoot, the <a href="/blog/terra-luz-renovation-story/">Terra Luz renovation story</a> covers every room from start to finish.</p>
 
 <h2>FAQ: Staging a Vacation Rental for Photography</h2>
 

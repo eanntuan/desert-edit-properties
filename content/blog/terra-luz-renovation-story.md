@@ -66,7 +66,7 @@ layout: blog-post.njk
 
 <h2>The Brief: Latin/Cuban, Not Boho</h2>
 
-<p>I worked with Dawn Asher (The Olive Jar) on the brand from the beginning. The one thing she said early that changed everything: "Latin/Cuban is not boho." Both use rattan and warm tones. But boho is eclectic and maximalist, while what we were going for had more intention behind it. Old Havana patina. Wabi-sabi warmth. Materials that feel collected and lived-in rather than assembled from a mood board.</p>
+<p>I worked with Dawn Asher at <a href="https://theolivejar.co" target="_blank" rel="noopener noreferrer"><strong>The Olive Jar</strong></a> on the brand from the beginning. The one thing she said early that changed everything: "Latin/Cuban is not boho." Both use rattan and warm tones. But boho is eclectic and maximalist, while what we were going for had more intention behind it. Old Havana patina. Wabi-sabi warmth. Materials that feel collected and lived-in rather than assembled from a mood board.</p>
 
 <p>The six brand filters she set for every decision: cocooned and soothing, vibrant and rejuvenating, cultured, rhythmic, effortless ease, grounded. Every furniture piece, paint color, and tile choice had to pass at least five of those six. It slows you down when you're shopping, but the rooms end up coherent in a way that's hard to fake.</p>
 
@@ -86,7 +86,7 @@ layout: blog-post.njk
 
 <h2>Second Bedroom: Wild Tropics</h2>
 
-<p>This is the room people will photograph. It got the Wild Tropics wallpaper from Rebel Walls in blue. Floor-to-ceiling, 57 feet wide, matte paste-on. Orlin hung it. It took two days.</p>
+<p>This is the room people will photograph. It got the Wild Tropics wallpaper from <a href="https://www.rebellwalls.com/" target="_blank" rel="noopener noreferrer"><strong>Rebel Walls</strong></a> in blue. Floor-to-ceiling, 57 feet wide, matte paste-on. Orlin hung it. It took two days.</p>
 
 <p>The bed has a tile headboard: Merola Manises Decor tiles mounted on a plywood panel, six tiles wide by five tiles tall, rising from baseboard to about 65 inches. The terracotta and blue-white pattern in the tile is its own conversation. Terracotta pendant lamps hang from the wall above artisanal wood nightstands. Standing clothing rack instead of dresser, which keeps the room from feeling crowded in 115 square feet.</p>
 
@@ -122,7 +122,7 @@ layout: blog-post.njk
 
 <p>It took from February to May 2026. Dawn's photo shoot is May 14. The first guests check in May 21.</p>
 
-<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, about 2.5 miles from the Coachella and Stagecoach festival grounds. The full design story behind the brand identity is in the <a href="/blog/terra-luz-origin-story/">Terra Luz origin story</a>.</p>
+<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, about 2.5 miles from the Coachella and Stagecoach festival grounds. The full design story behind the brand identity is in the <a href="/blog/terra-luz-origin-story/">Terra Luz origin story</a>. For the honest guest take on what the finished property is like to stay in, see the <a href="/blog/terra-luz-review/">Terra Luz review</a>.</p>
 
 <h2>FAQ: Terra Luz Renovation</h2>
 

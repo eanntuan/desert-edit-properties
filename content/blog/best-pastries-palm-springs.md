@@ -62,7 +62,7 @@ The timing matters too. Most of the best pastries are gone by mid-morning. If yo
 
 ## Koffi: The Almond Croissant and Coconut Pineapple Muffin
 
-Koffi has four locations in Palm Springs and Rancho Mirage. The flagship is at 515 N Palm Canyon Drive. The bakery kitchen supplies all four cafes daily, which means the pastries are made in-house and arrive fresh rather than sourced from a wholesale supplier.
+<a href="https://kofficoffee.com/" target="_blank" rel="noopener noreferrer"><strong>Koffi</strong></a> has four locations in Palm Springs and Rancho Mirage. The flagship is at 515 N Palm Canyon Drive. The bakery kitchen supplies all four cafes daily, which means the pastries are made in-house and arrive fresh rather than sourced from a wholesale supplier.
 
 The almond croissant here is the one to get. It's flaky where it should be, dense with almond filling in the center, and sized properly, not a tiny airport version of itself. The coconut pineapple muffin is the other standout: distinct flavor, not too sweet, and the kind of thing that pairs well with a black coffee on a warm morning.
 
@@ -72,7 +72,7 @@ Koffi's coffee is the main reason most people go, but the pastry case earns the 
 
 ## Peninsula Pastries: Pain au Chocolat and the Blueberry Cream Cheese Danish
 
-Peninsula Pastries at 611 S Palm Canyon Drive is the most French of the options in Palm Springs. They use imported French flour and Isigny Ste Mere butter, which sounds like marketing until you taste the lamination on the croissants. The difference from a general bakery is clear.
+<a href="https://www.facebook.com/PeninsulaPastriesPalmSprings/" target="_blank" rel="noopener noreferrer"><strong>Peninsula Pastries</strong></a> at 611 S Palm Canyon Drive is the most French of the options in Palm Springs. They use imported French flour and Isigny Ste Mere butter, which sounds like marketing until you taste the lamination on the croissants. The difference from a general bakery is clear.
 
 The pain au chocolat is the flagship item. Proper layers, quality chocolate, not overly sweet. The blueberry cream cheese danish is close behind, with enough cream cheese to register but not enough to feel like dessert at 8am. The chocolate tongue (a chocolate-glazed twisted pastry) is a local favorite worth trying if it's in the case.
 
@@ -82,13 +82,13 @@ One important detail: Peninsula Pastries is closed Monday through Wednesday. Hou
 
 ## Townie Bagels: The Olive and Fennel Bagel
 
-Townie Bagels at 650 E Sunny Dunes Road is technically a bagel shop, not a pastry spot, but the olive and fennel bagel (a weekend special) is worth mentioning as a savory morning pastry alternative. It's water-boiled in the New York style, chewy and dense in a way that most bagels outside of New York fail to achieve. The black and white cookie is also available and better than it has any right to be: buttery, properly balanced between the chocolate and vanilla glaze sides.
+<a href="https://www.towniebagels.com/" target="_blank" rel="noopener noreferrer"><strong>Townie Bagels</strong></a> at 650 E Sunny Dunes Road is technically a bagel shop, not a pastry spot, but the olive and fennel bagel (a weekend special) is worth mentioning as a savory morning pastry alternative. It's water-boiled in the New York style, chewy and dense in a way that most bagels outside of New York fail to achieve. The black and white cookie is also available and better than it has any right to be: buttery, properly balanced between the chocolate and vanilla glaze sides.
 
 Townie fills up on weekend mornings. The wait is part of it.
 
 ## Sherman's Deli and Bakery: Pie by the Slice
 
-Sherman's is more deli than bakery, but the pie case is serious. They make over 25 varieties including lemon dome, Dutch apple, and key lime. If you're looking for a dessert-style pastry stop later in the day rather than first thing in the morning, Sherman's fits better than the croissant spots. Two locations: one on N Palm Canyon Drive in Palm Springs and one in Palm Desert.
+<a href="https://www.shermansdeli.com/" target="_blank" rel="noopener noreferrer"><strong>Sherman's Deli and Bakery</strong></a> is more deli than bakery, but the pie case is serious. They make over 25 varieties including lemon dome, Dutch apple, and key lime. If you're looking for a dessert-style pastry stop later in the day rather than first thing in the morning, Sherman's fits better than the croissant spots. Two locations: one on N Palm Canyon Drive in Palm Springs and one in Palm Desert.
 
 <img src="/blog/images/coffee-bar.webp" alt="Coffee bar setup with pastries and espresso equipment in a desert home" loading="lazy" width="1400" height="933">
 

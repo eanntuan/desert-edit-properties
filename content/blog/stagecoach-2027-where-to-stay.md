@@ -67,7 +67,7 @@ relatedPosts:
 }
 </script>
 
-<p>Stagecoach runs the last weekend of April at the Empire Polo Club in Indio, California. Same grounds as Coachella, different crowd, three days of country music, and one of the more interesting accommodation puzzles in live events because your options range from literal dirt camping to houses with private pools a 7-minute drive from the stage.</p>
+<p><a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach</strong></a> runs the last weekend of April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Same grounds as Coachella, different crowd, three days of country music, and one of the more interesting accommodation puzzles in live events because your options range from literal dirt camping to houses with private pools a 7-minute drive from the stage.</p>
 
 <p>I've hosted Stagecoach guests at my two Indio properties since 2022. Here's what I've seen work and what hasn't.</p>
 
@@ -139,9 +139,12 @@ relatedPosts:
 
 <p>From Indio rentals within the Indian Palms neighborhood, you can rideshare or drive and park. Festival parking at the Empire Polo Club runs $30-50 per day. Rideshare surge is less dramatic than Coachella weekend (the crowd is smaller) but post-headliner pickup still involves a wait. Driving yourself and parking mid-day, then ridesharing back at the end of the night when everyone leaves at once, is often the smoothest split.</p>
 
-<p>For everything else about the area: the <a href="/blog/things-to-do-indio-ca/">Indio local guide</a> covers where to eat and what to do when you're not at the festival. One Stop Taco Shop is 10 minutes from the grounds and you should go for lunch on the day you arrive. That part is non-negotiable.</p>
+<p>For everything else about the area: the <a href="/blog/things-to-do-indio-ca/">Indio local guide</a> covers where to eat and what to do when you're not at the festival. <a href="https://onestoptacoshop.com/" target="_blank" rel="noopener noreferrer"><strong>One Stop Taco Shop</strong></a> is 10 minutes from the grounds and you should go for lunch on the day you arrive. That part is non-negotiable.</p>
 
 <p>And if you want the full comparison between festival accommodation options, the <a href="/blog/where-to-stay-coachella-2026/">Coachella accommodation guide</a> covers the same tradeoffs in detail. Most of it applies equally to Stagecoach.</p>
+
+<img src="/blog/images/festival-dj-stage.webp" alt="Festival stage at night at Stagecoach country music festival at Empire Polo Club in Indio California" width="1800" height="1012" loading="lazy" decoding="async">
+<p class="image-caption">The polo grounds after dark. Late April nights in the desert drop fast, and the stage lights are worth staying for.</p>
 
 <h2>FAQ: Stagecoach 2027</h2>
 

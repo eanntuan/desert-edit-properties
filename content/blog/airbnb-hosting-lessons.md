@@ -57,6 +57,8 @@ layout: blog-post.njk
 
 <p>When I started hosting at <a href="/cozy-cactus/">The Cozy Cactus</a>, I thought the secret was somewhere obvious. Better pool. Nicer towels. A welcome bottle of wine. Four years and 191 reviews later, almost none of that is what guests write about.</p>
 
+<p>If you want the full picture of what makes a desert rental worth booking, the <a href="/blog/coachella-valley-vacation-rental-guide/">Coachella Valley vacation rental guide</a> covers what guests actually evaluate before committing.</p>
+
 <h2>The First 1-Star Review Was About a Garlic Press</h2>
 
 <p>Not the pool. Not the bedroom. A garlic press that was too small.</p>
@@ -134,6 +136,8 @@ layout: blog-post.njk
 <p>Guests don't write about your couch. They write about how the stay made them feel. Most of the time that comes down to whether someone thought about them before they arrived.</p>
 
 <p>If you want to see what this looks like in practice, <a href="/terra-luz/">Terra Luz</a> in Indio is our newest addition and reflects the most updated version of how we think about the guest experience. Or read the broader <a href="/blog/coachella-valley-vacation-rental-guide/">Coachella Valley vacation rental guide</a> if you're still deciding where to stay. And if you're a guest who prefers to skip the platform fees, the <a href="/blog/why-book-direct-vacation-rental/">guide to booking direct</a> explains exactly how it works and what you save.</p>
+
+<p>For guests researching where to stay near Coachella specifically, the <a href="/blog/best-vacation-rentals-pool-coachella-valley/">pool rental guide</a> breaks down what separates a good desert pool situation from one that photographs well and disappoints in person.</p>
 
 <h2>FAQ: Vacation Rental Hosting</h2>
 

@@ -104,9 +104,9 @@ layout: blog-post.njk
 <p>Dinner on night one: make a reservation. Palm Springs restaurants fill up on weekends, especially for groups larger than 4. A few spots that work well for a group dinner:</p>
 
 <ul>
-  <li><strong>Cheeky's:</strong> Known for brunch but also does dinner. The wait is real without a reservation. Great for a lively first-night energy.</li>
-  <li><strong>Tropicale:</strong> Tiki-era throwback with a full bar and good food. The vibe fits the occasion.</li>
-  <li><strong>Workshop Kitchen + Bar:</strong> Industrial-modern space in a historic building on Indian Canyon. Solid cocktail list, good for groups.</li>
+  <li><a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's:</strong></a> Known for brunch but also does dinner. The wait is real without a reservation. Great for a lively first-night energy.</li>
+  <li><a href="https://www.thetropicale.com/" target="_blank" rel="noopener noreferrer"><strong>Tropicale:</strong></a> Tiki-era throwback with a full bar and good food. The vibe fits the occasion.</li>
+  <li><a href="https://www.workshopkitchenbar.com/" target="_blank" rel="noopener noreferrer"><strong>Workshop Kitchen + Bar:</strong></a> Industrial-modern space in a historic building on Indian Canyon. Solid cocktail list, good for groups.</li>
   <li><strong>Eight4Nine:</strong> Restaurant and art gallery with a garden terrace. Books up fast on weekends.</li>
 </ul>
 
@@ -121,7 +121,7 @@ layout: blog-post.njk
 
 <ul>
   <li><strong>Palm Springs Aerial Tram:</strong> 10-minute ride up to 8,500 feet with views of the entire valley. Takes about 2 hours round-trip. You want a light jacket at the top even in summer. Book in advance on weekends. Read the full guide at <a href="/blog/palm-springs-aerial-tram/">Everything to Know About the Palm Springs Aerial Tram.</a></li>
-  <li><strong>Palm Springs Surf Club:</strong> A wave pool about 20 minutes from downtown. They have lessons and open sessions. A genuinely fun 2-3 hour activity for a group that doesn't mind getting wet.</li>
+  <li><a href="https://palmspringssurfclub.com/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Surf Club:</strong></a> A wave pool about 20 minutes from downtown. They have lessons and open sessions. A genuinely fun 2-3 hour activity for a group that doesn't mind getting wet.</li>
   <li><strong>Architecture Walk:</strong> Download the <a href="https://www.psarchitecturalfoundation.org/" target="_blank" rel="noopener">Palm Springs Modern Tours</a> map and walk the residential streets north of downtown. Takes 1.5-2 hours on foot. No tour guide needed.</li>
   <li><strong>Spa day:</strong> Several day spas in the area take group bookings. Agua Caliente Spa and Spa Resort Casino both have public thermal pools that work as a half-day activity without a full treatment booking.</li>
 </ul>

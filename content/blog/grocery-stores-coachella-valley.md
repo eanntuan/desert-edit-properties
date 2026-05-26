@@ -81,7 +81,7 @@ Guests staying at [The Cozy Cactus or Terra Luz](/cozy-cactus/) in Indio are bes
 
 **Trader Joe's** is on North Palm Canyon Drive, right in the thick of things. It's the most popular grocery stop for visitors and locals alike. The parking lot is a rodeo on Friday afternoons and Saturday mornings, so plan accordingly. Bring patience or go early on a weekday. Standard TJ's selection plus some California-regional items.
 
-**Jensen's Fine Foods** has two locations in Palm Springs, on North Palm Canyon and on South Palm Canyon. It's an independent upscale grocery that's been in the desert since 1946. Good deli counter, excellent cheese selection, and the best date selection in the valley if you want to bring some home. Prices are higher than Trader Joe's, but the quality matches.
+<a href="https://jensensfoods.com/choose-store/" target="_blank" rel="noopener noreferrer"><strong>Jensen's Fine Foods</strong></a> has two locations in Palm Springs, on North Palm Canyon and on South Palm Canyon. It's an independent upscale grocery that's been in the desert since 1946. Good deli counter, excellent cheese selection, and the best date selection in the valley if you want to bring some home. Prices are higher than Trader Joe's, but the quality matches.
 
 **Stater Bros** on East Vista Chino is the most utilitarian option in the city. Less character than Jensen's, better for stocking up on quantity. Good produce section.
 
@@ -128,7 +128,7 @@ The best move during festival weeks: shop Thursday afternoon before the crowds a
 
 One thing I tell guests at checkout: the valley has better produce than most people expect, because so much of it is grown locally. Dates, citrus, peppers, and greens from the Imperial Valley and Coachella Valley farms end up in these stores fresher than they would be at a grocery in LA or Phoenix. Ask a Sprouts employee which produce is California-grown and you'll usually be pointed toward something good.
 
-If you're curious about the <a href="/blog/date-farms-indio-coachella-valley/">Coachella Valley date farms</a>, several of them sell direct. It's worth a stop when you're in the area.
+If you're curious about the <a href="/blog/date-farms-indio-coachella-valley/">Coachella Valley date farms</a>, several of them sell direct. It's worth a stop when you're in the area. And if you want the full rundown on local food in Indio beyond the grocery stores, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the neighborhood spots worth knowing.
 
 ## Frequently Asked Questions
 

@@ -80,7 +80,7 @@ layout: blog-post.njk
 
 <h2>The Facebook Marketplace Phase</h2>
 
-<p>Before I knew it, AGAIN, I was researching sofa beds (I still haven't found a comfortable one…), stalking facebook marketplace for the best deals all around town, going to Marshall's, Ross, TJ Max, Homegoods, etc to see if I could find any non-generic wall art (everyone knows the <a href="https://www.wayfair.com/IDEA4WALL--Animals-Portrait-Of-A-Highland-Cow-Black-And-White-Modern-Art-Extra-Large-Framed-Wall-Pictures-FLCA0-L1318-K~SFTD1019.html" target="_blank" rel="noopener noreferrer">cow print</a>). My days turned into bopping all around LA picking up a $10 sound machine (I now know better that time is money), squishing a West Elm dining table in my Honda Element (there has been nothing this car cannot fit), and slowly piecing together a discombobulated Airbnb that I prayed to the Lord almighty was a good decision. A Tesla definitely would've been easier.</p>
+<p>Before I knew it, AGAIN, I was researching sofa beds (I still haven't found a comfortable one…), stalking facebook marketplace for the best deals all around town, going to Marshall's, Ross, TJ Maxx, HomeGoods, etc to see if I could find any non-generic wall art (everyone knows the <a href="https://www.wayfair.com/IDEA4WALL--Animals-Portrait-Of-A-Highland-Cow-Black-And-White-Modern-Art-Extra-Large-Framed-Wall-Pictures-FLCA0-L1318-K~SFTD1019.html" target="_blank" rel="noopener noreferrer">cow print</a>). My days turned into bopping all around LA picking up a $10 sound machine (I now know better that time is money), squishing a West Elm dining table in my Honda Element (there has been nothing this car cannot fit), and slowly piecing together a discombobulated Airbnb that I prayed to the Lord almighty was a good decision. A Tesla definitely would've been easier.</p>
 
 <img src="/blog/images/car-storage.webp" alt="Honda Element packed with vacation rental furniture and storage bins" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">You're going to see a theme throughout my life - how much I love this car.</p>
@@ -100,7 +100,7 @@ layout: blog-post.njk
 
 <p>So when I bought the property that became The Cozy Cactus, I started there. How do families with young kids rest? Not "what makes a cute listing photo," but what makes a mom not want to leave by day two because it's too much work to stay?</p>
 
-<p>If you're curious about the local area surrounding the property, I put together a guide to <a href="/blog/indio-local-gems/">10 Indio gems only locals know about</a>: the restaurants, date farms, and hidden spots worth your time while you're visiting the Coachella Valley.</p>
+<p>If you're curious about the local area surrounding the property, I put together a guide to <a href="/blog/indio-local-gems/">10 Indio gems only locals know about</a>: the restaurants, date farms, and hidden spots worth your time while you're visiting the Coachella Valley. And if you're planning around the heat, the <a href="/blog/desert-vacation-prep/">desert vacation prep guide</a> covers what to pack and how to structure your days.</p>
 
 <img src="/blog/images/family-closet.webp" alt="Family vacation rental closet with baby gear pack n play stroller and travel supplies" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">All. The. Things. Why families needed a different kind of vacation rental<br><small>Photo: Third Wall Photography | Styling: The Olive Jar</small></p>

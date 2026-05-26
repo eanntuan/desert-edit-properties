@@ -101,7 +101,7 @@ layout: blog-post.njk
 
 <h2>Enter Dawn Asher.</h2>
 
-<p>Dawn Asher of <a href="https://www.theolivejar.co/" target="_blank">The Olive Jar</a> came in and did something I didn't expect: she didn't just tell me which pillow to pick. She gave me a framework so I'd never have to ask the question again.</p>
+<p>Dawn Asher of <a href="https://theolivejar.co/" target="_blank" rel="noopener noreferrer"><strong>The Olive Jar</strong></a> came in and did something I didn't expect: she didn't just tell me which pillow to pick. She gave me a framework so I'd never have to ask the question again.</p>
 
 <p>Six brand filters. Six words that would govern every single decision going forward: furniture, linens, wall art, the color of the throw blanket, all of it. She introduced me to "experiential hospitality" (her buzz words; I've since stolen them entirely) and the idea that every detail either adds to the experience or subtracts from it. There's no neutral. A dull knife subtracts. A good coffee bar adds. A boob light subtracts. (We'd already handled those, but still.)</p>
 

@@ -99,7 +99,7 @@ layout: blog-post.njk
 
 <h3>El Tranvia: Birria Before Birria Was Everywhere</h3>
 
-<p>Over in neighboring Coachella (about 10 minutes from central Indio), El Tranvia has been serving their barbacoa-style beef since 1969, long before birria tacos became a national trend that you couldn't escape. The quesabirria tacos are exceptional, the consomé for dipping is rich without being oily, and the tacos gobernador (shrimp and cheese) are worth the detour.</p>
+<p>Over in neighboring Coachella (about 10 minutes from central Indio), <a href="https://tranviarestaurant.com/" target="_blank" rel="noopener noreferrer"><strong>El Tranvia</strong></a> has been serving their barbacoa-style beef since 1969, long before birria tacos became a national trend that you couldn't escape. The quesabirria tacos are exceptional, the consomé for dipping is rich without being oily, and the tacos gobernador (shrimp and cheese) are worth the detour.</p>
 
 <p>This is a legit lunch destination. Get there before the rush or after it. Order more than you think you need because you're going to wish you had.</p>
 
@@ -123,7 +123,7 @@ layout: blog-post.njk
 
 <h3>Everbloom Coffee: Before Any Of the Above</h3>
 
-<p>Two brothers run this minimalist coffee shop, and they take it seriously in the way small independent coffee shops should: the drinks are precise and they use actual ingredients instead of pre-made syrups. The honey lavender latte is the kind of thing you order once as a novelty and then order again because it's that good. If you need to ease yourself into the day without committing to anything ambitious, this is the place.</p>
+<p>Two brothers run <a href="https://www.everbloom.coffee/" target="_blank" rel="noopener noreferrer"><strong>Everbloom Coffee</strong></a>, this minimalist coffee shop, and they take it seriously in the way small independent coffee shops should: the drinks are precise and they use actual ingredients instead of pre-made syrups. The honey lavender latte is the kind of thing you order once as a novelty and then order again because it's that good. If you need to ease yourself into the day without committing to anything ambitious, this is the place.</p>
 
 <div class="quick-info">
     <p><strong>Order:</strong> Honey lavender latte, Madagascar vanilla, freshly squeezed lemonade if it's hot (it's April, it's hot)</p>
@@ -135,7 +135,7 @@ layout: blog-post.njk
 
 <h2>Day Trip: Shields Date Garden (Indio Is the Date Capital of the US. Act Like It.)</h2>
 
-<p>Nearly 95 percent of all dates grown in the United States come from the Coachella Valley. That fact deserves a moment. This whole region, the date palms, the groves, the roadside shakes, is the reason American dates exist the way they do. And the center of that history is Shields Date Garden on Highway 111 in Indio.</p>
+<p>Nearly 95 percent of all dates grown in the United States come from the Coachella Valley. That fact deserves a moment. This whole region, the date palms, the groves, the roadside shakes, is the reason American dates exist the way they do. And the center of that history is <a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> on Highway 111 in Indio.</p>
 
 <p>Floyd and Bess Shields opened it on Christmas Day 1924, and Floyd spent the next decades breeding exclusive date varieties (the Blonde and the Brunette) that are grown nowhere else in the world. He also developed date crystals in 1936 (a kind of powdered date sugar), which became the key ingredient in what is still the most famous thing Shields sells: the date shake.</p>
 
@@ -181,7 +181,7 @@ layout: blog-post.njk
 
 <h2>One More: Rosemary HiFi (The Indio You Didn't Know Existed)</h2>
 
-<p>Somewhere between the date shake and the Salton Sea, squeeze in an evening at Rosemary HiFi. It's in Old Town Indio, it's the Coachella Valley's first vinyl listening lounge, and there is nothing else like it in the desert.</p>
+<p>Somewhere between the date shake and the Salton Sea, squeeze in an evening at <a href="https://www.rosemaryhifi.com/" target="_blank" rel="noopener noreferrer"><strong>Rosemary HiFi</strong></a>. It's in Old Town Indio, it's the Coachella Valley's first vinyl listening lounge, and there is nothing else like it in the desert.</p>
 
 <p>The setup: a custom walnut bar where the usual backlit liquor display has been replaced by the owner's record collection, played through 1960s JBL speakers. Las Palmas Brewing beers on tap. Natural wines, earthy and sulfate-free, served chilled. The kind of sound system that makes you stop mid-conversation to listen to whatever is playing, which is either rude or the entire point depending on how you think about it.</p>
 

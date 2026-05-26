@@ -104,7 +104,7 @@ layout: blog-post.njk
 
 <p><strong>Palm Springs</strong> is iconic. But we landed in <strong>Indio</strong> because it felt more honest. The desert beauty is all here, and the pace is a little easier. You're minutes from Coachella and Stagecoach, 30 minutes from Palm Springs when you want that energy, and 45 minutes from Joshua Tree when you need total quiet.</p>
 
-<p>Indio also has an emerging food scene that doesn't get enough credit. Papa Headz for smash burgers. <a href="/blog/indio-local-gems/">Everbloom for matcha</a> that rivals anything in LA. L&amp;G Desert Store where you can buy fresh tamales and Medjool dates grown a few miles away.</p>
+<p>Indio also has an emerging food scene that doesn't get enough credit. <a href="https://www.papaheadz.com/" target="_blank" rel="noopener noreferrer"><strong>Papa Headz</strong></a> for smash burgers. <a href="https://www.everbloom.coffee/" target="_blank" rel="noopener noreferrer"><strong>Everbloom</strong></a> for matcha that rivals anything in LA. L&amp;G Desert Store where you can buy fresh tamales and Medjool dates grown a few miles away. See the full rundown in the <a href="/blog/indio-local-gems/">Indio local gems guide</a>.</p>
 
 <p>It's the kind of place where you can have a genuinely experiential getaway without the price tag or pretension of a resort. Float in a Kahlo blue pool under a Desert Marigold umbrella. Grill something ridiculous on the patio. Watch <em>Buena Vista Social Club</em> on an inflatable movie screen after dark. It all just fits.</p>
 
@@ -135,6 +135,9 @@ layout: blog-post.njk
 <p>We kept the bones of what made this house special: the open living space, the massive patio, the primary bedroom with its own fireplace and soaking tub. But we deepened the identity.</p>
 
 <p>What replaced it: Sunbaked Terracotta on every outdoor surface, a Kahlo Blue pool that stops you in your tracks, natural rattan and woven textures that feel collected over time, Cuban and Latin cultural details woven throughout, and a wabi-sabi warmth where patina is welcome and lived-in is the point.</p>
+
+<img src="/blog/images/IMG_9550.webp" alt="Terra Luz vacation rental interior in Indio California with Latin Cuban design details and warm terracotta tones" width="1800" height="1350" loading="lazy" decoding="async">
+<p class="image-caption">Inside Terra Luz: every room was built to feel like a destination, not just a place to sleep.</p>
 
 <h2>Who This Place Is For</h2>
 

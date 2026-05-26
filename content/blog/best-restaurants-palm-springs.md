@@ -98,7 +98,7 @@ layout: blog-post.njk
 
 <h3>Koffi North</h3>
 
-<p>Koffi has been in Palm Springs since 2002 and the North location is the original. The outdoor courtyard is shaded, unhurried, and has a view of Mount San Jacinto that makes a cup of coffee feel earned. The bakery kitchen here supplies all four Koffi locations with fresh muffins, scones, and cinnamon rolls. Cold brew is the right call in warm months.</p>
+<p><a href="https://kofficoffee.com/" target="_blank" rel="noopener noreferrer"><strong>Koffi</strong></a> has been in Palm Springs since 2002 and the North location is the original. The outdoor courtyard is shaded, unhurried, and has a view of Mount San Jacinto that makes a cup of coffee feel earned. The bakery kitchen here supplies all four Koffi locations with fresh muffins, scones, and cinnamon rolls. Cold brew is the right call in warm months.</p>
 
 <p><strong>515 N Palm Canyon Dr, Palm Springs, CA 92262.</strong> (760) 416-2244. Daily 6:30am-5:30pm. Find them at <a href="https://www.instagram.com/koffi/" target="_blank" rel="noopener">@koffi</a>.</p>
 
@@ -107,13 +107,13 @@ layout: blog-post.njk
 
 <h3>FARM</h3>
 
-<p>FARM sits in La Plaza, a 1934 historic courtyard in downtown Palm Springs, and it earns the space. French-inspired breakfast and lunch, with savory crepes, fluffy omelets, and serious French-pressed coffee. The courtyard has the kind of light that makes you want to linger past your second cup. Dinner runs a prix fixe rotating menu with a live vocalist nightly. Breakfast and lunch are walk-in only.</p>
+<p><a href="https://farmpalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>FARM</strong></a> sits in La Plaza, a 1934 historic courtyard in downtown Palm Springs, and it earns the space. French-inspired breakfast and lunch, with savory crepes, fluffy omelets, and serious French-pressed coffee. The courtyard has the kind of light that makes you want to linger past your second cup. Dinner runs a prix fixe rotating menu with a live vocalist nightly. Breakfast and lunch are walk-in only.</p>
 
 <p><strong>6 La Plaza, Palm Springs, CA 92262.</strong> (760) 322-2724. Breakfast and lunch daily 8am-2pm (walk-in). Dinner Mon/Tue/Fri/Sat 5-9pm. Find them at <a href="https://farmpalmsprings.com/" target="_blank" rel="noopener">farmpalmsprings.com</a>.</p>
 
 <h3>Les Filles Cafe</h3>
 
-<p>Five minutes from downtown in Cathedral City and worth the drive. The espresso is serious, the croissants are the real reason you go early, and the whole place runs on an easy, unhurried rhythm that's hard to find anywhere on the main Palm Canyon stretch. A genuinely French cafe in the middle of the desert. You'll know you're in the right spot when the owners are out front.</p>
+<p><a href="https://www.instagram.com/lesfillescafe/" target="_blank" rel="noopener noreferrer"><strong>Les Filles Cafe</strong></a> is five minutes from downtown in Cathedral City and worth the drive. The espresso is serious, the croissants are the real reason you go early, and the whole place runs on an easy, unhurried rhythm that's hard to find anywhere on the main Palm Canyon stretch. A genuinely French cafe in the middle of the desert. You'll know you're in the right spot when the owners are out front.</p>
 
 <p><strong>Cathedral City, CA</strong> (approx. 5 min from downtown Palm Springs). Find them at <a href="https://www.instagram.com/lesfillescafe/" target="_blank" rel="noopener">@lesfillescafe</a> for current hours.</p>
 
@@ -122,7 +122,7 @@ layout: blog-post.njk
 
 <h3>Cartel Coffee Lab</h3>
 
-<p>An Arizona-born specialty roaster with a location inside the Arrive Hotel. Direct trade, specific origins, excellent cold brew. The hotel itself is designed well enough to justify a look even if you're not a coffee person. The baristas know their sourcing.</p>
+<p><a href="https://www.cartelcoffee.com/" target="_blank" rel="noopener noreferrer"><strong>Cartel Coffee Lab</strong></a> is an Arizona-born specialty roaster with a location inside the Arrive Hotel. Direct trade, specific origins, excellent cold brew. The hotel itself is designed well enough to justify a look even if you're not a coffee person. The baristas know their sourcing.</p>
 
 <p><strong>1551 N Palm Canyon Dr, Palm Springs, CA 92262</strong> (inside Arrive Hotel). Find them at <a href="https://www.instagram.com/cartelcoffeecompany/" target="_blank" rel="noopener">@cartelcoffeecompany</a>.</p>
 
@@ -133,7 +133,7 @@ layout: blog-post.njk
 
 <h3>Cheeky's</h3>
 
-<p>The Palm Springs brunch institution, and it earns the reputation. The menu rotates weekly around seasonal ingredients, which is part of why regulars keep showing up. The bacon flight is four preparations of the same ingredient and it works: each one is genuinely different. The frittata is usually excellent. The outdoor patio has mountain views. Michelin-recommended.</p>
+<p><a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a> is the Palm Springs brunch institution, and it earns the reputation. The menu rotates weekly around seasonal ingredients, which is part of why regulars keep showing up. The bacon flight is four preparations of the same ingredient and it works: each one is genuinely different. The frittata is usually excellent. The outdoor patio has mountain views. Michelin-recommended.</p>
 
 <p>Walk-ins only. Weekend waits are real. Weekdays before 9am are manageable. Saturday at 9am is a line. Plan accordingly.</p>
 
@@ -144,7 +144,7 @@ layout: blog-post.njk
 
 <h3>Wilma &amp; Frieda's</h3>
 
-<p>The homemade pop tart is the dish that put this place on the map, and it earns the attention: thick pastry, real filling, nothing like the foil-wrapped version from your childhood. The rest of the menu is comfort food done carefully. Featured on Diners, Drive-Ins and Dives, which brought a crowd, but the food holds up independent of the TV bump. Named after the owners' grandmothers.</p>
+<p><a href="https://wilmafrieda.com/" target="_blank" rel="noopener noreferrer"><strong>Wilma &amp; Frieda's</strong></a> homemade pop tart is the dish that put this place on the map, and it earns the attention: thick pastry, real filling, nothing like the foil-wrapped version from your childhood. The rest of the menu is comfort food done carefully. Featured on Diners, Drive-Ins and Dives, which brought a crowd, but the food holds up independent of the TV bump. Named after the owners' grandmothers.</p>
 
 <p><strong>155 S Palm Canyon Dr, Ste A21-A27, Palm Springs, CA 92262.</strong> (760) 992-5080. Mon-Fri 8am-2pm. Find them at <a href="https://www.instagram.com/wilmafrieda/" target="_blank" rel="noopener">@wilmafrieda</a>.</p>
 
@@ -152,13 +152,13 @@ layout: blog-post.njk
 
 <h3>Tac/Quila</h3>
 
-<p>Michelin Guide-listed taqueria on North Palm Canyon that does Jalisco-style tacos alongside some genuinely surprising upscale versions: lobster tacos, seared ahi tuna, house-made tortillas. The margarita flight is the move if you're eating with a group. Seating is lively and the line moves. Reservations are recommended and the public parking lot behind the building is easier than street parking.</p>
+<p><a href="https://tacquila.com/" target="_blank" rel="noopener noreferrer"><strong>Tac/Quila</strong></a> is a Michelin Guide-listed taqueria on North Palm Canyon that does Jalisco-style tacos alongside some genuinely surprising upscale versions: lobster tacos, seared ahi tuna, house-made tortillas. The margarita flight is the move if you're eating with a group. Seating is lively and the line moves. Reservations are recommended and the public parking lot behind the building is easier than street parking.</p>
 
 <p><strong>415 N Palm Canyon Dr, Palm Springs, CA 92262.</strong> (760) 417-4471. Daily 11am-10pm. Find them at <a href="https://tacquila.com/" target="_blank" rel="noopener">tacquila.com</a>.</p>
 
 <h3>Workshop Kitchen + Bar</h3>
 
-<p>The most decorated restaurant in Palm Springs. Four-time Michelin recommended. James Beard Foundation design award. Inside a converted 1926 historic building with high ceilings, exposed concrete, and a courtyard that's worth sitting in when the weather holds. Chef Michael Beckman's menu changes seasonally. The cocktail program is one of the strongest in the valley. This is the place you book when you want a meal to feel like an occasion.</p>
+<p><a href="https://www.workshopkitchenbar.com/" target="_blank" rel="noopener noreferrer"><strong>Workshop Kitchen + Bar</strong></a> is the most decorated restaurant in Palm Springs. Four-time Michelin recommended. James Beard Foundation design award. Inside a converted 1926 historic building with high ceilings, exposed concrete, and a courtyard that's worth sitting in when the weather holds. Chef Michael Beckman's menu changes seasonally. The cocktail program is one of the strongest in the valley. This is the place you book when you want a meal to feel like an occasion.</p>
 
 <p><strong>800 N Palm Canyon Dr, Palm Springs, CA 92262.</strong> (760) 459-3451. Mon-Thu 5-10pm, Fri 5-11pm, Sat 5:30-11pm, Sun 10am-2pm and 5-10pm. Reservations recommended on weekends. Find them at <a href="https://www.instagram.com/workshopkitchenbar/" target="_blank" rel="noopener">@workshopkitchenbar</a>.</p>
 
@@ -171,7 +171,7 @@ layout: blog-post.njk
 
 <h3>The Heyday</h3>
 
-<p>A smash burger spot on North Palm Canyon and one of the better burgers in the Coachella Valley. Thin, crispy-edged patties, good bun, nothing overthought. Open daily from noon. The kind of place you go when you want something specific and done right without a lot of ceremony.</p>
+<p><a href="https://www.instagram.com/the_heyday/" target="_blank" rel="noopener noreferrer"><strong>The Heyday</strong></a> is a smash burger spot on North Palm Canyon and one of the better burgers in the Coachella Valley. Thin, crispy-edged patties, good bun, nothing overthought. Open daily from noon. The kind of place you go when you want something specific and done right without a lot of ceremony.</p>
 
 <p><strong>611 N Palm Canyon Dr, Palm Springs, CA 92262.</strong> Open daily from noon. Find them at <a href="https://www.instagram.com/the_heyday/" target="_blank" rel="noopener">@the_heyday</a>.</p>
 
@@ -185,7 +185,7 @@ layout: blog-post.njk
 
 <h3>Rooster and the Pig</h3>
 
-<p>Vietnamese fusion spot that the locals quietly love. USA Today named it Restaurant of the Year, which brought attention, but the cooking earns it independent of that. The pork belly buns are what everyone references, and they deliver. The lemongrass chicken is worth ordering. The cocktail list is better than it needs to be.</p>
+<p><a href="https://www.roosterandthepig.com/" target="_blank" rel="noopener noreferrer"><strong>Rooster and the Pig</strong></a> is a Vietnamese fusion spot that the locals quietly love. USA Today named it Restaurant of the Year, which brought attention, but the cooking earns it independent of that. The pork belly buns are what everyone references, and they deliver. The lemongrass chicken is worth ordering. The cocktail list is better than it needs to be.</p>
 
 <p>The room is small and loud in the best way. Walk-in friendly at lunch; dinner fills up fast and the wait is real if you show up without a plan on a weekend. Closed Monday and Tuesday.</p>
 
@@ -193,7 +193,7 @@ layout: blog-post.njk
 
 <h3>Sandfish</h3>
 
-<p>Intimate Japanese restaurant with counter seating, omakase-style ordering, and maybe 15 to 20 seats total. The whole concept is built around nigiri and small plates done carefully. Nothing about it tries to be the flashiest room in Palm Springs, and that restraint is exactly why it works.</p>
+<p><a href="https://www.sandfishpalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>Sandfish</strong></a> is an intimate Japanese restaurant with counter seating, omakase-style ordering, and maybe 15 to 20 seats total. The whole concept is built around nigiri and small plates done carefully. Nothing about it tries to be the flashiest room in Palm Springs, and that restraint is exactly why it works.</p>
 
 <p>Order the uni if they have it. The scallop nigiri is consistent. If the whole fish is on the menu that night, get it. Reservations are essential on weekends; this one books out days in advance and walk-ins rarely work out in your favor.</p>
 
@@ -201,13 +201,13 @@ layout: blog-post.njk
 
 <h3>Birba</h3>
 
-<p>Italian in the Uptown Design District, open since 2011. The patio is tree-lined and one of the nicer outdoor seating situations in the city. The wood-fired pizzas are the thing to order: thin crust, careful ingredients, the prosciutto and arugula version is a regular call. The wine list is well-chosen without being overwrought. Wednesday through Sunday only.</p>
+<p><a href="https://www.birbaf10.com/" target="_blank" rel="noopener noreferrer"><strong>Birba</strong></a> is Italian in the Uptown Design District, open since 2011. The patio is tree-lined and one of the nicer outdoor seating situations in the city. The wood-fired pizzas are the thing to order: thin crust, careful ingredients, the prosciutto and arugula version is a regular call. The wine list is well-chosen without being overwrought. Wednesday through Sunday only.</p>
 
 <p><strong>622 N Palm Canyon Dr, Palm Springs, CA 92262.</strong> (760) 327-5678. Wed-Sun 5-10pm. Find them at <a href="https://www.birbaf10.com/" target="_blank" rel="noopener">birbaf10.com</a>.</p>
 
 <h3>Copley's on the Lawn</h3>
 
-<p>Set in the former guesthouse of Cary Grant's Palm Springs estate at 621 North Palm Canyon. The outdoor patio is the reason to go: mature trees, string lights, mountain views, the kind of setting that makes whatever you're eating taste like it belongs in a movie. Chef Andrew Copley's menu is contemporary American with specific sourcing, all farms within 100 miles. The charred Berkshire pork chop and the Asian-spiced barramundi both have a following. Reserve in advance.</p>
+<p><a href="https://www.copleyspalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>Copley's on the Lawn</strong></a> is set in the former guesthouse of Cary Grant's Palm Springs estate at 621 North Palm Canyon. The outdoor patio is the reason to go: mature trees, string lights, mountain views, the kind of setting that makes whatever you're eating taste like it belongs in a movie. Chef Andrew Copley's menu is contemporary American with specific sourcing, all farms within 100 miles. The charred Berkshire pork chop and the Asian-spiced barramundi both have a following. Reserve in advance.</p>
 
 <p><strong>621 N Palm Canyon Dr, Palm Springs, CA 92262.</strong> (760) 327-9555. Tue-Sun 5-10pm, closed Monday. Find them at <a href="https://www.copleyspalmsprings.com/" target="_blank" rel="noopener">copleyspalmsprings.com</a>.</p>
 
@@ -215,19 +215,19 @@ layout: blog-post.njk
 
 <h3>Trio Restaurant</h3>
 
-<p>The Palm Springs dinner spot that works for every group configuration. American comfort food done carefully, a long menu, solid cocktails. Owner Tony Marchese renovated the interior in 2023 and the mid-century space feels current without losing the warmth that's made it reliable since 2009. The menu leans California, with ocean catches and ranch proteins alongside seasonal produce. Walk-ins welcome, reservations smarter on weekends.</p>
+<p><a href="https://www.triopalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>Trio Restaurant</strong></a> is the Palm Springs dinner spot that works for every group configuration. American comfort food done carefully, a long menu, solid cocktails. Owner Tony Marchese renovated the interior in 2023 and the mid-century space feels current without losing the warmth that's made it reliable since 2009. The menu leans California, with ocean catches and ranch proteins alongside seasonal produce. Walk-ins welcome, reservations smarter on weekends.</p>
 
 <p><strong>707 N Palm Canyon Dr, Palm Springs, CA 92262.</strong> (760) 864-8746. Mon-Thu 4-9pm, Fri-Sat 4-10pm, Sun 4-9pm. Find them at <a href="https://www.instagram.com/palmspringstrio/" target="_blank" rel="noopener">@palmspringstrio</a>.</p>
 
 <h3>The Tropicale</h3>
 
-<p>Mid-century Palm Springs glamour in a building that looks like it was designed for a Slim Aarons photograph. The Coral Seas Lounge has black leather barstools and over-the-top tropical decor that commits fully to the bit. The food is contemporary American: think steaks, seafood, a well-assembled happy hour menu on weekdays. The patio is one of the better outdoor dining situations in the downtown corridor. Reservations via OpenTable.</p>
+<p><a href="https://www.thetropicale.com/" target="_blank" rel="noopener noreferrer"><strong>The Tropicale</strong></a> is mid-century Palm Springs glamour in a building that looks like it was designed for a Slim Aarons photograph. The Coral Seas Lounge has black leather barstools and over-the-top tropical decor that commits fully to the bit. The food is contemporary American: think steaks, seafood, a well-assembled happy hour menu on weekdays. The patio is one of the better outdoor dining situations in the downtown corridor. Reservations via OpenTable.</p>
 
 <p><strong>330 E Amado Rd, Palm Springs, CA 92262.</strong> (760) 866-1952. Mon-Tue 4-10pm, Wed-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-10pm. Find them at <a href="https://www.thetropicale.com/" target="_blank" rel="noopener">thetropicale.com</a>.</p>
 
 <h3>Escena Grill</h3>
 
-<p>The golf club restaurant that's open to everyone, and the setting is genuinely one of the best in the city. The patio looks out over the course toward the San Jacinto Mountains and the view at dusk, when the mountains go from gold to purple, is something you'll take a photo of even if you're not a photo person. The food is California eclectic with a rotating seasonal menu. Dog-friendly patio. Go for the outdoor table and stay until the light changes.</p>
+<p><a href="https://escenagolf.com/dining/" target="_blank" rel="noopener noreferrer"><strong>Escena Grill</strong></a> is the golf club restaurant that's open to everyone, and the setting is genuinely one of the best in the city. The patio looks out over the course toward the San Jacinto Mountains and the view at dusk, when the mountains go from gold to purple, is something you'll take a photo of even if you're not a photo person. The food is California eclectic with a rotating seasonal menu. Dog-friendly patio. Go for the outdoor table and stay until the light changes.</p>
 
 <p><strong>1100 Clubhouse View, Palm Springs, CA 92262.</strong> (760) 992-0002. Hours vary seasonally: check escenagolf.com before you go. Reservations via OpenTable or phone. Find them at <a href="https://www.instagram.com/escenagrill/" target="_blank" rel="noopener">@escenagrill</a>.</p>
 
@@ -236,7 +236,7 @@ layout: blog-post.njk
 
 <h3>Purple Room Supper Club</h3>
 
-<p>This is not subtle, and that's the point. The Purple Room runs on Rat Pack-era Palm Springs energy: live entertainment six nights a week, a dining room that glows, Frank's Bourbon Bar stocked with 75+ premium bourbons and scotches. The food is classic American supper club, chicken parmigiana and surf-and-turf territory. You go for the atmosphere, the show, and the bourbon. It's one of the most distinctly Palm Springs experiences in the city and nothing else is quite like it.</p>
+<p><a href="https://www.purpleroompalmsprings.com/" target="_blank" rel="noopener noreferrer"><strong>Purple Room Supper Club</strong></a> is not subtle, and that's the point. The Purple Room runs on Rat Pack-era Palm Springs energy: live entertainment six nights a week, a dining room that glows, Frank's Bourbon Bar stocked with 75+ premium bourbons and scotches. The food is classic American supper club, chicken parmigiana and surf-and-turf territory. You go for the atmosphere, the show, and the bourbon. It's one of the most distinctly Palm Springs experiences in the city and nothing else is quite like it.</p>
 
 <p><strong>1900 E Palm Canyon Dr, Palm Springs, CA 92264.</strong> (760) 322-4422. Tue-Thu 4-9:30pm, Fri 6-9:30pm, Sat 5-9:30pm, Sun 5-8:30pm, closed Monday. Find them at <a href="https://www.purpleroompalmsprings.com/" target="_blank" rel="noopener">purpleroompalmsprings.com</a>.</p>
 

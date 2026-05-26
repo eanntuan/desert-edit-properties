@@ -121,7 +121,7 @@ layout: blog-post.njk
 
 <h2>Stop 8: Palm Springs Art Museum (N Museum Drive)</h2>
 
-<p>The Palm Springs Art Museum at 101 Museum Drive includes an architectural wing and hosts permanent and rotating exhibitions on California modernism, including architecture. If the tour gets your interest up and you want context and deeper history, this is the place. There's also a sculpture garden that the building opens onto. Worth an hour minimum.</p>
+<p>The <a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Art Museum</strong></a> at 101 Museum Drive includes an architectural wing and hosts permanent and rotating exhibitions on California modernism, including architecture. If the tour gets your interest up and you want context and deeper history, this is the place. There's also a sculpture garden that the building opens onto. Worth an hour minimum.</p>
 
 <img src="/blog/images/palm-springs-art-museum.webp" alt="Palm Springs Art Museum exterior with desert landscaping and the San Jacinto Mountains in the background" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Palm Springs Art Museum has a dedicated architecture exhibition. If you want names and dates attached to what you've been seeing, this is the next stop.</p>
@@ -135,6 +135,8 @@ layout: blog-post.njk
 <h2>Modernism Week: The Amplified Version</h2>
 
 <p>Modernism Week happens every February in Palm Springs. For 11 days, private homes open for tours, architects give talks, and the city essentially becomes one large architecture event. The Kaufmann House alone typically has a multi-hour wait. If midcentury architecture is a serious interest rather than a casual one, plan a February trip around it. The full guide to <a href="/blog/modernism-week-palm-springs/">what to expect at Modernism Week</a> covers the ticketing process and which events are worth prioritizing.</p>
+
+<p>For a neighborhood-by-neighborhood breakdown of where to sleep based on your trip type, the <a href="/blog/palm-springs-neighborhood-guide/">Palm Springs neighborhood guide</a> covers Movie Colony, Vista Las Palmas, Uptown, and more with honest trade-offs.</p>
 
 <p>The Sundune is 10 minutes from downtown Palm Springs and within walking distance of the Uptown Design District. If you're staying with us, you're already positioned to do this tour on arrival day without a car for most of it. More on the neighborhood in the <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide.</a></p>
 

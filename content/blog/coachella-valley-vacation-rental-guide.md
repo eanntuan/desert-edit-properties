@@ -80,6 +80,9 @@ layout: blog-post.njk
 
 <p><a href="/terra-luz/">Terra Luz</a> has a private saltwater pool with a sun shelf, heated year-round. <a href="/cozy-cactus/">The Cozy Cactus</a> has a private hot tub and a community pool steps away in Indian Palms Country Club. That distinction comes up in every third review mentioning the pool, and it's worth knowing before you book anything.</p>
 
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private saltwater pool at Terra Luz vacation rental in Indio California with sun shelf and enclosed backyard" width="1600" height="1066" loading="lazy" decoding="async">
+<p class="image-caption">The private saltwater pool at Terra Luz. Fully enclosed, heated, sun shelf included. This is the private pool you're looking for.</p>
+
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of Cozy Cactus vacation rental in Indio California showing backyard and surrounding Indian Palms neighborhood" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus from above. The community pool is steps from the back gate. This is what you're evaluating when you check the satellite view in listing maps.</p>
 

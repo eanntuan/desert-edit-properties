@@ -133,9 +133,9 @@ relatedPosts:
 
 <h2>Kid-Friendly Things to Do in the Coachella Valley</h2>
 
-<p><strong>Shields Date Garden (Indio, 5 min):</strong> The on-site museum about date cultivation is surprisingly good with kids. The date shake is mandatory. Get two.</p>
+<p><a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> (Indio, 5 min): The on-site museum about date cultivation is surprisingly good with kids. The date shake is mandatory. Get two. For the full story on what to try and when to go, see our <a href="/blog/date-farms-indio-coachella-valley/">Coachella Valley date farms guide</a>.</p>
 
-<p><strong>Coachella Valley Preserve (Thousand Palms, 20 min):</strong> Wild palm oases fed by the San Andreas Fault. The McCallum Trail is easy, about 3 miles, and genuinely arresting for kids: fan palms growing wild out of the desert floor, fed by fault water underground. Free admission. Go in the morning before it heats up.</p>
+<p><strong>Coachella Valley Preserve</strong> (Thousand Palms, 20 min): Wild palm oases fed by the San Andreas Fault. The McCallum Trail is easy, about 3 miles, and genuinely arresting for kids: fan palms growing wild out of the desert floor, fed by fault water underground. Free admission. Go in the morning before it heats up.</p>
 
 <p><strong>Joshua Tree National Park (45 min):</strong> The Cholla Cactus Garden near the south entrance is 10 minutes from the park gate and requires almost no hiking. Kids love the alien landscape. Go at 7am or late afternoon. Midday heat is not for small people. Joshua Tree also has a Junior Ranger Booklet: kids complete activities, answer questions about the park, and get a badge from a ranger at the end. It's $1 at the visitor center and keeps the 8-and-up crowd engaged for the whole visit.</p>
 
@@ -145,7 +145,7 @@ relatedPosts:
 
 <h3>Children's Discovery Museum of the Desert</h3>
 
-<p>If you hit a hot afternoon or an overcast day and need somewhere to go indoors, the Children's Discovery Museum of the Desert in Rancho Mirage is the best option in the valley. Two floors, 80+ interactive exhibits, and kids can touch everything. Weekend workshops, science activities, a hands-on art studio.</p>
+<p>If you hit a hot afternoon or an overcast day and need somewhere to go indoors, the <a href="https://cdmod.org/" target="_blank" rel="noopener noreferrer"><strong>Children's Discovery Museum of the Desert</strong></a> in Rancho Mirage is the best option in the valley. Two floors, 80+ interactive exhibits, and kids can touch everything. Weekend workshops, science activities, a hands-on art studio.</p>
 
 <p>The sweet spot is ages 2-10. Kids under 2 get in free, and older kids will probably max out in under an hour. Admission is $9/person. Open Tuesday through Sunday at 71701 Gerald Ford Dr, Rancho Mirage.</p>
 
@@ -160,6 +160,9 @@ relatedPosts:
 <p>Things worth bringing regardless: your kid's specific sleep sack or comfort item, formula or snacks they're particular about, sunscreen in quantities that reflect the desert reality. The Coachella Valley sun is not California-coast sun. It's direct and relentless. SPF 50+ on kids, reapplied after the pool.</p>
 
 <p>A hat for every child. This is not a suggestion.</p>
+
+<img src="/blog/images/coachella-valley-preserve.webp" alt="Wild fan palm oasis at the Coachella Valley Preserve in Thousand Palms, a free family-friendly hike near Indio CA" width="700" height="493" loading="lazy" decoding="async">
+<p class="image-caption">The Coachella Valley Preserve in Thousand Palms. Fan palms growing wild, fed by the San Andreas Fault. The McCallum Trail is flat enough for kids and strollers.</p>
 
 <h2>The Thing Nobody Mentions About Family Travel in the Desert</h2>
 

@@ -127,7 +127,7 @@ layout: blog-post.njk
 
 <h2>What's Within Driving Distance</h2>
 
-<p>Indian Palms puts you about 10 minutes from Old Town Indio, 15 minutes from Shields Date Garden and L&amp;G Desert Store, and 20 minutes from the Coachella Valley Preserve. Palm Springs is about 30 minutes west. Joshua Tree National Park's south entrance is 45 minutes.</p>
+<p>Indian Palms puts you about 10 minutes from Old Town Indio, 15 minutes from <a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a> and L&amp;G Desert Store, and 20 minutes from the Coachella Valley Preserve. Palm Springs is about 30 minutes west. <a href="https://www.nps.gov/jotr/" target="_blank" rel="noopener noreferrer"><strong>Joshua Tree National Park</strong></a>'s south entrance is 45 minutes. For a deeper dive on what to do in the area between festival weekends, read our <a href="/blog/indio-between-coachella-weekends/">guide to Indio between Coachella weekends</a>.</p>
 
 <img src="/blog/images/joshua-tree-national-park.webp" alt="Joshua Tree National Park desert landscape with iconic Joshua trees and rock formations, 45 minutes from Indian Palms Country Club in Indio CA" width="1440" height="990" loading="lazy">
 

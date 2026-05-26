@@ -93,7 +93,7 @@ layout: blog-post.njk
     <p><strong>Admission:</strong> $12/adult, dogs allowed on leash · Best season: October–April</p>
 </div>
 
-<p><strong>VillageFest (Thursday Nights):</strong> Palm Springs' weekly street fair on Palm Canyon Drive. Dogs on leash are welcome and common. Street food, local vendors, live music. Worth doing at least once.</p>
+<p><strong>VillageFest (Thursday Nights):</strong> <a href="https://villagefest.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs VillageFest</strong></a>, the weekly street fair on Palm Canyon Drive. Dogs on leash are welcome and common. Street food, local vendors, live music. Worth doing at least once.</p>
 
 <img src="/blog/images/ps-blue-door-cacti.webp" alt="Colorful Palm Springs door with cacti in foreground, iconic desert aesthetic for dog-friendly travel" width="1400" height="933" loading="lazy">
 <p class="image-caption">Palm Springs has personality on every block. VillageFest Thursday nights is the city at its most itself.</p>
@@ -105,10 +105,10 @@ layout: blog-post.njk
 <p><strong>Palm Springs</strong></p>
 
 <ul>
-    <li><strong>Cheeky's:</strong> Famous brunch spot on Palm Canyon Drive. Dog-friendly patio, worth the wait. Order the bacon flight.</li>
-    <li><strong>The Tropicale:</strong> Mid-century setting, great cocktails, patio seating where dogs are welcome on leash.</li>
-    <li><strong>Ernest Coffee:</strong> The best coffee in Palm Springs. Outdoor seating, dogs welcome, you'll see several others while you're there.</li>
-    <li><strong>Boozehounds:</strong> The name is the promise. Sprawling atrium and patio, craft cocktails and food, and actual dog treats on hand for your dog. Probably the most dog-forward spot in the city.</li>
+    <li><a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's:</strong></a> Famous brunch spot on Palm Canyon Drive. Dog-friendly patio, worth the wait. Order the bacon flight.</li>
+    <li><a href="https://www.thetropicale.com/" target="_blank" rel="noopener noreferrer"><strong>The Tropicale:</strong></a> Mid-century setting, great cocktails, patio seating where dogs are welcome on leash.</li>
+    <li><a href="https://www.ernestcoffee.com/" target="_blank" rel="noopener noreferrer"><strong>Ernest Coffee:</strong></a> The best coffee in Palm Springs. Outdoor seating, dogs welcome, you'll see several others while you're there.</li>
+    <li><a href="https://www.boozehoundsps.com/" target="_blank" rel="noopener noreferrer"><strong>Boozehounds:</strong></a> The name is the promise. Sprawling atrium and patio, craft cocktails and food, and actual dog treats on hand for your dog. Probably the most dog-forward spot in the city.</li>
 </ul>
 
 <p><strong>Cathedral City</strong></p>
