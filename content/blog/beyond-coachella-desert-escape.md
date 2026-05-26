@@ -78,7 +78,7 @@ layout: blog-post.njk
 
 <p>This is peak season, and for good reason. While the rest of the country scrapes ice off windshields, the Coachella Valley sits at a perfect 70-75°F. Pool weather, no crowds, and outdoor everything: hiking, grilling, movie nights on the patio.</p>
 
-<p>Good winter moves: Joshua Tree sunrise hikes (Cholla Cactus Garden or Skull Rock), the Palm Springs Aerial Tramway (ride up to 8,500 feet where there's actual snow while it's 70°F below), and the La Quinta Farmers Market on Sunday mornings. If mineral pools are your thing, the <a href="/blog/desert-hot-springs-day-trip/">Desert Hot Springs mineral pools</a> are a 30-minute drive north and worth knowing about.</p>
+<p>Good winter moves: Joshua Tree sunrise hikes (Cholla Cactus Garden or Skull Rock), the <a href="https://www.pstramway.com/" target="_blank" rel="noopener noreferrer">Palm Springs Aerial Tramway</a> (ride up to 8,500 feet where there's actual snow while it's 70°F below), and the La Quinta Farmers Market on Sunday mornings. If mineral pools are your thing, the <a href="/blog/desert-hot-springs-day-trip/">Desert Hot Springs mineral pools</a> are a 30-minute drive north and worth knowing about.</p>
 
 <h2>Spring (March – May): Festival Season + Wildflower Blooms</h2>
 
@@ -100,8 +100,8 @@ layout: blog-post.njk
 
 <p>Fall activities: Joshua Tree camping in October or November (cool nights, clear skies, optimal for stargazing), date harvest tours at working farms, Indian Canyons or Ladder Canyon hikes without the risk of dying from heat exhaustion.</p>
 
-<img src="/blog/images/coachella-valley-desert-hiking.webp" alt="Desert canyon trail near Palm Springs California, rocky formations and blue sky above the Coachella Valley" width="1400" height="788" loading="lazy">
-<p class="image-caption">The Coachella Valley Preserve, native fan palms, spring-fed oasis, and trails that look nothing like what most people picture when they hear "Coachella."</p>
+<img src="/blog/images/coachella-valley-preserve.webp" alt="Coachella Valley Preserve fan palm oasis at golden hour with canyon walls and California desert palms near Palm Springs" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The Coachella Valley Preserve. Native fan palms, spring-fed oasis, trails that look nothing like what most people picture when they hear "Coachella."</p>
 
 <h2>Joshua Tree: 45 Minutes From Terra Luz</h2>
 
@@ -118,6 +118,8 @@ layout: blog-post.njk
 
 <p>Pro tip: wake up early, hit Joshua Tree for sunrise, and be back at the pool by 11 AM. Best of both worlds.</p>
 
+<p>For a full Joshua Tree day trip breakdown from Indio, including best entry points by season and timing advice, read our <a href="/blog/joshua-tree-day-trip-from-indio/">Joshua Tree day trip guide</a>.</p>
+
 <img src="/blog/images/desert-ridge-hike-valley-view.webp" alt="Hiker on desert ridge overlooking the Coachella Valley with mountain range stretching into the distance California" width="1400" height="933" loading="lazy" decoding="async">
 <p class="image-caption">Sunrise hike, back at the pool by 11 AM. Best of both worlds.</p>
 
@@ -128,7 +130,7 @@ layout: blog-post.njk
 
 <p>Palm Springs is 30 minutes west and worth the drive every time. Mid-century modern architecture. Boutique shopping. Brunch culture. It's worth visiting, just not necessarily worth staying in. Too expensive, too crowded, too scene-y for a real escape.</p>
 
-<p>What to do: modernist architecture tours, VillageFest on Thursday nights, the Aerial Tramway, and brunch at Cheeky's or Norma's (expect lines, worth it). For a full local breakdown, read <a href="/blog/coachella-valley-insider-guide/">our insider's guide to the valley</a>.</p>
+<p>What to do: modernist architecture tours, <a href="https://www.villagefestpalmsprings.com/" target="_blank" rel="noopener noreferrer">VillageFest</a> on Thursday nights, the Aerial Tramway, and brunch at <a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a> or Norma's (expect lines, worth it). For the full Palm Springs dining and activity breakdown, our <a href="/blog/palm-springs-local-guide-sundune/">Palm Springs local guide</a> is worth a read before you go.</p>
 
 <p>Why stay at Terra Luz instead of Palm Springs: you get an entire house and pool instead of a cramped hotel room, you're still only 30 minutes away, and the rates are dramatically better for groups.</p>
 
@@ -136,9 +138,12 @@ layout: blog-post.njk
 
 <p><strong>Day 1:</strong> Arrive at Terra Luz. Unpack, grocery run, afternoon pool. Dinner at the house or order local.</p>
 
-<p><strong>Day 2:</strong> Sunrise hike in Joshua Tree (Cholla Cactus Garden or Skull Rock). Date shake at Shields Date Garden. Afternoon pool and nap. Evening dinner in La Quinta.</p>
+<p><strong>Day 2:</strong> Sunrise hike in Joshua Tree (Cholla Cactus Garden or Skull Rock). Date shake at <a href="https://shieldsdategarden.com/" target="_blank" rel="noopener noreferrer"><strong>Shields Date Garden</strong></a>. Afternoon pool and nap. Evening dinner in La Quinta.</p>
 
-<p><strong>Day 3:</strong> Morning coffee at Everbloom. Drive to Palm Springs for the Art Museum or Aerial Tramway. Brunch at Cheeky's. Evening back at Terra Luz: grill out on the terracotta patio, close out the night in the pool.</p>
+<img src="/blog/images/shields-date-garden.webp" alt="Shields Date Garden entrance in Indio California with classic sign and tall date palms lining the driveway" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">Shields Date Garden on Highway 111. Been here since 1924. The date shake after a Joshua Tree hike is non-negotiable.</p>
+
+<p><strong>Day 3:</strong> Morning coffee at <a href="https://www.everbloom.coffee/" target="_blank" rel="noopener noreferrer"><strong>Everbloom</strong></a>. Drive to Palm Springs for the Art Museum or Aerial Tramway. Brunch at <a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer">Cheeky's</a>. Evening back at Terra Luz: grill out on the terracotta patio, close out the night in the pool.</p>
 
 <p><strong>Day 4:</strong> Sleep in. Lazy breakfast at the house. Pool float marathon. One last swim. Pack. (Or stay another night. We won't judge.)</p>
 
