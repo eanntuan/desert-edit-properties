@@ -1,7 +1,7 @@
 ---
 title: "How to Get from LAX to Palm Springs: Every Option Compared"
 date: 2025-10-29
-dateModified: 2026-04-15
+dateModified: 2025-12-11
 metaDescription: "LAX to Palm Springs: drive, shuttle, fly into PSP, or Amtrak. Honest trade-offs for each option with real times and costs so you can plan before you book."
 ogImage: /blog/images/ps-boulevard-palms-mountains.webp
 heroImage: /blog/images/ps-boulevard-palms-mountains.webp
@@ -34,7 +34,7 @@ layout: blog-post.njk
       "description": "LAX to Palm Springs: drive, shuttle, fly into PSP, or Amtrak. Honest trade-offs for each option with real times and costs so you can plan before you book.",
       "image": "https://indigopalm.co/blog/images/ps-boulevard-palms-mountains.webp",
       "datePublished": "2025-10-29",
-      "dateModified": "2026-04-15",
+      "dateModified": "2025-12-11",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

@@ -1,7 +1,7 @@
 ---
 title: "10 Indio CA Hidden Gems: Food, Drinks, and Local Spots"
 date: 2025-12-13
-dateModified: 2026-05-09
+dateModified: 2026-02-20
 metaDescription: "Skip the tourist traps. Date shakes at L&G, smash burgers at Papa Headz, and a vinyl listening lounge most visitors drive right past. The real Indio, CA."
 keywords:
   - Indio CA
@@ -34,7 +34,7 @@ layout: blog-post.njk
       "description": "Skip the tourist traps. Date shakes at L&G, smash burgers at Papa Headz, and a vinyl listening lounge most visitors drive right past. The real Indio, CA.",
       "image": "https://indigopalm.co/blog/images/indio-sign-miles-ave.webp",
       "datePublished": "2025-12-13",
-      "dateModified": "2026-05-09",
+      "dateModified": "2026-02-20",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

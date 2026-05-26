@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs Weekend Trip: A Well-Planned 3-Day Itinerary"
 date: 2025-11-16
-dateModified: 2026-04-15
+dateModified: 2026-01-23
 metaDescription: "Day 1: arrive and decompress. Day 2: architecture walk, coffee, and a hike. Day 3: farmers market and brunch. Three days in Palm Springs, planned well."
 ogImage: /blog/images/ps-mcm-house-palm-trees.webp
 heroImage: /blog/images/ps-mcm-house-palm-trees.webp
@@ -35,7 +35,7 @@ layout: blog-post.njk
       "description": "Day 1: arrive and decompress. Day 2: architecture walk, coffee, and a hike. Day 3: farmers market and brunch. Three days in Palm Springs, planned well.",
       "image": "https://indigopalm.co/blog/images/ps-mcm-house-palm-trees.webp",
       "datePublished": "2025-11-16",
-      "dateModified": "2026-04-15",
+      "dateModified": "2026-01-23",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

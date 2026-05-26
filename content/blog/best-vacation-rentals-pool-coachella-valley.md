@@ -1,7 +1,7 @@
 ---
 title: "Best Vacation Rentals with Pool in Coachella Valley"
 date: 2026-04-30
-dateModified: 2026-05-11
+dateModified: 2026-05-24
 metaDescription: "Searching for the best vacation rentals with pool in the Coachella Valley? Here's what to look for beyond the listing photos, and what matters most."
 ogImage: /blog/images/cozy-cactus-pool-backyard.webp
 heroImage: /blog/images/cozy-cactus-pool-backyard.webp
@@ -31,7 +31,7 @@ layout: blog-post.njk
       "description": "Searching for the best vacation rentals with pool in the Coachella Valley? Here's what to look for beyond the listing photos, and what matters most.",
       "image": "https://indigopalm.co/blog/images/cozy-cactus-pool-backyard.webp",
       "datePublished": "2026-04-30",
-      "dateModified": "2026-05-11",
+      "dateModified": "2026-05-24",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

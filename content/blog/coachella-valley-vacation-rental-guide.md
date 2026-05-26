@@ -1,7 +1,7 @@
 ---
 title: "5 Things to Check Before Booking a Coachella Valley Rental"
 date: 2025-11-07
-dateModified: 2026-04-15
+dateModified: 2026-01-09
 metaDescription: "From pool access to honest reviews to a host who responds. Five things to check before booking a Coachella Valley vacation rental in Indio or Palm Springs."
 ogImage: /blog/images/palm-springs-hotel-pool.webp
 heroImage: /blog/images/palm-springs-hotel-pool.webp
@@ -34,7 +34,7 @@ layout: blog-post.njk
       "description": "From pool access to honest reviews to a host who responds. Five things to check before booking a Coachella Valley vacation rental in Indio or Palm Springs.",
       "image": "https://indigopalm.co/blog/images/palm-springs-hotel-pool.webp",
       "datePublished": "2025-11-07",
-      "dateModified": "2026-04-15",
+      "dateModified": "2026-01-09",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

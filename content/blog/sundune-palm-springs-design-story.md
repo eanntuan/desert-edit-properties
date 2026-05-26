@@ -1,7 +1,7 @@
 ---
 title: "Inside The Sundune: A Palm Springs Coastal Design Story"
 date: 2025-11-19
-dateModified: 2026-04-15
+dateModified: 2026-01-27
 metaDescription: "The design story behind The Sundune at Palm Springs: coastal-desert vibes, sun-faded palettes, and a surf-inspired sanctuary steps from downtown."
 ogImage: /blog/images/ps-orange-door-mcm.webp
 heroImage: /blog/images/ps-orange-door-mcm.webp
@@ -30,7 +30,7 @@ layout: blog-post.njk
       "description": "The design story behind The Sundune at Palm Springs: coastal-desert vibes, sun-faded palettes, and a surf-inspired sanctuary steps from downtown.",
       "image": "https://indigopalm.co/blog/images/ps-orange-door-mcm.webp",
       "datePublished": "2025-11-19",
-      "dateModified": "2026-04-15",
+      "dateModified": "2026-01-27",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

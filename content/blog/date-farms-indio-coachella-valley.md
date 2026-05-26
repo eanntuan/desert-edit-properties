@@ -1,7 +1,7 @@
 ---
 title: "Date Farms Near Indio: Shield's, Hadley's, and More"
 date: 2026-03-31
-dateModified: 2026-05-03
+dateModified: 2026-05-08
 metaDescription: "The best date farms near Indio and Palm Springs: Shield's Date Garden, Hadley's, and where to find fresh Medjool dates in the Coachella Valley."
 ogImage: /blog/images/shields-date-garden.webp
 heroImage: /blog/images/shields-date-garden.webp
@@ -33,7 +33,7 @@ layout: blog-post.njk
       "description": "The best date farms near Indio and Palm Springs: Shield's Date Garden, Hadley's, and where to find fresh Medjool dates in the Coachella Valley.",
       "image": "https://indigopalm.co/blog/images/shields-date-garden.webp",
       "datePublished": "2026-03-31",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-08",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

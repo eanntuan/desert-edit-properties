@@ -1,7 +1,7 @@
 ---
 title: "Outdoor Furniture That Survives 115-Degree Desert Heat"
 date: 2025-11-04
-dateModified: 2026-04-15
+dateModified: 2026-01-06
 metaDescription: "What outdoor furniture holds up in 115°F desert heat. Lessons from furnishing vacation rentals in Indio, CA: what works, what fails, and what to use."
 ogImage: /blog/images/cozy-cactus-patio.webp
 heroImage: /blog/images/cozy-cactus-patio.webp
@@ -30,7 +30,7 @@ layout: blog-post.njk
       "description": "What outdoor furniture holds up in 115°F desert heat. Lessons from furnishing vacation rentals in Indio, CA: what works, what fails, and what to use.",
       "image": "https://indigopalm.co/blog/images/cozy-cactus-patio.webp",
       "datePublished": "2025-11-04",
-      "dateModified": "2026-04-15",
+      "dateModified": "2026-01-06",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

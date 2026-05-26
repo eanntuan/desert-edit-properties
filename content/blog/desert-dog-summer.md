@@ -1,7 +1,7 @@
 ---
 title: "Dogs in Desert Heat: Keeping Pets Safe in Palm Springs"
 date: 2026-04-03
-dateModified: 2026-05-03
+dateModified: 2026-05-11
 metaDescription: "Dog safety in Coachella Valley heat: how to keep your pet safe when it hits 100 degrees in Palm Springs or Indio, and a local dog food brand worth knowing."
 ogImage: /blog/images/desert-dog-hero.webp
 heroImage: /blog/images/desert-dog-hero.webp
@@ -32,7 +32,7 @@ layout: blog-post.njk
       "description": "Dog safety in Coachella Valley heat: how to keep your pet safe when it hits 100 degrees in Palm Springs or Indio, and a local dog food brand worth knowing.",
       "image": "https://indigopalm.co/blog/images/desert-dog-hero.webp",
       "datePublished": "2026-04-03",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-11",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

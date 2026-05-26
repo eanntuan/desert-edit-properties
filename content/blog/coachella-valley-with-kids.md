@@ -1,7 +1,7 @@
 ---
 title: "Coachella Valley with Kids: Best Rentals, Activities, Tips"
 date: 2026-01-18
-dateModified: 2026-05-23
+dateModified: 2026-03-23
 metaDescription: "Coachella Valley with kids: best months to visit, family-friendly vacation rentals in Indio, and where to take toddlers and babies in the desert."
 ogImage: /blog/images/cozy-cactus-infant-gear.webp
 heroImage: /blog/images/cozy-cactus-infant-gear.webp
@@ -40,7 +40,7 @@ relatedPosts:
       "description": "Coachella Valley with kids: best months to visit, family-friendly vacation rentals in Indio, and where to take toddlers and babies in the desert.",
       "image": "https://indigopalm.co/blog/images/cozy-cactus-infant-gear.webp",
       "datePublished": "2026-01-18",
-      "dateModified": "2026-05-23",
+      "dateModified": "2026-03-23",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

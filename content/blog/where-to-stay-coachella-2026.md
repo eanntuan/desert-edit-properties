@@ -1,7 +1,7 @@
 ---
 title: "Where to Stay for Coachella 2026: The Honest Rental Guide"
 date: 2025-11-28
-dateModified: 2026-04-21
+dateModified: 2026-02-04
 redirectTo: /blog/where-to-stay-coachella/
 metaDescription: "Vacation rental, hotel, or camping for Coachella? The polo grounds are in Indio. Here's what's close, what it costs, and what to book first."
 ogImage: /blog/images/festival-concert-night.webp
@@ -35,7 +35,7 @@ layout: redirect.njk
       "description": "Vacation rental, hotel, or camping for Coachella? The polo grounds are in Indio. Here's what's close, what it costs, and what to book first.",
       "image": "https://indigopalm.co/blog/images/festival-concert-night.webp",
       "datePublished": "2025-11-28",
-      "dateModified": "2026-04-21",
+      "dateModified": "2026-02-04",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

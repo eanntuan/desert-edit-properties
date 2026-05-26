@@ -1,7 +1,7 @@
 ---
 title: "Coachella Valley Food Guide: Best Restaurants by City"
 date: 2025-11-22
-dateModified: 2026-05-09
+dateModified: 2026-01-30
 metaDescription: "The honest Coachella Valley food guide: Papa Headz and One Stop in Indio, Yes Please in La Quinta, Koffi and Thai Hot in Palm Springs. By city, no filler."
 ogImage: /blog/images/one-stop-taco-shop.webp
 heroImage: /blog/images/one-stop-taco-shop.webp
@@ -35,7 +35,7 @@ layout: blog-post.njk
       "description": "The honest Coachella Valley food guide: Papa Headz and One Stop in Indio, Yes Please in La Quinta, Koffi and Thai Hot in Palm Springs. By city, no filler.",
       "image": "https://indigopalm.co/blog/images/one-stop-taco-shop.webp",
       "datePublished": "2025-11-22",
-      "dateModified": "2026-05-09",
+      "dateModified": "2026-01-30",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

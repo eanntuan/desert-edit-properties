@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs vs Indio: 25 Miles, Very Different Trips"
 date: 2026-02-05
-dateModified: 2026-05-11
+dateModified: 2026-04-11
 metaDescription: "Indio is 25 miles from Palm Springs, 30-40% cheaper per night, and 2 miles from the Coachella stage. Here's which base makes more sense for your trip."
 ogImage: /blog/images/blog-hero-palm-springs.webp
 heroImage: /blog/images/blog-hero-palm-springs.webp
@@ -33,7 +33,7 @@ layout: blog-post.njk
       "description": "Indio is 25 miles from Palm Springs, 30-40% cheaper per night, and 2 miles from the Coachella stage. Here's which base makes more sense for your trip.",
       "image": "https://indigopalm.co/blog/images/blog-hero-palm-springs.webp",
       "datePublished": "2026-02-05",
-      "dateModified": "2026-05-11",
+      "dateModified": "2026-04-11",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

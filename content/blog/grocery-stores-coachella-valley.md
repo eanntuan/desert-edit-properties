@@ -1,7 +1,7 @@
 ---
 title: "Best Grocery Stores Near Palm Springs and Indio, CA"
 date: 2026-04-06
-dateModified: 2026-05-03
+dateModified: 2026-05-14
 metaDescription: "Grocery stores near Palm Springs and Indio: Trader Joe's, Whole Foods, Jensen's, Stater Bros locations and which one to use based on where you're staying."
 ogImage: /blog/images/west-elm-dining.webp
 heroImage: /blog/images/west-elm-dining.webp
@@ -32,7 +32,7 @@ layout: blog-post.njk
       "description": "Grocery stores near Palm Springs and Indio: Trader Joe's, Whole Foods, Jensen's, Stater Bros locations and which one to use based on where you're staying.",
       "image": "https://indigopalm.co/blog/images/west-elm-dining.webp",
       "datePublished": "2026-04-06",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-14",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

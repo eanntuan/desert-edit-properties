@@ -1,7 +1,7 @@
 ---
 title: "Birthday Freebies in Palm Springs: Free Treats and Deals"
 date: 2026-04-15
-dateModified: 2026-05-03
+dateModified: 2026-05-19
 metaDescription: "Birthday freebies in the Palm Springs area: free cookies, bundtlets, cheesecake, cupcakes, and more. What to sign up for, when, and exactly where to go."
 ogImage: /blog/images/yes-please-palm-springs.webp
 heroImage: /blog/images/yes-please-palm-springs.webp
@@ -27,7 +27,7 @@ layout: blog-post.njk
       "description": "Birthday freebies in the Palm Springs area: free cookies, bundtlets, cheesecake, cupcakes, and more. What to sign up for, when, and exactly where to go.",
       "image": "https://indigopalm.co/blog/images/yes-please-palm-springs.webp",
       "datePublished": "2026-04-15",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-19",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

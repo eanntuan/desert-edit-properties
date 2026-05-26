@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs vs Scottsdale: Cost, Vibe, and Who Wins"
 date: 2026-03-16
-dateModified: 2026-05-11
+dateModified: 2026-04-24
 metaDescription: "Palm Springs vs Scottsdale: smaller and walkable vs larger and resort-focused. Here's the honest cost breakdown and which destination fits your trip."
 ogImage: /blog/images/scottsdale-resort-pool.webp
 heroImage: /blog/images/scottsdale-resort-pool.webp
@@ -31,7 +31,7 @@ layout: blog-post.njk
       "description": "Palm Springs vs Scottsdale: smaller and walkable vs larger and resort-focused. Here's the honest cost breakdown and which destination fits your trip.",
       "image": "https://indigopalm.co/blog/images/scottsdale-resort-pool.webp",
       "datePublished": "2026-03-16",
-      "dateModified": "2026-05-11",
+      "dateModified": "2026-04-24",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

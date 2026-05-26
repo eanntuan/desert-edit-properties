@@ -1,7 +1,7 @@
 ---
 title: "Indian Canyons Palm Springs: What to Know Before You Go"
 date: 2026-04-09
-dateModified: 2026-05-03
+dateModified: 2026-05-16
 metaDescription: "Indian Canyons in Palm Springs: which canyon to hike, how long it takes, entry fees, parking, and the best time to visit the Agua Caliente tribal lands."
 ogImage: /blog/images/palm-canyon-oasis-trail.webp
 heroImage: /blog/images/palm-canyon-oasis-trail.webp
@@ -32,7 +32,7 @@ layout: blog-post.njk
       "description": "Indian Canyons in Palm Springs: which canyon to hike, how long it takes, entry fees, parking, and the best time to visit the Agua Caliente tribal lands.",
       "image": "https://indigopalm.co/blog/images/palm-canyon-oasis-trail.webp",
       "datePublished": "2026-04-09",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-16",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

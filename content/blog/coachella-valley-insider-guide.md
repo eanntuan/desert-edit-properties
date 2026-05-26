@@ -1,7 +1,7 @@
 ---
 title: "Coachella Valley Insider Guide: Local Spots Worth Knowing"
 date: 2025-12-19
-dateModified: 2026-04-09
+dateModified: 2026-03-03
 metaDescription: "Skip the tourist traps. A Coachella Valley local shares the spots worth your time in Indio, Palm Springs, and Joshua Tree. No recycled lists."
 ogImage: /blog/images/ps-street-bougainvillea.webp
 heroImage: /blog/images/ps-street-bougainvillea.webp
@@ -41,7 +41,7 @@ relatedPosts:
       "description": "Skip the tourist traps. A Coachella Valley local shares the spots worth your time in Indio, Palm Springs, and Joshua Tree. No recycled lists.",
       "image": "https://indigopalm.co/blog/images/ps-street-bougainvillea.webp",
       "datePublished": "2025-12-19",
-      "dateModified": "2026-04-09",
+      "dateModified": "2026-03-03",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

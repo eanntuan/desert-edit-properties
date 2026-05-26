@@ -1,7 +1,7 @@
 ---
 title: "Modernism Week Palm Springs: Tickets, Tours, What to Know"
 date: 2026-04-12
-dateModified: 2026-05-03
+dateModified: 2026-05-17
 metaDescription: "Modernism Week Palm Springs runs every February with home tours, bus tours, and parties. How to get tickets, what sells out first, and where to stay."
 ogImage: /blog/images/ps-blue-door-cacti.webp
 heroImage: /blog/images/ps-blue-door-cacti.webp
@@ -27,7 +27,7 @@ layout: blog-post.njk
       "description": "Modernism Week Palm Springs runs every February with home tours, bus tours, and parties. How to get tickets, what sells out first, and where to stay.",
       "image": "https://indigopalm.co/blog/images/ps-blue-door-cacti.webp",
       "datePublished": "2026-04-12",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-17",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

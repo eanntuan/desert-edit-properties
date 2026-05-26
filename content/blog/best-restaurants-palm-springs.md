@@ -1,7 +1,7 @@
 ---
 title: "Best Restaurants in Palm Springs: 15 Local Picks (2026)"
 date: 2026-02-17
-dateModified: 2026-05-23
+dateModified: 2026-04-18
 metaDescription: "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included."
 ogImage: /blog/images/bar-cecil.webp
 heroImage: /blog/images/bar-cecil.webp
@@ -36,7 +36,7 @@ layout: blog-post.njk
       "description": "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included.",
       "image": "https://indigopalm.co/blog/images/bar-cecil.webp",
       "datePublished": "2026-02-17",
-      "dateModified": "2026-05-23",
+      "dateModified": "2026-04-18",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

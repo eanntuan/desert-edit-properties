@@ -1,7 +1,7 @@
 ---
 title: "191 Airbnb Reviews: What Four Years of Hosting Taught Us"
 date: 2025-10-26
-dateModified: 2026-04-15
+dateModified: 2025-12-08
 metaDescription: "Hard-won hosting lessons from 191 Airbnb reviews and four years running rentals in Indio, CA. The details that move the needle on 5-star reviews."
 ogImage: /blog/images/airbnb-hosting-welcome.webp
 heroImage: /blog/images/airbnb-hosting-welcome.webp
@@ -28,7 +28,7 @@ layout: blog-post.njk
       "description": "Hard-won hosting lessons from 191 Airbnb reviews and four years running rentals in Indio, CA. The details that move the needle on 5-star reviews.",
       "image": "https://indigopalm.co/blog/images/airbnb-hosting-welcome.webp",
       "datePublished": "2025-10-26",
-      "dateModified": "2026-04-15",
+      "dateModified": "2025-12-08",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

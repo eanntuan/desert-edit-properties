@@ -1,7 +1,7 @@
 ---
 title: "Coachella Valley Weekend Getaway: The Honest Desert Guide"
 date: 2026-05-03
-dateModified: 2026-05-11
+dateModified: 2026-05-25
 metaDescription: "Planning a Coachella Valley weekend getaway? Here's the honest guide: when to go, where to stay, and how to handle the 100-degree afternoon problem."
 ogImage: /blog/images/coachella-valley-map.webp
 heroImage: /blog/images/coachella-valley-map.webp
@@ -31,7 +31,7 @@ layout: blog-post.njk
       "description": "Planning a Coachella Valley weekend getaway? Here's the honest guide: when to go, where to stay, and how to handle the 100-degree afternoon problem.",
       "image": "https://indigopalm.co/blog/images/coachella-valley-map.webp",
       "datePublished": "2026-05-03",
-      "dateModified": "2026-05-11",
+      "dateModified": "2026-05-25",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

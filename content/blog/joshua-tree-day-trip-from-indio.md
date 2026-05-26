@@ -1,7 +1,7 @@
 ---
 title: "Joshua Tree Day Trip from Indio: Entry, Tips, Itinerary"
 date: 2026-01-30
-dateModified: 2026-05-10
+dateModified: 2026-04-07
 metaDescription: "Joshua Tree day trip from Indio: 45 min drive, Cottonwood entrance, $35 entry fee, full itinerary, and what to bring from a Coachella Valley local."
 ogImage: /blog/images/joshua-tree-national-park.webp
 heroImage: /blog/images/joshua-tree-national-park.webp
@@ -34,7 +34,7 @@ layout: blog-post.njk
       "description": "Joshua Tree day trip from Indio: 45 min drive, Cottonwood entrance, $35 entry fee, full itinerary, and what to bring from a Coachella Valley local.",
       "image": "https://indigopalm.co/blog/images/joshua-tree-national-park.webp",
       "datePublished": "2026-01-30",
-      "dateModified": "2026-05-10",
+      "dateModified": "2026-04-07",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Palm Springs: Studios, Options, What to Expect"
 date: 2026-03-28
-dateModified: 2026-05-03
+dateModified: 2026-05-05
 metaDescription: "ClassPass in Palm Springs: thinner studio selection than a big city, but still useful. What's available, which cities have more options, and how to book."
 ogImage: /blog/images/classpass-fitness-studio.webp
 heroImage: /blog/images/classpass-fitness-studio.webp
@@ -28,7 +28,7 @@ layout: blog-post.njk
       "description": "ClassPass in Palm Springs: thinner studio selection than a big city, but still useful. What's available, which cities have more options, and how to book.",
       "image": "https://indigopalm.co/blog/images/classpass-fitness-studio.webp",
       "datePublished": "2026-03-28",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-05",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

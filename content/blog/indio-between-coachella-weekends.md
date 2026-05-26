@@ -1,7 +1,7 @@
 ---
 title: "Indio Between Coachella Weekends: 7 Days, No Filler"
 date: 2026-01-27
-dateModified: 2026-05-06
+dateModified: 2026-04-01
 metaDescription: "Staying in Indio between Coachella weekends? Date shakes at Shields, the Salton Sea, and spots where locals eat. A real guide, not a listicle."
 ogImage: /blog/images/indio-between-coachella-weekends.webp
 heroImage: /blog/images/indio-between-coachella-weekends.webp
@@ -33,7 +33,7 @@ layout: blog-post.njk
       "description": "Staying in Indio between Coachella weekends? Date shakes at Shields, the Salton Sea, and spots where locals eat. A real guide, not a listicle.",
       "image": "https://indigopalm.co/blog/images/indio-between-coachella-weekends.webp",
       "datePublished": "2026-01-27",
-      "dateModified": "2026-05-06",
+      "dateModified": "2026-04-01",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

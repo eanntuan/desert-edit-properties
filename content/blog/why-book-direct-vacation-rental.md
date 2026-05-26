@@ -1,7 +1,7 @@
 ---
 title: "Why Book Direct Instead of Airbnb: The Honest Math"
 date: 2025-11-01
-dateModified: 2026-04-15
+dateModified: 2025-12-16
 metaDescription: "Booking a vacation rental direct saves you 14-16% in Airbnb service fees. The honest math, what you get, and when direct booking makes sense."
 ogImage: /blog/images/west-elm-dining.webp
 heroImage: /blog/images/west-elm-dining.webp
@@ -30,7 +30,7 @@ layout: blog-post.njk
       "description": "Booking a vacation rental direct saves you 14-16% in Airbnb service fees. The honest math, what you get, and when direct booking makes sense.",
       "image": "https://indigopalm.co/blog/images/west-elm-dining.webp",
       "datePublished": "2025-11-01",
-      "dateModified": "2026-04-15",
+      "dateModified": "2025-12-16",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

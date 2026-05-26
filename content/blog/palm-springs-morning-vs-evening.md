@@ -1,7 +1,7 @@
 ---
 title: "How to Beat the Heat in Palm Springs: Morning vs Evening"
 date: 2026-04-18
-dateModified: 2026-05-03
+dateModified: 2026-05-21
 metaDescription: "How to beat Palm Springs heat: what to do in the morning, how to survive midday, and why desert evenings are the best part of any visit. A local's guide."
 ogImage: /blog/images/heyday-palm-springs.webp
 heroImage: /blog/images/heyday-palm-springs.webp
@@ -32,7 +32,7 @@ layout: blog-post.njk
       "description": "How to beat Palm Springs heat: what to do in the morning, how to survive midday, and why desert evenings are the best part of any visit. A local's guide.",
       "image": "https://indigopalm.co/blog/images/heyday-palm-springs.webp",
       "datePublished": "2026-04-18",
-      "dateModified": "2026-05-03",
+      "dateModified": "2026-05-21",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"

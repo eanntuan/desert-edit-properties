@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs in Summer: Is It Actually Worth Visiting?"
 date: 2025-11-13
-dateModified: 2026-04-15
+dateModified: 2026-01-19
 metaDescription: "Yes, with caveats. Pool culture peaks in summer, rates drop 30-50%, crowds disappear. Here's how to do Palm Springs in the heat, month by month."
 ogImage: /blog/images/palm-springs-pool.webp
 heroImage: /blog/images/palm-springs-pool.webp
@@ -34,7 +34,7 @@ layout: blog-post.njk
       "description": "Yes, with caveats. Pool culture peaks in summer, rates drop 30-50%, crowds disappear. Here's how to do Palm Springs in the heat, month by month.",
       "image": "https://indigopalm.co/blog/images/palm-springs-pool.webp",
       "datePublished": "2025-11-13",
-      "dateModified": "2026-04-15",
+      "dateModified": "2026-01-19",
       "author": {
         "@type": "Person",
         "name": "Eann Tuan"
