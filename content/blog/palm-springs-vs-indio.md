@@ -71,7 +71,7 @@ layout: blog-post.njk
 <img src="/blog/images/ps-palm-street-blue-sky.jpg" alt="Palm tree-lined street in Palm Springs under a clear blue sky with mountain views in the distance" loading="lazy" width="1400" height="933">
 <p class="image-caption">The main drag in Palm Springs. Walkability like this is rare in the California desert.</p>
 
-<p>Palm Springs is walkable in a way that almost nothing else in the desert is. You can park once, walk to dinner, get coffee in the morning without moving the car, wander the architecture streets in the afternoon, and come back to your rental without ever touching your keys again. For the Coachella Valley, that is genuinely unusual.</p>
+<p>Palm Springs is walkable in a way that almost nothing else in the desert is. You can park once, walk to dinner, <a href="/blog/palm-springs-coffee-guide/">get coffee in the morning without moving the car</a>, wander the architecture streets in the afternoon, and come back to your rental without ever touching your keys again. For the Coachella Valley, that is genuinely unusual.</p>
 
 <p>The midcentury modern architecture here lives up to the reputation. The residential streets off Palm Canyon Drive are lined with flat-roofed homes in terracotta, teal, and deep ochre, most of them unchanged since the 1950s and 60s. <a href="https://www.psarchitecturalfoundation.org/" target="_blank" rel="noopener noreferrer"><strong>The Palm Springs Architectural Foundation</strong></a> runs excellent walking tours if you want context for what you're seeing. Our <a href="/blog/palm-springs-midcentury-architecture/">self-guided architecture walk</a> covers the same territory on foot.</p>
 
@@ -97,7 +97,7 @@ layout: blog-post.njk
 
 <p>A 3-bedroom house with a private pool, a hot tub, and a yard big enough for a group to actually use runs meaningfully less than an equivalent space in Palm Springs. For family trips, friend groups, or anyone where square footage and outdoor space matter, Indio is where the rental math works in your favor.</p>
 
-<p>If you're attending Coachella or Stagecoach, Indio is the right call without much debate. The Cozy Cactus, our 3-bedroom in the Indian Palms neighborhood, is a short drive to the polo grounds. No surge pricing, no early departure to beat traffic, no standing in a rideshare line at midnight.</p>
+<p>If you're attending Coachella or Stagecoach, Indio is the right call without much debate. The Cozy Cactus, our 3-bedroom in the <a href="/blog/indian-palms-vacation-rental/">Indian Palms neighborhood</a>, is a short drive to the polo grounds. No surge pricing, no early departure to beat traffic, no standing in a rideshare line at midnight.</p>
 
 <img src="/blog/images/cc-nook-vignette.jpg" alt="Styled interior vignette at a Coachella Valley vacation rental with warm desert tones and comfortable furnishings" loading="lazy" width="1400" height="933">
 <p class="image-caption">Indio vacation rentals tend to have more living space per dollar. Inside and out.</p>
@@ -187,7 +187,7 @@ layout: blog-post.njk
 <p>About 30 miles, which is typically 30 to 40 minutes without traffic on the I-10. During Coachella or Stagecoach festival days, that drive can stretch to an hour or more in the evenings. It's a short enough distance to day-trip between the two, but long enough that staying in the wrong city can cost you a lot of time over a weekend.</p>
 
 <h3>Is Palm Springs or Indio better for Coachella?</h3>
-<p>Indio is the clear choice for Coachella or Stagecoach. The Empire Polo Club is in Indio, so staying locally means a 5–15 minute drive versus 30–60 minutes from Palm Springs. You save money on rideshares, you can actually go back to the house between afternoon and evening sets, and you avoid the surge pricing nightmare that hits Palm Springs rideshares on festival weekends.</p>
+<p>Indio is the clear choice for Coachella or Stagecoach. The Empire Polo Club is in Indio, so staying locally means a 5–15 minute drive versus 30–60 minutes from Palm Springs. You save money on rideshares, you can actually go back to the house between afternoon and evening sets, and you avoid the surge pricing nightmare that hits Palm Springs rideshares on festival weekends. For the full breakdown on where to stay during festival week, the <a href="/blog/where-to-stay-coachella-2026/">Coachella accommodation guide</a> covers neighborhoods, timing, and what to book first.</p>
 
 <h3>Is Indio cheaper than Palm Springs for vacation rentals?</h3>
 <p>Generally yes, and significantly so for larger properties. A 3-bedroom with a private pool in Indio typically runs 30–50% less per night than a comparable space in Palm Springs. You're trading walkability and design prestige for space, outdoor room, and value. That's the right trade for most groups.</p>
