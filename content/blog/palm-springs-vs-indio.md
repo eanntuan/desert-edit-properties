@@ -75,7 +75,7 @@ layout: blog-post.njk
 
 <p>The midcentury modern architecture here lives up to the reputation. The residential streets off Palm Canyon Drive are lined with flat-roofed homes in terracotta, teal, and deep ochre, most of them unchanged since the 1950s and 60s. <a href="https://www.psarchitecturalfoundation.org/" target="_blank" rel="noopener noreferrer"><strong>The Palm Springs Architectural Foundation</strong></a> runs excellent walking tours if you want context for what you're seeing. Our <a href="/blog/palm-springs-midcentury-architecture/">self-guided architecture walk</a> covers the same territory on foot.</p>
 
-<p>Downtown Palm Springs has density: restaurants, galleries, a weekend street market, vintage shops, and a handful of bars that go reasonably late. If your trip is about wandering and discovery, Palm Springs rewards that kind of itinerary.</p>
+<p>Downtown Palm Springs has density: restaurants, galleries, a weekend street market, vintage shops, and <a href="/blog/palm-springs-bars/">a handful of bars that go reasonably late</a>. If your trip is about wandering and discovery, Palm Springs rewards that kind of itinerary.</p>
 
 <img src="/blog/images/ps-orange-door-mcm.jpg" alt="Vibrant orange front door of a midcentury modern home in Palm Springs with desert garden and blue sky" loading="lazy" width="1400" height="933">
 <p class="image-caption">Every block in Palm Springs has a moment like this. Not curated. Just how the city looks.</p>
@@ -164,7 +164,7 @@ layout: blog-post.njk
 
 <h2>Which One Is Right for Your Trip</h2>
 
-<p><strong>Choose Palm Springs if:</strong> you want to be 10 minutes from downtown restaurants and bars, you're a couple or group of three, there's no festival on your agenda, midcentury architecture is a genuine draw for you, or you're visiting mid-week when rates are lower and the city is quieter.</p>
+<p><strong>Choose Palm Springs if:</strong> you want to be 10 minutes from downtown restaurants and bars, you're a couple or group of three, there's no festival on your agenda, midcentury architecture is a genuine draw for you, the <a href="/blog/palm-springs-aerial-tram/">Palm Springs Aerial Tramway</a> is on your list, or you're visiting mid-week when rates are lower and the city is quieter.</p>
 
 <p><strong>Choose Indio if:</strong> your group is five or more people, you're attending Coachella or Stagecoach, you want a larger pool and actual outdoor living space, you're bringing kids and need room to move, or the nightly rate difference is a real budget consideration.</p>
 

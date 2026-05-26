@@ -136,6 +136,8 @@ layout: blog-post.njk
 
 <p>In summer, get your coffee run done before 9 AM. Not because the shops close, but because standing in a parking lot at 11 AM when it's 108°F is a character-building experience you only need once. In winter and spring, mornings in the valley are perfect: 65°F, clear sky, low wind. Take the long way back.</p>
 
+<p>If you want to know where to end the day after you've started it right, the <a href="/blog/palm-springs-bars/">Palm Springs bars guide</a> covers where to drink at night: tiki bars, rooftop spots, and the Arenas Road LGBTQ+ scene.</p>
+
 <h2>Frequently Asked Questions</h2>
 
 <h3>What is the best coffee shop in Palm Springs?</h3>
