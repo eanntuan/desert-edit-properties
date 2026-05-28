@@ -394,6 +394,24 @@
   }
 
   /* ─── BOOK CTA ─── */
+  .discount-badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background: #FDF4F0;
+    border: 1.5px solid var(--terracotta);
+    border-radius: 8px;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1.25rem;
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--terracotta);
+    letter-spacing: 0.02em;
+    text-align: center;
+  }
+
   .cta-wrap {
     text-align: center;
     margin-top: 2.5rem;
@@ -555,6 +573,10 @@
 
   <!-- book CTA -->
   <div class="cta-wrap">
+    <div class="discount-badge">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 1l1.8 3.6L14 5.6l-3 2.9.7 4.1L8 10.5l-3.7 2.1.7-4.1L2 5.6l4.2-.9L8 1z" fill="#C4897A" stroke="#C4897A" stroke-width="0.5" stroke-linejoin="round"/></svg>
+      Direct booking returners get 10% off their next stay.
+    </div>
     <p>Already thinking about coming back to the desert?</p>
     <a class="cta-btn" href="/go/terra-luz?utm_source=farewell&utm_medium=page&utm_campaign=guest-comms" onclick="gtag('event','farewell_book_click',{'event_category':'Booking','event_label':'Farewell Page CTA'});">Book Terra Luz Again</a>
   </div>
