@@ -637,7 +637,7 @@
         /* Gallery Section */
         .gallery-section {
             padding: 6rem 5%;
-            background: var(--cream);
+            background: #ffffff;
         }
 
         .gallery-section h2 {
@@ -659,6 +659,7 @@
         .gallery-item {
             display: flex;
             flex-direction: column;
+            background: #ffffff;
         }
 
         .gallery-img-wrap {
@@ -666,6 +667,7 @@
             overflow: hidden;
             aspect-ratio: 4/3;
             cursor: zoom-in;
+            border-radius: 12px;
         }
 
         .gallery-img-wrap img {
@@ -675,6 +677,7 @@
             object-position: center;
             display: block;
             transition: transform 0.3s ease;
+            border-radius: 12px;
         }
 
         .gallery-img-wrap:hover img {
@@ -682,11 +685,13 @@
         }
 
         .gallery-caption {
-            font-size: 0.78rem;
-            color: #7A4A2F;
-            margin: 0.5rem 0 0;
-            line-height: 1.4;
-            font-style: italic;
+            font-size: 0.85rem;
+            color: #555;
+            margin: 0.75rem 0 0;
+            padding: 0 0.25rem;
+            line-height: 1.5;
+            font-style: normal;
+            font-weight: 400;
         }
 
         /* Lightbox */
