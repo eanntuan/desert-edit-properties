@@ -1,7 +1,7 @@
 ---
-title: "Palm Springs Surf Club: Prices, Hours, and Honest Review"
+title: "Palm Springs Surf Club Review 2026: Prices, Hours, Worth It?"
 date: 2025-12-04
-dateModified: 2026-02-11
+dateModified: 2026-05-29
 metaDescription: "Palm Springs Surf Club day passes run $100-250 depending on level. Open daily until 8pm. Book 1-2 weeks ahead on weekends. What to know before you go."
 ogImage: /blog/images/pssc-wave-pool-reflection.webp
 heroImage: /blog/images/pssc-wave-pool-reflection.webp
@@ -131,6 +131,14 @@ layout: blog-post.njk
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "What are Palm Springs Surf Club hours?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Palm Springs Surf Club is generally open daily from 10am to 8pm, with seasonal variations. The on-site restaurant, Drifters, is open Thursday through Sunday (Thursday and Friday 11am-8pm, Saturday and Sunday 10am-8pm). Check palmspringssurfclub.com before your visit since hours shift by season."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Do you need to know how to surf to go to Palm Springs Surf Club?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -166,6 +174,9 @@ layout: blog-post.njk
 </script>
 
 <h2>Frequently Asked Questions</h2>
+
+<h3>What are Palm Springs Surf Club hours?</h3>
+<p>Generally open daily from 10am to 8pm, with seasonal variations. The on-site restaurant, Drifters, is open Thursday through Sunday: Thursday and Friday 11am-8pm, Saturday and Sunday 10am-8pm. Check <a href="https://palmspringssurfclub.com" target="_blank" rel="noopener">palmspringssurfclub.com</a> before your visit since hours shift by season.</p>
 
 <h3>Do you need to know how to surf to go to Palm Springs Surf Club?</h3>
 <p>No. The beginner session includes soft-top boards and structured coaching. Most people stand up at least once during a first visit. Book your session in advance at <a href="https://palmspringssurfclub.com" target="_blank" rel="noopener">palmspringssurfclub.com</a>. Don't show up without a reservation and expect to get in on a weekend.</p>
