@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /booking-flow/
+# /booking-flow/ has noindex meta tag; allow crawl so Google can read it
 
 Sitemap: https://indigopalm.co/sitemap.xml
