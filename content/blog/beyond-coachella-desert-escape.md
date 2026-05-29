@@ -87,7 +87,7 @@ layout: blog-post.njk
 <img src="/blog/images/desert-ridge-hike-valley-view.webp" alt="Hiker on desert ridge overlooking the Coachella Valley with mountain range stretching into the distance California" width="1400" height="933" loading="lazy" decoding="async">
 <p class="image-caption">Sunrise hike, back at the pool by 11 AM. Best of both worlds.</p>
 
-<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private pool and backyard at Terra Luz vacation rental in Indio CA, perfect for a Coachella Valley desert escape" width="1400" height="933" loading="lazy">
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with terracotta deck and covered patio in Indio CA, ideal for a Coachella Valley desert escape" width="1400" height="933" loading="lazy">
 <p class="image-caption">Back at Terra Luz by 11 AM. The pool does not care what time you got up.</p>
 
 <h2>Palm Springs: Worth the 30-Minute Drive</h2>

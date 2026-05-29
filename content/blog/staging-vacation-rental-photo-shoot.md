@@ -30,7 +30,7 @@ layout: blog-post.njk
 
 <p>This is the playbook I wish I had written five days earlier.</p>
 
-<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Casa Moto backyard pool staged for vacation rental photography in Indio California with desert landscaping and mountain views" width="1600" height="1066" loading="lazy">
+<img src="/blog/images/terra-luz-patio-full.webp" alt="Terra Luz backyard patio staged for photography with saltwater pool, terracotta deck, and covered pergola in Indio California" width="1400" height="933" loading="lazy">
 <p class="image-caption">The pool is the hero shot. Everything in staging flows outward from here.</p>
 
 <h2>Why Staging for Photography Is Its Own Skill</h2>

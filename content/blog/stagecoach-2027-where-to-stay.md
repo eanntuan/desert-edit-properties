@@ -71,7 +71,7 @@ relatedPosts:
 
 <p><strong>Outdoor space.</strong> Late April evenings in the Coachella Valley are genuinely beautiful: low 60s, light breeze, the kind of weather you want to be outside in. A house with a backyard and a hot tub or private pool makes those hours count.</p>
 
-<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private saltwater pool and terracotta patio at Terra Luz vacation rental in Indio California near Stagecoach festival" width="1400" height="933" loading="lazy">
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers and terracotta deck in Indio California, minutes from Stagecoach festival grounds" width="1400" height="933" loading="lazy">
 <p class="image-caption">Terra Luz backyard and private saltwater pool. After three days in festival heat, this is where late April evenings belong.</p>
 
 <h2>The Cozy Cactus: 3BR, Hot Tub, Game Room</h2>

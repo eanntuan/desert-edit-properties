@@ -192,6 +192,11 @@ layout: blog-post.njk
 <img src="/blog/images/rosemary-hifi.webp" alt="Rosemary HiFi bar interior, cobalt blue tile, walnut shelving with vinyl records, 1960s JBL speakers, concrete bar, Indio CA" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">Cobalt blue tile, 1960s JBL speakers, a turntable built into the bar. The Coachella Valley's first listening lounge.</p>
 
+<p>If you're planning a trip around these spots, both of our Indio rentals put you within a 5-10 minute radius of most of them. <a href="/terra-luz/">Terra Luz</a> is in Indian Palms, right in the neighborhood where a lot of this happens.</p>
+
+<img src="/blog/images/terra-luz-exterior.webp" alt="Terra Luz vacation rental exterior with terracotta tones and desert landscaping in Indian Palms, Indio California" loading="lazy" decoding="async" width="1400" height="933">
+<p class="image-caption">Terra Luz in Indian Palms. Most of these spots are within a 10-minute drive.</p>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

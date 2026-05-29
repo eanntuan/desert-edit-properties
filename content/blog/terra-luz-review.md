@@ -2,9 +2,9 @@
 title: "Terra Luz Vacation Rental in Indio: An Honest Review"
 date: 2026-02-14
 metaDescription: "Terra Luz in Indio: 4.98 stars, 146 reviews. Private saltwater pool, Latin/Cuban design. What guests consistently love and what to know before booking."
-ogImage: /blog/images/IMG_6691.webp
-heroImage: /blog/images/IMG_6691.webp
-heroAlt: "Terra Luz private saltwater pool and backyard at vacation rental in Indio California"
+ogImage: /blog/images/terra-luz-pool-backyard.webp
+heroImage: /blog/images/terra-luz-pool-backyard.webp
+heroAlt: "Terra Luz saltwater pool with in-water loungers and Desert Marigold umbrella, Indio California"
 keywords:
   - Terra Luz review
   - Terra Luz Indio review
@@ -35,7 +35,7 @@ relatedPosts:
 
 <p>I'm Eann. I own it.</p>
 
-<img src="/blog/images/IMG_6691.webp" alt="Terra Luz private saltwater pool with geometric tile and sun shelf in Indio California" width="1400" height="1050" loading="lazy">
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers, Desert Marigold umbrella, and terracotta deck in Indio California" width="1400" height="1050" loading="lazy">
 <p class="image-caption">The private saltwater pool. Heated year-round, geometric tile border, sun shelf loungers. This is the part people come back for.</p>
 
 <h2>What Guests Consistently Say</h2>
@@ -54,8 +54,8 @@ relatedPosts:
 
 <p>The design carries through every room. This is not a house with a nice living room and forgotten bedrooms. Dawn's brief was to create something that feels like a destination in every space, not just where you take photos for Instagram.</p>
 
-<img src="/blog/images/IMG_6781.webp" alt="Hand-painted chevron mural wall in terracotta and gold in a bedroom at Terra Luz vacation rental in Indio California during renovation" width="1400" height="1050" loading="lazy" decoding="async">
-<p class="image-caption">Dawn's zigzag mural going up in the primary bedroom during the May 2026 renovation. This is what intentional design looks like mid-process.</p>
+<img src="/blog/images/terra-luz-wild-tropics-bedroom.webp" alt="Terra Luz second bedroom with Wild Tropics blue wallpaper floor to ceiling and Merola tile headboard in Indio California" width="1400" height="1050" loading="lazy" decoding="async">
+<p class="image-caption">The Wild Tropics bedroom. Floor-to-ceiling wallpaper, tile headboard, terracotta pendants. The most photographed room in the house.</p>
 
 <h2>Location</h2>
 
@@ -90,7 +90,7 @@ relatedPosts:
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of Indian Palms neighborhood in Indio showing vacation rental area near Coachella" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Indian Palms area from above. Terra Luz and The Cozy Cactus are both in this neighborhood, about 15 minutes apart.</p>
 
-<img src="/blog/images/IMG_9555.webp" alt="Terra Luz vacation rental interior with Latin Cuban design details and warm lighting in Indio California" width="1800" height="1350" loading="lazy" decoding="async">
+<img src="/blog/images/terra-luz-living-room.webp" alt="Terra Luz living room with terracotta lime-wash TV cove, walnut credenza, and tropical floor plants" width="1400" height="933" loading="lazy" decoding="async">
 <p class="image-caption">The design carries through every room. This is not a house with a nice living room and forgotten bedrooms.</p>
 
 <h2>The Bottom Line</h2>

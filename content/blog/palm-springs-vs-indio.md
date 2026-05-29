@@ -141,7 +141,10 @@ layout: blog-post.njk
 
 <p><a href="/cozy-cactus/">The Cozy Cactus</a> is our 3-bedroom in Indio, with a private pool, private hot tub, and game room. It sleeps up to 8 and is built for groups. The Indian Palms neighborhood is quiet, gated, and a short drive from the festival grounds.</p>
 
-<p><a href="/terra-luz/">Terra Luz</a> is our Latin/Cuban-inspired 3-bedroom opening May 2026 in Indio. Private pool with a black-and-white geometric tile border and in-pool sun shelf loungers, terracotta deck, and a pergola with string lights. Different feel from the Cozy Cactus, same proximity advantage.</p>
+<p><a href="/terra-luz/">Terra Luz</a> is our Latin/Cuban-inspired 3-bedroom in Indio. Private saltwater pool with in-water loungers, terracotta deck, and a covered pergola with string lights. Different feel from the Cozy Cactus, same proximity advantage.</p>
+
+<img src="/blog/images/terra-luz-exterior.webp" alt="Terra Luz vacation rental exterior with terracotta tones and desert landscaping in Indian Palms, Indio California" loading="lazy" width="1400" height="933">
+<p class="image-caption">Terra Luz in Indian Palms, Indio. Same 7-minute drive to the polo grounds, different aesthetic from the Cozy Cactus.</p>
 
 <p>In Palm Springs, <a href="/the-sundune/">The Sundune</a> is our 2-bedroom near downtown. Coastal-desert aesthetic, walkable to the main drag, good for couples or a small group who want the walkable Palm Springs experience.</p>
 

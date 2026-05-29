@@ -4,7 +4,7 @@ date: 2025-12-22
 metaDescription: "How a vacation rental in Indio became Terra Luz: sun-washed terracotta, a Kahlo blue pool, and a brand built on Latin warmth and desert light."
 ogImage: /blog/images/terra-luz-origin-hero.webp
 heroImage: /blog/images/terra-luz-origin-hero.webp
-heroAlt: "desert home exterior in Indio California Coachella Valley"
+heroAlt: "Terra Luz exterior with terracotta tones and desert landscaping, Indio California"
 keywords:
   - Terra Luz vacation rental
   - vacation rental Indio CA
@@ -100,7 +100,7 @@ layout: blog-post.njk
 
 <p>What replaced it: Sunbaked Terracotta on every outdoor surface, a Kahlo Blue pool that stops you in your tracks, natural rattan and woven textures that feel collected over time, Cuban and Latin cultural details woven throughout, and a wabi-sabi warmth where patina is welcome and lived-in is the point.</p>
 
-<img src="/blog/images/IMG_9550.webp" alt="Terra Luz vacation rental interior in Indio California with Latin Cuban design details and warm terracotta tones" width="1800" height="1350" loading="lazy" decoding="async">
+<img src="/blog/images/terra-luz-living-niche.webp" alt="Terra Luz terracotta lime-wash TV niche with walnut credenza and tropical plants in the living room" width="1400" height="933" loading="lazy" decoding="async">
 <p class="image-caption">Inside Terra Luz: every room was built to feel like a destination, not just a place to sleep.</p>
 
 <h2>Who This Place Is For</h2>

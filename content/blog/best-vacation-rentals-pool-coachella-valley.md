@@ -80,7 +80,7 @@ layout: blog-post.njk
 
 <p><a href="/the-sundune/">The Sundune</a> in Palm Springs: private pool, updated outdoor space. Positioned in Palm Springs proper, which puts you closer to the design hotels, restaurants, and the midcentury architecture that makes Palm Springs worth coming to. Different energy than Indio: more walking to things, more cafe culture, slightly different version of the desert trip.</p>
 
-<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Casa Moto saltwater pool and enclosed backyard at vacation rental in Indio California Coachella Valley" width="1400" height="933" loading="lazy">
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers, Desert Marigold umbrella, and terracotta deck in Indio California" width="1400" height="933" loading="lazy">
 <p class="image-caption">Casa Moto's saltwater pool. The enclosure was a deliberate design decision, not just an aesthetic one.</p>
 
 <h2>The Checklist Before You Book</h2>

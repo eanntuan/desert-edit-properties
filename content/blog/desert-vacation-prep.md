@@ -105,6 +105,9 @@ layout: blog-post.njk
 
 <p>That's the whole point. The house is set up for it. The desert helps.</p>
 
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers and terracotta patio under desert sky in Indio California" width="1400" height="933" loading="lazy" decoding="async">
+<p class="image-caption">The pool at Terra Luz. By day two, this is where the slowing-down happens.</p>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

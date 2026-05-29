@@ -122,6 +122,11 @@ layout: blog-post.njk
     <li>Tick and flea prevention. Desert vegetation carries both.</li>
 </ul>
 
+<p>Our two dog-friendly properties: <a href="/terra-luz/">Terra Luz</a> in Indio (up to two dogs, fenced backyard, private saltwater pool) and <a href="/the-sundune/">The Sundune</a> in Palm Springs (one dog, community pool, walkable neighborhood). Both accept dogs with prior confirmation.</p>
+
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz fenced backyard and saltwater pool in Indio California, dog-friendly vacation rental in the Coachella Valley" width="1400" height="933" loading="lazy">
+<p class="image-caption">Terra Luz in Indio. Fully fenced backyard, pool is dog-accessible, up to two dogs with a $100 fee and prior confirmation.</p>
+
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
 
 <script type="application/ld+json">

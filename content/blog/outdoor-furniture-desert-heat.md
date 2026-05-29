@@ -91,7 +91,7 @@ layout: blog-post.njk
 
 <p>Buying right the first time costs more upfront. But it's still there in three years looking like it should be, not like it survived something.</p>
 
-<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz vacation rental pool and backyard in Indio California with desert garden and outdoor living space" width="1400" height="933" loading="lazy" decoding="async">
+<img src="/blog/images/terra-luz-patio-full.webp" alt="Terra Luz covered patio and saltwater pool in Indio California with West Elm outdoor furniture and terracotta deck" width="1400" height="933" loading="lazy" decoding="async">
 <p class="image-caption">The Terra Luz backyard. Everything outside here was chosen for desert durability first, then for how it photographs.</p>
 
 <h2>Two Things Nobody Tells You</h2>

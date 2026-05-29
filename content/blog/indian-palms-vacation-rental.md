@@ -107,7 +107,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Backyard pool and patio at the Cozy Cactus vacation rental in Indian Palms Country Club Indio CA" width="1400" height="933" loading="lazy">
 
-<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private saltwater pool at Terra Luz vacation rental in Indian Palms Country Club Indio CA" width="1600" height="1066" loading="lazy">
+<img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers and terracotta deck in Indian Palms Country Club, Indio CA" width="1400" height="933" loading="lazy">
 
 <p><a href="/terra-luz/">Terra Luz</a> is a 3-bedroom Latin/Cuban-inspired vacation rental with a private saltwater pool, terracotta courtyard, and an aesthetic designed by brand architect Dawn Asher. It's our pet-friendly property. It sleeps up to 8.</p>
 
