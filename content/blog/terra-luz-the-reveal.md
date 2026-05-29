@@ -111,7 +111,7 @@ layout: blog-post.njk
 
 <p>The primary bedroom is the one I'd most want to sleep in, which is the right answer when you're trying to run a hospitality business.</p>
 
-<img src="/blog/images/terra-luz-bedroom-primary.webp" alt="Terra Luz primary bedroom with custom tile floor, woven lounge chair, and warm natural light in Indio California" width="1024" height="1536" loading="lazy">
+<img src="/blog/images/terra-luz-bedroom-primary.webp" alt="Terra Luz primary bedroom live-edge bench with fringed throw and custom LA Tile floor in Indio California" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The primary bedroom. The floor tiles came from LA Tile and made the room.</p>
 
 <p>We ordered the tile from LA Tile and had it installed by Orlin. The total for the tile work was significant, around $4,200, but it's the kind of decision that either makes a room or dates it fast. This did not date it.</p>
