@@ -667,6 +667,19 @@
         #lightbox-prev:hover, #lightbox-next:hover { opacity: 1; }
         #lightbox-prev { left: 1rem; }
         #lightbox-next { right: 1rem; }
+        #lightbox-caption {
+            position: fixed;
+            bottom: 1.5rem;
+            left: 50%;
+            transform: translateX(-50%);
+            color: rgba(255,255,255,0.85);
+            font-style: italic;
+            font-size: 0.85rem;
+            text-align: center;
+            max-width: 60vw;
+            line-height: 1.4;
+            pointer-events: none;
+        }
 
         /* Footer */
         footer {
@@ -1069,6 +1082,7 @@
   <span id="lightbox-prev" aria-label="Previous">&#8249;</span>
   <img id="lightbox-img" src="" alt="">
   <span id="lightbox-next" aria-label="Next">&#8250;</span>
+  <p id="lightbox-caption"></p>
 </div>
 
 <script>
@@ -1076,12 +1090,15 @@
   const items = Array.from(document.querySelectorAll('.gallery-img-wrap img'));
   const lb = document.getElementById('lightbox');
   const lbImg = document.getElementById('lightbox-img');
+  const lbCaption = document.getElementById('lightbox-caption');
   let current = 0;
 
   function show(i) {
     current = (i + items.length) % items.length;
     lbImg.src = items[current].src;
     lbImg.alt = items[current].alt;
+    const captionEl = items[current].closest('.gallery-item') && items[current].closest('.gallery-item').querySelector('.gallery-caption');
+    if (lbCaption) lbCaption.textContent = captionEl ? captionEl.textContent : '';
     lb.classList.add('active');
     document.body.style.overflow = 'hidden';
   }

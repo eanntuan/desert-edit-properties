@@ -704,14 +704,42 @@
             align-items: center;
             justify-content: center;
         }
-        #lightbox.active { display: flex; }
+        #lightbox.active { display: flex; flex-direction: column; justify-content: center; }
+        #lightbox-inner {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 92vw;
+        }
         #lightbox img {
             max-width: 92vw;
-            max-height: 88vh;
+            max-height: 76vh;
             object-fit: contain;
             border-radius: 4px;
             box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+            display: block;
         }
+        #lightbox-caption {
+            color: rgba(255,255,255,0.85);
+            font-style: italic;
+            font-size: 0.85rem;
+            text-align: center;
+            max-width: 60vw;
+            line-height: 1.4;
+            pointer-events: none;
+            margin-top: 0.75rem;
+        }
+        #lightbox-room-link {
+            color: #B67550;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            text-decoration: none;
+            text-align: center;
+            font-weight: 500;
+            margin-top: 0.4rem;
+        }
+        #lightbox-room-link:hover { text-decoration: underline; }
         #lightbox-close {
             position: fixed;
             top: 1.2rem;
@@ -737,33 +765,6 @@
         #lightbox-prev:hover, #lightbox-next:hover { opacity: 1; }
         #lightbox-prev { left: 1rem; }
         #lightbox-next { right: 1rem; }
-        #lightbox-caption {
-            position: fixed;
-            bottom: 3.5rem;
-            left: 50%;
-            transform: translateX(-50%);
-            color: rgba(255,255,255,0.85);
-            font-style: italic;
-            font-size: 0.85rem;
-            text-align: center;
-            max-width: 60vw;
-            line-height: 1.4;
-            pointer-events: none;
-        }
-        #lightbox-room-link {
-            position: fixed;
-            bottom: 1.5rem;
-            left: 50%;
-            transform: translateX(-50%);
-            color: #B67550;
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-            text-decoration: none;
-            text-align: center;
-            font-weight: 500;
-        }
-        #lightbox-room-link:hover { text-decoration: underline; }
 
         /* Footer */
         footer {
@@ -1217,10 +1218,12 @@
 <div id="lightbox" role="dialog" aria-modal="true">
   <span id="lightbox-close" aria-label="Close">&times;</span>
   <span id="lightbox-prev" aria-label="Previous">&#8249;</span>
-  <img id="lightbox-img" src="" alt="">
+  <div id="lightbox-inner">
+    <img id="lightbox-img" src="" alt="">
+    <p id="lightbox-caption"></p>
+    <a id="lightbox-room-link" href="#" target="_blank">View room details</a>
+  </div>
   <span id="lightbox-next" aria-label="Next">&#8250;</span>
-  <p id="lightbox-caption"></p>
-  <a id="lightbox-room-link" href="#" target="_blank">View room details</a>
 </div>
 
 <script>
