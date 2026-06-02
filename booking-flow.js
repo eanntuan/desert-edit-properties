@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const PROPERTY_IMAGES = {
-    'cozy-cactus': '/cozy-cactus/photos/CozyCactus2026-0060.webp',
+    'cozy-cactus': '/cozy-cactus/photos/CozyCactus2026-0004.webp',
     'terra-luz':   '/terra-luz/photos/TerraLuz2026-0169.webp',
     'ps-retreat':  '/the-sundune/photos/Sundune2026-0120.webp',
     'the-well':    '/email-images/the-well.jpg',
