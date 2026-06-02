@@ -56,9 +56,9 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const PROPERTY_IMAGES = {
-    'cozy-cactus': '/email-images/cozy-cactus.jpg',
-    'terra-luz':   '/email-images/casa-moto.jpg',
-    'ps-retreat':  '/email-images/ps-retreat.jpg',
+    'cozy-cactus': '/email-images/cozy-cactus.webp',
+    'terra-luz':   '/terra-luz/photos/TerraLuz2026-0169.webp',
+    'ps-retreat':  '/the-sundune/photos/Sundune2026-0120.webp',
     'the-well':    '/email-images/the-well.jpg',
 };
 
