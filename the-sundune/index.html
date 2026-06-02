@@ -13,7 +13,7 @@
     <!-- Open Graph / Social Media Meta Tags -->
     <meta property="og:title" content="The Sundune | Coastal Desert Hideaway in Palm Springs">
     <meta property="og:description" content="3 KING beds, 10 min to downtown Palm Springs, coastal-desert design. Fresh, nostalgic, and effortlessly Palm Springs. Just minutes from The Surf Club.">
-    <meta property="og:image" content="https://indigopalm.co/blog/images/sundune-palm-springs-condo.webp">
+    <meta property="og:image" content="https://indigopalm.co/the-sundune/photos/Sundune2026-0120.webp">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://indigopalm.co/the-sundune/">
     <meta name="twitter:card" content="summary_large_image">
@@ -42,15 +42,15 @@
       "description": "The Sundune at Palm Springs is a coastal-inspired desert hideaway with 3 KING beds where ease meets exploration. Fresh, nostalgic, and effortlessly Palm Springs, just minutes from both The Surf Club and the heart of downtown.",
       "url": "https://indigopalm.co/the-sundune/",
       "image": [
-        "https://indigopalm.co/PS%20Retreat/IMG_3328.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3329.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3330.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3331.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3332.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3333.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3334.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3335.JPG",
-        "https://indigopalm.co/PS%20Retreat/IMG_3336.JPG"
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0120.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0050.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0150.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0040.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0180.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0293.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0080.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0060.webp",
+        "https://indigopalm.co/the-sundune/photos/Sundune2026-0230.webp"
       ],
       "address": {
         "@type": "PostalAddress",
@@ -377,7 +377,7 @@
             margin-top: 80px;
             height: 70vh;
             background: linear-gradient(rgba(110, 144, 173, 0.2), rgba(110, 144, 173, 0.2)),
-                        url('../PS Retreat/IMG_3334.webp');
+                        url('/the-sundune/photos/Sundune2026-0120.webp');
             background-size: cover;
             background-position: center;
             display: flex;
@@ -588,24 +588,41 @@
         }
 
         .gallery-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .gallery-img-wrap {
             height: 300px;
             overflow: hidden;
-            aspect-ratio: 4/3;}
+            aspect-ratio: 4/3;
+            cursor: zoom-in;
+            border-radius: 10px;
+        }
 
-        .gallery-item img {
+        .gallery-img-wrap img {
             width: 100%;
             height: 100%;
             object-fit: cover;
             object-position: center;
             display: block;
             transition: transform 0.3s ease;
+            border-radius: 10px;
         }
 
-        .gallery-item:hover img {
+        .gallery-img-wrap:hover img {
             transform: scale(1.05);
         }
 
-        .gallery-item { cursor: zoom-in; }
+        .gallery-caption {
+            font-size: 0.85rem;
+            color: #555;
+            margin: 0.75rem 0 0;
+            padding: 0 0.25rem;
+            line-height: 1.5;
+            font-style: normal;
+            font-weight: 400;
+        }
 
         /* Lightbox */
         #lightbox {
@@ -856,30 +873,36 @@
     <section class="gallery-section">
         <h2>See It for Yourself</h2>
         <div class="gallery-grid">
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3328.JPG" alt="Coastal desert living room at The Sundune Palm Springs with warm textures" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3329.JPG" alt="Open concept living space with turquoise accents at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3330.JPG" alt="Dining area with natural materials at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3331.JPG" alt="Full kitchen with modern appliances at The Sundune vacation rental" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3332.JPG" alt="Primary suite with king bed and coastal-desert design at The Sundune" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3333.JPG" alt="King bedroom with warm nostalgic tones at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3334.JPG" alt="Turquoise pool at The Sundune Palm Springs vacation rental" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3335.JPG" alt="Pool deck with lounge chairs at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3336.JPG" alt="Second king bedroom at The Sundune Palm Springs rental" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3337.JPG" alt="Third king bedroom with natural light at The Sundune" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3338.JPG" alt="Bathroom with clean design at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3340.JPG" alt="Primary bathroom with walk-in shower at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3341.JPG" alt="Outdoor patio seating for desert evenings at The Sundune" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3342.JPG" alt="Poolside entertaining area at The Sundune vacation rental Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3343.JPG" alt="Front entrance of The Sundune vacation rental Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3344.JPG" alt="Exterior of The Sundune coastal desert retreat Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3345.JPG" alt="Night view of turquoise pool at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3346.JPG" alt="Evening ambiance at The Sundune vacation rental Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3347.JPG" alt="Living room detail with linen and warm tones at The Sundune" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3348.JPG" alt="Kitchen counter with breakfast bar seating at The Sundune" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3349.JPG" alt="Bedroom with natural light and coastal textures at The Sundune" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3376.jpeg" alt="Pool and patio area at The Sundune Palm Springs rental" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/IMG_3379.jpeg" alt="Outdoor space with mountain views at The Sundune Palm Springs" loading="lazy" decoding="async"></div>
-            <div class="gallery-item"><img src="/PS%20Retreat/DSC02747.jpeg" alt="The Sundune exterior walkable to downtown Palm Springs" loading="lazy" decoding="async"></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/"><img src="/the-sundune/photos/Sundune2026-0001.webp" alt="The Sundune Palm Springs entry hallway with palm plant, wooden bench, and front door" loading="lazy" decoding="async" width="800" height="1000"></div><p class="gallery-caption">The entry hallway at The Sundune. The palm was the first thing that went in.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/living-room/"><img src="/the-sundune/photos/Sundune2026-0120.webp" alt="The Sundune Palm Springs living room with camel sofa, orange front door, dining area, and balcony beyond" loading="lazy" decoding="async" width="800" height="533"></div><p class="gallery-caption">Orange front door, camel sofa, dining table, balcony. The whole condo reads from this one angle.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/living-room/"><img src="/the-sundune/photos/Sundune2026-0160.webp" alt="The Sundune Palm Springs dining area with round walnut table, black chairs, wicker pendant, and kitchen beyond" loading="lazy" decoding="async" width="800" height="533"></div><p class="gallery-caption">Round walnut table, five black chairs, wicker pendant. One of those rooms that makes people linger after dinner.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/living-room/"><img src="/the-sundune/photos/Sundune2026-0210.webp" alt="The Sundune Palm Springs living room art gallery wall with Palm Springs architectural prints in oak frames" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Four Palm Springs architecture prints, oak frames, ceramic wall hanging. Every piece earns its spot.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/kitchen/"><img src="/the-sundune/photos/Sundune2026-0150.webp" alt="The Sundune Palm Springs kitchen with pink herringbone tile backsplash, gold sink, and white cabinets" loading="lazy" decoding="async" width="800" height="533"></div><p class="gallery-caption">Pink herringbone backsplash. Picked it before the pink kitchen trend existed. Glad we committed.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/kitchen/"><img src="/the-sundune/photos/Sundune2026-0130.webp" alt="The Sundune Palm Springs kitchen counter with Hot Date cookbook, Snacking Dinners, pink tile, and rattan lamp" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">The cookbook shelf changes. Hot Date is a permanent resident. Every guest who picks it up finds a date shake recommendation for 10 minutes away.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/kitchen/"><img src="/the-sundune/photos/Sundune2026-0140.webp" alt="The Sundune Palm Springs kitchen gold spring faucet with pink herringbone tile and rattan lamp" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">The spring faucet was the extravagance nobody argued about. It pulls out. It works.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/primary-bedroom/"><img src="/the-sundune/photos/Sundune2026-0050.webp" alt="The Sundune Palm Springs primary bedroom with blue leaf wallpaper, rattan headboard, surfboard, and oval mirror" loading="lazy" decoding="async" width="800" height="533"></div><p class="gallery-caption">Blue leaf wallpaper on the headboard wall, rattan headboard, surfboard overhead, oval mirror catching light from the window. Three kings at The Sundune starts here.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/primary-bedroom/"><img src="/the-sundune/photos/Sundune2026-0030.webp" alt="The Sundune Palm Springs primary bedroom corner with wavy pendant lamp, lounge chair, checkerboard throw, and ribbed dresser" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Wavy woven pendant, lounge chair, checkerboard throw. The corner you end up in after the pool.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/primary-bedroom/"><img src="/the-sundune/photos/Sundune2026-0100.webp" alt="The Sundune Palm Springs primary bedroom king bed with blue leaf wallpaper and rust throw pillow" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">King bed, blue leaf wallpaper, rust pillow. The room books out first. There's a reason.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/primary-bedroom/"><img src="/the-sundune/photos/Sundune2026-0010.webp" alt="The Sundune Palm Springs primary bedroom dresser with air plants on burl wood, wicker box, and travel books" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Burl wood base, air plants, travel books. Dresser detail that holds up in person better than in photos.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/primary-bathroom/"><img src="/the-sundune/photos/Sundune2026-0040.webp" alt="The Sundune Palm Springs primary bathroom with tropical palm leaf wallpaper, arched gold mirror, and gold faucet" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Tropical wallpaper, arched gold mirror, stone accessories. The bathroom that makes guests photograph the sink.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/second-bedroom/"><img src="/the-sundune/photos/Sundune2026-0060.webp" alt="The Sundune Palm Springs second bedroom with rust linen curtains, standing desk, rattan chair, and fiddle leaf fig" loading="lazy" decoding="async" width="800" height="1200"></div><p class="gallery-caption">Rust linen curtains, standing desk, rattan chair. Works as a bedroom, works as an office. Both at once, if needed.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/second-bathroom/"><img src="/the-sundune/photos/Sundune2026-0080.webp" alt="The Sundune Palm Springs second bathroom with gold vanity fixtures, white cabinetry, and green herringbone tile shower" loading="lazy" decoding="async" width="800" height="533"></div><p class="gallery-caption">White vanity, globe sconce, emerald herringbone shower behind it. Every bathroom at The Sundune has a moment.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/second-bathroom/"><img src="/the-sundune/photos/Sundune2026-0110.webp" alt="The Sundune Palm Springs second bathroom emerald green herringbone tile walk-in shower detail" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Emerald herringbone from floor to ceiling. Tile picked before green showers were everywhere. Still correct.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/pool/"><img src="/the-sundune/photos/Sundune2026-0180.webp" alt="The Sundune Palm Springs community pool with vintage woven lounge chairs and clear water" loading="lazy" decoding="async" width="800" height="533"></div><p class="gallery-caption">The community pool at Palm Canyon Villas. Rarely crowded. Usually feels private.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/pool/"><img src="/the-sundune/photos/Sundune2026-0200.webp" alt="The Sundune Palm Springs pool edge with vintage woven lounge chair and sandals on pool deck" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Lounge chair, sandals, pool edge. The afternoon goes somewhere from here.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/pool/"><img src="/the-sundune/photos/Sundune2026-0170.webp" alt="The Sundune Palm Springs private balcony patio bar with cement tile, bar stools, and kitchen pass-through window" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Private balcony bar at The Sundune. Cement tile, bar stools, a pass-through window to the kitchen. Drinks do not require going inside.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/pool/"><img src="/the-sundune/photos/Sundune2026-0230.webp" alt="The Sundune Palm Springs balcony bar with cement tile and Something and Nothing premium sodas and sunglasses" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Cement tile bar, Something and Nothing sodas, sunglasses. The balcony is where the afternoon actually happens.</p></div>
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/photos/pool/"><img src="/the-sundune/photos/Sundune2026-0293.webp" alt="The Sundune Palm Springs rooftop balcony at dusk with string lights, cement tile, and bar stools" loading="lazy" decoding="async" width="800" height="533"></div><p class="gallery-caption">The balcony at dusk. String lights, cement tile, bar stools. Stays warm until past 9 in summer.</p></div>
+
+            <div class="gallery-item"><div class="gallery-img-wrap" data-room-link="/the-sundune/"><img src="/the-sundune/photos/Sundune2026-0260.webp" alt="The Sundune Palm Springs terracotta mushroom lamp, hourglass, and succulent on wood tray by window" loading="lazy" decoding="async" width="800" height="1067"></div><p class="gallery-caption">Terracotta lamp, hourglass, succulent on a wood tray. These details read better in person at 5pm with the light coming through the shutters.</p></div>
         </div>
     </section>
 
@@ -1045,7 +1068,7 @@
 
 <script>
 (function() {
-  const items = Array.from(document.querySelectorAll('.gallery-item img'));
+  const items = Array.from(document.querySelectorAll('.gallery-img-wrap img'));
   const lb = document.getElementById('lightbox');
   const lbImg = document.getElementById('lightbox-img');
   let current = 0;
@@ -1062,7 +1085,7 @@
     document.body.style.overflow = '';
   }
 
-  items.forEach((img, i) => img.closest('.gallery-item').addEventListener('click', () => show(i)));
+  items.forEach((img, i) => img.closest('.gallery-img-wrap').addEventListener('click', () => show(i)));
   document.getElementById('lightbox-close').addEventListener('click', close);
   document.getElementById('lightbox-prev').addEventListener('click', () => show(current - 1));
   document.getElementById('lightbox-next').addEventListener('click', () => show(current + 1));
