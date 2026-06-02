@@ -50,20 +50,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://indigopalm.co/blog/cozy-cactus-origin-story/</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://indigopalm.co/blog/cozy-cactus-story/</loc>
     <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://indigopalm.co/blog/cozy-cactus-what-i-built/</loc>
-    <lastmod>2025-12-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -333,12 +321,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://indigopalm.co/blog/palm-springs-3-day-itinerary/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://indigopalm.co/blog/terra-luz-renovation-story/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -436,12 +418,6 @@
   </url>
   <url>
     <loc>https://indigopalm.co/blog/desert-hot-springs-day-trip/</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://indigopalm.co/blog/palm-springs-midcentury-architecture-tour/</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

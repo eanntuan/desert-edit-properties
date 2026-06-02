@@ -162,7 +162,7 @@ const GO_LINKS = {
   'sd':                  'https://indigopalm.co/the-sundune/?utm_source=reddit&utm_medium=social&utm_campaign=community',
   'welcome-terra-luz':   'https://indigopalm.co/welcome-guide-terra-luz/',
   'farewell-indio':      'https://indigopalm.co/farewell-guide-indio/?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
-  'farewell-cozy-cactus': 'https://indigopalm.co/farewell-guide-cozy-cactus/?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
+  'farewell-cozy-cactus': 'https://indigopalm.co/cozy-cactus/farewell.html?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
   'farewell-terra-luz':  'https://indigopalm.co/terra-luz/farewell.html?utm_source=checkout-message&utm_medium=hostaway&utm_campaign=farewell',
 };
 

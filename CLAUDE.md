@@ -1,96 +1,75 @@
-# Indigo Palm Collective — Claude Instructions
+# CLAUDE.md
 
-## Working Style
-- **Never ask for permission before taking action.** Just do it. Assume yes on deploys, file edits, commits, and pushes.
-- If something is ambiguous, make a reasonable decision and report what you did.
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Site Context
-- **Host**: Eann Tuan
-- **Brand**: Indigo Palm Collective (indigopalm.co)
-- **Properties**: The Cozy Cactus (family-focused, sleeps 8, Indio CA, near Coachella), Casa Moto (pet-friendly, bohemian, Latin/Cuban-inspired, Indio CA), The Sundune at Palm Springs (coastal desert, coming soon)
-- **Git remote**: git@github.com:eanntuan/desert-edit-properties.git
-- **Deploy**: Cloudflare Pages — push to main to deploy
+## Commands
 
-## Writing Rules (apply to ALL copy — blog posts, newsletters, page copy, captions, alt text, everything)
+```bash
+# Build blog (Eleventy: content/blog/*.md → blog/[slug]/index.html)
+npm run build
 
-### No em dashes
-Never use em dashes (—) in any writing. Replace with a period, comma, colon, or rewrite the sentence. Before finalizing any file, scan for — and remove every one.
+# Deploy Cloudflare Worker
+cd api-worker && wrangler deploy
 
-### Brand Voice
-- First-person, specific, honest, a little self-deprecating
-- Reads like a smart friend sharing what actually happened
-- No hollow adjectives. Replace "great" with the specific detail that makes it great.
-- Short paragraphs: 2-4 sentences max. White space is good.
-- No buzzwords: "luxury," "curated experience," "world-class" — unless used ironically.
-- Specific and visual: "hot tub under desert stars" not "relaxing amenities"
+# Set Worker secrets (one-time)
+wrangler secret put PRICELABS_API_KEY
+wrangler secret put RESEND_API_KEY
 
-## Blog Post Rules (apply every time a blog post is written or edited)
+# Convert image to WebP (required for all blog images)
+cwebp -q 85 input.jpg -o blog/images/output.webp
 
-### Images — required in every post
-- Minimum 3-5 images placed throughout the body, not just at the top.
-- Place images after the section they illustrate.
-- Check `blog/images/` for existing photos first.
-- If no matching image exists, add: `<!-- IMAGE NEEDED: [specific description of what photo works here] -->`
-- Every `<img>` tag must have:
-  - `alt` text: descriptive, specific, includes location. No em dashes in alt text — use commas instead.
-  - `loading="lazy"`
-  - `width` and `height` attributes
-- Add `<p class="image-caption">` after each image. One sentence, specific, matches the voice. No em dashes.
-- Set `og:image` to the hero/first image of the post.
+# Get image dimensions for width/height attributes
+python3 -c "from PIL import Image; img=Image.open('file.webp'); print(img.size)"
+```
 
-### SEO — required on every post
-- **Title tag**: 50-60 characters. Lead with primary keyword.
-- **Meta description**: 140-155 characters. Primary keyword + secondary keyword + soft CTA. No em dashes.
-- **URL slug**: lowercase, hyphenated, keyword-first (e.g. `things-to-do-indio-coachella.html`)
-- **H1**: One per page, matches title tag keyword intent.
-- **H2/H3**: Use keyword variants naturally. Every major section gets a heading.
-- **Internal links**: Every post links to at least 2 other posts or property pages. Descriptive anchor text, not "click here."
-- **JSON-LD BlogPosting schema**: Required. Fill: headline, description, datePublished, dateModified, author, publisher, image, url, keywords.
-- **BreadcrumbList schema**: Required. Format: Home > Blog > [Post Title]
-- **Canonical URL**: Must match the exact published URL.
-- **og:image**: Must be set to the hero image.
-- **Primary keyword**: In H1, first paragraph, at least one H2, and meta description.
-- **Word count**: 800-1500 words for most posts. Local guides can go longer.
+**Deploy:** Push to `main` → GitHub Actions runs `npm ci && npm run build` → GitHub Pages. Live in ~2 minutes.
 
-### Blog Post Dating Rule
-Every new post gets a date exactly 3 days after the most recently published post. Check the highest `date:` value across all `.md` files in `content/blog/`, add 3 days, use that as the new post's date.
+Always `git pull --rebase` before editing — Sabbir also commits via the CMS.
 
-### Blog Post Pipeline
-1. Confirm topic/angle and target keyword
-2. Write copy (no em dashes, short paragraphs, specific details)
-3. Build HTML from `blog-post-template.html` with all meta tags, schemas, images
-4. Update `blog.html` with new post card
-5. Update `sitemap.xml` with new URL entry (lastmod = today)
-6. Generate Pinterest pins (output after the HTML, before deploying):
-   - **3-5 pins per post**, each targeting a different angle or section of the post
-   - Format for each pin:
-     ```
-     PIN [n]: [suggested image description or filename]
-     Title: [40-60 chars, lead with keyword, headline case]
-     Description: [150-300 chars, keywords woven naturally, soft CTA, ends with full post URL]
-     Link: [full URL]
-     ```
-   - Pinterest is a search engine. Write for how people search, not how brands talk.
-   - Speak to the desire/problem ("where to stay near Coachella" not "check out our rental")
-   - No em dashes. No hashtags.
-7. Deploy: `git add [files] && git commit -m "Add blog post: [title]" && git push origin main`
+---
 
-## SEO Standards (apply to all pages, not just blog posts)
-- Every page needs a unique title (50-60 chars) and meta description (140-155 chars)
-- No em dashes in any meta tags
-- All `<img>` tags need `alt`, `loading="lazy"`, `width`, `height`
-- Canonical URLs must be consistent (match sitemap format)
-- `og:image` must be set on every page
+## Architecture
 
-## Key URLs
-- Cozy Cactus: https://indigopalm.co/cozy-cactus
-- Casa Moto: https://indigopalm.co/casa-moto
-- Blog: https://indigopalm.co/blog
-- Sitemap: https://indigopalm.co/sitemap.xml
+### Two separate systems in one repo
 
-## Keywords to weave in naturally
-- Coachella vacation rental / Coachella Valley rental
-- Indio Airbnb / vacation rental Indio CA
-- Family vacation rental / pet-friendly vacation rental
-- Near Coachella festival / Coachella 2026
-- Desert vacation home
+**1. Static HTML pages** (`index.html`, `terra-luz.html`, `cozy-cactus.html`, `ps-retreat.html`, `the-well.html`, `blog.html`, etc.)
+Plain HTML. Not Eleventy-generated. Edit directly. Dynamic content for property pages is loaded at runtime from `_content/*.json` (one file per property) via inline JavaScript.
+
+**2. Blog pipeline** (`content/blog/*.md` → Eleventy → `blog/[slug]/index.html`)
+- `content/blog/[slug].md` is the source of truth. **Never edit the generated HTML in `blog/` directly** — it gets overwritten on every build.
+- Layout `_layouts/blog-post.njk` injects all `<head>` content (canonical, OG tags, JSON-LD BlogPosting + BreadcrumbList, GA, Pinterest tag, Clarity), full nav, footer, CTA box, and newsletter form. Do not duplicate any of this in `.md` files.
+- Images: `.md` files reference `/blog/images/filename.webp`. Eleventy copies `content/blog/images/` → `blog/images/` via passthrough. Add new images to `content/blog/images/`.
+- Eleventy config (`.eleventy.js`): layouts from `_layouts/`, includes from `_includes/`, data from `_data/`.
+
+The `blog-post.njk` layout generates all schema and meta automatically from these frontmatter fields: `title`, `metaDescription`, `ogImage`, `heroImage`, `heroAlt`, `date`, `dateModified`, `keywords`, `articleSection`, `property`, `readTime`, `excerpt`.
+
+### Cloudflare Worker (`api-worker/index.js`)
+Handles `indigopalm.co/api/*`: availability (from Airbnb iCal feeds), pricing (from PriceLabs), booking confirmation emails (via Resend), and CMS OAuth. Property slugs → iCal URLs and PriceLabs IDs are hardcoded in `ICAL_URLS` and `PRICELABS_LISTINGS` at the top of the file. `terra-luz` and `casa-moto` are aliases pointing to the same listing. Secrets are Cloudflare Worker secrets, not `.env`.
+
+### go/ redirects
+`/go/[name]/` are static meta-refresh redirect pages (not Eleventy). Use the `redirect.njk` layout with a `redirectTo` frontmatter field. These are the short URLs in guest messages (e.g. `indigopalm.co/go/ps-local-guide`).
+
+### CMS
+Decap CMS at `/admin` (config: `admin/config.yml`) writes to `content/blog/*.md` via GitHub API. The `property` field maps to the slugs below.
+
+---
+
+## Property Slugs
+
+Used in blog frontmatter (`property:`), Worker routes, CMS config, and booking-flow URLs. Must match exactly.
+
+| Property | Slug | Notes |
+|---|---|---|
+| The Cozy Cactus | `cozy-cactus` | |
+| Terra Luz | `terra-luz` | `casa-moto` is a legacy Worker alias |
+| The Sundune | `ps-retreat` | Legacy slug; brand name is "The Sundune" |
+| The Well | `the-well` | Long-term rental only |
+
+---
+
+## After Writing a Blog Post
+
+1. Add card to `blog.html` (static HTML, not auto-generated)
+2. Add URL to `sitemap.xml`
+3. Commit: `git add content/blog/[slug].md content/blog/images/ blog.html sitemap.xml && git commit -m "Add [slug] post" && git push`
+4. Remind user to run `/pinterest-pins [slug]`

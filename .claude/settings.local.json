@@ -1,4 +1,27 @@
 {
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path // empty' | grep -qE '(\\.eleventy\\.js|api-worker/index\\.js|admin/config\\.yml|_layouts/|_includes/|\\.github/workflows/|_data/)' && echo '{\"systemMessage\": \"Structural file edited. Does CLAUDE.md need updating? (Worker routes, property slugs, build steps, Eleventy config)\"}' || true"
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd ~/airbnb/indigopalm && { git status --porcelain 2>/dev/null; git diff HEAD~1 --name-only 2>/dev/null; } | grep -qE '(\\.eleventy\\.js|api-worker/index\\.js|admin/config\\.yml|_layouts/|_includes/|\\.github/workflows/|_data/)' && echo '{\"systemMessage\": \"Structural files changed in indigopalm. Does CLAUDE.md need updating?\"}' || true"
+          }
+        ]
+      }
+    ]
+  },
   "permissions": {
     "allow": [
       "WebFetch(domain:unsplash.com)",
