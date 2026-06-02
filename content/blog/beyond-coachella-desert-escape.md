@@ -2,7 +2,7 @@
 title: "Coachella Valley Beyond the Festival: A Year-Round Guide"
 date: 2025-12-16
 dateModified: 2026-02-26
-metaDescription: "The Coachella Valley is worth visiting any time of year. Hiking, hot springs, desert towns, and rental prices 40% below festival season."
+metaDescription: "The Coachella Valley is worth visiting any time of year. Hiking, hot springs, desert towns, and rental prices 40% below peak festival season."
 ogImage: /blog/images/cozy-cactus-pool.webp
 heroImage: /blog/images/cozy-cactus-pool.webp
 heroAlt: "Pool at a desert vacation rental in the Coachella Valley, California"

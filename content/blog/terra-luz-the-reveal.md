@@ -1,7 +1,7 @@
 ---
 title: "Terra Luz Reveal: Inside the Renovation, Room by Room"
 date: 2026-05-29
-metaDescription: "The full reveal of Terra Luz, our Indio desert vacation rental. Walk through every room, what we built, what we bought, what we skipped, and what surprised us."
+metaDescription: "The full reveal of Terra Luz, our Indio vacation rental. Walk through every room, what we built, what we bought, what we skipped, and what surprised us."
 ogImage: /blog/images/terra-luz-exterior.webp
 heroImage: /blog/images/terra-luz-exterior.webp
 heroAlt: "Terra Luz vacation rental exterior in Indio California with terracotta tones and lush landscaping"
@@ -26,7 +26,7 @@ layout: blog-post.njk
     {
       "@type": "BlogPosting",
       "headline": "Terra Luz Reveal: Inside the Renovation, Room by Room",
-      "description": "The full reveal of Terra Luz, our Indio desert vacation rental. Walk through every room, what we built, what we bought, what we skipped, and what surprised us.",
+      "description": "The full reveal of Terra Luz, our Indio vacation rental. Walk through every room, what we built, what we bought, what we skipped, and what surprised us.",
       "image": "https://indigopalm.co/blog/images/terra-luz-exterior.webp",
       "datePublished": "2026-05-29",
       "dateModified": "2026-05-29",
