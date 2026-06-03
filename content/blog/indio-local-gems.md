@@ -241,6 +241,22 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "One full day covers the highlights: a morning at the Coachella Valley Preserve or a date farm, lunch at One Stop Taco Shop, afternoon pool time, and an evening at Rosemary HiFi. Two days lets you add a Joshua Tree morning and proper Old Town wandering. Three days and you start to feel like a local."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic drive into Indio from LA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East is the direct route, about 2 hours from downtown LA. The better version: exit at Date Palm Drive in Cathedral City and take Highway 111 east through the valley. You drive through Palm Springs, then past date farms and roadside stands, and the mountains frame the whole valley as you drop into Indio. It adds 20 minutes and gives you a feel for the place before you start eating your way through this list."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before my first Indio visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Everything requires a car. There is no walkable neighborhood with coffee and restaurants the way Palm Springs has. Stock up on groceries when you arrive because you won't want to drive out again once you're settled. During Coachella and Stagecoach weekends, Monroe Street and Madison Avenue see gridlock starting around 2pm on festival days. In summer, outdoor activity needs to happen before 10am or after 6pm."
+      }
     }
   ]
 }
@@ -262,6 +278,12 @@ layout: blog-post.njk
 
 <h3>How long should I plan to explore Indio, CA?</h3>
 <p>One full day covers the highlights: a morning at the Coachella Valley Preserve or a date farm, lunch at One Stop Taco Shop, afternoon pool time, and an evening at Rosemary HiFi. Two days lets you add a Joshua Tree morning and proper Old Town wandering. Three days and you start to feel like a local.</p>
+
+<h3>What is the most scenic drive into Indio from LA?</h3>
+<p>I-10 East is the direct route, about 2 hours from downtown LA. The better version: exit at Date Palm Drive in Cathedral City and take Highway 111 east through the valley. You drive through Palm Springs, past date farms and roadside stands, and the mountains frame the whole valley as you drop into Indio. It adds 20 minutes and gives you a feel for the place before you start eating your way through this list.</p>
+
+<h3>What should I know before my first Indio visit?</h3>
+<p>Everything requires a car. There is no walkable neighborhood with coffee and restaurants the way Palm Springs has. Stock up on groceries when you arrive because you won't want to drive out once you're settled. During Coachella and Stagecoach weekends, Monroe Street and Madison Avenue see gridlock starting around 2pm on festival days. In summer, outdoor activity needs to happen before 10am or after 6pm.</p>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
 

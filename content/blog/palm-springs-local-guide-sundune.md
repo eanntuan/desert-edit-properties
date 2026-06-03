@@ -137,6 +137,38 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic way to get to Palm Springs from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East to the Gene Autry Trail exit drops you directly into Palm Springs in about 2 hours from downtown LA. The more interesting approach: exit at Date Palm Drive in Cathedral City and come in on Highway 111, which puts you on the Palm Springs main strip with the San Jacinto Mountains rising directly in front of you. That approach is the one you want for a first visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit Palm Springs for this kind of trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "March and November are the best months for everything in this guide: coffee shops without lines, outdoor dining without dying from heat, hiking Indian Canyons in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is honestly fine if you're heat-adjusted and plan around the pool and evening hours, but the morning coffee and outdoor wandering energy changes significantly above 100 degrees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many days do you need in Palm Springs to actually experience it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan 3 nights minimum: one morning at Moorten Botanical Garden and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday is in your window, VillageFest makes it worth adding a day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before my first Palm Springs trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parking on Palm Canyon Drive fills up fast on weekend mornings. Park once on a side street off Belardo Road or Cahuilla Road and walk everywhere, that's the right strategy. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, plan outdoor activities before 10am and after 6pm. And bring sunscreen you'll actually use."
+      }
     }
   ]
 }
@@ -158,5 +190,17 @@ layout: blog-post.njk
 
 <h3>Where do locals drink in Palm Springs?</h3>
 <p>Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene.</p>
+
+<h3>What is the most scenic way to get to Palm Springs from Los Angeles?</h3>
+<p>I-10 East to the Gene Autry Trail exit drops you directly into Palm Springs in about 2 hours from downtown LA. The more interesting approach: exit at Date Palm Drive in Cathedral City and come in on Highway 111, which puts you on the main strip with the San Jacinto Mountains rising directly in front of you. That's the approach you want for a first visit.</p>
+
+<h3>What is the best time of year to visit Palm Springs for this kind of trip?</h3>
+<p>March and November are the best months for everything in this guide: coffee without lines, outdoor dining without dying, hiking Indian Canyons in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is fine if you're heat-adjusted and plan around the pool and evening hours, but the outdoor wandering energy changes significantly above 100 degrees.</p>
+
+<h3>How many days do you need in Palm Springs to actually experience it?</h3>
+<p>Plan 3 nights minimum: one morning at Moorten Botanical Garden and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday is in your window, VillageFest adds a real reason to arrive a day early.</p>
+
+<h3>What should I know before my first Palm Springs trip?</h3>
+<p>Parking on Palm Canyon Drive fills up fast on weekend mornings. Park once on a side street off Belardo Road or Cahuilla Road and walk everywhere. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, plan outdoor activity before 10am and after 6pm. And bring sunscreen you'll actually use, not the kind sitting at the bottom of a bag from last year.</p>
 
 <p>For more Coachella Valley intel, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the other end of the valley. Different energy, just as worth knowing. If you want a full two-day structure for your first Palm Springs visit, the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> maps it out hour by hour. And if you're still deciding where to stay: <a href="/the-sundune/">The Sundune</a> is exactly what it sounds like.</p>

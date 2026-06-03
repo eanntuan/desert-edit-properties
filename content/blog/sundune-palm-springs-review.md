@@ -94,6 +94,63 @@ relatedPosts:
 
 <p><a href="/the-sundune/">View The Sundune listing</a> for photos, availability, and direct booking.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many people does The Sundune sleep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four comfortably, across two bedrooms. The primary bedroom has two king beds; the second bedroom has one king. All beds are set up as actual sleeping arrangements, not air mattresses. For groups of five or more, our Indio properties with larger floor plans are the better fit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune pet-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One pet is welcome with a $100 pet fee. Email us at indigopalmco@gmail.com before booking to confirm. The condo has a balcony but no fenced yard, so dogs that need a private outdoor run are better suited to Terra Luz in Indio, which has a fully fenced backyard."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune walking distance to downtown Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Palm Canyon Drive, with its restaurants, coffee shops, and galleries, is a short walk from the condo. The exact walk time depends on where on the strip you're headed, but most guests walk to dinner and back without thinking about it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to stay at The Sundune?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "March is the best month: mid-70s to low-80s, open restaurant tables, the desert at its most comfortable. October and November are nearly as good. The Sundune in summer works for guests who know the desert and plan accordingly, staying pool-based in the afternoon and out in the evening."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic drive to The Sundune from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East to the Gene Autry Trail exit drops you into Palm Springs in about 2 hours from downtown LA. The better way in: exit at Date Palm Drive in Cathedral City and take Highway 111 west, which brings you onto the main Palm Springs strip with the San Jacinto Mountains filling your windshield. Park on a side street off Belardo Road and you're already in the neighborhood."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many nights should I stay at The Sundune?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan 3 nights minimum: one morning for the architecture walk and Moorten Botanical Garden, one evening at Boozehounds after a slow brunch at Wilma and Frieda's, one day at Palm Springs Surf Club. Two nights gets you there but leaves you feeling like you missed things. A Thursday arrival means VillageFest is your first night, which is a good way to start."
+      }
+    }
+  ]
+}
+</script>
+
 <h2>FAQ: The Sundune Palm Springs</h2>
 
 <h3>How many people does The Sundune sleep?</h3>
@@ -107,4 +164,10 @@ relatedPosts:
 
 <h3>When is the best time to stay at The Sundune?</h3>
 <p>March is the best month: mid-70s to low-80s, open restaurant tables, the desert at its most comfortable. October and November are nearly as good. The Sundune in summer works for guests who know the desert and plan accordingly, staying pool-based in the afternoon and out in the evening.</p>
+
+<h3>What is the most scenic drive to The Sundune from Los Angeles?</h3>
+<p>I-10 East to the Gene Autry Trail exit drops you into Palm Springs in about 2 hours from downtown LA. The better way in: exit at Date Palm Drive in Cathedral City and take Highway 111 west, which brings you onto the main Palm Springs strip with the San Jacinto Mountains filling your windshield. Park on a side street off Belardo Road and you're already in the neighborhood.</p>
+
+<h3>How many nights should I stay at The Sundune?</h3>
+<p>Plan 3 nights minimum: one morning for the architecture walk and Moorten Botanical Garden, one evening at Boozehounds after a slow brunch at Wilma and Frieda's, one day at Palm Springs Surf Club. Two nights gets you there but leaves you feeling like you missed things. A Thursday arrival means VillageFest is your first night, which is a good way to start.</p>
 

@@ -202,6 +202,22 @@ layout: redirect.njk
         "@type": "Answer",
         "text": "Yes. Indian Palms Country Club is one of the only neighborhoods in the valley where walking to the festival is practical. The walk from most rentals in the community to the festival entrance is 1.5 to 2.2 miles, roughly 25 to 49 minutes. This is the route that lets you skip traffic, surge pricing, and shuttle lines entirely."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic route to Coachella from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East is the direct shot, about 2 hours from downtown LA. The better version: exit at Date Palm Drive in Cathedral City, take Highway 111 east through Palm Springs and down the valley floor to Indio. The mountains frame the entire drive and you pass date farms and midcentury neighborhoods before you arrive. It adds 20 minutes but makes the trip feel like it has a destination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before arriving at a Coachella festival rental in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stock up on groceries before you get to the property. During festival weekends, Monroe Street and Madison Avenue see full gridlock from about 2pm onward on Friday, Saturday, and Sunday. Arrive before noon on your check-in day or plan for a late arrival after 8pm when traffic clears. Bring cash for golf cart rides, snacks you don't have to wait in line for, and shoes that can handle gravel if you're walking to the festival grounds."
+      }
     }
   ]
 }
@@ -223,4 +239,10 @@ layout: redirect.njk
 
 <h3>Can you walk to Coachella from Indian Palms Country Club?</h3>
 <p>Yes. Indian Palms Country Club is one of the only neighborhoods in the valley where walking to the festival is practical. The walk from most rentals in the community to the festival entrance is 1.5 to 2.2 miles, roughly 25 to 49 minutes. This is the route that lets you skip traffic, surge pricing, and shuttle lines entirely.</p>
+
+<h3>What is the most scenic route to Coachella from Los Angeles?</h3>
+<p>I-10 East is the direct shot, about 2 hours from downtown LA. The better version: exit at Date Palm Drive in Cathedral City, take Highway 111 east through Palm Springs and down the valley floor to Indio. The mountains frame the entire drive and you pass date farms and midcentury neighborhoods before you arrive. It adds 20 minutes but makes the trip feel like it has a destination.</p>
+
+<h3>What should I know before arriving at a Coachella festival rental in Indio?</h3>
+<p>Stock up on groceries before you get to the property. During festival weekends, Monroe Street and Madison Avenue see full gridlock from about 2pm onward on Friday, Saturday, and Sunday. Arrive before noon on your check-in day or plan for a late arrival after 8pm when traffic clears. Bring cash for golf cart rides and shoes that can handle gravel if you're walking to the festival grounds.</p>
 

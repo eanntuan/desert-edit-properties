@@ -159,6 +159,38 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "A few taco shops and a pizza place are within a 10-minute walk of the community entrance, but Indian Palms isn't a walkable restaurant neighborhood. Most dining requires a short drive: Old Town Indio is 10 minutes, and Highway 111 has plenty of options. Shields Date Garden is 5 minutes away and worth the trip."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic route to Indian Palms Country Club from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East gets you there in about 2 hours from downtown LA. The more memorable version is to exit at Date Palm Drive in Cathedral City and take Highway 111 east through Palm Springs and down the valley floor. You pass midcentury neighborhoods, date farms, and the mountains frame the whole drive. It adds 15-20 minutes but makes arriving feel like arriving."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to stay in Indian Palms Country Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through May is the usable range. March and April are peak: perfect pool weather, festival energy, and desert blooms if the winter rains cooperated. October and November are quieter with lower rates and genuinely beautiful light. Summer works if you commit to pool days and early morning activity, but 110 degrees means you'll plan around the heat rather than despite it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many days should I plan for a stay in Indian Palms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan 3 nights minimum: one day for Joshua Tree, one pool day, one Old Town Indio and Shields Date Garden day. That covers the main things without feeling rushed. If you want to add Palm Springs, the Salton Sea, or the Coachella Valley Preserve, add a fourth night."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before arriving at Indian Palms Country Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The community is gated, so you need your host-provided gate code before arrival. Stater Bros. and Ralphs are both within a 5-minute drive, the best grocery run to do before you settle in. During Coachella and Stagecoach, Monroe Street and Madison Avenue see significant traffic from about 2pm onward on festival days. Your host will give you timing and gate details in the pre-arrival notes."
+      }
     }
   ]
 }
@@ -180,6 +212,18 @@ layout: blog-post.njk
 
 <h3>Are there places to eat within walking distance of Indian Palms?</h3>
 <p>A few taco shops and a pizza place are within a 10-minute walk of the community entrance, but Indian Palms isn't a walkable restaurant neighborhood. Most dining requires a short drive: Old Town Indio is 10 minutes, and Highway 111 has plenty of options. Shields Date Garden is 5 minutes away and worth the trip.</p>
+
+<h3>What is the most scenic route to Indian Palms Country Club from Los Angeles?</h3>
+<p>I-10 East gets you there in about 2 hours from downtown LA. The more memorable version: exit at Date Palm Drive in Cathedral City and take Highway 111 east through Palm Springs and down the valley floor. You pass midcentury neighborhoods, date farms, and the mountains frame the whole drive. It adds 15-20 minutes but makes arriving feel like arriving.</p>
+
+<h3>What is the best time of year to stay in Indian Palms Country Club?</h3>
+<p>October through May is the usable range. March and April are peak: perfect pool weather, festival energy, and desert blooms if the winter rains cooperated. October and November are quieter with lower rates and genuinely beautiful light. Summer works if you commit to pool days and early morning activity, but the heat means you plan around it rather than despite it.</p>
+
+<h3>How many days should I plan for a stay in Indian Palms?</h3>
+<p>Plan 3 nights minimum: one day for Joshua Tree, one pool day, one Old Town Indio and Shields Date Garden day. That covers the main things without feeling rushed. Add a fourth night if Palm Springs or the Salton Sea is on your list.</p>
+
+<h3>What should I know before arriving at Indian Palms Country Club?</h3>
+<p>The community is gated, so have your host-provided gate code before you leave home. Stater Bros. and Ralphs are both within a 5-minute drive, the best grocery run before you settle in. During festival weekends, Monroe Street and Madison Avenue see heavy traffic from about 2pm onward. Your host will include timing and gate details in the pre-arrival notes.</p>
 
 <p>If you want the full breakdown on festival logistics, gates, road closures, shuttle options, timing: read our <a href="/festival-guide-cozy-cactus/">complete festival guide</a>. And for everything else worth doing in Indio while you're here, read <a href="/blog/things-to-do-indio-ca/">our honest Indio activity guide</a>.</p>
 

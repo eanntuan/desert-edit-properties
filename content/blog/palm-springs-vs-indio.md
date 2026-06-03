@@ -200,6 +200,22 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Palm Springs International Airport (PSP) is 25 miles west, about 30 minutes by car. It has direct flights from most West Coast cities and several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours on a clear day and considerably longer on a Friday afternoon."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic drive between Palm Springs and Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Highway 111 is the scenic alternative to the I-10 freeway. The road runs east through the valley floor, through Cathedral City, Rancho Mirage, Palm Desert, and La Quinta before hitting Indio. The drive is about 40 minutes with no traffic and the mountains never leave your view. If you're coming from LA and have the time, drop off the 10 at Date Palm Drive and take 111 the rest of the way."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before deciding between Palm Springs and Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The practical friction points differ. In Palm Springs: parking on Palm Canyon Drive is limited on weekends, most good restaurants don't take reservations so you go early or wait, and the boutique hotel energy means rooms feel smaller than the photos suggest. In Indio: you drive everywhere, grocery stores are 5-10 minutes away (Stater Bros. on Monroe is the closest to Indian Palms), and festival weekends mean Monroe and Madison see heavy traffic from 2pm onward. Neither is a dealbreaker, just different planning math."
+      }
     }
   ]
 }
@@ -224,6 +240,12 @@ layout: blog-post.njk
 
 <h3>What is the closest airport to Indio, CA?</h3>
 <p>Palm Springs International Airport (PSP) is 25 miles west, about 30 minutes by car. It has direct flights from most West Coast cities and several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours on a clear day and considerably longer on a Friday afternoon.</p>
+
+<h3>What is the most scenic drive between Palm Springs and Indio?</h3>
+<p>Highway 111 is the scenic alternative to the I-10. The road runs east through the valley floor, through Cathedral City, Rancho Mirage, Palm Desert, and La Quinta before hitting Indio. It takes about 40 minutes with no traffic and the mountains never leave your view. If you're coming from LA and have time, drop off the 10 at Date Palm Drive and take Highway 111 the rest of the way.</p>
+
+<h3>What should I know before deciding between Palm Springs and Indio?</h3>
+<p>The practical friction points differ. In Palm Springs: parking on Palm Canyon Drive is limited on weekends, most good restaurants don't take reservations, and rooms feel smaller than the photos suggest. In Indio: you drive everywhere, grocery stores are 5-10 minutes away (Stater Bros. on Monroe is the closest to Indian Palms), and festival weekends mean Monroe and Madison see heavy traffic from 2pm onward. Neither is a dealbreaker, just different planning math.</p>
 
 <img src="/blog/images/ps-via-sol-sunset.jpg" alt="Golden hour sunset over a Palm Springs street with mountains turning purple behind the palm trees" loading="lazy" width="1400" height="933">
 <p class="image-caption">Palm Springs at sunset. Whether you're staying there or just visiting for the day, at least one evening like this is worth planning for.</p>

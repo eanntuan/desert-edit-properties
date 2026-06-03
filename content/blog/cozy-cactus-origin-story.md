@@ -105,6 +105,38 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "About 2.5 miles from Empire Polo Club, which means the walk takes 25-45 minutes depending on where you're starting. It's one of the only neighborhoods in the valley where walking to the festival is actually practical, without shuttles or surge pricing."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic way to drive to The Cozy Cactus from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Take the I-10 East from LA to the Date Palm Drive exit in Cathedral City, then cut south through Palm Springs on Highway 111 before heading east to Indio. The extra 15 minutes through Palm Springs drops you into the valley floor with the San Jacinto Mountains framing everything to the west. If you want pure efficiency, I-10 straight through is fine. If you want to actually feel like you've arrived somewhere, Highway 111 through the valley is the move."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to stay at The Cozy Cactus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through April is the comfortable window. March and November hit the sweet spot: warm enough to use the pool, cool enough to eat outside in the evening without dying. Festival season in April books fastest. Summer (June-August) is 110 degrees and pool-only by design, which works if that's what you want but is a different kind of trip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many nights should I plan for a Cozy Cactus stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan 3 nights minimum: one day for Joshua Tree, one pool day, one Old Town Indio and Shields Date Garden day. Two nights feels rushed once you factor in driving time and groceries. Four lets you add a Palm Springs day trip without sacrificing anything."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before arriving at The Cozy Cactus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The nearest full grocery store is Stater Bros. on Monroe, about a 5-minute drive. Stock up before you get to the house because Indian Palms has nothing walkable for groceries. During festival weekends (Coachella, Stagecoach), Monroe Street sees serious traffic from 2pm onward, so time your arrival before noon or after 8pm. Self-check-in via smart lock, codes come 24 hours before arrival. The community pool access is through the back gate of the property."
+      }
     }
   ]
 }
@@ -123,5 +155,17 @@ layout: blog-post.njk
 
 <h3>How close is The Cozy Cactus to Coachella and Stagecoach?</h3>
 <p>About 2.5 miles from Empire Polo Club, which means the walk takes 25-45 minutes depending on where you're starting. It's one of the only neighborhoods in the valley where walking to the festival is actually practical, without shuttles or surge pricing.</p>
+
+<h3>What is the most scenic way to drive to The Cozy Cactus from Los Angeles?</h3>
+<p>Take I-10 East to the Date Palm Drive exit, then cut south through Palm Springs on Highway 111 before heading east to Indio. The extra 15 minutes through Palm Springs drops you into the valley floor with the San Jacinto Mountains framing everything to the west. If you want efficiency, I-10 straight through works. If you want to actually feel like you've arrived somewhere, Highway 111 through the valley is the right call.</p>
+
+<h3>What is the best time of year to stay at The Cozy Cactus?</h3>
+<p>October through April is the comfortable window. March and November hit the sweet spot: warm enough to use the pool, cool enough to eat outside in the evening. Festival season in April books fastest. Summer is 110 degrees and pool-only by design, which works if that is what you want but is a different kind of trip.</p>
+
+<h3>How many nights should I plan for a Cozy Cactus stay?</h3>
+<p>Plan 3 nights minimum: one day for Joshua Tree, one pool day, one Old Town Indio and Shields Date Garden day. Two nights feels rushed once you factor in driving time and getting groceries. Four lets you add a Palm Springs day trip without sacrificing anything.</p>
+
+<h3>What should I know before arriving at The Cozy Cactus?</h3>
+<p>The nearest full grocery store is Stater Bros. on Monroe, about a 5-minute drive. Stock up before you get to the house because Indian Palms has nothing walkable for groceries. During festival weekends, Monroe Street sees heavy traffic from 2pm onward, so time your arrival before noon or after 8pm. Self-check-in via smart lock, codes come 24 hours before arrival.</p>
 
 <p>If you're planning a trip to the Coachella Valley with kids, <a href="/cozy-cactus/">The Cozy Cactus</a> is built around exactly that: families who need gear, space, and a host who thought about the pack-n-play before you asked. For an honest guest perspective on the property, read the <a href="/blog/cozy-cactus-review/">Cozy Cactus review</a>.</p>

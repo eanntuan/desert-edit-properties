@@ -147,3 +147,9 @@ layout: blog-post.njk
 <h3>How many days should I spend in Indio, CA?</h3>
 <p>Two full days covers the highlights on this list. Three lets you add a Joshua Tree morning and an Old Town evening without feeling rushed. If you're here for Coachella or Stagecoach, the festival schedule will define things. Otherwise, a long weekend is the right unit.</p>
 
+<h3>What is the most scenic road into Indio from Los Angeles?</h3>
+<p>I-10 East is the straight shot, about 2 hours. The more interesting approach: exit at Date Palm Drive in Cathedral City and take Highway 111 east through the valley. You pass midcentury Palm Springs neighborhoods, then date farms, then the Salton Sea mountain backdrop emerges as you drop into Indio. It adds 20 minutes and gives you context for the place before you arrive.</p>
+
+<h3>What should I know before visiting Indio for the first time?</h3>
+<p>Everything here requires a car. Nothing is walkable the way Palm Springs is. Budget for a grocery run when you arrive (Stater Bros. on Monroe is the closest to Indian Palms). In summer, plan outdoor activity before 10am and after 6pm. During Coachella and Stagecoach weekends, Monroe Street and Madison Avenue see heavy traffic from about 2pm onward on festival days, plan accordingly.</p>
+

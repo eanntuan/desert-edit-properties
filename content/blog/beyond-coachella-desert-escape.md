@@ -171,6 +171,14 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Palm Springs International Airport (PSP) is the right choice for this trip. It's 25 miles from Indio, about 30 minutes by car. Direct flights from most West Coast cities, several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours without traffic and longer on a Friday."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic road into the Coachella Valley from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East is the default, about 2 hours from downtown LA. The more memorable approach: exit at Date Palm Drive in Cathedral City and take Highway 111 east through the valley floor. Palm Springs gives way to date farms, then the mountains start to close in as you approach Indio. It adds 20 minutes and the landscape tells you everything about where you're going before you arrive."
+      }
     }
   ]
 }
@@ -195,3 +203,6 @@ layout: blog-post.njk
 
 <h3>What is the closest airport to the Coachella Valley?</h3>
 <p>Palm Springs International Airport (PSP) is the right choice for this trip. It's 25 miles from Indio, about 30 minutes by car. Direct flights from most West Coast cities and several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours without traffic and longer on a Friday.</p>
+
+<h3>What is the most scenic road into the Coachella Valley from Los Angeles?</h3>
+<p>I-10 East is the default, about 2 hours from downtown LA. The more memorable approach: exit at Date Palm Drive in Cathedral City and take Highway 111 east through the valley floor. Palm Springs gives way to date farms, then the mountains close in as you approach Indio. It adds 20 minutes and the landscape tells you everything about where you're going before you arrive.</p>
