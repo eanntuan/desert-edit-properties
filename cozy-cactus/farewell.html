@@ -361,6 +361,16 @@
     line-height: 1.4;
   }
 
+  .footer-cta .direct-offer {
+    font-family: var(--sans);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.8);
+    margin-bottom: 1.25rem;
+  }
+
   .footer-cta a {
     display: inline-block;
     background: white;
@@ -469,7 +479,8 @@
   <!-- CTA -->
   <div class="footer-cta">
     <p>Already thinking about coming back to the desert?</p>
-    <a href="/go/cozy-cactus?utm_source=farewell&utm_medium=page&utm_campaign=guest-comms" onclick="gtag('event','farewell_book_click',{'event_category':'Booking','event_label':'Farewell Page CTA'});">Book The Cozy Cactus</a>
+    <p class="direct-offer">Book direct and save 10% — no code needed</p>
+    <a href="/go/cozy-cactus?utm_source=farewell&utm_medium=page&utm_campaign=guest-comms&utm_content=10off" onclick="gtag('event','farewell_book_click',{'event_category':'Booking','event_label':'Farewell Page CTA'});">Book Direct at IndigoPalm.co</a>
   </div>
 
   <p class="credit">Guest experience by @TheOliveJar.co</p>
