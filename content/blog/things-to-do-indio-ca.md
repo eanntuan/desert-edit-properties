@@ -141,3 +141,9 @@ layout: blog-post.njk
 <h3>What is the best restaurant in Indio?</h3>
 <p>One Stop Taco Shop on Indio Blvd gets the most recommendations from guests and locals. Carne asada tacos, handmade tortillas, a line that tells you everything you need to know. Papa Headz is close behind for smash burgers. Everbloom handles the sit-down dinner and matcha side of things. All three are within 10 minutes of the Indian Palms neighborhood.</p>
 
+<h3>How do I get to Indio, CA?</h3>
+<p>Palm Springs International Airport (PSP) is the closest, about 25 minutes from central Indio. Rideshare from PSP to Indian Palms runs $25 to $35. From Los Angeles, take I-10 East about 130 miles, roughly 2 hours without traffic. Ontario Airport (ONT) is about 90 minutes west of Indio. LAX is 2.5 hours on a clear day and longer if you're leaving on a Friday.</p>
+
+<h3>How many days should I spend in Indio, CA?</h3>
+<p>Two full days covers the highlights on this list. Three lets you add a Joshua Tree morning and an Old Town evening without feeling rushed. If you're here for Coachella or Stagecoach, the festival schedule will define things. Otherwise, a long weekend is the right unit.</p>
+

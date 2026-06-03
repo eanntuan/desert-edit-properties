@@ -155,6 +155,22 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Summer is pool season. The valley clears out, rates drop, and a private pool with no shared-space rules is the whole itinerary. Early morning Joshua Tree hikes are possible before 9am. The Palm Springs Art Museum and aerial tramway are the best midday options. Night swims when the air finally drops below 90°F are a specific pleasure that doesn't exist anywhere else."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "How many days should I spend in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four days hits the full experience: one in Joshua Tree, one in Palm Springs for the architecture walk and brunch, and two at the house with pool time, a date farm stop, and at least one good local dinner. Two days is doable if you pick one focus. Three is the practical minimum if you want hiking, desert town wandering, and actual rest without feeling like you rushed the whole thing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the closest airport to the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Palm Springs International Airport (PSP) is the right choice for this trip. It's 25 miles from Indio, about 30 minutes by car. Direct flights from most West Coast cities, several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours without traffic and longer on a Friday."
+      }
     }
   ]
 }
@@ -173,3 +189,9 @@ layout: blog-post.njk
 
 <h3>What is there to do in the Coachella Valley in summer?</h3>
 <p>Summer is pool season. The valley clears out, rates drop, and a private pool with no shared-space rules is the whole itinerary. Early morning Joshua Tree hikes are possible before 9am. The Palm Springs Art Museum and aerial tramway are the best midday options. Night swims when the air finally drops below 90°F are a specific pleasure that doesn't exist anywhere else.</p>
+
+<h3>How many days should I spend in the Coachella Valley?</h3>
+<p>Four days hits the full experience: one in Joshua Tree, one in Palm Springs for the architecture walk and brunch, and two at the house with pool time, a date farm stop, and at least one good local dinner. Two days is doable if you pick one focus. Three is the practical minimum if you want hiking, desert town wandering, and actual rest without feeling like you rushed the whole thing.</p>
+
+<h3>What is the closest airport to the Coachella Valley?</h3>
+<p>Palm Springs International Airport (PSP) is the right choice for this trip. It's 25 miles from Indio, about 30 minutes by car. Direct flights from most West Coast cities and several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours without traffic and longer on a Friday.</p>

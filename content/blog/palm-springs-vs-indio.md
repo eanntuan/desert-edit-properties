@@ -184,6 +184,22 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Easily. The drive is about 30 minutes. Many guests staying at our Indio properties spend a day in Palm Springs doing the architecture walk, lunch, and afternoon shopping, then come back to cook dinner and use the pool. You get the best of both without paying Palm Springs nightly rates for the whole trip."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "How many nights should you stay in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three nights is the sweet spot. Two feels rushed once you factor in a travel day and getting oriented. Four lets the pool days settle in and leaves room for a Joshua Tree morning without sacrificing anything else. If you're here for Coachella or Stagecoach, the festival schedule makes the decision for you."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the closest airport to Indio, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Palm Springs International Airport (PSP) is 25 miles west, about 30 minutes by car. It has direct flights from most West Coast cities and several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours on a clear day and considerably longer on a Friday afternoon."
+      }
     }
   ]
 }
@@ -202,6 +218,12 @@ layout: blog-post.njk
 
 <h3>Can you visit Palm Springs as a day trip from Indio?</h3>
 <p>Easily. The drive is about 30 minutes. Many guests staying at our Indio properties spend a day in Palm Springs doing the architecture walk, lunch, and afternoon shopping, then come back to cook dinner and use the pool. You get the best of both without paying Palm Springs nightly rates for the whole trip.</p>
+
+<h3>How many nights should you stay in the Coachella Valley?</h3>
+<p>Three nights is the sweet spot. Two feels rushed once you factor in a travel day and getting oriented. Four lets the pool days settle in and leaves room for a Joshua Tree morning without sacrificing anything else. If you're here for Coachella or Stagecoach, the festival schedule makes the decision for you.</p>
+
+<h3>What is the closest airport to Indio, CA?</h3>
+<p>Palm Springs International Airport (PSP) is 25 miles west, about 30 minutes by car. It has direct flights from most West Coast cities and several major hubs. Ontario (ONT) is about 90 miles west, roughly 90 minutes. LAX is 120 miles, 2 hours on a clear day and considerably longer on a Friday afternoon.</p>
 
 <img src="/blog/images/ps-via-sol-sunset.jpg" alt="Golden hour sunset over a Palm Springs street with mountains turning purple behind the palm trees" loading="lazy" width="1400" height="933">
 <p class="image-caption">Palm Springs at sunset. Whether you're staying there or just visiting for the day, at least one evening like this is worth planning for.</p>

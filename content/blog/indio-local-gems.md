@@ -233,6 +233,14 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "An annual festival in Old Town Indio every first weekend of December, running for over 30 years. Hundreds of vendors, live music, and every style of tamale you can imagine. It's free to attend and gets busy by midday Saturday. Arrive early if you want the best vendor selection."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should I plan to explore Indio, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One full day covers the highlights: a morning at the Coachella Valley Preserve or a date farm, lunch at One Stop Taco Shop, afternoon pool time, and an evening at Rosemary HiFi. Two days lets you add a Joshua Tree morning and proper Old Town wandering. Three days and you start to feel like a local."
+      }
     }
   ]
 }
@@ -251,6 +259,9 @@ layout: blog-post.njk
 
 <h3>What is the Indio Tamale Festival?</h3>
 <p>An annual festival in Old Town Indio every first weekend of December, running for over 30 years. Hundreds of vendors, live music, and every style of tamale you can imagine. It's free to attend and gets busy by midday Saturday. Arrive early if you want the best vendor selection.</p>
+
+<h3>How long should I plan to explore Indio, CA?</h3>
+<p>One full day covers the highlights: a morning at the Coachella Valley Preserve or a date farm, lunch at One Stop Taco Shop, afternoon pool time, and an evening at Rosemary HiFi. Two days lets you add a Joshua Tree morning and proper Old Town wandering. Three days and you start to feel like a local.</p>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
 
