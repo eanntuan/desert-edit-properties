@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs Surf Club Review 2026: Prices, Hours, Worth It?"
 date: 2025-12-04
-dateModified: 2026-05-29
+dateModified: 2026-06-03
 metaDescription: "Palm Springs Surf Club day passes run $100-250 depending on level. Open daily until 8pm. Book 1-2 weeks ahead on weekends. What to know before you go."
 ogImage: /blog/images/pssc-wave-pool-reflection.webp
 heroImage: /blog/images/pssc-wave-pool-reflection.webp
@@ -117,7 +117,7 @@ layout: blog-post.njk
 
 <p>It's genuinely cool. The concept is absurd on paper and it works in person. Surfing in the desert with the San Jacinto Mountains in the background is one of those experiences that feels specific to the Coachella Valley in the best way.</p>
 
-<p>Sessions run $80+ and this isn't a casual splash pool. If surfing is your thing, or you've always wanted to try it in a controlled environment with good instruction, the price makes sense. The venue handles non-surfers well enough that bringing a mixed group isn't a problem.</p>
+<p>Sessions run $100+ for beginners and this isn't a casual splash pool. If surfing is your thing, or you've always wanted to try it in a controlled environment with good instruction, the price makes sense. The venue handles non-surfers well enough that bringing a mixed group isn't a problem.</p>
 
 <p>If you're building it into a Palm Springs weekend, the <a href="/blog/palm-springs-weekend-itinerary/">3-day Palm Springs itinerary</a> has a sensible structure for fitting the Surf Club into a larger trip. The <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide</a> covers the rest of the day: coffee, brunch, and dinner once you're done surfing. And if you're staying in Palm Springs for that weekend, <a href="/the-sundune/">The Sundune</a> is our 2-bedroom at 5301 E Waverly Drive, 1.3 miles from the facility, about 3 minutes by car.</p>
 
@@ -168,6 +168,14 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "October through May. The weather cooperates, the mountain backdrop looks good, and the full experience clicks into place when it's not 110 degrees outside. Summer works if you go early in the morning before the heat peaks. Check the website for seasonal hours before planning your trip."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you just watch at Palm Springs Surf Club without surfing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Spectator tickets are available separately from surf sessions. Non-surfers can hang at the Drifters restaurant and bar, which overlooks the wave pool with a clear view of every session. It's a reasonable way to spend an afternoon if you're with a group that's split on surfing. The restaurant is open Thursday through Sunday."
+      }
     }
   ]
 }
@@ -189,3 +197,6 @@ layout: blog-post.njk
 
 <h3>What is the best time of year to go to Palm Springs Surf Club?</h3>
 <p>October through May. The weather cooperates, the mountain backdrop looks good, and the full experience clicks into place when it's not 110 degrees outside. Summer works if you go early in the morning before the heat peaks. Check the website for seasonal hours before planning your trip.</p>
+
+<h3>Can you just watch at Palm Springs Surf Club without surfing?</h3>
+<p>Yes. Spectator tickets are available separately from surf sessions. Non-surfers can use the Drifters restaurant and bar, which overlooks the wave pool with a clear view of every session. The restaurant is open Thursday through Sunday. If your group is split on surfing, it's a workable setup: surfers do their sessions, everyone else eats and watches, you meet up for food after.</p>
