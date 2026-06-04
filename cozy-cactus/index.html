@@ -414,8 +414,9 @@
             font-family: var(--font-serif);
             font-size: 3.5rem;
             color: var(--turquoise);
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.25rem;
             font-weight: 600;
+            line-height: 1.1;
         }
 
         .hero .location {
@@ -766,6 +767,20 @@
         .cal-legend .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
         .cal-loading { text-align: center; padding: 1.5rem; color: #aaa; font-size: 0.85rem; }
     
+        /* Room Preview Gallery */
+        .room-previews { max-width: 1100px; margin: 0 auto; }
+        .room-preview-section { margin-bottom: 3.5rem; }
+        .room-preview-header { display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid #e8ddd0; padding-bottom: 0.6rem; margin-bottom: 1.25rem; }
+        .room-preview-header h3 { font-family: var(--font-serif); font-size: 1.25rem; color: #3a2e25; font-weight: 500; margin: 0; }
+        .room-preview-link { font-size: 0.8rem; color: #00877b; text-decoration: none; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 500; white-space: nowrap; }
+        .room-preview-link:hover { text-decoration: underline; }
+        .room-preview-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+        @media (max-width: 600px) { .room-preview-grid { grid-template-columns: repeat(2, 1fr); } }
+        .room-preview-grid .gallery-img-wrap { height: 220px; }
+
+        /* Inline description photos */
+        .inline-photo { display: block; width: 100%; max-width: 860px; border-radius: 10px; margin: 1.5rem auto; object-fit: cover; }
+
         .contact-links { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; }
         .contact-btn {
             display: inline-flex;
@@ -823,7 +838,11 @@
 
                 <p>Pack-n-play ready in the family amenities closet, waiting when you need it. Sound machines in the kids' rooms. The labeled drawer system guests mention in almost every review is exactly what it sounds like: snack drawer has snacks, junk drawer has no junk. Stokke high chair at the kitchen counter. Coffee bar loaded at 6am when the toddler decides that's morning now.</p>
 
+                <img src="/cozy-cactus/photos/CozyCactus2026-0080.webp" alt="Cozy Cactus kitchen with labeled drawer system and Stokke high chair" class="inline-photo" loading="lazy" decoding="async">
+
                 <p>Three bedrooms, two bathrooms, sleeps eight. Turquoise and coral run through every room, and the kids' room has bunk beds and a toy collection with real range: art supplies, books, outdoor gear. The community pool is steps away for afternoons when the backyard isn't enough, and the private hot tub earns its reputation after 9pm, once the kids are finally down.</p>
+
+                <img src="/cozy-cactus/photos/CozyCactus2026-0004.webp" alt="Cozy Cactus backyard with pergola, putting green, and outdoor seating" class="inline-photo" loading="lazy" decoding="async">
 
                 <h3 style="font-family: var(--font-serif); font-size: 1.6rem; color: #00877b; margin: 2.5rem 0 1rem;">Why I Built It This Way</h3>
                 <p>I got tired of staying places that said "family-friendly" and meant they owned a pack-n-play somewhere in a closet. So I built what I wanted to stay in: every drawer labeled, every kid need anticipated, every logistical headache removed before you arrive. The coffee is ready. The kids' toys are genuinely good. You don't have to plan around the house.</p>
@@ -902,111 +921,97 @@
         </div>
     </section>
 
+    <!-- Room Navigation -->
+    <section style="background: #fff; border-top: 1px solid #e8ddd0; border-bottom: 1px solid #e8ddd0; padding: 0; position: sticky; top: 60px; z-index: 90;">
+        <div style="max-width: 1100px; margin: 0 auto; padding: 0 5%; display: flex; gap: 0; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none;">
+            <a href="/cozy-cactus/photos/living-room/" style="flex: 0 0 auto; display: block; padding: 1rem 1.4rem; font-family: 'Work Sans', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #595959; text-decoration: none; border-bottom: 2px solid transparent; white-space: nowrap; transition: color 0.2s, border-color 0.2s;" onmouseover="this.style.color='#00877b';this.style.borderBottomColor='#00877b'" onmouseout="this.style.color='#595959';this.style.borderBottomColor='transparent'">Living Room</a>
+            <a href="/cozy-cactus/photos/kitchen/" style="flex: 0 0 auto; display: block; padding: 1rem 1.4rem; font-family: 'Work Sans', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #595959; text-decoration: none; border-bottom: 2px solid transparent; white-space: nowrap; transition: color 0.2s, border-color 0.2s;" onmouseover="this.style.color='#00877b';this.style.borderBottomColor='#00877b'" onmouseout="this.style.color='#595959';this.style.borderBottomColor='transparent'">Kitchen</a>
+            <a href="/cozy-cactus/photos/primary-bedroom/" style="flex: 0 0 auto; display: block; padding: 1rem 1.4rem; font-family: 'Work Sans', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #595959; text-decoration: none; border-bottom: 2px solid transparent; white-space: nowrap; transition: color 0.2s, border-color 0.2s;" onmouseover="this.style.color='#00877b';this.style.borderBottomColor='#00877b'" onmouseout="this.style.color='#595959';this.style.borderBottomColor='transparent'">Primary Bedroom</a>
+            <a href="/cozy-cactus/photos/second-bedroom/" style="flex: 0 0 auto; display: block; padding: 1rem 1.4rem; font-family: 'Work Sans', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #595959; text-decoration: none; border-bottom: 2px solid transparent; white-space: nowrap; transition: color 0.2s, border-color 0.2s;" onmouseover="this.style.color='#00877b';this.style.borderBottomColor='#00877b'" onmouseout="this.style.color='#595959';this.style.borderBottomColor='transparent'">Second Bedroom</a>
+            <a href="/cozy-cactus/photos/bunk-bedroom/" style="flex: 0 0 auto; display: block; padding: 1rem 1.4rem; font-family: 'Work Sans', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #595959; text-decoration: none; border-bottom: 2px solid transparent; white-space: nowrap; transition: color 0.2s, border-color 0.2s;" onmouseover="this.style.color='#00877b';this.style.borderBottomColor='#00877b'" onmouseout="this.style.color='#595959';this.style.borderBottomColor='transparent'">Bunk Bedroom</a>
+            <a href="/cozy-cactus/photos/outdoor/" style="flex: 0 0 auto; display: block; padding: 1rem 1.4rem; font-family: 'Work Sans', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #595959; text-decoration: none; border-bottom: 2px solid transparent; white-space: nowrap; transition: color 0.2s, border-color 0.2s;" onmouseover="this.style.color='#00877b';this.style.borderBottomColor='#00877b'" onmouseout="this.style.color='#595959';this.style.borderBottomColor='transparent'">Outdoor</a>
+        </div>
+    </section>
+
     <!-- Gallery Section -->
     <section class="gallery-section">
         <h2>See It for Yourself</h2>
-        <div class="gallery-grid">
+        <div class="room-previews">
+
             <!-- Outdoor / Backyard -->
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/outdoor/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0004.webp" alt="Cozy Cactus backyard with pergola, outdoor seating, putting green, and Traeger grill" loading="lazy" decoding="async" width="800" height="533">
+            <div class="room-preview-section">
+                <div class="room-preview-header">
+                    <h3>Outdoor &amp; Backyard</h3>
+                    <a href="/cozy-cactus/photos/outdoor/" class="room-preview-link">See all photos &rarr;</a>
                 </div>
-                <p class="gallery-caption">Putting green, Traeger, pergola.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/outdoor/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0010.webp" alt="2-hole putting green with colorful painted block wall at Cozy Cactus Indio" loading="lazy" decoding="async" width="533" height="800">
+                <div class="room-preview-grid">
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/outdoor/"><img src="/cozy-cactus/photos/CozyCactus2026-0004.webp" alt="Cozy Cactus backyard with pergola, outdoor seating, putting green, and Traeger grill" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/outdoor/"><img src="/cozy-cactus/photos/CozyCactus2026-0010.webp" alt="2-hole putting green with colorful painted block wall at Cozy Cactus Indio" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/outdoor/"><img src="/cozy-cactus/photos/CozyCactus2026-0040.webp" alt="Outdoor rope sofa under pergola with colorful throw pillows at Cozy Cactus" loading="lazy" decoding="async"></div>
                 </div>
-                <p class="gallery-caption">Two holes. Real flags. Colorful painted wall.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/outdoor/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0040.webp" alt="Outdoor rope sofa under pergola with colorful throw pillows at Cozy Cactus" loading="lazy" decoding="async" width="533" height="800">
-                </div>
-                <p class="gallery-caption">Rope sofa under the pergola. String lights overhead.</p>
             </div>
 
             <!-- Living Room -->
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/living-room/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0060.webp" alt="Cozy Cactus open-concept living room with gray linen sofas, kilim rug, and built-in TV" loading="lazy" decoding="async" width="800" height="533">
+            <div class="room-preview-section">
+                <div class="room-preview-header">
+                    <h3>Living Room</h3>
+                    <a href="/cozy-cactus/photos/living-room/" class="room-preview-link">See all photos &rarr;</a>
                 </div>
-                <p class="gallery-caption">Open concept. Gray linen sofas, kilim rug, built-in TV.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/living-room/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0070.webp" alt="Cozy Cactus dining area with round white table, tan leather chairs, and gold mirror" loading="lazy" decoding="async" width="533" height="800">
+                <div class="room-preview-grid">
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/living-room/"><img src="/cozy-cactus/photos/CozyCactus2026-0060.webp" alt="Cozy Cactus open-concept living room with gray linen sofas, kilim rug, and built-in TV" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/living-room/"><img src="/cozy-cactus/photos/CozyCactus2026-0070.webp" alt="Cozy Cactus dining area with round white table, tan leather chairs, and gold mirror" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/living-room/"><img src="/cozy-cactus/photos/CozyCactus2026-0067.webp" alt="Cozy Cactus foosball table with abstract diptych art and fiddle leaf tree" loading="lazy" decoding="async"></div>
                 </div>
-                <p class="gallery-caption">Round table, tan leather chairs. Seats six.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/living-room/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0067.webp" alt="Cozy Cactus foosball table with abstract diptych art and fiddle leaf tree" loading="lazy" decoding="async" width="533" height="800">
-                </div>
-                <p class="gallery-caption">Foosball gets serious use. Abstract diptych above it.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/living-room/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0080.webp" alt="Cozy Cactus entry area with tile-top bench, gold sconce, and abstract art" loading="lazy" decoding="async" width="533" height="800">
-                </div>
-                <p class="gallery-caption">Entry bench with kilim tile top. Everything is labeled.</p>
             </div>
 
             <!-- Primary Bedroom -->
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/primary-bedroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0095.webp" alt="Cozy Cactus primary bedroom with pink accent wall, green velvet king headboard, and macrame art" loading="lazy" decoding="async" width="800" height="533">
+            <div class="room-preview-section">
+                <div class="room-preview-header">
+                    <h3>Primary Bedroom</h3>
+                    <a href="/cozy-cactus/photos/primary-bedroom/" class="room-preview-link">See all photos &rarr;</a>
                 </div>
-                <p class="gallery-caption">King suite. Pink accent wall, green velvet headboard.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/primary-bedroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0100.webp" alt="Cozy Cactus primary bedroom sitting area with two green velvet chairs and mustard knit pouf" loading="lazy" decoding="async" width="533" height="800">
+                <div class="room-preview-grid">
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/primary-bedroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0095.webp" alt="Cozy Cactus primary bedroom with pink accent wall, green velvet king headboard, and macrame art" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/primary-bedroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0100.webp" alt="Cozy Cactus primary bedroom sitting area with two green velvet chairs and mustard knit pouf" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/primary-bedroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0110.webp" alt="Cozy Cactus primary bedroom nightstand with gold lamp, pink accent wall, and fiddle leaf fig" loading="lazy" decoding="async"></div>
                 </div>
-                <p class="gallery-caption">Sitting area with velvet chairs. The adults fight over this room.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/primary-bedroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0110.webp" alt="Cozy Cactus primary bedroom nightstand with gold lamp, pink accent wall, and fiddle leaf fig" loading="lazy" decoding="async" width="533" height="800">
-                </div>
-                <p class="gallery-caption">Gold lamp, fiddle leaf fig, guestbook on the nightstand.</p>
             </div>
 
-            <!-- Second Bedroom (Mural) -->
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/second-bedroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0140.webp" alt="Cozy Cactus second bedroom with floor-to-ceiling surfboard botanical mural and terracotta bedding" loading="lazy" decoding="async" width="533" height="800">
+            <!-- Second Bedroom -->
+            <div class="room-preview-section">
+                <div class="room-preview-header">
+                    <h3>Second Bedroom</h3>
+                    <a href="/cozy-cactus/photos/second-bedroom/" class="room-preview-link">See all photos &rarr;</a>
                 </div>
-                <p class="gallery-caption">Surfboard botanical mural. Floor to ceiling. Queen bed.</p>
+                <div class="room-preview-grid">
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/second-bedroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0140.webp" alt="Cozy Cactus second bedroom with floor-to-ceiling surfboard botanical mural and terracotta bedding" loading="lazy" decoding="async"></div>
+                </div>
             </div>
 
             <!-- Bunk Bedroom -->
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bunk-bedroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0145.webp" alt="Cozy Cactus bunk bedroom with coral and teal chevron wall, queen bed, and desk" loading="lazy" decoding="async" width="533" height="800">
+            <div class="room-preview-section">
+                <div class="room-preview-header">
+                    <h3>Bunk Bedroom</h3>
+                    <a href="/cozy-cactus/photos/bunk-bedroom/" class="room-preview-link">See all photos &rarr;</a>
                 </div>
-                <p class="gallery-caption">Chevron wall. Bunk beds plus queen. Sleeps 4.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bunk-bedroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0155.webp" alt="Cozy Cactus black metal bunk beds with white bedding and book ledge" loading="lazy" decoding="async" width="533" height="800">
+                <div class="room-preview-grid">
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bunk-bedroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0145.webp" alt="Cozy Cactus bunk bedroom with coral and teal chevron wall, queen bed, and desk" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bunk-bedroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0155.webp" alt="Cozy Cactus black metal bunk beds with white bedding and book ledge" loading="lazy" decoding="async"></div>
                 </div>
-                <p class="gallery-caption">Black metal bunks. Book ledge. Kids figure out the hierarchy fast.</p>
             </div>
 
             <!-- Bathroom -->
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bathroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0160.webp" alt="Cozy Cactus bathroom vanity with succulent styling and black fixtures" loading="lazy" decoding="async" width="533" height="800">
+            <div class="room-preview-section">
+                <div class="room-preview-header">
+                    <h3>Bathroom</h3>
+                    <a href="/cozy-cactus/photos/bathroom/" class="room-preview-link">See all photos &rarr;</a>
                 </div>
-                <p class="gallery-caption">Succulent vanity. Black fixtures. Terracotta tile.</p>
-            </div>
-            <div class="gallery-item">
-                <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bathroom/">
-                    <img src="/cozy-cactus/photos/CozyCactus2026-0165.webp" alt="Cozy Cactus bathroom with cactus shower curtain, soaking tub, and black fixtures" loading="lazy" decoding="async" width="533" height="800">
+                <div class="room-preview-grid">
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bathroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0160.webp" alt="Cozy Cactus bathroom vanity with succulent styling and black fixtures" loading="lazy" decoding="async"></div>
+                    <div class="gallery-img-wrap" data-room-link="/cozy-cactus/photos/bathroom/"><img src="/cozy-cactus/photos/CozyCactus2026-0165.webp" alt="Cozy Cactus bathroom with cactus shower curtain, soaking tub, and black fixtures" loading="lazy" decoding="async"></div>
                 </div>
-                <p class="gallery-caption">Cactus shower curtain. Soaking tub. Two full baths.</p>
             </div>
+
         </div>
     </section>
 
