@@ -204,7 +204,7 @@ layout: blog-post.njk
 <p>Plan 3 nights minimum: one morning at Moorten Botanical Garden and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday is in your window, VillageFest adds a real reason to arrive a day early.</p>
 
 <img src="/blog/images/sundune-bedroom-surfboard-wall.webp" alt="The Sundune Palm Springs bedroom with surfboard mounted above the bed, tropical palm leaf wallpaper, and rattan headboard" width="1200" height="800" loading="lazy">
-<p class="image-caption">Three nights here covers everything in this guide with room to slow down.</p>
+<p class="image-caption">The Sundune has a 4-night minimum, which is the right amount of time to do everything in this guide without rushing it.</p>
 
 <h3>What should I know before my first Palm Springs trip?</h3>
 <p>Parking on Palm Canyon Drive fills up fast on weekend mornings. Park once on a side street off Belardo Road or Cahuilla Road and walk everywhere. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, plan outdoor activity before 10am and after 6pm. And bring sunscreen you'll actually use, not the kind sitting at the bottom of a bag from last year.</p>
