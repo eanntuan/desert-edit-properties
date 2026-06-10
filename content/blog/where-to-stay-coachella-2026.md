@@ -68,7 +68,7 @@ layout: redirect.njk
 <p>I own one of these. You knew it was coming.</p>
 
 <img src="/blog/images/festival-coachella-aerial.webp" alt="Aerial view of Coachella festival grounds at Empire Polo Club in Indio CA surrounded by the Coachella Valley desert" width="1400" height="933" loading="lazy">
-<p class="image-caption">The polo grounds from above. Everything you see outside the festival fence is Indio. The Cozy Cactus is 2.5 miles from this shot.</p>
+<p class="image-caption">The polo grounds from above. Everything you see outside the festival fence is Indio. The Cozy Cactus is walking distance from here.</p>
 
 <h2>The Cozy Cactus: Walking Distance from the Polo Grounds</h2>
 
@@ -90,7 +90,7 @@ layout: redirect.njk
 <p>This only works if your rental has a pool worth spending time at and is close enough that splitting the group is easy. The Cozy Cactus was built for exactly this.</p>
 
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial drone shot of the Cozy Cactus vacation rental in Indian Palms Indio CA at sunset with community pool and hot tub" loading="lazy" decoding="async" width="1400" height="933">
-<p class="image-caption">The Cozy Cactus from above. Private hot tub and community pool steps from the back gate. Empire Polo Club is 2.5 miles east.</p>
+<p class="image-caption">The Cozy Cactus from above. Private hot tub and community pool steps from the back gate. Empire Polo Club is walking distance east.</p>
 
 <h2>Honest Price Comparison</h2>
 

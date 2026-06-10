@@ -28,12 +28,12 @@ layout: blog-post.njk
 
 <p>You've been on your feet for seven hours. It's after midnight, the headliner just finished, and 80,000 people are all walking toward the same parking exits at the same time. At this point, the distance between your rental and the Empire Polo Club is the only thing that matters. Ten minutes is a beer and a debrief on the way home. Forty-five minutes is a traffic crawl down Gene Autry Trail that will test every friendship in the car.</p>
 
-<p>I own two vacation rentals in Indio, both within a 10-minute drive of the polo grounds. I've watched a lot of groups learn the hard way that "Palm Springs area" can mean anything from 5 miles to 45 miles from the festival gates. With Post Malone headlining <a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach 2026</strong></a>, inventory near the grounds went faster than usual. Here's what you need to know before you book.</p>
+<p>I own two vacation rentals in Indio, both walking distance to the polo grounds. I've watched a lot of groups learn the hard way that "Palm Springs area" can mean anything from 5 miles to 45 miles from the festival gates. With Post Malone headlining <a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach 2026</strong></a>, inventory near the grounds went faster than usual. Here's what you need to know before you book.</p>
 
 <h2>How Far Is "Palm Springs" From Stagecoach?</h2>
 
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of Cozy Cactus vacation rental in Indio California, close to Stagecoach festival grounds, with Indian Palms community pool visible nearby" width="1400" height="933" loading="lazy">
-<p class="image-caption">The Cozy Cactus is in Indio's Indian Palms neighborhood. Stagecoach is a 7-minute drive from here.</p>
+<p class="image-caption">The Cozy Cactus is in Indio's Indian Palms neighborhood. Stagecoach is walking distance from here — about 19 minutes on foot via Eisenhower Drive.</p>
 
 <p>Palm Springs proper is about 24 miles from the Empire Polo Club. That sounds manageable. On a normal Tuesday at 2pm, it takes 30 minutes. On a Friday night when 80,000 people are all leaving the festival at roughly the same time, it takes anywhere from 60 minutes to 2 hours depending on when you leave.</p>
 
@@ -73,7 +73,7 @@ layout: blog-post.njk
 
 <p>Indian Palms is a residential neighborhood in Indio that sits directly adjacent to Indian Palms Country Club. It's quiet, gated at certain entrances, and a short straight drive to the polo grounds with no freeway needed.</p>
 
-<p>Both of our Indio properties are in this neighborhood. The Cozy Cactus has a private hot tub, community pool steps away, and sleeps 8. Terra Luz (our newer renovation) has a private saltwater pool with a sun shelf, a covered patio, and also sleeps 8. Both are under a 10-minute drive to the festival gates.</p>
+<p>Both of our Indio properties are in this neighborhood. The Cozy Cactus has a private hot tub, community pool steps away, and sleeps 8. Terra Luz (our newer renovation) has a private saltwater pool with a sun shelf, a covered patio, and also sleeps 8. Both are walking distance to the festival gates — about 19 minutes on foot via Eisenhower Drive.</p>
 
 <p class="cta-block">Booking for Stagecoach or a future festival weekend: <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both 7-10 minutes from the Empire Polo Club. Terra Luz has a private saltwater pool; Cozy Cactus has a private hot tub and community pool steps away. <a href="/cozy-cactus/">Check availability.</a></p>
 
@@ -129,7 +129,7 @@ layout: blog-post.njk
 <p>About 24 miles, or 30 minutes on a normal day. On festival evenings when 80,000 people all exit at once, that stretch becomes 60 to 90 minutes each way. If you're staying in Palm Springs, build the commute honestly into your plan, because it compounds over three days.</p>
 
 <h3>What is the best neighborhood to stay in for Stagecoach?</h3>
-<p>Indian Palms in Indio. It's a residential neighborhood that sits a 7-10 minute drive from the Empire Polo Club with no freeway. Vacation rentals here have private outdoor space, and some are close enough to walk to the festival gates.</p>
+<p>Indian Palms in Indio. It's a residential neighborhood walking distance to the Empire Polo Club — about 19 minutes on foot via Eisenhower Drive, or a short drive with no freeway. Vacation rentals here have private outdoor space, and you can walk home from the headliner without coordinating rides.</p>
 
 <h3>Is a private pool worth it for a Stagecoach rental?</h3>
 <p>Yes, unambiguously. Late April in Indio regularly hits 95-105 degrees Fahrenheit during the day. A private pool lets you leave the grounds at 3pm during peak heat, recharge for two hours, and come back for the evening headliners. Community pools have hours; a private pool doesn't.</p>
