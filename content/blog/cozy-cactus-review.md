@@ -139,7 +139,7 @@ relatedPosts:
       "name": "Can The Cozy Cactus accommodate a group for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location puts you about 2.5 miles from Empire Polo Club, and the walk to the festival entrance takes 25-45 minutes depending on where you're starting in the community."
+        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance to Empire Polo Club — about 1.5 miles on foot (roughly 19 minutes via Eisenhower Drive). No shuttle, no surge pricing."
       }
     }
   ]
@@ -161,7 +161,7 @@ relatedPosts:
 <p>Response time has consistently come up in guest reviews as a standout feature. Most questions get answered within the hour, including evenings and weekends. Pre-booking questions are welcome and often answered faster than through Airbnb's messaging system.</p>
 
 <h3>Can The Cozy Cactus accommodate a group for Coachella?</h3>
-<p>It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location puts you about 2.5 miles from Empire Polo Club, and the walk to the festival entrance takes 25-45 minutes depending on where you're starting in the community.</p>
+<p>It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance to Empire Polo Club — about 1.5 miles on foot (roughly 19 minutes via Eisenhower Drive). No shuttle, no surge pricing.</p>
 
 <p>That's what 4.97 stars across 146 stays looks like in practice. Not perfection in every sense. A specific kind of care that guests feel when they walk in the door, and that they write about when they leave.</p>
 

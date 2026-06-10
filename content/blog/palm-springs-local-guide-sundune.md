@@ -23,7 +23,7 @@ excerpt: "Things to do in Palm Springs, from a local who eats here. Coffee, brun
 layout: blog-post.njk
 ---
 
-<p>I'm a surfer from Culver City who ended up owning vacation rentals in the Coachella Valley. Not a Palm Springs local, but I spend enough time here to say these recommendations are real. Not affiliate-coded, not algorithmic. This is the guide we give <a href="/the-sundune/">Sundune</a> guests.</p>
+<p>I'm a surfer from Culver City who ended up owning vacation rentals in the Coachella Valley. Not a Palm Springs local by any stretch, but I spend enough time here to say these recommendations are real. Not affiliate-coded, not algorithmic. This is the guide we actually give <a href="/the-sundune/">Sundune</a> guests.</p>
 
 <h2>Morning / Coffee</h2>
 
@@ -34,10 +34,10 @@ layout: blog-post.njk
 <p class="image-caption">Les Filles earns the 9th arrondissement comparison. It just happens to be in Cathedral City.</p>
 
 <h3>Sottovoce</h3>
-<p><a href="https://www.sottovocecafe.com/" target="_blank" rel="noopener"><strong>Sottovoce</strong></a> is an Italian wine and coffee bar inside The Shops at Thirteen Forty-Five, an artist's collective worth wandering. The coffee is the entry point. The local makers and galleries are the reason to linger. My sister-in-law had them cater gelato for her wedding. That tells you everything.</p>
+<p><a href="https://www.sottovocecafe.com/" target="_blank" rel="noopener"><strong>Sottovoce</strong></a> is an Italian wine and coffee bar inside The Shops at Thirteen Forty-Five, an artist's collective worth wandering. The coffee gets you in the door. The local makers and galleries are why you stay. My sister-in-law had them cater gelato for her wedding, which tells you more than a Yelp review ever would.</p>
 
 <h3>Wilma &amp; Frieda's</h3>
-<p>The pop-tart gets all the attention, and it deserves some of it. But the cinnamon roll deserves its own moment. It's the kind of thing you split with someone and then immediately regret splitting. <a href="https://wilmafrieda.com/" target="_blank" rel="noopener">Wilma &amp; Frieda's</a> fills up fast. Go early.</p>
+<p>The pop-tart gets all the attention, and fair enough. But the cinnamon roll deserves its own moment: it's the kind of thing you split with someone and then immediately regret splitting. <a href="https://wilmafrieda.com/" target="_blank" rel="noopener">Wilma &amp; Frieda's</a> fills up fast, so go early and don't apologize for ordering too much.</p>
 
 <img src="/blog/images/wilma-friedas-palm-springs.webp" alt="Wilma and Frieda's cafe Palm Springs brunch spread with comfort food dishes on a sunny table" width="1200" height="801" loading="lazy">
 <p class="image-caption">Wilma and Frieda's. The cinnamon roll. Split it, regret it. That's the move.</p>
@@ -53,22 +53,22 @@ layout: blog-post.njk
 <h2>Afternoon / Experiences</h2>
 
 <h3>Palm Springs Surf Club</h3>
-<p>I'm biased as a surfer. But even setting that aside: <a href="https://palmspringssurfclub.com/" target="_blank" rel="noopener"><strong>Palm Springs Surf Club</strong></a> is one of the most fun ways to spend a full day in the desert. Lazy river, wave pool, coastal California food. Budget for it. It's a splurge day and worth it.</p>
+<p>I'm biased as a surfer. But even setting that aside: <a href="https://palmspringssurfclub.com/" target="_blank" rel="noopener"><strong>Palm Springs Surf Club</strong></a> is one of the most fun ways to spend a full day in the desert. Lazy river, wave pool, coastal California food, and yes, it sounds gimmicky until you're in it. Budget for it as a splurge day and just go.</p>
 
 <img src="/blog/images/pssc-group-surf-session.webp" alt="Group surf session at Palm Springs Surf Club wave pool with riders on the wave in the desert" width="2000" height="1090" loading="lazy">
 <p class="image-caption">A wave pool in the desert. It sounds gimmicky until you're in it.</p>
 
 <h3>Moorten Botanical Garden</h3>
-<p>If Surf Club is the active afternoon, <a href="https://moortenbotanicalgarden.com/" target="_blank" rel="noopener"><strong>Moorten Botanical Garden</strong></a> is the exhale. Walk it at golden hour. Cacti and succulents from all over the world, a pace that feels almost ceremonial. Small, quiet, and it stays with you.</p>
+<p>If Surf Club is the active afternoon, <a href="https://moortenbotanicalgarden.com/" target="_blank" rel="noopener"><strong>Moorten Botanical Garden</strong></a> is the exhale. Walk it at golden hour, when the light hits everything sideways. Cacti and succulents from all over the world, a pace that feels almost ceremonial, small and quiet in a way that actually stays with you.</p>
 
 <img src="/blog/images/moorten-botanical-garden.webp" alt="Moorten Botanical Garden in Palm Springs with towering cacti and succulents from around the world under desert sky" width="1200" height="1200" loading="lazy">
 <p class="image-caption">Moorten at golden hour. Go slow. The place rewards it.</p>
 
 <h3>Phylum</h3>
-<p><a href="https://shopphylum.com/" target="_blank" rel="noopener"><strong>Phylum</strong></a> is contemporary art meets high-design home goods. Even if you don't buy anything, you'll leave with opinions. That's the point of good design spaces.</p>
+<p><a href="https://shopphylum.com/" target="_blank" rel="noopener"><strong>Phylum</strong></a> is contemporary art meets high-design home goods. Even if you don't buy anything, you'll leave with opinions, which is the point of a good design space.</p>
 
 <h3>The Flannery Exchange</h3>
-<p>Free co-working space, boutique shops, matcha, coffee, and houseplants you can ship home. <a href="https://flanneryexchange.com/" target="_blank" rel="noopener"><strong>The Flannery Exchange</strong></a> is one of those places that shouldn't work as a concept but completely does. Spend an hour here in the afternoon when you need a break from the sun.</p>
+<p>Free co-working space, boutique shops, matcha, coffee, and houseplants you can ship home. <a href="https://flanneryexchange.com/" target="_blank" rel="noopener"><strong>The Flannery Exchange</strong></a> is one of those places that shouldn't work as a concept but completely does. Spend an hour here in the afternoon when you need a break from the sun and don't want to just go back to the pool.</p>
 
 <img src="/blog/images/ps-blue-door-cacti.webp" alt="Vibrant blue door with tall cacti and desert landscaping on a mid-century modern home in Palm Springs" width="1400" height="933" loading="lazy">
 <p class="image-caption">Palm Springs in one frame: bold color, desert plants, architecture that earns every Instagram post.</p>
@@ -76,12 +76,12 @@ layout: blog-post.njk
 <h2>Dinner</h2>
 
 <h3>Rooster &amp; The Pig</h3>
-<p>Most visitors drive past this one because it's tucked into an unassuming strip mall. Don't. <a href="https://www.roosterandthepig.com/" target="_blank" rel="noopener"><strong>Rooster &amp; The Pig</strong></a> is a Vietnamese-American restaurant and a genuine local gem. The food is specific and thoughtful. USA Today named it one of the top 47 restaurants in the country. Go on a weeknight if you can, with someone willing to order the whole menu.</p>
+<p>Most visitors drive past this one because it sits in an unassuming strip mall. Don't. <a href="https://www.roosterandthepig.com/" target="_blank" rel="noopener"><strong>Rooster &amp; The Pig</strong></a> is Vietnamese-American and genuinely good, specific and thoughtful in a way that makes you want to order the whole menu. USA Today named it one of the top 47 restaurants in the country, which sounds like a weird brag until you eat there and understand it.</p>
 
 <h2>Drinks</h2>
 
 <h3>Boozehounds</h3>
-<p><a href="https://www.boozehoundsps.com/" target="_blank" rel="noopener"><strong>Boozehounds</strong></a> is where you go when you want a drink and good energy, not a craft cocktail experience with a seven-minute explanation. Lively, local, unpretentious. It makes you feel like you live somewhere instead of just visiting. End your night here.</p>
+<p><a href="https://www.boozehoundsps.com/" target="_blank" rel="noopener"><strong>Boozehounds</strong></a> is where you go when you want a drink and good energy, not a craft cocktail with a seven-minute explanation. Lively, local, unpretentious, and it makes you feel like you live somewhere instead of just visiting. End your night here.</p>
 
 <img src="/blog/images/boozehounds-palm-springs.webp" alt="Boozehounds bar in Palm Springs with lively open atrium patio and guests enjoying cocktails at night" width="1200" height="603" loading="lazy">
 <p class="image-caption">Boozehounds. The name is the promise. End your night here.</p>
@@ -91,7 +91,7 @@ layout: blog-post.njk
 
 <hr style="border: none; border-top: 1px solid #ddd; margin: 3rem 0;">
 
-<p>There's a version of Palm Springs built entirely for first-timers: the Instagram midcentury shot, the pool selfie, the frozen rosé. That version is fine. But there's a quieter, more interesting version underneath, and that's what this guide points toward.</p>
+<p>There's a version of Palm Springs built entirely for first-timers: the Instagram midcentury shot, the pool selfie, the frozen rosé. That version is fine. But there's a quieter, more interesting one underneath it, and that's what this guide is actually pointing toward.</p>
 
 <script type="application/ld+json">
 {
@@ -180,36 +180,36 @@ layout: blog-post.njk
 <p>Les Filles in Cathedral City is the most consistent, with a genuine European café approach. Koffi on N Palm Canyon Drive is the longtime local institution and opens at 6am, which matters when you're trying to beat the heat. Sottovoce at The Shops at Thirteen Forty-Five is worth it if you want something slower and more interesting to browse afterward.</p>
 
 <h3>Where should I eat brunch in Palm Springs?</h3>
-<p>The Farm is the reliable group option, handles a table of six well. Wilma and Frieda's is the right call if you want the iconic cinnamon roll experience and don't mind waiting. The Front Porch, right next door to The Farm, is a Latin-inspired hole-in-the-wall that earns a separate visit.</p>
+<p>The Farm is the reliable group option, handles a table of six without drama. Wilma and Frieda's is the right call if you want the cinnamon roll and don't mind waiting. The Front Porch, right next door, is a Latin-inspired hole-in-the-wall that earns a separate visit even if you just came from The Farm.</p>
 
 <h3>Is Palm Springs Surf Club worth it?</h3>
-<p>Yes, if surfing is your thing or you want to try it in a controlled environment. Budget the whole day. The wave pool uses Wavegarden Cove technology and generates real, surfable sets. Non-surfers can eat and watch from the lounge side of the venue. Book sessions at least a week ahead on weekends.</p>
+<p>Yes, if surfing is your thing or you want to try it in a controlled setting. Budget the whole day. The wave pool uses Wavegarden Cove technology and generates real, surfable sets, and non-surfers can eat and watch from the lounge side. Book sessions at least a week ahead on weekends.</p>
 
 <img src="/blog/images/sundune-pool-surfboard-float.webp" alt="Inflatable surfboard float in The Sundune's shared pool in Palm Springs under bright desert sun" width="800" height="1200" loading="lazy">
 <p class="image-caption">The Sundune's pool — it makes the Surf Club question feel personal.</p>
 
 <h3>What is Moorten Botanical Garden like?</h3>
-<p>Small, quiet, and worth going slowly. Over 3,000 cacti and succulents from around the world on about an acre of land in the middle of Palm Springs. Go at golden hour and give yourself at least an hour. It costs a few dollars and stays with you longer than most things you'll pay more for.</p>
+<p>Small, quiet, and worth going slowly. Over 3,000 cacti and succulents from around the world on about an acre in the middle of Palm Springs. Go at golden hour, give yourself at least an hour, and don't rush it. It costs a few dollars and stays with you longer than most things you'll pay more for.</p>
 
 <h3>Where do locals drink in Palm Springs?</h3>
-<p>Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene.</p>
+<p>Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and honestly better than most of what's on Arenas Road if you're not specifically looking for the LGBTQ bar scene.</p>
 
 <h3>What is the most scenic way to get to Palm Springs from Los Angeles?</h3>
-<p>I-10 East to the Gene Autry Trail exit drops you directly into Palm Springs in about 2 hours from downtown LA. The more interesting approach: exit at Date Palm Drive in Cathedral City and come in on Highway 111, which puts you on the main strip with the San Jacinto Mountains rising directly in front of you. That's the approach you want for a first visit.</p>
+<p>I-10 East to the Gene Autry Trail exit drops you directly into Palm Springs in about 2 hours from downtown LA. The better approach: exit at Date Palm Drive in Cathedral City and come in on Highway 111, which puts you on the main strip with the San Jacinto Mountains rising directly in front of you. That's the one you want for a first visit.</p>
 
 <h3>What is the best time of year to visit Palm Springs for this kind of trip?</h3>
-<p>March and November are the best months for everything in this guide: coffee without lines, outdoor dining without dying, hiking Indian Canyons in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is fine if you're heat-adjusted and plan around the pool and evening hours, but the outdoor wandering energy changes significantly above 100 degrees.</p>
+<p>March and November for everything in this guide: coffee without lines, outdoor dining without dying, hiking Indian Canyons in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is fine if you're heat-adjusted and build your days around pool time and evenings, but the outdoor wandering energy changes a lot above 100 degrees.</p>
 
 <h3>How many days do you need in Palm Springs to actually experience it?</h3>
-<p>Plan 3 nights minimum: one morning at Moorten Botanical Garden and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday is in your window, VillageFest adds a real reason to arrive a day early.</p>
+<p>Three nights minimum: one morning at Moorten and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday falls in your window, VillageFest is a real reason to arrive a day early.</p>
 
 <img src="/blog/images/sundune-bedroom-surfboard-wall.webp" alt="The Sundune Palm Springs bedroom with surfboard mounted above the bed, tropical palm leaf wallpaper, and rattan headboard" width="1200" height="800" loading="lazy">
 <p class="image-caption">The Sundune has a 4-night minimum, which is the right amount of time to do everything in this guide without rushing it.</p>
 
 <h3>What should I know before my first Palm Springs trip?</h3>
-<p>Parking on Palm Canyon Drive fills up fast on weekend mornings. Park once on a side street off Belardo Road or Cahuilla Road and walk everywhere. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, plan outdoor activity before 10am and after 6pm. And bring sunscreen you'll actually use, not the kind sitting at the bottom of a bag from last year.</p>
+<p>Parking on Palm Canyon fills up fast on weekend mornings, so park once on a side street off Belardo or Cahuilla and walk everything from there. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, outdoors before 10am and after 6pm is the rule. And bring sunscreen you'll actually use, not the tube sitting at the bottom of your bag from last year.</p>
 
 <img src="/blog/images/sundune-kitchen-pink-tile.webp" alt="The Sundune Palm Springs kitchen with pink herringbone tile backsplash, gold faucet, white quartz countertops, and patio view through the window" width="1200" height="800" loading="lazy">
 <p class="image-caption">The kitchen at The Sundune. Pink herringbone tile, brass hardware, and a window that looks out to the patio.</p>
 
-<p>For more Coachella Valley intel, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the other end of the valley. Different energy, just as worth knowing. If you want a full two-day structure for your first Palm Springs visit, the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> maps it out hour by hour. And if you're still deciding where to stay: <a href="/the-sundune/">The Sundune</a> is exactly what it sounds like.</p>
+<p>For more Coachella Valley intel, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the other end of the valley: different energy, just as worth knowing. If you want a full two-day structure for your first Palm Springs visit, the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> maps it out hour by hour. And if you're still deciding where to stay: <a href="/the-sundune/">The Sundune</a> is exactly what it sounds like.</p>

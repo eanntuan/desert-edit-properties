@@ -176,7 +176,7 @@ layout: redirect.njk
       "name": "Is it better to stay in Indio or Palm Springs for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indio, clearly. The Empire Polo Club is in Indio. Staying locally means a 5-15 minute drive versus 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between the afternoon and evening sets, skip the surge pricing, and walk home after the headliner if your rental is close enough."
+        "text": "Indio, clearly. The Empire Polo Club is in Indio. Rentals in Indian Palms Country Club are walking distance to the festival grounds, about 1.5 miles on foot. Compare that to 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between sets, skip surge pricing, and walk home after the headliner."
       }
     },
     {
@@ -229,7 +229,7 @@ layout: redirect.njk
 <p>About 24 miles. Without traffic, that's 30 minutes on the I-10. During Coachella weekend, add 30 to 45 minutes each way on Friday, Saturday, and Sunday evenings when 80,000 people are all leaving the grounds at roughly the same time. The math on rideshares from Palm Springs adds up fast over a three-day weekend.</p>
 
 <h3>Is it better to stay in Indio or Palm Springs for Coachella?</h3>
-<p>Indio, clearly. The Empire Polo Club is in Indio. Staying locally means a 5-15 minute drive versus 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between the afternoon and evening sets, skip the surge pricing, and walk home after the headliner if your rental is close enough.</p>
+<p>Indio, clearly. The Empire Polo Club is in Indio. Rentals in Indian Palms Country Club are walking distance to the festival grounds, about 1.5 miles on foot. Compare that to 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between sets, skip surge pricing, and walk home after the headliner.</p>
 
 <h3>How far in advance should I book a Coachella rental?</h3>
 <p>Six to nine months is the safe window for the best properties near the polo grounds. October or November for the following April. By January, the walking-distance properties with private pools are mostly gone. Properties a bit further out stay available longer but book up by February.</p>
