@@ -2,7 +2,7 @@
 title: "Indian Palms Country Club Rentals: Coachella's Best Base"
 date: 2025-12-31
 dateModified: 2026-03-09
-metaDescription: "Indian Palms Country Club is 2.5 miles from the Coachella stage. Private pools, gated streets, no surge pricing. Why it's the smartest festival base."
+metaDescription: "Indian Palms Country Club is walking distance to Coachella. Private pools, gated streets, no surge pricing. Why it's the smartest festival base in the valley."
 ogImage: /blog/images/indian-palms-front-entrance.webp
 heroImage: /blog/images/indian-palms-front-entrance.webp
 heroAlt: "Aerial view of Indian Palms Country Club neighborhood in Indio CA at sunset showing pool and desert mountain backdrop"
@@ -27,12 +27,12 @@ layout: blog-post.njk
 
 <p>There's a moment on festival Saturday when you step out of your front door, walk through a quiet palm-lined street, pass a neighbor sitting on their porch with coffee, and realize you're going to Coachella on foot. No shuttle line. No surge pricing. No standing in traffic. You're just walking there, like it's down the block. Because it mostly is.</p>
 
-<p>That's Indian Palms Country Club. A gated residential neighborhood in Indio, 2.5 miles from the Empire Polo Club, made up of streets where people live. I own two vacation rentals here. Here's what staying in this community is like.</p>
+<p>That's Indian Palms Country Club. A gated residential neighborhood in Indio, walking distance to Empire Polo Club, made up of streets where people live. I own two vacation rentals here. Here's what staying in this community is like.</p>
 
 <img src="/blog/images/cozy-cactus-exterior.webp" alt="Vacation rental in Indian Palms Country Club Indio CA with pool and mountain views" width="1400" height="933" loading="lazy">
 
 <img src="/blog/images/indian-palms-front-entrance.webp" alt="Aerial view of Indian Palms Country Club neighborhood in Indio CA at sunset showing pool and desert mountain backdrop" width="1400" height="933" loading="lazy">
-<p class="image-caption">Indian Palms Country Club from above. Empire Polo Club is 2.5 miles east.</p>
+<p class="image-caption">Indian Palms Country Club from above. Empire Polo Club is walking distance to the east.</p>
 
 <h2>What Is Indian Palms Country Club?</h2>
 
@@ -44,7 +44,7 @@ layout: blog-post.njk
 
 <h2>Can You Walk to Coachella from Indian Palms?</h2>
 
-<p>Yes. Indian Palms Country Club is one of the only neighborhoods in the Coachella Valley where walking to Coachella is practical. The route from your rental to the festival entrance is 1.5 to 2.2 miles, takes 25 to 49 minutes on foot, and lets you skip shuttles, surge pricing, and gridlocked roads entirely.</p>
+<p>Yes. Indian Palms Country Club is one of the only neighborhoods in the Coachella Valley where walking to Coachella is practical. The route from your rental to the festival entrance runs about 1.5 miles via Eisenhower Drive, roughly 19-30 minutes on foot depending on where in the community you're starting, and lets you skip shuttles, surge pricing, and gridlocked roads entirely.</p>
 
 <img src="/blog/images/coachella-festival-map-2026.webp" alt="2026 Coachella festival map showing Indian Palms Front Gate 0.3 miles from Monroe Street entrance" width="1080" height="1350" loading="lazy">
 
@@ -60,7 +60,7 @@ layout: blog-post.njk
 <p class="image-caption">This is the yellow gravel path that leads up to the entrance of the festival (about 1 mile, so wear comfy shoes!)</p>
 
 <ol start="5">
-    <li>Plan <strong>25-49 minutes door-to-gate</strong> depending on where in Indian Palms you're staying</li>
+    <li>Plan <strong>19-30 minutes door-to-gate</strong> depending on where in Indian Palms you're staying</li>
 </ol>
 
 <p>Golf cart rides are also available from community members during festival weekends. The going rate is roughly $5-10 per rider depending on group size. Your host will have current contact info in your welcome book.</p>
@@ -111,7 +111,7 @@ layout: blog-post.njk
 
 <p><a href="/terra-luz/">Terra Luz</a> is a 3-bedroom Latin/Cuban-inspired vacation rental with a private saltwater pool, terracotta courtyard, and an aesthetic designed by brand architect Dawn Asher. It's our pet-friendly property. It sleeps up to 8.</p>
 
-<p>Both are in Indian Palms Country Club, about 2.5 miles from the festival grounds. Both skip the platform fees when you <a href="/booking-flow/">book direct</a>.</p>
+<p>Both are in Indian Palms Country Club, walking distance to the festival grounds. Both skip the platform fees when you <a href="/booking-flow/">book direct</a>.</p>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
 
@@ -125,7 +125,7 @@ layout: blog-post.njk
       "name": "Is Indian Palms Country Club actually walking distance to Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The walk from inside the community to the festival entrance at 49th and Monroe runs 25 to 49 minutes depending on where you start in Indian Palms. The path goes through the Monroe Gate onto Eisenhower Drive on a gravel pedestrian path. Closed-toe shoes are worth it."
+        "text": "Yes. The walk from inside the community to the festival entrance at 49th and Monroe runs roughly 19-30 minutes depending on where you start in Indian Palms. The path goes through the Monroe Gate onto Eisenhower Drive on a gravel pedestrian path. Closed-toe shoes are worth it."
       }
     },
     {

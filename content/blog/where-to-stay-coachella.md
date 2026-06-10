@@ -76,7 +76,7 @@ layout: blog-post.njk
 
 <h2>Option 4: Vacation Rentals in Indian Palms (Walkable to Festival)</h2>
 
-<p>Indian Palms Country Club is a gated neighborhood in Indio, about 2.5 miles from the polo grounds. It's the only part of the Coachella Valley where walking to the festival entrance is actually practical, 25-49 minutes on foot depending on where in the community you're staying. That single fact changes the whole logistics picture for a group.</p>
+<p>Indian Palms Country Club is a gated neighborhood in Indio, walking distance to the polo grounds. The walk to the festival entrance runs roughly 19-30 minutes depending on where in the community you're starting. That single fact changes the whole logistics picture for a group.</p>
 
 <p>When your rental is walkable distance from the grounds, shuttles become optional. Half the group can head back to the house at 3pm while the others stay through headliners, then everyone meets back on their own schedule without coordinating shared rides. No surge pricing on the way home at 1am. If someone needs a break midday, they take it, no negotiation required.</p>
 
@@ -87,7 +87,7 @@ layout: blog-post.njk
 <p>The <a href="/blog/indian-palms-vacation-rental/">Indian Palms vacation rental guide</a> has more detail on what the neighborhood is like, how the walk to the grounds actually works, and what to look for when booking in this community specifically.</p>
 
 <img src="/blog/images/indian-palms-front-entrance.webp" alt="Indian Palms Country Club entrance in Indio California with palm trees and desert landscaping" width="1400" height="933" loading="lazy">
-<p class="image-caption">Indian Palms Country Club. A gated neighborhood 2.5 miles from the polo grounds. The walk-to-Coachella option.</p>
+<p class="image-caption">Indian Palms Country Club. A gated neighborhood walking distance from the polo grounds. The walk-to-Coachella option.</p>
 
 <h2>Option 5: Vacation Rentals in Palm Springs or La Quinta</h2>
 
