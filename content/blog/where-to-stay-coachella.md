@@ -1,7 +1,7 @@
 ---
-title: "Where to Stay for Coachella: Rental vs Hotel vs Camp"
+title: "Where to Stay for Coachella 2027: Rental vs Hotel vs Camp"
 date: 2025-11-10
-dateModified: 2026-01-14
+dateModified: 2026-06-15
 metaDescription: "2 miles from the stage, $250-500/night private rental beats hotel prices. Hotels sell out fast, camping is rougher than it looks. What to book and when."
 ogImage: /blog/images/coachella-festival-crowd.webp
 heroImage: /blog/images/coachella-festival-crowd.webp
@@ -82,7 +82,7 @@ layout: blog-post.njk
 
 <p>Vacation rentals here are priced by the home, not per person. For a group of six to eight splitting a three-bedroom house, the per-person cost often comes in below what a hotel room costs per person, with a full kitchen, private pool, and covered outdoor space. Those are the things that actually matter over a three-day festival in the desert.</p>
 
-<p>The catch is booking timing. Good properties in Indian Palms are typically gone by November or December for the following April. If you're reading this in January for a spring festival, availability is limited. For 2026-specific options, the <a href="/blog/where-to-stay-coachella-2026/">where to stay for Coachella 2026</a> post covers what's still findable close-in.</p>
+<p>The catch is booking timing. Good properties in Indian Palms are typically gone by November or December for the following April. For Coachella 2027, that means the window to book is now — October to December 2026 is when the walkable Indian Palms inventory gets claimed. If you're reading this after January 2027, availability will be limited.</p>
 
 <p>The <a href="/blog/indian-palms-vacation-rental/">Indian Palms vacation rental guide</a> has more detail on what the neighborhood is like, how the walk to the grounds actually works, and what to look for when booking in this community specifically.</p>
 
