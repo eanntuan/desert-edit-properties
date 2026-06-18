@@ -74,7 +74,7 @@ relatedPosts:
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers and terracotta deck in Indio California, minutes from Stagecoach festival grounds" width="1400" height="933" loading="lazy">
 <p class="image-caption">Terra Luz backyard and private saltwater pool. After three days in festival heat, this is where late April evenings belong.</p>
 
-<h2>The Cozy Cactus: 3BR, Hot Tub, Game Room</h2>
+<h2><a href="/cozy-cactus/">The Cozy Cactus</a>: 3BR, Hot Tub, Game Room</h2>
 
 <p>Three bedrooms, two bathrooms, sleeps 8. Private hot tub on the property, community pool at Indian Palms Country Club steps from the back gate. Game room with foosball, ping pong, and putting green. Fully stocked kitchen. Covered patio.</p>
 
@@ -82,7 +82,7 @@ relatedPosts:
 
 <p>No pets. Check-in 4pm, checkout 11am.</p>
 
-<h2>Terra Luz: 3BR, Private Saltwater Pool, Sleeps 8</h2>
+<h2><a href="/terra-luz/">Terra Luz</a>: 3BR, Private Saltwater Pool, Sleeps 8</h2>
 
 <p>Three bedrooms, two bathrooms, sleeps 8. Private saltwater pool with sun shelf, covered pergola, terracotta patio. Latin-Cuban inspired design by Dawn Asher. Kitchen with Ninja slushie maker (relevant for April festival weather). Fully fenced yard.</p>
 

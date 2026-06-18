@@ -80,7 +80,7 @@ layout: blog-post.njk
 
 <p>When your rental is walkable distance from the grounds, shuttles become optional. Half the group can head back to the house at 3pm while the others stay through headliners, then everyone meets back on their own schedule without coordinating shared rides. No surge pricing on the way home at 1am. If someone needs a break midday, they take it, no negotiation required.</p>
 
-<p>Vacation rentals here are priced by the home, not per person. For a group of six to eight splitting a three-bedroom house, the per-person cost often comes in below what a hotel room costs per person, with a full kitchen, private pool, and covered outdoor space. Those are the things that actually matter over a three-day festival in the desert.</p>
+<p>Vacation rentals here are priced by the home, not per person. For a group of six to eight splitting a three-bedroom house, the per-person cost often comes in below what a hotel room costs per person, with a full kitchen, private pool, and covered outdoor space. Those are the things that actually matter over a three-day festival in the desert. Both <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are in Indian Palms, sleeping 8 with private pools.</p>
 
 <p>The catch is booking timing. Good properties in Indian Palms are typically gone by November or December for the following April. For Coachella 2027, that means the window to book is now — October to December 2026 is when the walkable Indian Palms inventory gets claimed. If you're reading this after January 2027, availability will be limited.</p>
 
