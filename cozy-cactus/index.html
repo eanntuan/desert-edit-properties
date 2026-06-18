@@ -1325,7 +1325,7 @@
 
 <script>
 (function() {
-  const items = Array.from(document.querySelectorAll('.gallery-item img'));
+  const items = Array.from(document.querySelectorAll('.gallery-img-wrap img'));
   const lb = document.getElementById('lightbox');
   const lbImg = document.getElementById('lightbox-img');
   const lbCaption = document.getElementById('lightbox-caption');
@@ -1337,7 +1337,7 @@
     lbImg.src = items[current].src;
     lbImg.alt = items[current].alt;
     const wrap = items[current].closest('.gallery-img-wrap');
-    const captionEl = wrap && wrap.closest('.gallery-item') && wrap.closest('.gallery-item').querySelector('.gallery-caption');
+    const captionEl = wrap && wrap.querySelector('.gallery-caption');
     if (lbCaption) lbCaption.textContent = captionEl ? captionEl.textContent : '';
     if (lbRoomLink && wrap) {
       const roomLink = wrap.getAttribute('data-room-link') || '/cozy-cactus/';
@@ -1351,7 +1351,7 @@
     document.body.style.overflow = '';
   }
 
-  items.forEach((img, i) => img.closest('.gallery-item').addEventListener('click', () => show(i)));
+  items.forEach((img, i) => img.closest('.gallery-img-wrap').addEventListener('click', () => show(i)));
   document.getElementById('lightbox-close').addEventListener('click', close);
   document.getElementById('lightbox-prev').addEventListener('click', () => show(current - 1));
   document.getElementById('lightbox-next').addEventListener('click', () => show(current + 1));
