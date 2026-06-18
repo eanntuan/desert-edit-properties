@@ -38,6 +38,12 @@
   </url>
 
   <url>
+    <loc>https://indigopalm.co/vacation-rentals/indio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://indigopalm.co/book-direct/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
