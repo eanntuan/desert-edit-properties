@@ -47,7 +47,7 @@ layout: blog-post.njk
 
 <p>The dining table is a solid wood slab, natural grain, seating eight around rattan bistro chairs with cane backs. Eight seats at a vacation rental in Indio isn't an accident: the house is designed for groups of six to eight, and everyone should be able to eat together without anyone ending up at a card table.</p>
 
-<img src="/blog/images/terra-luz-kitchen-table.webp" alt="Terra Luz dining table with wooden fruit bowl, Talavera tile coasters, and teal beaded table runner, terracotta wall and fiddle leaf fig visible in background" width="3201" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-kitchen-table.webp" alt="Terra Luz dining table set for eight with rattan bistro chairs, wooden fruit bowl with oranges, teal geometric table runner, and terracotta walls in Indio California" width="3200" height="4800" loading="lazy">
 <p class="image-caption">The table centerset: a turned wood fruit bowl piled with oranges, Talavera tile coasters, a teal beaded table runner with geometric pattern. The fiddle leaf fig is in the corner by the window.</p>
 
 <p>The table styling is very deliberate. A turned wood bowl sits in the center piled with navel oranges, which is the simplest version of the Cuban domestic aesthetic: real fruit, real wood, nothing artificial. A teal and cream beaded table runner runs the length of the table with a bold geometric pattern. Talavera-style ceramic coasters sit stacked beside the bowl, red flower on white clay, and they're the kind of coaster that guests actually pick up and look at rather than just using.</p>
@@ -64,6 +64,9 @@ layout: blog-post.njk
 <p>On the open shelves: amber glass tumblers, green glass tumblers, hand-thrown ceramic mugs in brown and blue with patterned glaze, and a driftwood piece on the top shelf that you'd only understand as decorative. There's a chess set tucked on the counter near the microwave because we had space and it felt right. The knives are serious knives in a wood block. It's a kitchen someone actually thought about.</p>
 
 <p>For coffee there's a Nespresso machine and a French press, with Cafe Bustelo in the cabinet. If you're the kind of person who noticed the Cafe Bustelo illustration on the shelf vignette, you'll appreciate finding the actual can in the kitchen. The coffee setup on the counter has a blue ceramic pour-over dripper and a Craft Coffee book propped against the tile, which is a little much but it scans correctly in the photos.</p>
+
+<img src="/blog/images/terra-luz-kitchen-dining-extra.webp" alt="Terra Luz kitchen and dining area at Terra Luz vacation rental in Indio California with terracotta walls, rattan chairs, and open plan layout" width="4800" height="3200" loading="lazy">
+<p class="image-caption">Kitchen and dining in the same sightline. The open plan keeps whoever is cooking part of the conversation.</p>
 
 <h2>The indoor-outdoor connection</h2>
 
