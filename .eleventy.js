@@ -9,7 +9,7 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISODate();
   });
 
-  eleventyConfig.addPassthroughCopy({ "content/blog/images": "blog/images" });
+  eleventyConfig.addPassthroughCopy({ "content/blog/images": "images" });
 
   return {
     dir: {
