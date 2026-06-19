@@ -1,0 +1,84 @@
+---
+title: "Terra Luz Cali Room: King Bed, Built Trundle, Kahlo Blue"
+date: 2026-06-18
+metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann built from plywood and caster wheels, an IKEA cabinet-door headboard, and a Kahlo Blue workstation behind bifold doors."
+ogImage: /blog/images/terra-luz-cali-room-hero.webp
+heroImage: /blog/images/terra-luz-cali-room-hero.webp
+heroAlt: "King bed with rattan cane panel headboard and trundle pulled out in the Cali Room at Terra Luz vacation rental in Indio California"
+keywords:
+  - terra luz third bedroom
+  - terra luz cali room
+  - king bed with trundle vacation rental
+  - airbnb bedroom with trundle bed
+  - diy trundle bed king size
+  - terra luz indio bedroom
+  - kahlo blue bedroom workstation
+  - coachella vacation rental family bedroom
+articleSection: "Property Story"
+property: terra-luz
+readTime: "7 min read"
+excerpt: "The Cali Room at Terra Luz has a king bed, a trundle Eann built from plywood with caster wheels, a wall-to-wall rattan panel headboard made from IKEA cabinet doors, and a Frida Kahlo blue workstation hiding behind bifold doors."
+layout: blog-post.njk
+---
+
+<p>This was the hardest room to brief. The primary suite has a clear identity. The <a href="/blog/terra-luz-wild-tropics-bedroom/">Wild Tropics bedroom</a> is overtly bold. The third bedroom had to work for more configurations, more guest types, and more use cases without feeling like it was designed to please everyone and ended up pleasing no one. Clean but not empty. Flexible but not generic. And one pop of Frida Kahlo blue to remind you that you're still at Terra Luz.</p>
+
+<p>Dawn Asher, our brand lead at The Olive Jar, called the vibe California coastal meets desert. That's why we call it the Cali Room.</p>
+
+<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="King bed with rattan cane panel headboard and trundle pulled out, terracotta Talavera tile floor and blue striped jute rug in the Cali Room at Terra Luz" width="4800" height="3200" loading="lazy">
+<p class="image-caption">The full room. King bed with rattan panel headboard, trundle pulled out, blue striped jute rug, terracotta tile throughout.</p>
+
+<h2>The trundle problem</h2>
+
+<p>Early on I wanted a twin trundle that would slide under the king bed. It sounds simple. The issue is that standard trundle frames are built for twin-over-twin, not to fit under a king, and most king frames run 6 to 11 inches of clearance underneath. Not enough.</p>
+
+<p>I measured the clearance under our frame, confirmed it was 14 inches, and built a trundle myself from 2x2 plywood with four caster wheels underneath. The casters let it roll out smoothly and sit flush when tucked back in. It sleeps a child or a small adult comfortably, and when it's not needed it disappears completely under the bed so the room stays clean.</p>
+
+<img src="/blog/images/terra-luz-cali-room-trundle.webp" alt="Twin trundle bed pulled out from under king bed in the Cali Room at Terra Luz, with blue mudcloth curtains and terracotta tile floor" width="4800" height="3200" loading="lazy">
+<p class="image-caption">The trundle fully extended. Built from 2x2 plywood with caster wheels, fits under the king with room to spare.</p>
+
+<h2>The headboard from IKEA cabinet doors</h2>
+
+<p>We needed a headboard that felt substantial but didn't crowd a room with a lot going on at floor level. The solution was IKEA cabinet doors with rattan cane panel fronts, laid horizontally and mounted wall-to-wall above the bed. Four doors across create a continuous rattan panel that reads as a single built-in headboard from across the room. The texture is warm and natural, nothing about it telegraphs its origin, and the horizontal orientation makes the wall feel wider. Two small sconces flank the panels for reading light. The whole headboard setup came in under $300.</p>
+
+<h2>The Frida Kahlo blue workstation</h2>
+
+<p>Behind the stained louvered bifold doors is the best-kept secret in the room. Open them and you get a Kahlo Blue lime-washed wall, a floating live-edge hardwood desk, a rattan wishbone chair, and a TV mounted above. Same lime-wash technique used on the TV cove in the living room, but here the blue is more saturated, more Frida than desert sand.</p>
+
+<img src="/blog/images/terra-luz-cali-room-workstation.webp" alt="Kahlo Blue lime-washed workstation wall with floating live-edge desk, rattan wishbone chair, and handmade ceramic mug in the Cali Room at Terra Luz" width="4800" height="3200" loading="lazy">
+<p class="image-caption">The Kahlo Blue workstation. Floating live-edge desk, rattan chair, TV mounted above. The mug is a custom handmade commission from a local potter.</p>
+
+<p>The desk is 47 inches wide by 17.7 inches deep, solid hardwood on a wall bracket. Deep enough to actually work at rather than perch a laptop on the edge. The terracotta tile continues into the closet floor, threading the same material through every room in the house.</p>
+
+<h2>Rug, curtains, books, floor cushions</h2>
+
+<p>The rug is a blue striped jute, positioned under and just past the foot of the bed. Mudcloth curtains hang in the doorway, billow slightly, and make the entrance feel intentional rather than just an opening in the wall. Two kids' floor cushions sit on the rug next to the trundle for anyone who needs them, along with a small shelf of children's books: a Mariachi board book and Chicka Chicka Boom Boom.</p>
+
+<img src="/blog/images/terra-luz-cali-room-books.webp" alt="Children's board books on the trundle bed in the Cali Room at Terra Luz, including a Mariachi book and Chicka Chicka Boom Boom on a blue striped rug" width="3200" height="4800" loading="lazy" style="max-width:480px;">
+<p class="image-caption">The detail parents notice first. Books already on the trundle so nobody has to ask.</p>
+
+<img src="/blog/images/terra-luz-cali-room-closet.webp" alt="Stained natural louvered bifold closet doors and wavy wood mirror in the Cali Room at Terra Luz, with fiddle leaf fig and mudcloth curtains" width="4800" height="3200" loading="lazy">
+<p class="image-caption">The stained bifold doors open to the Kahlo Blue workstation. The wavy mirror and fiddle leaf fig sit just outside.</p>
+
+<h2>Everything in the room, what it cost</h2>
+
+<ul>
+  <li>Tile work (shared with whole house): $3,750</li>
+  <li>King mattress and bed frame: $1,500</li>
+  <li>Floating live-edge desk (WoodArtDeal, 47"x17.7", solid hardwood): $268</li>
+  <li>IKEA cabinet door headboard (4 rattan panels + hardware): ~$280</li>
+  <li>DIY trundle build (plywood, caster wheels, hardware): ~$120</li>
+  <li>Kahlo Blue lime-wash paint: $91</li>
+  <li>Rattan wishbone chair: ~$150</li>
+  <li>Blue striped jute rug: ~$90</li>
+  <li>Mudcloth curtains: ~$80</li>
+  <li>Floor cushions and kids books: ~$60</li>
+</ul>
+
+<p>The tile is the number that moves everything else. The individual room pieces stayed manageable partly because the headboard trick and the DIY trundle solved two design problems for a fraction of what custom solutions would have cost.</p>
+
+<h2>Who this room works for</h2>
+
+<p>If you're a family with one or two kids, this is the room. King sleeps two adults, trundle adds a child's bed without bringing in a separate cot, and the books and cushions are already there. If you booked Terra Luz for a work-from-desert trip, the desk actually functions as a workspace rather than just being decorative. And if you're in a group of eight and this is the room that's left, it'll be comfortable and not boring to look at.</p>
+
+<p>The house sleeps eight across three bedrooms. For everything else at Terra Luz, pool to outdoor kitchen, read <a href="/blog/terra-luz-what-i-built/">what I built</a>. Bringing a dog? Check the <a href="/blog/terra-luz-dog-friendly-coachella/">pet policy first</a>. Book direct at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
