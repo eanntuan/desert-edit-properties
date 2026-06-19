@@ -55,7 +55,7 @@ layout: blog-post.njk
 
 <p>The photos came in and I genuinely did not recognize the house.</p>
 
-<p>I've been in this property probably 30 times in the last year. I've slept there, stress-ordered furniture at midnight, argued with myself over rug sizes. And still, the first time I saw it fully shot by <a href="https://www.anchorphotographyco.com/" target="_blank" rel="noopener"><strong>Anchor Photography</strong></a>, something clicked into place that spreadsheets and walk-throughs couldn't. It actually looked like what we'd been trying to build.</p>
+<p>I've been in this property probably 30 times in the last year. I've slept there, stress-ordered furniture at midnight, argued with myself over rug sizes. And still, the first time I saw it fully shot by <a href="https://www.anchor-pictures.com/" target="_blank" rel="noopener"><strong>Anchor Photography</strong></a>, something clicked into place that spreadsheets and walk-throughs couldn't. It actually looked like what we'd been trying to build.</p>
 
 <p>Here's the full room-by-room breakdown: what we did, what we bought, what didn't make the cut, and a few things that surprised even me.</p>
 
@@ -192,4 +192,4 @@ layout: blog-post.njk
 
 <p>Yes. Head to <a href="/terra-luz/">indigopalm.co/terra-luz</a> to book directly and lock in the return guest discount on your next stay.</p>
 
-<p class="credit">Guest experience by <a href="https://theolivejar.co" target="_blank" rel="noopener">@TheOliveJar.co</a> | Photography by <a href="https://www.anchorphotographyco.com/" target="_blank" rel="noopener">Anchor Photography</a></p>
+<p class="credit">Guest experience by <a href="https://theolivejar.co" target="_blank" rel="noopener">@TheOliveJar.co</a> | Photography by <a href="https://www.anchor-pictures.com/" target="_blank" rel="noopener">Anchor Photography</a></p>

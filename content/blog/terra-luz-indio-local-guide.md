@@ -142,4 +142,4 @@ layout: blog-post.njk
 <h4>What's included with the pool and spa?</h4>
 <p>Both are complimentary. Pool heating is optional: $75/day (2-day minimum) or $400/week. The hot tub has no extra charge. Give me 24 hours' notice to get pool heat set up before your arrival.</p>
 
-<p class="credit">Photography by <a href="https://www.anchorphotographyco.com/" target="_blank" rel="noopener">Anchor Photography</a> | Interior design by <a href="https://theolivejar.co" target="_blank" rel="noopener">Dawn Asher at The Olive Jar</a></p>
+<p class="credit">Photography by <a href="https://www.anchor-pictures.com/" target="_blank" rel="noopener">Anchor Photography</a> | Interior design by <a href="https://theolivejar.co" target="_blank" rel="noopener">Dawn Asher at The Olive Jar</a></p>

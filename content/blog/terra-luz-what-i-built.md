@@ -154,4 +154,4 @@ layout: blog-post.njk
 <h4>What's the outdoor curfew?</h4>
 <p>10pm per Indio city noise ordinance. Outdoor music and entertaining must wrap at 10.</p>
 
-<p class="credit">Photography by <a href="https://www.anchorphotographyco.com/" target="_blank" rel="noopener">Anchor Photography</a> | Interior design by <a href="https://theolivejar.co" target="_blank" rel="noopener">Dawn Asher at The Olive Jar</a></p>
+<p class="credit">Photography by <a href="https://www.anchor-pictures.com/" target="_blank" rel="noopener">Anchor Photography</a> | Interior design by <a href="https://theolivejar.co" target="_blank" rel="noopener">Dawn Asher at The Olive Jar</a></p>
