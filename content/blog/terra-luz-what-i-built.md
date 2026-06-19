@@ -82,17 +82,19 @@ layout: blog-post.njk
 
 <h3>The primary bedroom</h3>
 
-<p>King bed, private ensuite bathroom, the most "resort" feeling of the three rooms. Soft textures, earthy tones, heavy curtains. Designed for the person in the group who needs to actually sleep. The ensuite has a walk-in shower with subway tile and enough counter space for two people.</p>
+<p>King bed, private ensuite bathroom, the most "resort" feeling of the three rooms. Sage green walls, natural wood bed frame, live-edge bench at the foot, and a rattan fan piece above the headboard. Heavy white linen curtains, blackout when you need them. The ensuite has a walk-in shower with enough counter space for two people.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom.webp" alt="Terra Luz primary bedroom in Indio California with king bed and earthy desert tones" width="1024" height="707" loading="lazy">
-<p class="image-caption">The primary bedroom. King bed, blackout curtains, ensuite bathroom.</p>
+<img src="/blog/images/terra-luz-primary-bedroom-main.webp" alt="Terra Luz primary bedroom in Indio California with sage green walls, king bed with natural wood frame, rattan fan wall art, live-edge bench, and Talavera tile floor" width="4362" height="3205" loading="lazy">
+<p class="image-caption">The primary bedroom. King bed, blackout curtains, private ensuite.</p>
+
+<p>Full bedroom breakdown: <a href="/blog/terra-luz-primary-bedroom/">The primary bedroom at Terra Luz</a>.</p>
 
 <h3>The Wild Tropics bedroom</h3>
 
 <p>King bed, tropical wallpaper, and a mood that reads as somewhere between a Havana hotel and a Palm Springs boutique circa 1972. This room gets the most reactions. Guests either love it or find it overwhelming, and there's no middle ground. The people who love it really love it.</p>
 
-<img src="/blog/images/terra-luz-wild-tropics-bedroom.webp" alt="Terra Luz Wild Tropics bedroom in Indio California with tropical wallpaper and king bed" width="1024" height="1536" loading="lazy">
-<p class="image-caption">The Wild Tropics room. King bed. Not for the minimalist in the group.</p>
+<img src="/blog/images/terra-luz-wild-tropics-main.webp" alt="Terra Luz Wild Tropics bedroom in Indio California with bold blue tropical wallpaper floor to ceiling, king bed with copper tufted headboard, and amber pendant lights" width="4642" height="3203" loading="lazy">
+<p class="image-caption">The Wild Tropics room. King bed, tropical wallpaper on every wall. Not for the minimalist in the group.</p>
 
 <p>Full bedroom breakdown: <a href="/blog/terra-luz-wild-tropics-bedroom/">The Wild Tropics bedroom at Terra Luz</a>.</p>
 
@@ -100,7 +102,7 @@ layout: blog-post.njk
 
 <p>King bed with a DIY trundle that pulls out from underneath, built from plywood with caster wheels to fit under a king frame with 14 inches of clearance. The headboard is four IKEA rattan cabinet doors mounted wall-to-wall — reads as a custom built-in. Behind the stained louvered bifold doors: a Frida Kahlo blue lime-washed workstation with a floating live-edge desk. The room works for couples, families with one kid, and anyone in the group who needs a place to actually get work done.</p>
 
-<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Terra Luz Cali Room with king bed, rattan panel headboard, and trundle pulled out in Indio California" width="4800" height="3200" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-main.webp" alt="Terra Luz Cali Room in Indio California with king bed and DIY trundle both extended, IKEA IVAR rattan panel headboard, amber pillows, blue shibori curtains, and Talavera tile floor" width="3431" height="4192" loading="lazy">
 <p class="image-caption">The Cali Room. King plus trundle, Kahlo Blue workstation behind the bifold doors.</p>
 
 <p>Full bedroom breakdown: <a href="/blog/terra-luz-cali-room-bedroom/">The Cali Room at Terra Luz</a>.</p>
