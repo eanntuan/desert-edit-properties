@@ -5,6 +5,7 @@ metaDescription: "How we built a wall-to-wall bamboo panel headboard from IKEA I
 ogImage: /blog/images/terra-luz-cali-room-hero.webp
 heroImage: /blog/images/terra-luz-cali-room-hero.webp
 heroAlt: "Wall-to-wall rattan cane panel headboard made from IKEA cabinet doors in the Cali Room at Terra Luz vacation rental in Indio California"
+heroPosition: "center 30%"
 keywords:
   - diy rattan headboard ikea hack
   - ikea ivar door headboard
