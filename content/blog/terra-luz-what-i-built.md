@@ -94,12 +94,16 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-wild-tropics-bedroom.webp" alt="Terra Luz Wild Tropics bedroom in Indio California with tropical wallpaper and king bed" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The Wild Tropics room. King bed. Not for the minimalist in the group.</p>
 
-<h3>The third bedroom</h3>
+<p>Full bedroom breakdown: <a href="/blog/terra-luz-wild-tropics-bedroom/">The Wild Tropics bedroom at Terra Luz</a>.</p>
 
-<p>Two queen beds, which makes it the most flexible room in the house. Works for two solo travelers, a couple, siblings, or any configuration where you need to put more than one person in a room. Wallpaper accent wall, warmer tones, the quietest of the three rooms in terms of light.</p>
+<h3>The Cali Room</h3>
 
-<img src="/blog/images/terra-luz-wallpaper-bedroom.webp" alt="Terra Luz third bedroom with two queen beds and wallpaper accent wall in Indio California" width="1024" height="1536" loading="lazy">
-<p class="image-caption">The two-queen bedroom. The configuration that works for the most group combinations.</p>
+<p>King bed with a DIY trundle that pulls out from underneath, built from plywood with caster wheels to fit under a king frame with 14 inches of clearance. The headboard is four IKEA rattan cabinet doors mounted wall-to-wall — reads as a custom built-in. Behind the stained louvered bifold doors: a Frida Kahlo blue lime-washed workstation with a floating live-edge desk. The room works for couples, families with one kid, and anyone in the group who needs a place to actually get work done.</p>
+
+<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Terra Luz Cali Room with king bed, rattan panel headboard, and trundle pulled out in Indio California" width="4800" height="3200" loading="lazy">
+<p class="image-caption">The Cali Room. King plus trundle, Kahlo Blue workstation behind the bifold doors.</p>
+
+<p>Full bedroom breakdown: <a href="/blog/terra-luz-cali-room-bedroom/">The Cali Room at Terra Luz</a>.</p>
 
 <h2>What's included that you should know about</h2>
 
@@ -137,7 +141,7 @@ layout: blog-post.njk
 <p>Yes. Both are included with every stay. The pool is the Frida Kahlo blue pool you see in the photos: in-pool loungers built into the shallow end, cleaned Monday and Thursday. The spa seats four, heats in about an hour, and is complimentary. Pool heating (during cooler months) is $75/day, two-day minimum.</p>
 
 <h4>How many guests does Terra Luz sleep?</h4>
-<p>Eight guests: three bedrooms (one king primary, one king Wild Tropics, one two-queen), two bathrooms. Four parking spaces in the driveway.</p>
+<p>Eight guests: three bedrooms (one king primary, one king Wild Tropics, one Cali Room with king plus trundle), two bathrooms. Four parking spaces in the driveway.</p>
 
 <h4>Is Terra Luz dog-friendly?</h4>
 <p>Yes, up to two dogs with a $100 pet fee. Email indigopalmco@gmail.com to confirm before booking. The property has a grassy side yard for dog walks without leaving the property.</p>
