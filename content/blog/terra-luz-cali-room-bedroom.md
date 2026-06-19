@@ -66,7 +66,7 @@ layout: blog-post.njk
   <li>Tile work (shared with whole house): $3,750</li>
   <li>King mattress and bed frame: $1,500</li>
   <li>Floating live-edge desk (WoodArtDeal, 47"x17.7", solid hardwood): $268</li>
-  <li>IKEA cabinet door headboard (4 rattan panels + hardware): ~$280</li>
+  <li>IKEA IVAR door headboard (4 bamboo panels + hardware): ~$130</li>
   <li>DIY trundle build (plywood, caster wheels, hardware): ~$120</li>
   <li>Kahlo Blue lime-wash paint: $91</li>
   <li>Rattan wishbone chair: ~$150</li>

@@ -1,15 +1,15 @@
 ---
-title: "DIY Rattan Headboard for Under $300: The IKEA Cabinet Door Hack"
+title: "DIY Rattan Headboard for Under $200: The IKEA IVAR Door Hack"
 date: 2026-06-18
-metaDescription: "How we built a wall-to-wall rattan cane headboard from IKEA cabinet doors for under $300. Full step-by-step, cost breakdown, and what we'd do differently."
+metaDescription: "How we built a wall-to-wall bamboo panel headboard from IKEA IVAR doors for under $200. Full step-by-step, cost breakdown, and what we'd do differently."
 ogImage: /blog/images/terra-luz-cali-room-hero.webp
 heroImage: /blog/images/terra-luz-cali-room-hero.webp
 heroAlt: "Wall-to-wall rattan cane panel headboard made from IKEA cabinet doors in the Cali Room at Terra Luz vacation rental in Indio California"
 keywords:
   - diy rattan headboard ikea hack
-  - ikea cabinet door headboard
+  - ikea ivar door headboard
   - cheap rattan headboard diy
-  - cane panel headboard under 300
+  - cane panel headboard under 200
   - vacation rental bedroom diy
   - rattan headboard king bed
   - terra luz cali room
@@ -17,27 +17,27 @@ keywords:
 articleSection: "DIY + Build"
 property: terra-luz
 readTime: "6 min read"
-excerpt: "We needed a headboard that felt substantial and warm without crowding the room. The solution was four IKEA cabinet doors with rattan cane fronts, mounted horizontally wall-to-wall. Total cost: under $300."
+excerpt: "We needed a headboard that felt substantial and warm without crowding the room. The solution was four IKEA IVAR doors with bamboo panel fronts, mounted horizontally wall-to-wall. Total cost: under $200."
 layout: blog-post.njk
 ---
 
 <p>A king bed needs a headboard. That's not a design opinion, it's a visual fact: without one, a king sits in the middle of the room and floats. But most headboards built for a king are either expensive, boring, or both. What we needed for the Cali Room at <a href="/terra-luz/">Terra Luz</a> was something with real texture, something warm, something that read as intentional from the doorway and didn't cost $800.</p>
 
-<p>Four IKEA cabinet doors, a couple of hours, and under $300. That's the whole story.</p>
+<p>Four <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a>, a couple of hours, and under $200. That's the whole story.</p>
 
 <img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Wavy wood mirror reflecting the Cali Room at Terra Luz with wall-to-wall rattan cane panel headboard, amber pillows, and Latin art print above the bed" width="3200" height="4800" loading="lazy">
 <p class="image-caption">The finished headboard reflected in the wavy mirror. Four panels, wall to wall, reads as one continuous piece from across the room.</p>
 
 <h2>Why IKEA cabinet doors</h2>
 
-<p>The inspiration came from a hack I'd seen floating around where people use IKEA IVAR shelving panels to build budget headboards. The logic is simple: IKEA makes flat panels in consistent dimensions, some of them come with rattan cane fronts already built in, and four of them lined up horizontally above a king bed cover almost exactly the right width. You're not building a rattan panel. You're buying one in four pieces and hanging it on the wall.</p>
+<p>The inspiration came from a hack I'd seen floating around where people use IKEA IVAR doors to build budget headboards. The logic is simple: IKEA makes flat panels in consistent dimensions, the <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IVAR door</a> has a bamboo woven panel already set into a solid pine frame, and four of them lined up horizontally above a king bed cover almost exactly the right width. You're not building a panel. You're buying one in four pieces and hanging it on the wall.</p>
 
-<p>The specific doors I used have a solid wood frame with a rattan cane webbing insert. The rattan is pre-tensioned and uniform, which is important: if you try to DIY rattan webbing into your own frame, the tension goes uneven and it sags over time. These stay flat because IKEA has already done the hard part.</p>
+<p>The bamboo insert is pre-tensioned and uniform, which is the important part. DIY-weaving your own cane into a frame sounds doable until the tension goes uneven and it sags. These stay flat because IKEA has already done the hard part. The natural blonde color and woven texture reads exactly like rattan cane from across a room. Nobody's ever looked at the headboard and thought "that's bamboo."</p>
 
 <h2>What you need</h2>
 
 <ul>
-  <li>4x IKEA cabinet doors with rattan/cane panel fronts (same model, same finish)</li>
+  <li>4x <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a> with bamboo woven panel (sold in 2-packs, same finish — you need 2 packs)</li>
   <li>French cleat or Z-clip mounting hardware (one per door, or two per door for extra security)</li>
   <li>Level</li>
   <li>Drill + appropriate wall anchors for your wall type (drywall vs. stucco matters here)</li>
@@ -45,9 +45,10 @@ layout: blog-post.njk
   <li>Optional: thin strip of wood along the top edge to cap the installation cleanly</li>
 </ul>
 
-<p>Total spend depends on which IKEA doors you choose. The ones with rattan inserts run $40-$80 each depending on the size, which puts four doors at $160-$320 before hardware. Ours landed under $280 including hardware and a small wood strip for the top cap.</p>
+<p>The IVAR doors are $45 per 2-pack, so all four come in at $90. Hardware on top of that and you're still well under $200.</p>
 
-<!-- BTS PHOTO: Add a photo of the IKEA doors before installation — still in packaging or laid out on the floor. Look in Behind the Scenes folder. -->
+<img src="/blog/images/terra-luz-cali-room-before-empty.webp" alt="Cali Room at Terra Luz before the headboard was installed — bare white walls, terracotta Talavera tile floor, brass sconces, and sun wall art in Indio California" width="4032" height="3024" loading="lazy">
+<p class="image-caption">The room before anything was installed. Tiles in, sconces wired, sun art on the wall. No bed, no headboard, no furniture yet.</p>
 
 <h2>The process, step by step</h2>
 
@@ -57,7 +58,8 @@ layout: blog-post.njk
 
 <p>Also tape the height. Too low and it reads like a floating shelf. Too high and it disconnects from the bed. Ours sits 3 inches above the mattress at the bottom edge, which keeps it clearly a headboard rather than wall art.</p>
 
-<!-- BTS PHOTO: Add a photo of the tape mockup on the wall or measuring process. -->
+<img src="/blog/images/terra-luz-cali-room-before-mattress.webp" alt="King mattress delivered to the Cali Room at Terra Luz during renovation — Helix mattress on the floor with blue striped jute rug, no headboard yet, brass sconces and sun wall art on white wall" width="4032" height="3024" loading="lazy">
+<p class="image-caption">Mattress day. The blue striped jute rug was already laid out, sconces were up. The headboard came later.</p>
 
 <h3>2. Mark your stud locations</h3>
 
@@ -66,8 +68,6 @@ layout: blog-post.njk
 <h3>3. Install the mounting hardware at consistent height</h3>
 
 <p>French cleats are the right call here. They let each panel hang independently, which means you can adjust one without disturbing the others, and they keep the panels flush against the wall with no tipping. Cut one cleat per panel, or use Z-clips if you want something thinner. Install all four at the exact same height using a level, not eyeballing.</p>
-
-<!-- BTS PHOTO: Add a photo of the French cleats or hardware going into the wall. -->
 
 <h3>4. Hang the panels</h3>
 
@@ -88,8 +88,6 @@ layout: blog-post.njk
 
 <p>The art print above it is mounted on the wall above the top panel edge, which means the headboard acts as a visual base for the art rather than competing with it. The whole wall composition — art, rattan, sconces, bed — came together as a unit because of that relationship.</p>
 
-<!-- BTS PHOTO: Add a before photo of the room without the headboard installed if you have one. -->
-
 <h2>What I'd do differently</h2>
 
 <p>One thing: I'd add a thin horizontal wood ledge along the very top edge of the panels to cap the installation. Right now the top edge of each panel is visible if you look closely, and even though the frames are consistent, a clean cap strip would make it look more like a single built-in unit and less like four separate things. Cost would be another $20-30 in lumber and stain. We'll do it on the next version.</p>
@@ -99,14 +97,14 @@ layout: blog-post.njk
 <h2>Full cost breakdown</h2>
 
 <ul>
-  <li>4x IKEA cabinet doors with rattan cane panels: ~$240</li>
+  <li>4x <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a> with bamboo panel (2 packs at $45 each): $90</li>
   <li>French cleat hardware (4 sets): ~$24</li>
   <li>Wall anchors and screws: ~$8</li>
-  <li>Paint touch-up and misc: ~$8</li>
-  <li><strong>Total: ~$280</strong></li>
+  <li>Misc (paint touch-up, pilot bit): ~$8</li>
+  <li><strong>Total: ~$130</strong></li>
 </ul>
 
-<p>A comparable rattan headboard from a furniture retailer runs $400-$900 for a king. The IKEA version looks identical in photos and better in person because the wood frame is real wood rather than the MDF that most retail headboards use at that price point.</p>
+<p>A comparable rattan-look headboard from a furniture retailer runs $400-$900 for a king. The IVAR version looks identical in photos and better in person because the pine frame is real solid wood rather than the MDF that most retail headboards use at that price point.</p>
 
 <h2>Where this lives at Terra Luz</h2>
 
