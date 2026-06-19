@@ -22,8 +22,8 @@ layout: blog-post.njk
 
 <p>That's harder than it sounds. A room that size can easily go hollow — too much floor, not enough warmth, everything floating rather than anchored. Too much bold and you've built a headache instead of a retreat. We had a clear vision and still went through five rounds of tile samples and more green paint swatches than I want to admit before we got there.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom-hero.webp" alt="Primary bedroom at Terra Luz with sage green walls, industrial sconce, arched natural wood cabinet, and olive tree in corner, Indio California" width="3200" height="4800" loading="lazy">
-<p class="image-caption">The primary bedroom. Sage green walls, industrial sconce, arched credenza with coffee station, olive tree in the corner.</p>
+<img src="/blog/images/terra-luz-primary-bedroom-hero.webp" alt="Terra Luz primary bedroom in Indio California with sage green walls, king bed, rattan headboard, Talavera tile floor, live-edge bench, and ceiling fan" width="4362" height="3205" loading="lazy">
+<p class="image-caption">The primary bedroom. Sage green walls, king bed, live-edge bench at the foot, Talavera tile floor. The ensuite opens through the archway on the left.</p>
 
 <h2>The casita concept</h2>
 
