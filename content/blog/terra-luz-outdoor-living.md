@@ -1,6 +1,6 @@
 ---
 title: "How We Imagined the Outdoor Space at Terra Luz"
-date: 2026-06-18
+date: 2026-06-03
 metaDescription: "The thinking behind the Terra Luz outdoor space: a Frida Kahlo blue pool, an Orange Flambé color drench, a wood slat fence that turned a yard into a room, and a patio built for staying outside all day."
 ogImage: /blog/images/terra-luz-outdoor-wide.webp
 heroImage: /blog/images/terra-luz-outdoor-wide.webp

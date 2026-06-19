@@ -1,6 +1,6 @@
 ---
 title: "A Guest's Guide to Indio: What to Do Near Terra Luz"
-date: 2026-06-18
+date: 2026-05-29
 metaDescription: "Your local guide to Indio, CA from the host at Terra Luz. Where to eat, what to do, and how to make the most of the Coachella Valley from your home base in Indian Palms."
 ogImage: /blog/images/terra-luz-exterior.webp
 heroImage: /blog/images/terra-luz-exterior.webp

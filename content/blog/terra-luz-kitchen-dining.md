@@ -1,6 +1,6 @@
 ---
 title: "How We Designed the Terra Luz Kitchen and Dining Room"
-date: 2026-06-18
+date: 2026-06-05
 metaDescription: "Inside the Terra Luz kitchen and dining room: the Old Havana shelf vignette, terracotta accent wall, table setting details, and how the whole space flows into the pool patio."
 ogImage: /blog/images/terra-luz-kitchen-hero.webp
 heroImage: /blog/images/terra-luz-kitchen-hero.webp

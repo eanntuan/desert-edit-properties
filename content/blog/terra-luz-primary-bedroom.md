@@ -1,6 +1,6 @@
 ---
 title: "The Terra Luz Primary Bedroom: Tile Testing, Green Swatches, and Building a Casita Feel"
-date: 2026-06-18
+date: 2026-06-07
 metaDescription: "How we designed the Terra Luz primary bedroom: five rounds of tile samples, green color testing in different desert light, and building a room big enough to feel like its own casita."
 ogImage: /blog/images/terra-luz-primary-bedroom-hero.webp
 heroImage: /blog/images/terra-luz-primary-bedroom-hero.webp

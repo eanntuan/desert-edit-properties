@@ -1,7 +1,7 @@
 ---
 title: "Where to Stay for Modernism Week Palm Springs 2027"
 date: 2026-04-12
-dateModified: 2026-05-17
+dateModified: 2026-06-18
 metaDescription: "Modernism Week Palm Springs runs every February with home tours, bus tours, and parties. How to get tickets, what sells out first, and where to stay."
 ogImage: /blog/images/ps-blue-door-cacti.webp
 heroImage: /blog/images/ps-blue-door-cacti.webp

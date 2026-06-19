@@ -1,6 +1,6 @@
 ---
 title: "Dog-Friendly Vacation Rental in Indio: Terra Luz"
-date: 2026-06-18
+date: 2026-06-01
 metaDescription: "Terra Luz is a dog-friendly vacation rental in Indio, CA near Coachella. Fenced yard, pool, outdoor kitchen, up to 2 dogs. Honest details from the host."
 ogImage: /blog/images/terra-luz-pool-backyard.webp
 heroImage: /blog/images/terra-luz-pool-backyard.webp

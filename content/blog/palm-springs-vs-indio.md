@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs vs. Indio (2027): Cost, Vibe, and Who Wins"
 date: 2026-02-05
-dateModified: 2026-05-29
+dateModified: 2026-06-18
 metaDescription: "Indio is 25 miles from Palm Springs, about 30-40 minutes on I-10. Closer to the Coachella stage, 30-40% cheaper per night, and more space per dollar."
 ogImage: /blog/images/blog-hero-palm-springs.webp
 heroImage: /blog/images/blog-hero-palm-springs.webp

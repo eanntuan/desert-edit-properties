@@ -1,6 +1,6 @@
 ---
 title: "Terra Luz Cali Room: King Bed, Built Trundle, Kahlo Blue"
-date: 2026-06-18
+date: 2026-06-11
 metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann built from plywood and caster wheels, an IKEA cabinet-door headboard, and a Kahlo Blue workstation behind bifold doors."
 ogImage: /blog/images/terra-luz-cali-room-wide.webp
 heroImage: /blog/images/terra-luz-cali-room-wide.webp

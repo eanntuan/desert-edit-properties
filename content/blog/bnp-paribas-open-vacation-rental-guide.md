@@ -1,6 +1,6 @@
 ---
 title: "BNP Paribas Open Vacation Rental Guide for 2027"
-date: 2026-06-18
+date: 2026-05-27
 dateModified: 2026-06-18
 metaDescription: "Finding a vacation rental for the BNP Paribas Open instead of an Indian Wells hotel. Indio as a quiet base 20 min from the venue, with private pools and kitchens."
 ogImage: /blog/images/indian-wells-tennis-garden-aerial.webp

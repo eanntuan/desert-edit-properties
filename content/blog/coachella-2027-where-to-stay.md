@@ -1,6 +1,6 @@
 ---
 title: "Coachella 2027: Where to Stay in the Valley"
-date: 2026-06-18
+date: 2026-06-16
 dateModified: 2026-06-18
 metaDescription: "Private home vs hotel for Coachella 2027. Why Indio wins, walking distance to Empire Polo Club, pool recovery between sets, and what to book first."
 ogImage: /blog/images/festival-coachella-aerial.webp

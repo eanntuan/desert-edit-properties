@@ -1,6 +1,6 @@
 ---
 title: "Terra Luz Wild Tropics Bedroom: Inside the Design"
-date: 2026-06-18
+date: 2026-06-09
 metaDescription: "Inside the Wild Tropics bedroom at Terra Luz: floor-to-ceiling Rebel Wall botanical wallpaper, a custom terracotta tile headboard, striped curtains framing a velvet seating nook, and how each piece was chosen."
 ogImage: /blog/images/terra-luz-wild-tropics-hero.webp
 heroImage: /blog/images/terra-luz-wild-tropics-hero.webp
