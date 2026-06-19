@@ -5,7 +5,7 @@ metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann 
 ogImage: /blog/images/terra-luz-cali-room-hero.webp
 heroImage: /blog/images/terra-luz-cali-room-hero.webp
 heroAlt: "Wavy wood mirror reflecting the Cali Room at Terra Luz — rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print in Indio California"
-heroPosition: "center 90%"
+heroPosition: "center 70%"
 keywords:
   - terra luz third bedroom
   - terra luz cali room
