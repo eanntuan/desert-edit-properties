@@ -5,7 +5,7 @@ metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann 
 ogImage: /blog/images/terra-luz-cali-room-hero.webp
 heroImage: /blog/images/terra-luz-cali-room-hero.webp
 heroAlt: "Wavy wood mirror reflecting the Cali Room at Terra Luz — rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print in Indio California"
-heroPosition: "center 10%"
+heroPosition: "center 90%"
 keywords:
   - terra luz third bedroom
   - terra luz cali room
@@ -22,9 +22,9 @@ excerpt: "The Cali Room at Terra Luz has a king bed, a trundle Eann built from p
 layout: blog-post.njk
 ---
 
-<p>This was the hardest room to brief. The primary suite has a clear identity. The <a href="/blog/terra-luz-wild-tropics-bedroom/">Wild Tropics bedroom</a> is overtly bold. The third bedroom had to work for more configurations, more guest types, and more use cases without feeling like it was designed to please everyone and ended up pleasing no one. Clean but not empty. Flexible but not generic. And one pop of Frida Kahlo blue to remind you that you're still at Terra Luz.</p>
+<p>This was the hardest room to brief. The <a href="/blog/terra-luz-primary-bedroom/">primary suite</a> has a clear identity. The <a href="/blog/terra-luz-wild-tropics-bedroom/">Wild Tropics bedroom</a> is overtly bold. The third bedroom had to work for more configurations, more guest types, and more use cases without feeling like it was designed to please everyone and ended up pleasing no one. Clean but not empty. Flexible but not generic. And one pop of Frida Kahlo blue to remind you that you're still at Terra Luz.</p>
 
-<p>Dawn Asher, our brand lead at The Olive Jar, called the vibe California coastal meets desert. That's why we call it the Cali Room.</p>
+<p>Dawn Asher, our brand lead at <a href="https://www.instagram.com/theolivejar.co/">The Olive Jar</a>, called the vibe California coastal meets desert. That's why we call it the Cali Room.</p>
 
 <img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Wavy wood mirror reflecting the Cali Room at Terra Luz — rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print above the bed in Indio California" width="3200" height="4800" loading="lazy">
 <p class="image-caption">The room reflected. Wavy wood mirror, rattan cane panel headboard made from IKEA cabinet doors, amber pillows, the HOMETOWN lumbar, and the figurative print that anchors the whole wall.</p>
