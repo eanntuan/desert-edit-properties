@@ -4,7 +4,7 @@ date: 2026-06-18
 metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann built from plywood and caster wheels, an IKEA cabinet-door headboard, and a Kahlo Blue workstation behind bifold doors."
 ogImage: /blog/images/terra-luz-cali-room-hero.webp
 heroImage: /blog/images/terra-luz-cali-room-hero.webp
-heroAlt: "Cali Room at Terra Luz with king bed, wall-to-wall rattan cane panel headboard, Talavera tile floor, blue shibori curtains, and fiddle leaf fig in Indio California"
+heroAlt: "Wavy wood mirror reflecting the Cali Room at Terra Luz — rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print in Indio California"
 keywords:
   - terra luz third bedroom
   - terra luz cali room
@@ -25,8 +25,8 @@ layout: blog-post.njk
 
 <p>Dawn Asher, our brand lead at The Olive Jar, called the vibe California coastal meets desert. That's why we call it the Cali Room.</p>
 
-<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Cali Room at Terra Luz with king bed, wall-to-wall rattan cane panel headboard, Talavera tile floor, blue shibori curtains, and fiddle leaf fig in Indio California" width="4801" height="3202" loading="lazy">
-<p class="image-caption">The full room. King bed, wall-to-wall rattan headboard, Talavera tile throughout, shibori curtains, fiddle leaf fig in the corner.</p>
+<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Wavy wood mirror reflecting the Cali Room at Terra Luz — rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print above the bed in Indio California" width="3200" height="4800" loading="lazy">
+<p class="image-caption">The room reflected. Wavy wood mirror, rattan cane panel headboard made from IKEA cabinet doors, amber pillows, the HOMETOWN lumbar, and the figurative print that anchors the whole wall.</p>
 
 <h2>The trundle problem</h2>
 
