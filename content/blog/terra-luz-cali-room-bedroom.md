@@ -2,10 +2,10 @@
 title: "Terra Luz Cali Room: King Bed, Built Trundle, Kahlo Blue"
 date: 2026-06-18
 metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann built from plywood and caster wheels, an IKEA cabinet-door headboard, and a Kahlo Blue workstation behind bifold doors."
-ogImage: /blog/images/terra-luz-cali-room-hero.webp
-heroImage: /blog/images/terra-luz-cali-room-hero.webp
-heroAlt: "Wavy wood mirror reflecting the Cali Room at Terra Luz — rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print in Indio California"
-heroPosition: "center 70%"
+ogImage: /blog/images/terra-luz-cali-room-wide.webp
+heroImage: /blog/images/terra-luz-cali-room-wide.webp
+heroAlt: "Cali Room at Terra Luz in Indio California — king bed with IKEA IVAR rattan panel headboard, amber pillows, blue shibori curtains, fiddle leaf fig in blue pot, and Talavera tile floor"
+heroPosition: "center 40%"
 keywords:
   - terra luz third bedroom
   - terra luz cali room
@@ -38,9 +38,12 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-cali-room-trundle.webp" alt="King bed and DIY pull-out trundle both extended in the Cali Room at Terra Luz, terracotta Talavera tile floor, rattan panel headboard, and blue shibori curtains in Indio California" width="3431" height="4192" loading="lazy">
 <p class="image-caption">Both beds out. King for adults, trundle for a kid or a solo guest. When the trundle is tucked back under, the room looks like a standard king.</p>
 
-<h2>The headboard from IKEA cabinet doors</h2>
+<h2>The headboard from IKEA IVAR doors</h2>
 
-<p>We needed a headboard that felt substantial but didn't crowd a room with a lot going on at floor level. The solution was IKEA cabinet doors with rattan cane panel fronts, laid horizontally and mounted wall-to-wall above the bed. Four doors across create a continuous rattan panel that reads as a single built-in headboard from across the room. The texture is warm and natural, nothing about it telegraphs its origin, and the horizontal orientation makes the wall feel wider. Two small sconces flank the panels for reading light. The whole headboard setup came in under $300.</p>
+<p>We needed a headboard that felt substantial but didn't crowd a room with a lot going on at floor level. The solution was four <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a> with bamboo woven panel fronts, laid horizontally and mounted wall-to-wall above the bed. Four doors across create a continuous panel that reads as a single built-in headboard from across the room. The texture is warm and natural, nothing about it telegraphs its origin, and the horizontal orientation makes the wall feel wider. Two small sconces flank the panels for reading light. Total cost under $200 — full breakdown in the <a href="/blog/terra-luz-diy-rattan-headboard/">DIY headboard post</a>.</p>
+
+<img src="/blog/images/terra-luz-cali-room-headboard.webp" alt="IKEA IVAR bamboo panel headboard close-up in the Cali Room at Terra Luz, with brass sconce, white rattan nightstand, and Talavera tile floor in Indio California" width="3200" height="4800" loading="lazy">
+<p class="image-caption">The headboard close up. Four IVAR doors, solid pine frames, bamboo panel. The sconce sits just outside the panel edge.</p>
 
 <h2>The Frida Kahlo blue workstation</h2>
 
@@ -60,6 +63,9 @@ layout: blog-post.njk
 
 <img src="/blog/images/terra-luz-cali-room-closet.webp" alt="Stained natural louvered bifold closet doors and wavy wood mirror in the Cali Room at Terra Luz, with fiddle leaf fig and mudcloth curtains" width="4800" height="3200" loading="lazy">
 <p class="image-caption">The stained bifold doors open to the Kahlo Blue workstation. The wavy mirror and fiddle leaf fig sit just outside.</p>
+
+<img src="/blog/images/terra-luz-cali-room-armoire.webp" alt="Natural wood ribbed armoire with arched doors and brass handles in the Cali Room at Terra Luz, with Talavera tile floor in Indio California" width="3200" height="4800" loading="lazy">
+<p class="image-caption">The armoire. Ribbed natural wood, arched doors, brass pulls. Enough storage that guests aren't living out of a suitcase.</p>
 
 <h2>Everything in the room, what it cost</h2>
 
