@@ -4,7 +4,7 @@ date: 2026-06-18
 metaDescription: "The thinking behind the Terra Luz outdoor space: a Frida Kahlo blue pool, an Orange Flambé color drench, a wood slat fence that turned a yard into a room, and a patio built for staying outside all day."
 ogImage: /blog/images/terra-luz-outdoor-wide.webp
 heroImage: /blog/images/terra-luz-outdoor-wide.webp
-heroAlt: "Terra Luz backyard in Indio California with Frida Kahlo blue pool, blue and white striped umbrella, outdoor sectional, and pergola with string lights"
+heroAlt: "Frida Kahlo blue pool at Terra Luz in Indio California with two ring floats on the water and a terracotta deck surrounding it"
 keywords:
   - terra luz outdoor space
   - terra luz pool patio design
@@ -26,8 +26,8 @@ layout: blog-post.njk
 
 <p>Dawn Asher at The Olive Jar asked early on: what do you want people to do here? The answer was clear. We wanted guests who never felt like they had to go anywhere. Wake up, coffee, pool. Cook outside, eat outside, stay outside until the 10pm curfew pushes everyone back in. The design brief for every decision was: does this make it easier to spend the whole day outdoors?</p>
 
-<img src="/blog/images/terra-luz-outdoor-wide.webp" alt="Terra Luz backyard with Frida Kahlo blue pool, in-pool loungers, striped umbrella, outdoor sectional and grill, pergola with string lights in Indio California" width="3200" height="4800" loading="lazy">
-<p class="image-caption">The full backyard. Pool, pergola, patio, grill. Everything you need to not leave until 10pm.</p>
+<img src="/blog/images/terra-luz-outdoor-wide.webp" alt="Frida Kahlo blue pool at Terra Luz in Indio California with two ring floats on the water and a terracotta deck surrounding it" width="4800" height="3200" loading="lazy">
+<p class="image-caption">The pool. Frida Kahlo blue, terracotta deck, ring floats ready. The lounge chairs built into the shallow end are just out of frame to the left.</p>
 
 <h2>The pool color was not a negotiation</h2>
 
@@ -45,21 +45,9 @@ layout: blog-post.njk
 
 <p>That color ended up being Orange Flambé, but we didn't land there quickly. We tested five or six swatches directly on the wall and on painted boards at the pool edge, which was the only way to see what we were actually getting. Paint chips lie. A swatch on paper looks like one color in the store and something completely different against concrete block and terracotta tile in 100-degree afternoon sun.</p>
 
-<img src="/blog/images/terra-luz-paint-testing-pool.webp" alt="Behind the scenes at Terra Luz — testing paint swatches on the pool deck and block wall to find the right exterior color in Indio California" width="1080" height="1440" loading="lazy">
-<p class="image-caption">The testing process. Boards on the pool deck, swatches on the wall. You check morning light, midday, and twilight before committing.</p>
-
 <p>We checked the swatches in three different light conditions: early morning when the sun is coming over the east roof, midday when everything bleaches out, and twilight when the desert light goes golden and shifts every color warmer. Most colors that look rich at noon go muddy at twilight or washed out in morning. Orange Flambé held across all three, which is why it won.</p>
 
-<img src="/blog/images/terra-luz-paint-swatches-wall.webp" alt="Paint color swatches tested on the stucco exterior wall at Terra Luz — four options ranging from nude to terracotta to sage — in Indio California" width="1024" height="768" loading="lazy">
-<p class="image-caption">Four of the finalists on the stucco wall. The sage (far right) was eliminated fast. The terracotta third from left was closest before we landed on Flambé.</p>
-
 <p>The before-and-after was total. The natural block wall reads like a generic masonry fence, fine but invisible. The Flambé wall reads like something from the courtyard of a Havana guesthouse. The bougainvillea that climbs the far corner pops against it in a way it never did against the original color. The wood slat fence makes more sense next to it. Everything got more coherent as soon as the wall changed.</p>
-
-<img src="/blog/images/terra-luz-wall-before.webp" alt="Terra Luz backyard block wall before painting — natural concrete block color, wood slat fence on the left, Frida Kahlo blue pool tile visible in Indio California" width="1080" height="1440" loading="lazy">
-<p class="image-caption">Before. The wall was fine. The pool tile was doing all the work.</p>
-
-<img src="/blog/images/terra-luz-wall-after.webp" alt="Terra Luz backyard block wall after painting with Orange Flambé — warm terracotta color at golden hour with Frida Kahlo blue pool and colorful pool floats in Indio California" width="1080" height="810" loading="lazy">
-<p class="image-caption">After, at twilight. This is the light that sold it.</p>
 
 <h2>The wood slat fence was the move that changed everything</h2>
 
