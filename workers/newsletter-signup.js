@@ -60,7 +60,7 @@ const EMAIL_TEMPLATE = `<!DOCTYPE html>
                     <td width="2%"></td>
                     <td width="49%" style="padding-left: 6px; vertical-align: top;">
                         <a href="https://indigopalm.co/terra-luz/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome&utm_content=grid-terra-luz" style="text-decoration: none; display: block;">
-                            <img src="https://indigopalm.co/email-images/casa-moto.jpg" alt="Terra Luz" width="100%" style="display: block; width: 100%; height: 140px; object-fit: cover; border-radius: 3px;" />
+                            <img src="https://indigopalm.co/email-images/terra-luz.jpg" alt="Terra Luz" width="100%" style="display: block; width: 100%; height: 140px; object-fit: cover; border-radius: 3px;" />
                             <p style="margin: 8px 0 2px; font-family: Georgia, serif; font-size: 14px; color: #2C2C2C;">Terra Luz</p>
                             <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: #999;">3 bed &middot; Indio</p>
                         </a>
@@ -70,7 +70,7 @@ const EMAIL_TEMPLATE = `<!DOCTYPE html>
                 <tr>
                     <td width="49%" style="padding-right: 6px; vertical-align: top;">
                         <a href="https://indigopalm.co/the-sundune/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome&utm_content=grid-sundune" style="text-decoration: none; display: block;">
-                            <img src="https://indigopalm.co/email-images/ps-retreat.jpg" alt="The Sundune" width="100%" style="display: block; width: 100%; height: 140px; object-fit: cover; border-radius: 3px;" />
+                            <img src="https://indigopalm.co/email-images/sundune.jpg" alt="The Sundune" width="100%" style="display: block; width: 100%; height: 140px; object-fit: cover; border-radius: 3px;" />
                             <p style="margin: 8px 0 2px; font-family: Georgia, serif; font-size: 14px; color: #2C2C2C;">The Sundune</p>
                             <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: #999;">2 bed &middot; Palm Springs</p>
                         </a>
@@ -193,6 +193,7 @@ const EMAIL_TEMPLATE = `<!DOCTYPE html>
     <!-- Sign off -->
     <tr>
         <td style="padding: 32px 36px 36px;">
+            <img src="https://indigopalm.co/images/eann-portrait.webp" alt="Eann Tuan, host and founder of Indigo Palm Collective" width="72" height="72" style="width: 72px; height: 72px; border-radius: 50%; object-fit: cover; object-position: center 12%; display: block; margin-bottom: 14px;">
             <p style="margin: 0 0 4px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #555;">See you in the desert.</p>
             <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; color: #2C2C2C;">Eann</p>
         </td>
@@ -305,7 +306,7 @@ async function saveToGoogleSheets(email, env) {
 async function sendOwnerNotification(email, env) {
   const RESEND_API_KEY = env.RESEND_API_KEY;
 
-  await fetch('https://api.resend.com/emails', {
+  const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
       'Authorization': `Bearer ${RESEND_API_KEY}`,
@@ -318,25 +319,31 @@ async function sendOwnerNotification(email, env) {
       html: `<p>New newsletter subscriber: <strong>${email}</strong></p><p>Signed up at ${new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles' })} PT</p>`,
     }),
   });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`Resend owner notification failed ${res.status}: ${body}`);
+  }
 }
 
 // Send welcome email via Resend
 async function sendWelcomeEmail(email, env) {
   const RESEND_API_KEY = env.RESEND_API_KEY;
 
-  const emailContent = {
-    from: 'Indigo Palm Collective <hello@indigopalm.co>',
-    to: [email],
-    subject: "You're in. Here's where to start.",
-    html: EMAIL_TEMPLATE,
-  };
-
-  await fetch('https://api.resend.com/emails', {
+  const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
       'Authorization': `Bearer ${RESEND_API_KEY}`,
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify(emailContent),
+    body: JSON.stringify({
+      from: 'Indigo Palm Collective <hello@indigopalm.co>',
+      to: [email],
+      subject: "You're in. Here's where to start.",
+      html: EMAIL_TEMPLATE,
+    }),
   });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`Resend welcome email failed ${res.status}: ${body}`);
+  }
 }

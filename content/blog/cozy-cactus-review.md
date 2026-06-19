@@ -115,7 +115,7 @@ relatedPosts:
       "name": "Is The Cozy Cactus pet-friendly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a $100 pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets."
+        "text": "No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a $150 pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets."
       }
     },
     {
@@ -152,7 +152,7 @@ relatedPosts:
 <p>The hot tub is private and on the property. The pool is community access through Indian Palms Country Club, steps from the back gate. If a private swimming pool is the priority, <a href="/terra-luz/">Terra Luz</a> is 15 minutes away and has a private saltwater pool heated year-round.</p>
 
 <h3>Is The Cozy Cactus pet-friendly?</h3>
-<p>No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a $100 pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets.</p>
+<p>No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a $150 pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets.</p>
 
 <h3>What is the minimum stay at The Cozy Cactus?</h3>
 <p>Minimum stays vary by season. During Coachella and Stagecoach festival weekends, the minimum is typically four nights. Off-peak periods often allow two or three-night stays. Current minimums are always visible when you search your specific dates.</p>

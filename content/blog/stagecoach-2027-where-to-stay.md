@@ -88,7 +88,7 @@ relatedPosts:
 
 <p>Best for: groups who want the private pool as the centerpiece of the festival weekend. Terra Luz launches in May 2026, so Stagecoach 2027 is its first full festival season.</p>
 
-<p>Dogs welcome (2 max, $100 pet fee).</p>
+<p>Dogs welcome (2 max, $150 pet fee).</p>
 
 <img src="/blog/images/cozy-cactus-hot-tub.webp" alt="Private hot tub at night at The Cozy Cactus vacation rental in Indio California near Stagecoach festival grounds" width="1400" height="933" loading="lazy">
 <p class="image-caption">The private hot tub at The Cozy Cactus. Late April nights drop to the 50s. This is where Stagecoach weekends wind down.</p>

@@ -531,6 +531,25 @@ export default {
       return handleHostawayWebhook(request, env);
     }
 
+    // QuickBooks OAuth callback — display params for manual token exchange
+    if (path === '/qb-callback' && request.method === 'GET') {
+      const code = url.searchParams.get('code') || '';
+      const realmId = url.searchParams.get('realmId') || '';
+      const state = url.searchParams.get('state') || '';
+      const error = url.searchParams.get('error') || '';
+      const errorDesc = url.searchParams.get('error_description') || '';
+      if (error) {
+        return new Response(
+          `QuickBooks OAuth Error\n\nerror: ${error}\ndescription: ${errorDesc}`,
+          { headers: { 'Content-Type': 'text/plain' } }
+        );
+      }
+      return new Response(
+        `QuickBooks OAuth Callback\n\ncode=${code}\nrealmId=${realmId}\nstate=${state}`,
+        { headers: { 'Content-Type': 'text/plain' } }
+      );
+    }
+
     // Pass all non-API requests through to GitHub Pages
     return fetch(request);
   },

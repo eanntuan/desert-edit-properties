@@ -111,4 +111,4 @@ layout: blog-post.njk
 
 <p>This headboard is in the Cali Room, our third bedroom, which is also the most flexible: king bed, DIY pull-out trundle, Kahlo Blue workstation behind bifold doors. The full story of how that room came together is in the <a href="/blog/terra-luz-cali-room-bedroom/">Cali Room post</a>. If you want to see the primary bedroom's take on a similar warm-materials brief, that's covered in the <a href="/blog/terra-luz-primary-bedroom/">primary bedroom post</a>.</p>
 
-<p>Terra Luz is available to book in Indio, 2.5 miles from the Coachella polo grounds. Check availability at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+<p>Terra Luz is available to book in Indio, walking distance to Empire Polo Club. Check availability at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>

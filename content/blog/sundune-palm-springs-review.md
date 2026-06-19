@@ -72,7 +72,7 @@ relatedPosts:
 
 <p><strong>Check-in/out:</strong> 4pm check-in, 11am checkout. Early and late available with advance notice when the schedule allows.</p>
 
-<p><strong>Pets:</strong> One pet welcome, $100 pet fee. Email us at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> before booking to confirm.</p>
+<p><strong>Pets:</strong> One pet welcome, $150 pet fee. Email us at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> before booking to confirm.</p>
 
 <h2>When to Come</h2>
 
@@ -112,7 +112,7 @@ relatedPosts:
       "name": "Is The Sundune pet-friendly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "One pet is welcome with a $100 pet fee. Email us at indigopalmco@gmail.com before booking to confirm. The condo has a balcony but no fenced yard, so dogs that need a private outdoor run are better suited to Terra Luz in Indio, which has a fully fenced backyard."
+        "text": "One pet is welcome with a $150 pet fee. Email us at indigopalmco@gmail.com before booking to confirm. The condo has a balcony but no fenced yard, so dogs that need a private outdoor run are better suited to Terra Luz in Indio, which has a fully fenced backyard."
       }
     },
     {
@@ -157,7 +157,7 @@ relatedPosts:
 <p>Four comfortably, across two bedrooms. The primary bedroom has two king beds; the second bedroom has one king. All beds are set up as actual sleeping arrangements, not air mattresses. For groups of five or more, our Indio properties with larger floor plans are the better fit.</p>
 
 <h3>Is The Sundune pet-friendly?</h3>
-<p>One pet is welcome with a $100 pet fee. Email us at indigopalmco@gmail.com before booking to confirm. The condo has a balcony but no fenced yard, so dogs that need a private outdoor run are better suited to <a href="/terra-luz/">Terra Luz</a> in Indio, which has a fully fenced backyard.</p>
+<p>One pet is welcome with a $150 pet fee. Email us at indigopalmco@gmail.com before booking to confirm. The condo has a balcony but no fenced yard, so dogs that need a private outdoor run are better suited to <a href="/terra-luz/">Terra Luz</a> in Indio, which has a fully fenced backyard.</p>
 
 <h3>Is The Sundune walking distance to downtown Palm Springs?</h3>
 <p>Yes. Palm Canyon Drive, with its restaurants, coffee shops, and galleries, is a short walk from the condo. The exact walk time depends on where on the strip you're headed, but most guests walk to dinner and back without thinking about it.</p>

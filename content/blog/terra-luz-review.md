@@ -68,7 +68,7 @@ relatedPosts:
 
 <h2>What to Know Before You Book</h2>
 
-<p><strong>Dogs are welcome.</strong> $100 pet fee, 2 dog max. Fenced backyard. Dog bowl and treats in the kitchen. The saltwater pool is dog-accessible, though some guests ask about this specifically before booking.</p>
+<p><strong>Dogs are welcome.</strong> $150 pet fee, 2 dog max. Fenced backyard. Dog bowl and treats in the kitchen. The saltwater pool is dog-accessible, though some guests ask about this specifically before booking.</p>
 
 <p><strong>Check-in 4pm, checkout 11am.</strong> Early check-in or late checkout is available when the schedule allows. Ask in advance. Self-check-in via smart lock, codes sent 24 hours before arrival.</p>
 
@@ -109,7 +109,7 @@ relatedPosts:
       "name": "Is Terra Luz dog-friendly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Two dogs maximum, $100 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible. Dog bowl and treats are stocked in the kitchen. Email to confirm before booking."
+        "text": "Yes. Two dogs maximum, $150 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible. Dog bowl and treats are stocked in the kitchen. Email to confirm before booking."
       }
     },
     {
@@ -167,7 +167,7 @@ relatedPosts:
 <h2>FAQ: Terra Luz Vacation Rental</h2>
 
 <h3>Is Terra Luz dog-friendly?</h3>
-<p>Yes. Two dogs maximum, $100 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible. Dog bowl and treats are stocked in the kitchen. Email to confirm before booking.</p>
+<p>Yes. Two dogs maximum, $150 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible. Dog bowl and treats are stocked in the kitchen. Email to confirm before booking.</p>
 
 <h3>How far is Terra Luz from the Coachella and Stagecoach festival grounds?</h3>
 <p>7-10 minutes by car, no freeway required. Terra Luz is at 49768 Pacino St in Indio's Indian Palms neighborhood, inside the same community as The Cozy Cactus. The walk to the Empire Polo Club from Terra Luz runs roughly 19 minutes via Eisenhower Drive, which makes it one of the only neighborhoods in the valley where walking to the festival is genuinely practical.</p>

@@ -26,7 +26,7 @@ excerpt: "Hotels, camping, vacation rentals: an honest breakdown of every Coache
 layout: blog-post.njk
 ---
 
-<p>I own two vacation rentals in Indio, two miles from the polo grounds. Every Coachella season, I watch the same mistakes happen: someone books a Palm Springs hotel and spends $160 each way on Ubers, someone else picks on-site camping for the first time and texts me from the dust at 2am, someone finds a rental that looks close on a map and is actually 45 minutes in festival traffic. This is the breakdown I give every guest before they book.</p>
+<p>I own two vacation rentals in Indio, walking distance to the polo grounds. Every Coachella season, I watch the same mistakes happen: someone books a Palm Springs hotel and spends $160 each way on Ubers, someone else picks on-site camping for the first time and texts me from the dust at 2am, someone finds a rental that looks close on a map and is actually 45 minutes in festival traffic. This is the breakdown I give every guest before they book.</p>
 
 <p>No affiliate links here, no incentive to push you toward any particular option. I'm biased toward Indian Palms because I own rentals there and I think it's the best logistics play for most groups. I'll tell you when that bias is showing.</p>
 

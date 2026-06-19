@@ -16,13 +16,13 @@ keywords:
 articleSection: "Travel Guide"
 property: terra-luz
 readTime: "7 min read"
-excerpt: "Why Terra Luz works for a bachelorette or group trip in the desert: three distinct bedrooms, a pool that photographs well, a spa for the slow morning, and the Coachella polo grounds two and a half miles away. Honest logistics included."
+excerpt: "Why Terra Luz works for a bachelorette or group trip in the desert: three distinct bedrooms, a pool that photographs well, a spa for the slow morning, and walking distance to Empire Polo Club. Honest logistics included."
 layout: blog-post.njk
 ---
 
 <p>I get the same message a few times a month, usually starting in January: a bride's friend, planning a desert weekend, asking whether Terra Luz works for a group. The answer is yes, and I built a fair amount of the house with exactly that group in mind.</p>
 
-<p>Indio is a good call for a bachelorette for reasons that aren't obvious until you've tried the alternatives. You're two and a half miles from the Empire Polo Club, so if your weekend lands on Coachella or Stagecoach you're close without paying festival-hotel prices. The pool weather runs most of the year. And nobody has to do the hotel-hallway shuffle, knocking on doors at 8am to figure out where everyone is, because the whole group is under one roof with real space to spread out.</p>
+<p>Indio is a good call for a bachelorette for reasons that aren't obvious until you've tried the alternatives. You're walking distance to Empire Polo Club, so if your weekend lands on Coachella or Stagecoach you're close without paying festival-hotel prices. The pool weather runs most of the year. And nobody has to do the hotel-hallway shuffle, knocking on doors at 8am to figure out where everyone is, because the whole group is under one roof with real space to spread out.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz pool and backyard in Indio California, bachelorette rental with Frida Kahlo blue pool and lounge seating" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The Frida Kahlo blue pool at golden hour. This is where the group ends up most of the day.</p>
@@ -45,7 +45,7 @@ layout: blog-post.njk
 
 <p>The house sleeps eight and is most comfortable for a group of six to eight. Smaller than that and you're paying for space you won't use, larger and you're past what the beds and bathrooms can carry well. There's parking for four cars, so a group arriving in two or three vehicles is covered without anyone hunting for a spot on the street.</p>
 
-<p>A few things to plan around so they don't surprise you. Terra Luz is dog-friendly with prior approval, so if a member of the group can't leave the pup behind that's workable, with a $100 pet fee. Check-in is 4pm and check-out is 10am. And the one rule I'll name plainly: there's a 10pm outdoor curfew, set by the Indian Palms community, so the late-night part of the night moves indoors. The living room and kitchen are open and connected, so this is less of a problem than it sounds, but plan your loudest hour for before ten.</p>
+<p>A few things to plan around so they don't surprise you. Terra Luz is dog-friendly with prior approval, so if a member of the group can't leave the pup behind that's workable, with a $150 pet fee. Check-in is 4pm and check-out is 10am. And the one rule I'll name plainly: there's a 10pm outdoor curfew, set by the Indian Palms community, so the late-night part of the night moves indoors. The living room and kitchen are open and connected, so this is less of a problem than it sounds, but plan your loudest hour for before ten.</p>
 
 <img src="/blog/images/terra-luz-dining.webp" alt="Dining area at Terra Luz Indio California, group seating for a bachelorette or girls trip rental" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The indoor dining and living space, where the night goes after the patio curfew.</p>
@@ -75,10 +75,10 @@ layout: blog-post.njk
 <p>Terra Luz sleeps eight across three bedrooms: a king primary with an ensuite, a second king in the Wild Tropics room, and a third room with two queens. It's most comfortable for a group of six to eight.</p>
 
 <h3>Is Terra Luz close to Coachella?</h3>
-<p>Yes. The house is about two and a half miles from the Empire Polo Club, where Coachella and Stagecoach are held, roughly an eight-minute drive. During festival weekends you can walk or bike to the gate, and the community runs golf cart rides.</p>
+<p>Yes. The house is walking distance to Empire Polo Club, where Coachella and Stagecoach are held, roughly an eight-minute drive. During festival weekends you can walk or bike to the gate, and the community runs golf cart rides.</p>
 
 <h3>Does Terra Luz allow dogs for a group trip?</h3>
-<p>Dogs are welcome with prior approval and a $100 pet fee. Message me before booking so I can confirm for your dates and group.</p>
+<p>Dogs are welcome with prior approval and a $150 pet fee. Message me before booking so I can confirm for your dates and group.</p>
 
 <h3>Is there a noise curfew at Terra Luz?</h3>
 <p>There's a 10pm outdoor curfew set by the Indian Palms community, so plan your loudest stretch for before ten and move the late night indoors. The living and kitchen space is open and connected, so the group still has room to keep the night going.</p>

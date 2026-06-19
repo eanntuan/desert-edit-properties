@@ -91,7 +91,7 @@ relatedPosts:
 
 <p><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a> is our 3BR/2BA in Indian Palms that sleeps 8. Private hot tub, community pool through the back gate, game room with foosball and ping pong, covered patio, fully stocked kitchen. 4.97 stars. Best for groups who want indoor recovery options on rest days and a house that functions as a real home base for a week.</p>
 
-<p><a href="/terra-luz/"><strong>Terra Luz</strong></a> is our 3BR/2BA that also sleeps 8. Private saltwater pool with a sun shelf, Latin-Cuban-inspired design, terracotta patio with pergola, outdoor kitchen, strong wifi. 4.98 stars. Best for groups where the private pool is the priority, and anyone bringing dogs (2 max, $100 pet fee).</p>
+<p><a href="/terra-luz/"><strong>Terra Luz</strong></a> is our 3BR/2BA that also sleeps 8. Private saltwater pool with a sun shelf, Latin-Cuban-inspired design, terracotta patio with pergola, outdoor kitchen, strong wifi. 4.98 stars. Best for groups where the private pool is the priority, and anyone bringing dogs (2 max, $150 pet fee).</p>
 
 <p>Both are inside Indian Palms Country Club, about 20-25 minutes from the Indian Wells Tennis Garden. Both are available to book direct at <a href="https://indigopalm.co" target="_blank" rel="noopener noreferrer">indigopalm.co</a>, which removes the Airbnb service fee. On a week-long stay, that's a meaningful number.</p>
 

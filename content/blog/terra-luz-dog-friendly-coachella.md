@@ -46,7 +46,7 @@ layout: blog-post.njk
 
 <h2>The Logistics, No Surprises</h2>
 
-<p>Here's the policy in plain terms. Up to two dogs, a flat $100 pet fee that covers the stay, and I ask that you email me at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> to confirm before you book so I can make sure the dates and the dog situation line up.</p>
+<p>Here's the policy in plain terms. Up to two dogs, a flat $150 pet fee that covers the stay, and I ask that you email me at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> to confirm before you book so I can make sure the dates and the dog situation line up.</p>
 
 <p>That's the whole thing. No per-night charge that balloons over a long weekend, no breed list, no surprise line item at checkout. I'd rather have an honest conversation up front than spring a fee on you later. If you've got two big dogs and a question about whether they'll be comfortable, just ask, and I'll tell you straight.</p>
 
@@ -71,7 +71,7 @@ layout: blog-post.njk
 <h2>Frequently Asked Questions</h2>
 
 <h3>Is Terra Luz dog-friendly?</h3>
-<p>Yes. Terra Luz welcomes up to two dogs for a flat $100 pet fee. Email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> to confirm before booking so we can line up your dates.</p>
+<p>Yes. Terra Luz welcomes up to two dogs for a flat $150 pet fee. Email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> to confirm before booking so we can line up your dates.</p>
 
 <h3>How much is the pet fee?</h3>
 <p>A flat $100 for the whole stay, not per night. There's no surprise charge at checkout and no per-night fee that grows over a long weekend.</p>

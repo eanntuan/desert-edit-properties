@@ -25,12 +25,12 @@ layout: blog-post.njk
 
 <p>Most guests arrive at Terra Luz, drop their bags, and then ask: okay, what do we actually do out here?</p>
 
-<p>Indio is not Palm Springs. It doesn't have the same walkable downtown, the same quantity of boutique hotels, or the same density of Instagram-friendly architecture. What it does have is space, quiet roads, incredible food (mostly understated, mostly Latin), date farms you weren't expecting, and the Empire Polo Club two and a half miles from the front door. When Coachella or Stagecoach is on, the whole equation shifts. But the off-season Indio is worth knowing too.</p>
+<p>Indio is not Palm Springs. It doesn't have the same walkable downtown, the same quantity of boutique hotels, or the same density of Instagram-friendly architecture. What it does have is space, quiet roads, incredible food (mostly understated, mostly Latin), date farms you weren't expecting, and the Empire Polo Club walking distance from the front door. When Coachella or Stagecoach is on, the whole equation shifts. But the off-season Indio is worth knowing too.</p>
 
 <p>This is the guide I send guests who ask. Updated as of spring 2026.</p>
 
 <img src="/blog/images/terra-luz-exterior.webp" alt="Terra Luz vacation rental in Indio California, Cuban-inspired 3-bedroom home at Indian Palms Country Club" width="1024" height="1536" loading="lazy">
-<p class="image-caption">Terra Luz sits inside Indian Palms Country Club, about 2.5 miles from the Empire Polo Club grounds.</p>
+<p class="image-caption">Terra Luz sits inside Indian Palms Country Club, walking distance to Empire Polo Club.</p>
 
 <h2>Your Home Base: What's at Indian Palms</h2>
 
@@ -70,7 +70,7 @@ layout: blog-post.njk
 
 <p>Even when Coachella and Stagecoach aren't happening, the Empire Polo Club grounds are worth knowing about. The club hosts polo matches on Sunday afternoons throughout the season (roughly October through May). Admission is free for general lawn attendance. Tailgating in the parking lot is the actual tradition: people drag out folding chairs and wine before the match even starts. If you've never watched polo live, it's more fun than it sounds.</p>
 
-<p>For <a href="/blog/where-to-stay-coachella/">Coachella and Stagecoach weekends</a>, Terra Luz is 2.5 miles from the festival gates. That's the entire reason the property exists in its current form, honestly. The outdoor space and sleeping capacity make festival stays work in a way a hotel room can't.</p>
+<p>For <a href="/blog/where-to-stay-coachella/">Coachella and Stagecoach weekends</a>, Terra Luz is walking distance from the festival gates. That's the entire reason the property exists in its current form, honestly. The outdoor space and sleeping capacity make festival stays work in a way a hotel room can't.</p>
 
 <h3>Date Farms</h3>
 
@@ -128,7 +128,7 @@ layout: blog-post.njk
 <h3>FAQ: Staying at Terra Luz in Indio</h3>
 
 <h4>How far is Terra Luz from Coachella and Stagecoach?</h4>
-<p>2.5 miles from the Empire Polo Club gates, about 8 minutes by car. You can walk the 1.5-mile route to the festival entrance via Eisenhower Drive, roughly 19 minutes on foot. During festival weekends, golf cart rides also run through the Indian Palms community.</p>
+<p>Walking distance to the Empire Polo Club, about 8 minutes by car or 19 minutes on foot via Eisenhower Drive. During festival weekends, golf cart rides also run through the Indian Palms community.</p>
 
 <h4>What's the closest grocery store to Terra Luz?</h4>
 <p>Stater Bros on Jefferson Street, about 10 minutes from the property. Target is 15 minutes. Whole Foods in Palm Desert is 20 minutes if you want specialty items.</p>
@@ -137,7 +137,7 @@ layout: blog-post.njk
 <p>Yes: date farms, the polo club Sunday matches, Old Town Indio for dinner, day trips to Joshua Tree (40 minutes) and Palm Springs (30 minutes). The Salton Sea is 30 minutes southeast and worth the oddness of it.</p>
 
 <h4>Is Terra Luz dog-friendly?</h4>
-<p>Yes. Up to 2 dogs with a $100 pet fee. Email indigopalmco@gmail.com to confirm before booking.</p>
+<p>Yes. Up to 2 dogs with a $150 pet fee. Email indigopalmco@gmail.com to confirm before booking.</p>
 
 <h4>What's included with the pool and spa?</h4>
 <p>Both are complimentary. Pool heating is optional: $75/day (2-day minimum) or $400/week. The hot tub has no extra charge. Give me 24 hours' notice to get pool heat set up before your arrival.</p>
