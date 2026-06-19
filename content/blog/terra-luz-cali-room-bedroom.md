@@ -5,7 +5,7 @@ metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann 
 ogImage: /blog/images/terra-luz-cali-room-wide.webp
 heroImage: /blog/images/terra-luz-cali-room-wide.webp
 heroAlt: "Cali Room at Terra Luz in Indio California — king bed with IKEA IVAR rattan panel headboard, amber pillows, blue shibori curtains, fiddle leaf fig in blue pot, and Talavera tile floor"
-heroPosition: "center 40%"
+heroPosition: "center 50%"
 keywords:
   - terra luz third bedroom
   - terra luz cali room
