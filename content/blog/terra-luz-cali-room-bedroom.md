@@ -4,7 +4,7 @@ date: 2026-06-18
 metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann built from plywood and caster wheels, an IKEA cabinet-door headboard, and a Kahlo Blue workstation behind bifold doors."
 ogImage: /blog/images/terra-luz-cali-room-hero.webp
 heroImage: /blog/images/terra-luz-cali-room-hero.webp
-heroAlt: "King bed with rattan cane panel headboard and trundle pulled out in the Cali Room at Terra Luz vacation rental in Indio California"
+heroAlt: "Cali Room at Terra Luz with king bed, wall-to-wall rattan cane panel headboard, Talavera tile floor, blue shibori curtains, and fiddle leaf fig in Indio California"
 keywords:
   - terra luz third bedroom
   - terra luz cali room
@@ -25,8 +25,8 @@ layout: blog-post.njk
 
 <p>Dawn Asher, our brand lead at The Olive Jar, called the vibe California coastal meets desert. That's why we call it the Cali Room.</p>
 
-<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="King bed with rattan cane panel headboard and trundle pulled out, terracotta Talavera tile floor and blue striped jute rug in the Cali Room at Terra Luz" width="4800" height="3200" loading="lazy">
-<p class="image-caption">The full room. King bed with rattan panel headboard, trundle pulled out, blue striped jute rug, terracotta tile throughout.</p>
+<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Cali Room at Terra Luz with king bed, wall-to-wall rattan cane panel headboard, Talavera tile floor, blue shibori curtains, and fiddle leaf fig in Indio California" width="4801" height="3202" loading="lazy">
+<p class="image-caption">The full room. King bed, wall-to-wall rattan headboard, Talavera tile throughout, shibori curtains, fiddle leaf fig in the corner.</p>
 
 <h2>The trundle problem</h2>
 
@@ -34,8 +34,8 @@ layout: blog-post.njk
 
 <p>I measured the clearance under our frame, confirmed it was 14 inches, and built a trundle myself from 2x2 plywood with four caster wheels underneath. The casters let it roll out smoothly and sit flush when tucked back in. It sleeps a child or a small adult comfortably, and when it's not needed it disappears completely under the bed so the room stays clean.</p>
 
-<img src="/blog/images/terra-luz-cali-room-trundle.webp" alt="Twin trundle bed pulled out from under king bed in the Cali Room at Terra Luz, with blue mudcloth curtains and terracotta tile floor" width="4800" height="3200" loading="lazy">
-<p class="image-caption">The trundle fully extended. Built from 2x2 plywood with caster wheels, fits under the king with room to spare.</p>
+<img src="/blog/images/terra-luz-cali-room-trundle.webp" alt="King bed and DIY pull-out trundle both extended in the Cali Room at Terra Luz, terracotta Talavera tile floor, rattan panel headboard, and blue shibori curtains in Indio California" width="3431" height="4192" loading="lazy">
+<p class="image-caption">Both beds out. King for adults, trundle for a kid or a solo guest. When the trundle is tucked back under, the room looks like a standard king.</p>
 
 <h2>The headboard from IKEA cabinet doors</h2>
 
@@ -48,14 +48,14 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-cali-room-workstation.webp" alt="Kahlo Blue lime-washed workstation wall with floating live-edge desk, rattan wishbone chair, and handmade ceramic mug in the Cali Room at Terra Luz" width="4800" height="3200" loading="lazy">
 <p class="image-caption">The Kahlo Blue workstation. Floating live-edge desk, rattan chair, TV mounted above. The mug is a custom handmade commission from a local potter.</p>
 
+<img src="/blog/images/terra-luz-cali-room-workstation-reveal.webp" alt="Louvered bifold doors fully open revealing the Frida Kahlo blue workstation in the Cali Room at Terra Luz, with floating desk, rattan chair, woven storage baskets, and blue fiddle leaf fig pot" width="3214" height="4823" loading="lazy">
+<p class="image-caption">The reveal. Bifold doors open, Kahlo Blue wall, desk ready. Close them and the whole workspace disappears.</p>
+
 <p>The desk is 47 inches wide by 17.7 inches deep, solid hardwood on a wall bracket. Deep enough to actually work at rather than perch a laptop on the edge. The terracotta tile continues into the closet floor, threading the same material through every room in the house.</p>
 
 <h2>Rug, curtains, books, floor cushions</h2>
 
 <p>The rug is a blue striped jute, positioned under and just past the foot of the bed. Mudcloth curtains hang in the doorway, billow slightly, and make the entrance feel intentional rather than just an opening in the wall. Two kids' floor cushions sit on the rug next to the trundle for anyone who needs them, along with a small shelf of children's books: a Mariachi board book and Chicka Chicka Boom Boom.</p>
-
-<img src="/blog/images/terra-luz-cali-room-books.webp" alt="Children's board books on the trundle bed in the Cali Room at Terra Luz, including a Mariachi book and Chicka Chicka Boom Boom on a blue striped rug" width="3200" height="4800" loading="lazy" style="max-width:480px;">
-<p class="image-caption">The detail parents notice first. Books already on the trundle so nobody has to ask.</p>
 
 <img src="/blog/images/terra-luz-cali-room-closet.webp" alt="Stained natural louvered bifold closet doors and wavy wood mirror in the Cali Room at Terra Luz, with fiddle leaf fig and mudcloth curtains" width="4800" height="3200" loading="lazy">
 <p class="image-caption">The stained bifold doors open to the Kahlo Blue workstation. The wavy mirror and fiddle leaf fig sit just outside.</p>
