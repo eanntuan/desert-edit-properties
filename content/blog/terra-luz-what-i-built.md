@@ -25,16 +25,16 @@ layout: blog-post.njk
 
 <p>The Airbnb listing covers the basics. What it doesn't cover is why the pool is that specific shade of blue, why there are three bedrooms with completely different personalities, or what you'll find on the kitchen counter when you arrive. That's what this post is for. If you're deciding between Terra Luz and something else, or if you've already booked and want to know what you're walking into, this is the honest walkthrough.</p>
 
-<p>Terra Luz is at 49768 Pacino St in Indio, inside the Indian Palms Country Club. Three bedrooms, two bathrooms, 3BR/2BA, sleeps eight. The renovation finished in May 2026. Here's what we built.</p>
+<p>Terra Luz is inside the Indian Palms Country Club, across the street from the Empire Polo Grounds, home of Coachella and Stagecoach. It is full of vibrant color and culture reflective of wabi-sabi warmth and the patina of Old Havana. Terra Luz hosts like a retreat without feeling removed, cocooned like you'd feel in the shaded comfort of a cabana. It's relaxed, protective, deeply inviting, and designed for long restorative afternoons, slow dinners, and effortless togetherness. It is made for groups and families who travel with intention, grown-ups who still know how to play, linger, and let the day unfold. While the property is staged with all king beds to attract adults, it's versatile for hosting children with ease (pack n play, twin size trundles, plus twin daybed); and, by intention, its vibrant yet grounded tone promotes a calm and natural rhythm parents crave when traveling with energetic kiddos.</p>
 
 <img src="/blog/images/terra-luz-hero.webp" alt="Terra Luz vacation rental exterior and pool in Indio California, a Cuban-inspired desert home with a Frida Kahlo blue pool" width="2400" height="1600" loading="lazy">
-<p class="image-caption">The whole property. The blue is Frida Kahlo blue. Named specifically for her.</p>
+<p class="image-caption">The whole property. The blue is Frida Kahlo blue, inspired by the Museo Frida Kahlo in Mexico City.</p>
 
 <h2>The pool and spa</h2>
 
-<p>The pool is the center of the property and we designed everything outward from it. The color is Frida Kahlo blue, a specific saturated cobalt that reads differently depending on the time of day. At noon it's electric. At sunset it goes almost purple. At night with the light on it looks like something you'd see in a film set in Havana in 1958.</p>
+<p>The pool is the center of the property and we designed everything outward from it. The color is Frida Kahlo blue, a specific saturated cobalt that reads differently depending on the time of day. At noon it's electric. At sunset it goes almost purple. At night with the light on it looks like something you'd see in a film set in Havana in 1958. The outdoor space is color-drenched in terracotta, from the walls to the pergola overhead, and that warm backdrop is exactly why the Kahlo blue snaps so hard against it. Intentional contrast: grounded earth, luminous water.</p>
 
-<p>In-pool loungers are built in along the shallow end. No float required. You can lie in the water without any effort, which is the entire point of an in-pool lounger in 105-degree heat.</p>
+<p>In-pool loungers are built in along the shallow end. No float required. You can lie in the water without any effort, which is the entire point of an in-pool lounger in 105-degree heat. Simple pleasures, amplified: book in one hand, cold drink in the other, pool reflections catching the light. Perfect for quiet indulgence or a photo that'll make everyone at home jealous.</p>
 
 <img src="/blog/images/terra-luz-pool-loungers.webp" alt="Terra Luz pool with built-in in-water loungers and Frida Kahlo blue tiles in Indio California" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The in-pool loungers. The pool is cleaned Monday and Thursday.</p>
@@ -45,44 +45,44 @@ layout: blog-post.njk
 
 <h2>The patio and outdoor kitchen</h2>
 
-<p>The covered patio runs the full length of the back of the house. String lights overhead, an outdoor dining table that seats eight, and a sectional that faces the pool. West Elm outdoor furniture, Business and Pleasure throw pillows. It's set up for spending a full day outside without going back in except to use the bathroom.</p>
+<p>The covered patio runs the full length of the back of the house. String lights overhead, an outdoor dining table that seats eight, and a sectional that faces the pool. West Elm outdoor furniture, Business and Pleasure throw pillows. It's set up for spending a full day outside without going back in except to use the bathroom. Evenings shift naturally here: guests gather around the fire pit for casual meals, grilled dinners, or order-in from local favorites like Desert Beer pizza. After dark with the inflatable movie screen up, pool lit, fire going, the patio becomes its own world. There's a curated watchlist in the house guide if you want it, nods to world travel like Casablanca or Buena Vista Social Club, and family flicks like Coco and Encanto that are genuinely fun for adults too.</p>
 
 <img src="/blog/images/terra-luz-patio-full.webp" alt="Terra Luz covered patio in Indio California with outdoor dining, sectional seating, and pool view" width="1024" height="683" loading="lazy">
 <p class="image-caption">The patio. Outdoor curfew per city ordinance is 10pm — after that, the party moves inside.</p>
 
-<p>The outdoor kitchen has a gas grill, a prep counter, and a bar-height eating ledge along one side. If your group wants to cook outside every night, you can. If you want to use the indoor kitchen and bring plates out, the pass-through window in the dining room wall makes that easy. (It's not open yet for the first guest season, but it's coming in summer 2027. Worth knowing it's in the plan.)</p>
+<p>The outdoor kitchen has a gas grill, a prep counter, and a bar-height eating ledge along one side. If your group wants to cook outside every night, you can. If you want to use the indoor kitchen and bring plates out, the kitchen window makes that easy, turning both the breakfast nook and the patio into one continuous gathering space. (The formal pass-through window isn't open yet for the first guest season, but it's coming in summer 2027. Worth knowing it's in the plan.)</p>
 
 <h2>The living room and entryway</h2>
 
-<p>The entryway sets the tone for the whole house. Terracotta-toned walls, a curved arch opening into the living room, and the first glimpse of the Kahlo blue from the back windows. Dawn Asher, at The Olive Jar, designed this as an introduction. You're supposed to slow down when you walk in.</p>
+<p>The entryway sets the tone for the whole house. Terracotta-toned walls, a curved arch opening into the living room, and the first glimpse of the Kahlo blue from the back windows. Dawn Asher at The Olive Jar designed this as an introduction. You're supposed to slow down when you walk in. The living room glows at check-in, warm light spilling across terracotta floors and rich textures, inviting guests to settle in before they've even put their bags down.</p>
 
 <img src="/blog/images/terra-luz-entryway.webp" alt="Terra Luz vacation rental entryway in Indio California with terracotta tones and arched opening to living room" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The entryway. Dawn's brief was Old Havana warmth. This is where it starts.</p>
 
-<p>The living room opens onto the patio and pool through glass doors. Rattan furniture, natural wood, a sectional with enough seating for the whole group. Smart TV with Netflix and a Sonos speaker wired into the patio. Everything flows out toward the pool, which is where most guests spend most of their time anyway.</p>
+<p>The living room opens onto the patio and pool through glass doors. Rattan furniture, natural wood, a sectional with enough seating for the whole group. Smart TV with Netflix and a Sonos speaker wired into the patio. Everything flows out toward the pool, calm yet alive with personality, color, and culture, which is where most guests end up spending most of their time anyway.</p>
 
 <img src="/blog/images/terra-luz-living-room.webp" alt="Terra Luz living room with rattan furniture, natural wood, and glass doors opening to pool in Indio California" width="1024" height="1570" loading="lazy">
 <p class="image-caption">The living room. The glass doors stay open most of the day in fall and spring. In summer, you run the AC and appreciate them from the inside.</p>
 
 <h2>The kitchen and dining</h2>
 
-<p>The kitchen is fully equipped: a full-size refrigerator, a gas range, a dishwasher, and enough counter space to actually cook. Nespresso on the counter plus a French press. Cafe Bustelo in the cabinet. If you're particular about coffee, bring your own beans, but the setup is there.</p>
+<p>The kitchen is fully equipped: a full-size refrigerator, a gas range, a dishwasher, and enough counter space to actually cook. Nespresso on the counter plus a French press. Cafe Bustelo in the cabinet, Cuban roasted. If you're particular about coffee, bring your own beans, but the setup is there. Sunlight streams across the bar top in the morning and the kitchen window opens directly to the pool, so morning coffee flows effortlessly into poolside conversation. The breakfast nook alongside the window becomes the social heart of the house before most guests even realize it.</p>
 
 <img src="/blog/images/terra-luz-kitchen.webp" alt="Terra Luz vacation rental kitchen in Indio California with gas range, full refrigerator, and Cuban-inspired tile details" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The kitchen. Fully stocked with cookware, utensils, and enough cabinet space for a week of groceries.</p>
 
-<p>The dining table seats eight and sits between the kitchen and the living room, close enough to the patio that the whole space feels connected when the sliding door is open. Decorative tile wall detail behind the table, cement-look floor tile. The same Old Havana logic runs through here: warm, grounded, a little more interesting than expected.</p>
+<p>The dining table seats eight and sits between the kitchen and the living room, close enough to the patio that the whole space feels connected when the sliding door is open. Decorative tile wall detail behind the table, cement-look floor tile. The same Old Havana logic runs through here: warm, grounded, a little more interesting than expected. Dinner calls are easy to answer from anywhere in the house.</p>
 
 <img src="/blog/images/terra-luz-dining.webp" alt="Terra Luz vacation rental dining area in Indio California with tile accent wall and seating for 8" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The dining area. Seats the whole group without anyone sitting at a card table in the corner.</p>
 
 <h2>The bedrooms</h2>
 
-<p>Three bedrooms, each with a different character. This was intentional. Most rental houses have three identical rooms with different colored pillows. Terra Luz has three rooms that feel like they belong to different people, which works well for groups where not everyone has the same taste.</p>
+<p>Three bedrooms, each with a different character. This was intentional. Most rental houses have three identical rooms with different colored pillows. Terra Luz has three rooms that feel like they belong to different people, which works well for groups where not everyone has the same taste. The color story throughout maximizes natural desert light with low-profile furnishings and natural textures, so each room feels airy despite the saturated moments. From one space to the next, it's vibrant but easy, bold without being loud.</p>
 
 <h3>The primary bedroom</h3>
 
-<p>King bed, private ensuite bathroom, the most "resort" feeling of the three rooms. Sage green walls, natural wood bed frame, live-edge bench at the foot, and a rattan fan piece above the headboard. Heavy white linen curtains, blackout when you need them. The ensuite has a walk-in shower with enough counter space for two people.</p>
+<p>King bed, private ensuite bathroom, the most "resort" feeling of the three rooms. Balanced and calm, like its own private retreat: sage green walls, natural wood bed frame, plush cream bedding, and warm finishes that create a sense of serenity and ease. Live-edge bench at the foot of the bed, rattan fan piece above the headboard, heavy white linen curtains that go blackout when you need them. The ensuite has a walk-in shower with enough counter space for two people.</p>
 
 <img src="/blog/images/terra-luz-primary-bedroom-main.webp" alt="Terra Luz primary bedroom in Indio California with sage green walls, king bed with natural wood frame, rattan fan wall art, live-edge bench, and Talavera tile floor" width="4362" height="3205" loading="lazy">
 <p class="image-caption">The primary bedroom. King bed, blackout curtains, private ensuite.</p>
@@ -91,7 +91,7 @@ layout: blog-post.njk
 
 <h3>The Wild Tropics bedroom</h3>
 
-<p>King bed, tropical wallpaper, and a mood that reads as somewhere between a Havana hotel and a Palm Springs boutique circa 1972. This room gets the most reactions. Guests either love it or find it overwhelming, and there's no middle ground. The people who love it really love it.</p>
+<p>King bed, tropical wallpaper, and a mood that reads as somewhere between a Havana hotel and a Palm Springs boutique circa 1972. Retro tropical wallpaper paired with striped curtains adds boutique hotel personality, more grounded and more personal than precious. This room creates a delightful personal cove, a colorful cocoon that soothes as much as it rejuvenates. Guests either love it or find it overwhelming, and there's no middle ground. The people who love it really love it.</p>
 
 <img src="/blog/images/terra-luz-wild-tropics-main.webp" alt="Terra Luz Wild Tropics bedroom in Indio California with bold blue tropical wallpaper floor to ceiling, king bed with copper tufted headboard, and amber pendant lights" width="4642" height="3203" loading="lazy">
 <p class="image-caption">The Wild Tropics room. King bed, tropical wallpaper on every wall. Not for the minimalist in the group.</p>
@@ -100,7 +100,7 @@ layout: blog-post.njk
 
 <h3>The Cali Room</h3>
 
-<p>King bed with a DIY trundle that pulls out from underneath, built from plywood with caster wheels to fit under a king frame with 14 inches of clearance. The headboard is four IKEA rattan cabinet doors mounted wall-to-wall — reads as a custom built-in. Behind the stained louvered bifold doors: a Frida Kahlo blue lime-washed workstation with a floating live-edge desk. The room works for couples, families with one kid, and anyone in the group who needs a place to actually get work done.</p>
+<p>King bed with a DIY trundle that pulls out from underneath, built from plywood with caster wheels to fit under a king frame with 14 inches of clearance. The headboard is four IKEA rattan cabinet doors mounted wall-to-wall, reads as a custom built-in. Behind the stained louvered bifold doors: a Frida Kahlo blue lime-washed workstation with a floating live-edge desk, rattan chair, and TV mounted above. The room balances fun and function, patterned terracotta tile floors accented with pops of cobalt blue, a playful design moment that stays genuinely practical: couples, families with one kid, or anyone in the group who needs a place to actually get work done.</p>
 
 <img src="/blog/images/terra-luz-cali-room-main.webp" alt="Terra Luz Cali Room in Indio California with king bed and DIY trundle both extended, IKEA IVAR rattan panel headboard, amber pillows, blue shibori curtains, and Talavera tile floor" width="3431" height="4192" loading="lazy">
 <p class="image-caption">The Cali Room. King plus trundle, Kahlo Blue workstation behind the bifold doors.</p>
@@ -125,9 +125,9 @@ layout: blog-post.njk
 
 <h2>Who books this house</h2>
 
-<p>The groups that fit Terra Luz best: friend groups of 6-8, bachelorette trips, Coachella or Stagecoach weekends, and milestone birthday gatherings where the outdoor space is the point. The combination of pool, spa, outdoor kitchen, and enough bedrooms to give everyone their own space makes it work for groups that want to spend a lot of time at the house, not just sleep there.</p>
+<p>The groups that fit Terra Luz best: friend groups of 6-8, bachelorette trips, Coachella or Stagecoach weekends, and milestone birthday gatherings where the outdoor space is the point. The combination of pool, spa, outdoor kitchen, and enough bedrooms to give everyone their own space makes it work for groups that want to spend a lot of time at the house, not just sleep there. They want to be close to what's happening next, just enough to choose from without feeling rushed to chase it. For them, the real luxury is melting into the present: letting the afternoon unspool, watching the pool change color as the sun drops, ordering pizza and eating it next to a fire pit. They leave recalibrated.</p>
 
-<p>It's also the right fit for anyone who cares about the design. This is not a generic desert rental with beige walls and IKEA furniture. The aesthetic is intentional and specific, and the guests who book it tend to know that going in. If you want something neutral and forgettable, there are plenty of those. Terra Luz is not that.</p>
+<p>It's also the right fit for anyone who cares about the design. This is not a generic desert rental with beige walls and IKEA furniture. The aesthetic is intentional and specific, unpretentious yet elevated, and the guests who book it tend to know that going in. If you want something neutral and forgettable, there are plenty of those. Terra Luz is not that.</p>
 
 <h2>Direct booking</h2>
 
