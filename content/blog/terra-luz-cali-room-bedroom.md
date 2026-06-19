@@ -55,11 +55,11 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-cali-room-workstation-reveal.webp" alt="Louvered bifold doors fully open revealing the Frida Kahlo blue workstation in the Cali Room at Terra Luz, with floating desk, rattan chair, woven storage baskets, and blue fiddle leaf fig pot" width="3214" height="4823" loading="lazy">
 <p class="image-caption">The reveal. Bifold doors open, Kahlo Blue wall, desk ready. Close them and the whole workspace disappears.</p>
 
-<p>The desk is 47 inches wide by 17.7 inches deep, solid hardwood on a wall bracket. Deep enough to actually work at rather than perch a laptop on the edge. The terracotta tile continues into the closet floor, threading the same material through every room in the house.</p>
+<p>The desk is a Lowe's butcher block that we hand cut to span the full width of the closet, about 25" deep. Deep enough to actually work at rather than perch a laptop on the edge. The terracotta tile continues into the closet floor, threading the same material through every room in the house.</p>
 
 <h2>Rug, curtains, books, floor cushions</h2>
 
-<p>The rug is a blue striped jute, positioned under and just past the foot of the bed. Mudcloth curtains hang in the doorway, billow slightly, and make the entrance feel intentional rather than just an opening in the wall. Two kids' floor cushions sit on the rug next to the trundle for anyone who needs them, along with a small shelf of children's books: a Mariachi board book and Chicka Chicka Boom Boom.</p>
+<p>The rug is a blue striped jute, positioned under and just past the foot of the bed. Mudcloth curtains hang in the doorway, billow slightly, and make the entrance feel intentional rather than just an opening in the wall. Two kids' floor cushions can be placed next to the trundle for anyone who needs them, along with a small shelf of children's books: a Mariachi board book and Chicka Chicka Boom Boom.</p>
 
 <img src="/blog/images/terra-luz-cali-room-closet.webp" alt="Stained natural louvered bifold closet doors and wavy wood mirror in the Cali Room at Terra Luz, with fiddle leaf fig and mudcloth curtains" width="4800" height="3200" loading="lazy">
 <p class="image-caption">The stained bifold doors open to the Kahlo Blue workstation. The wavy mirror and fiddle leaf fig sit just outside.</p>
@@ -71,14 +71,14 @@ layout: blog-post.njk
 
 <ul>
   <li>Tile work (shared with whole house): $3,750</li>
-  <li>King mattress and bed frame: $1,500</li>
-  <li>Floating live-edge desk (WoodArtDeal, 47"x17.7", solid hardwood): $268</li>
-  <li>IKEA IVAR door headboard (4 bamboo panels + hardware): ~$130</li>
-  <li>DIY trundle build (plywood, caster wheels, hardware): ~$120</li>
-  <li>Kahlo Blue lime-wash paint: $91</li>
-  <li>Rattan wishbone chair: ~$150</li>
+  <li>Helix Hospitality King mattress and bed frame: $700</li>
+  <li>Floating live-edge desk (Lowe's Butcher Block): $200</li>
+  <li>IKEA IVAR door headboard (8 cabinet doors): ~$200</li>
+  <li>DIY trundle build (plywood, caster wheels, hardware): ~$50</li>
+  <li>Backdrop Kahlo Blue lime-wash paint: $80</li>
+  <li>Slatted Bench (FB Marketplace): ~$75</li>
   <li>Blue striped jute rug: ~$90</li>
-  <li>Mudcloth curtains: ~$80</li>
+  <li>Deny Design curtains: ~$80</li>
   <li>Floor cushions and kids books: ~$60</li>
 </ul>
 
