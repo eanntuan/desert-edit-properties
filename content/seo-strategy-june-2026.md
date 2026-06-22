@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** June 22, 2026 | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** June 22, 2026 (session 2) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -7,7 +7,7 @@
 
 **Organic Search.** The domain is 4 months old and behaving exactly as expected for its age — not good, not broken, just early. Google has indexed 10 pages, the site has crossed 50 clicks in its first 28 days of measurable traffic, and the palm-springs-vs-indio post is the only real traffic engine right now (252 impressions in one week, April 12-18). The structural SEO work is genuinely solid — schema markup, canonical tags, FAQPage structured data on **all 84 posts** — this is better than 95% of boutique operators. ~~The active damage is specific and fixable: 8 posts accidentally noindexed, 4 sitemap URLs returning 404s, API endpoints being crawled instead of blocked, and a redirect validation failure affecting 13 pages.~~ **As of June 22:** `/api/` is blocked in robots.txt. Noindex frontmatter is clean across all posts. The main open technical item is redirect validation for 13 pages. The content moat (84 posts, all with FAQPage JSON-LD) is real but underpowered by inbound links and topical authority gaps vs. cactushugs.com, the most direct local competitor.
 
-**GEO (Generative Engine Optimization).** *(New channel as of June 2026.)* All 84 blog posts now have FAQPage JSON-LD for direct Gemini/ChatGPT parsing. A 392-question Quora queue is live in a Google Doc ([link](https://docs.google.com/document/d/1KMQMFtnHRT2C_Nz7VakPNPCuhL9TQ3qCXKIZ-nlvhb0/edit)), shared with Sabbir, organized high-to-medium priority. Quora profile created June 15, 2026 — no traffic expected for 4-6 weeks. Posting cadence: 2-3 questions/day, never batch-drop. At that rate the queue covers 157 days. GSC already shows Gemini surfacing indigopalm.co in Palm Springs results (~140 clicks, 360+ impressions since June 1). The `/indigo-palm-geo-seeder` skill automates future seeding for new posts. GEO is now a systematized channel, not a one-off task.
+**GEO (Generative Engine Optimization).** *(New channel as of June 2026.)* All 84 blog posts now have FAQPage JSON-LD for direct Gemini/ChatGPT parsing. A 392-question Quora queue is live in a Google Doc ([link](https://docs.google.com/document/d/1KMQMFtnHRT2C_Nz7VakPNPCuhL9TQ3qCXKIZ-nlvhb0/edit)), shared with Sabbir, organized high-to-medium priority. A second batch of 10 targeted Quora questions was created June 22 ([link](https://docs.google.com/document/d/1_g-dXll8BhbxLKjeG_FwZhy4ULm_IlXKfXycRnCZBPI/edit)) — focused on dog-friendly, bachelorette, group travel, and direct booking angles, all linking to specific blog posts. Quora profile created June 15, 2026 — no traffic expected for 4-6 weeks. Posting cadence: 2-3 questions/day, never batch-drop. At that rate the queue covers 157 days. GSC already shows Gemini surfacing indigopalm.co in Palm Springs results (~140 clicks, 360+ impressions since June 1). The `/indigo-palm-geo-seeder` skill automates future seeding for new posts. GEO is now a systematized channel, not a one-off task.
 
 **Pinterest.** *(Updated June 22.)* Eann took over Pinterest posting on June 18. Sabbir's scope is now GEO/Quora/Goodreads only. The posting accountability problem is resolved — Eann controls the cadence. Baseline: ~20K monthly views post-ML campaign, 81% female audience, mobile-first. The 355 pins delivered May 25 need confirmed live count from Sabbir before Eann can assess what's already posted vs. what still needs scheduling. Until posting cadence hits 4-5 pins/day consistently, Pinterest will not generate meaningful referral traffic. The structural finding still holds: property boards (Cozy Cactus) convert at 4x the rate of editorial Blogs boards.
 
@@ -144,11 +144,7 @@ These are thin content signals. The stagecoach-2027 post is in this list — exp
 
 **7. Homepage H1 buried at line 2,070** (30 min) — Move to top of visible content area. 105KB HTML is also too heavy.
 
-**8. H1/title mismatch on homepage** (5 min) — Title says "Coachella Valley Vacation Rentals," H1 says "Boutique Desert Vacation Rentals." Fix:
-```
-Title: Coachella Valley Vacation Rentals | Book Direct | Indigo Palm Collective
-H1: Coachella Valley Vacation Rentals — Book Direct, Skip the Fees
-```
+~~**8. H1/title mismatch on homepage**~~ ✅ **DONE** — Em dash removed from H1 June 22 (session 2). H1 now reads: "Coachella Valley Vacation Rentals: Book Direct, Skip the Fees". Title tag: "Coachella Valley Vacation Rentals | Book Direct | Indigo Palm Collective".
 
 **9. No preconnect hints in blog-post.njk** (20 min) — Add `<link rel="preconnect">` for Google Fonts, GTM, and Pinterest tag domains.
 
@@ -457,13 +453,20 @@ Publish the definitive BNP Paribas vacation rental guide before September 2026, 
 
 *Control group for measuring impact of June 22 changes. Compare at next check-in (target: July 13, 2026).*
 
-### What changed on June 22
+### What changed on June 22 (session 1)
 
 - **Meta description rewrites** on 3 high-impression/low-CTR posts: where-to-stay-coachella, indian-palms-vacation-rental, palm-springs-vs-scottsdale
 - **Structural refresh** of where-to-stay-coachella: comparison table (6 rows), 2027 booking urgency callout, 4 new keywords, new FAQ on 2027 rental timing, fixed "19 minutes via Eisenhower Drive" → "walking distance to Empire Polo Club"
 - **LodgingBusiness JSON-LD** added to all 3 active property pages
 - **Sitemap resubmitted** via GSC API (was stale since May 26)
 - **FAQPage JSON-LD** already live on all 84 posts (added earlier in June)
+
+### What changed on June 22 (session 2)
+
+- **Homepage H1 em dash removed** — H1 now "Coachella Valley Vacation Rentals: Book Direct, Skip the Fees" (colon replaces em dash). Committed and deployed.
+- **Newsletter worker deployed** — Cloudflare Worker at `newsletter.indigopalm.co` using Resend API. Sends welcome email (terra-luz hero image, #fffafa header, transparent full logo) + owner notification to indigopalmco@gmail.com on every signup. Tested and confirmed working.
+- **Booking flow hero + routing** — Added hero strip to `/booking-flow/index.html` (warm gradient background, property-updating title/subtitle). Stub redirect files created at `/booking-flow/terra-luz/`, `/booking-flow/cozy-cactus/`, `/booking-flow/ps-retreat/` for GitHub Pages direct-URL support.
+- **Quora second batch** — 10 Q&A pairs written and loaded into a new Google Doc ([link](https://docs.google.com/document/d/1_g-dXll8BhbxLKjeG_FwZhy4ULm_IlXKfXycRnCZBPI/edit)), shared with Sabbir as editor. Focused on: dog-friendly, bachelorette, group stays, book direct, Indio activities, season timing. Note: Q2 and Q7 corrected "2.5 miles" → "walking distance"; Q6 corrected fee % to "Airbnb's 20% guest service fee."
 
 ### Overall metrics
 
