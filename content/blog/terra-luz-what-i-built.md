@@ -155,3 +155,88 @@ layout: blog-post.njk
 <p>10pm per Indio city noise ordinance. Outdoor music and entertaining must wrap at 10.</p>
 
 <p class="credit">Photography by <a href="https://www.anchor-pictures.com/" target="_blank" rel="noopener">Anchor Photography</a> | Interior design by <a href="https://theolivejar.co" target="_blank" rel="noopener">Dawn Asher at The Olive Jar</a></p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Terra Luz have a pool and spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Both are included with every stay. The private pool features the Frida Kahlo blue tiles from the photos, with built-in in-pool loungers in the shallow end. The spa seats four, heats in about an hour, and is complimentary. Pool heating during November through May is $75/day with a two-day minimum."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many guests does Terra Luz sleep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Up to eight guests across three bedrooms: a king primary suite with twin daybed and pull-out trundle, a king Wild Tropics room, and the Cali Room with a king plus pull-out trundle. Two full bathrooms. Four parking spots total — two in the garage, two in the driveway."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Terra Luz dog-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, up to two dogs with a $150 pet fee. Email indigopalmco@gmail.com to confirm before booking. The property has a grassy side yard for dog walks without leaving the property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Terra Luz from Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz is 1.5 miles walking distance from the Empire Polo Club gates. The property is inside Indian Palms Country Club, directly across the street from the festival grounds. Golf cart shuttles run through the community during festival weekends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the outdoor curfew at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "10pm per Indio city noise ordinance. Outdoor music and entertaining must wrap at 10. After curfew, the party moves inside — Terra Luz has an inflatable movie screen and indoor seating for the full group."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book Terra Luz directly without Airbnb?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Terra Luz books directly at indigopalm.co/terra-luz, which skips the Airbnb service fees of 14-16%. Return guests get 10% off their second stay automatically, no code needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the check-in and check-out time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check-in is at 4pm, check-out at 10am. Early check-in is available when the calendar allows — ask at least 48 hours in advance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the outdoor kitchen have everything you need to cook full meals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The outdoor kitchen has a gas grill, prep counter, and bar-height eating ledge. The indoor kitchen window opens directly onto the patio for easy pass-through. The indoor kitchen has a gas range, full refrigerator, dishwasher, and full cookware for a week of real cooking."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Can I book Terra Luz directly without Airbnb?</h4>
+<p>Yes, Terra Luz books directly at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, which skips the Airbnb service fees (typically 14-16% on top of the nightly rate). Return guests get 10% off their second stay automatically, no code needed.</p>
+
+<h4>What's the check-in and check-out time?</h4>
+<p>Check-in is at 4pm, check-out is at 10am. Early check-in is possible when the calendar allows, so ask at least 48 hours in advance and the host will confirm based on the turnover schedule.</p>
+
+<h4>Does the outdoor kitchen have everything you need to cook full meals?</h4>
+<p>The outdoor kitchen has a gas grill, prep counter, and bar-height eating ledge, and the indoor kitchen window opens directly onto the patio so you can pass food through without walking back inside. The indoor kitchen is fully equipped with a gas range, full-size refrigerator, dishwasher, and enough cookware and utensils for a week of real cooking, not just reheating.</p>

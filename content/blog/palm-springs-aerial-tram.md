@@ -180,3 +180,83 @@ layout: blog-post.njk
 <p><strong>Hours:</strong> Weekdays first tram up at 10:00am. Weekends first tram up at 8:00am. Last tram up 8:00pm most nights, 9:00pm Friday and Saturday in summer. Check the <a href="https://pstramway.com/about-us/hours/" target="_blank" rel="noopener">official hours page</a> for current schedule.</p>
 
 <p><strong>Elevation:</strong> Valley Station 2,643 feet. Mountain Station 8,516 feet. Expect 30 to 40 degrees cooler at the top than the desert floor below.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does the Palm Springs Aerial Tram cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As of 2026, adult tickets are $36.95 with the $2 online processing fee included. Seniors (65+) pay $33.95 and children ages 3 to 10 pay $20.95. Parking at the Valley Station is $5. Dining packages that bundle a ticket with a meal credit at the summit restaurants run $27.50 to $43 per person."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should you plan for the Palm Springs Aerial Tram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two to three hours is the right minimum. The tram ride is 10 minutes each way. Add wait time for departures, 30 minutes of buffer, and at least an hour for the Desert View Trail at the top. If you're planning any serious hiking in the San Jacinto Wilderness, plan for a full day and check with the rangers about current trail conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Palm Springs Aerial Tram worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The elevation change from 2,643 feet to 8,516 feet in 10 minutes is genuinely dramatic, and the view from the top reframes the entire geography of the valley. At $37 per adult it is a real cost, but the experience is not a tourist trap: the scenery, trails, and temperature contrast are all genuine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you hike at the top of the Palm Springs Aerial Tram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Mountain Station sits at the edge of Mount San Jacinto State Park with over 50 miles of trails. The Desert View Trail is a two-mile loop accessible to most fitness levels. The trail to San Jacinto Peak at 10,834 feet is a serious full-day undertaking requiring ranger check-in. Dogs are allowed on the trails, leashed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of day to visit the Palm Springs Aerial Tram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early morning on a weekday keeps crowds thin and online timed-entry tickets eliminate the in-person line. The other strong option is a summer evening: Friday and Saturday departures run until 9pm from late May through early September, so you can board around 7pm and watch the valley light up below as the sun drops. Check pstramway.com for the annual maintenance closure before planning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are dogs allowed on the Palm Springs Aerial Tram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Dogs ride inside the tram car with you and are allowed on all trails at the summit, leashed. The 30-to-40-degree temperature drop at the top catches dogs and owners off guard if you haven't packed a layer. The Desert View Trail is well-suited for most dogs. Check with rangers for trail conditions before attempting anything beyond the loop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there food at the top of the Palm Springs Aerial Tram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Mountain Station has Peaks Restaurant for sit-down dining with valley views and Top of the Tram for quick service. Dining packages that bundle a tram ticket with a meal credit run $27.50 to $43 per person. The summit also has a gift shop, two documentary theaters, and a natural history museum."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What's the best time of day to visit?</h4>
+<p>Early morning on a weekday keeps crowds thin, and online timed-entry tickets eliminate the in-person line entirely. The other compelling window is a summer evening: Friday and Saturday departures run until 9pm from late May through early September, which means you can board around 7pm, watch the valley light up as the sun drops, and come back down after dark. That's a good use of a summer evening. Check pstramway.com for the annual maintenance closure (usually late August or early September) before planning your trip around it.</p>
+
+<h4>Are dogs allowed on the Palm Springs Aerial Tram?</h4>
+<p>Yes. Dogs ride inside the tram car with you and are allowed on all trails at the summit, leashed. The 30-to-40-degree temperature drop at the top catches both dogs and owners off guard if you haven't packed a layer for them. The Desert View Trail at the summit is well-suited for most dogs. For serious hikes toward San Jacinto Peak, check with rangers at the Mountain Station about current conditions before heading out.</p>
+
+<h4>Is there anything to eat at the top?</h4>
+<p>The Mountain Station has two options: Peaks Restaurant for sit-down dining with valley views, and Top of the Tram for quick service. Dining packages that bundle a tram ticket with a meal credit run $27.50 to $43 per person and are worth considering if you're planning to eat up there anyway. The summit also has a gift shop and two documentary theaters, so there's enough to fill two to three hours without stepping outside at all. For where to stay in Palm Springs near the tram, see <a href="https://indigopalm.co/blog/palm-springs-aerial-tram/">the full guide at indigopalm.co</a>.</p>
+
+<h4>What happens if you're afraid of heights?</h4>
+<p>The tram cars are fully enclosed with large windows, so you're not exposed to open air at any point. The rotation is slow and gradual during ascent, and the views are dramatic but not vertigo-inducing for most people. The sheer face of Chino Canyon drops away below you as you climb, which is genuinely impressive, though some people find the window-to-floor drop disorienting. If cable cars or ski gondolas are manageable for you, the tram typically is too.</p>

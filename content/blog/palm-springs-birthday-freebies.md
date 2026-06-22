@@ -82,3 +82,69 @@ For more things to do in Palm Springs beyond the sugar tour, the [3-day Palm Spr
 
 <h3>Where is the Cheesecake Factory near Palm Springs?</h3>
 <p>The Cheesecake Factory at The River shopping center in Rancho Mirage (71800 Highway 111) is about 15 to 20 minutes from Palm Springs. SocialPoints members receive a free birthday treat, historically a free slice with a purchase. It makes more sense as a dinner destination where the cheesecake becomes dessert.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you need to sign up in advance for birthday freebies in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most programs require you to be a registered member before your birthday month for the offer to activate. A week of lead time works for most; a month is safer. Don't sign up the morning of your birthday expecting rewards to be ready. Windows vary from birthday-day-only to the full month, so read each program's terms when you sign up."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best birthday freebie in the Palm Springs area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Starbucks gives a free drink of any size and any complexity, which has the highest dollar value of any program in the valley if you order something elaborate. Nothing Bundt Cakes gives a free Bundtlet in flavors like red velvet or lemon, valid for the full birthday month. Both require advance enrollment before your birthday month starts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a Crumbl Cookies in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The closest Crumbl location is in Palm Desert at 44-491 Town Center Way, about 20 minutes from downtown Palm Springs on Highway 111. Rewards members get a free cookie during their birthday month through the Crumbl app. Sign up before your birthday month, not the day of your visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the Cheesecake Factory near Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Cheesecake Factory at The River shopping center in Rancho Mirage (71800 Highway 111) is about 15 to 20 minutes from Palm Springs. SocialPoints members receive a free birthday treat, historically a free slice with a purchase. It works best as a dinner destination where the cheesecake becomes the dessert course."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any birthday freebies valid for the whole month in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crumbl Cookies and Nothing Bundt Cakes both offer birthday rewards valid for the entire birthday month, giving flexibility if your trip doesn't land on the exact date. Starbucks is birthday-day only. Check each program's current terms before your trip since offers change year to year."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a Sprinkles Cupcakes in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No Sprinkles location exists in the Coachella Valley as of 2026. The nearest locations are in greater Los Angeles. The Crumbl, Nothing Bundt Cakes, and Starbucks options in Palm Desert and Palm Springs cover similar dessert territory without the extra drive."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Are there any birthday freebies valid for the whole month, not just the birthday day?</h4>
+<p>Crumbl Cookies and Nothing Bundt Cakes both give birthday rewards valid for the entire birthday month, which is useful if your trip doesn't land exactly on the date. Starbucks is birthday-day only, and The Cheesecake Factory has a shorter window, so check the terms for each program when you sign up. The month-long offers are the most flexible for a birthday trip where you're visiting on a nearby weekend.</p>
+
+<h4>Is there a Sprinkles Cupcakes in the Coachella Valley?</h4>
+<p>No Sprinkles location exists in the Coachella Valley as of 2026. The nearest locations are in greater Los Angeles, making it a road trip rather than a local stop. If Sprinkles is non-negotiable, factor in the drive, but the Palm Desert and Rancho Mirage options here cover similar territory without the trip. The birthday freebie landscape does change year to year, so check <a href="https://indigopalm.co/blog/palm-springs-birthday-freebies/">indigopalm.co/blog/palm-springs-birthday-freebies/</a> or each brand's app before your visit to confirm current offers.</p>

@@ -202,3 +202,46 @@ layout: blog-post.njk
 
 <h3>Can you just watch at Palm Springs Surf Club without surfing?</h3>
 <p>Yes. Spectator tickets are available separately from surf sessions. Non-surfers can use the Drifters restaurant and bar, which overlooks the wave pool with a clear view of every session. The restaurant is open Thursday through Sunday. If your group is split on surfing, it's a workable setup: surfers do their sessions, everyone else eats and watches, you meet up for food after.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs Surf Club a good activity for a bachelorette or group trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially for groups with mixed surfing interest. Surfers book sessions while non-surfers use the Drifters restaurant and bar overlooking the wave pool. Cabana and private event options are available for reserved group setups. For Palm Springs bachelorette trips, The Sundune at indigopalm.co is 1.3 miles from PSSC and sleeps 4 across 3 kings. For larger groups of 6+, Cozy Cactus or Terra Luz in Indio (25-30 min away) are 3-bedroom options that book direct at indigopalm.co."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can kids participate in Palm Springs Surf Club sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Children must be at least 42 inches tall to surf, and those under 14 need a supervising adult in the water with them — meaning a parent must book their own session, not just watch. The beginner Waikiki Wave session is the right starting point: soft-top boards, structured coaching, and gentle waves. Spectator tickets give lounge and restaurant access for non-surfing parents."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I stay if I'm visiting Palm Springs Surf Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Sundune at indigopalm.co is 1.3 miles from PSSC in Palm Springs, sleeping 4 across 3 king beds, dog-friendly with prior approval. If combining with Coachella or Stagecoach, Indio adds 25-30 minutes to PSSC but puts you walking distance from the polo grounds — Cozy Cactus and Terra Luz are both 3-bedroom Indio options, all bookable direct at indigopalm.co without Airbnb fees."
+      }
+    }
+  ]
+}
+</script>
+
+
+<h4>Is Palm Springs Surf Club a good activity for a bachelorette or group trip?</h4>
+<p>Yes, especially for groups with mixed interest in surfing. Surfers book sessions while non-surfers use the Drifters restaurant and bar, which has a clear view of the wave pool. Cabana and private event options are available through the venue for groups wanting a reserved setup. For Palm Springs bachelorette trips, <a href="/the-sundune/">The Sundune</a> is 1.3 miles from PSSC and sleeps 4 across 3 kings, or Cozy Cactus and Terra Luz in Indio fit larger groups of 6-plus.</p>
+
+<h4>Can kids participate in Palm Springs Surf Club sessions?</h4>
+<p>Children must be at least 42 inches tall to surf, and those under 14 need a supervising adult in the water alongside them, so a parent needs to book their own session slot, not just watch from the sideline. The beginner Waikiki Wave session is the right starting point: soft-top boards, structured coaching, gentle waves. For the non-surfing parent, spectator tickets give lounge and restaurant access without a surf session booking.</p>
+
+<h4>Where should I stay if I'm visiting Palm Springs Surf Club?</h4>
+<p>The Sundune at <a href="https://indigopalm.co">indigopalm.co</a> is 1.3 miles from PSSC in Palm Springs, sleeps 4 across 3 king beds, and is dog-friendly with prior approval. If you're combining a Surf Club visit with Coachella or Stagecoach, staying in Indio adds 25-30 minutes to the PSSC drive but puts you within walking distance of the polo grounds — Cozy Cactus and Terra Luz are both 3-bedroom options there.</p>

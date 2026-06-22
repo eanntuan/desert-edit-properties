@@ -112,3 +112,61 @@ layout: blog-post.njk
 <p>This headboard is in the Cali Room, our third bedroom, which is also the most flexible: king bed, DIY pull-out trundle, Kahlo Blue workstation behind bifold doors. The full story of how that room came together is in the <a href="/blog/terra-luz-cali-room-bedroom/">Cali Room post</a>. If you want to see the primary bedroom's take on a similar warm-materials brief, that's covered in the <a href="/blog/terra-luz-primary-bedroom/">primary bedroom post</a>.</p>
 
 <p>Terra Luz is available to book in Indio, walking distance to Empire Polo Club. Check availability at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which IKEA product do you use for this rattan headboard hack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The IKEA IVAR door with the bamboo woven panel insert, item 10453072, sold in 2-packs at $45 each. You need two 2-packs for a king bed. Buy both packs from the same production run so the bamboo color matches between panels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does this headboard work on stucco walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with toggle bolts as a backup even where you hit studs. Stucco in older desert homes can crumble around a standard screw under sustained load. Toggle bolts rated for 25 lbs per panel keep the installation secure long-term."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do this hack for a queen bed instead of a king?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three panels cover about 51 inches, slightly wider than a queen mattress, with equal margins on each side. Buy one 2-pack plus one additional door if sold separately, or two 2-packs and save the fourth panel for another use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the IKEA IVAR headboard install take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two to three hours including wall layout, stud finding, cleat installation, and hanging all four panels. The layout and marking phase takes longer than most people expect. Budget a full afternoon if working solo."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+## Frequently Asked Questions
+
+<h4>Which IKEA product do you actually use for this headboard?</h4>
+<p>The IKEA IVAR door with the bamboo woven panel insert, sold in 2-packs (item 10453072). You need two 2-packs for a king bed. Buy both packs from the same production run if possible so the bamboo color matches — there's subtle variation between batches.</p>
+
+<h4>Does the headboard work on stucco walls, not just drywall?</h4>
+<p>Yes, with toggle bolts as a backup even where you hit studs. Stucco in older desert homes can crumble around a standard screw under sustained lateral load. Toggle bolts rated for 25 lbs per panel give you a secure installation that won't shift when pillows pile up against it.</p>
+
+<h4>Can you do this hack for a queen bed instead of a king?</h4>
+<p>Three panels cover about 51 inches, which is slightly wider than a queen mattress and works well with equal margins on each side. You'd buy one 2-pack and one additional single door if IKEA sells them separately in your region, or buy two 2-packs and save the fourth panel for a future project.</p>
+
+<h4>How long does the whole install take?</h4>
+<p>Two to three hours including the wall layout, finding studs, cutting and mounting cleats, and hanging all four panels. The layout and marking phase takes longer than most people expect — rushing it is where alignment errors happen. Budget a full afternoon if you're doing it solo. You can see the finished result in the Cali Room at <a href="/terra-luz/">Terra Luz</a>, bookable at indigopalm.co/terra-luz.</p>

@@ -118,3 +118,78 @@ relatedPosts:
 
 <h3>When should I book for BNP Paribas Open 2027?</h3>
 <p>By November 2026 for the best Indian Palms and Palm Springs properties. Tournament week fills some of the valley's most popular rentals before the calendar turns. If you're already planning the trip, check availability now. The Cozy Cactus and Terra Luz take direct bookings at indigopalm.co, which opens availability before Airbnb listings are updated.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far is Indio from the Indian Wells Tennis Garden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 20-25 minutes east on Highway 111. Indian Wells Tennis Garden sits almost exactly between Palm Springs and Indio, making both cities roughly equidistant from the venue. Indio offers larger houses with private pools at better price points; Palm Springs offers walkable city access. The difference is what you come home to after 8 hours of tennis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a private vacation rental better than a hotel for BNP Paribas Open week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For groups of four or more, usually yes. You get a kitchen (which matters over a week), private outdoor space, no shared pool schedule, and more space per dollar than Indian Wells hotel rates during tournament week. For couples or solo travelers who want to walk to dinner after the last match, hotels in Palm Springs make more sense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for in a BNP Paribas Open rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heated pool, fast wifi (ask for a specific speed test result — 100+ Mbps is useful), covered outdoor space, proximity to a grocery store, and a kitchen with real cooking capacity. A full refrigerator and counter space visible in listing photos tells you more than 'fully equipped kitchen' in the description. Confirm pool heating lead time before you arrive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I book for BNP Paribas Open 2027?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By November 2026 for the best Indian Palms and Palm Springs properties. Tournament week fills some of the valley's most popular rentals before the calendar turns. The Cozy Cactus and Terra Luz take direct bookings at indigopalm.co, which removes the Airbnb service fee — meaningful savings on a week-long stay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I bring my dog to a vacation rental near the BNP Paribas Open?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but dog-friendly inventory during tournament week is limited. Terra Luz in Indian Palms Country Club, about 20 minutes from the Indian Wells Tennis Garden, allows up to 2 dogs with a $150 pet fee and has a private backyard with a saltwater pool. Book early — pet-friendly rentals fill faster than standard properties during BNP Paribas week."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is rideshare a realistic option from Indio to the Indian Wells Tennis Garden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. From Indian Palms it's a 20-25 minute ride on the 111, and post-match surges from Indian Wells are less severe than Coachella weekend. Parking at the venue costs $20-40 per day, so rideshare often comes out cheaper on multi-session days and eliminates the outer-lot walk in afternoon desert heat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do vacation rentals near the BNP Paribas Open require minimum stays during tournament week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most hosts in Indian Palms and Palm Springs set 5-7 night minimums during tournament week. If your attendance is shorter, look for properties that take direct bookings with more flexibility outside platform restrictions. The Cozy Cactus and Terra Luz accept direct bookings at indigopalm.co."
+      }
+    }
+  ]
+}
+</script>
+
+
+<h4>Can I bring my dog to a vacation rental near the BNP Paribas Open?</h4>
+<p>Dog-friendly options exist but book faster than standard rentals during tournament week. Terra Luz in Indian Palms Country Club is pet-friendly (up to 2 dogs, $150 fee), with a private backyard and saltwater pool about 20 minutes from the Indian Wells Tennis Garden. Given that match days run 10am to 10pm, a private outdoor space rather than a shared property makes the arrangement significantly easier for everyone.</p>
+
+<h4>Is rideshare a realistic option from Indio to the Indian Wells Tennis Garden?</h4>
+<p>Yes. From Indian Palms, it's a 20-25 minute rideshare to the venue on the 111, and post-match surges from Indian Wells are less severe than Coachella weekend because the crowd disperses over a longer window. Parking at the venue runs $20-40 per day, so if you're attending multiple sessions, rideshare often comes out cheaper, and it removes the outer-lot walk in afternoon heat.</p>
+
+<h4>Do vacation rentals near the BNP Paribas Open require minimum stays during tournament week?</h4>
+<p>Most hosts in Indian Palms and Palm Springs set 5-7 night minimums during BNP Paribas week, particularly for three-bedroom homes. This is partly because the tournament runs two full weeks, and many guests attend for most of it. If you're only attending a few days, you may have better luck booking a property where the minimum aligns with your stay, or looking at properties where the host takes direct bookings and has flexibility outside platform restrictions. The Cozy Cactus and Terra Luz both accept direct bookings at <a href="https://indigopalm.co">indigopalm.co</a>.</p>

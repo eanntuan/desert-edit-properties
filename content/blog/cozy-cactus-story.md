@@ -174,3 +174,59 @@ layout: blog-post.njk
 
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial drone shot of The Cozy Cactus vacation rental in Indian Palms Indio CA at sunset with pool and mountain views" loading="lazy" decoding="async" width="1400" height="933">
 <p class="image-caption">Indian Palms Country Club at sunset. The pool is the blue rectangle. That's the backyard.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it cheaper to book The Cozy Cactus directly instead of through Airbnb?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Booking at indigopalm.co/cozy-cactus/ skips the Airbnb guest service fee, typically 14-16% of the subtotal. The nightly rate is the same either way. For festival weeks when base rates are elevated, the savings are proportionally larger — often $200 or more on a typical stay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ages is the baby gear at The Cozy Cactus designed for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The gear covers newborn through early toddler, roughly 0-3 years. Stokke high chair for 6 months to 3 years, pack-n-play for newborn through 18 months, plus Keekaroo changing table, bottle warmer, diaper pail, outlet covers, cabinet locks, kids' dishes, and sippy cups. Sound machines are in every bedroom."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does The Cozy Cactus have pool access?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, two ways. The private backyard has a hot tub for exclusive household use. The Indian Palms Country Club community pool is available to guests through the property's HOA access. The backyard is enclosed and works well for toddlers running around unsupervised."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to visit Indio with a family outside of festival season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through November and January through March are the best windows. Temperatures run 75-90 degrees, the desert is quiet, and rates drop well below festival weeks. Summer averages 110-degree afternoons, which limits outdoor time significantly. Spring Coachella weekends book 6-12 months in advance."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Is it cheaper to book directly instead of through Airbnb?</h4>
+<p>Yes. Booking at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus/</a> skips the Airbnb guest service fee, which typically runs 14-16% of the subtotal. The nightly rate is identical either way, and the booking flow takes about 3 minutes through Square. For festival weeks when base rates are already elevated, the savings are proportionally larger.</p>
+
+<h4>What ages is the baby gear designed for?</h4>
+<p>The Stokke high chair works from 6 months through roughly 3 years, and the pack-n-play covers newborn through 18 months or so. Infant-stage gear includes a Keekaroo changing table, bottle warmer, diaper pail, outlet covers, and cabinet locks. Kids' dishes and sippy cups extend the kitchen setup through the early toddler window. Beyond that age range, the house still works well as a family rental, the infant infrastructure just becomes less central.</p>
+
+<h4>Does the house have access to a pool?</h4>
+<p>Yes, two ways. The private backyard has a hot tub for the household's exclusive use. The Indian Palms Country Club community pool is a separate amenity available to guests through the property's HOA access. They serve different moods: the backyard is for post-festival decompression or morning coffee, the community pool for longer afternoon sessions with kids.</p>
+
+<h4>What is the best time of year to visit Indio with a family (outside of festival season)?</h4>
+<p>October through November and January through March are the sweet spots. Temperatures are warm but not punishing, typically 75-90 degrees, the desert roads are quiet, and rates are well below festival weeks. Summer (June through August) is cheap for good reason: 110-degree afternoons limit outdoor time to morning and evening. Spring festival weekends in April book 6-12 months out, so families who want Coachella proximity without the crowd should target the shoulder months on either side.</p>

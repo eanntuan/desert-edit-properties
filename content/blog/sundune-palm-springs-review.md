@@ -171,3 +171,86 @@ relatedPosts:
 <h3>How many nights should I stay at The Sundune?</h3>
 <p>Plan 3 nights minimum: one morning for the architecture walk and Moorten Botanical Garden, one evening at Boozehounds after a slow brunch at Wilma and Frieda's, one day at Palm Springs Surf Club. Two nights gets you there but leaves you feeling like you missed things. A Thursday arrival means VillageFest is your first night, which is a good way to start.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many people does The Sundune sleep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four comfortably, across two bedrooms with three king beds total. All beds are actual sleeping arrangements, not air mattresses. For groups of five or more, the Indio properties with larger floor plans are the better fit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune pet-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One pet is welcome with a $150 pet fee. Email indigopalmco@gmail.com before booking to confirm. The condo has a balcony but no fenced yard. Dogs needing a private outdoor run are better suited to Terra Luz in Indio, which has a fully fenced backyard."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune walking distance to downtown Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Palm Canyon Drive, with its restaurants, coffee shops, and galleries, is a short walk from the condo. Most guests walk to dinner and back without thinking about it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to stay at The Sundune?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "March is the best month: mid-70s to low-80s, open restaurant tables, the desert at its most comfortable. October and November are nearly as good. Summer works for guests who plan around heat, staying pool-based in the afternoon and out in the evening."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay at The Sundune?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The HOA requires a 4-night minimum on weekday arrivals and a 5-night minimum on weekend arrivals. This is not flexible. A Thursday check-in clears the minimum and lands you at VillageFest on your first evening."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is The Sundune from Coachella festival grounds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 25 miles, translating to 30 to 45 minutes on a normal day and longer with festival traffic. Guests prioritizing festival access are better served by Indigo Palm's Indio properties, which are 7 to 10 minutes from the polo grounds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune good for a bachelorette trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For groups of four, yes. Three king beds, community pool, and five minutes from Palm Canyon Drive covers the basics. Larger groups are better served by the Indio properties, which have more capacity and private outdoor spaces."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic drive to The Sundune from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East to Gene Autry Trail gets you there in about 2 hours from downtown LA. For a better arrival, exit at Date Palm Drive in Cathedral City and take Highway 111 west, which brings you onto the Palm Springs strip with the San Jacinto Mountains filling your windshield."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+<h4>What is the minimum stay at The Sundune?</h4>
+<p>The Palm Canyon Villas HOA requires a 4-night minimum on weekday arrivals and a 5-night minimum on weekend arrivals. This is not flexible. A Thursday check-in clears the minimum and lands you at VillageFest on your first evening, which is a good way to start. If you need a 2 or 3-night window, check the Indio properties at <a href="https://indigopalm.co">indigopalm.co</a> for different minimums.</p>
+
+<h4>Is The Sundune good for a bachelorette trip?</h4>
+<p>For groups of four, yes. Three king beds across two bedrooms, community pool, and five minutes on foot from Palm Canyon Drive's bars and restaurants covers the basics well. Larger bachelorette groups tend to be better served by the Indio properties, which have more sleeping capacity and private outdoor spaces built for that kind of trip.</p>
+
+<h4>How does The Sundune compare to staying in Indio for Coachella?</h4>
+<p>The Sundune puts you 30 to 45 minutes from the festival grounds on normal days, longer with festival traffic. If Coachella or Stagecoach attendance is the main point of your trip, the Cozy Cactus and Terra Luz in Indio are 7 to 10 minutes from the polo grounds and a more practical base. The Sundune makes sense if you're splitting time between the festival and Palm Springs itself.</p>

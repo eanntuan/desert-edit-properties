@@ -206,3 +206,67 @@ layout: blog-post.njk
 
 <h3>What is the most scenic road into the Coachella Valley from Los Angeles?</h3>
 <p>I-10 East is the default, about 2 hours from downtown LA. The more memorable approach: exit at Date Palm Drive in Cathedral City and take Highway 111 east through the valley floor. Palm Springs gives way to date farms, then the mountains close in as you approach Indio. It adds 20 minutes and the landscape tells you everything about where you're going before you arrive.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where should I stay in the Coachella Valley if I'm not going to a festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Renting a private home in Indio gives you the most space for the money, with a private pool and full kitchen. Terra Luz is a 3-bedroom Cuban-inspired house with a saltwater pool. Cozy Cactus is a family-oriented 3-bedroom with community pool access and infant gear. Both are 30 minutes from Palm Springs and 45 minutes from Joshua Tree, and both book direct at indigopalm.co with no Airbnb service fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I bring my dog to a Coachella Valley vacation rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz in Indio is dog-friendly with a fenced terracotta patio and backyard. The Sundune in Palm Springs is dog-friendly with prior approval. Cozy Cactus does not accept pets. For a dog-friendly Indio stay, see indigopalm.co/terra-luz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best Coachella Valley rental for a family with young kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cozy Cactus in Indio is built for families: infant gear already in the house, a quiet street, community pool, and fenced yard. It's rated 4.97 stars across 146 reviews. Nearby Joshua Tree trails like Skull Rock and Barker Dam are manageable with young children."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth renting a house instead of a hotel in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For groups of three or more staying four or more nights, a private rental wins on cost and space. You get a private pool, a kitchen, and more room. Palm Springs hotels make sense for couples wanting walkable downtown access. Basing in Indio and day-tripping to Palm Springs (30 minutes) saves significantly without sacrificing access to anything in the valley."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I plan a long weekend in the Coachella Valley on a budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visit in fall (October or November) when rates are 30-40% below Coachella-weekend pricing and weather is ideal. Base in Indio rather than Palm Springs for better value with private pools. Joshua Tree requires only a national parks pass. Booking direct at indigopalm.co skips the Airbnb service fee, saving $50-150 on a typical stay."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Where should I stay in the Coachella Valley if I'm not going to a festival?</h4>
+<p>Renting a private home in Indio gives you the most space for the money: your own pool, a full kitchen, and outdoor living that makes a 4-day trip feel like an actual reset. <a href="/terra-luz/">Terra Luz</a> is a 3-bedroom Cuban-inspired house with a saltwater pool, and <a href="/cozy-cactus/">Cozy Cactus</a> is a family-oriented 3-bedroom with community pool access and infant gear already stocked. Both are 30 minutes from Palm Springs and 45 minutes from Joshua Tree, so you're not trading access for affordability. Both book direct at <a href="https://indigopalm.co">indigopalm.co</a>, which skips the Airbnb service fee.</p>
+
+<h4>Can I bring my dog to a Coachella Valley vacation rental?</h4>
+<p>Terra Luz in Indio is dog-friendly and has a fenced terracotta patio and backyard well-suited for dogs. The Sundune in Palm Springs is also dog-friendly with prior approval, per the HOA. Cozy Cactus does not accept pets. If you're traveling with a dog, Terra Luz is the Indio option — see details at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+
+<h4>What's the best Coachella Valley rental for a family with young kids?</h4>
+<p>Cozy Cactus in Indio is set up specifically for families: infant gear already in the house (pack-n-play, high chair), a quiet residential street, community pool, and a fenced yard. It's 4.97 stars across 146 reviews. Easy-access Joshua Tree trails like Skull Rock and Barker Dam work well with kids, and date farm stops along Highway 111 are a genuinely interesting detour for younger travelers.</p>
+
+<h4>Is it worth renting a house instead of a hotel in Palm Springs?</h4>
+<p>For groups of three or more staying four or more nights, a private rental house almost always wins: lower cost per person, a private pool instead of a shared one, a kitchen for some meals, and more room to spread out. Palm Springs hotels make sense for couples or solo travelers who want daily service and a walkable downtown scene. For everyone else, basing in Indio and day-tripping to Palm Springs (30 minutes away) saves money without sacrificing access.</p>

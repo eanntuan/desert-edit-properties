@@ -128,3 +128,80 @@ For the full coffee and café picture beyond just pastries, the [Palm Springs co
 
 <h3>Where can I get a good bagel in Palm Springs?</h3>
 <p>Townie Bagels on E Sunny Dunes Road is the place. Water-boiled in the New York style, chewy and dense with a crust that holds up. The olive and fennel bagel appears as a weekend special and is worth planning around. Expect a wait on weekend mornings.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best pastry in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The almond croissant at Koffi on N Palm Canyon Drive is the most consistent pick: proper lamination, dense almond filling, and sized like an actual croissant rather than a miniature version. Peninsula Pastries on S Palm Canyon Drive is the more French option, with imported flour and butter that makes a clear difference in the pain au chocolat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What time do Palm Springs bakeries run out of pastries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most of the best items are gone by 10am on weekends. The ideal window is 8 to 9:30am. Peninsula Pastries in particular sells out of the most popular items early on Saturdays. Arriving at opening gives you the full selection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Peninsula Pastries open every day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Peninsula Pastries is closed Monday through Wednesday. Hours are Thursday through Saturday 8:30am to 5pm, Sunday 8:30am to 4pm. If your trip runs Sunday through Tuesday, plan for Koffi or Townie Bagels instead."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I get a good bagel in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Townie Bagels on E Sunny Dunes Road is the place. Water-boiled in the New York style, chewy and dense with a crust that holds up. The olive and fennel bagel appears as a weekend special and is worth planning around. Expect a wait on weekend mornings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the best place to stay in Palm Springs to be close to the bakeries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Sundune is a two-bedroom condo in Palm Springs with easy access to both Koffi and Peninsula Pastries. Peninsula Pastries at 611 S Palm Canyon is about a five-minute drive, and Koffi North on Indian Canyon is even closer. Book direct at indigopalm.co/the-sundune to avoid Airbnb fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there good pastries near Coachella and Stagecoach in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best pastry spots are in Palm Springs, roughly 25 to 30 minutes west of the Indio polo grounds. A morning run to Koffi or Peninsula Pastries before festival hours is worth the drive, especially in the early morning when the desert highway is quiet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Sherman's Deli in Palm Springs have good pastries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sherman's is more of a deli with a serious pie case than a traditional bakery, making it better as an afternoon stop rather than a morning pastry destination. They make over 25 pie varieties including lemon dome and key lime. For morning croissants, Koffi and Peninsula Pastries are the right call."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Where is the best place to stay in Palm Springs to be close to the bakeries?</h4>
+<p>The Sundune is a two-bedroom condo in Palm Springs with easy access to both Koffi and Peninsula Pastries, which are the two strongest pastry stops in the city. Peninsula Pastries at 611 S Palm Canyon is about a five-minute drive, and Koffi North on Indian Canyon is even closer. Book direct at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a> to skip Airbnb fees.</p>
+
+<h4>Are there good pastries near Coachella and Stagecoach in Indio?</h4>
+<p>The best pastry spots are in Palm Springs, roughly 25 to 30 minutes west of the Indio polo grounds. A morning run to Koffi or Peninsula Pastries before festival hours is genuinely worth the drive, especially in the early morning when the desert highway is quiet. Most of the festival area itself doesn't have the same quality of bakeries.</p>
+
+<h4>Does Sherman's Deli in Palm Springs have good pastries?</h4>
+<p>Sherman's is more of a deli with a serious pie case than a traditional bakery. They make over 25 pie varieties including lemon dome and key lime, which makes it a better afternoon or dessert-style stop rather than a morning pastry destination. If you're looking for croissants first thing in the morning, Koffi and Peninsula Pastries are the right call. Sherman's fills a different need later in the day.</p>

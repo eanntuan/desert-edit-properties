@@ -157,3 +157,77 @@ layout: blog-post.njk
 
 <h3>Can you do a day trip from Palm Springs?</h3>
 <p>Yes. Joshua Tree is about an hour away. The <a href="/blog/palm-springs-aerial-tram/">Palm Springs Aerial Tram</a> is 15 minutes from downtown and worth a half-day. Build one day trip into the schedule and leave the others for the city itself.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many days do you need in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three days is the sweet spot. Two feels rushed if you want to hike and eat well. Four starts to feel padded. For festival weekends, plan around the festival schedule rather than a fixed city itinerary."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs walkable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Downtown is very walkable. For Indian Canyons, the Aerial Tram, or Joshua Tree, you need a car. Rentals close to the center of town get the most out of the walkability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through April. Spring is the most popular for good reason: perfect temperatures and the full energy of the city. Summer works on a heat-adjusted schedule. Fall and winter offer lower rates and quieter streets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do a day trip from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Joshua Tree is about an hour away. The Palm Springs Aerial Tram is 15 minutes from downtown and worth a half-day. Build one day trip into the schedule and leave the others for the city itself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best neighborhood to stay in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The area near downtown Palm Canyon Drive or the Uptown Design District puts you walking distance from the best coffee, restaurants, and the midcentury modern residential neighborhoods. You still need a car for Indian Canyons and anything outside downtown. The Sundune at 5301 E Waverly Drive sits close to the architecture walk zone and books direct at indigopalm.co."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I leave Palm Springs on Sunday to avoid traffic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leave before noon or after 6pm. The I-10 west toward Los Angeles runs slow from roughly 1pm to 5pm on Sunday, and on holiday weekends it can extend well past that. A slow brunch and a 6pm departure beats leaving at 2pm every time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are the hikes near Palm Springs suitable for a casual weekend trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Murray Canyon (3.5-mile out-and-back through fan palm groves) and Tahquitz Canyon (1.9-mile loop with a 60-foot waterfall) are both 15 minutes from downtown and require nothing more than trail runners and water. Both close in summer heat, so check indian-canyons.com before going."
+      }
+    }
+  ]
+}
+</script>
+
+<h4>What is the best neighborhood to stay in Palm Springs?</h4>
+<p>The area near downtown Palm Canyon Drive or the Uptown Design District puts you walking distance from Koffi, Cheeky's, and the midcentury modern residential neighborhoods. You'll still need a car for Indian Canyons and anything outside the downtown core, so proximity to parking and walkable morning coffee is the real variable. <a href="https://indigopalm.co/the-sundune/">The Sundune</a> at 5301 E Waverly Drive sits close to the architecture walk zone and books direct at indigopalm.co.</p>
+
+<h4>When should I leave Palm Springs on Sunday to avoid traffic?</h4>
+<p>Leave before noon or after 6pm. The I-10 west toward Los Angeles runs slow from roughly 1pm to 5pm on Sunday, and on holiday or post-festival weekends it can extend well past that. A slow Cheeky's brunch, a full checkout, and a final walk before a 6pm departure beats leaving at 2pm every time.</p>
+
+<h4>Are the hikes near Palm Springs suitable for a casual weekend trip?</h4>
+<p>Yes. Murray Canyon (3.5-mile out-and-back, fan palm groves, seasonal waterfall) and Tahquitz Canyon (1.9-mile loop, 60-foot waterfall) are both accessible from downtown in about 15 minutes and require nothing more than trail runners and a water bottle. Both close in summer heat, so check indian-canyons.com before going.</p>

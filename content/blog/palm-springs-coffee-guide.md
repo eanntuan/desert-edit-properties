@@ -218,3 +218,88 @@ layout: blog-post.njk
 
 <h3>Where can I get matcha in the Coachella Valley?</h3>
 <p>Buena Matcha in Palm Desert is the valley's first dedicated matcha shop, focused on bright, cooling flavors over ice. Everbloom in Indio also does a standout matcha latte. Mentosa Coffee at the Mojave Flea Trading Post in Palm Springs has creative drinks worth trying. All three take the ingredient seriously rather than treating it as a color option.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best coffee shop in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Koffi at the North Palm Canyon location is the local standard. It's been around for over 20 years, the outdoor patio is the right place to start a morning, and the iced latte is consistent. Cartel Coffee Lab at the Arrive Hotel is the right call if you want specialty single-origin coffee with serious sourcing behind it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there good coffee in Indio, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Everbloom Coffee on Highway 111 is the best in Indio: precise drinks, real ingredients, and a matcha latte that rivals anything in LA. Saguaro Coffee is a solid independent alternative with outdoor seating and an unhurried pace. Both are within minutes of The Cozy Cactus and Terra Luz at indigopalm.co."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Koffi in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Koffi has multiple locations. The flagship with the best outdoor seating is at 515 N Palm Canyon Dr. There's also a location at 1700 S Camino Real and a newer outpost further north. The North Palm Canyon location is the right one for a slow morning with somewhere to sit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I order at Cartel Coffee Lab in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cold brew if you're visiting in the hot months. Their focus is on direct-trade, single-origin beans, so whatever pour-over or espresso they're featuring on a given day is usually the honest answer. The Arrive Hotel location is well-designed and worth stopping for even if coffee wasn't your original plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I get matcha in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buena Matcha in Palm Desert is the valley's first dedicated matcha shop, focused on bright, cooling flavors over ice. Everbloom in Indio also does a standout matcha latte. Mentosa Coffee at the Mojave Flea Trading Post in Palm Springs has creative drinks worth trying. All three treat matcha as the actual focus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I get coffee near the Coachella or Stagecoach festival grounds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cartel Coffee Lab sets up at Empire Polo Club during festival weekends. For Indio shops near the grounds, Everbloom Coffee on Highway 111 is a 5-minute drive with the best matcha latte in the valley. Saguaro Coffee and The Vintage Coffee House are both close and low-friction for a pre-festival morning run."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most unique coffee experience in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coffeeism Co. is the outlier: owner Guillaume Galataud trained in Tokyo, Mexico City, and Melbourne, and the drinks include pineapple-espresso combinations and juice-spiked lattes that actually work. Mentosa Coffee at the Mojave Flea Trading Post is the other answer, with The Whisper (coconut, orange, cinnamon, vanilla cold foam) as the standout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What time should I go to coffee shops in Palm Springs in summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before 9 AM in summer. Most shops open between 6:30 and 7 AM. In winter and spring, the window is much more forgiving: mornings run 60-65°F and clear, and sitting on Koffi's North Palm Canyon patio for an hour is genuinely pleasant. Festival weekends in Indio get busy fast; weekday mornings are noticeably quieter."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Where should I get coffee near the Coachella or Stagecoach festival grounds?</h4>
+<p>Cartel Coffee Lab sets up a pop-up at Empire Polo Club during festival weekends, so you can get real specialty coffee without leaving the grounds. For Indio shops near the polo fields, Everbloom Coffee on Highway 111 is a 5-minute drive with the best matcha latte in the valley and solid espresso. Saguaro Coffee and The Vintage Coffee House are both close and low-friction for a pre-festival morning run.</p>
+
+<h4>What is the most creative or unusual coffee drink in the Coachella Valley?</h4>
+<p>Coffeeism Co. in Palm Springs is the answer: owner Guillaume Galataud trained in Tokyo, Mexico City, and Melbourne, and the drinks show it, including pineapple and espresso combinations and juice-spiked lattes that hold up as actual drinks rather than novelty. Mentosa Coffee at the Mojave Flea Trading Post is the other contender, with The Whisper (coconut, orange, cinnamon, vanilla cold foam) as the standout. Both are Palm Springs-specific experiences you won't find replicated elsewhere.</p>
+
+<h4>Is there a coffee shop in the Coachella Valley open early enough for a sunrise morning?</h4>
+<p>Most of the shops on this list open between 6:30 and 7 AM, which gives you a window before the heat builds in summer. Koffi's North Palm Canyon patio is especially worth it in winter and spring when mornings run 60-65°F and clear. In summer, the practical rule is to finish your coffee run before 9 AM: not because shops close, but because the heat at 11 AM changes the experience considerably. More on valley logistics and what to do after your morning coffee at <a href="https://indigopalm.co/blog/palm-springs-coffee-guide/">indigopalm.co/blog/palm-springs-coffee-guide/</a>.</p>

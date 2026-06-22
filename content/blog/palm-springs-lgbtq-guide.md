@@ -169,3 +169,88 @@ layout: blog-post.njk
 <p><a href="/the-sundune/">The Sundune</a> is 5 minutes from Arenas Road. It's a two-bedroom condo in a gated community with a pool, fully stocked kitchen, and parking. Not a clothing-optional resort, not a gay-specific property, but a well-designed place to stay that puts you close to everything in this guide without the noise of being in the middle of it. Good for a group of four, or a couple who wants to stay somewhere comfortable rather than squeezing into a motel room.</p>
 
 <p>The gay-specific resorts (INNdulge, Triangle Inn, Hacienda at Warm Sands) are clothing-optional properties in the Warm Sands neighborhood south of downtown. Different experience. Worth knowing if that's what you're looking for.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs a good destination for LGBTQ+ travelers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, one of the most established in the country. The city has had LGBTQ+ mayors and council majorities for years, and the Arenas Road bar district has been a gathering hub since the 1970s. Public displays of affection are completely normal throughout the city, not just on Arenas Road."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is White Party Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "White Party typically runs over four days in mid-April, usually the weekend after Coachella. Book accommodation months in advance. It's one of the biggest fundraising events for HIV/AIDS organizations in the country and draws tens of thousands of visitors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is The Dinah Shore Weekend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Dinah, held in late March or early April, is the largest lesbian event in the world. The weekend runs pool parties, concerts, comedy shows, and a full schedule of events centered at one of the main hotels. It's been running for over 30 years."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What bars are on Arenas Road in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main anchors are Hunters Nightclub (dance bar, drag shows nightly), The Barracks (leather and Levi's, pool tables), Toucan's Tiki Lounge (neighborhood bar, drag shows), Chill Bar, and Quadz Video Bar. Bar Cecil on N Palm Canyon Drive is a 10-minute walk and worth adding for cocktails before the strip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is Palm Springs Pride?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first full weekend in November. A street festival on Saturday, a parade on Sunday morning, and venues running events throughout the weekend. The November timing means ideal weather, with daytime highs in the mid-70s."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Palm Springs LGBTQ+ Film Festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Palm Springs International LGBTQ+ Film Festival runs for about a week in October at the Palm Springs Cultural Center. It's a focused cultural event with screenings, filmmaker talks, and industry guests. October is one of the better times to visit: the weather is cooling down from summer and accommodation is much easier to book than during spring event season."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit Palm Springs as an LGBTQ+ traveler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through April covers the main window. November is the most balanced: Pride runs the first full weekend, weather is ideal with daytime highs in the mid-70s, and the city is lively without the intensity of White Party or Coachella weekend. Summer regularly exceeds 110°F and most seasonal LGBTQ+ events cluster in the fall-to-spring window."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there LGBTQ+-friendly places to stay in Palm Springs beyond the clothing-optional resorts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The gay-specific resorts in Warm Sands (INNdulge, Triangle Inn, Hacienda at Warm Sands) are the most visible option, but the broader short-term rental market works well because Palm Springs as a whole is genuinely welcoming. The Sundune is a two-bedroom condo with three king beds, a community pool, and a five-minute drive from Arenas Road, available to book directly at indigopalm.co/the-sundune/"
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What is the Palm Springs LGBTQ+ Film Festival?</h4>
+<p>The Palm Springs International LGBTQ+ Film Festival runs for about a week in October at the Palm Springs Cultural Center and other venues. It's a focused cultural event rather than a party event. Screenings, filmmaker talks, and industry guests, not a party weekend. October is one of the better times to visit the city: the weather is cooling down from summer and accommodation is much easier to book than during the spring event season.</p>
+
+<h4>What is the best time of year to visit Palm Springs as an LGBTQ+ traveler?</h4>
+<p>October through April covers the main window, with November being the most balanced: Pride runs the first full weekend of the month, weather is ideal with daytime highs in the mid-70s, and the city is lively without the intensity of White Party or Coachella weekend. Summer (June through September) is genuinely hot, regularly above 110°F, and the outdoor bar scene on Arenas Road that defines Palm Springs is much less enjoyable at those temperatures.</p>
+
+<h4>Are there LGBTQ+-friendly places to stay in Palm Springs beyond the clothing-optional resorts?</h4>
+<p>Yes. The gay-specific resorts in Warm Sands (INNdulge, Triangle Inn, Hacienda at Warm Sands) are the most visible option, but the broader short-term rental market works well because Palm Springs as a whole is genuinely welcoming. <a href="/the-sundune/">The Sundune</a> is a two-bedroom condo with three king beds, a community pool, and a five-minute drive from Arenas Road, available to book directly at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a>. Private rentals are often the better choice for groups who want space, a full kitchen, and somewhere to land after a long event night.</p>

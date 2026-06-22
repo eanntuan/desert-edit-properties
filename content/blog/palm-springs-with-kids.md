@@ -181,3 +181,77 @@ layout: blog-post.njk
 <h3>Is The Sundune suitable for a family with a baby or toddler?</h3>
 <p>Yes. We keep a Pack 'n Play and high chair available, the community pool is a one-minute walk, and the two-bedroom layout gives parents actual separation from kids at night. It fits a family of four comfortably. For families of 5 or more, the Cozy Cactus in Indio is the better fit.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs good for young kids and toddlers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with planning. The Living Desert Zoo is excellent for toddlers, Bear Creek Trail is stroller-friendly, and a condo with a kitchen and pool changes the daily rhythm significantly. The main challenge is heat: desert temperatures peak in early afternoon, so morning activities and afternoon pool time is the practical rhythm. Most families find two or three activities per day, with built-in downtime, works better than a packed schedule."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What age is the Palm Springs Aerial Tram appropriate for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "8 and up is the comfortable range. The tram car is fine for younger kids, but the destination at the top is cold, exposed, and alpine, which can overwhelm young children who want to run around in warm weather. Older kids who like heights and outdoor experiences tend to love it. For kids under 8, the Air Museum is a better alternative with hands-on exhibits and a flight simulator."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is the Living Desert from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 20 minutes, in Palm Desert via Highway 111. Plan for it to be an anchor activity: budget 2.5 to 3 hours to actually see it. Go before 10am because the heat arrives fast and the animals are most active in the morning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune suitable for a family with a baby or toddler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Sundune keeps a Pack 'n Play and high chair available, the community pool is a one-minute walk, and the two-bedroom layout gives parents separation from kids at night. It fits a family of four comfortably. For families of 5 or more, the Cozy Cactus in Indio is the better fit with three bedrooms and a private hot tub."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay at The Sundune for a family trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The HOA at Palm Canyon Villas requires a 4-night minimum on weekdays and a 5-night minimum when the stay includes a weekend night. This applies to all rentals in the complex. A long weekend trip works; a 2-night stay does not. Book direct at indigopalm.co with no service fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I bring a dog to The Sundune or other Palm Springs vacation rentals in this area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Sundune is dog-friendly with prior approval. The Cozy Cactus is not pet-friendly. Terra Luz in Indio is also dog-friendly. If traveling with a dog, flag it at booking. The Sundune accepts dogs with advance notice and the community grounds offer enough space for morning walks before the heat arrives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a car necessary for a family trip to Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staying near Palm Canyon Drive means walking to dinner, dessert, and evening strolls. For bigger activities a car is needed: Living Desert is 20 minutes away in Palm Desert, Bear Creek Trail is 25 minutes in La Quinta, and Cabazon Dinosaurs are 30 minutes west on I-10. The practical rhythm is walking for meals and evenings, driving for the day's anchor activity."
+      }
+    }
+  ]
+}
+</script>
+
+
+<h4>What is the minimum stay at The Sundune for a family trip?</h4>
+<p>The HOA at Palm Canyon Villas requires a 4-night minimum on weekdays and a 5-night minimum when the stay includes a weekend night. This applies to all rentals in the complex, not just Indigo Palm properties. Plan accordingly: a long weekend trip works, but a 2-night stay does not. Book direct at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a> with no service fee.</p>
+
+<h4>Can I bring a dog to Palm Springs vacation rentals in this area?</h4>
+<p>The Sundune is dog-friendly with prior approval, and the Cozy Cactus is not pet-friendly. If you're traveling with a dog, flag it when booking: The Sundune accepts dogs with advance notice, and the community grounds give enough room for a morning walk before the heat arrives. Terra Luz in Indio is also dog-friendly for families who want more space or a private pool.</p>
+
+<h4>Is a car necessary for a family trip to Palm Springs?</h4>
+<p>It depends on your base. Staying near Palm Canyon Drive means you can walk to dinner, dessert, and evening strolls without loading anyone into a car seat. For the bigger activities, a car is necessary: the Living Desert is 20 minutes in Palm Desert, Bear Creek Trail is 25 minutes in La Quinta, and Cabazon Dinosaurs are 30 minutes west on I-10. The practical rhythm is: walk for meals and evening, drive for the day's anchor activity.</p>

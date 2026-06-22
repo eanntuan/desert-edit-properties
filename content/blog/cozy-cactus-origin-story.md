@@ -169,3 +169,48 @@ layout: blog-post.njk
 <p>The nearest full grocery store is Stater Bros. on Monroe, about a 5-minute drive. Stock up before you get to the house because Indian Palms has nothing walkable for groceries. During festival weekends, Monroe Street sees heavy traffic from 2pm onward, so time your arrival before noon or after 8pm. Self-check-in via smart lock, codes come 24 hours before arrival.</p>
 
 <p>If you're planning a trip to the Coachella Valley with kids, <a href="/cozy-cactus/">The Cozy Cactus</a> is built around exactly that: families who need gear, space, and a host who thought about the pack-n-play before you asked. For an honest guest perspective on the property, read the <a href="/blog/cozy-cactus-review/">Cozy Cactus review</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is The Cozy Cactus pet friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, The Cozy Cactus does not allow pets. It was designed for families with young children, and keeping it pet-free is part of that commitment. Sister properties Terra Luz (Indio) and The Sundune (Palm Springs) are both dog-friendly. See options at indigopalm.co/cozy-cactus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book The Cozy Cactus directly without paying Airbnb's service fee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Book directly at indigopalm.co/cozy-cactus to skip the platform markup, which typically runs 14-16% on top of the nightly rate. You get the same smart-lock check-in, digital guidebook, and host communication. For festival weekends, direct inventory sometimes holds availability after Airbnb shows sold out."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the community pools like at Indian Palms Country Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indian Palms Country Club has three community pools accessible to Cozy Cactus guests, with the closest reachable through the property's back gate without crossing streets. The pools are shared, not private, but comfortable from March through November without heating. Terra Luz (sister property) has a private on-site pool if that's the priority."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Is The Cozy Cactus pet friendly?</h4>
+<p>No, The Cozy Cactus does not allow pets. It was designed with families and young children as the primary guest, and keeping it pet-free is part of that commitment. If you're traveling with a dog, the sister properties Terra Luz (Indio, private pool) and The Sundune (Palm Springs, requires prior approval) are both dog-friendly. See all options at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus</a>.</p>
+
+<h4>Can I book The Cozy Cactus directly without paying Airbnb's service fee?</h4>
+<p>Yes. Book directly at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus</a> to skip the platform markup, which typically runs 14-16% on top of the nightly rate. You get the same smart-lock check-in, digital guidebook, and host communication. For festival weekends, direct inventory sometimes holds availability after Airbnb shows sold out, so it's worth checking both if you're booking close in.</p>
+
+<h4>What are the community pools like at Indian Palms?</h4>
+<p>Indian Palms Country Club has three community pools accessible to guests, with the closest reachable through the back gate of the property without crossing any streets. The pools are shared (not private), but the Coachella Valley sun keeps them comfortable from March through November without any heating needed. If a fully private pool is the priority, the sister property Terra Luz in Indio has a private pool on-site.</p>

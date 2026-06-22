@@ -213,3 +213,118 @@ layout: blog-post.njk
 <p class="image-caption">The kitchen at The Sundune. Pink herringbone tile, brass hardware, and a window that looks out to the patio.</p>
 
 <p>For more Coachella Valley intel, the <a href="/blog/indio-local-gems/">Indio local gems guide</a> covers the other end of the valley: different energy, just as worth knowing. If you want a full two-day structure for your first Palm Springs visit, the <a href="/blog/palm-springs-weekend-itinerary/">Palm Springs weekend itinerary</a> maps it out hour by hour. And if you're still deciding where to stay: <a href="/the-sundune/">The Sundune</a> is exactly what it sounds like.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best coffee shop in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les Filles in Cathedral City is the most consistent, with a genuine European café approach. Koffi on N Palm Canyon Drive is the longtime local institution and opens at 6am, which matters when you're trying to beat the heat. Sottovoce at The Shops at Thirteen Forty-Five is worth it if you want something slower and more interesting to browse afterward."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat brunch in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Farm is the reliable group option, handles a table of six well. Wilma and Frieda's is the right call if you want the iconic cinnamon roll experience and don't mind waiting. The Front Porch, right next door to The Farm, is a Latin-inspired hole-in-the-wall that earns a separate visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs Surf Club worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if surfing is your thing or you want to try it in a controlled environment. Budget the whole day. The wave pool uses Wavegarden Cove technology and generates real, surfable sets. Non-surfers can eat and watch from the lounge side. Book sessions at least a week ahead on weekends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Moorten Botanical Garden like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small, quiet, and worth going slowly. Over 3,000 cacti and succulents from around the world on about an acre in Palm Springs. Go at golden hour and give yourself at least an hour. It costs a few dollars and stays with you longer than most things you'll pay more for."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where do locals drink in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most scenic way to get to Palm Springs from Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I-10 East to the Gene Autry Trail exit drops you directly into Palm Springs in about 2 hours from downtown LA. The better approach: exit at Date Palm Drive in Cathedral City and come in on Highway 111, which puts you on the main strip with the San Jacinto Mountains rising directly in front of you. That's the one you want for a first visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "March and November are the best months: outdoor dining without dying, coffee shops without lines, hiking in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is fine if you're heat-adjusted and plan around pool time and evening hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many days do you need in Palm Springs to actually experience it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three nights minimum: one morning at Moorten and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday falls in your window, VillageFest is a real reason to arrive a day early."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before my first Palm Springs trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parking on Palm Canyon fills up fast on weekend mornings. Park once on a side street off Belardo or Cahuilla and walk everything from there. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, outdoors before 10am and after 6pm is the rule."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune dog-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with prior approval. The Sundune accepts dogs on a case-by-case basis, so reach out before booking to confirm. The property has a private patio and access to a shared pool area, and Palm Springs has several dog-friendly parks nearby. Book direct at indigopalm.co/the-sundune/ and mention your dog in the inquiry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay at The Sundune?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four nights is the minimum, set by the Palm Canyon Villas HOA. It's the right amount of time to move through this guide without feeling rushed. Two nights goes fast and you'll leave with a list of things you didn't get to."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you walk to Palm Springs restaurants from The Sundune?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Sundune is on E Waverly Drive in the Sunrise Park neighborhood, about 10-15 minutes on foot from Palm Canyon Drive. Most restaurants in this guide are a short drive rather than a walk. Boozehounds and Rooster and the Pig are both under 10 minutes by car."
+      }
+    }
+  ]
+}
+</script>
+
+
+<h4>Is The Sundune dog-friendly?</h4>
+<p>Yes, with prior approval. The Sundune accepts dogs on a case-by-case basis, so reach out before booking to confirm. The property has a private patio and access to a shared pool area, and Palm Springs has several dog-friendly parks and trails nearby including the Gene Autry Trail corridor. Book direct at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a> and mention your dog in the inquiry.</p>
+
+<h4>What is the minimum stay at The Sundune?</h4>
+<p>Four nights is the minimum, which is set by the Palm Canyon Villas HOA. It sounds like a constraint until you're actually here: four nights is genuinely the right amount of time to move through this guide without feeling rushed. Two nights goes fast, and you'll leave with a list of things you didn't get to.</p>
+
+<h4>Can you walk to Palm Springs restaurants from The Sundune?</h4>
+<p>The Sundune is on E Waverly Drive in the Sunrise Park neighborhood, which puts it about 10-15 minutes on foot from Palm Canyon Drive. Most of the restaurants in this guide are a short drive rather than a walk, but the neighborhood itself is quiet and walkable for morning coffee runs or evening strolls. Boozehounds and Rooster and the Pig are both under 10 minutes by car.</p>

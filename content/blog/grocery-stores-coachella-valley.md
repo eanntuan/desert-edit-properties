@@ -113,3 +113,80 @@ Costco in Rancho Mirage is the move for bulk hauls: olive oil, sparkling water, 
 Yes. Instacart delivers from Stater Bros, Walmart, Ralphs, and most other valley chains. Some guests place an order for arrival day so the kitchen is stocked when they check in. For Cozy Cactus and Terra Luz stays, that's the most efficient way to skip the first-day grocery trip entirely.
 
 *Eann hosts guests at Indigo Palm Collective properties in Indio and Palm Springs. She's done this grocery run more times than she can count.*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the closest grocery store to The Cozy Cactus and Terra Luz in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stater Bros on Jackson Street is the closest full-service option, about a 5-minute drive from both properties. For wine, specialty cheese, or better produce, Jensen's Fine Foods and Whole Foods are 15-20 minutes west in the mid-valley."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Trader Joe's in Palm Springs worth the drive from Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a quick staples run, the Stater Bros in Indio is more practical. Trader Joe's on North Palm Canyon is better for specific items: frozen meals for a crowd, or TJ's branded pantry staples. The parking lot is a real obstacle on weekend mornings. Go before 10am or skip it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I shop if I'm feeding a large group during festival week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costco in Rancho Mirage is the move for bulk hauls: olive oil, sparkling water, snacks, rotisserie chickens. The store gets packed on festival weekends, so shop Thursday before the crowds land. Instacart delivers from most major chains in the valley if you'd rather skip the store entirely."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order groceries for delivery to a vacation rental in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Instacart delivers from Stater Bros, Walmart, Ralphs, and most other valley chains. Some guests place an order for arrival day so the kitchen is stocked when they check in. For Cozy Cactus and Terra Luz stays, that's the most efficient way to skip the first-day grocery trip entirely."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which grocery store has the best produce in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sprouts Farmers Market, with locations in Palm Desert and Cathedral City, has the best produce-to-price ratio in the valley. Jensen's Fine Foods in Palm Springs carries excellent quality at a premium. Much of the produce is grown locally, so freshness throughout the region is better than most visitors expect."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Jensen's Fine Foods and is it worth visiting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jensen's is an independent upscale grocery that has been in the desert since 1946, with two Palm Springs locations. The cheese section, deli counter, and local date selection are the best in the valley at that tier. Prices are higher than Trader Joe's, but it earns the premium for wine, specialty items, and Coachella Valley dates to bring home."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Instacart available for vacation rentals in Indio and Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Instacart delivers from Stater Bros, Walmart, Ralphs, and most major valley chains to both Indio and Palm Springs addresses. Scheduling a delivery for arrival day is the most efficient way to skip the first-day grocery run, especially during Coachella and Stagecoach weekends when store traffic is significantly higher."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Which grocery store has the best produce in the Coachella Valley?</h4>
+<p>Sprouts Farmers Market, with locations in Palm Desert and Cathedral City, consistently has the best produce-to-price ratio in the valley. Jensen's Fine Foods in Palm Springs carries excellent quality but at a premium. What most visitors don't expect: a lot of Coachella Valley produce is grown locally, so freshness throughout the region is better than it would be in a grocery store back in LA or Phoenix. Ask a Sprouts employee which items are California-grown and they'll usually point you toward something good.</p>
+
+<h4>Is Instacart available for vacation rentals in Indio and Palm Springs?</h4>
+<p>Yes. Instacart delivers from Stater Bros, Walmart, Ralphs, and most major valley chains to both Indio and Palm Springs addresses. Scheduling a delivery for your arrival day is the most efficient way to skip the first-day grocery run entirely, especially during Coachella and Stagecoach weekends when store traffic is significantly higher. Most guests who use it find a Thursday delivery window (the day before most festival weekends open) the most reliable for same-day slots. More logistics at <a href="https://indigopalm.co/blog/grocery-stores-coachella-valley/">indigopalm.co/blog/grocery-stores-coachella-valley/</a>.</p>
+
+<h4>What is Jensen's Fine Foods and is it worth it?</h4>
+<p>Jensen's is an independent upscale grocery that has been in the desert since 1946, with two Palm Springs locations on North and South Palm Canyon Drive. The deli counter, cheese section, and date selection are genuinely better than anything else in the valley at that tier. Prices are noticeably higher than Trader Joe's or Stater Bros, but for a special dinner, a good bottle of wine, or local dates to bring home, it earns the premium. It's not a full-shop-for-the-week store; it's a destination for the things that matter.</p>

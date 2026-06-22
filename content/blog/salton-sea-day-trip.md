@@ -94,3 +94,80 @@ layout: blog-post.njk
 <h3>What should I bring to the Salton Sea?</h3>
 <p>Water (more than you think), sun protection, a full tank of gas, and closed-toe shoes for walking the Bombay Beach streets. There are no coffee shops, no gas stations between Niland and the freeway, and very few restrooms. Plan accordingly before you leave Indio.</p>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the Salton Sea worth visiting on a day trip from Palm Springs or Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but go knowing what you're signing up for. Bombay Beach has become one of California's most compelling accidental art destinations, and Salvation Mountain is genuinely moving at a scale photos can't fully communicate. The smell near the shoreline is real, especially in summer, but you can experience most of Bombay Beach and all of Salvation Mountain without getting close to the water. October through March is the most comfortable window. Full logistics at https://indigopalm.co/blog/salton-sea-day-trip/"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Bombay Beach California and why do people visit it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bombay Beach is a former 1950s resort community on the Salton Sea's eastern shore that declined as the lake's ecosystem shifted and is now part ghost town, part ongoing outdoor art installation. Artists have used the abandoned structures and dry lake bed as a canvas for years. The Bombay Beach Biennale happens each March, but outdoor art from previous years stays up permanently. The most interesting things are not visible from the main road. Allow at least 90 minutes and walk into the town itself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit the Salton Sea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through March. The Salton Sea sits 226 feet below sea level, running 5 to 10 degrees hotter than Indio on any given day. Summer temperatures can reach 115 to 120 degrees Fahrenheit with no shade. The smell also intensifies in heat. March is the peak month: the Bombay Beach Biennale typically happens then, temperatures are mild, and the afternoon light is exceptional for photography. October and November are strong alternatives with fewer crowds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring to the Salton Sea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water (more than you think), sun protection, a full tank of gas, and closed-toe shoes for walking Bombay Beach. There are no coffee shops, no gas stations between Niland and the I-10, and very few restrooms. Download your maps offline before leaving Indio or Palm Springs because cell service is spotty. Plan every supply before you leave the freeway."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is East Jesus at Slab City and is it worth visiting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "East Jesus is a free sculpture garden inside Slab City, the off-grid community past Salvation Mountain near Niland. Every piece is built from salvaged materials and the installation changes constantly. It is the primary reason most visitors enter Slab City. Beyond East Jesus, Slab City is an actual neighborhood where roughly 150 to 200 people live off-grid year-round, so move through respectfully. Budget 30 to 45 minutes and combine it with Salvation Mountain and Bombay Beach for a full-day loop from Indio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there anywhere to eat or get coffee near the Salton Sea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. There are no coffee shops, no restaurants, and no gas stations between Niland and the I-10. Bring everything before leaving Indio or Palm Springs, including more water than you expect to need. The closest food options are back in Indio, which makes this better suited as a morning trip so you return in time for a late lunch."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do a Salton Sea day trip with kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with planning. Salvation Mountain is walkable and most kids find it interesting. The smell near the shoreline is the biggest variable, and summer heat at this elevation is dangerous for young children. October through March in morning hours is the most manageable window. Keeping kids away from the water's edge solves most of the smell issue. No food or restroom facilities are available, so pack accordingly."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What is East Jesus at Slab City and is it worth visiting?</h4>
+<p>East Jesus is a free sculpture garden inside Slab City, the off-grid community on the former military base past Salvation Mountain near Niland. Every piece is made from salvaged and recycled materials, and the installation changes constantly as new work is added. It is the primary reason most visitors enter Slab City at all. Beyond East Jesus, Slab City is an actual neighborhood where roughly 150 to 200 people live off-grid year-round, so the approach that works best is to treat it like visiting any working community: look at the art, move through respectfully, and let the residents be. Budget 30 to 45 minutes and combine it with Salvation Mountain and Bombay Beach for a full-day loop from Indio.</p>
+
+<h4>Is there anywhere to eat or get coffee near the Salton Sea?</h4>
+<p>No. This is genuinely one of the most service-free day trips in the Coachella Valley, and underestimating it is the most common mistake. There are no coffee shops, no restaurants, and no gas stations between Niland and the I-10. Bring everything you need before you leave Indio or Palm Springs, including more water than you think you'll want. The closest real food options are back in Indio, which makes the Salton Sea better suited as a morning trip so you're back in time for a late lunch. The <a href="https://indigopalm.co/blog/things-to-do-indio-ca/">Indio local guide</a> covers where to eat when you return.</p>
+
+<h4>Can you do a Salton Sea day trip with kids?</h4>
+<p>Yes, with some caveats. Salvation Mountain is walkable and photogenic and most kids find it interesting. Bombay Beach has enough visual strangeness to hold attention, though the uneven terrain and lack of facilities require some planning. The smell near the shoreline is the biggest variable: children who are sensitive to odors may find it overwhelming, and the summer heat at this elevation is genuinely dangerous for young kids. October through March in the morning hours is the most manageable window, and keeping kids away from the water's edge solves most of the smell issue.</p>

@@ -163,3 +163,59 @@ layout: blog-post.njk
 <p>October through April, early morning. The light is best before 9am, the streets are quiet, and the temperature is genuinely comfortable for walking. Summer mornings work too if you're out before 8am, but the window is narrow before the heat makes walking unpleasant. Avoid midday in any season for photography: flat overhead light kills the shadows that give the architecture its depth.</p>
 
 <p class="cta-block">Staying in Palm Springs for the architecture and everything else the city has? <a href="/the-sundune/">The Sundune</a> is a 2-bedroom condo in Palm Springs with a balcony and pool access. Walk distance to North Palm Canyon. <a href="/the-sundune/">Check availability.</a></p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the Palm Springs architecture walking tour accessible for people who don't know much about architecture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Completely. The five features to learn are flat or butterfly roofs, breezeblock screen walls, deep eave overhangs, post-and-beam framing with floor-to-ceiling glass, and original door colors in turquoise, coral, or orange. Once those five things are in your head, you'll see them on every block. The Palm Springs Architectural Foundation website has free printable maps that label specific buildings if you want more structure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the Palm Springs midcentury architecture walk actually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan 1.5 to 2 hours for the core route covering Via Norte, Via Escuela, Stevens Road, and the Ruth Hardy Park perimeter. Adding the Movie Colony or the Kaufmann Desert House exterior at 470 W Vista Chino adds another 45 minutes. The streets reward wandering and the architecture is dense enough that most people stop more than they expect."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you need a car to do the Palm Springs architecture walk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The core route starts at Alejo Road and North Palm Canyon Drive, reachable from downtown on foot or by rideshare. If you're staying centrally, you can walk to the start, complete the circuit, and end back near Palm Canyon Drive for coffee without needing a car. Parking in the residential neighborhoods is unrestricted street parking, easiest on weekday mornings before 9am."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you go inside any of the historic midcentury modern homes in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Palm Springs Art Museum Architecture and Design Center has rotating exhibitions, often free on first Friday evenings. Most private homes are not accessible. Modernism Week in February is the main exception: some private homes open for ticketed interior tours, with high-demand properties like the Kaufmann House sometimes requiring multi-hour waits."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Is the Palm Springs architecture walking tour accessible for people who don't know much about architecture?</h4>
+<p>Completely. The five features to learn beforehand are flat or butterfly roofs, breezeblock screen walls, deep eave overhangs, post-and-beam framing with floor-to-ceiling glass, and original door colors in turquoise, coral, or orange. Once those five things are in your head, you'll start seeing them on every block without needing any prior background. The Palm Springs Architectural Foundation website has free printable maps that label specific buildings if you want more structure.</p>
+
+<h4>How long does the Palm Springs midcentury architecture walk actually take?</h4>
+<p>Plan 1.5 to 2 hours for the core route (Via Norte, Via Escuela, Stevens Road, and the Ruth Hardy Park perimeter), not counting getting coffee or stopping to photograph. If you add the Movie Colony or make the detour to the Kaufmann Desert House exterior at 470 W Vista Chino, add another 45 minutes. Most people underestimate the time because the streets reward wandering, and the architecture is dense enough that you'll stop more than you expect.</p>
+
+<h4>Do you need a car to do the Palm Springs architecture walk, or can you use transit?</h4>
+<p>A car makes it easier to cover more ground, but the core walking route starts at Alejo Road and North Palm Canyon Drive, which is reachable from downtown on foot or by rideshare. If you're staying near downtown Palm Springs, you can walk to the start of the tour, complete the circuit, and end back near Palm Canyon Drive for coffee and brunch without needing a car at all. Parking in the residential neighborhoods is unrestricted street parking, easiest on weekday mornings before 9am. For visitors staying at <a href="https://indigopalm.co/the-sundune/">The Sundune</a> in central Palm Springs, the walk is convenient without any driving.</p>
+
+<h4>Can you go inside any of the historic midcentury modern homes in Palm Springs?</h4>
+<p>The Palm Springs Art Museum Architecture and Design Center (in the downtown historic bank building on Museum Drive) has rotating exhibitions you can enter, often free on first Friday evenings. Most private homes, including the Kaufmann Desert House, are not open to the public during normal visits, but the exterior is fully visible from the street. Modernism Week in February is the main exception: some private homes open for ticketed interior tours, though high-demand properties like the Kaufmann House can have waits of several hours.</p>

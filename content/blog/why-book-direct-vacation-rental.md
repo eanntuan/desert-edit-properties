@@ -148,3 +148,48 @@ layout: blog-post.njk
 
 <h3>How do I find vacation rentals that accept direct bookings?</h3>
 <p>Search the property or brand name on Google. Most short-term rental operators with any real presence have their own websites. If you've stayed somewhere before, or the listing mentions a property brand, look it up before rebooking through the platform. For the Coachella Valley, search Indigo Palm Collective.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Airbnb hosts legally ask you to book direct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not through Airbnb's platform — their terms prohibit soliciting off-platform bookings in messages or listings. Hosts can maintain a separate public website under their own brand. Guests who find the property name independently and book through that site aren't violating any rules. Established multi-property operators are the most likely to have this set up."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you lose Airbnb's buyer protection when you book direct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You lose Airbnb's guest guarantee, but your credit card's buyer protection still applies. For properties with a real website, verifiable reviews on Airbnb or VRBO, and payment through a legitimate processor like Square or Stripe, the practical protection level is roughly comparable. Risk is real with unknown hosts, minimal with established ones with hundreds of verifiable reviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When does it NOT make sense to book a vacation rental direct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a first-time booking with an unknown host in an unfamiliar city, the platform fee is worth paying. Airbnb's search, review system, and mediation process are genuinely useful when you have no prior relationship with the host. Direct booking makes most sense when you've already vetted the property or stayed there before and know the host is responsive."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Can Airbnb hosts legally ask you to book direct?</h4>
+<p>Not through Airbnb's platform. Their terms prohibit hosts from soliciting off-platform bookings inside messages or listings. What hosts can do is maintain a public website under their own brand, completely separate from Airbnb, where guests who find them independently can book without a fee. That's why the hosts with direct booking options tend to be the more established, multi-property operators.</p>
+
+<h4>Do you lose Airbnb's buyer protection when you book direct?</h4>
+<p>You lose Airbnb's guest guarantee, but your credit card's buyer protection still applies. For properties with a real website, verifiable reviews, and payment through a legitimate processor like Square or Stripe, the practical protection level is roughly equivalent. The risk is real with unknown hosts, minimal with established ones who have hundreds of verifiable reviews.</p>
+
+<h4>When does it NOT make sense to book direct?</h4>
+<p>For a first-time booking with an unknown host in an unfamiliar city, the platform infrastructure is worth the fee. Airbnb's search, review system, and mediation process are genuinely useful when you have no prior relationship with the host. Direct booking makes the most sense when you've already vetted the property or stayed there before, and you know the host is responsive and the listing is accurate. You can book direct at <a href="https://indigopalm.co">indigopalm.co</a> for any Indigo Palm Collective property after checking our Airbnb reviews.</p>

@@ -173,3 +173,80 @@ layout: blog-post.njk
 <h2>Where to Stay</h2>
 
 <p><a href="/the-sundune/">The Sundune</a> is 10 minutes from downtown Palm Springs, walking distance from the Uptown Design District, and close to the main architectural neighborhoods this tour covers. It's a midcentury-influenced two-bedroom condo in a gated community with a pool. The right base for doing this properly.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you see the Kaufmann Desert House from the street?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Kaufmann Desert House at 470 W Vista Chino is a private residence, but the exterior is visible from the street. You can see the horizontal rooflines, the post-and-beam structure, and the pool area from the sidewalk. Do not enter the property. The street view is enough to understand why Neutra's 1946 design defined desert modernism for decades after."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Modernism Week worth planning a trip around?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if midcentury architecture is a real interest. The February event runs 11 days, opens private homes for interior tours, and includes architect talks and specialty bus tours. Tickets for the most popular tours sell out months in advance. The Kaufmann House alone typically has a multi-hour wait."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the self-guided tour take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget two to three hours for a relaxed driving tour with short walks at each stop. Photography-focused visitors tend to run longer. If you add the Art Museum stop, plan for an additional hour minimum. The route works as a half-day activity with time for coffee at the start and lunch afterward."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you need a guide, or can you do this tour alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can do this entirely on your own with a map and this guide. The Palm Springs Architectural Foundation offers guided walking and bus tours year-round for those who want names, dates, and context attached to what they're seeing. Their tours cover additional properties not included in this self-guided route."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I park for the architecture tour?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For the Downtown starting point and Uptown Design District, use the public parking structure on Amado Road. For Vista Las Palmas and Old Las Palmas, street parking is available throughout but streets are narrow. Park once and walk a cluster of blocks rather than moving the car between stops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Palm Springs midcentury neighborhood has the most intact architecture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vista Las Palmas is the most consistently preserved, with butterfly roofs, screen walls, and desert landscaping for several blocks along Via Colusa, Via Vaquer, and Via Las Palmas. Developed in the late 1950s and early 1960s, it lacks the newer construction that dilutes other neighborhoods. Twin Palms, the William Cody-designed planned neighborhood near Via Miraleste, is less visited and worth adding if you have time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Donald Wexler's steel houses still standing in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The prefabricated steel homes Wexler designed in 1961 for Alexander Construction Company are on Sunny Dunes Road near Sunrise Way. They remain private residences but the steel frame is visible from the exterior. Wexler used the same construction logic on the 1965 Palm Springs airport terminal, worth noticing if you fly through PSP."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Which Palm Springs midcentury neighborhood has the most intact architecture?</h4>
+<p>Vista Las Palmas is the most consistently preserved. Developed in the late 1950s and early 1960s, the neighborhood has a uniform midcentury character without the mix of newer construction that dilutes other areas. Via Colusa, Via Vaquer, and Via Las Palmas are the core streets: butterfly roofs, screen walls, and desert landscaping for several blocks in a row. Old Las Palmas has larger estates but more variation. Twin Palms, a William Cody-designed planned neighborhood near Via Miraleste, is less visited and worth adding if you have extra time.</p>
+
+<h4>What is the best base for doing the Palm Springs architecture tour?</h4>
+<p>Staying close to downtown puts you within easy reach of all eight stops on this tour, since the main neighborhoods spread north, east, and northwest of the city center. <a href="https://indigopalm.co/the-sundune/">The Sundune</a> is a two-bedroom midcentury condo in Palm Springs, 10 minutes from downtown and walking distance from the Uptown Design District where the tour starts, with no Airbnb fee when you book direct.</p>
+
+<h4>Are Donald Wexler's steel houses still standing in Palm Springs?</h4>
+<p>Yes. The series of prefabricated steel homes Wexler designed in 1961 for Alexander Construction Company are still standing on Sunny Dunes Road near Sunrise Way. They remain private residences but the steel frame is visible from the exterior and the construction method is apparent in the window proportions and wall structure. Wexler used the same logic at a different scale on the 1965 Palm Springs airport terminal, which is worth noticing if you fly in or out of PSP.</p>

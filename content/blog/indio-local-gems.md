@@ -294,3 +294,88 @@ layout: blog-post.njk
 <p>If you're staying in Indio, we have two houses close to all of this: <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a>. Both have pools, both are walking distance to Old Town.</p>
 
 <p>These ten spots are a starting point, not a checklist. If you're planning a Coachella trip and figuring out where to base yourself, read <a href="/blog/where-to-stay-coachella-2026/">our honest guide to Coachella 2026 accommodation options</a>, no affiliate codes, just the real breakdown. And for the backstory on how the Indigo Palm Collective started in Indio, read <a href="/blog/cozy-cactus-origin-story/">how we bought our first vacation rental on Easter Sunday 2022</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where is the best place to stay in Indio to walk to Coachella or Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz in Indian Palms is the closest vacation rental neighborhood to the Empire Polo Club, close enough that many guests walk to the venue rather than deal with shuttles. The Cozy Cactus is also in Indio with a private hot tub and community pool. Both properties book direct at indigopalm.co with no service fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Coachella Valley Preserve free and how hard is the hike?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Free admission. The McCallum Trail is an easy 3-mile out-and-back with minimal elevation gain, accessible to most fitness levels. The trailhead is about 20 minutes from central Indio. Best visited October through April; go before 9am in summer and bring more water than you expect to need."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Indio have good coffee shops?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Saguaro Coffee in Old Town roasts its own beans and makes syrups in house. The Vintage Coffee House nearby is the local classic with a dog-friendly patio. Ten minutes away in the city of Coachella, Sixth Street Coffee does horchata cold brew and honey-canela lattes worth the short drive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Indio worth visiting beyond Coachella festival weekends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and it's honestly better when the festival isn't happening. The restaurants are less crowded, the streets are quieter, and you can actually get a table at One Stop Taco Shop without planning around a line. Shields Date Garden, the Coachella Valley Preserve, and Rosemary HiFi are all here year-round."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best local restaurants in Indio, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One Stop Taco Shop for carne asada tacos, Papa Headz for smash burgers, and Thai Hot for drunken noodles that actually deliver real heat. For a more sit-down lunch, El Tranvia in nearby Coachella (10 minutes) has been doing birria since 1969, long before it became a trend."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Rosemary HiFi in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Coachella Valley's first vinyl listening lounge, in Old Town Indio. The owner's personal record collection plays through 1960s JBL speakers behind a custom walnut bar. They pour beer from Las Palmas Brewing and natural wines. Open Wednesday through Sunday from 4pm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Indio Tamale Festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An annual festival in Old Town Indio every first weekend of December, running for over 30 years. Hundreds of vendors, live music, and every style of tamale imaginable. Free to attend and gets busy by midday Saturday. Arrive early if you want the best vendor selection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should I plan to explore Indio, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One full day covers the highlights: a morning at the Coachella Valley Preserve or a date farm, lunch at One Stop Taco Shop, afternoon pool time, and an evening at Rosemary HiFi. Two days lets you add a Joshua Tree morning and proper Old Town wandering. Three days and you start to feel like a local."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Where is the best place to stay in Indio to walk to Coachella or Stagecoach?</h4>
+<p>Terra Luz in Indian Palms is the closest vacation rental neighborhood to the Empire Polo Club, close enough that many guests walk to the venue rather than deal with shuttles or traffic. The Cozy Cactus is also in Indio with a private hot tub and community pool, a few minutes further from the polo grounds but easier to book during non-festival weekends. Both properties are at <a href="https://indigopalm.co">indigopalm.co</a>.</p>
+
+<h4>Is the Coachella Valley Preserve free and how hard is the hike?</h4>
+<p>Free admission, and the main McCallum Trail is an easy 3-mile out-and-back with minimal elevation gain, accessible to most fitness levels. The trailhead is about 20 minutes from central Indio at 29200 Thousand Palms Canyon Rd. Go between October and April, before 9am in any other season, and bring more water than you think you need because the sun is genuinely intense even on mild days.</p>
+
+<h4>Does Indio have good coffee shops or is it just restaurants?</h4>
+<p>There are a few solid options. Saguaro Coffee in Old Town Indio roasts its own beans and makes syrups in house, The Vintage Coffee House nearby is the low-key local classic with a dog-friendly patio, and if you're willing to drive 10 minutes to the city of Coachella, Sixth Street Coffee does horchata cold brew and honey-canela lattes that are worth the detour. None of them have the volume of options you'd find in Palm Springs, but the quality is genuinely good.</p>

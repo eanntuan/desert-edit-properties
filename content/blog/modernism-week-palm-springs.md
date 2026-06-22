@@ -97,3 +97,89 @@ The full schedule for all 450+ events is posted at <a href="https://modernismwee
 <p>It's the right way to experience it. Many of the home tours are in residential neighborhoods that require driving, and the best of the festival spans multiple days. Staying in a mid-century property like [The Sundune](/the-sundune/) puts you inside the architectural era you're celebrating. The [3-day Palm Springs itinerary](/blog/palm-springs-3-day-itinerary/) is a useful planning framework for structuring your visit around festival events.</p>
 
 For the broader Palm Springs architecture context outside of festival week, the [Palm Springs Mid-Century Architecture Guide](/blog/palm-springs-midcentury-architecture/) goes deeper into the specific neighborhoods and architects worth knowing before you arrive.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is Modernism Week in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main event runs eleven days in February, typically the second and third weeks of the month. In 2026, the dates were February 12 through 22. There is also a shorter fall edition in October (four days). February is the main event with the most tours, events, and ticket demand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you get tickets to Modernism Week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tickets go on sale November 1 at noon Pacific Time at modernismweek.com. The double-decker bus tours and popular home tours can sell out within hours of going live. Set a calendar reminder. There's no ticket resale marketplace, so if you miss the sale, your options are limited."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What sells out first at Modernism Week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Premier Double Decker Bus Tour and the Twilight Bus Tour sell fastest. Popular individual home tours are close behind, especially anything with a reception included. The Opening Night Party also sells out early. Lectures and walking tours have more availability and can often be booked closer to the event."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth staying in Palm Springs for Modernism Week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many home tours are in residential neighborhoods that require driving, and the best of the festival spans multiple days. Staying in a mid-century property like The Sundune (indigopalm.co/the-sundune/) puts you inside the architectural era you're celebrating. It books direct without the Airbnb service fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the best place to stay for Modernism Week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A mid-century property inside Palm Springs is ideal. The Sundune (indigopalm.co/the-sundune/) is a postwar condominium near Palm Canyon with three king beds and a pool, close to the core festival area. Staying walkable or rideshare-close to downtown matters because weekend parking near event venues fills fast."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does Modernism Week cost in total?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget roughly $400-$500 per person in tickets for the flagship experiences: two bus tours ($230), two home tours ($100-$160), and one opening party ($60-$100). Many lectures and neighborhood walks are free. Bundled passes can make sense for five or more paid events."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between the February and October Modernism Week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "February is the main event: eleven days, 450+ events, and the heaviest ticket demand. October runs four days with fewer home tours and bus tour dates, smaller crowds, and tickets that don't sell out instantly. October is good for sampling the festival; February is worth the trip if you're planning around it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a car for Modernism Week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most visitors manage with rideshare and walking, especially near downtown. Home tours are in spread-out residential areas, so a car helps for multi-stop days. Cluster your daily schedule geographically and you can minimize backtracking. Many attendees rent bikes for Palm Canyon area events."
+      }
+    }
+  ]
+}
+</script>
+
+
+<h4>Where is the best place to stay for Modernism Week?</h4>
+<p>Staying in a mid-century property inside Palm Springs puts you inside the architectural era you're celebrating, which is a different experience than commuting in from a hotel on the edge of the valley. <a href="https://indigopalm.co/the-sundune/">The Sundune</a> is a postwar condominium close to the Palm Canyon corridor with three king beds and a pool, and it books direct without the Airbnb platform fee. Whatever you book, being walkable or rideshare-close to downtown matters because weekend parking near event venues is reliably bad.</p>
+
+<h4>How much does Modernism Week cost in total?</h4>
+<p>Budget roughly $400-$500 per person in tickets if you're doing the flagship experiences: two bus tours ($230), two home tours ($100-$160), and one opening party ($60-$100). Many lectures and neighborhood walks are free, which helps. Bundled passes can make sense for five or more paid events, but there's no official multi-event discount otherwise.</p>
+
+<h4>Is the fall Modernism Week worth it if I missed February?</h4>
+<p>The October edition runs four days instead of eleven, with fewer home tours and bus tour dates, but also smaller crowds and temperatures that some people find more comfortable. Tickets don't sell out the same day they go on sale the way February flagships do. It's a good option for sampling the festival or combining with other fall Coachella Valley trips, but the February run is the full event.</p>
+
+<h4>Do I need a car for Modernism Week, or can I get by with rideshare?</h4>
+<p>Most people get by with a mix of rideshare and walking, especially if they're staying near downtown Palm Springs. The home tours are in spread-out residential neighborhoods, so a car helps if you're doing multiple events in different parts of the city in one day. Cluster your daily schedule geographically the night before and you can minimize backtracking significantly. Many attendees rent bikes for the Palm Canyon area events.</p>

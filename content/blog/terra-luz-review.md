@@ -187,3 +187,48 @@ relatedPosts:
 <h3>How many nights should I book at Terra Luz?</h3>
 <p>Plan 3 nights minimum: one morning at Joshua Tree, one full pool day, one Palm Springs day trip. That structure leaves room for late mornings and actual rest without feeling rushed. Four nights is better if Joshua Tree, a La Quinta dinner, and a full day of doing nothing are all on your list.</p>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a saltwater pool and a chlorine pool for a vacation rental stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Saltwater pools generate chlorine at much lower concentrations than traditional pools, meaning no chemical smell, less skin and eye irritation, and a softer feel. For a property where the pool is the main feature, it's a real distinction. Terra Luz's saltwater pool is heated year-round with no separate heating fee at indigopalm.co/terra-luz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I walk to Coachella or Stagecoach from Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The walk from Terra Luz to the Empire Polo Club via Eisenhower Drive runs approximately 19 minutes, making it one of the few Coachella Valley properties where walking to the festival is genuinely practical. This avoids festival-weekend Uber surge pricing that can reach $80-120 per trip from Palm Springs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I book Terra Luz for Coachella or Stagecoach weekends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Six months minimum, ideally at lineup announcement. Private-pool rentals within 10 minutes of the Empire Polo Club are a small slice of valley inventory and fill faster than typical vacation rental search patterns suggest. Book direct at indigopalm.co/terra-luz to hold dates without an Airbnb service fee."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What's the difference between a saltwater pool and a chlorine pool for a vacation rental stay?</h4>
+<p>Saltwater pools use a chlorine generator that produces chlorine from dissolved salt at much lower concentrations than traditional pools. The practical result for guests: no chemical smell, less eye and skin irritation after long afternoons in the water, and a softer feel. For a property where the pool is a primary feature, it's a meaningful quality distinction. Terra Luz's saltwater pool at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> is heated year-round with no separate heating fee.</p>
+
+<h4>Can I walk to Coachella or Stagecoach from Terra Luz?</h4>
+<p>Yes. The walk via Eisenhower Drive to the Empire Polo Club runs approximately 19 minutes, which makes Terra Luz one of the few properties in the Coachella Valley where walking to the festival is genuinely practical rather than theoretical. For guests who want to avoid festival-weekend Uber surge pricing, this is the most underrated feature of the Indian Palms location.</p>
+
+<h4>How far in advance should I book Terra Luz for festival weekends?</h4>
+<p>Six months minimum for Coachella and Stagecoach weekends, ideally at lineup announcement. Private-pool properties within 10 minutes of the Empire Polo Club represent a small slice of valley inventory, and they fill faster than general vacation rental search patterns would suggest. Guests who secure these properties are booking at announcement, not after spring break planning kicks in.</p>

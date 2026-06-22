@@ -217,3 +217,71 @@ relatedPosts:
 <h3>What's the weather like at Stagecoach in April?</h3>
 <p>Late April in the Coachella Valley runs 85-95 degrees during the day, dropping to the low-to-mid 60s at night. Pack SPF 50+, a hat for the day, and a light layer for the evening. The temperature swing between mid-afternoon and after the headliner ends is bigger than most first-timers expect.</p>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the closest neighborhood to Stagecoach for vacation rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indian Palms Country Club in east Indio is the best-positioned neighborhood, roughly 2.5 miles from the Empire Polo Club on surface streets. Properties there put you 7-10 minutes from the grounds, close enough to return mid-afternoon during the peak heat and still make the evening sets. Inventory is limited, so private-pool properties book early."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there dog-friendly rentals near Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz in the Indian Palms neighborhood is dog-friendly (up to 2 dogs, $150 pet fee), has a private saltwater pool, and is 7-10 minutes from Empire Polo Club. It's one of the few dog-friendly options with a fenced yard that close to the grounds. Details at indigopalm.co/terra-luz/"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I drive back to my rental during the day at Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you're staying within 10 minutes of the Empire Polo Club in Indio. The 2-5pm heat window is when main-stage programming slows and temperatures peak. Groups in Indian Palms rentals routinely return to the house for a pool break, then head back for the evening sets. This only works if your rental is close enough to make the round-trip worthwhile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When does Stagecoach 2027 take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stagecoach typically runs the last full weekend of April at the Empire Polo Club in Indio, California. The 2027 dates haven't been officially announced, but late April is the consistent window. Plan around April 23-25, 2027 as a working estimate and confirm once Goldenvoice releases the lineup."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it better to stay in Indio or Palm Springs for Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio. The Empire Polo Club is in Indio, which means Indio rentals are 7-15 minutes from the grounds. Palm Springs is 25-30 miles west and 35-60 minutes by car in festival traffic. The commute is slightly better at Stagecoach than Coachella, but it compounds over three days into hours you could have spent at the pool or at the grounds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How early should I book a Stagecoach 2027 rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fall 2026 is the right window. Stagecoach doesn't book out as aggressively as Coachella, but the best Indio vacation rentals within 10 minutes of the grounds go quickly once the lineup drops. By early spring 2027, private-pool properties in Indian Palms have limited availability at reasonable rates."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+<h4>What's the closest neighborhood to Stagecoach for vacation rentals?</h4>
+<p>Indian Palms Country Club in east Indio is the best-positioned neighborhood, roughly 2.5 miles from the Empire Polo Club on surface streets with no freeway. Properties there put you 7-10 minutes from the grounds, which is close enough to return to your rental during the mid-afternoon heat window and still make the evening sets. Inventory is small, so the best private-pool options book well before spring.</p>
+
+<h4>Are there dog-friendly rentals near Stagecoach?</h4>
+<p>Yes, but the options are limited. <a href="https://indigopalm.co/terra-luz/">Terra Luz</a> in the Indian Palms neighborhood is dog-friendly (up to 2 dogs, $150 pet fee), has a private saltwater pool, and is 7-10 minutes from Empire Polo Club. It's one of the few dog-friendly properties with a fenced yard that close to the grounds, which matters when your dogs stay at the house during festival sessions.</p>
+
+<h4>Can I drive back to my rental during the day at Stagecoach?</h4>
+<p>If you're in Indian Palms, yes, and it's worth planning around. The mid-afternoon heat window (roughly 2-5pm) is when the day programming slows and temperatures peak. Groups staying close to the grounds regularly go back to the rental for a pool break, then return for the evening sets. It only makes sense if your rental is under 15 minutes away, which is one of the main reasons proximity matters more than property size for a Stagecoach rental.</p>

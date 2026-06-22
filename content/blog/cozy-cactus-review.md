@@ -166,3 +166,91 @@ relatedPosts:
 <p>That's what 4.97 stars across 146 stays looks like in practice. Not perfection in every sense. A specific kind of care that guests feel when they walk in the door, and that they write about when they leave.</p>
 
 <p>If that's what you're looking for, <a href="/cozy-cactus/">check availability here</a> or email us at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a>. If you need a private pool instead of a hot tub, <a href="/terra-luz/">Terra Luz</a> is the right fit.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does The Cozy Cactus have a private pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The hot tub is private and on the property. The pool is community access through Indian Palms Country Club, steps from the back gate. If a private swimming pool is the priority, Terra Luz is 15 minutes away with a private saltwater pool heated year-round."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Cozy Cactus pet-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay at The Cozy Cactus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum stays vary by season. During Coachella and Stagecoach festival weekends, the minimum is typically four nights. Off-peak periods often allow two or three-night stays. Current minimums are visible when you search your specific dates at indigopalm.co/cozy-cactus/."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly does the host respond to questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Response time consistently comes up in guest reviews as a standout feature. Most questions get answered within the hour, including evenings and weekends. Pre-booking questions are welcome and often answered faster than through Airbnb's messaging system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can The Cozy Cactus accommodate a group for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is about 1.5 miles from Empire Polo Club, roughly 7-10 minutes by car with no freeway. No shuttle, no surge pricing from a distant base."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you book The Cozy Cactus directly without Airbnb?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Booking direct at indigopalm.co/cozy-cactus/ skips the Airbnb service fee (typically 14-16% of the nightly rate). Check-in is self-serve via smart lock with instructions sent 24 hours before arrival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What bedrooms does The Cozy Cactus have and how does it sleep 8?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary bedroom has a king and en-suite bathroom. The second bedroom is a king. The third has twin beds plus a trundle, good for kids. A game room provides additional activity space during peak desert heat hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Cozy Cactus good for families with babies and toddlers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's one of the most fully equipped family rentals in the Coachella Valley for infants. On-site gear includes a Stokke high chair, pack-n-play with real crib mattress, baby monitor, sound machine, baby gate, and outlet covers. No packing required."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Can you book The Cozy Cactus directly without Airbnb?</h4>
+<p>Yes. Booking direct through <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co</a> skips the Airbnb service fee, which typically adds 14-16% to the nightly rate. The host responds to pre-booking questions within the hour, and check-in is fully self-serve via smart lock with instructions sent 24 hours before arrival.</p>
+
+<h4>What bedrooms does The Cozy Cactus have, and how does it sleep 8?</h4>
+<p>The primary bedroom has a king and an en-suite bathroom. The second bedroom is also a king. The third bedroom has twin beds plus a trundle, which works well for kids. The game room doubles as overflow space when the afternoon desert heat drives everyone inside.</p>
+
+<h4>Is The Cozy Cactus walkable to Coachella or Stagecoach?</h4>
+<p>Technically yes, about 1.5 miles via Eisenhower Drive (roughly 19 minutes on foot). In practice, most guests drive or rideshare given the April heat. By car it's 7-10 minutes with no freeway, which is the real advantage of this location during festival weekends.</p>
+
+<h4>What makes The Cozy Cactus different from other Indio vacation rentals?</h4>
+<p>The level of organization guests describe in reviews is unusual: every drawer and cabinet labeled, a pre-stocked pantry, and a full infant kit (Stokke high chair, pack-n-play with real crib mattress, baby monitor, sound machine, baby gate, outlet covers) available on-site. It's built specifically for families with young children, which is a narrower and more intentional focus than most short-term rentals in the valley.</p>

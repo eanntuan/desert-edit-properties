@@ -167,3 +167,83 @@ layout: blog-post.njk
 
 <h3>When is the best time to rent a pool house in the Coachella Valley?</h3>
 <p>October and November are the best value: warm enough for the pool in the afternoon, cool enough to want the hot tub at night, and far less competition than festival season. April is the hardest month to find anything and the most expensive. If you have flexibility, fall is the honest answer.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best vacation rental with a private pool near Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Cozy Cactus and Terra Luz are both in Indian Palms, Indio, within walking distance or a short drive of the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds and has a community hot tub adjacent. Terra Luz has a saltwater pool with a sun shelf and a fully enclosed backyard, making it the better option for guests with dogs or young kids. Book direct at indigopalm.co to skip the Airbnb service fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do vacation rental pools in the Coachella Valley need to be heated in April?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. April nights in the Coachella Valley can drop into the low 50s, and an unheated pool is usable during the day but cold by evening. If you're coming for Coachella or Stagecoach, confirm the pool is heated and ask if there's an additional nightly fee before you book. Many properties charge $35 to $100 per night for pool heating, which adds up quickly on a multi-night stay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between a private pool and a community pool in a vacation rental listing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A private pool is within the fenced perimeter of your rental: you control the hours, temperature, and who uses it. A community pool is a shared HOA amenity available to other residents and guests in the complex. Both appear as 'pool access' in listings. Private is the better option for most group trips, especially bachelorette weekends or families with kids."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to rent a pool house in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October and November offer the best value: warm enough for the pool in the afternoon, cool enough for the hot tub at night, and far less demand than festival season. April is the hardest month to find availability and the most expensive. Summer (May through September) has more availability and lower rates than festival season, and the pool is usable with proper shade and a morning-and-evening schedule."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there dog-friendly vacation rentals with a private pool near the Coachella festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz in Indio is dog-friendly with prior approval and has a private saltwater pool in a fully enclosed, latching backyard. It's also walking distance from the Empire Polo Club. The Sundune in Palm Springs is also dog-friendly with prior approval and has a private pool, but is about 30 minutes from the festival grounds. The Cozy Cactus is not pet-friendly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do vacation rentals charge extra for pool heating near Palm Springs and Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many do. Standard practice in the Coachella Valley is a per-night heating fee, typically $35 to $100 per night, on top of the listed nightly rate. This cost is often in the house rules or additional fees section rather than the main listing description. Ask directly before booking: is heating included or is there an additional fee, and how much? For April festival trips, a heated pool is worth confirming in advance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How big should a vacation rental pool be for a group of 8 people?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a group of 8, look for at least 30 feet of pool length. Under 25 feet and multiple people can cool off but there isn't much room for actual activity. Pool dimensions are rarely listed explicitly in Coachella Valley rentals, so ask the host directly for the measurements before confirming. A full-length pool paired with an on-property or adjacent hot tub is the combination that works best for large groups, since it distributes people naturally."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Are there dog-friendly vacation rentals with a private pool near the Coachella festival?</h4>
+<p>Terra Luz in Indio is the strongest option for this combination. It's dog-friendly with prior approval, has a private saltwater pool, and the backyard is fully enclosed with a latching gate so a dog can be in the yard without a leash. It's also walking distance from the Empire Polo Club. The Sundune in Palm Springs is also dog-friendly with prior approval and has a private pool, though it's about 30 minutes from the festival grounds. The Cozy Cactus is not pet-friendly.</p>
+
+<h4>Do vacation rentals in the Coachella Valley charge extra for pool heating?</h4>
+<p>Many do. The standard setup is a property that can heat the pool but charges a per-night fee, ranging from $35 to $100 a night depending on the property. For April festival weekends when nights drop into the 50s, this is worth asking about before you confirm: is heating included, or is there an additional fee, and how much? A pool that isn't heated in April is comfortable in the afternoon and cold by evening. Check what's included before booking at <a href="https://indigopalm.co/blog/best-vacation-rentals-pool-coachella-valley/">indigopalm.co</a>.</p>
+
+<h4>Can you actually swim in a Coachella Valley pool in summer when it's over 100 degrees?</h4>
+<p>Yes, and the pool water itself is usually around 85 to 90 degrees in summer without any heating, which is comfortable. The real constraint is the deck: a patio with no shade at 2pm in July is too hot to sit on, so ask about pergola or umbrella coverage before booking any summer pool rental. The practical approach is to swim in the early morning and again in the late afternoon once the angle of the sun shifts, which works well with the desert rhythm of being inside during peak heat.</p>
+
+<h4>How big should a vacation rental pool be for a large group?</h4>
+<p>For groups of six or more, look for at least 30 feet of pool length. Under 25 feet and multiple people can cool off, but there isn't much room for actual movement or activity. Pool dimensions are rarely listed explicitly in Coachella Valley rentals, so if size matters, ask the host directly for the dimensions before confirming. A full-length pool paired with an on-property or adjacent hot tub is the setup that actually works for a large group, since it distributes people naturally.</p>

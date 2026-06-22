@@ -132,7 +132,7 @@ layout: blog-post.njk
       "name": "What makes a vacation rental actually pet-friendly versus just allowing pets?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The difference shows up in the details: a properly enclosed outdoor space (so you don't have to monitor the fence), design that's meant to be used rather than displayed, and a neighborhood that works for dog walks. Most pet-allowed listings stop at the policy; a genuinely pet-friendly property is designed around the actual experience."
+        "text": "The difference shows up in the details: a properly enclosed outdoor space, design that's meant to be used rather than displayed, and a neighborhood that works for dog walks. Most pet-allowed listings stop at the policy; a genuinely pet-friendly property is designed around the actual experience."
       }
     },
     {
@@ -140,7 +140,7 @@ layout: blog-post.njk
       "name": "Is the Coachella Valley good for dogs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, especially in the shoulder seasons: March, April, October, November. Spring and fall mornings in Indio are genuinely good for dog walks: wide sidewalks, quiet streets, and temperatures that stay comfortable well into mid-morning. Summer requires planning: early walks, paw protection on hot pavement, shade and water. The enclosed backyard at Casa Moto helps with summer stays since the dog can be outside without the pavement risk."
+        "text": "Yes, especially in the shoulder seasons: March, April, October, November. Spring and fall mornings in Indio are genuinely good for dog walks with wide sidewalks and comfortable temperatures. Summer requires planning: early walks, paw protection on hot pavement, shade and water."
       }
     },
     {
@@ -149,6 +149,30 @@ layout: blog-post.njk
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Shields Date Garden (10 minutes, dog-tolerant outdoor space), the Indian Palms neighborhood walking paths, the Salton Sea (30-minute day trip, dogs welcome), and the date farms along Hwy 111. Spring and fall are the best seasons for most outdoor activities with dogs in the valley."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I stay at Terra Luz if I'm going to Coachella or Stagecoach with a dog?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Terra Luz is within walking distance of Empire Polo Club and allows dogs. The enclosed backyard means your dog can be outside while you're at the festival, rather than crated indoors in desert heat. Festival weekends book early; reserve direct at indigopalm.co/terra-luz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Terra Luz have tile floors or carpet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tile throughout, no carpet. This matters more than most pet-friendly listings acknowledge: carpet traps hair, odors, and allergens across a rental stay in ways tile doesn't. It's a design decision that reflects genuine pet-forward thinking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Terra Luz from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 30 minutes west on I-10. Indio is the eastern anchor of the Coachella Valley, which puts Terra Luz close to Coachella and Stagecoach festival grounds but farther from downtown Palm Springs. For Palm Springs proximity, The Sundune condo is the closer option."
       }
     }
   ]
@@ -168,4 +192,13 @@ layout: blog-post.njk
 
 <h3>What dog-friendly activities are near Casa Moto in Indio?</h3>
 <p>Shields Date Garden (10 minutes, dog-tolerant outdoor space), the Indian Palms neighborhood walking paths, the Salton Sea (30-minute day trip, dogs welcome), and the date farms along Hwy 111. Spring and fall are the best seasons for most outdoor activities with dogs in the valley.</p>
+
+<h4>Can I stay at Terra Luz if I'm going to Coachella or Stagecoach with a dog?</h4>
+<p>Yes. Terra Luz is within walking distance of Empire Polo Club and allows dogs, which makes it one of the few options that actually works for the festival-plus-pet combination. The enclosed backyard means your dog can be outside while you're at the grounds, rather than crated indoors in desert heat. Festival weekends book out early, so plan ahead. Book direct at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> to avoid the Airbnb service fee.</p>
+
+<h4>Does Terra Luz have tile floors or carpet?</h4>
+<p>Tile throughout, no carpet. This matters more than most pet-friendly listings acknowledge: carpet traps hair, odors, and allergens across a full rental week in ways that tile simply doesn't. It's one of the design decisions at Terra Luz that signals genuine pet-forward thinking rather than a policy update.</p>
+
+<h4>How far is Terra Luz from Palm Springs?</h4>
+<p>About 30 minutes west on I-10, depending on traffic. Indio is the eastern anchor of the Coachella Valley, which puts Terra Luz close to Coachella and Stagecoach festival grounds but farther from downtown Palm Springs attractions. For guests who want both festival proximity and desert landscape, it's the right tradeoff. For guests prioritizing Palm Springs restaurants and nightlife, The Sundune condo is the closer option.</p>
 

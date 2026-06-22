@@ -158,3 +158,90 @@ layout: blog-post.njk
 <p class="image-caption">The Coachella Valley Preserve is another easy half-day from Indio if Joshua Tree isn't enough desert for you.</p>
 
 <p>For other day trip options, <a href="/blog/things-to-do-indio-ca/">the things to do in Indio guide</a> covers what else is close. If the Salton Sea is on your radar too, read the <a href="/blog/salton-sea-day-trip/">Salton Sea day trip guide</a> before you go. And if you need a base in Indio with a private saltwater pool to come back to after a full day in the park, <a href="/terra-luz/">Terra Luz</a> is pet-friendly and sleeps up to eight.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far is Joshua Tree from Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Cottonwood South Entrance is about 45 minutes from central Indio via I-10 east to CA-195 north. It is the closest and least crowded entrance for east valley visitors. The north and west entrances via Highway 62 are about 1 hour 15 minutes from Indio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you need a reservation for Joshua Tree National Park?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During peak weekends, yes. The park requires timed entry reservations on busy spring weekends, including Coachella and Stagecoach festival weekends in April. Check the NPS Joshua Tree page before you go. Weekday visits outside peak season are generally walk-up friendly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is the entrance fee at Joshua Tree?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$35 per vehicle, valid for 7 days. An America the Beautiful annual pass at $80 covers Joshua Tree and every other national park and pays for itself in three visits. Buy at the entrance kiosk or in advance at store.usgs.gov."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should you bring on a Joshua Tree day trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At minimum: 1 gallon of water per person, food (no services inside most of the park), sunscreen, a hat, and closed-toe shoes for even the shortest trails. Download offline maps before entering since cell service is limited. Bring a light layer for after sunset even in warm months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best Joshua Tree entrance to use from Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From Palm Springs, most people use the north or west entrances via Highway 62 toward Yucca Valley or Twentynine Palms. This puts you near Skull Rock, Hidden Valley, and the classic boulder landscape. From Indio or the east valley, the Cottonwood South Entrance is significantly closer and far less crowded."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit Joshua Tree?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through April is the reliable window, with spring and fall being the strongest months. Spring brings wildflowers and comfortable hiking temperatures. Fall is quieter with strong afternoon light. Winter is underrated: less crowded and good temperatures for hiking. Summer works only with an early start before noon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Joshua Tree a good day trip with kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with planning. Cottonwood Spring Oasis is flat and shaded, the Cholla Cactus Garden loop is short, and Hidden Valley is a 1-mile trail most kids enjoy. Key logistics: no food or potable water inside most of the park, so bring more of both than you think you need, closed-toe shoes for everyone, and offline maps downloaded before entering."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do both Joshua Tree entrances in a single day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Enter at Cottonwood South from Indio, drive north through the Cholla Cactus Garden and boulder landscape, then exit via the north or west entrances toward Highway 62. This one-way route covers both the lower Colorado Desert terrain near Cottonwood and the classic Joshua tree landscape in the north. Budget a full day and leave Indio by 7am."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What is the best time of year to visit Joshua Tree?</h4>
+<p>October through April is the reliable window. Spring brings wildflowers in good rain years and comfortable hiking temperatures. Fall is quieter with strong afternoon light. Both reward early starts.</p>
+
+<p>Summer visits require real planning. The higher elevations are cooler than the valley floor, but midday is still brutal. Arrive at first light and leave by noon. Winter is genuinely good and underrated: less crowded, manageable temperatures for hiking, and very good light in January and February.</p>
+
+<h4>Is Joshua Tree a good day trip with kids?</h4>
+<p>Yes, with planning. Cottonwood Spring Oasis is flat and shaded, the Cholla Cactus Garden loop is short, and Hidden Valley is a 1-mile boulder-enclosed trail most kids find interesting. The main logistics point: there is no food or potable water inside most of the park, so bring more of both than you think you need, plus closed-toe shoes for everyone. Cell service drops out almost immediately after entering, so download offline maps before you go.</p>
+
+<h4>Can you do both Joshua Tree entrances in a single day?</h4>
+<p>Yes, and it makes a better trip than an out-and-back. Enter at the Cottonwood South Entrance from Indio, drive north through the Cholla Cactus Garden and boulder landscape, then exit via the north or west entrances toward Highway 62. This turns the park into a one-way scenic drive rather than retracing your route, and you see the full range of terrain, from the lower Colorado Desert oasis near Cottonwood to the classic Joshua tree and granite boulder landscape in the north. Budget a full day and leave Indio by 7am. For a complete itinerary, see <a href="https://indigopalm.co/blog/joshua-tree-day-trip-from-indio/">indigopalm.co/blog/joshua-tree-day-trip-from-indio/</a>.</p>

@@ -90,3 +90,88 @@ layout: blog-post.njk
 <p>If you've been hunting for a dog-friendly vacation rental near Coachella and coming up short, this is the part where I tell you Terra Luz has room for you and your dog both. Fenced yard, grassy side yard, a pool that works whether your dog swims or supervises, and a flat fee that doesn't surprise you.</p>
 
 <p>Check dates and book at <a href="/terra-luz/">the Terra Luz booking page</a>, and email me at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> first so I can confirm the dog details. I'd rather you bring the dog than leave them home.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Terra Luz dog-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Terra Luz welcomes up to two dogs for a flat pet fee covering the full stay. The property has a fenced backyard with a latching gate and a grassy side yard. Email indigopalmco@gmail.com to confirm before booking. Book direct at indigopalm.co/terra-luz/."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is the pet fee at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz charges a flat fee for the stay, not per night, so a long festival weekend does not accumulate surprise charges at checkout. There is no breed list or weight restriction. The host asks for a quick email before booking to confirm the dog details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the yard fenced at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Terra Luz has a fenced backyard with a real latching gate and a separate grassy side yard. Most Coachella Valley properties are gravel and decomposed granite, which heats to paw-burning temperatures by late morning, so the grass makes a meaningful difference for dogs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can my dog swim in the pool at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The pool has a sun shelf at the shallow end that makes entry and exit easy for dogs. Towel off before heading inside since wet paws on tile are slippery. Pool heating is available for an additional fee, which is worth considering for cooler spring evenings during Coachella or Stagecoach weekends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How close is Terra Luz to the Coachella and Stagecoach festival grounds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About eight minutes by car to the Empire Polo Club. Dogs are not allowed at the festival, but Terra Luz is close enough that you can leave your dog in the cool, fenced house and check back in easily. It is a more comfortable arrangement than boarding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there dog-friendly walking trails or patios near Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Indian Palms Country Club neighborhood has flat, quiet roads suited to early morning and evening walks. Foothill trails on the edge of the valley are dog-friendly on leash. Several area patios welcome well-behaved dogs. Details in the guest guide at indigopalm.co/blog/terra-luz-indio-local-guide/."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I leave my dog alone at Terra Luz while I attend the festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Most guests with dogs use Terra Luz as home base while attending the festival. The backyard is fully fenced, the house has AC, and the drive from the Empire Polo Club is about eight minutes, making mid-day check-ins easy. It beats boarding or leaving your dog at home."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Terra Luz allow large dogs or multiple dogs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz accepts up to two dogs with no published breed or weight limit. If you have large dogs or a specific situation, email indigopalmco@gmail.com before booking for a direct conversation. Book at indigopalm.co/terra-luz/ to avoid third-party service fees."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Are there dog-friendly walking trails or patios near Terra Luz?</h4>
+<p>The Indian Palms Country Club neighborhood has flat, quiet roads that work well for morning and evening walks — those are your windows, since desert pavement heats to paw-burning temperatures by late morning. Foothill trails on the edge of the valley are dog-friendly on leash, and a handful of area patios welcome well-behaved dogs. The <a href="/blog/terra-luz-indio-local-guide/">guest guide to Indio</a> lists specific spots that work with a dog in tow.</p>
+
+<h4>Can I leave my dog alone at Terra Luz while I go to the festival?</h4>
+<p>Yes, and it's the arrangement most guests with dogs use. Dogs aren't allowed at the Empire Polo Club, so the house becomes your dog's home base during festival days. The backyard is fenced with a latching gate, the AC keeps the interior cool, and the drive back from the polo grounds is about eight minutes, so checking in mid-day is easy. It's a better situation than boarding or leaving your dog at home.</p>
+
+<h4>Does Terra Luz allow large dogs or multiple dogs?</h4>
+<p>Terra Luz accepts up to two dogs, and there's no published breed or weight restriction. If you have two large dogs or a specific situation you want to run by the host, email indigopalmco@gmail.com before booking. That conversation happens upfront so there are no surprises on arrival. Book direct at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> to skip Airbnb's service fee.</p>

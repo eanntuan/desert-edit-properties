@@ -193,3 +193,88 @@ layout: blog-post.njk
 <p>Yes. Head to <a href="/terra-luz/">indigopalm.co/terra-luz</a> to book directly and lock in the return guest discount on your next stay.</p>
 
 <p class="credit">Guest experience by <a href="https://theolivejar.co" target="_blank" rel="noopener">@TheOliveJar.co</a> | Photography by <a href="https://www.anchor-pictures.com/" target="_blank" rel="noopener">Anchor Photography</a></p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long did the Terra Luz renovation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The full redesign started in late 2025 and finished in May 2026. The most intensive phase was March through May 2026, with on-site handyman Orlin and contractor Michael Cagle handling structural and electrical work throughout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who designed Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dawn Asher at The Olive Jar (theolivejar.co) led the brand identity and interior design direction. Every room passed through her six design filters before any purchase was committed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Latin and Cuban design influence about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The design pulls from Old Havana: bold color, rattan and natural textures, indoor-outdoor rhythm, and culturally specific artwork. References include Cuban street prints, a Cafe Bustelo poster, Frida Kahlo blue paint, and a dominos set on the dining table. It is not a theme in the costume sense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does Phase 2 of the Terra Luz renovation include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phase 2 covers exterior paint and the fire pit, planned for Summer 2026. Phase 3 in 2027 is a pass-through window from the kitchen to the patio. The inflatable movie screen is also on the Phase 2 list."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book Terra Luz directly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Book directly at indigopalm.co/terra-luz/ to skip the Airbnb service fee. Return guests receive 10% off their next stay, applied automatically with no coupon needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Terra Luz from Coachella and Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz is approximately two miles from Empire Polo Club in Indio, under five minutes by car in normal traffic. Festival exit windows can extend that, so most guests drive in early and rideshare back after late sets. Palm Springs is 25 minutes west on I-10."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Terra Luz pool heated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool heating is available at $75 per night, added at booking. Spring festival guests typically add it for evening swims since desert nights cool fast in April. Summer guests often skip it because ambient temperatures keep the water warm through the evening."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the sleeping capacity at Terra Luz and who is it best for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz sleeps up to six across three bedrooms. The Wild Tropics bedroom has a twin trundle, making it flexible for families or larger groups. It works well for friend groups, families wanting a private pool, and festival goers who want a base close to Empire Polo Club."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>How far is Terra Luz from Coachella and Stagecoach?</h4>
+<p>Terra Luz sits about two miles from Empire Polo Club in Indio, under five minutes by car in normal traffic. Festival exit windows on Monroe Street and Avenue 50 can stretch that, so most guests drive in early and rideshare back after late sets. Palm Springs is 25 minutes west on I-10 for a day trip between festival weekends.</p>
+
+<h4>Is the pool heated, and what does it cost?</h4>
+<p>Pool heating is available at $75 per night, added at booking. Spring visitors for Coachella or Stagecoach typically add it for evening swims, since desert nights cool fast in April. Summer guests often skip it because ambient temperatures keep the water warm on their own. Beach robes for six and Studio McGee pool towels are included.</p>
+
+<h4>What is the sleeping capacity and who is the property best for?</h4>
+<p>Terra Luz sleeps up to six across three bedrooms, and the Wild Tropics bedroom has a twin trundle that makes it flexible for families or larger groups. It works well for friend groups heading to a festival, families who want a private pool, and mixed groups who each want their own room with a distinct vibe rather than identical hotel boxes. See the full layout at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>

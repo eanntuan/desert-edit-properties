@@ -129,3 +129,69 @@ layout: blog-post.njk
 
 <h3>How do I protect outdoor furniture from UV damage?</h3>
 <p>Start with UV-resistant materials: solution-dyed acrylic cushion fabric, powder-coated metal frames, and all-weather resin wicker. Store cushions inside or in covered outdoor storage when temperatures are consistently above 100 degrees. For wood furniture, annual oiling extends life and appearance. Covers help but are secondary to choosing materials rated for UV exposure from the start.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What outdoor furniture holds up in extreme heat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Powder-coated aluminum, teak, concrete, and all-weather HDPE resin wicker all perform well in extreme heat. For cushions, solution-dyed acrylic fabric (Sunbrella is the most common brand) locks color into the fiber during manufacturing, so it resists fading where polyester fabric fades fast under sustained UV exposure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does teak furniture hold up in desert heat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Teak's natural oils make it resistant to heat, UV, and moisture. It will silver over time without maintenance oiling but won't crack or warp in desert conditions. Buy real teak, not acacia or eucalyptus sold as 'teak-style' — check the product spec sheet for wood species."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best patio furniture for hot climates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For frames, powder-coated aluminum or teak. For cushions, solution-dyed acrylic fabric. For wicker-look furniture, all-weather HDPE resin wicker. Avoid bundle sets from home improvement stores, which use underpowered materials across every component. Avoid chrome hardware, which oxidizes under temperature cycling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I protect outdoor furniture from UV damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with UV-resistant materials: solution-dyed acrylic cushion fabric, powder-coated metal frames, all-weather resin wicker. Store cushions inside when temperatures are consistently above 100°F. Oil wood furniture annually. Covers help but are secondary to choosing the right materials from the start."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does HDPE resin wicker hold up in desert heat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. HDPE (high-density polyethylene) resin wicker is engineered for UV and heat resistance. Look for 'all-weather resin wicker' or 'HDPE wicker' in product descriptions. Natural wicker and low-grade resin wicker both fail in one desert summer. If the listing doesn't specify HDPE, assume it's not rated for desert conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do umbrella bases need to be different for the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Desert afternoons generate real wind gusts, and an umbrella in a light base becomes a projectile. Use a weighted base rated for at least 30 to 35 mph winds. Freestanding pole-style umbrellas handle high-wind conditions more reliably than offset or cantilever styles, which have more leverage working against the base when gusts hit from the side."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Does HDPE resin wicker hold up in desert heat, or does it warp?</h4>
+<p>All-weather HDPE resin wicker holds up well in desert heat. HDPE (high-density polyethylene) is engineered for UV and heat resistance in a way that cheap thin-gauge resin wicker is not. The distinction that matters in product listings is "all-weather resin wicker" or "HDPE wicker" versus just "wicker," which can mean natural wicker (fails in one desert summer) or low-grade resin (warps and yellows). If the product description doesn't specify HDPE or all-weather resin, assume it's not rated for sustained desert conditions.</p>
+
+<h4>How do umbrella bases need to be different for the Coachella Valley?</h4>
+<p>Desert afternoons generate real wind gusts, especially from late spring through summer, and an umbrella in a light base becomes a projectile. A weighted base rated for at least 30 to 35 mph winds is the minimum for any outdoor setup in the Coachella Valley. Freestanding pole-style umbrellas handle high-wind conditions more reliably than offset or cantilever styles, which have more leverage working against the base when gusts come in from the side. This is one of those details that feels optional until it isn't. More on what goes into outdoor spaces at desert rentals is at <a href="https://indigopalm.co/blog/outdoor-furniture-desert-heat/">indigopalm.co</a>.</p>

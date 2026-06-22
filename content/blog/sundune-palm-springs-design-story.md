@@ -123,3 +123,78 @@ layout: blog-post.njk
 
 <h3>What makes The Sundune different from other Palm Springs vacation rentals?</h3>
 <p>The Sundune was built around a specific identity: surf culture meets desert warmth. The color palette, materials, and art direction all came from that brief. Dawn at The Olive Jar drove the design, so every room has a point of view rather than a general aesthetic. It functions as a basecamp you're genuinely happy to return to at the end of the day.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the design style of The Sundune at Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Sundune is built around a coastal-desert aesthetic: sun-faded clay and terracotta tones paired with muted ocean blues and dusty teals. Materials include warm woods, woven fiber, linen, and ceramic. The palette was created by brand designer Dawn Asher at The Olive Jar and is meant to feel collected over time rather than assembled from a single shopping cart."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many bedrooms does The Sundune have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two bedrooms, two bathrooms, with three king beds total. The primary bedroom has a hotel-style setup with a standing desk and pool view. The second bedroom has sunset pink wallpaper and a swivel chair that makes the room feel playful rather than serious."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune good for remote workers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The primary bedroom has an adjustable standing desk positioned to look out at the pool and palm trees. The kitchen, dining, and living areas flow together so you can shift workspaces throughout the day. Fast WiFi is standard, and the property is a short walk from coffee shops on Palm Canyon Drive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes The Sundune different from other Palm Springs vacation rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Sundune was designed around a specific coastal-desert identity by brand designer Dawn Asher at The Olive Jar. The color palette, materials, and art direction all follow a single brief rather than a general aesthetic. It functions as a basecamp for exploring Palm Springs, with a location steps from downtown and a layout that prioritizes both design and real-world functionality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Sundune dog-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with prior approval. The Sundune accepts dogs but requires permission before booking. Contact Indigo Palm Collective directly at indigopalm.co/the-sundune to confirm before booking if you're traveling with a pet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay at The Sundune?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The HOA at Palm Canyon Villas requires a 4-night minimum on weekdays and a 5-night minimum when the stay includes a weekend night. Short two-night weekend stays are not available. Most guests book 4-7 nights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you book The Sundune directly without Airbnb?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Sundune is bookable directly at indigopalm.co/the-sundune, which avoids the Airbnb service fee. Indigo Palm Collective manages all four properties directly, so pricing and availability are the same without the platform markup."
+      }
+    }
+  ]
+}
+</script>
+
+
+<h4>Is The Sundune dog-friendly?</h4>
+<p>Yes, with prior approval. The Sundune accepts dogs but requires you to request permission before booking rather than assuming it's included. Reach out through the listing or directly at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a> to confirm before you book if you're traveling with a pet.</p>
+
+<h4>What is the minimum stay at The Sundune?</h4>
+<p>The HOA at Palm Canyon Villas requires a 4-night minimum on weekdays and a 5-night minimum when the stay includes a weekend night. Short two-night weekend stays are not available here. Most guests book 4-7 nights, which works well for a longer desert escape or a remote work week.</p>
+
+<h4>Can you book The Sundune directly without Airbnb?</h4>
+<p>Yes. The Sundune is bookable directly at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a>, which avoids the Airbnb service fee. Indigo Palm Collective manages all four properties directly, so pricing and availability are the same without the platform markup.</p>

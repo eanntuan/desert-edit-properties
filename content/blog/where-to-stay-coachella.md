@@ -141,3 +141,88 @@ layout: blog-post.njk
 
 <h3>What should I look for in a Coachella vacation rental?</h3>
 <p>Private pool, covered outdoor space, laundry, and enough parking for your group's cars. Verify the actual bed count, not just the headcount the listing advertises. For festivals specifically, distance to the grounds and private pool availability matter more than square footage or kitchen layout. The 3pm afternoon recovery window is real, but it only works if your rental is close enough that going back is worth it.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to stay in Indio or Palm Springs for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio. The Empire Polo Club is in Indio. Staying locally means 5-15 minutes to the grounds versus 45-75 minutes from Palm Springs in festival traffic, which compounds over three days into 6 to 9 hours of commuting you didn't need to do."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cheapest way to stay at Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On-site car camping runs approximately $149 per person. For groups of four to eight, splitting a vacation rental in Indian Palms often comes out to the same or lower per-person cost once you fold in rideshare surge pricing. The right answer depends on how you want to spend your time, not just what's cheapest on paper."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I book a Coachella rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Six to nine months out is the safe window for Indian Palms properties with private pools and walking distance to the grounds — October or November for the following April. By January, most of the good options are gone. Properties further from the grounds stay available longer but come with the commute trade-off built in."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you walk to Coachella from Indian Palms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Indian Palms Country Club is the only neighborhood in the Coachella Valley where walking to the Empire Polo Club festival entrance is actually practical. The walk runs 1.5 to 2.2 miles from most rental locations in the community, roughly 25 to 49 minutes, making rideshare costs and parking coordination entirely optional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for in a Coachella vacation rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Private pool, covered outdoor space, laundry, and enough parking for your group. Verify the actual bed count, not just the headcount the listing advertises. Distance to the grounds and private pool availability matter more than square footage. The afternoon recovery window only works if your rental is close enough that going back is worth it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a vacation rental you can walk to Coachella from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indian Palms Country Club in Indio is the only neighborhood in the Coachella Valley where the walk to the Empire Polo Club is genuinely practical. The Cozy Cactus and Terra Luz are both in Indian Palms, sleeping 8 with private pools, available at indigopalm.co. Most Indian Palms rentals with private pools are claimed by November or December for the following April."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Indian Palms Country Club and is it actually close to Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indian Palms Country Club is a gated residential community in Indio, roughly 1.5 to 2.2 miles from the Empire Polo Club festival entrance, a 20 to 35 minute walk. This proximity makes rideshares and parking costs essentially optional for festival weekend, and allows group members to leave and return independently without coordinating shared transportation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do Coachella vacation rentals allow pets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some do, some don't. Terra Luz in Indian Palms is dog-friendly with a saltwater pool. The Cozy Cactus does not allow pets. Always confirm pet policy directly with the host before booking rather than assuming based on neighborhood or listing photos."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Is there a vacation rental you can walk to Coachella from?</h4>
+<p>Indian Palms Country Club in Indio is the only neighborhood in the Coachella Valley where the walk to the Empire Polo Club festival entrance is genuinely practical. The Cozy Cactus and Terra Luz are both in Indian Palms, sleeping 8 with private pools, and both available to book direct at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co</a> with no Airbnb service fee. Most Indian Palms rentals with private pools are claimed by November or December for the following April.</p>
+
+<h4>What is Indian Palms Country Club and is it actually close to Coachella?</h4>
+<p>Indian Palms Country Club is a gated residential community in Indio, roughly 1.5 to 2.2 miles from the Empire Polo Club festival entrance, which works out to a 20 to 35 minute walk. It's the proximity that makes rideshares and parking costs essentially optional for festival weekend, and it's what allows part of a group to head back to the rental at 3pm while others stay through headliners without everyone coordinating shared transportation.</p>
+
+<h4>Do Coachella vacation rentals allow pets?</h4>
+<p>Some do, some don't, and it varies by property. Terra Luz in Indian Palms is dog-friendly, with a saltwater pool and covered outdoor space that works well for dogs. The Cozy Cactus does not allow pets. Always confirm pet policy directly with the host before booking, and read the listing description rather than assuming based on the neighborhood.</p>

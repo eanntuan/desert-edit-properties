@@ -162,3 +162,78 @@ layout: blog-post.njk
 <h3>What is there to do in the Coachella Valley besides Coachella?</h3>
 <p>Quite a lot: Palm Springs Aerial Tram, Indian Canyons hiking, Shields Date Garden, the Salton Sea day trip, the midcentury architecture circuit in Palm Springs, Joshua Tree National Park (90 minutes away), the restaurant and bar scene in Palm Springs and La Quinta, and the various date farms and roadside markets along Hwy 111. The valley is not just a festival destination.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best time of year for a Coachella Valley weekend getaway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October through April is the season, with spring (February through April) as peak and fall (October and November) as the underrated alternative. October is particularly good: mild temperatures, fewer crowds, lower prices. July and August are doable but require a pool and a willingness to go inside from noon to 5pm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Indio or Palm Springs better for a weekend trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depends on what you're after. Palm Springs has more walkable density, better restaurants per square mile, and the midcentury hotel experience. Indio is quieter, closer to the festival grounds, more neighborhood and less resort. For first-timers without a specific agenda, Palm Springs is more intuitive. For festival weekends or anyone who wants a base to explore the whole valley, Indio is better positioned and meaningfully cheaper."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many days do you need for a Coachella Valley trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two full days (Friday arrival, Sunday departure) is enough to get a real sense of the valley and do a few activities without feeling rushed. Three days is the comfortable version that lets you cover both Indio and Palm Springs. Four or more days and you start hitting the longer list: the Salton Sea, Joshua Tree day trip, the full Palm Springs midcentury architecture circuit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is there to do in the Coachella Valley besides Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quite a lot: Palm Springs Aerial Tram, Indian Canyons hiking, Shields Date Garden in Indio, the Salton Sea day trip, the midcentury architecture circuit in Palm Springs, Joshua Tree National Park (90 minutes away), the restaurant scene in Palm Springs and La Quinta, and the date farms and roadside markets along Hwy 111. The valley is not just a festival destination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a private pool worth it for a Coachella Valley rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In warm months, yes. The afternoon heat window from noon to 5pm is real, and a private pool is what makes that window a highlight rather than a problem. For groups of four or more, the cost difference between a rental with a private pool and a comparable hotel often narrows more than expected, and you get a kitchen and full outdoor space too."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do a Coachella Valley weekend without a car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Palm Springs proper is walkable near Palm Canyon Drive, but a car is effectively required for the broader valley. The valley spans 45 miles, public transit between cities is limited, and most worthwhile activities require driving. Rideshare works within Palm Springs but gets expensive for valley-wide exploring."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I pack for a Coachella Valley weekend in spring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Layers matter more than people expect. Spring mornings can be in the 50s and 60s while afternoons hit the high 80s or low 90s. Bring a light jacket, sunscreen you'll actually reapply, a hat with real coverage, and good walking shoes for hiking. Sunglasses are not optional."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+<h4>Is a private pool worth it for a Coachella Valley rental?</h4>
+<p>In warm months (May through September), a private pool is the single feature that most affects how much you enjoy a Coachella Valley trip. The afternoon heat window from noon to 5pm is real, and a pool you don't share with strangers is what makes that window a highlight instead of a problem. For groups of four or more, the cost difference between a rental with a private pool and a mid-range hotel often narrows more than people expect, and you get a kitchen and full outdoor space on top of it.</p>
+
+<h4>Can you do a Coachella Valley weekend without a car?</h4>
+<p>Palm Springs proper is walkable if you're staying near the Palm Canyon Drive corridor, with restaurants, galleries, and some activities on foot. Outside of that, a car is effectively required. The valley spans 45 miles from Palm Springs to Indio, public transit between cities is limited, and most of the things worth doing (Indian Canyons, Shields Date Garden, the Aerial Tram, the date farms on Hwy 111) require driving. Rideshare works within Palm Springs but gets expensive for valley-wide exploring.</p>
+
+<h4>What should I pack for a Coachella Valley weekend in spring?</h4>
+<p>Layers matter more than people expect. Spring mornings in the valley can be in the 50s and 60s, and afternoons hit the high 80s or low 90s. A light jacket for early mornings and evenings, sunscreen that you will actually reapply, a hat with real coverage, and good walking shoes for any hiking. If you're staying at a rental with a pool, pack for that too, because you will end up in it. Sunglasses are not optional. See the full guide at <a href="https://indigopalm.co/blog/coachella-valley-weekend-getaway/">indigopalm.co/blog/coachella-valley-weekend-getaway/</a>.</p>

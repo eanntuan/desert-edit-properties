@@ -89,3 +89,69 @@ layout: blog-post.njk
 <p>If you're a family with one or two kids, this is the room. King sleeps two adults, trundle adds a child's bed without bringing in a separate cot, and the books and cushions are already there. If you booked Terra Luz for a work-from-desert trip, the desk actually functions as a workspace rather than just being decorative. And if you're in a group of eight and this is the room that's left, it'll be comfortable and not boring to look at.</p>
 
 <p>The house sleeps eight across three bedrooms. For everything else at Terra Luz, pool to outdoor kitchen, read <a href="/blog/terra-luz-what-i-built/">what I built</a>. Bringing a dog? Check the <a href="/blog/terra-luz-dog-friendly-coachella/">pet policy first</a>. Book direct at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does the Cali Room trundle work for adults or only for children?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The trundle was built from plywood with caster wheels and fits within 14 inches of clearance under the king frame. It sleeps a child comfortably and a smaller adult fine for a few nights. Most guests use it for a kid or a solo third person who doesn't need a full bed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you actually use the desk in the Cali Room for remote work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The workstation behind the bifold doors has a floating live-edge desk cut 25 inches deep, wide enough for a monitor setup. A rattan wishbone chair and mounted TV are included. Close the bifold doors and the workspace disappears completely, so the room doesn't feel like an office for guests who don't need it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What kids' amenities are already in the Cali Room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Cali Room has two floor cushions, a shelf with children's books including a Mariachi board book and Chicka Chicka Boom Boom, and a pull-out trundle that slides under the king bed. It's designed for families traveling with one or two children alongside two adults in the same room."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much did the IKEA IVAR rattan headboard cost to build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under $200 total. Four IKEA IVAR doors with bamboo woven panel fronts were mounted horizontally wall-to-wall above the bed, creating a continuous rattan headboard that reads as a single built-in piece. The full DIY breakdown is on the Terra Luz blog at indigopalm.co."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Terra Luz have a bedroom that sleeps kids without a separate cot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Cali Room has a king bed with a DIY trundle that rolls out from underneath for a child or small adult. When not in use, the trundle tucks away completely so the room stays clean. Kids' floor cushions and a children's book shelf are already in the room. Book at indigopalm.co/terra-luz."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+## Frequently Asked Questions
+
+<h4>Does the Cali Room trundle work for adults or only for children?</h4>
+<p>The trundle was built from 2x2 plywood with caster wheels and fits within 14 inches of clearance under the king frame. It sleeps a child comfortably and a smaller adult fine for a few nights, though it's not as deep as a standard twin mattress. Most guests use it for a kid or a solo third person who doesn't need a full bed.</p>
+
+<h4>Can you actually use the desk in the Cali Room for remote work?</h4>
+<p>Yes. The workstation behind the bifold doors has a floating live-edge desk cut 25 inches deep, wide enough for a monitor setup rather than just a laptop perched at the edge. A rattan wishbone chair and TV above the desk are included. Close the bifold doors and the workspace disappears completely, so the room doesn't feel like an office for guests who don't need it.</p>
+
+<h4>What kind of kids' amenities are already in the room?</h4>
+<p>The Cali Room comes with two floor cushions, a small shelf with children's books including a Mariachi board book and Chicka Chicka Boom Boom, and enough floor space for kids to spread out next to the trundle. The room is designed for families traveling with one or two children alongside two adults in the same room.</p>
+
+<h4>How much did the IKEA IVAR headboard cost to build?</h4>
+<p>Under $200 total. Four IKEA IVAR doors with bamboo woven panel fronts were mounted horizontally wall-to-wall above the bed, creating a continuous rattan headboard that reads as a single built-in piece rather than four separate panels. The full DIY breakdown is in the <a href="/blog/terra-luz-diy-rattan-headboard/">headboard post</a>. See the complete property at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>.</p>

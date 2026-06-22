@@ -91,3 +91,69 @@ layout: blog-post.njk
 <p>The outdoor space is what makes Terra Luz work for the groups that book it: friend groups, bachelorette trips, festival weekends, milestone birthdays. A pool alone doesn't make you want to stay outside all day. A pool plus shade plus seating plus a working grill plus a space that feels intentional — that does it. The design decisions are all pointing at the same thing: make it easy to stay.</p>
 
 <p>For the inside of the house, the three bedrooms each have their own story. The <a href="/blog/terra-luz-wild-tropics-bedroom/">Wild Tropics bedroom</a> is the boldest room in the house. The <a href="/blog/terra-luz-cali-room-bedroom/">Cali Room</a> is the most flexible. The full amenity breakdown is at <a href="/blog/terra-luz-what-i-built/">what I built at Terra Luz</a>. Book direct at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What color is the Terra Luz pool and why does it look different in photos than in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The pool is painted Frida Kahlo blue, a saturated cobalt that shifts through the day: electric at noon, warm and slightly purple by late afternoon, cinematic at night with the pool light on. Photos usually catch it at one light condition. The Talavera tile border along the pool edge ties back to the same tile used on the kitchen backsplash inside."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the spa included or is it an extra fee at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The spa is complimentary with every stay, no add-on fee. It heats up in about an hour and seats four. Pool heating is separate, available November through May at $75 per day with a two-day minimum and 24 hours notice before arrival. In summer the pool holds around 84-86 degrees from sun alone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the outdoor noise curfew at Terra Luz and how does it affect a stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio city ordinance sets outdoor noise curfew at 10pm, including the outdoor Sonos speaker. The group moves indoors at 10 and the living room takes over, which is a natural transition. For Coachella and Stagecoach weekends most guests aren't back at the property until late anyway, so the outdoor window is typically the afternoon before shows."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many people does the Terra Luz outdoor space fit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The patio sectional, pool deck, and in-pool lounger area fit groups of six to eight, matching the house max occupancy. The grill is positioned so the cook stays in conversation with seated guests rather than isolated. The wood slat cedar fence along the back closes the yard into a room, making a full group feel gathered rather than spread out."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Terra Luz have a grill and outdoor kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Terra Luz has a gas grill built against the terracotta brick wall on the covered patio, positioned directly behind the outdoor sectional so the cook stays part of the group conversation. The patio runs the full length of the house under a pergola with string lights. The indoor Sonos system extends outside through the glass doors with no re-pairing needed."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+## Frequently Asked Questions
+
+<h4>What color is the Terra Luz pool and why does it look different in photos than in person?</h4>
+<p>The pool is painted Frida Kahlo blue, a specific saturated cobalt named for the palette at La Casa Azul. It shifts through the day: electric at noon, warm and slightly purple by late afternoon, cinematic at night with the pool light on. Photos usually catch it at one light condition, so it looks different depending on when the shot was taken. In person the shifts are part of the experience.</p>
+
+<h4>Is the spa included or is it an extra fee?</h4>
+<p>The spa is complimentary with every stay, no add-on fee. It heats up in about an hour and seats four. Pool heating is the separate cost, available November through May at $75 per day with a two-day minimum and 24 hours notice before arrival. In summer the pool holds around 84-86 degrees from sun alone.</p>
+
+<h4>What is the outdoor noise curfew and how does it affect the stay?</h4>
+<p>Indio city ordinance sets outdoor noise curfew at 10pm. That includes the outdoor speaker, which is connected to the same Sonos system as inside. In practice the group moves indoors at 10 and the living room takes over, which is a natural transition rather than an abrupt stop. For Coachella and Stagecoach weekends most guests aren't back at the property until late anyway, so the outdoor window is typically the afternoon before shows.</p>
+
+<h4>How many people does the outdoor space comfortably fit?</h4>
+<p>The patio sectional, pool deck, and in-pool lounger area are designed for groups of six to eight, which is the max occupancy for the house. The grill is positioned so the cook stays in the same conversation as the people sitting rather than off to one side. The wood slat fence along the back perimeter closes the yard into a room, which makes a full group feel gathered rather than spread across open space. See the full outdoor setup and book direct at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>.</p>

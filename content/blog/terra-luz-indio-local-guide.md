@@ -143,3 +143,79 @@ layout: blog-post.njk
 <p>Both are complimentary. Pool heating is optional: $75/day (2-day minimum) or $400/week. The hot tub has no extra charge. Give me 24 hours' notice to get pool heat set up before your arrival.</p>
 
 <p class="credit">Photography by <a href="https://www.anchor-pictures.com/" target="_blank" rel="noopener">Anchor Photography</a> | Interior design by <a href="https://theolivejar.co" target="_blank" rel="noopener">Dawn Asher at The Olive Jar</a></p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far is Terra Luz from Coachella and Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Walking distance to the Empire Polo Club, about 8 minutes by car or 19 minutes on foot via Eisenhower Drive. During festival weekends, golf cart rides also run through the Indian Palms community, giving guests real alternatives to rideshare surge and parking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the closest grocery store to Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stater Bros on Jefferson Street, about 10 minutes from the property. Target is 15 minutes. Whole Foods in Palm Desert is 20 minutes west for specialty items like nicer wine, fresh bread, and charcuterie."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there anything to do in Indio outside of festival season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes: date farms (Shields Date Garden, Hadley Fruit Orchards), free Sunday polo matches at Empire Polo Club from October through May, Old Town Indio for dinner, and day trips to Joshua Tree (40 minutes northeast) and Palm Springs (30 minutes west). The Salton Sea is 30 minutes southeast."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Terra Luz dog-friendly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Up to 2 dogs with a $150 pet fee. Email indigopalmco@gmail.com to confirm before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's included with the pool and spa at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both are complimentary. Pool heating is optional at $75/day (2-day minimum) or $400/week. The hot tub has no extra charge. Give 24 hours notice to get pool heat set up before arrival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a car to stay in Indio near Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Indio doesn't have walkable shopping or reliable rideshare for everyday use. Most destinations are 10 to 30 minutes by car. For festival weekends, Uber and Lyft work but surge pricing is significant, so the golf cart shuttles within Indian Palms are worth using for short festival gate runs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Indio from Joshua Tree National Park?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 40 minutes northeast via Highway 62. Spring and fall are the most comfortable windows. Summer mornings before 9am are workable, but afternoon heat makes extended hiking dangerous. Plan an early departure and budget a full day for the best experience."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+<h4>How far is Indio from Joshua Tree National Park?</h4>
+<p>About 40 minutes northeast via Highway 62. It's a comfortable day trip in spring or fall if you leave early, before the desert heat arrives. Summer mornings before 9am are workable, but afternoon heat makes the park genuinely dangerous. Guests staying at Terra Luz who aren't doing festival sets all day often use a lighter day for a Joshua Tree morning run. The <a href="/blog/joshua-tree-day-trip-from-indio/">full day trip guide with route and timing is here</a>.</p>
+
+<h4>Do I need a car to stay in Indio?</h4>
+<p>Yes, without question. Indio doesn't have the walkability of Palm Springs or enough density to make rideshare reliable for regular use. Most things on this guide are 10 to 30 minutes from Terra Luz by car. Uber and Lyft work during festival weekends when demand is high, though surge pricing is real and wait times stretch. For Coachella and Stagecoach, book rides in advance and know that the golf cart option within Indian Palms is worth using over rideshare for short trips to the festival gate.</p>
+
+<h4>What is the Salton Sea like and is it worth visiting?</h4>
+<p>It's 30 minutes southeast of Indio and genuinely strange in a way that earns at least one visit. The bird population is significant, the Bombay Beach murals are interesting, and the whole place has an end-of-the-world atmosphere that sparks more conversation than a standard scenic stop. It's not everyone's thing, but the guests who go tend to talk about it for the rest of the trip. Pair it with a late morning departure from Terra Luz and you're back by early afternoon.</p>

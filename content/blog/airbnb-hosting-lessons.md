@@ -119,3 +119,69 @@ layout: blog-post.njk
 
 <h3>Is it worth paying cleaners above market rate for a vacation rental?</h3>
 <p>Yes, without question. Cleanliness is the only factor you get zero credit for when it's right and lose everything over when it's wrong. Professional cleaners with a detailed checklist and consistent pay produce consistent results. It's the foundation everything else is built on.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What vacation rental hosting tips move the needle on Airbnb reviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Response time matters more than most hosts realize. Guests who hear back fast feel taken care of, and that shows in reviews. Beyond that: stocked consumables, pre-set temperatures with clear instructions, and unexpected amenities get called out in reviews far more often than expensive furniture does."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you respond to a bad Airbnb review?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Respond within 24 hours. Acknowledge what was valid, explain what you've fixed or changed, keep it warm and brief. Don't argue. Future guests read host responses to decide whether you're someone they can trust, and a calm, accountable reply builds more credibility than pushing back."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What unexpected amenities generate the most Airbnb reviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Things guests don't expect but immediately use: a backyard putting green, a full-size kitchen stocked like someone cooks there, pre-assembled baby gear for families. Amenities that solve a specific problem or create a shared experience get mentioned in reviews at much higher rates than standard items."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth paying cleaners above market rate for a vacation rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, without question. Cleanliness is the only factor you get zero credit for when it's right and lose everything over when it's wrong. Professional cleaners with a detailed checklist and consistent pay produce consistent results. It's the foundation everything else is built on."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the most cost-effective improvement a new Airbnb host can make?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stock two of everything, then add one more. Spare toilet paper behind every toilet, extra coffee filters inside the drawer, chargers at every bedside. The cost per restocking cycle is around $20-30, and the guest experience benefit is disproportionately large because running out of a basic consumable at 10pm feels like neglect regardless of how nice the property is."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do listing photos affect guest reviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staged listing photos create an expectation gap: guests arrive expecting the perfectly arranged room from the photos and find the real version, which feels like a letdown even when nothing is actually wrong. Photographing the property as guests will actually find it closes that gap before it becomes a complaint."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What's the most cost-effective improvement a new Airbnb host can make?</h4>
+<p>Stock two of everything, then add one more — spare toilet paper behind every toilet, extra coffee filters inside the drawer, chargers at every bedside. The cost per restocking cycle is around $20-30, and the guest experience benefit is disproportionately large because running out of a basic consumable at 10pm feels like neglect regardless of how nice the property is. See more at <a href="https://indigopalm.co/blog/airbnb-hosting-lessons/">indigopalm.co/blog/airbnb-hosting-lessons/</a>.</p>
+
+<h4>How do listing photos affect guest reviews?</h4>
+<p>Staged listing photos create an expectation gap: guests arrive expecting the perfectly arranged room from the photos and find the real version, which feels like a letdown even when nothing is actually wrong. Photographing the property as guests will actually find it, same furniture, same art, nothing styled beyond what cleaning maintains, closes that gap before it becomes a complaint.</p>

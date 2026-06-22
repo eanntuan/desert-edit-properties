@@ -290,3 +290,64 @@ layout: blog-post.njk
 
 <h3>Where should I eat in Palm Springs on a budget?</h3>
 <p>The Heyday for lunch. Tac/Quila for lunch or early dinner. Koffi for a proper coffee and something baked. Happy hour at Escena runs 2pm-close on some days and the patio comes with no surcharge.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best restaurant in Palm Springs for a romantic dinner or special occasion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workshop Kitchen + Bar is the strongest choice: four Michelin recommendations, a James Beard design award, and a seasonal menu in a converted 1926 building with courtyard seating. Copley's on the Lawn is the alternative if atmosphere matters most, with string lights on the former Cary Grant estate. Both require advance reservations on weekends from October through May."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any good Japanese restaurants in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sandfish is an intimate omakase counter at 100 W Tahquitz Canyon Way with about 15-20 seats built around careful nigiri and small plates. It books out days in advance on weekends, so reserve before arriving. Order the uni if it's on the menu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What restaurants in Palm Springs do locals actually go to?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rooster and the Pig on South Indian Canyon is the consistent local favorite: Vietnamese fusion, pork belly buns, and a cocktail list that earns its price. Les Filles Cafe in Cathedral City (five minutes from downtown) is a genuinely French cafe with serious croissants that most visitors never find. Escena Grill's golf course patio is another local spot that rarely shows up in tourist guides."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat in Palm Springs before going to Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tac/Quila is the best pre-Coachella meal: a Michelin Guide-listed taqueria with Jalisco-style tacos, house-made tortillas, and a margarita flight. Fast enough that you won't be late, good enough to remember. Open daily from 11am at 415 N Palm Canyon Dr. The Coachella grounds are in Indio, about 30-45 minutes from Palm Springs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat in Palm Springs if I only have one dinner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workshop Kitchen + Bar is the clearest answer: a converted 1926 building with exposed concrete, a seasonally driven menu, and one of the strongest cocktail programs in the Coachella Valley. Four-time Michelin recommended. Reserve in advance, especially on weekends. It's at 800 N Palm Canyon Dr in the Uptown Design District."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What is the best restaurant in Palm Springs for a romantic dinner or special occasion?</h4>
+<p>Workshop Kitchen + Bar is the strongest choice: four Michelin recommendations, a James Beard Foundation design award, and a seasonal menu in a converted 1926 building with a courtyard. Copley's on the Lawn is the alternative if atmosphere matters more than formality, with string lights and mature trees on the former Cary Grant estate. Both require reservations on weekends, especially October through May.</p>
+
+<h4>Are there any good Japanese restaurants in Palm Springs?</h4>
+<p>Sandfish is an intimate omakase counter at 100 W Tahquitz Canyon Way with 15 to 20 seats, built around careful nigiri and small plates. It books out days in advance on weekends, so reserve before you arrive rather than after. Order the uni if it's on the menu that night.</p>
+
+<h4>What restaurants in Palm Springs do locals actually eat at, not just tourists?</h4>
+<p>Rooster and the Pig on South Indian Canyon is the consistent local favorite: Vietnamese fusion, pork belly buns, and a cocktail list that earns its price. Les Filles Cafe in Cathedral City (five minutes from downtown) is a genuinely French cafe with serious croissants that most visitors never find. Escena Grill's golf course patio is another local-known spot that rarely shows up in tourist guides. Full list with addresses and hours at <a href="https://indigopalm.co/blog/best-restaurants-palm-springs/">indigopalm.co/blog/best-restaurants-palm-springs/</a>.</p>

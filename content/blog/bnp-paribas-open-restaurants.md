@@ -153,3 +153,69 @@ For restaurant options beyond the tennis grounds, the [Palm Desert dining guide]
 
 <h3>Where should I eat near the Indian Wells Tennis Garden if I leave the grounds?</h3>
 <p>Kestrel at the Indian Wells Golf Resort is the closest off-site option, about a 5-minute drive. El Paseo Drive in Palm Desert is 10 minutes west and has the highest density of sit-down restaurants in the valley. La Quinta Village, 15 to 20 minutes east, works well for guests staying closer to Indio.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Nobu open to the public during the BNP Paribas Open?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Nobu Indian Wells in Stadium 2 is open to attendees with a grounds pass during tournament days. No separate reservation is required to enter the stadium, though tables at Nobu fill fast. Arrive right at opening (5pm) for the best walk-in availability, or book in advance if Nobu is the primary reason you're staying for the evening session."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best food option at the BNP Paribas Open for a quick meal between matches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sweetfin poke bowls for something light and easy to carry, MOTO Pizza for something more substantial. Both are in concession areas across the grounds, and the best time to hit either is 15 to 20 minutes after a match starts, when the crowds thin from the changeover rush."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there vegetarian or plant-based options at the BNP Paribas Open?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chef Tanya's Kitchen is on site and is one of the valley's best-known plant-based restaurants. Sweetfin poke bowls also have vegetarian options. The Nobu menu includes vegetarian small plates. The 2026 lineup made a deliberate push toward variety, and plant-based options are more available than at most tennis tournaments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I eat near the Indian Wells Tennis Garden if I leave the grounds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kestrel at the Indian Wells Golf Resort is the closest off-site option, about a 5-minute drive. El Paseo Drive in Palm Desert is 10 minutes west and has the highest density of sit-down restaurants in the valley. La Quinta Village, 15 to 20 minutes east, works well for guests staying closer to Indio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I book a table at Nobu during the BNP Paribas Open?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At least a few days ahead for weekend sessions. Walk-in availability exists on weeknights if you arrive right at the 5pm opening. The Tanoshi Hour on Wednesday and Thursday (5pm to 6pm) has specials on dishes, sake, and cocktails, making it the easiest window to get a table and the best value of the tournament."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth staying in Indio for the BNP Paribas Open, or should I stay closer to Indian Wells?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio is 20 to 25 minutes east of the Indian Wells Tennis Garden and works well for guests who want a full house with a pool at a lower nightly rate than the Palm Springs corridor. The drive back after evening sessions goes against outgoing traffic. Indio properties also put you close to the Coachella polo fields if your trip overlaps with festival season."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>How far in advance should I book a table at Nobu during the BNP Paribas Open?</h4>
+<p>At least a few days ahead for weekend sessions, especially Friday and Saturday evenings. Walk-in availability exists during the week if you arrive right at the 5pm opening, but tournament weekends fill quickly. The Tanoshi Hour on Wednesday and Thursday (5pm to 6pm) is the easiest time to get a table and has specials on dishes, sake, and cocktails, making it the best value window of the tournament.</p>
+
+<h4>Is it worth staying in Indio for the BNP Paribas Open, or should I stay closer to Indian Wells?</h4>
+<p>Indio is 20 to 25 minutes east of the Indian Wells Tennis Garden on Highway 111 and works well for guests who want a full house with a pool at a lower nightly rate than the Palm Springs corridor. The drive back after evening sessions is against outgoing traffic, which makes the commute easier than it sounds. Properties like <a href="https://indigopalm.co/cozy-cactus/">The Cozy Cactus</a> and <a href="https://indigopalm.co/terra-luz/">Terra Luz</a> in Indio also put you close to the Coachella polo fields if your trip overlaps with festival season.</p>

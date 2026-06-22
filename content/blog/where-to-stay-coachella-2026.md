@@ -246,3 +246,59 @@ layout: redirect.njk
 <h3>What should I know before arriving at a Coachella festival rental in Indio?</h3>
 <p>Stock up on groceries before you get to the property. During festival weekends, Monroe Street and Madison Avenue see full gridlock from about 2pm onward on Friday, Saturday, and Sunday. Arrive before noon on your check-in day or plan for a late arrival after 8pm when traffic clears. Bring cash for golf cart rides and shoes that can handle gravel if you're walking to the festival grounds.</p>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there dog-friendly vacation rentals walking distance from Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A few exist, but verify with the host that the HOA community allows dogs, not just the individual owner. Terra Luz, an Indigo Palm Collective property about 2 miles from the polo grounds in Indio, is dog-friendly with prior approval. See current availability at indigopalm.co."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the 3PM strategy actually work for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It works if your rental is in Indio. The round trip from Indian Palms to the festival grounds is 10 to 15 minutes each way, making a midday pool break feasible. From Palm Springs, 45 minutes each way in festival traffic turns a recovery break into a three-hour ordeal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Stagecoach worth considering if Coachella rentals are sold out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Stagecoach runs the following weekend at the same Empire Polo Club grounds. The same Indian Palms rentals are walking distance, booking pressure is lower, and prices typically run 15 to 25% less than Coachella weekend. Options often remain available through February or March."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I book a Coachella rental on Airbnb or directly with the property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Booking direct saves the Airbnb service fee, typically 14 to 16% of the total. On a $1,200 weekend stay that's $170 to $190 saved. Direct booking also means faster communication with the actual host. For properties with established track records and their own booking sites, going direct makes financial sense."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Are there dog-friendly vacation rentals walking distance from Coachella?</h4>
+<p>A few, but verify with the host that the HOA community itself allows dogs, not just the individual owner. Terra Luz, an Indigo Palm Collective property about 2 miles from the polo grounds in Indio, is dog-friendly with prior approval. See current availability at <a href="https://indigopalm.co/blog/where-to-stay-coachella-2026/">indigopalm.co</a>.</p>
+
+<h4>Does the 3PM strategy actually work, or is it just a nice idea?</h4>
+<p>It works if your rental is in Indio. The round trip from Indian Palms to the festival grounds is 10 to 15 minutes each way, which makes a 2-hour midday pool break genuinely feasible. From Palm Springs, the same logic falls apart: 45 minutes each way in festival traffic turns a recovery break into a three-hour ordeal, and most groups staying that far out just push through instead.</p>
+
+<h4>Is Stagecoach worth considering if Coachella rentals are already sold out?</h4>
+<p>Yes. Stagecoach runs the following weekend at the same Empire Polo Club grounds, the same Indian Palms rentals are walking distance, and the booking pressure is lower. If you're flexible on country music and the walking-distance inventory for Coachella is gone, Stagecoach often has options available through February or March. Prices also tend to run 15 to 25% lower than Coachella weekend.</p>
+
+<h4>Should I book a Coachella rental on Airbnb or directly with the property?</h4>
+<p>Booking direct saves the Airbnb service fee, which typically adds 14 to 16% to the total cost. On a $1,200 weekend stay that's $170 to $190 saved. Direct booking also means faster communication with the actual host if anything comes up during the festival. For properties with established track records and their own booking sites, going direct makes financial sense.</p>

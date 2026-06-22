@@ -134,3 +134,72 @@ layout: blog-post.njk
 <h3>How far is Joshua Tree from Palm Springs?</h3>
 <p>About 40 to 45 minutes from Palm Springs to the Cottonwood South Entrance via I-10, or slightly longer to the north and west entrances via Highway 62. It makes an easy day trip if you leave by 8am and return by mid-afternoon. See the full <a href="/blog/joshua-tree-day-trip-from-indio/">Joshua Tree day trip guide</a> for entrance options and what to bring.</p>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best 3 day itinerary for Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Day one: Palm Springs Aerial Tram (book ahead, first car 10am weekdays), pool afternoon, Palm Canyon Drive dinner. Day two: Koffi coffee, Palm Springs Art Museum ($17.50, closed Tuesdays), mid-century architecture walk through Movie Colony neighborhood, evening on the patio. Day three: leave by 8am for Joshua Tree via north entrances, Barker Dam and Ryan Mountain, back by mid-afternoon. Full times and costs at indigopalm.co/blog/palm-springs-3-day-itinerary/"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 3 days enough time in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Palm Springs is small enough that three days covers the aerial tram, downtown and the Art Museum, mid-century architecture, and a Joshua Tree day trip without rushing any of them. The city's natural rhythm — active mornings, pool midday, architecture walks at golden hour — fits a long weekend well. Peak season (January through April) books fast, so reserve the tram and dinner spots in advance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do Joshua Tree and Palm Springs in the same trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Joshua Tree is 40 to 45 minutes from Palm Springs. Leave by 8am, enter through the north side for Skull Rock, Barker Dam, and Ryan Mountain. Plan 5 to 6 hours in the park and return mid-afternoon. Bring 1 liter of water per person per hour — there are no services inside the park except at campgrounds. Details at indigopalm.co/blog/palm-springs-3-day-itinerary/"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I stay for a Palm Springs long weekend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stay in Palm Springs proper for a city-focused trip, south of downtown near the residential neighborhoods. Vacation rentals with private pools make the most sense given midday heat. If you're splitting time between Palm Springs and Coachella or Stagecoach, basing in Indio saves 30 minutes each way on festival days. The Sundune at indigopalm.co is a Palm Springs condo with a 4-night minimum, well-located for this itinerary."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do in Palm Springs on my first afternoon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check in, use the pool, and walk Palm Canyon Drive in the evening. The first afternoon is best treated as a decompression day. Save the tram and architecture walks for when you're settled. Dinner at Tropicale or anywhere on Palm Canyon is a solid entry into the city's pace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Palm Springs walkable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Downtown is walkable, but the aerial tram, Joshua Tree, Sunnylands, and most residential neighborhoods require a car. Rideshare works in Palm Springs proper during peak season. Bike rentals downtown are a good option for exploring the flat residential neighborhoods east of Palm Canyon without driving."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What should I do in Palm Springs on my first afternoon?</h4>
+<p>Check into your rental, use the pool, and walk Palm Canyon Drive in the evening. The first afternoon is best treated as a decompression day, not a sightseeing day. Save the tram and the architecture walks for when you're settled. Dinner at Tropicale or anywhere on Palm Canyon is a good entry point into the city's pace.</p>
+
+<h4>Is Palm Springs walkable?</h4>
+<p>Downtown is walkable, but the rest of the itinerary requires a car. The aerial tram, Joshua Tree, Sunnylands in Rancho Mirage, and most residential neighborhoods are not reachable on foot. Rideshare works in Palm Springs proper during peak season, though coverage thins out after midnight and east of the city. Rent bikes for the downtown neighborhoods if you want to cover more ground without driving.</p>
+
+<h4>Where should I eat in Palm Springs for a long weekend?</h4>
+<p>Tropicale on Calle Encilia for dinner on arrival night, it fits the mid-century mood of the city and takes reservations. Sandfish on Indian Canyon for sushi. Koffi (1700 S Camino Real or the North location) for every morning coffee, it's the closest thing to a local institution the city has. Gelson's on Sunrise Way handles grocery needs if you want to cook one night. For a longer local list, the <a href="https://indigopalm.co/blog/palm-springs-3-day-itinerary/">full itinerary</a> covers logistics by day.</p>

@@ -104,3 +104,77 @@ layout: blog-post.njk
 
 <h3>How much did the Terra Luz renovation cost?</h3>
 <p>The Version 1 renovation budget was $19,900, covering pool deck, all tile, wallpaper, paint, furniture, and Dawn's design fees. Version 2 (exterior paint, summer 2026) adds approximately $5,000. Version 3 (pass-through kitchen window, summer 2027) is estimated at $2,500 to $3,500.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long did the Terra Luz renovation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About four months, February through May 2026, covering pool deck resurfacing, all tile work including terracotta floors and Talavera accent dots, Wild Tropics wallpaper installation, lime-wash painting throughout, and all furniture sourcing and delivery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who did the design for Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dawn Asher of The Olive Jar handled brand identity and design direction, including the six brand filters every decision ran through. Orlin did tile, paint, and wallpaper installation on-site. Michael Cagle handled electrical, and Tom at Concrete By Design did the pool deck."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Wild Tropics wallpaper in the second bedroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A floor-to-ceiling tropical print from Rebel Walls in blue, 57 feet wide across all four walls. Matte paste-on, installed over two days. The tile headboard uses Merola Manises Decor tiles in a terracotta and blue-white pattern mounted on plywood — the most photographed room in the house."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Kahlo Blue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cobalt accent color running through Terra Luz as a recurring thread, appearing in throw pillows, the third bedroom closet interior, and the pool water itself. Named as a reference to Frida Kahlo's use of bold color. The pool color comes from Kahlo Blue pool deck paint combined with the natural chemistry of a saltwater system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much did the Terra Luz renovation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Version 1 renovation budget was $19,900, covering pool deck, all tile, wallpaper, paint, furniture, and design fees. Version 2 (exterior paint, summer 2026) adds approximately $5,000. Version 3 (pass-through kitchen window, summer 2027) is estimated at $2,500 to $3,500."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the patio at Terra Luz look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1,148 square feet with a resurfaced pool deck in Orange Flambé cooling overlay that runs 20 to 30 degrees cooler than standard concrete. Antigua wicker rocking chairs, in-pool loungers, a concrete fire pit coffee table, and an outdoor projector mounted to the pergola for movie nights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Latin/Cuban design at Terra Luz the same as boho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Brand architect Dawn Asher distinguished these clearly: boho is eclectic and maximalist, while Terra Luz targets Old Havana patina and wabi-sabi warmth, with materials that feel collected rather than assembled. Every decision ran through six brand filters to keep the design intentional rather than generic."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What does the patio at Terra Luz actually look like in person?</h4>
+<p>Bigger than the photos suggest. The patio is 1,148 square feet, which makes it larger than most of the interior living space. The pool deck was resurfaced with a cooling overlay in a lace finish called Orange Flambé that runs 20 to 30 degrees cooler than standard concrete on hot days. Antigua wicker rocking chairs line the back wall, there are in-pool loungers under a Desert Marigold umbrella, and an outdoor projector is mounted to the pergola for movies. The concrete fire pit coffee table from Neighbor works as a low table when the fire isn't on. See the full renovation breakdown at <a href="https://indigopalm.co/blog/terra-luz-renovation-story/">indigopalm.co</a>.</p>
+
+<h4>Is the Latin/Cuban design aesthetic at Terra Luz boho?</h4>
+<p>No, and the distinction matters. Brand architect Dawn Asher at The Olive Jar made this explicit from the start: Latin/Cuban and boho both use rattan and warm tones, but boho is eclectic and maximalist while the direction at Terra Luz was more specific — Old Havana patina, wabi-sabi warmth, materials that feel collected and lived-in rather than assembled from a mood board. Every furniture and finish decision ran through six brand filters: cocooned and soothing, vibrant and rejuvenating, cultured, rhythmic, effortless ease, grounded. The result holds together in a way that generic boho rentals usually don't.</p>

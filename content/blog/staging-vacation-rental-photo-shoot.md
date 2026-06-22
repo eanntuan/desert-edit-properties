@@ -140,3 +140,80 @@ layout: blog-post.njk
 <h3>What should I put on surfaces for vacation rental photos?</h3>
 <p>Less than you think. A tray with two or three items on a coffee table reads better than twelve items scattered across it. Prioritize things that suggest occupancy without creating clutter: a book open face-down, a citrus bowl, two wine glasses. Fresh flowers and fruit are worth placing the morning of the shoot because they show up beautifully but wilt fast.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to stage a vacation rental for photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Five days is the realistic minimum. Day 5 is the walk-through and problem list. Day 4 is deep cleaning and furniture finalization. Day 3 is vignette styling. Day 2 is the tchotchke audit. Day 1 is the reset check and morning prep. Starting two days out almost guarantees you miss something the camera will find."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a professional photographer for vacation rental photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a listing that's your primary income source, yes. A good photographer works with light, angles, and timing that a phone camera captures poorly. The return shows up in booking rates, not just how the listing looks. Bookings increased measurably after upgrading from phone photos to professional shots."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most common vacation rental staging mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Too many items on any surface is most common. Second is staging for how the room looks in person rather than how it reads in a wide-angle photo from a doorway. Third is leaving operational clutter visible: extension cords, router cables, cleaning supplies on counters. A camera finds all of these before your eye does."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I put on surfaces for vacation rental photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Less than you think. A tray with two or three items on a coffee table reads better than twelve items scattered across it. Prioritize things that suggest occupancy without clutter: a book open face-down, a citrus bowl, two wine glasses. Fresh flowers and fruit are worth placing the morning of the shoot because they photograph beautifully but wilt fast."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is staging for a photo shoot different from staging for guests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guest staging optimizes for comfort and function. Photo staging optimizes for how a room reads through a wide-angle lens. Operational clutter guests overlook — a visible router, power strip along the baseboard, cleaning supplies on the counter — is the first thing a camera finds. Photo staging also uses temporary props that suggest habitation without actual clutter."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I turn lights on or off during a vacation rental photo shoot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turn every lamp on. Overhead lights are optional depending on the photographer's preference, but lamps add warmth and depth that a bare room lacks. Arrive 30 to 45 minutes early to reset lamps, open every blind, and adjust anything that shifted overnight. Natural light and lamp light together give the photographer the most to work with."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you stage an outdoor space for vacation rental photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat the outdoor area as its own vignette. Angle chairs slightly toward each other, add a centerpiece to the table, put cushions on every seat. Clear the deck of anything not deliberately placed: hoses, pool chemicals, extra towels. Net the pool the morning of the shoot. The pool or outdoor space is usually the hero image that stops the scroll."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>How is staging for a photo shoot different from staging for guests?</h4>
+<p>Guest staging optimizes for comfort and function. Photo staging optimizes for how a room reads through a wide-angle lens from a doorway, and those goals conflict more than most hosts expect. Operational clutter that guests overlook — a visible router, a power strip along the baseboard, extra cleaning supplies on the counter — is the first thing a camera finds. Photo staging also uses temporary props (a half-read book, a set table, fresh flowers) that suggest habitation without the mess of actual habitation. Once the shoot is done, some of those things go away.</p>
+
+<h4>Should I turn lights on or off during a vacation rental photo shoot?</h4>
+<p>Turn every lamp on. Overhead lights are optional depending on your photographer's preference, but lamps add warmth and depth that a room without them reads as flat and staged in the wrong way. Arrive 30 to 45 minutes before the photographer to do this reset, open every blind, and adjust anything that shifted overnight. Natural light and lamp light together give the photographer the most to work with. See the full morning-of checklist at <a href="https://indigopalm.co/blog/staging-vacation-rental-photo-shoot/">indigopalm.co/blog/staging-vacation-rental-photo-shoot/</a>.</p>
+
+<h4>How do you stage an outdoor space for vacation rental photography?</h4>
+<p>Treat the outdoor area as its own vignette, not an afterthought. Arrange furniture deliberately — chairs angled slightly toward each other rather than pushed flat against a wall, a centerpiece on the table (citrus bowl, small plant, candle), and cushions on every seat even if you usually store them. Clear the deck of everything that isn't in the shot: hoses, pool chemicals, extra towels. If there's a pool, net it the morning of the shoot and confirm no leaves are floating. The pool or outdoor space is usually the hero image that stops the scroll, so everything in staging flows outward from there.</p>
+

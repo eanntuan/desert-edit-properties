@@ -252,3 +252,68 @@ layout: blog-post.njk
 
 <p>If you want a deeper look at the whole valley, our <a href="/blog/coachella-valley-insider-guide/">Coachella Valley insider guide</a> breaks down every city and neighborhood worth knowing about. The desert is bigger than most people realize when they book.</p>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to stay in Palm Springs or Indio for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio is the right call for Coachella. The Empire Polo Club is in Indio, and Indian Palms rentals are 5 to 15 minutes from the festival grounds by car, or walkable in under 20 minutes. From Palm Springs, the same trip is 30 minutes on a quiet day and closer to an hour on festival Saturday night. Staying in Indio also means you can day-trip Palm Springs in 30 minutes without paying Palm Springs nightly rates the whole trip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much cheaper is Indio than Palm Springs for vacation rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a 3-bedroom with a private pool, Indio typically runs 30 to 50 percent less per night than Palm Springs. A property at $280 in Indio often lists at $420 to $600 in Palm Springs for comparable bedrooms. The gap is widest for large groups, where Palm Springs' compact lots and smaller pools make the cost difference even harder to justify."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between Palm Springs and Indio for a family trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For families, Indio wins on almost every practical axis: larger properties, bigger outdoor spaces, more usable pools, and lower rates. Palm Springs is better for couples who want walkable restaurants and don't need square footage. Families often find Palm Springs rentals feel tight for the money. The good news: Indio is still 30 minutes from Palm Springs, so the Aerial Tramway and downtown are easy day trips from an Indio base."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should a group of 8 people stay in the Coachella Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio is the practical answer for eight people. Palm Springs properties at that capacity tend to be expensive with outdoor spaces smaller than a group that size actually wants. In Indian Palms, Indio, a 3-bedroom house with a private pool, hot tub, and driveway parking for four or more vehicles runs meaningfully less per night, and the space works for a group rather than cramping them."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you stay in Indio and still visit Palm Springs easily?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The drive from Indian Palms to downtown Palm Springs is about 30 minutes. Most guests build in a full Palm Springs day and come back to cook dinner and use the pool. Highway 111 is the scenic route through the valley floor with mountain views the whole way. The only timing note: on Coachella and Stagecoach weekends, the Friday afternoon return toward Indio can be slow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best vacation rentals in Indio near Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indian Palms Country Club is the strongest location — gated, residential, and 5 to 15 minutes from the Empire Polo Club by car. The Cozy Cactus (3BR, private pool, hot tub, game room) and Terra Luz (Cuban-inspired 3BR, saltwater pool, in-water loungers) are both in that neighborhood, sleep up to 8, and book direct at indigopalm.co without a service fee. The walk to the polo grounds via Eisenhower Drive is about 19 minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Indio worth visiting without a car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Indio requires a car for everything — coffee, dinner, groceries, any activity. Palm Springs is walkable in a way almost nothing else in the desert is: you can park once and walk all day. If you're flying in without a rental and want to walk to things, Palm Springs is the clearer choice. If you have a car either way, the gap closes because Indio is only 30 minutes from Palm Springs' walkable core."
+      }
+    }
+  ]
+}
+</script>

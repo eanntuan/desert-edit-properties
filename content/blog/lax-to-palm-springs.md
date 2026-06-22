@@ -132,3 +132,80 @@ layout: blog-post.njk
 
 <h3>Can you get to Palm Springs without a car?</h3>
 <p>You can get there. Getting around the broader valley without one is difficult. Downtown Palm Springs is walkable. Anywhere else in the valley requires a car or rideshare.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long is the drive from LAX to Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 2 hours without traffic, roughly 120 miles on the I-10 east. Friday afternoons or Sunday mornings can add 45 to 60 minutes. Check Google Maps before leaving the airport."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a shuttle from LAX to Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Shared shuttles run $100 to $150 per person and take 2.5 to 3 hours with stops. Best for solo travelers staying in walkable downtown Palm Springs who don't need a car."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it better to fly into LAX or PSP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PSP is more convenient if you can get a reasonable fare. LAX has more routes and often lower fares but adds the 2-hour drive. ONT is worth checking as a middle-ground. Run the numbers for your dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you get to Palm Springs without a car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can get there without one, but getting around the broader valley is difficult. Downtown Palm Springs is walkable. Anywhere else in the valley requires a car or rideshare, and rideshare gets thin in the east valley after 10pm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What time should I leave LAX to avoid traffic to Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leave before 11am or after 7pm on Fridays. The I-10 East is worst noon to 7pm on Fridays, stretching the drive to 3.5 hours. During festival weekends, arriving Thursday evening is the biggest upgrade you can make."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Ontario Airport (ONT) worth considering over LAX for Palm Springs trips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Ontario International is about 1.5 hours from Palm Springs versus 2 to 2.5 from LAX, with less congestion and easier navigation. If fares are close to LAX pricing for your dates, it is worth taking seriously."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I stay if I'm splitting time between Palm Springs and Coachella or Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio is the practical base for festival trips, cutting your drive to the polo grounds to minutes instead of 30-plus from downtown Palm Springs. Indigo Palm has properties in Indio and a Palm Springs condo for split itineraries — see indigopalm.co."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What time should I leave LAX to avoid traffic to Palm Springs?</h4>
+<p>Leave before 11am or after 7pm if you're traveling on a Friday. The I-10 East corridor is worst between noon and 7pm on Friday afternoons, when a 2-hour drive can stretch to 3.5 hours. Tuesday through Thursday, almost any departure time works. During Coachella and Stagecoach weekends, arriving Thursday evening instead of Friday is the single biggest upgrade you can make to the trip.</p>
+
+<h4>Is Ontario Airport (ONT) worth considering over LAX for Palm Springs trips?</h4>
+<p>Yes, and it's underused. Ontario International is about 1.5 hours from Palm Springs compared to 2 to 2.5 from LAX, with far less congestion and easier navigation. If fares into ONT are close to LAX pricing for your dates, it's worth taking seriously. It doesn't have LAX's route volume, but for West Coast travelers especially the comparison is worth running.</p>
+
+<h4>Where should I stay if I'm splitting time between Palm Springs and Coachella or Stagecoach?</h4>
+<p>Indio, which sits right next to the polo grounds, is the practical base for festival trips since it cuts your drive to the venue to minutes rather than 30-plus from downtown Palm Springs. Indigo Palm has properties in Indio within walking distance of the Coachella and Stagecoach grounds at indigopalm.co, and a Palm Springs condo (The Sundune) for the city-focused half of a split itinerary.</p>

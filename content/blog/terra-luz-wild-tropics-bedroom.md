@@ -95,3 +95,61 @@ layout: blog-post.njk
 <p>The house sleeps eight across three bedrooms. Rates start around $350/night depending on the season. You can check availability and book directly at the property page or through <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>.</p>
 
 <p>If you want the full rundown of everything at Terra Luz, the pool, the outdoor kitchen, the primary suite, and the rest, read <a href="https://indigopalm.co/blog/terra-luz-what-i-built/">what I built</a>. And if you're bringing a dog, check the <a href="https://indigopalm.co/blog/terra-luz-dog-friendly-coachella/">pet policy post</a> first.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes the Wild Tropics bedroom different from a typical vacation rental room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Wild Tropics room at Terra Luz has Rebel Wall botanical wallpaper covering all four walls and the ceiling of the sleeping alcove, placing you inside the pattern rather than looking at a single accent wall. A custom terracotta tile headboard anchors the king bed, and a seating nook with navy velvet chairs and gold-striped curtains gives the room a second use beyond sleeping. It is the most visually distinct room in the house."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much did the Wild Tropics bedroom cost to design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total came in around $5,600. Rebel Wall botanical wallpaper was $3,800, the custom tile headboard $545, and the remaining pieces including jute rug, velvet chairs, pendant lamps, curtains, side table, sconce, nightstands, mirror, and clothing rack totaled roughly $1,200 combined. One major investment, everything else sourced to support it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I stay in the Wild Tropics bedroom at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Wild Tropics room is one of three bedrooms at Terra Luz in Indio, California, a short walk from the Empire Polo Club. The house sleeps eight and is dog-friendly. Book directly at indigopalm.co/terra-luz to avoid Airbnb service fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the ceiling wallpaper treatment difficult to install?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rebel Wall panels are large-format and print to order, making installation more involved than standard roll wallpaper. Running the botanical pattern across the sleeping alcove ceiling creates the immersive effect but requires careful panel alignment. Hiring an experienced wallpaper installer is worth the extra cost since a seam misalignment at the ceiling break is visible from the bed."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+## Frequently Asked Questions
+
+<h4>What makes the Wild Tropics bedroom different from a typical vacation rental room?</h4>
+<p>The Wild Tropics room at Terra Luz has Rebel Wall botanical wallpaper covering all four walls and the ceiling of the sleeping alcove, so you're inside the pattern rather than looking at it on a single accent wall. A custom terracotta tile headboard anchors the king bed, and a seating nook with navy velvet chairs and gold-striped curtains gives the room a second use beyond sleeping. It's the most visually distinct room in the house and tends to get claimed first when groups are dividing up space.</p>
+
+<h4>How much did the Wild Tropics bedroom cost to design?</h4>
+<p>The total came in around $5,600. The Rebel Wall botanical wallpaper was $3,800, the custom tile headboard $545, and the remaining pieces, jute rug, velvet chairs, pendant lamps, curtains, side table, sconce, nightstands, mirror, and clothing rack, totaled roughly $1,200 combined. The approach was one major investment and everything else sourced to support it without competing.</p>
+
+<h4>Can I stay in the Wild Tropics bedroom at Terra Luz?</h4>
+<p>Yes. The Wild Tropics room is one of three bedrooms at Terra Luz in Indio, California, a short walk from the Empire Polo Club. The house sleeps eight and is dog-friendly. You can check availability and book directly at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, which avoids the Airbnb service fee.</p>
+
+<h4>Is the ceiling wallpaper treatment difficult to install?</h4>
+<p>Rebel Wall panels are large-format and print to order, so the installation is more involved than standard roll wallpaper. The ceiling treatment, running the botanical pattern across the sleeping alcove ceiling to continue from the walls, is what creates the immersive effect. It requires careful panel alignment, and a seam misalignment at the ceiling break is visible from the bed, so hiring an experienced wallpaper installer is worth the extra cost.</p>

@@ -122,3 +122,80 @@ Andreas Canyon is the best option with kids under 8: flat trail, dramatic canyon
 ---
 
 *Eann runs Indigo Palm Collective, a small vacation rental company with properties in Indio and Palm Springs. She's hiked these canyons a handful of times and still thinks the first drop into Palm Canyon is the best moment of any first visit.*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you need to buy tickets in advance for Indian Canyons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No advance purchase required. Tickets are sold at the gate for $12 per adult and $6 for children 6 to 12. Check the Agua Caliente tribal website before you go because the canyons close on select Fridays for tribal ceremonies and there's no automated alert."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which canyon is best for a first-time visitor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Palm Canyon first. It has the largest natural fan palm grove in the United States, with some palms 150 to 200 years old, and the most dramatic landscape. If you have two to three hours, add Andreas Canyon on the way back out. Murray Canyon is better for a return visit when you want a longer hike with a waterfall at the end."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you visit Indian Canyons in summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technically yes, but early timing is required. Be on the trail before 9am and plan to be back at the trailhead by 11am. The canyon bottom is shadier than the exposed ridgeline, but the heat builds fast. October through May is the comfortable season."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Indian Canyons good for kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Andreas Canyon is the best option with children under 8: flat trail, dramatic 200-foot canyon walls, and about a mile roundtrip. Palm Canyon involves a steeper switchback descent with loose gravel that works fine for older kids and adults but slows down younger ones considerably."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Indian Canyons from downtown Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 4 miles south on South Palm Canyon Drive, roughly a 10-minute drive from central Palm Springs. Guests staying in Indio should budget 30 to 35 minutes. The road dead-ends at the trading post, so navigation is straightforward with free parking at each trailhead."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you combine Indian Canyons and the Palm Springs Aerial Tram in one day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Do the Aerial Tram first (cooler summit temperatures, better morning views), then head to the canyons. This works well October through April. In summer the canyons should be done before 10:30am, which conflicts with the Tram's weekday opening, so separate days are better in that season."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I stay in Palm Springs if I want easy access to Indian Canyons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Palm Springs vacation rental puts you 10 minutes from the gate. The Sundune by Indigo Palm Collective is near East Palm Canyon Drive and is the closest Indigo Palm option. Guests combining Indian Canyons with Coachella Valley festivals often stay in Indio, about 30 to 35 minutes east, at properties like Cozy Cactus or Terra Luz."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>How far is Indian Canyons from downtown Palm Springs?</h4>
+<p>About 4 miles south on South Palm Canyon Drive, roughly a 10-minute drive. The road runs straight south until it dead-ends at the trading post and tollgate, so navigation is simple. Guests staying in Indio at properties like Cozy Cactus or Terra Luz should budget 30 to 35 minutes each way. Plan the full morning at <a href="https://indigopalm.co/blog/indian-canyons-palm-springs/">indigopalm.co/blog/indian-canyons-palm-springs/</a>.</p>
+
+<h4>Can you combine Indian Canyons and the Palm Springs Aerial Tram in one day?</h4>
+<p>Yes, and the order matters. Do the Tram first (cooler at the summit, better morning views), then head to the canyons for a midday hike. This order works well October through April. In summer the canyons need to be done before 10:30am, which conflicts with the Tram's weekday opening time, so it's better to split those into separate days.</p>
+
+<h4>Is there an entrance fee, and do you need to book ahead?</h4>
+<p>Entry is $12 for adults and $6 for children 6 to 12, paid at the gate with cash or card. No advance booking required. The one thing to check ahead of time is whether the canyons are closed for a tribal ceremony on the Friday of your visit, since those closures aren't announced far in advance. The Agua Caliente website has the current schedule.</p>

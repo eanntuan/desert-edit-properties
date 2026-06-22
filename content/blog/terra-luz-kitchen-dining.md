@@ -81,3 +81,59 @@ layout: blog-post.njk
 <p>If you want to see how the outdoor side of this connection was designed, read <a href="https://indigopalm.co/blog/terra-luz-outdoor-living/">the outdoor living post</a>. For the full story of what the Terra Luz renovation was and what it became, read <a href="https://indigopalm.co/blog/terra-luz-what-i-built/">what I built</a>.</p>
 
 <p>The house is available to book now. Rates start around $350/night depending on the season. You can check availability at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What appliances and coffee setup does the Terra Luz kitchen include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The kitchen has a gas range with a white enamel range hood, granite countertops, and open wood shelving. For coffee, there's a Nespresso machine, a French press, and Cafe Bustelo stocked in the cabinet. The open shelves hold amber and green glass tumblers, hand-thrown ceramic mugs, and a proper knife set in a wood block."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many people does the Terra Luz dining table seat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The dining table is a solid wood slab that seats eight, sized to match the house's capacity for groups of six to eight. Chairs are natural rattan bistro style with cane backs. The table sits in front of glass sliding doors that open completely to the pool patio, making indoor dining and outdoor evening easy to overlap."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the kitchen connect to the outdoor area at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, glass sliding doors off the dining room open completely to the covered patio and pool area, making the indoor and outdoor spaces essentially one room on warm evenings. A pass-through window from kitchen to patio is planned for 2027. Book at https://indigopalm.co/terra-luz/."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the design aesthetic in the Terra Luz kitchen and dining room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The dining room has a terracotta textured plaster wall anchoring a teal upcycled credenza and floating shelves with framed Havana street prints and a Cafe Bustelo illustration. The kitchen runs a contrasting graphic black and white geometric tile backsplash, creating distinct energy between the two spaces in an open-plan layout."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What appliances and coffee setup does the Terra Luz kitchen include?</h4>
+<p>The kitchen has a gas range with a white enamel range hood, granite countertops, and open wood shelving. For coffee, there's a Nespresso machine, a French press, and Cafe Bustelo stocked in the cabinet. The open shelves hold amber and green glass tumblers, hand-thrown ceramic mugs, and a proper knife set in a wood block.</p>
+
+<h4>How many people does the Terra Luz dining table seat?</h4>
+<p>The dining table is a solid wood slab that seats eight, sized to match the house's capacity for groups of six to eight. Chairs are natural rattan bistro style with cane backs. The table sits directly in front of glass sliding doors that open to the pool patio, so indoor dining and outdoor evening can overlap without anyone having to commit fully to one or the other.</p>
+
+<h4>Does the kitchen connect to the outdoor area at Terra Luz?</h4>
+<p>Yes, glass sliding doors off the dining room open completely to the covered patio and pool area, making the indoor and outdoor spaces essentially one room on warm evenings. A pass-through window from the kitchen to the patio is planned for 2027, which will allow food and drinks to go directly from the stove to guests sitting outside. You can see how the outdoor side was designed at <a href="https://indigopalm.co/blog/terra-luz-outdoor-living/">the outdoor living post</a>, and book the house at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+
+<h4>What is the design aesthetic in the Terra Luz kitchen and dining room?</h4>
+<p>The dining room has a terracotta textured plaster wall that anchors a teal upcycled credenza and floating shelves holding framed Havana street prints, a Cafe Bustelo illustration, and trailing plants. The kitchen runs a contrasting graphic black and white geometric tile backsplash, which creates distinct energy between the two spaces while they stay visually connected in the open-plan layout.</p>

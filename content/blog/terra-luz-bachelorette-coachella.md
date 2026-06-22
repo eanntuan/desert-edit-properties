@@ -85,3 +85,80 @@ layout: blog-post.njk
 
 <h3>Should I book a bachelorette in Indio or Palm Springs?</h3>
 <p>Indio suits groups who want a private home with a pool and spa as the center of the weekend, with outings by car. If you want walkable bars and nightlife within stumbling distance, Palm Springs is the better base. Terra Luz is built for the former.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many people can stay at Terra Luz for a bachelorette?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terra Luz sleeps eight across three bedrooms: a king primary with an ensuite bathroom, a second king in the Wild Tropics room, and a third room with two queens. It is most comfortable for a group of six to eight guests."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Terra Luz close to Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The house is walking distance to Empire Polo Club, where Coachella and Stagecoach are held, roughly an eight-minute drive from most of Indio. During festival weekends guests can walk or bike to the gate, and the community runs golf cart rides."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Terra Luz allow dogs for a group trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dogs are welcome with prior approval and a $150 pet fee. Message the host before booking to confirm availability for your dates and group size."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a noise curfew at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is a 10pm outdoor curfew set by the Indian Palms community. Plan your loudest stretch before ten and move the late night indoors. The open living and kitchen space gives the group room to keep going after the patio closes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I book a bachelorette in Indio or Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio suits groups who want a private home with a pool and spa as the center of the weekend, treating going-out as a side quest. If walkable bars and nightlife within stumbling distance is the priority, Palm Springs is the better base. Terra Luz is built for the former."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you book Terra Luz directly without paying Airbnb fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Terra Luz books direct at indigopalm.co/terra-luz, which skips the platform fee markup. The same dates typically run cheaper than the Airbnb listing, and booking direct lets you coordinate group details like pool heating, early check-in, or pet approval before committing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is pool heating included at Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pool heating is available for $75 per night. It is worth requesting for visits from October through April when desert nights drop significantly. Message the host before booking to arrange it for your arrival."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Can you book Terra Luz directly without paying Airbnb fees?</h4>
+<p>Yes. Terra Luz books direct at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, which skips the platform fee markup, so the same dates typically run cheaper than the Airbnb listing. Booking direct also makes it easy to coordinate the details that matter for a group trip: pool heating, early check-in, pet approval, or confirming your headcount before you commit.</p>
+
+<h4>What is the outdoor curfew at Terra Luz and how do groups handle it?</h4>
+<p>The Indian Palms community has a 10pm outdoor curfew, so the pool and backyard need to wind down by then. The inside of the house has no curfew, and the open kitchen and connected living space give the group room to keep the night going. Groups who know this going in typically just plan their loudest stretch before ten and move indoors after without much disruption.</p>
+
+<h4>Is pool heating included at Terra Luz, and when do you need it?</h4>
+<p>Pool heating is available for $75 per night and is worth requesting for any visit from October through April when desert nights drop significantly. In the summer months the water holds heat without it. If you want the pool warm for a cooler-month bachelorette weekend, message the host before booking so it can be arranged for your arrival.</p>

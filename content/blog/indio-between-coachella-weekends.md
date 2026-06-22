@@ -234,3 +234,79 @@ layout: blog-post.njk
 <p>If you're looking for a place to land between weekends, <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both in Indio, a short drive from the grounds. Terra Luz has a private saltwater pool; Cozy Cactus has a private hot tub and community pool steps away.</p>
 
 <p>If you're looking for a longer run of local recommendations, the kind of spots that reward repeat visits, take a look at the <a href="/blog/indio-local-gems/">full local gems guide</a>. And if you're still sorting out where to stay for the whole stretch, the <a href="/blog/where-to-stay-coachella-2026/">Coachella accommodation breakdown</a> has an honest take on every option from camping to vacation rental to hotel.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should you do in Indio between Coachella weekends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spend the first day recovering by the pool. Then use the remaining days for the Salton Sea day trip (about 40 minutes south on Highway 86), a stop at Shields Date Garden for the date shake, and at least one evening at Rosemary HiFi in Old Town Indio. You don't need to fill every hour. The rental, the pool, and a couple of real meals will carry most of the week."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Shields Date Garden worth visiting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The date shake is the most-awarded in the valley, and the 17-acre grove and short film about date cultivation are genuinely worth the extra hour. It's been on Highway 111 since 1924. You're going to pass it anyway. Stop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is the Salton Sea from Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 35 miles south on Highway 86, roughly a 40-minute drive. The east shore around Bombay Beach and Salvation Mountain is the most interesting part. Go in the morning before the heat peaks, bring water and snacks, and keep realistic expectations: it's strange and beautiful, not polished or comfortable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best coffee shop in Indio during Coachella week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Everbloom Coffee on Highway 111 in Indio. Two brothers run it, the drinks use real ingredients, and the honey lavender latte is worth ordering twice. Go before 10am on weekend mornings before the lines build up."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth staying in Indio between the two Coachella weekends instead of driving home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Driving back and returning burns 6-8 hours of round-trip travel and you arrive at Weekend 2 already tired. A private rental near the polo grounds gives you a pool, kitchen, and recovery space. The Salton Sea, Shields Date Garden, and Rosemary HiFi fill five days without effort. Terra Luz and The Cozy Cactus at indigopalm.co both accommodate the full two-weekend stretch."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is El Tranvia in Coachella worth the drive from Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. El Tranvia has been serving barbacoa-style beef since 1969, long before quesabirria became a national trend. It's about 10 minutes from Indio at 1221 6th St in Coachella city. The consomé for dipping is rich without being oily and the tacos gobernador (shrimp and cheese) are worth ordering alongside the birria. Go before or after the lunch rush."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are vacation rentals near Coachella available for the full two-weekend stretch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Terra Luz and The Cozy Cactus at indigopalm.co are both in Indio, about 5-7 minutes from the Empire Polo Club, and regularly book the full two-weekend block. Both have private pools or hot tubs for recovery days in between, and both book direct with no Airbnb service fee."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+<h4>Is El Tranvia in Coachella worth the drive from Indio?</h4>
+<p>Yes. El Tranvia has been serving barbacoa-style beef since 1969, which means they were doing quesabirria tacos long before the trend caught up to them. It's about 10 minutes from central Indio at 1221 6th St in Coachella city, the consomé for dipping is rich without being oily, and the tacos gobernador (shrimp and cheese) are worth the detour. Go before or after the lunch rush since the space is small.</p>
+
+<h4>What's the best day to visit the Salton Sea during the in-between week?</h4>
+<p>Tuesday or Wednesday tend to be quietest, but timing within the day matters more than the day of the week. Go in the morning before the heat peaks, bring water and snacks since food options along the sea are minimal, and allow about 90 minutes to two hours if you're doing Bombay Beach, Salvation Mountain, and the Sonny Bono Wildlife Refuge. The drive from Indio is about 40 minutes south on Highway 86.</p>
+
+<h4>Are vacation rentals near Coachella available for the full two-weekend stretch?</h4>
+<p>The most popular rentals near the polo grounds book the two-weekend block as a full stay, which is the most cost-effective approach for people staying for both weekends. Terra Luz and The Cozy Cactus at <a href="https://indigopalm.co">indigopalm.co</a> are both in Indio, about 5-7 minutes from the Empire Polo Club, and accommodate the full stretch with a private pool or hot tub for the recovery days in between.</p>

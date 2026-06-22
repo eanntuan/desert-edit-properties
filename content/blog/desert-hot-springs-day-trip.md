@@ -147,3 +147,80 @@ layout: blog-post.njk
 <p>About 20 minutes north of Indio, straight up Gene Autry Trail. Both properties make a convenient base for a day trip to the mineral pools. Leave in the morning, soak for a few hours, and you're back in Indio in time for the pool and dinner.</p>
 
 <p>Both <a href="/terra-luz/">Terra Luz</a> and <a href="/cozy-cactus/">The Cozy Cactus</a> are 20 minutes from Desert Hot Springs. Private pools at both properties handle your daily swim. Desert Hot Springs handles the mineral soak.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you need a reservation for Desert Hot Springs mineral pools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Two Bunch Palms and Azure Palm, yes. Both book out, especially on weekends and in spring. Sam's Family Spa and the public city pools are more walk-in friendly. Call ahead for any resort you plan to visit on a Friday or Saturday."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between a day pass and a private pool rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A day pass gives you access to communal mineral pool areas for a set window. Azure Palm operates differently: you book a private outdoor mineral pool by the hour rather than joining a shared space. Good for couples or anyone who wants the mineral soak without a communal setting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Desert Hot Springs worth visiting in summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It works, but soaking in 104-degree mineral water when it's already 110 degrees outside changes the experience. If you're going in summer, aim for mid-morning before the air temperature peaks and stick to pools with shade structures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Desert Hot Springs from The Cozy Cactus and Terra Luz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 20 minutes north of Indio, straight up Gene Autry Trail. Both properties make a convenient base for a day trip. Leave in the morning, soak for a few hours, and you're back in Indio in time for the pool and dinner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Desert Hot Springs resort is best for families with kids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sam's Family Spa is the clearest choice: four mineral pools including a children's wading pool, day passes around $20 to $30 per person, and no reservation required on most weekdays. Miracle Springs Resort also works well. Two Bunch Palms and El Morocco Inn are adults-only."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I visit Desert Hot Springs without a car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not easily. Rideshare coverage in Desert Hot Springs is limited and there's no direct public transit from Indio. A car is the practical requirement. The drive takes about 20 minutes up Gene Autry Trail with no complicated routing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Desert Hot Springs mineral water different from a regular hot tub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The water is geothermal, coming up naturally hot from underground at 105 to 148 degrees at the source, then cooled to a soakable temperature. It's not heated tap water with chemicals. The mineral content includes silica and trace elements from the underground reserve that most properties tap directly."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Which Desert Hot Springs resort is best for families with kids?</h4>
+<p>Sam's Family Spa is the clearest choice: four mineral pools including a children's wading pool, day passes around $20 to $30 per person, no reservation required on most weekdays. Miracle Springs Resort also works well for families, with seven mineral pools and a more traditional resort layout. Both Two Bunch Palms and El Morocco Inn are adults-only, so skip those if you're traveling with children.</p>
+
+<h4>Can I visit Desert Hot Springs without a car?</h4>
+<p>Not easily. The resorts are spread across a low-density desert city, rideshare coverage in Desert Hot Springs is limited compared to Palm Springs, and there's no direct public transit connection from Indio. A car is the practical requirement for a day trip. The drive from Indio takes about 20 minutes and is a straight shot up Gene Autry Trail with no complicated routing involved.</p>
+
+<h4>What's the difference between the mineral pools at the resorts and a regular hot tub?</h4>
+<p>Desert Hot Springs mineral water is geothermal: it comes up naturally hot from underground, around 105 to 148 degrees at the source, then gets cooled to a soakable temperature. It's not heated tap water with chemicals added. The mineral content includes silica and trace elements, and regular visitors claim skin and muscle benefits that don't come from a chlorinated hot tub. Whether you notice a difference depends on the person, but the source water is genuinely distinct. For more on which properties are worth visiting, see the full guide at https://indigopalm.co/blog/desert-hot-springs-day-trip/.</p>

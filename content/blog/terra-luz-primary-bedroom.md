@@ -71,3 +71,70 @@ layout: blog-post.njk
 <p class="image-caption">The trundle pulls out from under the king frame. Extra sleeping option without a cot taking up the room permanently.</p>
 
 <p>For the full property, including the pool, outdoor kitchen, and what the renovation actually cost, read <a href="/blog/terra-luz-what-i-built/">what I built at Terra Luz</a>. And if you're booking for Coachella or Stagecoach, the <a href="/blog/terra-luz-outdoor-living/">outdoor living post</a> covers the patio and pool situation in more detail. Book direct at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's in the Terra Luz primary bedroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary bedroom is 267 square feet with a king bed, rattan daybed, pull-out trundle, private fireplace, walk-in closet, and a Keurig coffee station. The ensuite has a soaking tub, walk-in shower, and double vanity. The floor is terracotta tile with hand-painted Talavera accent dots, and walls are Fair Spring sage green by Dunn Edwards. Book at indigopalm.co/terra-luz/."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the primary bedroom at Terra Luz have its own bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the primary has a private ensuite not shared with other guests. It has a soaking tub, separate walk-in shower, double vanity with gold hardware, and rattan pendant light. The pool is heated on request for $75 per night. Book direct at indigopalm.co/terra-luz/ to skip the Airbnb service fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many people can sleep in the Terra Luz primary bedroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three. The king bed sleeps two, and a trundle pulls from under the frame for a third. A rattan daybed along the back wall can accommodate a smaller adult or older child. Across all three bedrooms, Terra Luz sleeps up to eight guests total."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tile is in the Terra Luz primary bedroom floor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "13x13 terracotta field tiles with hand-painted Talavera accent dots at every intersection. The Talavera pieces are sourced individually so no two are identical, giving the floor a handmade quality. The design references Old Havana and was selected after five rounds of samples tested in actual desert light at the property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Terra Luz primary bedroom good for Coachella or Stagecoach stays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary is the quietest room at Terra Luz, with a private ensuite and fireplace, best for whoever needs the most separated sleep after a long day. Terra Luz is walking distance from Empire Polo Club. The house sleeps eight across three bedrooms with a pool and outdoor kitchen. Book early at indigopalm.co/terra-luz/ as festival weekends sell out months ahead."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>What's in the Terra Luz primary bedroom?</h4>
+<p>The primary bedroom is 267 square feet with a king bed, rattan daybed, pull-out trundle, private fireplace, walk-in closet, and a Keurig coffee station on the credenza. The ensuite has a soaking tub, walk-in shower, and double vanity with gold hardware. The floor is 13x13 terracotta tile with hand-painted Talavera accent dots, and the walls are Fair Spring by Dunn Edwards, a sage green that shifts tone throughout the day.</p>
+
+<h4>Does the primary bedroom have its own bathroom?</h4>
+<p>Yes, the primary has a private ensuite that other guests don't share. It continues the same sage green walls as the bedroom, with a soaking tub in the corner, separate walk-in shower, rattan pendant overhead, and wooden bath tray. The pool is heated on request ($75/night) if you want the option outside as well. Book direct at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> to skip the Airbnb service fee.</p>
+
+<h4>How many people does the primary bedroom sleep?</h4>
+<p>Two adults on the king, with a trundle that pulls out from under the frame for a third. The rattan daybed along the back wall is primarily a reading spot but can sleep a smaller adult or older child if needed. Across all three bedrooms, Terra Luz sleeps up to eight.</p>
+
+<h4>What tile is used in the Terra Luz primary bedroom?</h4>
+<p>The floor uses 13x13 terracotta field tiles with 4x4 hand-painted Talavera accent dots placed at every intersection. The Talavera pieces are sourced individually, so no two are identical, which gives the floor a hand-made quality consistent with the Old Havana design direction. The tiles came from La Tile and Stone after five rounds of samples tested in actual desert light.</p>
+
+<h4>Is the primary bedroom the best room at Terra Luz for Coachella or Stagecoach?</h4>
+<p>It depends on what you're after. The primary is the quietest of the three bedrooms, with a private ensuite and fireplace, making it the best option for whoever in the group needs the most separated sleep after a long day at the polo grounds. The Wild Tropics room is louder and more photographable. The Cali Room has a hidden desk. Terra Luz is walking distance from Empire Polo Club, which matters more than which room you're in when festival weekend traffic locks up the 10.</p>

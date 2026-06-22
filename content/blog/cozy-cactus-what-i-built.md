@@ -157,3 +157,80 @@ layout: blog-post.njk
 <p>The Cozy Cactus is thoughtfully designed for humans who notice when someone cared. It started as a backup plan for a Honda Element and became something I'm proud of.</p>
 
 <p>If that sounds like what you need, <a href="/cozy-cactus/">you know where to find us</a>. And if you want the full origin story, the Easter Sunday purchase, the Facebook Marketplace era, all of it, read <a href="/blog/cozy-cactus-story/">the complete story of how The Cozy Cactus came to be</a>. For more on what to do in the valley with younger kids, the <a href="/blog/coachella-valley-with-kids/">Coachella Valley with kids guide</a> covers the family-friendly angle in more depth.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long did it take to furnish The Cozy Cactus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several months of active collecting, starting with Facebook Marketplace and ending when Dawn Asher came in and gave everything a framework. The bones (white walls, LVP flooring, modern light fixtures) came first. The design layer came after. The family infrastructure layer came last, and it's the part guests mention most in reviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why did you replace all the ceiling fixtures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every room had the same round frosted-glass globe fixture from approximately 1994. They made even freshly-painted white walls feel like a waiting room. Swapping them for simple modern fixtures was one of the cheapest and highest-impact changes in the whole renovation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the baby gear at The Cozy Cactus really that different from other rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most rentals have a pack-n-play with a thin foam insert. The Cozy Cactus has a real crib mattress on the pack-n-play, a Stokke high chair, sound machines in every room, and a full Family Kit with bottle warmer, changing pad, diaper pail, and cabinet locks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does it actually cost to furnish a vacation rental from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "More than you think, less than you fear. The mix of West Elm and Facebook Marketplace kept costs manageable, but there were no shortcuts on the family gear and kitchen setup. The small details like matching Tupperware lids and a sharp knife separate a rental guests recommend from one they endure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does The Cozy Cactus have a private pool or a shared pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The pool is a community pool shared with other neighborhood residents, not a private backyard pool. It's consistently maintained and included with the stay. The house also has a private yard separate from the pool area for a contained outdoor space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is The Cozy Cactus relative to Coachella and Stagecoach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Cozy Cactus is in Indio, about 8 minutes from the Empire Polo Club where both festivals are held. Most Palm Springs properties sit 30 minutes west, making Indio the closer and more practical base for festival stays."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book The Cozy Cactus without going through Airbnb?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Cozy Cactus books direct at indigopalm.co/cozy-cactus, which skips the Airbnb service fee. On a multi-night stay that difference is meaningful on the same property at the same nightly rate."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
+<h4>Does The Cozy Cactus have a private pool or a shared pool?</h4>
+<p>The pool is a community pool shared with other residents in the neighborhood, not a private backyard pool. It's maintained consistently and included with the stay. The house also has a private yard separate from the pool area, which gives families a contained outdoor space on top of the pool access.</p>
+
+<h4>Where exactly is The Cozy Cactus relative to Coachella and Stagecoach?</h4>
+<p>The Cozy Cactus is in Indio, about 8 minutes from the Empire Polo Club where both festivals take place. For festival stays, this is closer than most Palm Springs properties, which sit 30 minutes west. That proximity matters for mid-day retreats and late checkout logistics, especially for families with kids on a schedule.</p>
+
+<h4>Can I book The Cozy Cactus without going through Airbnb?</h4>
+<p>Yes. The Cozy Cactus books direct at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus</a>, which skips the Airbnb service fee. On a multi-night stay that difference adds up to a meaningful amount on the same property at the same nightly rate.</p>

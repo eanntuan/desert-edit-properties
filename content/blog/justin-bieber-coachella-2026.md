@@ -141,3 +141,78 @@ layout: blog-post.njk
 
 <p>Bieber showed up unannounced and somehow that felt like the most prepared move of the weekend. Know where you're sleeping, know how long it takes to get back there, and leave everything else open. That's the actual move.</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Did Justin Bieber perform at Coachella 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. He appeared unannounced at the Sahara tent stage during Coachella 2026 weekend one, performing without a set list to a crowd that had no idea he was coming. The clips reached every platform within minutes. It was the most-talked-about surprise of the festival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is the Coachella festival from vacation rentals in Indio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Empire Polo Club in Indio is the festival site. Properties in Indio like The Cozy Cactus and Terra Luz are 7 to 10 minutes away with no freeway driving. Properties in Palm Springs are 25 to 30 miles west, which can translate to 35 minutes on a normal day or 90 minutes on a peak festival Saturday afternoon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When do Coachella 2027 tickets go on sale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally May 1 of the prior year, about eight days after Coachella 2026 wrapped. They sell out fast. If you want good Indio rental options within 10 minutes of the grounds, lock in housing before the ticket sale date. The best properties book up before the lineup is even announced."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a vacation rental better than a hotel for Coachella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a group of four or more, almost always yes. You get a private pool or hot tub to decompress in after long festival days, a full kitchen, and outdoor space for the late-night debrief. Hotel rooms have a midnight checkout energy that vacation rentals don't. The math on per-person cost usually favors the rental by weekend two."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best neighborhood to stay in for Coachella, Indio or Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indio is the practical choice. Properties in the Indian Palms area sit 7-10 minutes from the Empire Polo Club without freeway driving, so you can return mid-day during peak heat or after late-night sets. Palm Springs is 25-30 miles west, and on a peak Saturday that commute can stretch past 90 minutes each way."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the heat at Coachella in April and how does your rental affect it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "April in the Coachella Valley runs 90-100 degrees during peak afternoon hours. Staying close to the venue makes a mid-afternoon break viable: 10 minutes to a private pool versus 90 minutes from Palm Springs. Most experienced Coachella attendees plan this break into their schedule rather than grinding through 10 straight hours of heat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Coachella and Stagecoach and does it affect which rental to book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Same venue in Indio, very different crowds. Coachella skews younger with later nights and heavier electronic lineups. Stagecoach is country-focused with a tailgate-oriented crowd that prioritizes outdoor space. Stagecoach guests want big outdoor areas; Coachella guests lean harder on pools and hot tubs for recovery. Match the property setup to your festival."
+      }
+    }
+  ]
+}
+</script>
+
+
+<h4>What's the best neighborhood to stay in for Coachella — Indio or Palm Springs?</h4>
+<p>Indio is the practical choice for festival-goers. Properties in the Indian Palms area sit 7-10 minutes from the Empire Polo Club without freeway driving, which means you can actually use your rental mid-day during peak heat, shower before the headliner, and get back for late-night sets without a 90-minute traffic gamble each way. Palm Springs is 25-30 miles west and genuinely beautiful, but on a peak Saturday that commute can stretch well past an hour in each direction.</p>
+
+<h4>Is it too early to book Coachella 2027 housing right now?</h4>
+<p>No, and it's probably the right time. Indio rentals close to the polo grounds sell out in the weeks after May 1 ticket sales, often before the lineup is announced in January. Groups that wait until February or March when the hype peaks are typically choosing from what's left. Booking now at https://indigopalm.co means you get first pick of properties with private pools and the proximity that makes the weekend work logistically.</p>
+
+<h4>How is the heat at Coachella in April, and how does your rental affect it?</h4>
+<p>April in the Coachella Valley runs 90-100 degrees during peak afternoon hours, which is genuinely taxing after 3-4 hours on open festival grounds. This is one of the strongest practical arguments for staying close to the venue rather than far from it: a 10-minute return to a house with a private pool or air conditioning mid-afternoon is actually viable, while a 90-minute drive from Palm Springs is not. Most experienced Coachella attendees plan an afternoon break into their schedule rather than grinding through 10 straight hours of heat.</p>
+
