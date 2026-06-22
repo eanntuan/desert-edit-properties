@@ -206,7 +206,7 @@ layout: blog-post.njk
       "name": "Can I book Terra Luz directly without Airbnb?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Terra Luz books directly at indigopalm.co/terra-luz, which skips the Airbnb service fees of 14-16%. Return guests get 10% off their second stay automatically, no code needed."
+        "text": "Yes. Terra Luz books directly at indigopalm.co/terra-luz, which skips the Airbnb service fee of 20%. Return guests get 10% off their second stay automatically, no code needed."
       }
     },
     {
@@ -233,7 +233,7 @@ layout: blog-post.njk
 
 
 <h4>Can I book Terra Luz directly without Airbnb?</h4>
-<p>Yes, Terra Luz books directly at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, which skips the Airbnb service fees (typically 14-16% on top of the nightly rate). Return guests get 10% off their second stay automatically, no code needed.</p>
+<p>Yes, Terra Luz books directly at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, which skips the Airbnb service fee (20% of the booking subtotal). Return guests get 10% off their second stay automatically, no code needed.</p>
 
 <h4>What's the check-in and check-out time?</h4>
 <p>Check-in is at 4pm, check-out is at 10am. Early check-in is possible when the calendar allows, so ask at least 48 hours in advance and the host will confirm based on the turnover schedule.</p>

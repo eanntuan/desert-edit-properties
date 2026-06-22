@@ -69,7 +69,7 @@ relatedPosts:
 
 <p>Not all vacation rentals near the polo grounds are the same. A few things matter disproportionately for a festival weekend:</p>
 
-<p><strong>Location within Indio.</strong> Indian Palms Country Club is the neighborhood that puts you walking distance from the festival. Specific properties within the neighborhood vary from 1.5 to 2.5 miles from the entrance, which translates to 19-30 minutes on foot. That's a real walk, but it's a walk. No surge. No shuttle line. Just an exit at midnight when everyone wants to leave at once.</p>
+<p><strong>Location within Indio.</strong> Indian Palms Country Club is the neighborhood that puts you walking distance from the festival. Properties there are roughly 1.5 miles from the entrance, about 19-25 minutes on foot. No surge. No shuttle line. Just an exit at midnight when everyone wants to leave at once.</p>
 
 <p><strong>Private pool, heated.</strong> April nights in the desert drop to the mid-50s. An unheated pool is mostly decorative. Confirm the pool is heated and ask what the process is for setting the temperature. A heated pool at 11pm after the headliner is a specific kind of good.</p>
 
@@ -101,7 +101,7 @@ relatedPosts:
 
 <h2>How to Book Direct and What It Saves</h2>
 
-<p>Both properties are listed on Airbnb, but booking direct at indigopalm.co removes the Airbnb guest service fee, which typically runs 14-16% of the subtotal. On a $1,500 weekend stay, that's $210-240 going to a platform rather than into your travel budget. The same price, better allocation.</p>
+<p>Both properties are listed on Airbnb, but booking direct at indigopalm.co removes the Airbnb guest service fee, which is 20% of the subtotal. On a $1,500 weekend stay, that's $300 going to a platform rather than into your travel budget. The same price, better allocation.</p>
 
 <p>Direct bookings also get better communication. Festival weekends have specific logistics, check-in timing, and local knowledge worth knowing before you arrive. That's easier to share when there's no platform in the middle of the conversation.</p>
 
@@ -159,7 +159,7 @@ relatedPosts:
       "name": "How early should I book a Coachella 2027 vacation rental?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "October or November 2026 for the best Indian Palms properties with reasonable rates. By January 2027, walking-distance inventory is mostly gone. Booking direct at indigopalm.co gives access before platform listings go live and removes the Airbnb service fee, typically 14-16% of the subtotal."
+        "text": "October or November 2026 for the best Indian Palms properties with reasonable rates. By January 2027, walking-distance inventory is mostly gone. Booking direct at indigopalm.co gives access before platform listings go live and removes the Airbnb service fee, which is 20% of the subtotal."
       }
     },
     {
@@ -175,7 +175,7 @@ relatedPosts:
       "name": "Is it cheaper to rent a vacation home or stay in a hotel for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For groups of four or more, a vacation rental almost always wins on total cost. A 3-bedroom house sleeps eight people, has a kitchen to cut food costs, and if it is walking distance from the grounds eliminates rideshare fees entirely. Booking direct at indigopalm.co also removes the Airbnb service fee, typically 14-16% added to the subtotal."
+        "text": "For groups of four or more, a vacation rental almost always wins on total cost. A 3-bedroom house sleeps eight people, has a kitchen to cut food costs, and if it is walking distance from the grounds eliminates rideshare fees entirely. Booking direct at indigopalm.co also removes the Airbnb service fee, which is 20% of the subtotal."
       }
     },
     {
@@ -197,7 +197,7 @@ relatedPosts:
 <p>Terra Luz inside Indian Palms Country Club is dog-friendly with a $100 pet fee and a two-dog maximum, plus a fully fenced backyard that makes festival logistics manageable when you're out for long hours. The Cozy Cactus in the same neighborhood is not pet-friendly. Confirm any pet policy before booking, and check that the yard is securely fenced if your dog will be alone during festival hours.</p>
 
 <h4>Is it better to rent a vacation home or stay in a hotel for Coachella?</h4>
-<p>For groups of four or more, a vacation rental with a kitchen and private pool almost always costs less in total once you account for food and rideshares over three days. Walking-distance Indio properties eliminate rideshare costs entirely and let you return mid-day to recover, which hotel guests 30-45 minutes away in Palm Springs cannot do. Booking direct at <a href="https://indigopalm.co" target="_blank" rel="noopener noreferrer">indigopalm.co</a> also removes the Airbnb service fee, typically 14-16% of the subtotal on a multi-night stay.</p>
+<p>For groups of four or more, a vacation rental with a kitchen and private pool almost always costs less in total once you account for food and rideshares over three days. Walking-distance Indio properties eliminate rideshare costs entirely and let you return mid-day to recover, which hotel guests 30-45 minutes away in Palm Springs cannot do. Booking direct at <a href="https://indigopalm.co" target="_blank" rel="noopener noreferrer">indigopalm.co</a> also removes the Airbnb service fee, which is 20% of the subtotal on a multi-night stay.</p>
 
 <h4>What does "heated pool" actually mean for an April Coachella rental?</h4>
 <p>April nights in the Coachella desert drop to the mid-50s, so an unheated pool is mostly decorative after sunset. Ask the host specifically whether pool heating is a standard included amenity or an add-on, what the nightly cost is if it's extra, and how much lead time is needed to warm the pool before arrival. A heated pool at 11pm after the headliner is a specific and very good thing.</p>

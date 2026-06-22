@@ -153,7 +153,7 @@ layout: blog-post.njk
       "name": "Can I book Terra Luz directly without paying Airbnb fees?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Terra Luz books directly at indigopalm.co/terra-luz, which avoids the Airbnb guest service fee (typically 14-16% of the reservation total). Payments process through Square and booking confirmations go out via email. Same rates, same host, no platform markup."
+        "text": "Yes. Terra Luz books directly at indigopalm.co/terra-luz, which avoids the Airbnb guest service fee (20% of the reservation total). Payments process through Square and booking confirmations go out via email. Same rates, same host, no platform markup."
       }
     },
     {
@@ -210,7 +210,7 @@ layout: blog-post.njk
 
 
 <h4>Can I book Terra Luz directly without paying Airbnb fees?</h4>
-<p>Yes. Terra Luz books directly at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, which avoids the Airbnb guest service fee (typically 14-16% of the reservation total). Payments process through Square and booking confirmations go out via email. The same rates, same host, no platform markup.</p>
+<p>Yes. Terra Luz books directly at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, which avoids the Airbnb guest service fee (20% of the reservation total). Payments process through Square and booking confirmations go out via email. The same rates, same host, no platform markup.</p>
 
 <h4>What is the Indian Palms neighborhood like?</h4>
 <p>Indian Palms is a quiet gated community in Indio, residential rather than resort-y, with a golf course running through it. Guests who book Terra Luz for Coachella or Stagecoach appreciate that it's 7 minutes from the Empire Polo Club but completely removed from the festival-week foot traffic and noise. It's calm by default, which is the point.</p>

@@ -2,7 +2,7 @@
 title: "Why Book Direct Instead of Airbnb: The Honest Math"
 date: 2025-11-01
 dateModified: 2025-12-16
-metaDescription: "Booking a vacation rental direct saves you 14-16% in Airbnb service fees. The honest math, what you get, and when direct booking makes sense."
+metaDescription: "Booking a vacation rental direct saves you Airbnb's 20% service fee. The honest math, what you get, and when direct booking makes sense."
 ogImage: /blog/images/west-elm-dining.webp
 heroImage: /blog/images/west-elm-dining.webp
 heroAlt: "Shaded patio with desert landscaping at Cozy Cactus vacation rental in Indio California"
@@ -17,7 +17,7 @@ keywords:
 articleSection: "Travel Tips"
 property: all
 readTime: "6 min read"
-excerpt: "Airbnb adds 14-16% on top of the nightly rate. Here's what that means in real dollars, when direct booking makes sense, and how to do it safely."
+excerpt: "Airbnb adds a 20% service fee on top of the nightly rate. Here's what that means in real dollars, when direct booking makes sense, and how to do it safely."
 layout: blog-post.njk
 ---
 
@@ -30,7 +30,7 @@ layout: blog-post.njk
 
 <h2>The Math, Honestly</h2>
 
-<p>Airbnb charges guests a service fee that typically runs 14-16% of the subtotal (nightly rate plus cleaning fee, before taxes). On a $1,000 stay, that's $140-160 going to Airbnb, not the host, not toward anything you actually experience.</p>
+<p>Airbnb charges guests a 20% service fee on the subtotal (nightly rate plus cleaning fee, before taxes). On a $1,000 stay, that's $200 going to Airbnb, not the host, not toward anything you actually experience.</p>
 
 <p>The host is separately charged 3% on their end. So a $1,000 booking costs you $1,150 and nets the host about $970. Airbnb keeps around $180 from that one transaction. Book direct through the property's own website and that fee disappears.</p>
 
@@ -38,10 +38,10 @@ layout: blog-post.njk
 
 <p>Say you're booking a 3-bedroom house in Indio for four nights at $275/night. That's a $1,100 subtotal before anything else.</p>
 
-<p>On Airbnb: $1,100 nightly plus $150 cleaning plus $182 service fee (roughly 14.5% of $1,250) puts you at about $1,432 before taxes. Book direct and you skip that $182. That's groceries for the trip, a nice dinner out, or gas money home.</p>
+<p>On Airbnb: $1,100 nightly plus $150 cleaning plus $250 service fee (20% of $1,250) puts you at about $1,500 before taxes. Book direct and you skip that $250. That's groceries for the trip, a nice dinner out, or gas money home.</p>
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at The Cozy Cactus vacation rental in Indio California with lounge chairs and desert landscaping" width="1400" height="933" loading="lazy">
-<p class="image-caption">The Cozy Cactus pool. The $182 you save on fees covers two nights of groceries for the trip.</p>
+<p class="image-caption">The Cozy Cactus pool. The $250 you save on fees covers two nights of groceries for the trip.</p>
 
 <h2>Airbnb Does Have Real Value</h2>
 
@@ -112,7 +112,7 @@ layout: blog-post.njk
       "name": "How much do you save booking direct?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most guests save 14-16% of the subtotal. On a $1,000 stay, that's $140-160. On a longer trip or more expensive property, the savings scale accordingly. Some direct booking hosts also offer small discounts for repeat guests, which platforms can't do without violating their own terms."
+        "text": "Most guests save 20% of the subtotal. On a $1,000 stay, that's $200. On a longer trip or more expensive property, the savings scale accordingly. Some direct booking hosts also offer small discounts for repeat guests, which platforms can't do without violating their own terms."
       }
     },
     {
@@ -120,7 +120,7 @@ layout: blog-post.njk
       "name": "What's the Airbnb service fee?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Airbnb's guest service fee is typically 14-16% of the booking subtotal (nightly rate plus cleaning fee, before taxes). This goes entirely to Airbnb, not the host. It shows up on the payment screen before you confirm."
+        "text": "Airbnb's guest service fee is 20% of the booking subtotal (nightly rate plus cleaning fee, before taxes). This goes entirely to Airbnb, not the host. It shows up on the payment screen before you confirm."
       }
     },
     {
@@ -141,10 +141,10 @@ layout: blog-post.njk
 <p>Yes, with the right host. Look for properties with a real website, verifiable reviews on Airbnb or VRBO, and secure payment processing. Credit card, not wire transfer or Venmo. Established hosts with a long review history are as safe to book directly as through any platform, and your credit card's buyer protection applies either way.</p>
 
 <h3>How much do you save booking direct?</h3>
-<p>Most guests save 14-16% of the subtotal. On a $1,000 stay, that's $140-160 back in your pocket. On a longer trip or pricier property, it scales accordingly. Some direct booking hosts also offer small discounts for repeat guests, which platforms can't do without violating their own terms.</p>
+<p>Most guests save 20% of the subtotal. On a $1,000 stay, that's $200 back in your pocket. On a longer trip or pricier property, it scales accordingly. Some direct booking hosts also offer small discounts for repeat guests, which platforms can't do without violating their own terms.</p>
 
 <h3>What's the Airbnb service fee?</h3>
-<p>Airbnb's guest service fee is typically 14-16% of the booking subtotal (nightly rate plus cleaning fee, before taxes). It goes entirely to Airbnb, not the host, and it shows up on the payment screen right before you confirm. That's usually the moment people notice it.</p>
+<p>Airbnb's guest service fee is 20% of the booking subtotal (nightly rate plus cleaning fee, before taxes). It goes entirely to Airbnb, not the host, and it shows up on the payment screen right before you confirm. That's usually the moment people notice it.</p>
 
 <h3>How do I find vacation rentals that accept direct bookings?</h3>
 <p>Search the property or brand name on Google. Most short-term rental operators with any real presence have their own websites. If you've stayed somewhere before, or the listing mentions a property brand, look it up before rebooking through the platform. For the Coachella Valley, search Indigo Palm Collective.</p>

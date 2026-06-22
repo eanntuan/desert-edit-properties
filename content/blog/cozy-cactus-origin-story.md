@@ -188,7 +188,7 @@ layout: blog-post.njk
       "name": "Can I book The Cozy Cactus directly without paying Airbnb's service fee?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Book directly at indigopalm.co/cozy-cactus to skip the platform markup, which typically runs 14-16% on top of the nightly rate. You get the same smart-lock check-in, digital guidebook, and host communication. For festival weekends, direct inventory sometimes holds availability after Airbnb shows sold out."
+        "text": "Yes. Book directly at indigopalm.co/cozy-cactus to skip the Airbnb service fee, which is 20% of the booking subtotal. You get the same smart-lock check-in, digital guidebook, and host communication. For festival weekends, direct inventory sometimes holds availability after Airbnb shows sold out."
       }
     },
     {
@@ -210,7 +210,7 @@ layout: blog-post.njk
 <p>No, The Cozy Cactus does not allow pets. It was designed with families and young children as the primary guest, and keeping it pet-free is part of that commitment. If you're traveling with a dog, the sister properties Terra Luz (Indio, private pool) and The Sundune (Palm Springs, requires prior approval) are both dog-friendly. See all options at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus</a>.</p>
 
 <h4>Can I book The Cozy Cactus directly without paying Airbnb's service fee?</h4>
-<p>Yes. Book directly at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus</a> to skip the platform markup, which typically runs 14-16% on top of the nightly rate. You get the same smart-lock check-in, digital guidebook, and host communication. For festival weekends, direct inventory sometimes holds availability after Airbnb shows sold out, so it's worth checking both if you're booking close in.</p>
+<p>Yes. Book directly at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus</a> to skip the Airbnb service fee, which is 20% of the booking subtotal. You get the same smart-lock check-in, digital guidebook, and host communication. For festival weekends, direct inventory sometimes holds availability after Airbnb shows sold out, so it's worth checking both if you're booking close in.</p>
 
 <h4>What are the community pools like at Indian Palms?</h4>
 <p>Indian Palms Country Club has three community pools accessible to guests, with the closest reachable through the back gate of the property without crossing any streets. The pools are shared (not private), but the Coachella Valley sun keeps them comfortable from March through November without any heating needed. If a fully private pool is the priority, the sister property Terra Luz in Indio has a private pool on-site.</p>

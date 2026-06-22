@@ -77,7 +77,7 @@ layout: blog-post.njk
 
 <p>The nightly rate you see in search results is not what you'll pay, and the gap between those two numbers is worth understanding before you start comparing listings.</p>
 
-<p>Airbnb adds a 14-16% service fee on the guest side. It shows up in the booking flow, not in the search results. A listing showing $250/night becomes roughly $290-300 before cleaning fees and taxes.</p>
+<p>Airbnb adds a 20% service fee on the guest side. It shows up in the booking flow, not in the search results. A listing showing $250/night becomes roughly $300 before cleaning fees and taxes.</p>
 
 <p>Cleaning fees are set by the host and vary a lot in the valley. For a 3-bedroom, $100-150 is on the low end and $200-300 is common, especially for properties with professional cleaning standards. For a 2-night stay, a $250 cleaning fee adds a lot to the per-night cost. Spread over 7 nights, that same fee works out to $35/night, which is much more reasonable. The math changes significantly depending on how long you're staying.</p>
 
@@ -134,7 +134,7 @@ layout: blog-post.njk
       "name": "Are Airbnb fees in the Coachella Valley higher than other markets?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Airbnb platform fees are standard (14-16% on the guest side) valley-wide, but cleaning fees in the desert tend to run higher than comparable markets because properties often need more intensive cleaning after sandy, sunny stays. Run the total for your exact dates before comparing listings."
+        "text": "Airbnb platform fees are standard (20% on the guest side) valley-wide, but cleaning fees in the desert tend to run higher than comparable markets because properties often need more intensive cleaning after sandy, sunny stays. Run the total for your exact dates before comparing listings."
       }
     },
     {
@@ -142,7 +142,7 @@ layout: blog-post.njk
       "name": "What's the difference between booking direct and booking on Airbnb?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Booking direct skips the 14-16% Airbnb guest service fee and often gets you faster communication with the host. Some properties offer direct booking discounts for multi-night stays. You trade some platform protections for a more direct relationship with the host and lower cost."
+        "text": "Booking direct skips the 20% Airbnb guest service fee and often gets you faster communication with the host. Some properties offer direct booking discounts for multi-night stays. You trade some platform protections for a more direct relationship with the host and lower cost."
       }
     },
     {
@@ -166,10 +166,10 @@ layout: blog-post.njk
 <p>Map the actual street address before you commit. "Near Palm Springs" or "near Coachella" can mean a 10-minute walk or a 45-minute drive depending on which city and which part of it. Indian Palms Country Club in Indio is one of the few neighborhoods close enough to walk to the festival grounds.</p>
 
 <h3>Are Airbnb fees in the Coachella Valley higher than other markets?</h3>
-<p>Airbnb platform fees are standard (14-16% on the guest side) valley-wide, but cleaning fees in the desert tend to run higher than comparable markets because properties often need more intensive cleaning after sandy, sunny stays. Run the total for your exact dates before comparing listings.</p>
+<p>Airbnb platform fees are standard (20% on the guest side) valley-wide, but cleaning fees in the desert tend to run higher than comparable markets because properties often need more intensive cleaning after sandy, sunny stays. Run the total for your exact dates before comparing listings.</p>
 
 <h3>What's the difference between booking direct and booking on Airbnb?</h3>
-<p>Booking direct skips the 14-16% Airbnb guest service fee and often gets you faster communication with the host. Some properties offer direct booking discounts for multi-night stays. You trade some platform protections for a more direct relationship with the host and lower cost.</p>
+<p>Booking direct skips the 20% Airbnb guest service fee and often gets you faster communication with the host. Some properties offer direct booking discounts for multi-night stays. You trade some platform protections for a more direct relationship with the host and lower cost.</p>
 
 <h3>Is it worth messaging a host before booking?</h3>
 <p>Yes, and the response tells you more than the listing does. A host who replies within an hour with a direct answer is showing you how they'll handle check-in day, a broken AC, or a pool question at 9pm. A three-day response previews exactly that.</p>
@@ -210,7 +210,7 @@ layout: blog-post.njk
       "name": "How do I compare two vacation rentals fairly when the nightly rates look similar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Calculate the full total for your exact dates including the Airbnb service fee (14-16%), cleaning fee, and taxes before comparing. A $220/night listing with a $300 cleaning fee costs more per night on a 3-night stay than a $250/night listing with a $120 cleaning fee. The advertised rate is a starting point, not a price."
+        "text": "Calculate the full total for your exact dates including the Airbnb service fee (20%), cleaning fee, and taxes before comparing. A $220/night listing with a $300 cleaning fee costs more per night on a 3-night stay than a $250/night listing with a $120 cleaning fee. The advertised rate is a starting point, not a price."
       }
     },
     {
@@ -226,7 +226,7 @@ layout: blog-post.njk
       "name": "Are Airbnb fees in the Coachella Valley higher than other markets?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Airbnb platform fees are standard (14-16% on the guest side) valley-wide, but cleaning fees for 3-bedroom desert properties commonly run $150-300. For short stays, that cleaning fee adds significantly to your per-night cost. Run the total for your exact dates before comparing listings."
+        "text": "Airbnb platform fees are standard (20% on the guest side) valley-wide, but cleaning fees for 3-bedroom desert properties commonly run $150-300. For short stays, that cleaning fee adds significantly to your per-night cost. Run the total for your exact dates before comparing listings."
       }
     }
   ]
@@ -246,4 +246,4 @@ layout: blog-post.njk
 <p>From October through April, yes. Desert night temperatures regularly drop below 55°F, and an unheated pool is cold enough that most guests don't use it despite what the listing photos suggest. If a listing says "pool" without specifying heated, ask before you book. Some properties charge a nightly fee for heating — Terra Luz at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> includes heating in the base rate year-round.</p>
 
 <h4>How do I compare two vacation rentals fairly when the nightly rates look similar?</h4>
-<p>Calculate the full total for your exact dates, including the Airbnb service fee (14-16%), cleaning fee, and local taxes, before comparing any two listings. A listing showing $220/night with a $300 cleaning fee is more expensive per night on a 3-night stay than a $250/night listing with a $120 cleaning fee. The advertised nightly rate is a starting point, not a price.</p>
+<p>Calculate the full total for your exact dates, including the Airbnb service fee (20%), cleaning fee, and local taxes, before comparing any two listings. A listing showing $220/night with a $300 cleaning fee is more expensive per night on a 3-night stay than a $250/night listing with a $120 cleaning fee. The advertised nightly rate is a starting point, not a price.</p>

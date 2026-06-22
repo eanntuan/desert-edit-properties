@@ -217,7 +217,7 @@ relatedPosts:
       "name": "Can you book The Cozy Cactus directly without Airbnb?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Booking direct at indigopalm.co/cozy-cactus/ skips the Airbnb service fee (typically 14-16% of the nightly rate). Check-in is self-serve via smart lock with instructions sent 24 hours before arrival."
+        "text": "Yes. Booking direct at indigopalm.co/cozy-cactus/ skips the Airbnb service fee (20% of the booking subtotal). Check-in is self-serve via smart lock with instructions sent 24 hours before arrival."
       }
     },
     {
@@ -244,7 +244,7 @@ relatedPosts:
 
 
 <h4>Can you book The Cozy Cactus directly without Airbnb?</h4>
-<p>Yes. Booking direct through <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co</a> skips the Airbnb service fee, which typically adds 14-16% to the nightly rate. The host responds to pre-booking questions within the hour, and check-in is fully self-serve via smart lock with instructions sent 24 hours before arrival.</p>
+<p>Yes. Booking direct through <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co</a> skips the Airbnb service fee, which is 20% of the booking subtotal. The host responds to pre-booking questions within the hour, and check-in is fully self-serve via smart lock with instructions sent 24 hours before arrival.</p>
 
 <h4>What bedrooms does The Cozy Cactus have, and how does it sleep 8?</h4>
 <p>The primary bedroom has a king and an en-suite bathroom. The second bedroom is also a king. The third bedroom has twin beds plus a trundle, which works well for kids. The game room doubles as overflow space when the afternoon desert heat drives everyone inside.</p>

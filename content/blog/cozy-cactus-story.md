@@ -185,7 +185,7 @@ layout: blog-post.njk
       "name": "Is it cheaper to book The Cozy Cactus directly instead of through Airbnb?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Booking at indigopalm.co/cozy-cactus/ skips the Airbnb guest service fee, typically 14-16% of the subtotal. The nightly rate is the same either way. For festival weeks when base rates are elevated, the savings are proportionally larger — often $200 or more on a typical stay."
+        "text": "Yes. Booking at indigopalm.co/cozy-cactus/ skips the Airbnb guest service fee, which is 20% of the subtotal. The nightly rate is the same either way. For festival weeks when base rates are elevated, the savings are proportionally larger."
       }
     },
     {
@@ -220,7 +220,7 @@ layout: blog-post.njk
 
 
 <h4>Is it cheaper to book directly instead of through Airbnb?</h4>
-<p>Yes. Booking at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus/</a> skips the Airbnb guest service fee, which typically runs 14-16% of the subtotal. The nightly rate is identical either way, and the booking flow takes about 3 minutes through Square. For festival weeks when base rates are already elevated, the savings are proportionally larger.</p>
+<p>Yes. Booking at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus/</a> skips the Airbnb guest service fee, which is 20% of the subtotal. The nightly rate is identical either way, and the booking flow takes about 3 minutes through Square. For festival weeks when base rates are already elevated, the savings are proportionally larger.</p>
 
 <h4>What ages is the baby gear designed for?</h4>
 <p>The Stokke high chair works from 6 months through roughly 3 years, and the pack-n-play covers newborn through 18 months or so. Infant-stage gear includes a Keekaroo changing table, bottle warmer, diaper pail, outlet covers, and cabinet locks. Kids' dishes and sippy cups extend the kitchen setup through the early toddler window. Beyond that age range, the house still works well as a family rental, the infant infrastructure just becomes less central.</p>

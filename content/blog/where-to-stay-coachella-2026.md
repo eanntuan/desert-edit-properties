@@ -281,7 +281,7 @@ layout: redirect.njk
       "name": "Should I book a Coachella rental on Airbnb or directly with the property?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Booking direct saves the Airbnb service fee, typically 14 to 16% of the total. On a $1,200 weekend stay that's $170 to $190 saved. Direct booking also means faster communication with the actual host. For properties with established track records and their own booking sites, going direct makes financial sense."
+        "text": "Booking direct saves the Airbnb service fee, which is 20% of the booking subtotal. On a $1,200 weekend stay that's $240 saved. Direct booking also means faster communication with the actual host. For properties with established track records and their own booking sites, going direct makes financial sense."
       }
     }
   ]
@@ -301,4 +301,4 @@ layout: redirect.njk
 <p>Yes. Stagecoach runs the following weekend at the same Empire Polo Club grounds, the same Indian Palms rentals are walking distance, and the booking pressure is lower. If you're flexible on country music and the walking-distance inventory for Coachella is gone, Stagecoach often has options available through February or March. Prices also tend to run 15 to 25% lower than Coachella weekend.</p>
 
 <h4>Should I book a Coachella rental on Airbnb or directly with the property?</h4>
-<p>Booking direct saves the Airbnb service fee, which typically adds 14 to 16% to the total cost. On a $1,200 weekend stay that's $170 to $190 saved. Direct booking also means faster communication with the actual host if anything comes up during the festival. For properties with established track records and their own booking sites, going direct makes financial sense.</p>
+<p>Booking direct saves the Airbnb service fee, which is 20% of the booking subtotal. On a $1,200 weekend stay that's $240 saved. Direct booking also means faster communication with the actual host if anything comes up during the festival. For properties with established track records and their own booking sites, going direct makes financial sense.</p>

@@ -228,7 +228,7 @@ relatedPosts:
       "name": "What's the closest neighborhood to Stagecoach for vacation rentals?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indian Palms Country Club in east Indio is the best-positioned neighborhood, roughly 2.5 miles from the Empire Polo Club on surface streets. Properties there put you 7-10 minutes from the grounds, close enough to return mid-afternoon during the peak heat and still make the evening sets. Inventory is limited, so private-pool properties book early."
+        "text": "Indian Palms Country Club in east Indio is the best-positioned neighborhood, walking distance to the Empire Polo Club. Properties there put you 7-10 minutes from the grounds, close enough to return mid-afternoon during the peak heat and still make the evening sets. Inventory is limited, so private-pool properties book early."
       }
     },
     {
@@ -278,7 +278,7 @@ relatedPosts:
 
 
 <h4>What's the closest neighborhood to Stagecoach for vacation rentals?</h4>
-<p>Indian Palms Country Club in east Indio is the best-positioned neighborhood, roughly 2.5 miles from the Empire Polo Club on surface streets with no freeway. Properties there put you 7-10 minutes from the grounds, which is close enough to return to your rental during the mid-afternoon heat window and still make the evening sets. Inventory is small, so the best private-pool options book well before spring.</p>
+<p>Indian Palms Country Club in east Indio is the best-positioned neighborhood, walking distance to the Empire Polo Club with no freeway. Properties there put you 7-10 minutes from the grounds, which is close enough to return to your rental during the mid-afternoon heat window and still make the evening sets. Inventory is small, so the best private-pool options book well before spring.</p>
 
 <h4>Are there dog-friendly rentals near Stagecoach?</h4>
 <p>Yes, but the options are limited. <a href="https://indigopalm.co/terra-luz/">Terra Luz</a> in the Indian Palms neighborhood is dog-friendly (up to 2 dogs, $150 pet fee), has a private saltwater pool, and is 7-10 minutes from Empire Polo Club. It's one of the few dog-friendly properties with a fenced yard that close to the grounds, which matters when your dogs stay at the house during festival sessions.</p>
