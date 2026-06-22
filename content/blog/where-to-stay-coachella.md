@@ -2,7 +2,7 @@
 title: "Where to Stay for Coachella 2027: Rental vs Hotel vs Camp"
 date: 2025-11-10
 dateModified: 2026-06-15
-metaDescription: "2 miles from the stage, $250-500/night private rental beats hotel prices. Hotels sell out fast, camping is rougher than it looks. What to book and when."
+metaDescription: "Walking distance to the stage, $250-500/night private rental beats hotel prices. Hotels sell out fast, camping is rougher than it looks. What to book and when."
 ogImage: /blog/images/coachella-festival-crowd.webp
 heroImage: /blog/images/coachella-festival-crowd.webp
 heroAlt: "Crowd at Coachella Valley Music and Arts Festival at Empire Polo Club in Indio California"

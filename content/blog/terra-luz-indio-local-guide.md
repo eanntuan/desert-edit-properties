@@ -19,7 +19,7 @@ keywords:
 articleSection: "Local Guide"
 property: terra-luz
 readTime: "8 min read"
-excerpt: "A host's honest guide to Indio, CA for guests staying at Terra Luz. Where to eat, drink, and explore in the Coachella Valley: date shakes, diner breakfasts, and the polo grounds two miles away."
+excerpt: "A host's honest guide to Indio, CA for guests staying at Terra Luz. Where to eat, drink, and explore in the Coachella Valley: date shakes, diner breakfasts, and Empire Polo Club walking distance from the front door."
 layout: blog-post.njk
 ---
 
