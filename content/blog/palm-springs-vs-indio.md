@@ -32,7 +32,7 @@ layout: blog-post.njk
 
 <h2>Palm Springs: What You're Getting</h2>
 
-<img src="/blog/images/ps-palm-street-blue-sky.jpg" alt="Palm tree-lined street in Palm Springs under a clear blue sky with mountain views in the distance" loading="lazy" width="1400" height="933">
+<img src="/blog/images/ps-palm-street-blue-sky.webp" alt="Palm tree-lined street in Palm Springs under a clear blue sky with mountain views in the distance" loading="lazy" width="1400" height="933">
 <p class="image-caption">The main drag in Palm Springs. Walkability like this is rare in the California desert.</p>
 
 <p>Palm Springs is walkable in a way that almost nothing else in the desert is. You can park once, walk to dinner, <a href="/blog/palm-springs-coffee-guide/">get coffee in the morning without moving the car</a>, wander the architecture streets in the afternoon, and come back to your rental without ever touching your keys again. For the Coachella Valley, that is genuinely unusual.</p>
@@ -41,7 +41,7 @@ layout: blog-post.njk
 
 <p>Downtown Palm Springs has density: restaurants, galleries, a weekend street market, vintage shops, and <a href="/blog/palm-springs-bars/">a handful of bars that go reasonably late</a>. If your trip is about wandering and discovery, Palm Springs rewards that kind of itinerary.</p>
 
-<img src="/blog/images/ps-orange-door-mcm.jpg" alt="Vibrant orange front door of a midcentury modern home in Palm Springs with desert garden and blue sky" loading="lazy" width="1400" height="933">
+<img src="/blog/images/ps-orange-door-mcm.webp" alt="Vibrant orange front door of a midcentury modern home in Palm Springs with desert garden and blue sky" loading="lazy" width="1400" height="933">
 <p class="image-caption">Every block in Palm Springs has a moment like this. Not curated. Just how the city looks.</p>
 
 <h3>The Real Limits of Staying in Palm Springs</h3>
@@ -54,7 +54,7 @@ layout: blog-post.njk
 
 <h2>Indio: What You're Getting</h2>
 
-<img src="/blog/images/cozy-cactus-backyard.jpg" alt="Backyard of the Cozy Cactus vacation rental in Indio California with private pool, hot tub, and desert landscaping" loading="lazy" width="1400" height="933">
+<img src="/blog/images/cozy-cactus-backyard.webp" alt="Backyard of the Cozy Cactus vacation rental in Indio California with private pool, hot tub, and desert landscaping" loading="lazy" width="1400" height="933">
 <p class="image-caption">This is what the same budget buys in Indio. Private pool, hot tub, room for 8 people to actually spread out.</p>
 
 <p>Indio is 30 minutes east of Palm Springs. It's a working city with less polish, less Instagram curation, and fewer architecture tours. What it offers instead is space and value in a combination that's hard to find anywhere else in the valley.</p>
@@ -63,7 +63,7 @@ layout: blog-post.njk
 
 <p>If you're attending Coachella or Stagecoach, Indio is the right call without much debate. <a href="/cozy-cactus/">The Cozy Cactus</a>, our 3-bedroom in the <a href="/blog/indian-palms-vacation-rental/">Indian Palms neighborhood</a>, is a short drive to the polo grounds. No surge pricing, no early departure to beat traffic, no standing in a rideshare line at midnight.</p>
 
-<img src="/blog/images/cc-nook-vignette.jpg" alt="Styled interior vignette at a Coachella Valley vacation rental with warm desert tones and comfortable furnishings" loading="lazy" width="1400" height="933">
+<img src="/blog/images/cc-nook-vignette.webp" alt="Styled interior vignette at a Coachella Valley vacation rental with warm desert tones and comfortable furnishings" loading="lazy" width="1400" height="933">
 <p class="image-caption">Indio vacation rentals tend to have more living space per dollar. Inside and out.</p>
 
 <h3>The Real Limits of Staying in Indio</h3>
@@ -134,7 +134,7 @@ layout: blog-post.njk
 
 <p>The mistake people make is booking based on the name recognition of Palm Springs when what their group needs is space and proximity in Indio. And occasionally the reverse: booking Indio because it's cheaper, when a couple would have loved being 10 minutes from Palm Springs restaurants every night. Get clear on the trip first.</p>
 
-<img src="/blog/images/yes-please-palm-springs.jpg" alt="Yes Please Books storefront in a Palm Springs neighborhood, the kind of discovery that comes from wandering on foot" loading="lazy" width="1400" height="933">
+<img src="/blog/images/yes-please-palm-springs.webp" alt="Yes Please Books storefront in a Palm Springs neighborhood, the kind of discovery that comes from wandering on foot" loading="lazy" width="1400" height="933">
 <p class="image-caption">The walkable neighborhoods in Palm Springs reward wandering. You find places like this just by turning off the main drag.</p>
 
 <h2>Our Properties in Both Areas</h2>
@@ -247,7 +247,7 @@ layout: blog-post.njk
 <h3>What should I know before deciding between Palm Springs and Indio?</h3>
 <p>The practical friction points differ. In Palm Springs: parking on Palm Canyon Drive is limited on weekends, most good restaurants don't take reservations, and rooms feel smaller than the photos suggest. In Indio: you drive everywhere, grocery stores are 5-10 minutes away (Stater Bros. on Monroe is the closest to Indian Palms), and festival weekends mean Monroe and Madison see heavy traffic from 2pm onward. Neither is a dealbreaker, just different planning math.</p>
 
-<img src="/blog/images/ps-via-sol-sunset.jpg" alt="Golden hour sunset over a Palm Springs street with mountains turning purple behind the palm trees" loading="lazy" width="1400" height="933">
+<img src="/blog/images/ps-via-sol-sunset.webp" alt="Golden hour sunset over a Palm Springs street with mountains turning purple behind the palm trees" loading="lazy" width="1400" height="933">
 <p class="image-caption">Palm Springs at sunset. Whether you're staying there or just visiting for the day, at least one evening like this is worth planning for.</p>
 
 <p>If you want a deeper look at the whole valley, our <a href="/blog/coachella-valley-insider-guide/">Coachella Valley insider guide</a> breaks down every city and neighborhood worth knowing about. The desert is bigger than most people realize when they book.</p>
