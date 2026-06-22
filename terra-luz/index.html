@@ -960,6 +960,42 @@
         .contact-btn.email { background: rgba(0,0,0,0.05); color: var(--charcoal); border: 1px solid rgba(0,0,0,0.15); }
         .contact-btn.instagram { background: rgba(0,0,0,0.05); color: var(--charcoal); border: 1px solid rgba(0,0,0,0.15); }
         </style>
+
+    <!-- LodgingBusiness Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LodgingBusiness",
+      "name": "Terra Luz",
+      "description": "Cuban-inspired 3-bedroom vacation rental in Indio, CA. Frida Kahlo blue pool, spa, outdoor kitchen, dog-friendly. Walking distance to Coachella and Stagecoach. Book direct.",
+      "url": "https://indigopalm.co/terra-luz/",
+      "image": "https://indigopalm.co/terra-luz/images/terra-luz-hero.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "49768 Pacino St",
+        "addressLocality": "Indio",
+        "addressRegion": "CA",
+        "postalCode": "92201",
+        "addressCountry": "US"
+      },
+      "amenityFeature": [
+        {"@type": "LocationFeatureSpecification", "name": "Private Pool", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "Spa", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "Outdoor Kitchen", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "WiFi", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "Dog Friendly", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "Free Parking", "value": true}
+      ],
+      "numberOfRooms": 3,
+      "petsAllowed": true,
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.98",
+        "reviewCount": "146"
+      },
+      "priceRange": "$$"
+    }
+    </script>
 </head>
 <body>
     <!-- Navigation -->

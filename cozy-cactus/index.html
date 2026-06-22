@@ -870,6 +870,46 @@
             body { padding-bottom: 72px; }
         }
         </style>
+
+    <!-- LodgingBusiness Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LodgingBusiness",
+      "name": "The Cozy Cactus",
+      "description": "Family-friendly 3-bedroom vacation rental in Indio, CA. Private pool, community amenities, infant gear included. 10 minutes from Coachella and Stagecoach festival grounds. Book direct.",
+      "url": "https://indigopalm.co/cozy-cactus/",
+      "image": "https://indigopalm.co/cozy-cactus/images/cozy-cactus-hero.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "82381 Cochran Dr",
+        "addressLocality": "Indio",
+        "addressRegion": "CA",
+        "postalCode": "92201",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.7219,
+        "longitude": -116.2150
+      },
+      "amenityFeature": [
+        {"@type": "LocationFeatureSpecification", "name": "Private Pool", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "WiFi", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "Full Kitchen", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "Infant Gear", "value": true},
+        {"@type": "LocationFeatureSpecification", "name": "Free Parking", "value": true}
+      ],
+      "numberOfRooms": 3,
+      "petsAllowed": false,
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.97",
+        "reviewCount": "146"
+      },
+      "priceRange": "$$"
+    }
+    </script>
 </head>
 <body>
     <!-- Navigation -->
