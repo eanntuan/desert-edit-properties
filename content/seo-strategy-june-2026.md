@@ -111,7 +111,7 @@ Ranked by: search volume × commercial intent × achievability for a 4-month-old
 
 ~~**Gap 6: `/vacation-rentals-with-private-pool/`**~~ ✅ **DONE** — Built June 22, 2026. All 3 properties with accurate pool descriptions (Cozy Cactus = hot tub + community pool; Terra Luz + Sundune = private pools).
 
-**Gap 7: BNP Paribas existing post update** — `/blog/bnp-paribas-indian-wells-where-to-stay/` may still be in the "crawled but not indexed" list. Confirm in GSC. If so: add "2027" to H1 and title tag, update tournament dates, request reindexing. 30 minutes of work.
+~~**Gap 7: BNP Paribas existing post update**~~ ✅ **DONE** — Meta description updated to include "2027", dateModified bumped, deployed June 22. Reindexing requested in GSC June 22. Title already had "2027"; body dates were already generic. Check GSC July 13 to confirm indexed.
 
 ~~**Gap 8: "Why book direct" value block on property pages**~~ ✅ **DONE** — LodgingBusiness JSON-LD added June 22. Fee comparison blocks live.
 
