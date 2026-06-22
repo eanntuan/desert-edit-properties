@@ -2,7 +2,7 @@
 title: "BNP Paribas Open 2027: Where to Stay Near Indian Wells"
 date: 2025-12-10
 dateModified: 2026-06-22
-metaDescription: "Palm Springs or Indio for the BNP Paribas Open? What to look for in a rental during tournament week, and why a private pool matters after stadium seats."
+metaDescription: "Palm Springs or Indio for the BNP Paribas Open 2027? Private vacation rentals near Indian Wells Tennis Garden — what to look for, and why a private pool matters after a full day in stadium seats."
 ogImage: /blog/images/bnp-paribas-stadium-packed.webp
 heroImage: /blog/images/bnp-paribas-stadium-packed.webp
 heroAlt: "Packed Stadium 1 at the BNP Paribas Open in Indian Wells California during a match with full crowd"
