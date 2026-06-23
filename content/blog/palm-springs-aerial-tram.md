@@ -1,8 +1,8 @@
 ---
-title: "Palm Springs Aerial Tram: Tickets, Hours, What to Expect"
+title: "Palm Springs Aerial Tram: Is It Worth It? (Honest Guide)"
 date: 2026-01-21
-dateModified: 2026-03-27
-metaDescription: "Palm Springs Aerial Tram: ticket prices, hours, what's at 8,516 feet, and when to go. Honest guide from a Coachella Valley local who's been up many times."
+dateModified: 2026-06-22
+metaDescription: "Honest take: yes, worth it, with caveats. Ticket prices, what's at 8,516 feet, best time to go, and how to skip the worst crowds."
 ogImage: /blog/images/ps-aerial-tram-sunrise.webp
 heroImage: /blog/images/ps-aerial-tram-sunrise.webp
 heroAlt: "View from the top of the Palm Springs Aerial Tram at 8,516 feet with pine trees and San Jacinto peaks"

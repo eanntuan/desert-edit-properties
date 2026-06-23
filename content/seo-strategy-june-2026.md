@@ -528,35 +528,10 @@ These feed into Part 8 Quick Wins below.
 
 ---
 
-**TASK GSC-1: Rewrite palm-springs-vs-indio title/meta (15 min, High)**
+~~**TASK GSC-1: Rewrite palm-springs-vs-indio title/meta**~~ ✅ **DONE June 22** — Title: "Palm Springs vs. Indio: Distance, Cost + Which to Pick" (54 chars). Meta leads with "30 miles apart, 30 minutes by car" to match the dominant query "how far is indio from palm springs" (823 imps, pos 8.3, 0.1% CTR).
 
-Target: "how far is indio from palm springs" — 823 impressions, position 8.3, 0.1% CTR.
+~~**TASK GSC-2: Rewrite where-to-stay-coachella title/meta**~~ ✅ **DONE June 22** — Title: "Coachella 2027: Where to Stay Near the Polo Grounds" (52 chars). Meta: opens with specific price/distance facts and adds "2027" for planning-cycle search alignment.
 
-- Title: `Indio vs. Palm Springs: 30 Miles Apart — Which Is Right for Your Stay?` → trim to 59 chars without em dash: `Indio vs. Palm Springs: Which Side Should You Stay?` or `How Far Is Indio From Palm Springs? A Real Comparison` (53 chars)
-- Meta: open with the distance fact, close with the booking hook
-- File: `content/blog/palm-springs-vs-indio.md` frontmatter
+~~**TASK GSC-3: Rewrite palm-springs-aerial-tram title/meta**~~ ✅ **DONE June 22** — Title: "Palm Springs Aerial Tram: Is It Worth It? (Honest Guide)" (57 chars). Meta opens with "Honest take: yes, worth it, with caveats" to directly address the dominant searcher question. dateModified bumped to 2026-06-22.
 
-**TASK GSC-2: Rewrite where-to-stay-coachella title/meta (15 min, High)**
-
-Target: 2,700 impressions, 8 clicks, 0.3% CTR at position 14.3.
-
-- Current title is presumably "Where to Stay for Coachella" or similar — read the file first
-- Title: include "2027" and a specific hook (walking distance / 2 miles / vacation rental)
-- Meta: open with the distance/location fact, not a generic "planning Coachella" opener
-- File: `content/blog/where-to-stay-coachella.md` frontmatter
-
-**TASK GSC-3: Rewrite palm-springs-aerial-tram title/meta (15 min, Medium-High)**
-
-Target: position 10.8 (near page 1), 202 impressions, 1 click, 0.5% CTR.
-
-- Title: answer "is it worth it" directly in the title
-- Meta: lead with elevation (8,516 ft), views, and honest timing advice
-- File: `content/blog/palm-springs-aerial-tram.md` frontmatter
-
-**TASK GSC-4: Rewrite beyond-coachella-desert-escape title/meta (15 min, Medium)**
-
-Target: position 10.1 (page 1 edge), 74 impressions, 0 clicks.
-
-- Read the post first to identify what query it should own
-- Rewrite title to match that query directly
-- File: `content/blog/beyond-coachella-desert-escape.md` frontmatter
+~~**TASK GSC-4: Rewrite beyond-coachella-desert-escape title/meta**~~ ✅ **DONE June 22** — Title: "Things to Do in the Coachella Valley (Not Just Coachella)" (58 chars) — replaces the ambiguous "Beyond the Festival" framing with a direct query match. Meta updated. dateModified bumped to 2026-06-22.

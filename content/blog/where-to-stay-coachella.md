@@ -1,8 +1,8 @@
 ---
-title: "Where to Stay Near Coachella: Rentals, Hotels, and Camping"
+title: "Coachella 2027: Where to Stay Near the Polo Grounds"
 date: 2025-11-10
 dateModified: 2026-06-22
-metaDescription: "Private rentals in Indio run $250-500/night, put you walking distance from the polo grounds, and beat hotels on total cost. Here's the honest breakdown."
+metaDescription: "Vacation rentals in Indio start at $250/night, sit walking distance from the polo grounds, and beat hotels for groups. Full breakdown for Coachella 2027."
 ogImage: /blog/images/coachella-festival-crowd.webp
 heroImage: /blog/images/coachella-festival-crowd.webp
 heroAlt: "Crowd at Coachella Valley Music and Arts Festival at Empire Polo Club in Indio California"
