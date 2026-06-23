@@ -119,7 +119,7 @@ const PROPERTY_HEROES = {
         sub: '3BR · Indio · Saltwater pool · Dog-friendly · Sleeps 8',
     },
     'ps-retreat': {
-        img: '/the-sundune/photos/Sundune2026-0001.webp',
+        img: '/images/sundune-hero-banner.webp',
         title: 'The Sundune',
         sub: '2BR · Palm Springs · Private pool · Three king beds',
     },
