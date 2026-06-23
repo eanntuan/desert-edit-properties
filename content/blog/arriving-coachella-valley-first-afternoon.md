@@ -2,9 +2,9 @@
 title: "Arriving in the Coachella Valley: Your First Afternoon"
 date: 2026-06-22
 metaDescription: "Just checked in? Here's what to do first: where to stock up, where to eat tonight, when to hit the pool, and what to skip on day one."
-ogImage: /blog/images/terra-luz-outdoor-loungers.webp
-heroImage: /blog/images/terra-luz-outdoor-loungers.webp
-heroAlt: "Outdoor lounge chairs beside the pool at Terra Luz vacation rental in Indio, California"
+ogImage: /blog/images/palm-springs-mcm-neighborhood.webp
+heroImage: /blog/images/palm-springs-mcm-neighborhood.webp
+heroAlt: "Mid-century modern neighborhood in Palm Springs with tall palm trees and mountain backdrop"
 keywords:
   - arriving coachella valley
   - coachella valley vacation rental arrival
