@@ -212,43 +212,9 @@ npm run build
 ```
 Then redeploy. Publishes dog-friendly and bachelorette posts, removes 4 sitemap 404 errors.
 
-**TASK 4: Title Tag + Meta Description Rewrites (2 hours, High)**
+~~**TASK 4: Title Tag + Meta Description Rewrites (2 hours, High)**~~ ✅ **DONE June 22** — Meta descriptions rewritten for palm-springs-vs-indio (148 chars, persuasive owner framing), stagecoach-2027 (154 chars, stage proximity), and modernism-week (160 chars, Sundune-forward). Homepage H1/title done in session 1. BNP Paribas meta already had 2027 in title; body dates generic enough to not need a rewrite. All dateModified bumped to 2026-06-22.
 
-Palm Springs vs. Indio post (current traffic leader):
-```
-Title: Palm Springs vs. Indio for Coachella: Which One Should You Stay In? (2027)
-Meta: Festival or weekend getaway? We break down Palm Springs vs. Indio — distance to the stage, prices, vibes, and which neighborhoods put you closest to Coachella and Stagecoach.
-```
-
-Stagecoach 2027 post:
-```
-Title: Where to Stay for Stagecoach 2027: Indio Rentals Near the Festival
-Meta: The best vacation rentals for Stagecoach 2027 — private homes in Indio, 10 minutes from Empire Polo Club. No hotel fees, no roommates. Book direct from the owner.
-```
-
-BNP Paribas existing post:
-```
-Title: Where to Stay for the BNP Paribas Open 2027: Vacation Rentals Near Indian Wells
-Meta: Private vacation rentals 20 minutes from Indian Wells Tennis Garden. Book for the 2027 BNP Paribas Open — houses sleep 6-10 guests, private pools, no hotel fees.
-```
-
-Homepage:
-```
-Title: Coachella Valley Vacation Rentals | Book Direct | Indigo Palm Collective
-H1: Coachella Valley Vacation Rentals — Book Direct, Skip the Fees
-Meta: Private vacation homes in Palm Springs and Indio. Pools, designer finishes, festival proximity. Book direct and save the Airbnb service fee — same properties, lower total cost.
-```
-
-Modernism Week post:
-```
-Title: Where to Stay for Modernism Week Palm Springs 2027 | Indigo Palm
-Meta: The Sundune is a mid-century-modern home in Palm Springs, walking distance from Modernism Week venues. Book direct for February 2027 — private pool, designer interior, no platform fees.
-```
-
-**TASK 5: Internal Linking Fixes (1 hour, High)**
-- Palm Springs vs. Indio post: add links to `/cozy-cactus/` and `/the-sundune/` in the body
-- Stagecoach 2027 post: add links to both Indio property pages, add link to palm-springs-vs-indio comparison post
-- Every festival guide: add a booking CTA block at the end linking directly to relevant properties
+~~**TASK 5: Internal Linking Fixes (1 hour, High)**~~ ✅ **ALREADY DONE** — Verified June 22: palm-springs-vs-indio links to both `/cozy-cactus/` (line 142) and `/the-sundune/` (line 149). Stagecoach-2027 links to `/cozy-cactus/`, `/terra-luz/`, and `/blog/palm-springs-vs-indio/`. Festival-guide generic CTA box is live on every post via layout.
 
 **TASK 6: Indian Wells Proximity Copy (30 min, High)**
 On `/cozy-cactus/` and `/terra-luz/` property pages, add:
