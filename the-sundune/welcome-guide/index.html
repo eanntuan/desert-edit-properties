@@ -187,13 +187,15 @@
       width: 130px;
       height: 130px;
       border-radius: 50%;
-      object-fit: cover;
-      object-position: center 20%;
       border: 4px solid #fff;
       box-shadow: 0 2px 12px rgba(0,0,0,0.15);
       position: relative;
       z-index: 1;
       margin-bottom: -65px;
+      flex-shrink: 0;
+      background-image: url('host-eann.webp');
+      background-size: 230%;
+      background-position: 56% 28%;
     }
     .host-card {
       background: var(--apricot);
@@ -787,7 +789,7 @@
     <div class="content">
 
       <div class="host-intro-wrap">
-        <img src="host-eann.webp" alt="Eann, your host at The Sundune" class="host-avatar-lg" loading="eager" width="130" height="130">
+        <div class="host-avatar-lg" role="img" aria-label="Eann, your host at The Sundune"></div>
         <div class="host-card">
           <p>My name is Eann. I passed on a Tesla to do this, which tells you something about my decision-making, but I haven't regretted it once.</p>
           <p>I surf most mornings before I open the laptop. The Sundune is built for the same kind of trip: move during the day, wander without a plan, be somewhere comfortable by evening. That's about as structured as it needs to get.</p>
