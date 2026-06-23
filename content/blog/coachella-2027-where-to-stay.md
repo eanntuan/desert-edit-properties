@@ -20,7 +20,7 @@ keywords:
 articleSection: "Festival Guide"
 property: all
 readTime: "7 min read"
-excerpt: "Private home or hotel for Coachella 2027? Why Indio — not Palm Springs — is the right base, what walking distance to the polo grounds actually changes, and how to pick a rental that earns its keep across all three days."
+excerpt: "Private home or hotel for Coachella 2027? Why Indio, not Palm Springs, is the right base, what walking distance to the polo grounds actually changes, and how to pick a rental that earns its keep across all three days."
 layout: blog-post.njk
 relatedPosts:
   - title: "Stagecoach 2027: Where to Stay Near the Festival"
@@ -31,7 +31,7 @@ relatedPosts:
     url: /blog/terra-luz-review/
 ---
 
-<p><a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> runs two consecutive weekends in mid-April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Getting there is the easy part. Finding a place to stay that keeps a group functional across three full days in April desert heat — that's the real planning job.</p>
+<p><a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> runs two consecutive weekends in mid-April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Getting there is the easy part. Finding a place to stay that keeps a group functional across three full days in April desert heat. That's the real planning job.</p>
 
 <p>I own two vacation rentals inside the Indian Palms Country Club neighborhood, about 1.5 miles from the festival entrance. I've watched how this choice plays out every year since 2022. Here's what I know.</p>
 
@@ -204,6 +204,6 @@ relatedPosts:
 
 <div style="background: #fff8e7; border-left: 3px solid #B67550; padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: 0 6px 6px 0;">
 <p style="margin-top: 0;"><strong>Book direct and skip Airbnb's 20% service fee.</strong> Same Superhost homes, direct contact with us, no platform markup.</p>
-<p><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a> — 3BR/2BA, sleeps 8, private hot tub, game room, community pool<br><a href="/terra-luz/"><strong>Terra Luz</strong></a> — 3BR/2BA, sleeps 8, private saltwater pool, dog-friendly, Cuban-inspired design</p>
-<p style="margin-bottom: 0;">Both are in Indian Palms, Indio — walking distance to the Empire Polo Club.</p>
+<p><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a>, 3BR/2BA, sleeps 8, private hot tub, game room, community pool<br><a href="/terra-luz/"><strong>Terra Luz</strong></a>, 3BR/2BA, sleeps 8, private saltwater pool, dog-friendly, Cuban-inspired design</p>
+<p style="margin-bottom: 0;">Both are in Indian Palms, Indio, walking distance to the Empire Polo Club.</p>
 </div>

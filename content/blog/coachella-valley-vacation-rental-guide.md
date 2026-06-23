@@ -237,13 +237,13 @@ layout: blog-post.njk
 
 
 <h4>How close to the Coachella festival grounds should my rental be?</h4>
-<p>Close enough to avoid festival traffic is the real benchmark, not close enough to walk. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles (Indian Palms Country Club, for example) let you drive in off-peak and avoid the worst surge pricing on rideshares. Anything marketed as "Palm Springs area" without a specific address could be 25-45 miles from the venue — always map the actual street address before committing.</p>
+<p>Close enough to avoid festival traffic is the real benchmark, not close enough to walk. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles (Indian Palms Country Club, for example) let you drive in off-peak and avoid the worst surge pricing on rideshares. Anything marketed as "Palm Springs area" without a specific address could be 25-45 miles from the venue. Always map the actual street address before committing.</p>
 
 <h4>What does "private pool" actually mean in a Coachella Valley rental listing?</h4>
 <p>It means the pool belongs only to guests at that property: no posted hours, no shared access with neighbors, and no noise rules imposed by an HOA. This is different from a community pool, which is shared with all residents of the development and typically closes around 10pm. The photos often look similar, so check the listing description explicitly or ask the host directly.</p>
 
 <h4>Is a heated pool necessary for a desert vacation rental?</h4>
-<p>From October through April, yes. Desert night temperatures regularly drop below 55°F, and an unheated pool is cold enough that most guests don't use it despite what the listing photos suggest. If a listing says "pool" without specifying heated, ask before you book. Some properties charge a nightly fee for heating — Terra Luz at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> includes heating in the base rate year-round.</p>
+<p>From October through April, yes. Desert night temperatures regularly drop below 55°F, and an unheated pool is cold enough that most guests don't use it despite what the listing photos suggest. If a listing says "pool" without specifying heated, ask before you book. Some properties charge a nightly fee for heating. Terra Luz at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> includes heating in the base rate year-round.</p>
 
 <h4>How do I compare two vacation rentals fairly when the nightly rates look similar?</h4>
 <p>Calculate the full total for your exact dates, including the Airbnb service fee (20%), cleaning fee, and local taxes, before comparing any two listings. A listing showing $220/night with a $300 cleaning fee is more expensive per night on a 3-night stay than a $250/night listing with a $120 cleaning fee. The advertised nightly rate is a starting point, not a price.</p>

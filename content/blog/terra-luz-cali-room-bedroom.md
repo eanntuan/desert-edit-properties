@@ -4,7 +4,7 @@ date: 2026-06-11
 metaDescription: "The third bedroom at Terra Luz has a king bed, a trundle Eann built from plywood and caster wheels, an IKEA cabinet-door headboard, and a Kahlo Blue workstation behind bifold doors."
 ogImage: /blog/images/terra-luz-cali-room-wide.webp
 heroImage: /blog/images/terra-luz-cali-room-wide.webp
-heroAlt: "Cali Room at Terra Luz in Indio California — king bed with IKEA IVAR rattan panel headboard, amber pillows, blue shibori curtains, fiddle leaf fig in blue pot, and Talavera tile floor"
+heroAlt: "Cali Room at Terra Luz in Indio California, king bed with IKEA IVAR rattan panel headboard, amber pillows, blue shibori curtains, fiddle leaf fig in blue pot, and Talavera tile floor"
 heroPosition: "center 50%"
 keywords:
   - terra luz third bedroom
@@ -26,7 +26,7 @@ layout: blog-post.njk
 
 <p>Dawn Asher, our brand lead at <a href="https://www.instagram.com/theolivejar.co/">The Olive Jar</a>, called the vibe California coastal meets desert. That's why we call it the Cali Room.</p>
 
-<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Wavy wood mirror reflecting the Cali Room at Terra Luz — rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print above the bed in Indio California" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Wavy wood mirror reflecting the Cali Room at Terra Luz, rattan cane panel headboard, amber fringe pillows, HOMETOWN lumbar pillow, and Latin figurative art print above the bed in Indio California" width="3200" height="4800" loading="lazy">
 <p class="image-caption">The room reflected. Wavy wood mirror, rattan cane panel headboard made from IKEA cabinet doors, amber pillows, the HOMETOWN lumbar, and the figurative print that anchors the whole wall.</p>
 
 <h2>The trundle problem</h2>
@@ -40,7 +40,7 @@ layout: blog-post.njk
 
 <h2>The headboard from IKEA IVAR doors</h2>
 
-<p>We needed a headboard that felt substantial but didn't crowd a room with a lot going on at floor level. The solution was four <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a> with bamboo woven panel fronts, laid horizontally and mounted wall-to-wall above the bed. Four doors across create a continuous panel that reads as a single built-in headboard from across the room. The texture is warm and natural, nothing about it telegraphs its origin, and the horizontal orientation makes the wall feel wider. Two small sconces flank the panels for reading light. Total cost under $200 — full breakdown in the <a href="/blog/terra-luz-diy-rattan-headboard/">DIY headboard post</a>.</p>
+<p>We needed a headboard that felt substantial but didn't crowd a room with a lot going on at floor level. The solution was four <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a> with bamboo woven panel fronts, laid horizontally and mounted wall-to-wall above the bed. Four doors across create a continuous panel that reads as a single built-in headboard from across the room. The texture is warm and natural, nothing about it telegraphs its origin, and the horizontal orientation makes the wall feel wider. Two small sconces flank the panels for reading light. Total cost under $200. Full breakdown in the <a href="/blog/terra-luz-diy-rattan-headboard/">DIY headboard post</a>.</p>
 
 <img src="/blog/images/terra-luz-cali-room-headboard.webp" alt="IKEA IVAR bamboo panel headboard close-up in the Cali Room at Terra Luz, with brass sconce, white rattan nightstand, and Talavera tile floor in Indio California" width="3200" height="4800" loading="lazy">
 <p class="image-caption">The headboard close up. Four IVAR doors, solid pine frames, bamboo panel. The sconce sits just outside the panel edge.</p>

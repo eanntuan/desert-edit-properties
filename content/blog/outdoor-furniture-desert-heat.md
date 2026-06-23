@@ -148,7 +148,7 @@ layout: blog-post.njk
       "name": "Does teak furniture hold up in desert heat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Teak's natural oils make it resistant to heat, UV, and moisture. It will silver over time without maintenance oiling but won't crack or warp in desert conditions. Buy real teak, not acacia or eucalyptus sold as 'teak-style' — check the product spec sheet for wood species."
+        "text": "Yes. Teak's natural oils make it resistant to heat, UV, and moisture. It will silver over time without maintenance oiling but won't crack or warp in desert conditions. Buy real teak, not acacia or eucalyptus sold as 'teak-style'. Check the product spec sheet for wood species."
       }
     },
     {

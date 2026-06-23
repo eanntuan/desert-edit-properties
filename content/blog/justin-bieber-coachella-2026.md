@@ -207,7 +207,7 @@ layout: blog-post.njk
 </script>
 
 
-<h4>What's the best neighborhood to stay in for Coachella — Indio or Palm Springs?</h4>
+<h4>What's the best neighborhood to stay in for Coachella: Indio or Palm Springs?</h4>
 <p>Indio is the practical choice for festival-goers. Properties in the Indian Palms area sit 7-10 minutes from the Empire Polo Club without freeway driving, which means you can actually use your rental mid-day during peak heat, shower before the headliner, and get back for late-night sets without a 90-minute traffic gamble each way. Palm Springs is 25-30 miles west and genuinely beautiful, but on a peak Saturday that commute can stretch well past an hour in each direction.</p>
 
 <h4>Is it too early to book Coachella 2027 housing right now?</h4>

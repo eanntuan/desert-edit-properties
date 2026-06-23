@@ -33,7 +33,7 @@ layout: blog-post.njk
 <h2>How Far Is "Palm Springs" From Stagecoach?</h2>
 
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of Cozy Cactus vacation rental in Indio California, close to Stagecoach festival grounds, with Indian Palms community pool visible nearby" width="1400" height="933" loading="lazy">
-<p class="image-caption">The Cozy Cactus is in Indio's Indian Palms neighborhood. Stagecoach is walking distance from here — about 19 minutes on foot via Eisenhower Drive.</p>
+<p class="image-caption">The Cozy Cactus is in Indio's Indian Palms neighborhood. Stagecoach is walking distance from here, about 19 minutes on foot via Eisenhower Drive.</p>
 
 <p>Palm Springs proper is about 24 miles from the Empire Polo Club. That sounds manageable. On a normal Tuesday at 2pm, it takes 30 minutes. On a Friday night when 80,000 people are all leaving the festival at roughly the same time, it takes anywhere from 60 minutes to 2 hours depending on when you leave.</p>
 
@@ -73,7 +73,7 @@ layout: blog-post.njk
 
 <p>Indian Palms is a residential neighborhood in Indio that sits directly adjacent to Indian Palms Country Club. It's quiet, gated at certain entrances, and a short straight drive to the polo grounds with no freeway needed.</p>
 
-<p>Both of our Indio properties are in this neighborhood. The Cozy Cactus has a private hot tub, community pool steps away, and sleeps 8. Terra Luz (our newer renovation) has a private saltwater pool with a sun shelf, a covered patio, and also sleeps 8. Both are walking distance to the festival gates — about 19 minutes on foot via Eisenhower Drive.</p>
+<p>Both of our Indio properties are in this neighborhood. The Cozy Cactus has a private hot tub, community pool steps away, and sleeps 8. Terra Luz (our newer renovation) has a private saltwater pool with a sun shelf, a covered patio, and also sleeps 8. Both are walking distance to the festival gates, about 19 minutes on foot via Eisenhower Drive.</p>
 
 <p class="cta-block">Booking for Stagecoach or a future festival weekend: <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both 7-10 minutes from the Empire Polo Club. Terra Luz has a private saltwater pool; Cozy Cactus has a private hot tub and community pool steps away. <a href="/cozy-cactus/">Check availability.</a></p>
 
@@ -129,7 +129,7 @@ layout: blog-post.njk
 <p>About 24 miles, or 30 minutes on a normal day. On festival evenings when 80,000 people all exit at once, that stretch becomes 60 to 90 minutes each way. If you're staying in Palm Springs, build the commute honestly into your plan, because it compounds over three days.</p>
 
 <h3>What is the best neighborhood to stay in for Stagecoach?</h3>
-<p>Indian Palms in Indio. It's a residential neighborhood walking distance to the Empire Polo Club — about 19 minutes on foot via Eisenhower Drive, or a short drive with no freeway. Vacation rentals here have private outdoor space, and you can walk home from the headliner without coordinating rides.</p>
+<p>Indian Palms in Indio. It's a residential neighborhood walking distance to the Empire Polo Club, about 19 minutes on foot via Eisenhower Drive, or a short drive with no freeway. Vacation rentals here have private outdoor space, and you can walk home from the headliner without coordinating rides.</p>
 
 <h3>Is a private pool worth it for a Stagecoach rental?</h3>
 <p>Yes, unambiguously. Late April in Indio regularly hits 95-105 degrees Fahrenheit during the day. A private pool lets you leave the grounds at 3pm during peak heat, recharge for two hours, and come back for the evening headliners. Community pools have hours; a private pool doesn't.</p>
@@ -155,7 +155,7 @@ layout: blog-post.njk
       "name": "What is the best neighborhood to stay in for Stagecoach?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indian Palms in Indio. It's a residential neighborhood walking distance to the Empire Polo Club — about 19 minutes on foot via Eisenhower Drive, or a short drive with no freeway. Vacation rentals here have private outdoor space, and you can walk home from the headliner without coordinating rides."
+        "text": "Indian Palms in Indio. It's a residential neighborhood walking distance to the Empire Polo Club, about 19 minutes on foot via Eisenhower Drive, or a short drive with no freeway. Vacation rentals here have private outdoor space, and you can walk home from the headliner without coordinating rides."
       }
     },
     {
@@ -209,7 +209,7 @@ layout: blog-post.njk
 <p>Yes. From Indian Palms in Indio, the walk to the Empire Polo Club is about 19 minutes via Eisenhower Drive. It's flat, well-lit, and a reasonable option if you'd rather skip the post-headliner rideshare surge entirely. Not every rental in the neighborhood will be equally close, so check the specific address against the festival gates before booking.</p>
 
 <h4>What is the best way to get to Stagecoach without a car?</h4>
-<p>Rideshares work well for getting there early in the day, but surge pricing kicks in hard right after the headliner ends — expect 2-3x normal rates in that 30-minute window. Many groups drive in for the day and rideshare back, then reverse it. If your rental is in Indian Palms, walking home from the headliner is a genuinely viable option that sidesteps the surge entirely.</p>
+<p>Rideshares work well for getting there early in the day, but surge pricing kicks in hard right after the headliner ends, expect 2-3x normal rates in that 30-minute window. Many groups drive in for the day and rideshare back, then reverse it. If your rental is in Indian Palms, walking home from the headliner is a genuinely viable option that sidesteps the surge entirely.</p>
 
 <h4>Is it too hot to be outside at Stagecoach in April?</h4>
 <p>Late April in Indio runs 95-105 degrees Fahrenheit during the afternoon, which is real desert heat. The festival grounds have minimal shade, so peak heat hours between noon and 4pm are the hardest part of each day. Most experienced attendees leave the grounds during that window, cool off at their rental, and come back in the evening for the headliners, which is where a private pool at your accommodation earns its cost.</p>

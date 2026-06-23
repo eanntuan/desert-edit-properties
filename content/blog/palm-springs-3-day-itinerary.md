@@ -153,7 +153,7 @@ layout: blog-post.njk
       "name": "Is 3 days enough time in Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Palm Springs is small enough that three days covers the aerial tram, downtown and the Art Museum, mid-century architecture, and a Joshua Tree day trip without rushing any of them. The city's natural rhythm — active mornings, pool midday, architecture walks at golden hour — fits a long weekend well. Peak season (January through April) books fast, so reserve the tram and dinner spots in advance."
+        "text": "Yes. Palm Springs is small enough that three days covers the aerial tram, downtown and the Art Museum, mid-century architecture, and a Joshua Tree day trip without rushing any of them. The city's natural rhythm: active mornings, pool midday, architecture walks at golden hour, fits a long weekend well. Peak season (January through April) books fast, so reserve the tram and dinner spots in advance."
       }
     },
     {
@@ -161,7 +161,7 @@ layout: blog-post.njk
       "name": "Can you do Joshua Tree and Palm Springs in the same trip?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Joshua Tree is 40 to 45 minutes from Palm Springs. Leave by 8am, enter through the north side for Skull Rock, Barker Dam, and Ryan Mountain. Plan 5 to 6 hours in the park and return mid-afternoon. Bring 1 liter of water per person per hour — there are no services inside the park except at campgrounds. Details at indigopalm.co/blog/palm-springs-3-day-itinerary/"
+        "text": "Yes, Joshua Tree is 40 to 45 minutes from Palm Springs. Leave by 8am, enter through the north side for Skull Rock, Barker Dam, and Ryan Mountain. Plan 5 to 6 hours in the park and return mid-afternoon. Bring 1 liter of water per person per hour. There are no services inside the park except at campgrounds. Details at indigopalm.co/blog/palm-springs-3-day-itinerary/"
       }
     },
     {

@@ -20,7 +20,7 @@ layout: blog-post.njk
 
 Every February, Palm Springs stops pretending to be a regular desert city and leans fully into what it is: one of the most intact collections of mid-century modern architecture in the country. Modernism Week is eleven days of home tours, double-decker bus rides, film screenings, and cocktail parties built around that fact. If you care about architecture at all, it's worth building a trip around.
 
-The 2027 dates haven't been announced yet — they typically go live in late October or early November. The 2026 edition ran February 12 through 22. There's also a shorter fall edition, which ran October 15 through 18 in 2026. The February run is the main event, with over 450 individual events across the eleven days.
+The 2027 dates haven't been announced yet. They typically go live in late October or early November. The 2026 edition ran February 12 through 22. There's also a shorter fall edition, which ran October 15 through 18 in 2026. The February run is the main event, with over 450 individual events across the eleven days.
 
 <img src="/blog/images/ps-blue-door-cacti.webp" alt="Mid-century modern neighborhood in Palm Springs with flat-roofline homes and mountain backdrop" loading="lazy" width="1400" height="933">
 

@@ -166,7 +166,7 @@ layout: blog-post.njk
       "name": "Is Palm Springs or Indio better for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indio is the clear choice for Coachella or Stagecoach. The Empire Polo Club is in Indio, and rentals in Indian Palms Country Club are walking distance to the festival grounds — about 19 minutes on foot via Eisenhower Drive. Compare that to 30–60 minutes from Palm Springs in festival traffic. You save money on rideshares, you can go back to the house between sets, and you walk home from the headliner without any coordination. For the full breakdown on where to stay during festival week, the Coachella accommodation guide covers neighborhoods, timing, and what to book first."
+        "text": "Indio is the clear choice for Coachella or Stagecoach. The Empire Polo Club is in Indio, and rentals in Indian Palms Country Club are walking distance to the festival grounds, about 19 minutes on foot via Eisenhower Drive. Compare that to 30–60 minutes from Palm Springs in festival traffic. You save money on rideshares, you can go back to the house between sets, and you walk home from the headliner without any coordination. For the full breakdown on where to stay during festival week, the Coachella accommodation guide covers neighborhoods, timing, and what to book first."
       }
     },
     {
@@ -227,7 +227,7 @@ layout: blog-post.njk
 <p>About 25 miles, which is typically 30 to 40 minutes without traffic on the I-10. During Coachella or Stagecoach festival days, that drive can stretch to an hour or more in the evenings. It's a short enough distance to day-trip between the two, but long enough that staying in the wrong city can cost you a lot of time over a weekend.</p>
 
 <h3>Is Palm Springs or Indio better for Coachella?</h3>
-<p>Indio is the clear choice for Coachella or Stagecoach. The Empire Polo Club is in Indio, and rentals in Indian Palms Country Club are walking distance to the festival grounds — about 19 minutes on foot via Eisenhower Drive. Compare that to 30–60 minutes from Palm Springs in festival traffic. You save money on rideshares, you can go back to the house between sets, and you walk home from the headliner without any coordination. For the full breakdown on where to stay during festival week, the <a href="/blog/where-to-stay-coachella/">Coachella accommodation guide</a> covers neighborhoods, timing, and what to book first.</p>
+<p>Indio is the clear choice for Coachella or Stagecoach. The Empire Polo Club is in Indio, and rentals in Indian Palms Country Club are walking distance to the festival grounds, about 19 minutes on foot via Eisenhower Drive. Compare that to 30–60 minutes from Palm Springs in festival traffic. You save money on rideshares, you can go back to the house between sets, and you walk home from the headliner without any coordination. For the full breakdown on where to stay during festival week, the <a href="/blog/where-to-stay-coachella/">Coachella accommodation guide</a> covers neighborhoods, timing, and what to book first.</p>
 
 <h3>Is Indio cheaper than Palm Springs for vacation rentals?</h3>
 <p>Generally yes, and significantly so for larger properties. A 3-bedroom with a private pool in Indio typically runs 30–50% less per night than a comparable space in Palm Springs. You're trading walkability and design prestige for space, outdoor room, and value. That's the right trade for most groups.</p>
@@ -303,7 +303,7 @@ layout: blog-post.njk
       "name": "What are the best vacation rentals in Indio near Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indian Palms Country Club is the strongest location — gated, residential, and 5 to 15 minutes from the Empire Polo Club by car. The Cozy Cactus (3BR, private pool, hot tub, game room) and Terra Luz (Cuban-inspired 3BR, saltwater pool, in-water loungers) are both in that neighborhood, sleep up to 8, and book direct at indigopalm.co without a service fee. The walk to the polo grounds via Eisenhower Drive is about 19 minutes."
+        "text": "Indian Palms Country Club is the strongest location: gated, residential, and 5 to 15 minutes from the Empire Polo Club by car. The Cozy Cactus (3BR, private pool, hot tub, game room) and Terra Luz (Cuban-inspired 3BR, saltwater pool, in-water loungers) are both in that neighborhood, sleep up to 8, and book direct at indigopalm.co without a service fee. The walk to the polo grounds via Eisenhower Drive is about 19 minutes."
       }
     },
     {
@@ -311,7 +311,7 @@ layout: blog-post.njk
       "name": "Is Indio worth visiting without a car?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Indio requires a car for everything — coffee, dinner, groceries, any activity. Palm Springs is walkable in a way almost nothing else in the desert is: you can park once and walk all day. If you're flying in without a rental and want to walk to things, Palm Springs is the clearer choice. If you have a car either way, the gap closes because Indio is only 30 minutes from Palm Springs' walkable core."
+        "text": "No. Indio requires a car for everything: coffee, dinner, groceries, any activity. Palm Springs is walkable in a way almost nothing else in the desert is: you can park once and walk all day. If you're flying in without a rental and want to walk to things, Palm Springs is the clearer choice. If you have a car either way, the gap closes because Indio is only 30 minutes from Palm Springs' walkable core."
       }
     }
   ]

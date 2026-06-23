@@ -46,7 +46,7 @@ relatedPosts:
 
 <h2>Why Indian Wells Hotels Disappoint</h2>
 
-<p>Indian Wells itself is a small city. The hotels near the venue are nice, and they price accordingly during tournament week, with rates that routinely hit $400-700 per night at anything decent. The proximity is real — some properties are walkable or a short rideshare to the garden. But the trade-offs add up.</p>
+<p>Indian Wells itself is a small city. The hotels near the venue are nice, and they price accordingly during tournament week, with rates that routinely hit $400-700 per night at anything decent. The proximity is real. Some properties are walkable or a short rideshare to the garden. But the trade-offs add up.</p>
 
 <p>Hotel pools are shared, which matters more than you'd think after a day in stadium seats under a March sun. Hotel kitchens are absent, which matters when stadium food costs $22 for a sandwich and you're there for a week. Hotel wifi is hotel wifi, which is a problem if you're trying to do any actual work between morning and evening sessions. And for groups, two or three hotel rooms at $500 each is a real number that doesn't work the same way a single vacation rental does.</p>
 
@@ -68,7 +68,7 @@ relatedPosts:
 
 <p>A few things that matter specifically for a tournament trip, in rough order of importance:</p>
 
-<p><strong>Fast, reliable wifi.</strong> If you're working remotely between sessions — which most people attending a week-long tournament are — bandwidth matters. Ask for a specific speed test result or look for it in reviews. "Good wifi" tells you nothing. 100+ Mbps is useful. Fiber is better. This is the one thing worth asking about directly before you book.</p>
+<p><strong>Fast, reliable wifi.</strong> If you're working remotely between sessions, which most people attending a week-long tournament are, bandwidth matters. Ask for a specific speed test result or look for it in reviews. "Good wifi" tells you nothing. 100+ Mbps is useful. Fiber is better. This is the one thing worth asking about directly before you book.</p>
 
 <p><strong>Heated pool.</strong> March desert nights drop to the low 50s. An unheated pool in March is an amenity on paper only. Confirm it's heated and ask what the startup process is. Some Indio properties require 24-48 hours of notice to heat the pool. Knowing that on day one saves a disappointing evening on day two.</p>
 
@@ -145,7 +145,7 @@ relatedPosts:
       "name": "What should I look for in a BNP Paribas Open rental?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Heated pool, fast wifi (ask for a specific speed test result — 100+ Mbps is useful), covered outdoor space, proximity to a grocery store, and a kitchen with real cooking capacity. A full refrigerator and counter space visible in listing photos tells you more than 'fully equipped kitchen' in the description. Confirm pool heating lead time before you arrive."
+        "text": "Heated pool, fast wifi (ask for a specific speed test result: 100+ Mbps is useful), covered outdoor space, proximity to a grocery store, and a kitchen with real cooking capacity. A full refrigerator and counter space visible in listing photos tells you more than 'fully equipped kitchen' in the description. Confirm pool heating lead time before you arrive."
       }
     },
     {
@@ -153,7 +153,7 @@ relatedPosts:
       "name": "When should I book for BNP Paribas Open 2027?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "By November 2026 for the best Indian Palms and Palm Springs properties. Tournament week fills some of the valley's most popular rentals before the calendar turns. The Cozy Cactus and Terra Luz take direct bookings at indigopalm.co, which removes the Airbnb service fee — meaningful savings on a week-long stay."
+        "text": "By November 2026 for the best Indian Palms and Palm Springs properties. Tournament week fills some of the valley's most popular rentals before the calendar turns. The Cozy Cactus and Terra Luz take direct bookings at indigopalm.co, which removes the Airbnb service fee, meaningful savings on a week-long stay."
       }
     },
     {
@@ -161,7 +161,7 @@ relatedPosts:
       "name": "Can I bring my dog to a vacation rental near the BNP Paribas Open?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, but dog-friendly inventory during tournament week is limited. Terra Luz in Indian Palms Country Club, about 20 minutes from the Indian Wells Tennis Garden, allows up to 2 dogs with a $150 pet fee and has a private backyard with a saltwater pool. Book early — pet-friendly rentals fill faster than standard properties during BNP Paribas week."
+        "text": "Yes, but dog-friendly inventory during tournament week is limited. Terra Luz in Indian Palms Country Club, about 20 minutes from the Indian Wells Tennis Garden, allows up to 2 dogs with a $150 pet fee and has a private backyard with a saltwater pool. Book early. Pet-friendly rentals fill faster than standard properties during BNP Paribas week."
       }
     },
     {

@@ -38,7 +38,7 @@ layout: blog-post.njk
 <h2>What you need</h2>
 
 <ul>
-  <li>4x <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a> with bamboo woven panel (sold in 2-packs, same finish — you need 2 packs)</li>
+  <li>4x <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a> with bamboo woven panel (sold in 2-packs, same finish, you need 2 packs)</li>
   <li>French cleat or Z-clip mounting hardware (one per door, or two per door for extra security)</li>
   <li>Level</li>
   <li>Drill + appropriate wall anchors for your wall type (drywall vs. stucco matters here)</li>
@@ -48,7 +48,7 @@ layout: blog-post.njk
 
 <p>The IVAR doors are $45 per 2-pack, so all four come in at $90. Hardware on top of that and you're still well under $200.</p>
 
-<img src="/blog/images/terra-luz-cali-room-before-empty.webp" alt="Cali Room at Terra Luz before the headboard was installed — bare white walls, terracotta Talavera tile floor, brass sconces, and sun wall art in Indio California" width="4032" height="3024" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-before-empty.webp" alt="Cali Room at Terra Luz before the headboard was installed, bare white walls, terracotta Talavera tile floor, brass sconces, and sun wall art in Indio California" width="4032" height="3024" loading="lazy">
 <p class="image-caption">The room before anything was installed. Tiles in, sconces wired, sun art on the wall. No bed, no headboard, no furniture yet.</p>
 
 <h2>The process, step by step</h2>
@@ -59,7 +59,7 @@ layout: blog-post.njk
 
 <p>Also tape the height. Too low and it reads like a floating shelf. Too high and it disconnects from the bed. Ours sits 3 inches above the mattress at the bottom edge, which keeps it clearly a headboard rather than wall art.</p>
 
-<img src="/blog/images/terra-luz-cali-room-before-mattress.webp" alt="King mattress delivered to the Cali Room at Terra Luz during renovation — Helix mattress on the floor with blue striped jute rug, no headboard yet, brass sconces and sun wall art on white wall" width="4032" height="3024" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-before-mattress.webp" alt="King mattress delivered to the Cali Room at Terra Luz during renovation, Helix mattress on the floor with blue striped jute rug, no headboard yet, brass sconces and sun wall art on white wall" width="4032" height="3024" loading="lazy">
 <p class="image-caption">Mattress day. The blue striped jute rug was already laid out, sconces were up. The headboard came later.</p>
 
 <h3>2. Mark your stud locations</h3>
@@ -87,7 +87,7 @@ layout: blog-post.njk
 
 <p>From across the room, the four panels read as one continuous rattan surface. The wood frames disappear, especially once you have pillows stacked against it. The texture is warm and natural, the color is a neutral blonde that works with literally any bedding palette, and nothing about it says IKEA. Guests regularly ask about the headboard. Nobody has ever guessed the source.</p>
 
-<p>The art print above it is mounted on the wall above the top panel edge, which means the headboard acts as a visual base for the art rather than competing with it. The whole wall composition — art, rattan, sconces, bed — came together as a unit because of that relationship.</p>
+<p>The art print above it is mounted on the wall above the top panel edge, which means the headboard acts as a visual base for the art rather than competing with it. The whole wall composition, art, rattan, sconces, bed, came together as a unit because of that relationship.</p>
 
 <h2>What I'd do differently</h2>
 
@@ -160,7 +160,7 @@ layout: blog-post.njk
 ## Frequently Asked Questions
 
 <h4>Which IKEA product do you actually use for this headboard?</h4>
-<p>The IKEA IVAR door with the bamboo woven panel insert, sold in 2-packs (item 10453072). You need two 2-packs for a king bed. Buy both packs from the same production run if possible so the bamboo color matches — there's subtle variation between batches.</p>
+<p>The IKEA IVAR door with the bamboo woven panel insert, sold in 2-packs (item 10453072). You need two 2-packs for a king bed. Buy both packs from the same production run if possible so the bamboo color matches. There's subtle variation between batches.</p>
 
 <h4>Does the headboard work on stucco walls, not just drywall?</h4>
 <p>Yes, with toggle bolts as a backup even where you hit studs. Stucco in older desert homes can crumble around a standard screw under sustained lateral load. Toggle bolts rated for 25 lbs per panel give you a secure installation that won't shift when pillows pile up against it.</p>
@@ -169,4 +169,4 @@ layout: blog-post.njk
 <p>Three panels cover about 51 inches, which is slightly wider than a queen mattress and works well with equal margins on each side. You'd buy one 2-pack and one additional single door if IKEA sells them separately in your region, or buy two 2-packs and save the fourth panel for a future project.</p>
 
 <h4>How long does the whole install take?</h4>
-<p>Two to three hours including the wall layout, finding studs, cutting and mounting cleats, and hanging all four panels. The layout and marking phase takes longer than most people expect — rushing it is where alignment errors happen. Budget a full afternoon if you're doing it solo. You can see the finished result in the Cali Room at <a href="/terra-luz/">Terra Luz</a>, bookable at indigopalm.co/terra-luz.</p>
+<p>Two to three hours including the wall layout, finding studs, cutting and mounting cleats, and hanging all four panels. The layout and marking phase takes longer than most people expect. Rushing it is where alignment errors happen. Budget a full afternoon if you're doing it solo. You can see the finished result in the Cali Room at <a href="/terra-luz/">Terra Luz</a>, bookable at indigopalm.co/terra-luz.</p>

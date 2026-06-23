@@ -188,7 +188,7 @@ layout: blog-post.njk
     },
     {
       "@type": "Question",
-      "name": "How far apart are Palm Springs and Indio — should I stay in one or split the trip?",
+      "name": "How far apart are Palm Springs and Indio: should I stay in one or split the trip?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "About 25 miles, 25-35 minutes by car. Pick one base for a short stay. Indio works better for festivals (Coachella, Stagecoach) and skips the commute problem. Palm Springs works better for walkable dining and midcentury architecture. You will need a car either way. The valley stretches 45 miles with no real city center in between, and gas stations are not evenly distributed across the stretch."
@@ -199,7 +199,7 @@ layout: blog-post.njk
       "name": "What do people forget to pack when visiting the desert for the first time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most people underpack sun protection (bring SPF 50+, a wide-brim hat, and UV-blocking sunglasses), forget a light jacket for evenings that drop to 55-65°F in spring, and bring thin-soled sandals that are miserable on 110-degree pavement. A real water bottle you'll carry throughout the day matters more than it sounds. The desert sun reflects off sand, pavement, and pool surfaces simultaneously — burns happen faster than expected."
+        "text": "Most people underpack sun protection (bring SPF 50+, a wide-brim hat, and UV-blocking sunglasses), forget a light jacket for evenings that drop to 55-65°F in spring, and bring thin-soled sandals that are miserable on 110-degree pavement. A real water bottle you'll carry throughout the day matters more than it sounds. The desert sun reflects off sand, pavement, and pool surfaces simultaneously. Burns happen faster than expected."
       }
     },
     {

@@ -159,7 +159,7 @@ layout: blog-post.njk
       "name": "Can Airbnb hosts legally ask you to book direct?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not through Airbnb's platform — their terms prohibit soliciting off-platform bookings in messages or listings. Hosts can maintain a separate public website under their own brand. Guests who find the property name independently and book through that site aren't violating any rules. Established multi-property operators are the most likely to have this set up."
+        "text": "Not through Airbnb's platform. Their terms prohibit soliciting off-platform bookings in messages or listings. Hosts can maintain a separate public website under their own brand. Guests who find the property name independently and book through that site aren't violating any rules. Established multi-property operators are the most likely to have this set up."
       }
     },
     {

@@ -86,7 +86,7 @@ layout: blog-post.njk
 
 <p>It ran from February to May 2026. Dawn's photo shoot is May 14, first guests check in May 21.</p>
 
-<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, walking distance to Empire Polo Club — about 1.5 miles on foot (19 minutes via Eisenhower Drive) to the Coachella and Stagecoach festival grounds. The full design story behind the brand identity is in the <a href="/blog/terra-luz-origin-story/">Terra Luz origin story</a>. For the honest guest take on what the finished property is like to stay in, see the <a href="/blog/terra-luz-review/">Terra Luz review</a>.</p>
+<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, walking distance to Empire Polo Club, about 1.5 miles on foot (19 minutes via Eisenhower Drive) to the Coachella and Stagecoach festival grounds. The full design story behind the brand identity is in the <a href="/blog/terra-luz-origin-story/">Terra Luz origin story</a>. For the honest guest take on what the finished property is like to stay in, see the <a href="/blog/terra-luz-review/">Terra Luz review</a>.</p>
 
 <h2>FAQ: Terra Luz Renovation</h2>
 
@@ -131,7 +131,7 @@ layout: blog-post.njk
       "name": "What is the Wild Tropics wallpaper in the second bedroom?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A floor-to-ceiling tropical print from Rebel Walls in blue, 57 feet wide across all four walls. Matte paste-on, installed over two days. The tile headboard uses Merola Manises Decor tiles in a terracotta and blue-white pattern mounted on plywood — the most photographed room in the house."
+        "text": "A floor-to-ceiling tropical print from Rebel Walls in blue, 57 feet wide across all four walls. Matte paste-on, installed over two days. The tile headboard uses Merola Manises Decor tiles in a terracotta and blue-white pattern mounted on plywood. It's the most photographed room in the house."
       }
     },
     {
@@ -177,4 +177,4 @@ layout: blog-post.njk
 <p>Bigger than the photos suggest. The patio is 1,148 square feet, which makes it larger than most of the interior living space. The pool deck was resurfaced with a cooling overlay in a lace finish called Orange Flambé that runs 20 to 30 degrees cooler than standard concrete on hot days. Antigua wicker rocking chairs line the back wall, there are in-pool loungers under a Desert Marigold umbrella, and an outdoor projector is mounted to the pergola for movies. The concrete fire pit coffee table from Neighbor works as a low table when the fire isn't on. See the full renovation breakdown at <a href="https://indigopalm.co/blog/terra-luz-renovation-story/">indigopalm.co</a>.</p>
 
 <h4>Is the Latin/Cuban design aesthetic at Terra Luz boho?</h4>
-<p>No, and the distinction matters. Brand architect Dawn Asher at The Olive Jar made this explicit from the start: Latin/Cuban and boho both use rattan and warm tones, but boho is eclectic and maximalist while the direction at Terra Luz was more specific — Old Havana patina, wabi-sabi warmth, materials that feel collected and lived-in rather than assembled from a mood board. Every furniture and finish decision ran through six brand filters: cocooned and soothing, vibrant and rejuvenating, cultured, rhythmic, effortless ease, grounded. The result holds together in a way that generic boho rentals usually don't.</p>
+<p>No, and the distinction matters. Brand architect Dawn Asher at The Olive Jar made this explicit from the start: Latin/Cuban and boho both use rattan and warm tones, but boho is eclectic and maximalist while the direction at Terra Luz was more specific: Old Havana patina, wabi-sabi warmth, materials that feel collected and lived-in rather than assembled from a mood board. Every furniture and finish decision ran through six brand filters: cocooned and soothing, vibrant and rejuvenating, cultured, rhythmic, effortless ease, grounded. The result holds together in a way that generic boho rentals usually don't.</p>

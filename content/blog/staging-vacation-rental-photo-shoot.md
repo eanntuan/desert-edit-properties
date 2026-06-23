@@ -182,7 +182,7 @@ layout: blog-post.njk
       "name": "How is staging for a photo shoot different from staging for guests?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Guest staging optimizes for comfort and function. Photo staging optimizes for how a room reads through a wide-angle lens. Operational clutter guests overlook — a visible router, power strip along the baseboard, cleaning supplies on the counter — is the first thing a camera finds. Photo staging also uses temporary props that suggest habitation without actual clutter."
+        "text": "Guest staging optimizes for comfort and function. Photo staging optimizes for how a room reads through a wide-angle lens. Operational clutter guests overlook, a visible router, power strip along the baseboard, cleaning supplies on the counter, is the first thing a camera finds. Photo staging also uses temporary props that suggest habitation without actual clutter."
       }
     },
     {
@@ -209,11 +209,11 @@ layout: blog-post.njk
 
 
 <h4>How is staging for a photo shoot different from staging for guests?</h4>
-<p>Guest staging optimizes for comfort and function. Photo staging optimizes for how a room reads through a wide-angle lens from a doorway, and those goals conflict more than most hosts expect. Operational clutter that guests overlook — a visible router, a power strip along the baseboard, extra cleaning supplies on the counter — is the first thing a camera finds. Photo staging also uses temporary props (a half-read book, a set table, fresh flowers) that suggest habitation without the mess of actual habitation. Once the shoot is done, some of those things go away.</p>
+<p>Guest staging optimizes for comfort and function. Photo staging optimizes for how a room reads through a wide-angle lens from a doorway, and those goals conflict more than most hosts expect. Operational clutter that guests overlook, a visible router, a power strip along the baseboard, extra cleaning supplies on the counter, is the first thing a camera finds. Photo staging also uses temporary props (a half-read book, a set table, fresh flowers) that suggest habitation without the mess of actual habitation. Once the shoot is done, some of those things go away.</p>
 
 <h4>Should I turn lights on or off during a vacation rental photo shoot?</h4>
 <p>Turn every lamp on. Overhead lights are optional depending on your photographer's preference, but lamps add warmth and depth that a room without them reads as flat and staged in the wrong way. Arrive 30 to 45 minutes before the photographer to do this reset, open every blind, and adjust anything that shifted overnight. Natural light and lamp light together give the photographer the most to work with. See the full morning-of checklist at <a href="https://indigopalm.co/blog/staging-vacation-rental-photo-shoot/">indigopalm.co/blog/staging-vacation-rental-photo-shoot/</a>.</p>
 
 <h4>How do you stage an outdoor space for vacation rental photography?</h4>
-<p>Treat the outdoor area as its own vignette, not an afterthought. Arrange furniture deliberately — chairs angled slightly toward each other rather than pushed flat against a wall, a centerpiece on the table (citrus bowl, small plant, candle), and cushions on every seat even if you usually store them. Clear the deck of everything that isn't in the shot: hoses, pool chemicals, extra towels. If there's a pool, net it the morning of the shoot and confirm no leaves are floating. The pool or outdoor space is usually the hero image that stops the scroll, so everything in staging flows outward from there.</p>
+<p>Treat the outdoor area as its own vignette, not an afterthought. Arrange furniture deliberately: chairs angled slightly toward each other rather than pushed flat against a wall, a centerpiece on the table (citrus bowl, small plant, candle), and cushions on every seat even if you usually store them. Clear the deck of everything that isn't in the shot: hoses, pool chemicals, extra towels. If there's a pool, net it the morning of the shoot and confirm no leaves are floating. The pool or outdoor space is usually the hero image that stops the scroll, so everything in staging flows outward from there.</p>
 

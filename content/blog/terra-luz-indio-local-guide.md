@@ -78,7 +78,7 @@ layout: blog-post.njk
 
 <h3>Joshua Tree (Day Trip)</h3>
 
-<p>About 40 minutes northeast of Indio. Worth a full day if the group is up for it: the drive into the park, a short hike, lunch in Joshua Tree town on the way back. <a href="/blog/joshua-tree-day-trip-from-indio/">I wrote a full day trip guide here</a> with route and timing. Desert season matters — early morning entry in the summer, more flexibility in spring and fall.</p>
+<p>About 40 minutes northeast of Indio. Worth a full day if the group is up for it: the drive into the park, a short hike, lunch in Joshua Tree town on the way back. <a href="/blog/joshua-tree-day-trip-from-indio/">I wrote a full day trip guide here</a> with route and timing. Desert season matters. Early morning entry in the summer, more flexibility in spring and fall.</p>
 
 <h3>Salton Sea (Short Drive)</h3>
 
@@ -110,7 +110,7 @@ layout: blog-post.njk
 
 <h2>Getting Around</h2>
 
-<p>You need a car. There's no getting around this. Indio doesn't have the walkability of downtown Palm Springs or the density to make rideshare reliable. The drive from Terra Luz to most things on this list is 10 to 30 minutes. Keep that in mind when planning the day and account for heat — the desert afternoon in summer is not the time to be running errands.</p>
+<p>You need a car. There's no getting around this. Indio doesn't have the walkability of downtown Palm Springs or the density to make rideshare reliable. The drive from Terra Luz to most things on this list is 10 to 30 minutes. Keep that in mind when planning the day and account for heat. The desert afternoon in summer is not the time to be running errands.</p>
 
 <p>Uber and Lyft do work in the area, especially for festival weekend use when surge pricing is real and parking is a problem. For Coachella/Stagecoach specifically: book rides in advance, plan for long wait times, and know that the golf cart option within Indian Palms is not a joke.</p>
 

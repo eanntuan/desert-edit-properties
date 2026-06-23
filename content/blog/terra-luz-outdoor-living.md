@@ -35,11 +35,11 @@ layout: blog-post.njk
 
 <p>The color shifts through the day. At noon it's electric. By late afternoon it goes warm and a little purple. At night with the pool light on it looks like something from a film set in Havana in 1958. The terracotta deck around it is warm enough that the two colors fight each other in the best way, and the Talavera tile border along the pool edge ties back to the same tile we used on the kitchen backsplash inside.</p>
 
-<p>In-pool loungers are built into the shallow end. Not floats, not inflatables — permanent built-in ledge seating that puts you horizontal in the water with zero effort. In 108-degree heat, this is not a luxury. It's the point of the pool.</p>
+<p>In-pool loungers are built into the shallow end. Not floats, not inflatables. Permanent built-in ledge seating that puts you horizontal in the water with zero effort. In 108-degree heat, this is not a luxury. It's the point of the pool.</p>
 
 <h2>Color drenching the exterior: Orange Flambé</h2>
 
-<p>The block wall that wraps the backyard was beige. Not bad beige, just nothing beige. And the whole point of the outdoor space was that it should feel like an extension of the interior — the same warmth, the same deliberateness — not a place where the design stopped at the sliding door.</p>
+<p>The block wall that wraps the backyard was beige. Not bad beige, just nothing beige. And the whole point of the outdoor space was that it should feel like an extension of the interior, the same warmth, the same deliberateness, not a place where the design stopped at the sliding door.</p>
 
 <p>Dawn pushed for a full color drench on the exterior wall. Meaning: not an accent, not a trim detail, the whole surface saturated in one bold color. The idea was that the orange-terracotta family inside the house (tile, pillows, the terracotta deck) would bleed outward. You'd stand in the living room and look through the glass doors and see the exterior wall and feel like you were still inside the same palette.</p>
 
@@ -53,7 +53,7 @@ layout: blog-post.njk
 
 <p>The original backyard was open on the far side. You could see into the neighbors' yard. It wasn't bad, exactly, but it made the whole space feel like a yard rather than a room. A yard is somewhere you pass through. A room is somewhere you stay.</p>
 
-<p>We built a horizontal wood slat fence along the back perimeter. Cedar, stained a warm walnut, with the slats spaced just wide enough to let air through but close enough to give full visual privacy from both sides. The transformation was immediate and total. The fence stopped the eye, closed the space, and created a backdrop that the rest of the furniture could read against. The two wire rattan chairs on the far side of the pool — the ones that face nothing but water and the fence — exist because of that fence. Without it they'd float. Against it they anchor.</p>
+<p>We built a horizontal wood slat fence along the back perimeter. Cedar, stained a warm walnut, with the slats spaced just wide enough to let air through but close enough to give full visual privacy from both sides. The transformation was immediate and total. The fence stopped the eye, closed the space, and created a backdrop that the rest of the furniture could read against. The two wire rattan chairs on the far side of the pool, the ones that face nothing but water and the fence, exist because of that fence. Without it they'd float. Against it they anchor.</p>
 
 <p>The fence also holds the string lights. The lights run from the house eave to the top of the fence on both sides, creating a canopy effect over the pool. At night, with the pool light on and the string lights overhead, it's one of the best-looking outdoor spaces I've seen in Indio at any price point.</p>
 
@@ -62,7 +62,7 @@ layout: blog-post.njk
 
 <h2>The patio and outdoor kitchen</h2>
 
-<p>The patio runs the full length of the back of the house under the pergola, shaded from overhead, open on the pool side. String lights from the pergola to the fence span the full space. The outdoor sectional is teak with white cushions, dressed with Business and Pleasure pillows in blue, navy, and mixed pattern — the same color palette as the pool and the fence, which was not an accident.</p>
+<p>The patio runs the full length of the back of the house under the pergola, shaded from overhead, open on the pool side. String lights from the pergola to the fence span the full space. The outdoor sectional is teak with white cushions, dressed with Business and Pleasure pillows in blue, navy, and mixed pattern. The same color palette as the pool and the fence, which was not an accident.</p>
 
 <p>The grill is positioned directly behind the sectional against the terracotta brick wall. The round wood coffee table in front of the sofa and the brass garden stool to one side keep the layout from feeling too formal. It's set up so the person cooking and the people sitting are in the same conversation. Nobody's isolated at the grill while everyone else is poolside.</p>
 
@@ -88,7 +88,7 @@ layout: blog-post.njk
 
 <h2>The full picture</h2>
 
-<p>The outdoor space is what makes Terra Luz work for the groups that book it: friend groups, bachelorette trips, festival weekends, milestone birthdays. A pool alone doesn't make you want to stay outside all day. A pool plus shade plus seating plus a working grill plus a space that feels intentional — that does it. The design decisions are all pointing at the same thing: make it easy to stay.</p>
+<p>The outdoor space is what makes Terra Luz work for the groups that book it: friend groups, bachelorette trips, festival weekends, milestone birthdays. A pool alone doesn't make you want to stay outside all day. A pool plus shade plus seating plus a working grill plus a space that feels intentional. That does it. The design decisions are all pointing at the same thing: make it easy to stay.</p>
 
 <p>For the inside of the house, the three bedrooms each have their own story. The <a href="/blog/terra-luz-wild-tropics-bedroom/">Wild Tropics bedroom</a> is the boldest room in the house. The <a href="/blog/terra-luz-cali-room-bedroom/">Cali Room</a> is the most flexible. The full amenity breakdown is at <a href="/blog/terra-luz-what-i-built/">what I built at Terra Luz</a>. Book direct at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
 

@@ -191,7 +191,7 @@ layout: blog-post.njk
       "name": "Where should I stay if I'm splitting time between Palm Springs and Coachella or Stagecoach?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indio is the practical base for festival trips, cutting your drive to the polo grounds to minutes instead of 30-plus from downtown Palm Springs. Indigo Palm has properties in Indio and a Palm Springs condo for split itineraries — see indigopalm.co."
+        "text": "Indio is the practical base for festival trips, cutting your drive to the polo grounds to minutes instead of 30-plus from downtown Palm Springs. Indigo Palm has properties in Indio and a Palm Springs condo for split itineraries: see indigopalm.co."
       }
     }
   ]

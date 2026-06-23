@@ -186,7 +186,7 @@ The CV Link's Palm Springs segment runs along the eastern edge of the city. The 
       "name": "What are the best running trails in Palm Springs for someone visiting for the first time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "South Lykken Trail is the best starting point: a 2-mile loop with 324 feet of gain and valley views from the first quarter mile. The trailhead is at the end of Mesquite Avenue near Downtown Palm Springs. For a flat alternative, the CV Link is 4.6 miles, paved, and dog-friendly. The most common mistake is timing — run before 8am and bring more water than you think you need. More routes at indigopalm.co/blog/palm-springs-running-trails/"
+        "text": "South Lykken Trail is the best starting point: a 2-mile loop with 324 feet of gain and valley views from the first quarter mile. The trailhead is at the end of Mesquite Avenue near Downtown Palm Springs. For a flat alternative, the CV Link is 4.6 miles, paved, and dog-friendly. The most common mistake is timing: run before 8am and bring more water than you think you need. More routes at indigopalm.co/blog/palm-springs-running-trails/"
       }
     },
     {
@@ -202,7 +202,7 @@ The CV Link's Palm Springs segment runs along the eastern edge of the city. The 
       "name": "How early do I need to run in Palm Springs to avoid the heat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Before 8am in spring and fall, before 7am in summer. The dry air evaporates sweat almost immediately, so you feel less depleted than you are — dehydration builds fast without obvious warning signs. Electrolytes matter on anything over 45 minutes. The shaded canyon trails like Murray Canyon and Palm Canyon stay cooler in the early window than open mountain trails."
+        "text": "Before 8am in spring and fall, before 7am in summer. The dry air evaporates sweat almost immediately, so you feel less depleted than you are, and dehydration builds fast without obvious warning signs. Electrolytes matter on anything over 45 minutes. The shaded canyon trails like Murray Canyon and Palm Canyon stay cooler in the early window than open mountain trails."
       }
     },
     {
@@ -210,7 +210,7 @@ The CV Link's Palm Springs segment runs along the eastern edge of the city. The 
       "name": "Is the Museum Trail in Palm Springs actually hard?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. At 833 feet of gain over 1.6 miles, it's the steepest trail in Palm Springs proper by a significant margin. Most people run the lower section and hike the upper switchbacks. The trailhead is near the Palm Springs Art Museum. Despite the short distance, bring water and respect the grade — do not treat it as a casual 1.6-mile run."
+        "text": "Yes. At 833 feet of gain over 1.6 miles, it's the steepest trail in Palm Springs proper by a significant margin. Most people run the lower section and hike the upper switchbacks. The trailhead is near the Palm Springs Art Museum. Despite the short distance, bring water and respect the grade. Do not treat it as a casual 1.6-mile run."
       }
     },
     {

@@ -48,7 +48,7 @@ layout: blog-post.njk
 <p>The covered patio runs the full length of the back of the house. String lights overhead, an outdoor dining table that seats eight, and a sectional that faces the pool. West Elm outdoor furniture, Business and Pleasure throw pillows. It's set up for spending a full day outside without going back in except to use the bathroom. Evenings shift naturally here: guests gather around the fire pit for casual meals, grilled dinners, or order-in from local favorites like Desert Beer pizza. After dark with the inflatable movie screen up, pool lit, fire going, the patio becomes its own world. There's a curated watchlist in the house guide if you want it, nods to world travel like Casablanca or Buena Vista Social Club, and family flicks like Coco and Encanto that are genuinely fun for adults too.</p>
 
 <img src="/blog/images/terra-luz-patio-full.webp" alt="Terra Luz covered patio in Indio California with outdoor dining, sectional seating, and pool view" width="1024" height="683" loading="lazy">
-<p class="image-caption">The patio. Outdoor curfew per city ordinance is 10pm — after that, the party moves inside.</p>
+<p class="image-caption">The patio. Outdoor curfew per city ordinance is 10pm. After that, the party moves inside.</p>
 
 <p>The outdoor kitchen has a gas grill, a prep counter, and a bar-height eating ledge along one side. If your group wants to cook outside every night, you can. If you want to use the indoor kitchen and bring plates out, the kitchen window makes that easy, turning both the breakfast nook and the patio into one continuous gathering space.</p>
 
@@ -174,7 +174,7 @@ layout: blog-post.njk
       "name": "How many guests does Terra Luz sleep?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Up to eight guests across three bedrooms: a king primary suite with twin daybed and pull-out trundle, a king Wild Tropics room, and the Cali Room with a king plus pull-out trundle. Two full bathrooms. Four parking spots total — two in the garage, two in the driveway."
+        "text": "Up to eight guests across three bedrooms: a king primary suite with twin daybed and pull-out trundle, a king Wild Tropics room, and the Cali Room with a king plus pull-out trundle. Two full bathrooms. Four parking spots total: two in the garage, two in the driveway."
       }
     },
     {
@@ -198,7 +198,7 @@ layout: blog-post.njk
       "name": "What's the outdoor curfew at Terra Luz?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "10pm per Indio city noise ordinance. Outdoor music and entertaining must wrap at 10. After curfew, the party moves inside — Terra Luz has an inflatable movie screen and indoor seating for the full group."
+        "text": "10pm per Indio city noise ordinance. Outdoor music and entertaining must wrap at 10. After curfew, the party moves inside. Terra Luz has an inflatable movie screen and indoor seating for the full group."
       }
     },
     {
@@ -214,7 +214,7 @@ layout: blog-post.njk
       "name": "What's the check-in and check-out time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Check-in is at 4pm, check-out at 10am. Early check-in is available when the calendar allows — ask at least 48 hours in advance."
+        "text": "Check-in is at 4pm, check-out at 10am. Early check-in is available when the calendar allows. Ask at least 48 hours in advance."
       }
     },
     {

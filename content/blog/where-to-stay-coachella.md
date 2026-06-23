@@ -104,7 +104,7 @@ layout: blog-post.njk
 
 <p>Vacation rentals here are priced by the home, not per person. For a group of six to eight splitting a three-bedroom house, the per-person cost often comes in below what a hotel room costs per person, with a full kitchen, private pool, and covered outdoor space. Those are the things that actually matter over a three-day festival in the desert. Both <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are in Indian Palms, sleeping 8 with private pools.</p>
 
-<p>The catch is booking timing. Good properties in Indian Palms are typically gone by November or December for the following April. For Coachella 2027, that means the window to book is now — October to December 2026 is when the walkable Indian Palms inventory gets claimed. If you're reading this after January 2027, availability will be limited.</p>
+<p>The catch is booking timing. Good properties in Indian Palms are typically gone by November or December for the following April. For Coachella 2027, that means the window to book is now: October to December 2026 is when the walkable Indian Palms inventory gets claimed. If you're reading this after January 2027, availability will be limited.</p>
 
 <p>The <a href="/blog/indian-palms-vacation-rental/">Indian Palms vacation rental guide</a> has more detail on what the neighborhood is like, how the walk to the grounds actually works, and what to look for when booking in this community specifically.</p>
 
@@ -194,7 +194,7 @@ layout: blog-post.njk
       "name": "How far in advance should I book a Coachella rental?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Six to nine months out is the safe window for Indian Palms properties with private pools and walking distance to the grounds — October or November for the following April. By January, most of the good options are gone. Properties further from the grounds stay available longer but come with the commute trade-off built in."
+        "text": "Six to nine months out is the safe window for Indian Palms properties with private pools and walking distance to the grounds, so October or November for the following April. By January, most of the good options are gone. Properties further from the grounds stay available longer but come with the commute trade-off built in."
       }
     },
     {
@@ -266,6 +266,6 @@ layout: blog-post.njk
 
 <div style="background: #fff8e7; border-left: 3px solid #B67550; padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: 0 6px 6px 0;">
 <p style="margin-top: 0;"><strong>Book direct and skip Airbnb's 20% service fee.</strong> Same Superhost homes, direct contact with us, no platform markup.</p>
-<p><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a> — 3BR/2BA, sleeps 8, private hot tub, game room, community pool<br><a href="/terra-luz/"><strong>Terra Luz</strong></a> — 3BR/2BA, sleeps 8, private saltwater pool, dog-friendly, Cuban-inspired design</p>
-<p style="margin-bottom: 0;">Both are in Indian Palms, Indio — walking distance to the Empire Polo Club.</p>
+<p><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a>: 3BR/2BA, sleeps 8, private hot tub, game room, community pool<br><a href="/terra-luz/"><strong>Terra Luz</strong></a>: 3BR/2BA, sleeps 8, private saltwater pool, dog-friendly, Cuban-inspired design</p>
+<p style="margin-bottom: 0;">Both are in Indian Palms, Indio, walking distance to the Empire Polo Club.</p>
 </div>
