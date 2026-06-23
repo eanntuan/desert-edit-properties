@@ -177,35 +177,40 @@
     }
 
     /* ── WELCOME CARD ── */
+    .host-intro-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+    .host-avatar-lg {
+      width: 130px;
+      height: 130px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: center top;
+      border: 4px solid #fff;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+      position: relative;
+      z-index: 1;
+      margin-bottom: -65px;
+    }
     .host-card {
       background: var(--apricot);
       color: var(--text);
       border-radius: 12px;
-      padding: 28px 24px;
-      margin-bottom: 24px;
+      padding: 80px 24px 28px;
+      width: 100%;
+      box-sizing: border-box;
     }
     .host-card p { font-size: 0.95rem; line-height: 1.8; margin-bottom: 14px; }
     .host-card p:last-child { margin-bottom: 0; }
-    .host-sig-row {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      margin-top: 20px;
-    }
-    .host-avatar {
-      width: 72px;
-      height: 72px;
-      border-radius: 50%;
-      object-fit: cover;
-      object-position: center top;
-      flex-shrink: 0;
-      border: 2px solid var(--terra-dark);
-    }
     .host-sig {
       font-family: 'Cormorant Garamond', serif;
       font-size: 1.6rem;
       font-weight: 400;
       color: var(--terra-dark);
+      margin-top: 20px;
       display: block;
     }
 
@@ -781,13 +786,13 @@
 
     <div class="content">
 
-      <div class="host-card">
-        <p>My name is Eann. I passed on a Tesla to do this, which tells you something about my decision-making, but I haven't regretted it once.</p>
-        <p>I surf most mornings before I open the laptop. The Sundune is built for the same kind of trip: move during the day, wander without a plan, be somewhere comfortable by evening. That's about as structured as it needs to get.</p>
-        <p>Use the explore tab. Everything in there I'd actually send a friend, not a list I padded for appearances. Come back before dark and the balcony does the rest.</p>
-        <p>Text me if something's off. I hope you find your version of the stoke out here.</p>
-        <div class="host-sig-row">
-          <img src="host-eann.webp" alt="Eann, your host at The Sundune" class="host-avatar" loading="lazy" width="72" height="72">
+      <div class="host-intro-wrap">
+        <img src="host-eann.webp" alt="Eann, your host at The Sundune" class="host-avatar-lg" loading="eager" width="130" height="130">
+        <div class="host-card">
+          <p>My name is Eann. I passed on a Tesla to do this, which tells you something about my decision-making, but I haven't regretted it once.</p>
+          <p>I surf most mornings before I open the laptop. The Sundune is built for the same kind of trip: move during the day, wander without a plan, be somewhere comfortable by evening. That's about as structured as it needs to get.</p>
+          <p>Use the explore tab. Everything in there I'd actually send a friend, not a list I padded for appearances. Come back before dark and the balcony does the rest.</p>
+          <p>Text me if something's off. I hope you find your version of the stoke out here.</p>
           <span class="host-sig">Eann</span>
         </div>
       </div>
