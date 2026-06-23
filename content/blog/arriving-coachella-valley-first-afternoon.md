@@ -28,11 +28,13 @@ layout: blog-post.njk
 
 <p>Don't skip this. The single best thing you can do in the first hour is stock the kitchen so tomorrow morning isn't a scramble. Tired guests who skip the grocery run end up paying $28 for breakfast at a resort restaurant. That's fine once. It's not fine every day.</p>
 
-<p>If you're staying in Indio (near the Terra Luz or Cozy Cactus side of the valley), <strong>Stater Bros on Monroe Street</strong> is your fastest option, about eight minutes from the Indian Palms neighborhood. It covers everything. For a better wine selection or actual produce, <strong>Whole Foods in Palm Desert</strong> is worth the extra twenty minutes, especially if you're stocking up for a longer stay.</p>
+<p>If you're staying in Indio (near the Terra Luz or Cozy Cactus side of the valley), <strong>Stater Bros on Monroe Street</strong> is your fastest option, about eight minutes from the Indian Palms neighborhood. It covers everything. For a better wine selection or actual produce, <a href="https://maps.app.goo.gl/ZWbpUaRrLguj6Rw28" target="_blank" rel="noopener noreferrer"><strong>Whole Foods in Palm Desert</strong></a> is worth the extra twenty minutes, especially if you're stocking up for a longer stay.</p>
 
 <p>If you're in Palm Springs, <strong>Trader Joe's on East Palm Canyon Drive</strong> is the move for most things. Ralphs is nearby and open late if you forget something at 10pm.</p>
 
 <p>Buy more than you think you need. You will eat at the house more than you planned.</p>
+
+<img src="/blog/images/terra-luz-outdoor-kitchen-drinks.webp" alt="Topo Chico margarita bottles and watermelon on the outdoor kitchen counter at Terra Luz in Indio" width="1600" height="1067" loading="lazy" decoding="async">
 
 <img src="/blog/images/terra-luz-kitchen-hero.webp" alt="Kitchen at Terra Luz vacation rental in Indio CA, with open shelving and warm wood tones" width="4800" height="3200" loading="lazy" decoding="async">
 <p class="image-caption">A stocked kitchen makes every morning better. Spend the twenty minutes.</p>
@@ -44,6 +46,8 @@ layout: blog-post.njk
 <p>The water will be warm. The sun from 11am to 4pm will be brutal. Getting in is fine; the getting out part, standing on a deck that's been absorbing heat for six hours, is not. The sweet spot is 5:30pm onward, once the sun drops behind the fence line and the air starts to shift. By 7 or 8pm, the pool is genuinely perfect and you'll end up staying out until you didn't mean to.</p>
 
 <p>If you arrive in the afternoon during summer, unpack, get the groceries, and wait. The pool isn't going anywhere.</p>
+
+<img src="/blog/images/terra-luz-pool-umbrella.webp" alt="Terra Luz pool at dusk with blue striped umbrella, white Adirondack chairs, and string lights under a pergola" width="1600" height="1067" loading="lazy" decoding="async">
 
 <img src="/blog/images/terra-luz-outdoor-patio.webp" alt="Covered outdoor patio at Terra Luz with terracotta walls and string lights at evening" width="4800" height="3200" loading="lazy" decoding="async">
 <p class="image-caption">The outdoor hours in the Coachella Valley belong to early morning and evening. Everything in between is optional.</p>
