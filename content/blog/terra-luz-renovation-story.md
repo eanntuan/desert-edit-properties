@@ -30,7 +30,7 @@ layout: blog-post.njk
 
 <h2>The Brief: Latin/Cuban, Not Boho</h2>
 
-<p>I worked with Dawn Asher at <a href="https://theolivejar.co" target="_blank" rel="noopener noreferrer"><strong>The Olive Jar</strong></a> on the brand from the beginning. The thing she said early that actually changed everything: "Latin/Cuban is not boho." Both use rattan and warm tones, but boho is eclectic and maximalist, and what we were going for had more intention behind it. Old Havana patina. Wabi-sabi warmth. Materials that feel collected and lived-in, not assembled from a mood board.</p>
+<p>I worked with Dawn Asher at <a href="https://theolivejar.co" target="_blank" rel="noopener noreferrer"><strong>The Olive Jar</strong></a> on the brand from the beginning. The thing she said early that changed everything: "Latin/Cuban is not boho." Both use rattan and warm tones, but boho is eclectic and maximalist, and what we were going for had more intention behind it. Old Havana patina. Wabi-sabi warmth. Materials that feel collected and lived-in, not assembled from a mood board.</p>
 
 <p>She set six brand filters for every decision: cocooned and soothing, vibrant and rejuvenating, cultured, rhythmic, effortless ease, grounded. Every furniture piece, paint color, and tile choice had to pass at least five of those six. Shopping gets slower when you're running everything through a filter, but you end up with rooms that actually hold together.</p>
 

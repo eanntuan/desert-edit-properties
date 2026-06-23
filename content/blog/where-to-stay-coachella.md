@@ -70,7 +70,7 @@ layout: blog-post.njk
 
 <p>The people who love Coachella camping describe it as a community experience you can't replicate from a hotel room, and they're right. At 2am when the sets end, the campsite has its own energy. If you've never done it, I get the appeal.</p>
 
-<p>Here's the thing though: sleep quality is poor, the dust accumulates in a way that surprises first-timers, and car camping runs roughly $149 per person before fees, before you add gear costs. It sells out months before the festival. If this is your first Coachella and you're not certain you can function on four broken hours in a field, book something with a bed and come back to camping when you know you want it.</p>
+<p>Here's the thing though: sleep quality is poor, the dust accumulates in a way that surprises first-timers, and car camping runs roughly $149 per person before fees, sells out months ahead, and once you add gear costs the per-person math shifts. If this is your first Coachella and you're not certain you can function on four broken hours in a field, book something with a bed and come back to camping when you know you want it.</p>
 
 <p><strong>Good for:</strong> people who want full immersion regardless of comfort, groups of friends in their 20s who can recover on nothing, anyone who has done it before and already knows what they're signing up for.</p>
 

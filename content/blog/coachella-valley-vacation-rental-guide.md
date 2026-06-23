@@ -102,7 +102,7 @@ layout: blog-post.njk
 
 <h2>Putting It Together</h2>
 
-<p>The rental that actually works is the one with a private heated pool, an address that's close to what you're doing, an honest total price when you run the full fee math, reviews that hold up across the whole year, and a host who answers questions in under a few hours. You'd think all five would be standard. They are not.</p>
+<p>The rental that delivers is the one with a private heated pool, an address that's close to what you're doing, an honest total price when you run the full fee math, reviews that hold up across the whole year, and a host who answers questions in under a few hours. You'd think all five would be standard. They are not.</p>
 
 <p>A little research before you book saves a lot of frustration once you're there, and none of these checks take more than ten minutes total.</p>
 

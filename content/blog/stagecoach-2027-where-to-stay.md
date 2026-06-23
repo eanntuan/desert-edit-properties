@@ -107,7 +107,7 @@ relatedPosts:
 
 <p>And if you want the full comparison between festival accommodation options, the <a href="/blog/where-to-stay-coachella/">Coachella accommodation guide</a> covers the same tradeoffs in detail. Most of it applies equally to Stagecoach.</p>
 
-<h2>Coachella vs. Stagecoach: What Actually Changes</h2>
+<h2>Coachella vs. Stagecoach: What Changes</h2>
 
 <p>They share the same grounds, the same desert heat, the same Indian Palms neighborhood walking distance advantage. But the crowds are different in ways that matter for planning.</p>
 

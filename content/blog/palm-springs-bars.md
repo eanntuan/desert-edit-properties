@@ -102,7 +102,7 @@ layout: blog-post.njk
 <h3>Hunters</h3>
 <p><strong>302 E Arenas Rd, Palm Springs | 760-323-0700 | <a href="https://hunterspalmsprings.com/" target="_blank" rel="noopener">hunterspalmsprings.com</a></strong></p>
 
-<p>Hunters has been on Arenas Road since 1998. Dance floor, themed parties, open daily until 2am. Friday and Saturday nights the dance floor fills early. The energy is inclusive and high but not exclusive or intimidating. Monday Latin Fever drag show starts at 10pm.</p>
+<p>Hunters has been on Arenas Road since 1998. Dance floor, themed parties, open daily until 2am. Friday and Saturday nights the dance floor fills early. The floor fills early, the themes are campy and committed, and nobody checks who you came with at the door. Monday Latin Fever drag show starts at 10pm.</p>
 
 <p>One of the consistently recommended stops for first-time Palm Springs visitors alongside Toucans.</p>
 

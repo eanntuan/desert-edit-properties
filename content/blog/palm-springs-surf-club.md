@@ -115,7 +115,7 @@ layout: blog-post.njk
 
 <h2>Honest Take</h2>
 
-<p>It's genuinely cool. The concept is absurd on paper and it works in person. Surfing in the desert with the San Jacinto Mountains in the background is one of those experiences that feels specific to the Coachella Valley in the best way.</p>
+<p>The concept is absurd on paper and it works in person. Surfing in the desert with the San Jacinto Mountains in the background feels specific to the Coachella Valley, and that's half the appeal.</p>
 
 <p>Sessions run $100+ for beginners and this isn't a casual splash pool. If surfing is your thing, or you've always wanted to try it in a controlled environment with good instruction, the price makes sense. The venue handles non-surfers well enough that bringing a mixed group isn't a problem.</p>
 

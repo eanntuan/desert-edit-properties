@@ -32,9 +32,7 @@ relatedPosts:
     url: /blog/palm-springs-neighborhood-guide/
 ---
 
-People ask me when to visit Palm Springs like there's one correct answer. There isn't. I've stayed there in every season over the past few years, and each one has something real going for it, including July, which I know sounds insane. The answer depends on what you want out of the trip.
-
-Here's the honest version.
+People ask me when to visit Palm Springs like there's one correct answer. There isn't. I've stayed there in every season over the past few years, and each one has something real going for it, including July, which I know sounds insane. The answer depends on what you want out of the trip, so here it is by season.
 
 <div class="summary-box">
   <table>
@@ -94,7 +92,7 @@ May is the transition month. Crowds thin and prices drop as temperatures climb t
 **Crowds:** Low
 **Events:** Splash House (August), pool parties, weekend events at resort hotels
 
-I'm going to be honest about summer: the heat is real. At 2pm in July, stepping outside feels like standing in front of an open oven. That's not an exaggeration.
+I'm going to be honest about summer: at 2pm in July, stepping outside feels like standing in front of an open oven, and that's not rhetorical.
 
 And yet. The hotel rates can drop 50% from peak season. The pools are actually uncrowded. Desert evenings, once the sun drops, are warm and clear in a way that genuinely feels nice rather than punishing.
 

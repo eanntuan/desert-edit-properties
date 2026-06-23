@@ -34,7 +34,7 @@ relatedPosts:
 
 The first time I drove into Palm Springs, I had no idea there were neighborhoods to choose from. I booked based on price and ended up fine, but I had no idea what I was missing. The area near the Marilyn Monroe statue and the area near the Museum Trail look like the same city on Google Maps. On the ground, they feel like different trips.
 
-Here's what actually differentiates them, and how to pick based on what you're actually trying to do.
+Here's what differentiates them, and how to pick based on what you want from the trip.
 
 <img src="/blog/images/palm-springs-neighborhood-map.webp" alt="Map overview of Palm Springs neighborhoods including Uptown, Downtown, Movie Colony, Warm Sands, and The Mesa" loading="lazy" width="1200" height="800">
 <p class="image-caption">Palm Springs is smaller than it looks on a map. Most neighborhoods are within a 10-minute drive of each other.</p>

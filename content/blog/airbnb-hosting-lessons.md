@@ -93,7 +93,7 @@ layout: blog-post.njk
 
 <p>We pay our cleaners above local market rate and keep a checklist that gets updated any time a guest mentions something specific. Cut corners on cleaning and none of the other investments matter. It's the floor everything else stands on.</p>
 
-<h2>What We Actually Focus On Now</h2>
+<h2>What We Focus On Now</h2>
 
 <p>We run four properties across the Coachella Valley, averaging 4.9 stars. What I know now that I didn't know at the start: review scores mostly measure how well you anticipated what guests needed before they asked. Stock the consumables before they run out. Answer before they start wondering if you're paying attention. Show them the putting green they didn't know they wanted.</p>
 

@@ -91,7 +91,7 @@ layout: blog-post.njk
 
 <hr style="border: none; border-top: 1px solid #ddd; margin: 3rem 0;">
 
-<p>There's a version of Palm Springs built entirely for first-timers: the Instagram midcentury shot, the pool selfie, the frozen rosé. That version is fine. But there's a quieter, more interesting one underneath it, and that's what this guide is actually pointing toward.</p>
+<p>There's a version of Palm Springs built entirely for first-timers: the Instagram midcentury shot, the pool selfie, the frozen rosé. That version is fine. But there's a quieter, more interesting one underneath it, and that's what this guide is pointing toward.</p>
 
 <script type="application/ld+json">
 {

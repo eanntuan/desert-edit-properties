@@ -85,7 +85,7 @@ layout: blog-post.njk
 
 <h2>What it looks like finished</h2>
 
-<p>From across the room, the four panels read as one continuous rattan surface. The wood frames disappear, especially once you have pillows stacked against it. The texture is warm and natural, the color is a neutral blonde that works with literally any bedding palette, and nothing about it says IKEA. Guests regularly ask about the headboard. Nobody has ever guessed the source.</p>
+<p>From across the room, the four panels read as one continuous rattan surface. The wood frames disappear, especially once you have pillows stacked against it. The texture is warm and natural, the color is a neutral blonde that works with almost any bedding palette, and nothing about it says IKEA. Guests regularly ask about the headboard. Nobody has ever guessed the source.</p>
 
 <p>The art print above it is mounted on the wall above the top panel edge, which means the headboard acts as a visual base for the art rather than competing with it. The whole wall composition, art, rattan, sconces, bed, came together as a unit because of that relationship.</p>
 
