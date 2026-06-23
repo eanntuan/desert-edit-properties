@@ -77,6 +77,8 @@ layout: blog-post.njk
 
 <p>The nights are legitimately beautiful. Warm, dry, and quiet in a way that's hard to find elsewhere. Plan to be outside after dark.</p>
 
+<img src="/blog/images/terra-luz-patio-evening-lights.webp" alt="Terra Luz covered patio at night with string lights, looking through sliding glass door into the lit interior" width="1200" height="1800" loading="lazy" decoding="async">
+
 <img src="/blog/images/ps-via-sol-sunset.webp" alt="Warm desert sunset over a Palm Springs neighborhood street with palm trees" width="934" height="1400" loading="lazy" decoding="async">
 <p class="image-caption">The best hours are at the edges of the day. The valley rewards people who stay up a little later than they planned.</p>
 
