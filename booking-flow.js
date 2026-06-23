@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const PROPERTY_IMAGES = {
     'cozy-cactus': '/cozy-cactus/photos/CozyCactus2026-0004.webp',
-    'terra-luz':   '/terra-luz/photos/TerraLuz2026-0169.webp',
+    'terra-luz':   '/terra-luz/photos/TerraLuz2026-0312.webp',
     'ps-retreat':  '/the-sundune/photos/Sundune2026-0120.webp',
     'the-well':    '/email-images/the-well.jpg',
 };
@@ -114,7 +114,7 @@ const PROPERTY_HEROES = {
         sub: '3BR · Indio · Private hot tub · Game room · Sleeps 8',
     },
     'terra-luz': {
-        img: '/terra-luz/photos/TerraLuz2026-0169.webp',
+        img: '/terra-luz/photos/TerraLuz2026-0312.webp',
         title: 'Terra Luz',
         sub: '3BR · Indio · Saltwater pool · Dog-friendly · Sleeps 8',
     },
