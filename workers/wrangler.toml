@@ -1,0 +1,11 @@
+[env.production]
+name = "indigo-palm-newsletter"
+compatibility_date = "2024-01-01"
+main = "newsletter-signup.js"
+routes = [
+  { pattern = "newsletter.indigopalm.co/*", zone_name = "indigopalm.co" }
+]
+
+# Secrets (set via: wrangler secret put SHEETS_WEBHOOK_URL --env production)
+# SHEETS_WEBHOOK_URL = Google Apps Script webhook URL
+# RESEND_API_KEY = Resend API key

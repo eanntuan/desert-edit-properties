@@ -1,0 +1,1723 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <base href="/the-sundune/welcome-guide/">
+  <title>Welcome Guide | The Sundune</title>
+  <meta name="robots" content="noindex, nofollow">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LCY4M0HEQB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LCY4M0HEQB');
+  </script>
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "wf8wk28vyh");
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Work+Sans:wght@300;400;500;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Work+Sans:wght@300;400;500;600;700&display=swap"></noscript>
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      /* Sundune Brand Palette — TOJ March 2026 */
+      --teal: #2D6977;          /* Indigo Marine */
+      --teal-dark: #1d4f5c;
+      --teal-light: #dce8e5;    /* lightened Cool Aloe */
+      --terra: #BB7D49;         /* Copper */
+      --terra-dark: #9a6035;
+      --bg: #F6F1E8;            /* Coconut Milk */
+      --white: #ffffff;
+      --text: #2c2c2c;
+      --muted: #666666;
+      --border: rgba(44,44,44,0.1);
+      --nav-h: 56px;
+      --sage: #C9D6C9;          /* Cool Aloe */
+      --sunset-glow: #DB9773;
+      --apricot: #E5C3AE;
+      --golden-hour: #EAC37E;
+      --faded-surf: #91AEAC;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      font-family: 'Work Sans', sans-serif;
+      color: var(--text);
+      min-height: 100vh;
+      padding-top: var(--nav-h);
+    }
+
+    /* ── HEADER ── */
+    .site-header {
+      background: var(--white);
+      text-align: center;
+      padding: 24px 20px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .site-header .brand {
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 4px;
+      color: var(--terra);
+      text-decoration: none;
+      display: block;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+    }
+    .site-header h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2rem;
+      font-weight: 300;
+      letter-spacing: 6px;
+      color: var(--text);
+      text-transform: uppercase;
+    }
+    .site-header .sub {
+      font-size: 0.65rem;
+      color: var(--muted);
+      letter-spacing: 3px;
+      margin-top: 4px;
+      text-transform: uppercase;
+    }
+
+    /* ── FIXED NAV ── */
+    .tab-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      background: var(--teal);
+      display: flex;
+      height: var(--nav-h);
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .tab-nav::-webkit-scrollbar { display: none; }
+    .tab-btn {
+      flex: 1;
+      min-width: 60px;
+      background: none;
+      border: none;
+      color: rgba(255,255,255,0.6);
+      font-family: 'Work Sans', sans-serif;
+      font-size: 0.6rem;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      cursor: pointer;
+      padding: 8px 4px 6px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      border-bottom: 3px solid transparent;
+      transition: color 0.2s, border-color 0.2s;
+      white-space: nowrap;
+    }
+    .tab-btn .icon { font-size: 1.1rem; line-height: 1; }
+    .tab-btn.active { color: var(--white); border-bottom-color: var(--terra); }
+    .tab-btn:hover { color: var(--white); }
+
+    /* ── PANELS ── */
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* ── CONTENT WRAPPER ── */
+    .content { max-width: 680px; margin: 0 auto; padding: 28px 16px 60px; }
+
+    /* ── PAGE BANNER (PDF-style teal header with flanking lines) ── */
+    .page-category {
+      font-size: 0.6rem;
+      font-weight: 600;
+      letter-spacing: 3px;
+      color: var(--terra);
+      text-transform: uppercase;
+      text-align: center;
+      margin-bottom: 6px;
+    }
+    .page-banner {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: var(--teal);
+      padding: 13px 20px;
+      margin: 0 -16px 24px;
+    }
+    .page-banner-line {
+      flex: 1;
+      height: 1px;
+      background: rgba(255,255,255,0.35);
+      flex-shrink: 0;
+    }
+    .page-banner-text {
+      font-family: 'Work Sans', sans-serif;
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      color: var(--white);
+      white-space: nowrap;
+    }
+
+    /* ── DIVIDER ── */
+    .divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 28px 0;
+    }
+
+    /* ── WELCOME CARD ── */
+    .host-card {
+      background: var(--apricot);
+      color: var(--text);
+      border-radius: 12px;
+      padding: 28px 24px;
+      margin-bottom: 24px;
+    }
+    .host-card p { font-size: 0.95rem; line-height: 1.8; margin-bottom: 14px; }
+    .host-card p:last-child { margin-bottom: 0; }
+    .host-sig {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.6rem;
+      font-weight: 400;
+      color: var(--terra-dark);
+      margin-top: 20px;
+      display: block;
+    }
+
+    /* ── INFO ROWS ── */
+    .info-grid {
+      background: var(--white);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .info-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.9rem;
+    }
+    .info-row:last-child { border-bottom: none; }
+    .info-label {
+      font-weight: 700;
+      font-size: 0.65rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--muted);
+      min-width: 80px;
+      padding-top: 2px;
+    }
+    .info-val { flex: 1; line-height: 1.6; }
+    .info-val a { color: var(--terra-dark); text-decoration: none; font-weight: 500; }
+
+    /* ── ARRIVAL STEPS ── */
+    .step-list { list-style: none; margin: 0; }
+    .step-item {
+      display: flex;
+      gap: 14px;
+      margin-bottom: 22px;
+    }
+    .step-num {
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: var(--teal);
+      color: var(--white);
+      font-size: 0.85rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .step-body { flex: 1; }
+    .step-title {
+      font-weight: 700;
+      font-size: 0.75rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+      color: var(--teal);
+    }
+    .step-text { font-size: 0.92rem; line-height: 1.7; color: var(--text); }
+    .step-text strong { font-weight: 600; }
+
+    /* ── ARRIVAL STEP PHOTO GRID ── */
+    .step-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin: 20px 0;
+    }
+    .step-item { display: flex; flex-direction: column; }
+    .step-item-img {
+      border-radius: 10px;
+      overflow: hidden;
+      aspect-ratio: 4/3;
+      background: var(--teal-light);
+    }
+    .step-item-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .step-item-caption {
+      margin-top: 7px;
+      font-size: 0.78rem;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+    .step-item-caption strong {
+      color: var(--terra-dark);
+      font-weight: 700;
+    }
+    @media (max-width: 600px) {
+      .step-grid { grid-template-columns: 1fr; }
+    }
+
+    /* ── CALLOUT ── */
+    .callout {
+      background: var(--sage);
+      border-radius: 8px;
+      padding: 16px 18px;
+      font-size: 0.9rem;
+      line-height: 1.7;
+      margin: 16px 0;
+    }
+    .callout strong { font-weight: 600; }
+    .callout.warn {
+      background: #fdf0e6;
+      border-left: 3px solid var(--terra);
+    }
+    .callout.dark {
+      background: var(--teal);
+      color: var(--white);
+    }
+
+    /* ── WIFI BLOCK ── */
+    .wifi-block {
+      background: var(--teal);
+      color: var(--white);
+      border-radius: 12px;
+      padding: 22px 24px;
+      margin: 16px 0;
+      text-align: center;
+    }
+    .wifi-block .wifi-label {
+      font-size: 0.6rem;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      opacity: 0.7;
+      margin-bottom: 6px;
+    }
+    .wifi-block .wifi-name {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.7rem;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+    .wifi-block .wifi-note {
+      font-size: 0.82rem;
+      opacity: 0.85;
+      line-height: 1.65;
+    }
+
+    /* ── HOUSE GUIDE GRID ── */
+    .hg-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin: 16px 0;
+    }
+    .hg-card {
+      background: var(--sage);
+      border-radius: 12px;
+      padding: 18px 14px 16px;
+      text-align: center;
+    }
+    .hg-icon-wrap {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: var(--teal);
+      color: var(--white);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      margin: 0 auto 10px;
+    }
+    .hg-title {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--teal);
+      margin-bottom: 6px;
+    }
+    .hg-text { font-size: 0.83rem; line-height: 1.6; color: var(--text); }
+
+    /* ── RULES GRID ── */
+    .rules-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin: 16px 0;
+    }
+    .rule-card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+    }
+    .rule-icon { font-size: 1.3rem; margin-bottom: 6px; }
+    .rule-title {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+      color: var(--text);
+    }
+    .rule-text { font-size: 0.82rem; line-height: 1.55; color: #555; }
+
+    /* ── EMERGENCY CONTACTS ── */
+    .emergency-list { list-style: none; margin: 12px 0; }
+    .emergency-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .emergency-item:last-child { border-bottom: none; }
+    .e-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      background: var(--teal);
+      color: var(--white);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+    .e-body { flex: 1; }
+    .e-name {
+      font-weight: 700;
+      font-size: 0.78rem;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 3px;
+    }
+    .e-detail { font-size: 0.85rem; line-height: 1.65; color: #555; }
+    .e-detail a { color: var(--terra-dark); text-decoration: none; font-weight: 500; }
+
+    /* ── POOL DETAIL ── */
+    .pool-detail {
+      background: var(--sage);
+      border-radius: 12px;
+      padding: 20px 18px;
+      margin: 16px 0;
+      font-size: 0.9rem;
+      line-height: 1.75;
+    }
+    .pool-detail strong { color: var(--teal); font-weight: 600; }
+    .pool-map {
+      width: 100%;
+      border-radius: 10px;
+      display: block;
+      margin: 14px 0 0;
+      object-fit: cover;
+      max-height: 180px;
+    }
+
+    /* ── HOST TIP CARDS ── */
+    .tip-card {
+      border-left: 3px solid var(--terra);
+      padding: 14px 16px;
+      margin-bottom: 12px;
+      background: var(--white);
+      border-radius: 0 10px 10px 0;
+    }
+    .tip-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--terra);
+      margin-bottom: 5px;
+    }
+    .tip-text { font-size: 0.9rem; line-height: 1.7; }
+    .tip-text a { color: var(--terra-dark); font-weight: 600; text-decoration: none; }
+
+    /* ── GUIDE IMAGES ── */
+    .guide-img {
+      width: 100%;
+      border-radius: 12px;
+      display: block;
+      margin: 20px 0;
+      object-fit: cover;
+    }
+    .guide-img-full {
+      width: 100%;
+      display: block;
+      object-fit: cover;
+      max-height: 280px;
+    }
+    .img-caption {
+      font-size: 0.72rem;
+      color: var(--muted);
+      text-align: center;
+      margin-top: -14px;
+      margin-bottom: 18px;
+    }
+
+    /* ── PLACE CARDS (with optional photo) ── */
+    .place-card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 12px;
+    }
+    .place-card-inner {
+      display: grid;
+      grid-template-columns: 90px 1fr;
+    }
+    .place-photo {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      border-radius: 11px 0 0 11px;
+    }
+    .place-body {
+      flex: 1;
+      padding: 14px 14px;
+    }
+    .place-name {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+    .place-addr { font-size: 0.75rem; color: var(--muted); margin-bottom: 7px; }
+    .place-addr a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+    .place-desc { font-size: 0.87rem; line-height: 1.65; margin-bottom: 10px; color: var(--text); }
+    .place-links { display: flex; gap: 12px; flex-wrap: wrap; }
+    .place-link {
+      font-size: 0.73rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      color: var(--terra-dark);
+      text-decoration: none;
+    }
+    .place-link:hover { color: var(--teal-dark); text-decoration: underline; }
+    /* no-photo variant: just use padding on the card */
+    .place-card.no-photo .place-body { padding: 16px; }
+
+    /* ── THINGS TO DO GRID ── */
+    .todo-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin: 16px 0;
+    }
+    .todo-card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .todo-card-wide { grid-column: 1 / -1; }
+    .todo-img {
+      width: 100%;
+      height: 120px;
+      object-fit: cover;
+      display: block;
+    }
+    .todo-card-wide .todo-img { height: 140px; }
+    .todo-body { padding: 12px; }
+    .todo-title { font-weight: 700; font-size: 0.82rem; margin-bottom: 5px; }
+    .todo-text { font-size: 0.8rem; line-height: 1.55; color: #555; margin-bottom: 8px; }
+    .todo-links { display: flex; gap: 10px; flex-wrap: wrap; }
+    .todo-link { font-size: 0.72rem; font-weight: 600; color: var(--terra-dark); text-decoration: none; }
+    .todo-link:hover { color: var(--teal-dark); text-decoration: underline; }
+
+    /* ── EV SECTION ── */
+    .ev-option {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      margin-bottom: 10px;
+    }
+    .ev-title {
+      font-weight: 700;
+      font-size: 0.75rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--teal);
+      margin-bottom: 5px;
+    }
+    .ev-text { font-size: 0.88rem; line-height: 1.65; color: var(--text); }
+    .ev-text a { color: var(--terra-dark); text-decoration: none; }
+
+    /* ── CHECKOUT ── */
+    .checkout-list { list-style: none; margin: 16px 0; }
+    .checkout-item {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .checkout-item:last-child { border-bottom: none; }
+    .checkout-num {
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: var(--teal);
+      color: var(--white);
+      font-size: 0.85rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .checkout-label {
+      font-weight: 500;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+
+    /* ── REVIEW CARD ── */
+    .review-card {
+      background: var(--teal);
+      color: var(--white);
+      border-radius: 12px;
+      padding: 30px 24px;
+      text-align: center;
+      margin-top: 28px;
+    }
+    .review-card .review-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.7rem;
+      font-weight: 300;
+      letter-spacing: 2px;
+      margin-bottom: 14px;
+    }
+    .review-card p { font-size: 0.9rem; line-height: 1.75; opacity: 0.9; margin-bottom: 10px; }
+    .review-card a { color: var(--white); font-weight: 600; text-decoration: underline; }
+    .review-sig {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5rem;
+      margin-top: 20px;
+      display: block;
+      opacity: 0.85;
+    }
+
+    /* ── DOWNLOAD STRIP ── */
+    .download-strip {
+      background: var(--white);
+      border-top: 1px solid var(--border);
+      text-align: center;
+      padding: 14px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+    .download-strip a { color: var(--terra); text-decoration: none; font-weight: 500; }
+
+    /* ── BLOG CALLOUT ── */
+    .blog-callout {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 18px;
+      margin: 20px 0;
+    }
+    .blog-callout-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--terra);
+      margin-bottom: 8px;
+    }
+    .blog-callout p { font-size: 0.88rem; line-height: 1.65; margin-bottom: 12px; color: var(--text); }
+    .blog-links { display: flex; flex-direction: column; gap: 10px; }
+    .blog-link {
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      align-items: flex-end;
+      height: 180px;
+      padding: 14px 16px;
+      background: var(--sage);
+      background-size: cover;
+      background-position: center;
+      border-radius: 12px;
+      text-decoration: none;
+    }
+    .blog-link::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.72) 0%, rgba(0,0,0,0.15) 100%);
+    }
+    .blog-link-text {
+      position: relative;
+      z-index: 1;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #fff;
+      line-height: 1.3;
+    }
+    .blog-link:hover .blog-link-text { color: #f5e6c8; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 400px) {
+      .hg-grid, .rules-grid, .todo-grid, .arrival-grid { grid-template-columns: 1fr; }
+      .tab-btn { font-size: 0.56rem; min-width: 54px; }
+      .page-banner-text { font-size: 1rem; letter-spacing: 3px; }
+      .place-card-inner { grid-template-columns: 75px 1fr; }
+    }
+
+    /* ── ACCESSIBILITY ── */
+
+    /* Focus indicators — visible for keyboard and switch users */
+    :focus-visible {
+      outline: 3px solid var(--teal);
+      outline-offset: 3px;
+      border-radius: 4px;
+    }
+    /* Tab nav buttons need extra specificity since they override outline */
+    .tab-btn:focus-visible {
+      outline: 3px solid var(--golden-hour);
+      outline-offset: -3px;
+    }
+
+    /* Minimum touch target for tab buttons (already 56px height, belt+suspenders) */
+    .tab-btn { min-height: 44px; }
+
+    /* Blog link cards — 2-col grid, 140px cards, wide variant for full-span links */
+
+    /* Reduce motion for vestibular sensitivity */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+      }
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="tab-nav" role="navigation" aria-label="Guide sections">
+    <button class="tab-btn active" data-tab="welcome" onclick="switchTab('welcome')">
+      <span class="icon">🏡</span>Welcome
+    </button>
+    <button class="tab-btn" data-tab="arrival" onclick="switchTab('arrival')">
+      <span class="icon">🗝️</span>Arrival
+    </button>
+    <button class="tab-btn" data-tab="house" onclick="switchTab('house')">
+      <span class="icon">📋</span>House
+    </button>
+    <button class="tab-btn" data-tab="explore" onclick="switchTab('explore')">
+      <span class="icon">🌵</span>Explore
+    </button>
+    <button class="tab-btn" data-tab="checkout" onclick="switchTab('checkout')">
+      <span class="icon">✓</span>Checkout
+    </button>
+  </nav>
+
+  <!-- ══════════════════════════════════════════
+       WELCOME
+  ══════════════════════════════════════════ -->
+  <section class="tab-panel active" id="tab-welcome">
+    <header class="site-header">
+      <a href="https://indigopalm.co" class="brand">Indigo Palm Collective</a>
+      <h1>The Sundune</h1>
+      <p class="sub">Palm Springs · Welcome Guide</p>
+    </header>
+
+    <!-- SWAP PHOTO (Mason shoot): building exterior → replace with sundune-exterior.webp -->
+    <img src="/the-sundune/photos/Sundune2026-0001.webp" alt="Exterior entry of The Sundune Palm Springs vacation rental with palm plant and wooden bench" class="guide-img-full" loading="eager" width="800" height="533">
+
+    <div class="content">
+
+      <div class="host-card">
+        <p>My name is Eann. I passed on a Tesla to do this, which tells you something about my decision-making, but I haven't regretted it once.</p>
+        <p>I surf most mornings before I open the laptop. The Sundune is built for the same kind of trip: move during the day, wander without a plan, be somewhere comfortable by evening. That's about as structured as it needs to get.</p>
+        <p>Use the explore tab. Everything in there I'd actually send a friend, not a list I padded for appearances. Come back before dark and the balcony does the rest.</p>
+        <p>Text me if something's off. I hope you find your version of the stoke out here.</p>
+        <span class="host-sig">Eann</span>
+      </div>
+
+      <p class="page-category">The Property</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Your Stay</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="info-grid">
+        <div class="info-row">
+          <span class="info-label">Address</span>
+          <span class="info-val"><a href="https://maps.google.com/?q=5301+E+Waverly+Dr+%23184,+Palm+Springs,+CA+92262" target="_blank" rel="noopener">5301 E Waverly Dr, #184<br>Palm Springs, CA 92262</a></span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">Check-in</span>
+          <span class="info-val">4 pm</span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">Checkout</span>
+          <span class="info-val">11 am</span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">Parking</span>
+          <span class="info-val">Lot 5, Carport #555</span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">Host</span>
+          <span class="info-val"><a href="tel:2146061340">214 606 1340</a></span>
+        </div>
+      </div>
+
+      <!-- SWAP PHOTO (Mason shoot): pool/backyard → replace with sundune-pool.webp -->
+      <img src="/the-sundune/photos/Sundune2026-0180.webp" alt="The Sundune Palm Springs community pool with vintage woven lounge chairs and clear water" class="guide-img" loading="lazy" width="800" height="533">
+
+      <p class="page-category">From Your Host</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Host Tips</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <blockquote style="border-left:3px solid var(--faded-surf);padding:14px 18px;margin:0 0 20px;background:var(--white);border-radius:0 10px 10px 0;">
+        <p style="font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:400;line-height:1.7;color:var(--text);font-style:italic;">"There's no better feeling than diving into the water and swimming as far as you want."</p>
+        <p style="font-size:0.68rem;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin-top:8px;">Hannah Ferrara, Al Fresco</p>
+      </blockquote>
+
+      <div class="tip-card">
+        <p class="tip-label">Set the vibe</p>
+        <p class="tip-text">She leans coastal-desert. Put something nostalgic on, crack the windows, and let the air do what it does out here.</p>
+      </div>
+      <div class="tip-card">
+        <p class="tip-label">Slow morning, every morning</p>
+        <p class="tip-text">The balcony gets good light before it gets hot. Coffee out there, palms, nowhere to be. Start there every day if you can.</p>
+      </div>
+      <div class="tip-card">
+        <p class="tip-label">Worth the detour</p>
+        <p class="tip-text">El Paseo in Palm Desert has indie boutiques alongside the usual brand names, all with a mountain backdrop. Worth a half-day if you're into that.</p>
+      </div>
+      <div class="tip-card">
+        <p class="tip-label">More local intel</p>
+        <p class="tip-text">Restaurant picks, what to skip, and how the valley actually works: <a href="https://indigopalm.co/go/guide-sundune">indigopalm.co</a></p>
+      </div>
+
+      <div style="text-align:center;margin-top:32px;padding-bottom:8px;">
+        <button onclick="switchTab('arrival')" style="background:var(--terra);color:#fff;border:none;border-radius:30px;padding:14px 28px;font-size:0.85rem;letter-spacing:1.5px;text-transform:uppercase;cursor:pointer;font-family:'Work Sans',sans-serif;font-weight:600;">Next: Arrival &amp; Parking →</button>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════
+       ARRIVAL
+  ══════════════════════════════════════════ -->
+  <section class="tab-panel" id="tab-arrival">
+    <div class="content">
+
+      <p class="page-category">Getting Here</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">How to Arrive</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="callout warn">
+        GPS will often route you down Highway 111, which drops you in the wrong spot. Turn at the <strong>Golf Club Drive traffic light</strong> to get into Palm Canyon Villas.
+      </div>
+
+      <div class="callout">
+        <strong>Lot 5, Carport #555.</strong> Address: <a href="https://maps.google.com/?q=5301+E+Waverly+Dr,+Palm+Springs,+CA+92262" target="_blank" rel="noopener">5301 E Waverly Dr, Palm Springs, CA 92262 ↗</a>
+      </div>
+
+      <img src="step-0-driving-aerial-map.webp" alt="Aerial map of Palm Canyon Villas showing where to enter off Golf Club Drive, park in Lot 5, and walk to unit 184" loading="lazy" width="1200" height="936" style="width:100%;height:auto;border-radius:10px;margin-bottom:20px;">
+
+      <div class="step-grid">
+        <div class="step-item">
+          <div class="step-item-img">
+            <img src="step-1-enter-parking-5.webp" alt="Entrance to Lot 5 at Palm Canyon Villas, Palm Springs" loading="lazy" width="1200" height="968">
+          </div>
+          <p class="step-item-caption"><strong>Step 1.</strong> Turn at the Golf Club Drive light. Enter Lot 5.</p>
+        </div>
+        <div class="step-item">
+          <div class="step-item-img">
+            <img src="step-2-parking-spot-555.webp" alt="Carport 555 at Palm Canyon Villas" loading="lazy" width="899" height="1200">
+          </div>
+          <p class="step-item-caption"><strong>Step 2.</strong> Park in Carport #555.</p>
+        </div>
+        <div class="step-item">
+          <div class="step-item-img">
+            <img src="step-4-walk-towards-dumpsters-on-left.webp" alt="Path toward dumpsters and left turn at Palm Canyon Villas" loading="lazy" width="1200" height="1108">
+          </div>
+          <p class="step-item-caption"><strong>Step 3.</strong> Walk toward the dumpsters, then take the left path.</p>
+        </div>
+        <div class="step-item">
+          <div class="step-item-img">
+            <img src="step-3-follow-signs-184-globe.webp" alt="Community map and signs directing to unit 184 at Palm Canyon Villas" loading="lazy" width="862" height="1200">
+          </div>
+          <p class="step-item-caption"><strong>Step 4.</strong> Follow signs toward 184. Check the globe map if you need it.</p>
+        </div>
+        <div class="step-item">
+          <div class="step-item-img">
+            <img src="step-5-upstairs-on-right.webp" alt="Stairs to second floor at Palm Canyon Villas, unit 184 is on the right" loading="lazy" width="946" height="1200">
+          </div>
+          <p class="step-item-caption"><strong>Step 5.</strong> Take the stairs up. Unit 184 is on your right.</p>
+        </div>
+      </div>
+
+      <p style="font-size:0.82rem;color:var(--muted);margin:20px 0 8px;">
+        Second car? Guest spaces <strong>G572-578</strong> are also in Lot 5. Lot 4 has guest parking too and is actually slightly closer to the unit. Waverly Dr works as a backup if both are full.
+      </p>
+
+      <hr class="divider">
+
+      <p class="page-category">At the Door</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Entering the Condo</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <ul class="step-list">
+        <li class="step-item">
+          <div class="step-num">1</div>
+          <div class="step-body">
+            <p class="step-title">Door Code</p>
+            <p class="step-text">Your code comes through at least 24 hours before check-in. It's active from 4 pm on arrival day until 11 am checkout.</p>
+          </div>
+        </li>
+        <li class="step-item">
+          <div class="step-num">2</div>
+          <div class="step-body">
+            <p class="step-title">Black Screen Door</p>
+            <p class="step-text">Open the black screen door first, it's unlocked. The blue door behind it has the Schlage keypad.</p>
+          </div>
+        </li>
+        <li class="step-item">
+          <div class="step-num">3</div>
+          <div class="step-body">
+            <p class="step-title">Blue Schlage Keypad</p>
+            <p class="step-text">Enter your 4-digit code. If the keypad is dark, press the <strong>bottom left corner</strong> to wake it. Don't tap anywhere else first, Schlage counts any touch as a keystroke. If it resists, pull the handle toward you to align the lock, then try again.</p>
+          </div>
+        </li>
+        <li class="step-item">
+          <div class="step-num">4</div>
+          <div class="step-body">
+            <p class="step-title">Inside</p>
+            <p class="step-text">Lights are on the left as you walk in. The <strong>pool key</strong> hangs on the coat rack by the door. Don't lose it, $300 to replace and I will definitely know.</p>
+          </div>
+        </li>
+      </ul>
+
+      <!-- SWAP PHOTOS (Mason shoot): door entry photos:
+           1. Black screen door (open/unlocked)
+           2. Blue door with Schlage keypad (circled)
+           3. Keypad close-up (bottom-left home icon highlighted)
+           4. Cactus key holder on inside wall
+      -->
+      <div class="arrival-grid">
+        <div class="arrival-photo placeholder">
+          <span class="ph-icon">🚪</span>
+          <span class="ph-text">Black screen door<br><em>(photo coming)</em></span>
+        </div>
+        <div class="arrival-photo placeholder">
+          <span class="ph-icon">🔵</span>
+          <span class="ph-text">Blue door + keypad<br><em>(photo coming)</em></span>
+        </div>
+        <div class="arrival-photo placeholder">
+          <span class="ph-icon">🔢</span>
+          <span class="ph-text">Schlage keypad<br><em>(photo coming)</em></span>
+        </div>
+        <div class="arrival-photo placeholder">
+          <span class="ph-icon">🌵</span>
+          <span class="ph-text">Cactus key holder<br><em>(photo coming)</em></span>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">WiFi</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Getting Connected</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="wifi-block">
+        <p class="wifi-label">Wifi Network</p>
+        <p class="wifi-name">Indigo Palm Collective</p>
+        <p class="wifi-note">Both TVs have Roku. Netflix is on there. Log into your own apps for anything else you need.</p>
+      </div>
+
+      <div class="callout warn" style="margin-top:20px;">
+        <strong>10 pm noise curfew.</strong> Everything outdoors, including Bluetooth speakers on the patio. The community enforces this without much patience, and the city fines are not small.
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════
+       HOUSE
+  ══════════════════════════════════════════ -->
+  <section class="tab-panel" id="tab-house">
+    <div class="content">
+
+      <p class="page-category">Palm Canyon Villas</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">House Rules</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="rules-grid">
+        <div class="rule-card">
+          <div class="rule-icon">🚫</div>
+          <p class="rule-title">No Parties</p>
+          <p class="rule-text">People live here year-round. Small gatherings only, and keep the energy low-key.</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">🔇</div>
+          <p class="rule-title">10 PM Curfew</p>
+          <p class="rule-text">Outdoor noise wraps at 10 pm, full stop. The community takes this seriously and so do I. ($300 fine plus removal, no refund)</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">👟</div>
+          <p class="rule-title">No Shoes</p>
+          <p class="rule-text">Shoes off at the door. It keeps things cleaner and your downstairs neighbors will thank you.</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">🚭</div>
+          <p class="rule-title">No Smoking</p>
+          <p class="rule-text">No smoking, vaping, or drugs anywhere on the property. ($250 fine, no exceptions)</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">🐾</div>
+          <p class="rule-title">Pets — Please Read</p>
+          <p class="rule-text">If you brought a pet, the sofa and rugs are brand new, so cover what you can or redirect them when you're able. I have a dog and two cats, so I genuinely get it. Just do your best.</p>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">Getting Comfortable</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">House Guide</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="hg-grid">
+        <div class="hg-card">
+          <div class="hg-icon-wrap">🌡️</div>
+          <p class="hg-title">Temperature</p>
+          <p class="hg-text">Keep it at 73° or above. Colder than that and the system can freeze up. I've got it set to 74° as a starting point.</p>
+        </div>
+        <div class="hg-card">
+          <div class="hg-icon-wrap">🏊</div>
+          <p class="hg-title">Pool</p>
+          <p class="hg-text">One minute from the front door: downstairs, turn right. Pool key is on the coat rack. Return it before you leave, replacing it costs $300 and neither of us wants that conversation.</p>
+        </div>
+        <div class="hg-card">
+          <div class="hg-icon-wrap">👕</div>
+          <p class="hg-title">Laundry</p>
+          <p class="hg-text">Washer, dryer, detergent, and dryer sheets are on the patio.</p>
+        </div>
+        <div class="hg-card">
+          <div class="hg-icon-wrap">🗑️</div>
+          <p class="hg-title">Trash</p>
+          <p class="hg-text">Dumpsters in lots 4 and 5 on your way out.</p>
+        </div>
+        <div class="hg-card">
+          <div class="hg-icon-wrap">☕</div>
+          <p class="hg-title">Coffee</p>
+          <p class="hg-text">Keurig on the counter, French press and K-cups in the cabinet above. <a href="https://indigopalm.co/blog/palm-springs-coffee-guide/" target="_blank" rel="noopener" style="color:var(--terra-dark);text-decoration:underline;">Palm Springs coffee guide ↗</a> if you want to go out.</p>
+        </div>
+        <div class="hg-card">
+          <div class="hg-icon-wrap">🧸</div>
+          <p class="hg-title">Kids + Games</p>
+          <p class="hg-text">Pack n Play, high chair, and baby bathtub are in the primary bathroom closet, and games are on the storage bench by the TV.</p>
+        </div>
+      </div>
+
+      <!-- SWAP PHOTO (Mason shoot): living room → replace with sundune-living-room.webp -->
+      <img src="/the-sundune/photos/Sundune2026-0120.webp" alt="The Sundune Palm Springs living room with camel sofa, orange front door, dining area, and balcony" class="guide-img" loading="lazy" width="800" height="533">
+
+      <hr class="divider">
+
+      <p class="page-category">Community Amenity</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Cool Off</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <p style="font-size:0.9rem;line-height:1.7;text-align:center;margin-bottom:16px;">Pool, spa, and tennis courts are included in your stay. The pool is a one-minute walk from the front door.</p>
+
+      <div class="pool-detail">
+        <p>Down the stairs, turn right. Pool, spa, and tennis courts are about a minute out from the front door.</p>
+        <br>
+        <p>Use the pool key from the <strong>coat rack at the entrance</strong>. Four beach chairs are in the primary bathroom closet if you need them, BYOC to the pool.</p>
+        <br>
+        <p><strong>Return the pool key before checkout.</strong> $300 to replace.</p>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">Emergency</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Contacts</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <ul class="emergency-list">
+        <li class="emergency-item">
+          <div class="e-icon">👤</div>
+          <div class="e-body">
+            <p class="e-name">Your Host — Eann</p>
+            <p class="e-detail"><a href="tel:2146061340">214 606 1340</a> · Something off? Text me and I'll handle it.</p>
+          </div>
+        </li>
+        <li class="emergency-item">
+          <div class="e-icon">🏥</div>
+          <div class="e-body">
+            <p class="e-name">Medical Emergency</p>
+            <p class="e-detail"><a href="tel:911">Call 911</a> · Desert Regional Medical Center · <a href="tel:7603236511">760 323 6511</a><br><a href="https://maps.google.com/?q=1150+N+Indian+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">1150 N Indian Canyon Dr, Palm Springs ↗</a></p>
+          </div>
+        </li>
+        <li class="emergency-item">
+          <div class="e-icon">💊</div>
+          <div class="e-body">
+            <p class="e-name">Pharmacy</p>
+            <p class="e-detail">CVS (inside Target) · <a href="tel:7602024061">760 202 4061</a><br><a href="https://maps.google.com/?q=67750+E+Palm+Canyon+Dr,+Cathedral+City,+CA" target="_blank" rel="noopener">67750 E Palm Canyon Dr, Cathedral City ↗</a></p>
+          </div>
+        </li>
+        <li class="emergency-item">
+          <div class="e-icon">🚒</div>
+          <div class="e-body">
+            <p class="e-name">Fire Department</p>
+            <p class="e-detail"><a href="tel:7603238195">760 323 8195</a></p>
+          </div>
+        </li>
+        <li class="emergency-item">
+          <div class="e-icon">🚗</div>
+          <div class="e-body">
+            <p class="e-name">Roadside — Southwest Towing</p>
+            <p class="e-detail"><a href="tel:7603241177">760 324 1177</a></p>
+          </div>
+        </li>
+      </ul>
+
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════
+       EXPLORE
+  ══════════════════════════════════════════ -->
+  <section class="tab-panel" id="tab-explore">
+
+    <img src="/blog/images/ps-palm-street-blue-sky.webp" alt="Palm tree-lined street in Palm Springs under clear blue sky with mountain views" class="guide-img-full" loading="lazy" width="1400" height="280">
+
+    <div class="content">
+
+      <div class="blog-callout">
+        <p class="blog-callout-label">Wanderlust Approved</p>
+        <p>Restaurant picks, what to skip, and how the valley actually works. Written for guests who'd rather feel oriented than lost.</p>
+        <div class="blog-links">
+          <a class="blog-link" href="https://indigopalm.co/blog/best-restaurants-palm-springs/" target="_blank" rel="noopener" style="background-image: url('/blog/images/bar-cecil.webp')"><span class="blog-link-text">Best Restaurants in Palm Springs ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/palm-springs-local-guide-sundune/" target="_blank" rel="noopener" style="background-image: url('/blog/images/palm-springs-local-guide-sundune.webp')"><span class="blog-link-text">Local Guide: Palm Springs ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/coachella-valley-insider-guide/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-street-bougainvillea.webp')"><span class="blog-link-text">Coachella Valley Insider Guide ↗</span></a>
+          <a class="blog-link" href="https://indigopalm.co/blog/" target="_blank" rel="noopener" style="background-image: url('/blog/images/ps-palm-street-blue-sky.webp')"><span class="blog-link-text">All posts ↗</span></a>
+        </div>
+      </div>
+
+      <p class="page-category">Local</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Places to Eat</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <p style="font-size:0.78rem;color:var(--muted);margin-bottom:16px;">Call ahead. Desert hours are unpredictable.</p>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/palm-greens-cafe-bowl.webp" alt="Macrobiotic bowl at Palm Greens Cafe Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">Palm Greens Cafe</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=611+S+Palm+Canyon+Dr+%236,+Palm+Springs,+CA" target="_blank" rel="noopener">611 S Palm Canyon Dr #6, Palm Springs ↗</a></p>
+            <p class="place-desc">Laid-back spot with a health-conscious menu and good sourcing. Get the Macrobiotic Bowl and the Green Goddess Juice.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7608649900">760-864-9900</a>
+              <a class="place-link" href="https://palmgreenscafe.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/les-filles-croissant.webp" alt="Croissant at Les Filles cafe Cathedral City" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">Les Filles</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=67730+E+Palm+Canyon+Dr,+Cathedral+City,+CA" target="_blank" rel="noopener">67730 E Palm Canyon Dr, Cathedral City ↗</a> · Mon–Sat 7:30am–3pm</p>
+            <p class="place-desc">Run by a French woman and her Italian wife who met on vacation 18 years ago and never left the idea. Pain au chocolat, cornetti, focaccia, and genuinely good espresso.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607999800">(760) 799-9800</a>
+              <a class="place-link" href="https://les-filles-cafe.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/heyday-smashburger.webp" alt="Smashburger at The Heyday Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">The Heyday</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=1550+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">1550 N Palm Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">Straightforward diner. The smashburger is really good, which is all it needs to be.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7602976937">760-297-6937</a>
+              <a class="place-link" href="https://theheydaypalmsprings.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/shermans-deli-sandwich.webp" alt="Pastrami sandwich at Sherman's Deli Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">Sherman's Deli &amp; Bakery</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=401+E+Tahquitz+Canyon+Way,+Palm+Springs,+CA" target="_blank" rel="noopener">401 E Tahquitz Canyon Way, Palm Springs ↗</a></p>
+            <p class="place-desc">NYC-style kosher deli, open all day, with specialty cakes and baked goods on top of the usual. Order the pastrami, don't overthink it.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603251199">760-325-1199</a>
+              <a class="place-link" href="https://shermansdeli.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/viet-fusion-pho.webp" alt="Vietnamese noodle bowl at 533 Viet Fusion Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">533 Viet Fusion</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=1775+E+Palm+Canyon+Dr+STE+625,+Palm+Springs,+CA" target="_blank" rel="noopener">1775 E Palm Canyon Dr STE 625, Palm Springs ↗</a></p>
+            <p class="place-desc">Mix of modern and traditional Vietnamese with a cocktail lounge in the back. The flourless chocolate cake is the sleeper hit on the menu, get it even if you're full.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607786595">760-778-6595</a>
+              <a class="place-link" href="https://533vietfusion.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/les-filles-cafe-interior.webp" alt="Cafe interior with espresso drinks at Sottovoce in Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">Sottovoce</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=1345+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">1345 N Palm Canyon Dr, Palm Springs ↗</a> · Daily 8am–5pm</p>
+            <p class="place-desc">Italian cafe with handmade gelato and a serious coffee program. My sister-in-law had the gelato catered for her wedding. That should tell you what you need to know.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7604640480">760-464-0480</a>
+              <a class="place-link" href="https://sottovocecafe.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/front-porch-cafe-palm-springs.webp" alt="Outdoor dining at Front Porch cafe in Palm Springs with fresh breakfast dishes" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">The Front Porch</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=117+La+Plaza,+Palm+Springs,+CA" target="_blank" rel="noopener">117 La Plaza, Palm Springs ↗</a> · Daily 9am–10pm</p>
+            <p class="place-desc">Easy breakfast and brunch spot in the village, patio out front, locally sourced and cocktails going all day if that's the kind of morning you want.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603222724">760-322-2724</a>
+              <a class="place-link" href="https://frontporchpalmsprings.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">Local</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Places to Drink</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/cartel-coffee-palm-springs.webp" alt="Cartel Roasting Co. cold brew in Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">Cartel Roasting Co.</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=1551+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">1551 N Palm Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">My regular. Cold brew is the best in the valley, and I've tried them all so you don't have to.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:4806216381">480-621-6381</a>
+              <a class="place-link" href="https://cartelroasting.co" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/koffi-palm-springs.webp" alt="Koffi coffee Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">Koffi</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=650+E+Tahquitz+Canyon+Way,+Palm+Springs,+CA" target="_blank" rel="noopener">650 E Tahquitz Canyon Way, Palm Springs ↗</a></p>
+            <p class="place-desc">My backup when Cartel has a line. Get the banana walnut muffin, trust me on that one.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603180145">760-318-0145</a>
+              <a class="place-link" href="https://kofficoffee.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/palm-springs-bar-cocktails.webp" alt="Margaritas at La Perlita Mexican Food Palm Springs" class="place-photo" loading="lazy" width="90" height="90">
+          <div class="place-body">
+            <p class="place-name">La Perlita Mexican Food</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=901+Crossley+Rd,+Palm+Springs,+CA" target="_blank" rel="noopener">901 Crossley Rd, Palm Springs ↗</a> · Mon–Sat 11am–8pm</p>
+            <p class="place-desc">Best margaritas in Palm Springs, and that's not a casual claim. Outdoor seating when the weather behaves.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607788014">760-778-8014</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/las-palmas-brewing.webp" alt="Fresh craft beer being poured at Las Palmas Brewing in Palm Springs" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Las Palmas Brewing</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=461+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">461 N Palm Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">Family-owned brewery with Tuesday specials and tacos that are better than a brewery should be making.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7609925082">760-992-5082</a>
+              <a class="place-link" href="https://laspalmasbrewing.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/the-nest.webp" alt="Elegant cocktail at The Nest in Indian Wells, a classic desert nightlife spot" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">The Nest</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=75188+CA-111,+Indian+Wells,+CA" target="_blank" rel="noopener">75188 CA-111, Indian Wells ↗</a></p>
+            <p class="place-desc">Live music, dancing, drinks, full restaurant. Hard to explain without sounding like I'm exaggerating, so just go and tell me what you thought.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603462314">760-346-2314</a>
+              <a class="place-link" href="https://gotothenest.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">Things to Do</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Get Out</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="todo-grid">
+        <div class="todo-card">
+          <img src="/blog/images/ps-aerial-tram-car.webp" alt="Palm Springs Aerial Tram car ascending toward San Jacinto Peak" class="todo-img" loading="lazy" width="1280" height="853">
+          <div class="todo-body">
+            <p class="todo-title">Palm Springs Aerial Tram</p>
+            <p class="todo-text">6,000 ft up to San Jacinto Peak in about 10 minutes, and it goes from desert heat to alpine cold in that same ride. Get there early on weekends, the line gets long.</p>
+            <div class="todo-links">
+              <a href="https://www.pstramway.com" class="todo-link" target="_blank" rel="noopener">pstramway.com ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card">
+          <img src="/blog/images/moorten-botanical-garden.webp" alt="Rare cacti and succulents at Moorten Botanical Garden in Palm Springs" class="todo-img" loading="lazy" width="1200" height="1200">
+          <div class="todo-body">
+            <p class="todo-title">Moorten Botanical Garden</p>
+            <p class="todo-text">Cactarium full of rare cacti and succulents you genuinely won't find anywhere else. Give it an hour, and check the gift shop before you leave, they have plants worth dragging home.</p>
+            <div class="todo-links">
+              <a href="https://www.moortenbotanicalgarden.com" class="todo-link" target="_blank" rel="noopener">moortenbotanicalgarden.com ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card">
+          <img src="/blog/images/modernism-week-palm-springs.webp" alt="Mid-century modern architecture tour during Modernism Week in Palm Springs" class="todo-img" loading="lazy" width="640" height="715">
+          <div class="todo-body">
+            <p class="todo-title">Modernism Week</p>
+            <p class="todo-text">11 days in February covering architecture tours, home tours, film, and design panels. Book the specific events you want early, a lot of them sell out weeks out.</p>
+            <div class="todo-links">
+              <a href="https://www.modernismweek.com" class="todo-link" target="_blank" rel="noopener">modernismweek.com ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card">
+          <img src="/blog/images/palm-springs-art-museum.webp" alt="Outdoor sculpture garden at Palm Springs Art Museum with desert landscape" class="todo-img" loading="lazy" width="270" height="360">
+          <div class="todo-body">
+            <p class="todo-title">Palm Springs Art Museum</p>
+            <p class="todo-text">Desert art, European works, and a solid Native American collection. Free on Thursdays from 4 to 8pm, which is worth knowing.</p>
+            <div class="todo-links">
+              <a href="https://www.psmuseum.org" class="todo-link" target="_blank" rel="noopener">psmuseum.org ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card todo-card-wide">
+          <img src="/blog/images/festival-coachella-aerial.webp" alt="Aerial view of the Coachella and Stagecoach festival grounds in Indio California" class="todo-img" loading="lazy" width="960" height="503">
+          <div class="todo-body">
+            <p class="todo-title">Coachella + Stagecoach</p>
+            <p class="todo-text">Two weekends each in April: Coachella for pop, electronic, and indie, Stagecoach for country. Both completely take over the valley and both are 20 minutes from here.</p>
+            <div class="todo-links">
+              <a href="https://www.coachella.com" class="todo-link" target="_blank" rel="noopener">coachella.com ↗</a>
+              <a href="https://www.stagecoachfestival.com" class="todo-link" target="_blank" rel="noopener">stagecoachfestival.com ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card">
+          <img src="/blog/images/palm-springs-hotel-pool.webp" alt="Palm Springs hotel pool with lounge chairs and desert mountain backdrop" class="todo-img" loading="lazy" width="1400" height="1050">
+          <div class="todo-body">
+            <p class="todo-title">The V Pool Party</p>
+            <p class="todo-text">Weekend pool parties at The Sonder Hotel with DJs and the classic Palm Springs day-drinking vibe. No ticket, just show up.</p>
+            <div class="todo-links">
+              <a href="https://www.sonder.com/destinations/palm_springs/the_v_palm_springs" class="todo-link" target="_blank" rel="noopener">thevpalmsprings.com ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card">
+          <img src="/blog/images/ps-vintage-cadillac.webp" alt="Vintage cadillac at Palm Springs Vintage Market mid-century modern finds" class="todo-img" loading="lazy" width="1200" height="1800">
+          <div class="todo-body">
+            <p class="todo-title">Palm Springs Vintage Market</p>
+            <p class="todo-text">MCM furniture, clothing, and art on the first Sunday of the month, October through May. If you want the good stuff, be there by 8am.</p>
+            <div class="todo-links">
+              <a href="https://www.palmspringsvintagemarkets.com" class="todo-link" target="_blank" rel="noopener">palmspringsvintagemarkets.com ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="todo-card">
+          <img src="/blog/images/palm-desert-el-paseo.webp" alt="El Paseo shopping district in Palm Desert with mountain views and outdoor promenade" class="todo-img" loading="lazy" width="1400" height="933">
+          <div class="todo-body">
+            <p class="todo-title">El Paseo, Palm Desert</p>
+            <p class="todo-text">Open-air shopping strip with a decent mix of high-end brands and independent boutiques, mountain views the whole way down. 20 minutes from here, good for a half-day.</p>
+            <div class="todo-links">
+              <a href="https://www.elpaseo.com" class="todo-link" target="_blank" rel="noopener">elpaseo.com ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">With Kids</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Family Activities</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/living-desert.webp" alt="Lush tropical plants and palms inside Living Desert Zoo and Gardens in Palm Desert" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Living Desert Zoo and Gardens</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=47900+Portola+Ave,+Palm+Desert,+CA" target="_blank" rel="noopener">47900 Portola Ave, Palm Desert ↗</a></p>
+            <p class="place-desc">Over 1,000 acres of desert ecosystem with a bighorn sheep enclosure and small animal exhibits worth seeing with kids.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603465694">760-346-5694</a>
+              <a class="place-link" href="https://livingdesert.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/over-rainbow-desserts.webp" alt="Pink frosted cupcake with sprinkles from Over the Rainbow Desserts in Palm Springs" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Over the Rainbow Desserts</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=1775+E+Palm+Canyon+Dr+STE+150,+Palm+Springs,+CA" target="_blank" rel="noopener">1775 E Palm Canyon Dr STE 150, Palm Springs ↗</a></p>
+            <p class="place-desc">Their gluten-free cupcakes are the best I've had, which surprised me too. Go early and ask about half-off day-olds, they taste exactly the same.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603222253">760-322-2253</a>
+              <a class="place-link" href="https://overtherainbowdesserts.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/bear-creek-trail.webp" alt="Hiker walking along Bear Creek Trailhead in La Quinta through desert wilderness" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Bear Creek Trailhead</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=Bear+Creek+Trail,+La+Quinta,+CA" target="_blank" rel="noopener">Bear Creek Trail, La Quinta ↗</a></p>
+            <p class="place-desc">Paved trail through a protected nature preserve along the base of the Southern Santa Rosa Mountains, easy enough for kids and still worth it for adults.</p>
+            <div class="place-links">
+              <a class="place-link" href="https://www.alltrails.com/trail/us/california/bear-creek-trail" target="_blank" rel="noopener">AllTrails ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/cabazon-dinosaurs.webp" alt="Life-size T-Rex dinosaur sculpture at Cabazon Dinosaurs roadside attraction in California" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Cabazon Dinosaurs</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=50770+Seminole+Dr,+Cabazon,+CA" target="_blank" rel="noopener">50770 Seminole Dr, Cabazon ↗</a></p>
+            <p class="place-desc">Roadside attraction with a dinosaur garden and robotic dinosaurs. Ridiculous in the best way, especially with kids.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:9092728164">909-272-8164</a>
+              <a class="place-link" href="https://cabazondinosaurs.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/palm-springs-air-museum-plane.webp" alt="Aircraft in flight over blue sky near Palm Springs Air Museum" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Palm Springs Air Museum</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=745+N+Gene+Autry+Trail,+Palm+Springs,+CA" target="_blank" rel="noopener">745 N Gene Autry Trail, Palm Springs ↗</a></p>
+            <p class="place-desc">Kids can climb inside a fully functional Boeing B-17 Flying Fortress and try the flight simulator. Honestly, adults want to do it too.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607786262">760-778-6262</a>
+              <a class="place-link" href="https://palmspringsairmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">Beat the Heat</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Places to Cool Off</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/escape-room-palm-springs.webp" alt="Quirky vintage room with retro decor and mystery objects at Escape Room Palm Springs" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Escape Room Palm Springs</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=2500+N+Palm+Canyon+Dr+B3,+Palm+Springs,+CA" target="_blank" rel="noopener">2500 N Palm Canyon Dr B3, Palm Springs ↗</a></p>
+            <p class="place-desc">Over 6,000 sq ft, supposedly the largest escape room in Southern California. Dominique (the owner) is a friend and set up code <strong>ABNB10</strong> for 10% off.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607798888">760-779-8888</a>
+              <a class="place-link" href="https://escapeps.com" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/acrisure-arena-ice-skating.webp" alt="White ice skates on a reflective surface, ready for public skating at Acrisure Arena in Palm Desert" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Ice Skating at Acrisure Arena</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=75702+Varner+Rd,+Palm+Desert,+CA" target="_blank" rel="noopener">75702 Varner Rd, Palm Desert ↗</a></p>
+            <p class="place-desc">Same ice the Coachella Firebirds train on. $15 per session, $5 skate rental, pre-register online.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603187388">760-318-7388</a>
+              <a class="place-link" href="https://bergerfoundationiceplex.com/public-skating/" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/palm-springs-art-museum.webp" alt="Outdoor sculpture garden at Palm Springs Art Museum with desert landscape" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Palm Springs Art Museum</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=2500+N+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">2500 N Palm Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">Desert art, European and Native American works, theater, outdoor space, and a cafe inside. Free Thursday afternoons with live music added in.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603224800">760-322-4800</a>
+              <a class="place-link" href="https://psmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/agua-caliente-cultural-museum.webp" alt="Agua Caliente Cultural Museum exterior with palm trees and desert landscaping in Palm Springs" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">Agua Caliente Cultural Museum</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=140+N+Indian+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">140 N Indian Canyon Dr, Palm Springs ↗</a></p>
+            <p class="place-desc">Newer museum covering Cahuilla tribal history and desert culture in a well-designed space. Also: AC, which is reason enough in summer.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7607781079">(760) 778-1079</a>
+              <a class="place-link" href="https://accmuseum.org" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="place-card">
+        <div class="place-card-inner">
+          <img src="/blog/images/shots-in-the-night.webp" alt="Golf putter lined up on a green at Indian Wells Golf Resort, home of Shots in the Night mini-golf" class="place-photo" loading="lazy" width="90" height="120">
+          <div class="place-body">
+            <p class="place-name">"Shots in the Night"</p>
+            <p class="place-addr"><a href="https://maps.google.com/?q=43500+Monterey+Ave,+Palm+Desert,+CA" target="_blank" rel="noopener">43-500 Monterey Ave, Palm Desert ↗</a> · Thurs–Sat, half hour after sunset</p>
+            <p class="place-desc">Mini-golf at Indian Wells Golf Resort after dark, with lasers, glow-in-the-dark targets, music, and food. Better than it sounds.</p>
+            <div class="place-links">
+              <a class="place-link" href="tel:7603464653">760-346-4653</a>
+              <a class="place-link" href="https://www.indianwellsgolfresort.com/shots-in-the-night/" target="_blank" rel="noopener">Website ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <p class="page-category">California Desert</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">EV Charging</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <p style="font-size:0.85rem;color:var(--muted);text-align:center;margin-bottom:16px;">Two options close by, both under 10 minutes from the condo.</p>
+
+      <div class="ev-option">
+        <p class="ev-title">Tesla Supercharger</p>
+        <p class="ev-text">8 min away at <a href="https://maps.google.com/?q=101+North+Museum+Drive,+Palm+Springs,+CA" target="_blank" rel="noopener">101 North Museum Drive ↗</a>.</p>
+      </div>
+      <div class="ev-option">
+        <p class="ev-title">Electrify America</p>
+        <p class="ev-text">10 min away at <a href="https://maps.google.com/?q=588+S+Palm+Canyon+Dr,+Palm+Springs,+CA" target="_blank" rel="noopener">588 S Palm Canyon Dr ↗</a>. Grab a Macrobiotic Bowl at <a href="https://palmgreenscafe.com" target="_blank" rel="noopener">Palm Greens Cafe</a> while you charge, it's right there.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════
+       CHECKOUT
+  ══════════════════════════════════════════ -->
+  <section class="tab-panel" id="tab-checkout">
+    <div class="content">
+
+      <p class="page-category">Before You Go</p>
+      <div class="page-banner">
+        <div class="page-banner-line"></div>
+        <span class="page-banner-text">Checkout</span>
+        <div class="page-banner-line"></div>
+      </div>
+
+      <div class="callout">
+        Checkout is at <strong>11 am</strong>. The following are appreciated, not required.
+      </div>
+
+      <ul class="checkout-list">
+        <li class="checkout-item">
+          <div class="checkout-num">1</div>
+          <span class="checkout-label">Turn off lights and fans</span>
+        </li>
+        <li class="checkout-item">
+          <div class="checkout-num">2</div>
+          <span class="checkout-label">Return pool key to the coat rack at the entrance</span>
+        </li>
+        <li class="checkout-item">
+          <div class="checkout-num">3</div>
+          <span class="checkout-label">Load dishwasher</span>
+        </li>
+        <li class="checkout-item">
+          <div class="checkout-num">4</div>
+          <span class="checkout-label">Take out trash (dumpsters in lots 4 and 5)</span>
+        </li>
+      </ul>
+
+      <img src="/blog/images/ps-via-sol-sunset.webp" alt="Golden hour sunset over a Palm Springs street with mountains turning purple behind the palms" class="guide-img" loading="lazy" width="1400" height="933">
+
+      <div class="review-card">
+        <p class="review-title">Leave a Review</p>
+        <p>If The Sundune came through for you, a 5-star review genuinely matters. Takes 30 seconds and helps more guests find their way here.</p>
+        <p>More properties, local guides, and desert intel at <a href="https://indigopalm.co" target="_blank" rel="noopener">indigopalm.co</a>. Tag us @indigopalmco if you post anything worth showing.</p>
+        <p>Thanks for being here.</p>
+        <span class="review-sig">Eann</span>
+      </div>
+
+    </div>
+  </section>
+
+  <div class="download-strip">
+    <a href="/the-sundune/welcome-guide/the-sundune-welcome-guide.pdf" download onclick="gtag('event', 'download_guide', { property: 'the-sundune' })">Download PDF version ↓</a>
+  </div>
+
+  <script>
+    function switchTab(name) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === name));
+      document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === 'tab-' + name));
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      gtag('event', 'tab_view', { tab: name, property: 'the-sundune' });
+      const base = window.location.pathname.replace(/\/[a-z]+\/?$/, '/').replace(/\/welcome-guide\/.*/, '/welcome-guide/');
+      history.pushState({tab: name}, '', name === 'welcome' ? base : base + name + '/');
+    }
+    (function() {
+      const pending = sessionStorage.getItem('wg-tab');
+      if (pending) {
+        sessionStorage.removeItem('wg-tab');
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === pending));
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === 'tab-' + pending));
+        history.replaceState({tab: pending}, '', pending + '/');
+      }
+    })();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+node_modules/
+.env
+*.log
+.DS_Store
+api_token.txt
+**/api_token.txt
+
+# Local Netlify folder
+.netlify
+the-desert-edit-firebase-adminsdk-fbsvc-*.json
+functions/.env
+functions/.env.yaml
+functions-backup/.env
+functions-backup/.env.yaml
+
+# Google Workspace credentials
+google_credentials.json
