@@ -74,7 +74,7 @@ layout: blog-post.njk
 <p>Yes. Terra Luz welcomes up to two dogs for a flat $150 pet fee. Email <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> to confirm before booking so we can line up your dates.</p>
 
 <h3>How much is the pet fee?</h3>
-<p>A flat $100 for the whole stay, not per night. There's no surprise charge at checkout and no per-night fee that grows over a long weekend.</p>
+<p>A flat $150 for the whole stay, not per night. There's no surprise charge at checkout and no per-night fee that grows over a long weekend.</p>
 
 <h3>Is the yard fenced?</h3>
 <p>Yes. Terra Luz has a fenced backyard with a latching gate and a grassy side yard, so your dog can be outside without a leash or someone watching the door.</p>

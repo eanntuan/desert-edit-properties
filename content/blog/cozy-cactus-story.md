@@ -82,7 +82,7 @@ layout: blog-post.njk
 <p class="image-caption">Not just wine glasses and a corkscrew: actual family infrastructure</p>
 
 <h3>I created a fun backyard moment with an eye catching mural, hot tub, and putting green.</h3>
-<p>As soon as you step outside, you're greeted with a beautiful outdoor oasis where your family can use the Traeger grill while you sip on your morning coffee. Kids run around in the enclosed backyard, channeling their inner Tiger Woods on the mini golf course. Parents and kids love it.</p>
+<p>Step outside and you've got a hot tub, a putting green, and a Traeger under the pergola — your family can grill while you sip your morning coffee. Kids run around in the enclosed backyard, channeling their inner Tiger Woods on the mini golf course. Parents and kids love it.</p>
 
 <h2>The Details That Matter</h2>
 
@@ -105,7 +105,7 @@ layout: blog-post.njk
 
 <h2>What The Cozy Cactus Is</h2>
 
-<p>I wasn't trying to be revolutionary. I just wanted families to rest. Shoot. I wanted rest!! From the beginning, kids were the reason the house existed, not an afterthought. The Cozy Cactus is colorful: turquoise and coral and pineapple yellow, because why not? It's playful without being chaotic. The design is fem-leaning but appeals to everyone because good design isn't gendered, it's just good. The vibe is "organized chaos" except organized, so it's just… functional joy. The sanctuary here is practical: someone already handled the details, so parents can stop managing everything the moment they walk in. Where parents stop managing every detail because someone already managed them. Where your little ones have what they need without you hunting for it at midnight. Where vacation means rest, not just a different location to be exhausted in.</p>
+<p>I wasn't trying to be revolutionary. I just wanted families to rest. Shoot. I wanted rest!! From the beginning, kids were the reason the house existed, not an afterthought. The Cozy Cactus is colorful: turquoise and coral and pineapple yellow, because why not? It's playful without being chaotic. The design is fem-leaning but appeals to everyone because good design isn't gendered, it's just good. The vibe is "organized chaos" except organized, so it's just… functional joy. The sanctuary here is practical: someone already handled the details, so parents can stop managing everything the moment they walk in. Where your little ones have what they need without you hunting for it at midnight. Where vacation means rest, not just a different location to be exhausted in.</p>
 
 <img src="/blog/images/cozy-cactus-mural.webp" alt="Colorful hand-painted mural on The Cozy Cactus backyard wall in Indio CA" loading="lazy" decoding="async" width="1400" height="934">
 <p class="image-caption">I joke that this mural was painted by a "local artist," aka yours truly. Took lots of measurements and painter's tape, but not too shabby!</p>

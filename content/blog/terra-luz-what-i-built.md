@@ -25,7 +25,7 @@ layout: blog-post.njk
 
 <p>The Airbnb listing covers the basics. What it doesn't cover is why the pool is that specific shade of blue, why there are three bedrooms with completely different personalities, or what you'll find on the kitchen counter when you arrive. That's what this post is for. If you're deciding between Terra Luz and something else, or if you've already booked and want to know what you're walking into, this is the honest walkthrough.</p>
 
-<p>Terra Luz is inside the Indian Palms Country Club, across the street from the Empire Polo Grounds, home of Coachella and Stagecoach. It is full of vibrant color and culture reflective of wabi-sabi warmth and the patina of Old Havana. Terra Luz hosts like a retreat without feeling removed, cocooned like you'd feel in the shaded comfort of a cabana. It's relaxed, protective, deeply inviting, and designed for long restorative afternoons, slow dinners, and effortless togetherness. It is made for groups and families who travel with intention, grown-ups who still know how to play, linger, and let the day unfold. While the property is staged with all king beds to attract adults, it's versatile for hosting children with ease (pack n play, twin size trundles, plus twin daybed); and, by intention, its vibrant yet grounded tone promotes a calm and natural rhythm parents crave when traveling with energetic kiddos.</p>
+<p>Terra Luz is inside the Indian Palms Country Club, walking distance from the Empire Polo Grounds, home of Coachella and Stagecoach. Step inside and the house earns its name: vibrant color and Latin warmth throughout, cocooned enough to feel like a retreat without being removed from anything, built for groups who want long afternoons, slow dinners, and no real reason to leave. Friend groups of 6-8 book it for bachelorette weekends and festival stays. Families with kids book it because the twin daybed, trundles, and pack-n-play logistics are already solved, and the pool keeps everyone occupied without much planning required.</p>
 
 <img src="/blog/images/terra-luz-hero.webp" alt="Terra Luz vacation rental exterior and pool in Indio California, a Cuban-inspired desert home with a Frida Kahlo blue pool" width="2400" height="1600" loading="lazy">
 <p class="image-caption">The whole property. The blue is Frida Kahlo blue, inspired by the Museo Frida Kahlo in Mexico City.</p>
@@ -34,7 +34,7 @@ layout: blog-post.njk
 
 <p>The pool is the center of the property and we designed everything outward from it. The accent color is Frida Kahlo blue, a specific saturated cobalt that reads differently depending on the time of day. At noon it's electric. At sunset it goes almost purple. At night with the light on it looks like something you'd see in a film set in Havana in 1958. The outdoor space is color-drenched in terracotta (Behr Orange Flambe, to be exact), from the walls to the pergola overhead, and that warm backdrop is exactly why the Kahlo blue snaps so hard against it. Intentional contrast: grounded earth, luminous water.</p>
 
-<p>In-pool loungers are built in along the shallow end. No float required. You can lie in the water without any effort, which is the entire point of an in-pool lounger in 105-degree heat. Simple pleasures, amplified: book in one hand, cold drink in the other, pool reflections catching the light. Perfect for quiet indulgence or a photo that'll make everyone at home jealous.</p>
+<p>In-pool loungers are built in along the shallow end. No float required. You can lie in the water without any effort, which is the entire point of an in-pool lounger in 105-degree heat. Simple pleasures, amplified: book in one hand, cold drink in the other, pool reflections catching the light, or a photo that'll make everyone at home jealous.</p>
 
 <img src="/blog/images/terra-luz-pool-loungers.webp" alt="Terra Luz pool with built-in in-water loungers and Frida Kahlo blue tiles in Indio California" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The in-pool loungers. The pool is cleaned Monday and Thursday.</p>
@@ -54,12 +54,12 @@ layout: blog-post.njk
 
 <h2>The living room and entryway</h2>
 
-<p>The entryway sets the tone for the whole house. Terracotta-toned kitchen walls, a curved arch opening into the living room, and the first glimpse of the Kahlo blue from the back windows. All of it designed as an introduction. You're supposed to slow down when you walk in. The living room glows at check-in, warm light spilling across terracotta floors and rich textures, inviting guests to settle in before they've even put their bags down.</p>
+<p>The entryway sets the tone for the whole house. Terracotta-toned kitchen walls, a curved arch opening into the living room, and the first glimpse of the Kahlo blue from the back windows. All of it designed as an introduction. You're supposed to slow down when you walk in. The living room glows at check-in, warm light spilling across terracotta floors and rich textures.</p>
 
 <img src="/blog/images/terra-luz-entryway.webp" alt="Terra Luz vacation rental entryway in Indio California with terracotta tones and arched opening to living room" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The entryway inspired by old Havana warmth. This is where it starts.</p>
 
-<p>The living room opens onto the patio and pool through glass doors. Rattan furniture, natural wood, a sectional with enough seating for the whole group and a 72" Smart TV with Netflix to catch up on your favorite shows. Everything flows out toward the pool, calm yet alive with personality, color, and culture, which is where most guests end up spending most of their time anyway.</p>
+<p>The living room opens onto the patio and pool through glass doors. Rattan furniture, natural wood, a sectional with enough seating for the whole group and a 72" Smart TV with Netflix to catch up on your favorite shows. Everything flows out toward the pool through glass doors, which is where most guests end up spending most of their time anyway.</p>
 
 <img src="/blog/images/terra-luz-living-room.webp" alt="Terra Luz living room with rattan furniture, natural wood, and glass doors opening to pool in Indio California" width="1024" height="1570" loading="lazy">
 <p class="image-caption">The living room. The glass doors stay open most of the day in fall and spring. In summer, you run the AC and appreciate them from the inside.</p>
@@ -78,7 +78,7 @@ layout: blog-post.njk
 
 <h2>The bedrooms</h2>
 
-<p>Three bedrooms, each with a different character. This was intentional. Most rental houses have three identical rooms with different colored pillows. Terra Luz has three rooms that feel like they belong to different people, which works well for groups where not everyone has the same taste. The color story throughout maximizes natural desert light with low-profile furnishings and natural textures, so each room feels airy despite the saturated moments. From one space to the next, it's vibrant but easy, bold without being loud.</p>
+<p>Three bedrooms, each with a different character. This was intentional. Most rental houses have three identical rooms with different colored pillows. Terra Luz has three rooms that feel like they belong to different people, which works well for groups where not everyone has the same taste. Low-profile furnishings and natural textures keep each room feeling airy despite the saturated moments. Bold without being loud, and each room means something different.</p>
 
 <h3>The primary bedroom</h3>
 

@@ -50,7 +50,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Mid-century modern residential street in Palm Springs California with flat-roof architecture and mountain views" width="1400" height="933" loading="lazy">
 
-<p>Afternoon: pool again, or rent bikes. Downtown is flat and bikeable. Several shops on Palm Canyon rent by the hour or half-day. The neighborhoods east of downtown (Movie Colony, Ruth Hardy Park area) have some of the best residential mid-century architecture in the city.</p>
+<p>Afternoon is pool time, or rent bikes — downtown is flat, and several Palm Canyon shops rent by the hour or half-day. The neighborhoods east of downtown (Movie Colony, Ruth Hardy Park area) have some of the best residential mid-century architecture in the city.</p>
 
 <p>Evening: dinner at a restaurant you've been meaning to try, or cook at the rental. Grocery options: Stater Bros. at Ramon Road handles basics. Gelson's on Sunrise Way for better produce and deli options.</p>
 
@@ -202,4 +202,4 @@ layout: blog-post.njk
 <p>Downtown is walkable, but the rest of the itinerary requires a car. The aerial tram, Joshua Tree, Sunnylands in Rancho Mirage, and most residential neighborhoods are not reachable on foot. Rideshare works in Palm Springs proper during peak season, though coverage thins out after midnight and east of the city. Rent bikes for the downtown neighborhoods if you want to cover more ground without driving.</p>
 
 <h4>Where should I eat in Palm Springs for a long weekend?</h4>
-<p>Tropicale on Calle Encilia for dinner on arrival night, it fits the mid-century mood of the city and takes reservations. Sandfish on Indian Canyon for sushi. Koffi (1700 S Camino Real or the North location) for every morning coffee, it's the closest thing to a local institution the city has. Gelson's on Sunrise Way handles grocery needs if you want to cook one night. For a longer local list, the <a href="https://indigopalm.co/blog/palm-springs-3-day-itinerary/">full itinerary</a> covers logistics by day.</p>
+<p>Tropicale on Calle Encilia for dinner on arrival night, it fits the mid-century mood of the city and takes reservations. For sushi, Sandfish on Indian Canyon. Koffi (1700 S Camino Real or the North location) for every morning coffee, it's the closest thing to a local institution the city has. Gelson's on Sunrise Way handles grocery needs if you want to cook one night. For a longer local list, the <a href="https://indigopalm.co/blog/palm-springs-3-day-itinerary/">full itinerary</a> covers logistics by day.</p>

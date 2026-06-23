@@ -78,7 +78,7 @@ layout: blog-post.njk
 
 <p><a href="/terra-luz/">Terra Luz</a> in Indio: private saltwater pool with a sun shelf, heated, fully enclosed backyard with a latching gate. Designed with a Latin/Cuban aesthetic, so the pool area feels like somewhere you'd actually want to spend a day, not just an afterthought. Dog-friendly with prior approval, which is exactly why the enclosed fence mattered when we designed it.</p>
 
-<p><a href="/the-sundune/">The Sundune</a> in Palm Springs: private pool with an updated outdoor space, positioned in Palm Springs proper, which means you're closer to the design hotels, restaurants, and the midcentury architecture that makes Palm Springs what it is. It's a different energy than Indio: more walkable, more cafe culture, a slightly different version of the desert trip.</p>
+<p><a href="/the-sundune/">The Sundune</a> in Palm Springs: a second-floor condo with community pool access, balcony views overlooking the pool, and about 10 minutes to downtown Palm Springs. The community pool here is a different situation than a hotel pool — far fewer users, no posted hours closing you out at 10pm, more of a residents-only feel. The tradeoff for this one is location: Palm Springs proper means you're closer to the design hotels, restaurants, and midcentury architecture. Different energy than Indio.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers, Desert Marigold umbrella, and terracotta deck in Indio California" width="1400" height="933" loading="lazy">
 <p class="image-caption">Terra Luz's saltwater pool. The enclosure was a deliberate design decision, not just an aesthetic one.</p>
@@ -210,7 +210,7 @@ layout: blog-post.njk
       "name": "Are there dog-friendly vacation rentals with a private pool near the Coachella festival?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Terra Luz in Indio is dog-friendly with prior approval and has a private saltwater pool in a fully enclosed, latching backyard. It's also walking distance from the Empire Polo Club. The Sundune in Palm Springs is also dog-friendly with prior approval and has a private pool, but is about 30 minutes from the festival grounds. The Cozy Cactus is not pet-friendly."
+        "text": "Terra Luz in Indio is dog-friendly with prior approval and has a private saltwater pool in a fully enclosed, latching backyard. It's also walking distance from the Empire Polo Club. The Sundune in Palm Springs is also dog-friendly with prior approval and has community pool access, but is about 30 minutes from the festival grounds. The Cozy Cactus is not pet-friendly."
       }
     },
     {
@@ -237,7 +237,7 @@ layout: blog-post.njk
 
 
 <h4>Are there dog-friendly vacation rentals with a private pool near the Coachella festival?</h4>
-<p>Terra Luz in Indio is the strongest option for this combination. It's dog-friendly with prior approval, has a private saltwater pool, and the backyard is fully enclosed with a latching gate so a dog can be in the yard without a leash. It's also walking distance from the Empire Polo Club. The Sundune in Palm Springs is also dog-friendly with prior approval and has a private pool, though it's about 30 minutes from the festival grounds. The Cozy Cactus is not pet-friendly.</p>
+<p>Terra Luz in Indio is the strongest option for this combination. It's dog-friendly with prior approval, has a private saltwater pool, and the backyard is fully enclosed with a latching gate so a dog can be in the yard without a leash. It's also walking distance from the Empire Polo Club. The Sundune in Palm Springs is also dog-friendly with prior approval and has community pool access, though it's about 30 minutes from the festival grounds. The Cozy Cactus is not pet-friendly.</p>
 
 <h4>Do vacation rentals in the Coachella Valley charge extra for pool heating?</h4>
 <p>Many do. The standard setup is a property that can heat the pool but charges a per-night fee, ranging from $35 to $100 a night depending on the property. For April festival weekends when nights drop into the 50s, this is worth asking about before you confirm: is heating included, or is there an additional fee, and how much? A pool that isn't heated in April is comfortable in the afternoon and cold by evening. Check what's included before booking at <a href="https://indigopalm.co/blog/best-vacation-rentals-pool-coachella-valley/">indigopalm.co</a>.</p>

@@ -92,7 +92,7 @@ layout: blog-post.njk
 
 <h2>Palm Springs: Worth the 30-Minute Drive</h2>
 
-<p>Palm Springs is 30 minutes west and worth the drive every time. Mid-century modern architecture. Boutique shopping. Brunch culture. It's worth visiting, just not necessarily worth staying in. Too expensive, too crowded, too scene-y for a real escape.</p>
+<p>Palm Springs is 30 minutes west and worth the drive every time. mid-century modern architecture, boutique shopping, a brunch culture that requires a plan. It's worth visiting, just not necessarily worth staying in. Too expensive, too crowded, too scene-y for a real escape.</p>
 
 <p>What to do: modernist architecture tours, <a href="https://www.villagefestpalmsprings.com/" target="_blank" rel="noopener noreferrer">VillageFest</a> on Thursday nights, the Aerial Tramway, and brunch at <a href="https://www.cheekysf10.com/" target="_blank" rel="noopener noreferrer"><strong>Cheeky's</strong></a> or Norma's (expect lines, worth it). For the full Palm Springs dining and activity breakdown, our <a href="/blog/palm-springs-local-guide-sundune/">Palm Springs local guide</a> is worth a read before you go.</p>
 

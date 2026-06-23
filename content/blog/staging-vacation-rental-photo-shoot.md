@@ -35,7 +35,7 @@ layout: blog-post.njk
 
 <h2>Why Staging for Photography Is Its Own Skill</h2>
 
-<p><a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer"><strong>Airbnb</strong></a> guests make booking decisions in about eight seconds of photo scrolling. Not reading. Scrolling. The first image either stops their thumb or it doesn't. If it doesn't, your description, your amenities list, your five-star reviews: none of it matters. They're already on the next listing.</p>
+<p><a href="https://www.airbnb.com/" target="_blank" rel="noopener noreferrer"><strong>Airbnb</strong></a> guests make booking decisions in about eight seconds of photo scrolling. Not reading. Scrolling, and the first image either stops their thumb or it doesn't. If it doesn't, your description, your amenities list, your five-star reviews: none of it matters. They're already on the next listing.</p>
 
 <p>I learned this with our first property, <a href="/cozy-cactus/">Cozy Cactus</a>, where we shot with a point-and-shoot in mixed afternoon light and watched identical properties outbook us three to one. We upgraded the photos. Bookings went up. I've been evangelical about photography ever since.</p>
 
@@ -104,7 +104,7 @@ layout: blog-post.njk
 
 <p>This is also when you do things you cannot do earlier. Fill the fruit bowl. Put fresh flowers in the vase. Set a coffee cup by the espresso machine. These small touches photograph beautifully and they wilt or get stale if you place them too early. When the photographer walks in, the house should feel like it is ready for a guest who happens to also be a camera.</p>
 
-<h2>What Good Listing Photos Actually Do</h2>
+<h2>What Listing Photos Do</h2>
 
 <p>Listing photos are not decoration. They are your first conversation with every potential guest. Before anyone reads your description or checks your reviews, they form an impression from your photos. That impression is why they click or scroll past.</p>
 

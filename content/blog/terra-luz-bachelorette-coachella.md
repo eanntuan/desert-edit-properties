@@ -75,7 +75,7 @@ layout: blog-post.njk
 <p>Terra Luz sleeps eight across three bedrooms: a king primary with an ensuite, a second king in the Wild Tropics room, and a third room with two queens. It's most comfortable for a group of six to eight.</p>
 
 <h3>Is Terra Luz close to Coachella?</h3>
-<p>Yes. The house is walking distance to Empire Polo Club, where Coachella and Stagecoach are held, roughly an eight-minute drive. During festival weekends you can walk or bike to the gate, and the community runs golf cart rides.</p>
+<p>Yes. The house is walking distance to Empire Polo Club, where Coachella and Stagecoach are held. During festival weekends you can walk or bike to the gate, and the community runs golf cart rides.</p>
 
 <h3>Does Terra Luz allow dogs for a group trip?</h3>
 <p>Dogs are welcome with prior approval and a $150 pet fee. Message me before booking so I can confirm for your dates and group.</p>
@@ -104,7 +104,7 @@ layout: blog-post.njk
       "name": "Is Terra Luz close to Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The house is walking distance to Empire Polo Club, where Coachella and Stagecoach are held, roughly an eight-minute drive from most of Indio. During festival weekends guests can walk or bike to the gate, and the community runs golf cart rides."
+        "text": "Yes. The house is walking distance to Empire Polo Club, where Coachella and Stagecoach are held. During festival weekends guests can walk or bike to the gate, and the community runs golf cart rides."
       }
     },
     {

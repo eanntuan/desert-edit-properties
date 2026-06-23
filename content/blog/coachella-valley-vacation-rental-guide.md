@@ -52,7 +52,7 @@ layout: blog-post.njk
 
 <h2>2. Read the Review Pattern, Not Just the Star Average</h2>
 
-<p>A 4.9 with 8 reviews tells you almost nothing about consistency. A 4.7 with 200 reviews tells you a lot. Check the review count before you look at the number.</p>
+<p>A 4.9 with 8 reviews tells you almost nothing about consistency, but a 4.7 with 200 reviews tells you a lot — check the count before you look at the number.</p>
 
 <p>Then read the actual text, and not just the five-star ones. Five-star reviews tend to be short and forgettable ("amazing stay, would book again"), while the three and four-star reviews are where the real information lives. That's where you find out about the road noise that gets described as a "quiet neighborhood" in the listing, or the cleaning that's usually thorough except for the one week it wasn't.</p>
 

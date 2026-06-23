@@ -127,7 +127,7 @@ layout: blog-post.njk
 
 <p>This one requires a car. Indian Wells is about 20 minutes from Palm Springs, and The Nest is the kind of place that needs no explanation once you've been there and needs a lot of explanation before you go.</p>
 
-<p>Live music. Dancing. A full restaurant. A crowd that skews older than your average rooftop bar, which is a feature. The energy is high but not performative. People are there to have fun, not to perform having fun.</p>
+<p>Live music, real dancing, a full restaurant, and a crowd that skews older than your average rooftop bar — which here is a feature. The energy is high but not performative. People are there to have fun, not to perform having fun.</p>
 
 <p>I tell guests: go once, tell me what you think. Everyone comes back with a story. It's been there forever and shows no signs of apologizing for it.</p>
 

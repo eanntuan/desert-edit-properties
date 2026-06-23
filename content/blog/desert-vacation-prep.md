@@ -92,7 +92,7 @@ layout: blog-post.njk
 
 <p>The light in the Coachella Valley at 7am is unlike anywhere else. Pink and gold against the San Jacinto mountains. Completely still. Cool enough to walk without thinking about it.</p>
 
-<p>Wake up early at least once. Go outside with coffee before you look at anything on your phone. Walk around the neighborhood. Watch the mountains catch the sun.</p>
+<p>Wake up early at least once, go outside with coffee before looking at your phone, and walk around the neighborhood while the mountains catch the sun.</p>
 
 <p>This is the part guests forget to plan for. It's free. It takes 20 minutes. It's usually the thing people remember most.</p>
 

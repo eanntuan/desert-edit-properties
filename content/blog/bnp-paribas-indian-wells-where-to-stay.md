@@ -211,6 +211,6 @@ relatedPosts:
 
 <div style="background: #fff8e7; border-left: 3px solid #B67550; padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: 0 6px 6px 0;">
 <p style="margin-top: 0;"><strong>Book direct and skip Airbnb's 20% service fee.</strong> Same Superhost homes, direct contact with us, no platform markup.</p>
-<p><a href="/the-sundune/"><strong>The Sundune</strong></a>, 2BR/2BA in Palm Springs, 20 min from Indian Wells Tennis Garden, private pool<br><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a>, 3BR/2BA in Indio, sleeps 8, private hot tub, community pool, game room<br><a href="/terra-luz/"><strong>Terra Luz</strong></a>, 3BR/2BA in Indio, sleeps 8, private saltwater pool, dog-friendly</p>
+<p><a href="/the-sundune/"><strong>The Sundune</strong></a>, 2BR/2BA in Palm Springs, 20 min from Indian Wells Tennis Garden, community pool access<br><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a>, 3BR/2BA in Indio, sleeps 8, private hot tub, community pool, game room<br><a href="/terra-luz/"><strong>Terra Luz</strong></a>, 3BR/2BA in Indio, sleeps 8, private saltwater pool, dog-friendly</p>
 <p style="margin-bottom: 0;">All three book out early for BNP Paribas week. Check availability now.</p>
 </div>

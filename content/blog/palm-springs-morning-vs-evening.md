@@ -119,6 +119,8 @@ Yes, meaningfully. The desert dry heat dissipates faster than humid heat. By 9pm
 
 If you're planning a summer trip, the full <a href="/blog/palm-springs-summer/">Palm Springs in summer guide</a> goes deeper on month-by-month expectations, what restaurants close, and how to structure a heat-adjusted week. And for a running-specific angle on the morning window, the <a href="/blog/palm-springs-running-trails/">Palm Springs running trails guide</a> covers six routes worth waking up early for.
 
+If you want a base that works with both sides of the day, [The Sundune](/the-sundune/) is our Palm Springs property: close to morning coffee and hiking, with a private outdoor space that genuinely comes into its own after dark.
+
 *Eann is the founder of Indigo Palm Collective, operating vacation rentals in Indio and Palm Springs. She's given this same advice in approximately two hundred welcome messages.*
 
 <script type="application/ld+json">

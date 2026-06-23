@@ -37,7 +37,7 @@ layout: redirect.njk
 
 <h3>Option 1: On-Site Camping</h3>
 
-<p><strong>The pitch:</strong> You're RIGHT THERE. Walk to the stages. Full immersion.</p>
+<p><strong>The pitch:</strong> You're on the grounds — walk to every stage, skip all commute logistics.</p>
 
 <p><strong>The reality:</strong> It's a genuine desert camping experience. Temperatures stay warm overnight, facilities are shared, and sleep is light. That's the trade-off for total immersion.</p>
 
@@ -184,7 +184,7 @@ layout: redirect.njk
       "name": "How far in advance should I book a Coachella rental?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Six to nine months is the safe window for the best properties near the polo grounds. October or November for the following April. By January, the walking-distance properties with private pools are mostly gone. Properties a bit further out stay available longer but book up by February."
+        "text": "Six to nine months out is the safe window — book by October or November for the following April. By January, the walking-distance properties with private pools are mostly gone. Properties a bit further out stay available longer but book up by February."
       }
     },
     {
@@ -232,7 +232,7 @@ layout: redirect.njk
 <p>Indio, clearly. The Empire Polo Club is in Indio. Rentals in Indian Palms Country Club are walking distance to the festival grounds, about 1.5 miles on foot. Compare that to 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between sets, skip surge pricing, and walk home after the headliner.</p>
 
 <h3>How far in advance should I book a Coachella rental?</h3>
-<p>Six to nine months is the safe window for the best properties near the polo grounds. October or November for the following April. By January, the walking-distance properties with private pools are mostly gone. Properties a bit further out stay available longer but book up by February.</p>
+<p>Six to nine months out is the safe window — book by October or November for the following April. By January, the walking-distance properties with private pools are mostly gone. Properties a bit further out stay available longer but book up by February.</p>
 
 <h3>What is the cheapest Coachella accommodation option?</h3>
 <p>On-site car camping is around $125-150 per person upfront. For groups of 4-8, splitting a vacation rental in Indio often comes out to a similar or lower per-person cost once you factor in the rideshares and gear that camping requires. Camping makes sense if you want total festival immersion. A rental makes sense if you want a pool and a real bed.</p>

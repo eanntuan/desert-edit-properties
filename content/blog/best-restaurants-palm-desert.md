@@ -85,6 +85,8 @@ layout: blog-post.njk
 
 <p>If you're deciding between Palm Springs and Indio for your base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers everything that matters for that decision. And if you're looking for Palm Springs-specific restaurants, the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurant guide</a> covers that stretch separately.</p>
 
+<p>Staying in Indio puts you 25 minutes from all of this with far less traffic than coming from Palm Springs. <a href="/cozy-cactus/">The Cozy Cactus</a> is a good base for it.</p>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

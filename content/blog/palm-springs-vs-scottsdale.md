@@ -32,7 +32,7 @@ layout: blog-post.njk
 
 <p>Palm Springs is a small city. Its walkable downtown, Palm Canyon Drive, runs about a mile. There are independently owned restaurants, vintage shops, mid-century modern houses converted into boutique hotels, and an art museum worth visiting. The city has a distinct personality: retro, art-focused, gay-friendly, with a long history as a Hollywood escape. It feels like somewhere, not anywhere.</p>
 
-<p>Scottsdale is a sprawling Phoenix suburb built around luxury resort infrastructure. The resort experience is genuinely excellent: massive pool complexes, world-class golf, high-end spas. But outside the resort properties, the city is mostly strip malls and chain restaurants. Old Town Scottsdale is the walkable core, but it's smaller and more bar-focused than the name implies.</p>
+<p>Scottsdale is a sprawling Phoenix suburb built around luxury resort infrastructure. The resort experience is genuinely excellent: massive pool complexes, well-regarded golf courses, high-end spas. But outside the resort properties, the city is mostly strip malls and chain restaurants. Old Town Scottsdale is the walkable core, but it's smaller and more bar-focused than the name implies.</p>
 
 <p>Neither is better in the abstract. If you want a self-contained resort experience where you rarely leave the property, Scottsdale does that better. If you want a place with actual street life, art, and things to discover on foot, Palm Springs wins.</p>
 
@@ -86,7 +86,7 @@ layout: blog-post.njk
 
 <p>Choose Scottsdale if: you're coming from Phoenix or the Midwest, you want a resort with a full pool complex and spa and don't plan to leave the property much, or you want the classic bachelorette bar crawl setup.</p>
 
-<p>Both are good. They're just different trips.</p>
+<p>Both are good trips. They're just different ones.</p>
 
 <img src="/blog/images/ps-house-cactus-garden.webp" alt="Palm Springs midcentury modern home with cactus garden and desert landscaping in a residential neighborhood" width="1400" height="934" loading="lazy" decoding="async">
 <p class="image-caption">Palm Springs has character on every block. It's harder to find that in Scottsdale outside the resort corridors.</p>

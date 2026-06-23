@@ -114,12 +114,12 @@ relatedPosts:
 <p>The sweet spot is ages 2-10. Kids under 2 get in free, and older kids will probably max out in under an hour. Admission is $9/person. Open Tuesday through Sunday at 71701 Gerald Ford Dr, Rancho Mirage.</p>
 
 <div class="inline-cta">
-  <p><a href="/cozy-cactus/">The Cozy Cactus</a> in Indio sleeps 8, has a private pool, and puts you 15 minutes from Living Desert, Cabazon, and the date farms. It's built for exactly this kind of trip. <a href="/cozy-cactus/">Check availability →</a></p>
+  <p><a href="/cozy-cactus/">The Cozy Cactus</a> in Indio sleeps 8, has a private hot tub and community pool access, and puts you 15 minutes from Living Desert, Cabazon, and the date farms. It's built for exactly this kind of trip. <a href="/cozy-cactus/">Check availability →</a></p>
 </div>
 
 <h2>What to Pack (and What You Can Leave Home)</h2>
 
-<p>Things you do not need to bring to the Cozy Cactus: pack-n-play, high chair, baby monitor, sound machine, outlet covers, baby gate. It's all there.</p>
+<p>Things you do not need to bring to the Cozy Cactus: pack-n-play, high chair, baby monitor, sound machine, outlet covers, and baby gate are all there.</p>
 
 <p>Things worth bringing regardless: your kid's specific sleep sack or comfort item, formula or snacks they're particular about, sunscreen in quantities that reflect the desert reality. The Coachella Valley sun is not California-coast sun. It's direct and relentless. SPF 50+ on kids, reapplied after the pool.</p>
 

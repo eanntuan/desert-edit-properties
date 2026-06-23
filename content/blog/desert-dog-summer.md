@@ -53,7 +53,7 @@ The rule I follow for our guests at [The Cozy Cactus and Terra Luz](/cozy-cactus
 
 **Early morning walks.** Before 8am is the sweet spot in summer. The pavement has had all night to release heat, the air temperature is at its daily low, and the desert light is genuinely pleasant. In spring and fall, the window extends to about 10am.
 
-**Pool time.** Terra Luz in Indio and The Sundune in Palm Springs both have private pools and welcome dogs (a pet fee applies, prior approval at booking). Most dogs figure out the steps quickly. A dog who's been floating in a pool for 20 minutes on a hot afternoon is a calm, happy dog for the rest of the evening. Rinse them off after with fresh water to remove the chlorine.
+**Pool time.** Terra Luz in Indio has a private saltwater pool, and The Sundune in Palm Springs has access to the community pool at Palm Canyon Villas — both welcome dogs (a pet fee applies, prior approval at booking). Most dogs figure out the steps quickly. A dog who's been floating in a pool for 20 minutes on a hot afternoon is a calm, happy dog for the rest of the evening. Rinse them off after with fresh water to remove the chlorine.
 
 **Cooling mats and indoor enrichment.** A good cooling mat (the gel-based ones that don't need refrigeration work well) placed in front of the AC vent gives your dog a dedicated cool spot during the hottest part of the day. Puzzle feeders and frozen treats keep them occupied inside without requiring outdoor exertion.
 
@@ -131,7 +131,7 @@ Excessive panting beyond what the exertion warrants, heavy drooling, slowing or 
       "name": "Is it safe to take a dog to Palm Springs in summer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Manageable with planning, but genuinely challenging. Pavement reaches 150°F even in moderate air temps, and heat stress develops faster than expected. Walk before 8am and after 6pm, use pool time during the day. A private pool and AC are essential, not optional. Terra Luz and The Sundune both offer this setup. Details at indigopalm.co/blog/desert-dog-summer/"
+        "text": "Manageable with planning, but genuinely challenging. Pavement reaches 150°F even in moderate air temps, and heat stress develops faster than expected. Walk before 8am and after 6pm, use pool time during the day. Pool access and AC are essential, not optional. Terra Luz has a private saltwater pool; The Sundune has community pool access at Palm Canyon Villas. Details at indigopalm.co/blog/desert-dog-summer/"
       }
     },
     {
@@ -190,7 +190,7 @@ Excessive panting beyond what the exertion warrants, heavy drooling, slowing or 
 
 
 <h4>Is it safe to take a dog to Palm Springs in summer?</h4>
-<p>It's manageable with the right approach, but summer in the Coachella Valley is genuinely challenging for dogs. Pavement can reach 150°F even when the air feels bearable, and heat stress can develop faster than most people expect. The workable pattern is early morning walks before 8am, pool time during the heat of the day, and evening outings after 6 or 7pm when the temperature drops. A private pool and air conditioning are not optional extras in summer. They're the infrastructure that makes the trip safe.</p>
+<p>It's manageable with the right approach, but summer in the Coachella Valley is genuinely challenging for dogs. Pavement can reach 150°F even when the air feels bearable, and heat stress can develop faster than most people expect. The workable pattern is early morning walks before 8am, pool time during the heat of the day, and evening outings after 6 or 7pm when the temperature drops. Pool access and air conditioning are not optional extras in summer. They're the infrastructure that makes the trip safe.</p>
 
 <h4>What gear do I actually need to bring for a dog in desert heat?</h4>
 <p>Three things make a real difference: a collapsible water bottle with a built-in bowl (dehydration sneaks up fast in desert dry air), dog booties for any pavement walk in warm weather, and a cooling bandana or vest that you wet down before heading out. A gel cooling mat and frozen treats for the afternoon stretch are worth adding. These aren't just nice to have in the Coachella Valley. They're the difference between a comfortable trip and a stressful one. See the full gear breakdown at <a href="https://indigopalm.co/blog/desert-dog-summer/">indigopalm.co/blog/desert-dog-summer/</a>.</p>
