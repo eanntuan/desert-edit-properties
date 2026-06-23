@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** June 22, 2026 (session 3) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** June 22, 2026 (session 4) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -77,10 +77,7 @@ Ranked by: search volume × commercial intent × achievability for a 4-month-old
 - Content vehicle: Optimize existing `/blog/palm-springs-vs-indio/` — title tag rewrite, convert 6 JPEGs to WebP, add 2-3 internal links to Indio property pages
 - Timeline: 2 weeks post-optimization
 
-**#10 — "Modernism Week Palm Springs where to stay"**
-- Current ranking: Unknown (modernism-week-palm-springs post exists)
-- Target ranking: Position 3-6
-- Content vehicle: Update existing Modernism Week post — H1 should lead with "where to stay" framing, add booking section linking to The Sundune, update with 2027 dates
+~~**#10 — "Modernism Week Palm Springs where to stay"**~~ ✅ **DONE June 22** — H1 already led with "where to stay", Sundune booking section already present. Updated 2026 dates to 2027-forward framing (dates TBA, announced late October/November 2026) throughout body, fall edition section, and FAQPage JSON-LD.
 
 ---
 
@@ -421,6 +418,12 @@ The `/babysit-seo` skill handles this automatically. Run it after any SEO sprint
 - **"airbnb rentals indio"**: position 1.0 (featured snippet), 27 impressions, 0 clicks — answer surfacing in-SERP with no click-through. Monitor if clicks pick up or if snippet format changes.
 - **Mobile position 9.0 vs. desktop 17.0** — strong mobile-first indexing advantage. Site performs significantly better on mobile.
 - **CTR problem, not a ranking problem** — avg position 13.0 means content is being found. The June 22 meta rewrites are the primary lever to convert impressions to clicks.
+
+### What changed on June 22 (session 4)
+
+- **Modernism Week post updated** — Body dates updated from 2026-specific to 2027-forward framing (dates TBA, announced late October 2026). Opening night party reference neutralized. Fall edition section updated. FAQPage JSON-LD answer updated to match. Completes Part 2 #10.
+- **arriving-coachella-valley-first-afternoon published** — New post (June 22). 5 photos added: MCM hero (2400px), front entrance, outdoor kitchen drinks, pool umbrella, evening patio string lights. Whole Foods Google Maps link added. This post is not tracked in the keyword table — consider adding it if it starts generating impressions.
+- **Build output stragglers committed** — 3 HTML files + 5 blog/images passthrough copies from prior session were uncommitted; now at `1f0db6e`.
 
 ### What changed on June 22 (session 3)
 

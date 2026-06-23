@@ -20,7 +20,7 @@ layout: blog-post.njk
 
 Every February, Palm Springs stops pretending to be a regular desert city and leans fully into what it is: one of the most intact collections of mid-century modern architecture in the country. Modernism Week is eleven days of home tours, double-decker bus rides, film screenings, and cocktail parties built around that fact. If you care about architecture at all, it's worth building a trip around.
 
-The 2026 dates are February 12 through 22. There's also a shorter fall edition, October 15 through 18. The February run is the main event, with over 450 individual events across the eleven days.
+The 2027 dates haven't been announced yet — they typically go live in late October or early November. The 2026 edition ran February 12 through 22. There's also a shorter fall edition, which ran October 15 through 18 in 2026. The February run is the main event, with over 450 individual events across the eleven days.
 
 <img src="/blog/images/ps-blue-door-cacti.webp" alt="Mid-century modern neighborhood in Palm Springs with flat-roofline homes and mountain backdrop" loading="lazy" width="1400" height="933">
 
@@ -42,7 +42,7 @@ Palm Springs is the right backdrop for this because the city has the density. Th
 
 **Lectures and Screenings.** Many of these are free or low-cost. The <a href="https://www.psmuseum.org/" target="_blank" rel="noopener noreferrer"><strong>Palm Springs Art Museum</strong></a> runs programming throughout the festival, and there are usually architect-led walking tours of specific neighborhoods. These don't sell out the way bus tours do, so they're good to leave open for planning closer to arrival.
 
-**Opening Night Party.** February 12 in 2026 had a Modernist Motown theme. These opening events draw a crowd and typically sell out, so if you want the full social experience, buy early.
+**Opening Night Party.** The opening event draws a crowd and typically sells out. In 2026 the theme was Modernist Motown. The 2027 theme will be announced when dates drop in October. Buy early regardless.
 
 ## Tickets and When They Go On Sale
 
@@ -70,7 +70,7 @@ Part of what makes Modernism Week different from a typical festival is that you 
 
 ## The Fall Edition
 
-The October festival runs four days (October 15 to 18 in 2026) and is a smaller version of the February event. Fewer home tours, fewer bus tour dates, but also smaller crowds and cooler temperatures. If you missed February or want a lower-key version, October is worth a look. Tickets for the fall edition go on sale closer to the date.
+The October festival runs four days and is a smaller version of the February event. The 2026 fall edition ran October 15 to 18; 2027 dates will be announced in the summer. Fewer home tours, fewer bus tour dates, but also smaller crowds and cooler temperatures. If you missed February or want a lower-key version, October is worth a look. Tickets for the fall edition go on sale closer to the date.
 
 ## Practical Notes
 
@@ -85,7 +85,7 @@ The full schedule for all 450+ events is posted at <a href="https://modernismwee
 ## Frequently Asked Questions
 
 <h3>When is Modernism Week in Palm Springs?</h3>
-<p>The main event runs eleven days in February, typically the second and third weeks of the month. In 2026, the dates were February 12 through 22. There is also a shorter fall edition in October (four days). February is the main event with the most tours, events, and ticket demand.</p>
+<p>The main event runs eleven days in February, typically the second and third weeks of the month. The 2026 dates were February 12 through 22; 2027 dates will be announced in late October or early November 2026. There is also a shorter fall edition in October (four days). February is the main event with the most tours, events, and ticket demand.</p>
 
 <h3>How do you get tickets to Modernism Week?</h3>
 <p>Tickets go on sale November 1 at noon Pacific Time at modernismweek.com. The double-decker bus tours and popular home tours can sell out within hours of going live. Set a calendar reminder. There's no ticket resale marketplace, so if you miss the sale, your options are limited.</p>
@@ -108,7 +108,7 @@ For the broader Palm Springs architecture context outside of festival week, the 
       "name": "When is Modernism Week in Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The main event runs eleven days in February, typically the second and third weeks of the month. In 2026, the dates were February 12 through 22. There is also a shorter fall edition in October (four days). February is the main event with the most tours, events, and ticket demand."
+        "text": "The main event runs eleven days in February, typically the second and third weeks of the month. The 2026 dates were February 12 through 22; 2027 dates will be announced in late October or early November 2026. There is also a shorter fall edition in October (four days). February is the main event with the most tours, events, and ticket demand."
       }
     },
     {
