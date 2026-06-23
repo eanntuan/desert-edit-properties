@@ -90,6 +90,8 @@ layout: blog-post.njk
 
 <p>The best trips here tend to mix a few destination activities with a lot of time at the house. The house is part of the experience, not just where you sleep. You probably figured that out the moment you walked in.</p>
 
+<img src="/blog/images/terra-luz-kitchen-portrait.webp" alt="Terra Luz kitchen in Indio with open shelving, warm wood tones, and terracotta accents" width="1200" height="1800" loading="lazy" decoding="async">
+
 <h2>Frequently Asked Questions</h2>
 
 <h3>What should I do first when arriving at a Coachella Valley vacation rental?</h3>
