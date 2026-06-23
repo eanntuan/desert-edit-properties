@@ -30,7 +30,7 @@ layout: blog-post.njk
 
 <p>Don't skip this. The single best thing you can do in the first hour is stock the kitchen so tomorrow morning isn't a scramble. Tired guests who skip the grocery run end up paying $28 for breakfast at a resort restaurant. That's fine once. It's not fine every day.</p>
 
-<p>If you're staying in Indio (near the Terra Luz or Cozy Cactus side of the valley), <strong>Stater Bros on Monroe Street</strong> is your fastest option, about eight minutes from the Indian Palms neighborhood. It covers everything. For a better wine selection or actual produce, <a href="https://maps.app.goo.gl/ZWbpUaRrLguj6Rw28" target="_blank" rel="noopener noreferrer"><strong>Whole Foods in Palm Desert</strong></a> is worth the extra twenty minutes, especially if you're stocking up for a longer stay.</p>
+<p>If you're staying in Indio (near the <a href="https://indigopalm.co/terra-luz/">Terra Luz</a> or <a href="https://indigopalm.co/cozy-cactus/">Cozy Cactus</a> side of the valley), <strong>Stater Bros on Monroe Street</strong> is your fastest option, about eight minutes from the Indian Palms neighborhood. It covers everything. For a better wine selection or actual produce, <a href="https://maps.app.goo.gl/ZWbpUaRrLguj6Rw28" target="_blank" rel="noopener noreferrer"><strong>Whole Foods in Palm Desert</strong></a> is worth the extra twenty minutes, especially if you're stocking up for a longer stay.</p>
 
 <p>If you're in Palm Springs, <strong>Trader Joe's on East Palm Canyon Drive</strong> is the move for most things. Ralphs is nearby and open late if you forget something at 10pm.</p>
 
@@ -66,7 +66,7 @@ layout: blog-post.njk
 
 <h2>What to Skip on Day One</h2>
 
-<p>Joshua Tree will be there tomorrow, and it's better in the morning anyway before the heat builds. The outlet mall in Desert Hills will not be more interesting after a four-hour drive. The impulse to "maximize" the first afternoon is the thing most likely to make the trip feel rushed.</p>
+<p><a href="https://indigopalm.co/blog/joshua-tree-day-trip-from-indio/">Joshua Tree</a> will be there tomorrow, and it's better in the morning anyway before the heat builds. The outlet mall in Desert Hills will not be more interesting after a four-hour drive. The impulse to "maximize" the first afternoon is the thing most likely to make the trip feel rushed.</p>
 
 <p>Day one is for landing softly. A walk around the neighborhood after dinner is enough. The trip improves when you stop treating the first afternoon like a race to see everything.</p>
 
@@ -86,7 +86,7 @@ layout: blog-post.njk
 
 <h2>Planning the Rest of the Trip</h2>
 
-<p>Once you're unpacked and fed, the valley opens up quickly. If you're in Indio, the <a href="https://indigopalm.co/blog/things-to-do-indio-ca">full guide to things to do in Indio and the surrounding area</a> is a good next read before bed. If you're splitting time between Indio and Palm Springs, the downtown strip, the Indian Canyons, and the Aerial Tram are all worth a half-day each.</p>
+<p>Once you're unpacked and fed, the valley opens up quickly. If you're in Indio, the <a href="https://indigopalm.co/blog/things-to-do-indio-ca">full guide to things to do in Indio and the surrounding area</a> is a good next read before bed. If you're splitting time between Indio and Palm Springs, the downtown strip, <a href="https://indigopalm.co/blog/indian-canyons-palm-springs/">the Indian Canyons</a>, and the <a href="https://indigopalm.co/blog/palm-springs-aerial-tram/">Aerial Tram</a> are all worth a half-day each.</p>
 
 <p>The best trips here tend to mix a few destination activities with a lot of time at the house. The house is part of the experience, not just where you sleep. You probably figured that out the moment you walked in.</p>
 
@@ -107,4 +107,4 @@ layout: blog-post.njk
 <p>Temperatures regularly reach 110-115°F in July and August. Keep the house closed midday, stay hydrated, and plan outdoor activities for early morning or evening. The heat is manageable with the right habits and significantly less manageable without them.</p>
 
 <h3>Is there anything to do near vacation rentals in Indio besides Coachella?</h3>
-<p>Yes, and a lot of it is underrated. The date farms along Shields Drive, Joshua Tree National Park about 45 minutes north, the Salton Sea for a genuinely strange afternoon, and the Coachella Valley's restaurant scene are all worth building into the trip. See our <a href="https://indigopalm.co/blog/things-to-do-indio-ca">full Indio area guide</a> for specifics.</p>
+<p>Yes, and a lot of it is underrated. <a href="https://indigopalm.co/blog/date-farms-indio-coachella-valley/">The date farms along Shields Drive</a>, Joshua Tree National Park about 45 minutes north, the <a href="https://indigopalm.co/blog/salton-sea-day-trip/">Salton Sea</a> for a genuinely strange afternoon, and the Coachella Valley's restaurant scene are all worth building into the trip. See our <a href="https://indigopalm.co/blog/things-to-do-indio-ca">full Indio area guide</a> for specifics.</p>
