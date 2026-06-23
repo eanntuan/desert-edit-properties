@@ -1062,12 +1062,12 @@ async function handleApprove(request, env) {
     finalTotal = Math.max(0, baseTotal - discount);
   }
 
-  // Consume discount code now
+  // Consume discount code now (skip if reusable)
   if (booking.discountCode && env.DISCOUNT_CODES) {
     const raw = await env.DISCOUNT_CODES.get(booking.discountCode);
     if (raw) {
       const codeData = JSON.parse(raw);
-      if (!codeData.used) {
+      if (!codeData.used && !codeData.reusable) {
         await env.DISCOUNT_CODES.put(booking.discountCode, JSON.stringify({
           ...codeData, used: true, usedBy: booking.email, usedAt: new Date().toISOString(),
         }));
@@ -1769,7 +1769,7 @@ async function handleDiscount(url, env) {
   }
 
   const codeData = JSON.parse(raw);
-  if (codeData.used) {
+  if (codeData.used && !codeData.reusable) {
     return new Response(JSON.stringify({ success: false, error: 'This code has already been used' }), {
       status: 400, headers: CORS_HEADERS,
     });
