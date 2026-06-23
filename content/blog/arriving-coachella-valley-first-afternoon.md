@@ -24,6 +24,8 @@ layout: blog-post.njk
 
 <p>Here's the thing: the first afternoon almost always goes better when you slow down and do less than you planned. The Coachella Valley rewards that instinct more than most places do. This is a loose guide to landing well, whether you're staying in Indio, Palm Springs, or somewhere in between.</p>
 
+<img src="/blog/images/terra-luz-front-entrance.webp" alt="Front entrance of Terra Luz vacation rental in Indio with terracotta door and stone facade" width="1800" height="1200" loading="lazy" decoding="async">
+
 <h2>Groceries Before Anything Else</h2>
 
 <p>Don't skip this. The single best thing you can do in the first hour is stock the kitchen so tomorrow morning isn't a scramble. Tired guests who skip the grocery run end up paying $28 for breakfast at a resort restaurant. That's fine once. It's not fine every day.</p>
