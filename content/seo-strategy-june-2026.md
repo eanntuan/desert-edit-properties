@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** June 22, 2026 (session 2) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** June 22, 2026 (session 3) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -196,29 +196,17 @@ In order of revenue impact per hour of work:
 
 ## WEEK 1-2: QUICK WINS
 
-**TASK 1: Fix 8 Noindexed Posts (30 min, Critical)**
-GSC → Coverage → Excluded → "Excluded by noindex tag." Open each post's .md file, remove `noindex: true` from frontmatter. Request reindexing in GSC for all 8 URLs.
+~~**TASK 1: Fix 8 Noindexed Posts (30 min, Critical)**~~ ✅ **DONE** — Verified June 22 session 3: zero `noindex` frontmatter found across all 84 blog posts in `content/blog/`.
 
-**TASK 2: Block API Endpoints in robots.txt (10 min, Critical)**
-Open `/robots.txt`. Add:
-```
-Disallow: /api/
-Disallow: /api/availability
-```
+~~**TASK 2: Block API Endpoints in robots.txt (10 min, Critical)**~~ ✅ **DONE** — `Disallow: /api/` confirmed in robots.txt.
 
-**TASK 3: Run the Build — Publish 4 Missing Posts (5 min, High)**
-```bash
-npm run build
-```
-Then redeploy. Publishes dog-friendly and bachelorette posts, removes 4 sitemap 404 errors.
+~~**TASK 3: Run the Build — Publish 4 Missing Posts (5 min, High)**~~ ✅ **DONE** — Dog-friendly and bachelorette posts are live; both in sitemap.xml at lines 530/536.
 
 ~~**TASK 4: Title Tag + Meta Description Rewrites (2 hours, High)**~~ ✅ **DONE June 22** — Meta descriptions rewritten for palm-springs-vs-indio (148 chars, persuasive owner framing), stagecoach-2027 (154 chars, stage proximity), and modernism-week (160 chars, Sundune-forward). Homepage H1/title done in session 1. BNP Paribas meta already had 2027 in title; body dates generic enough to not need a rewrite. All dateModified bumped to 2026-06-22.
 
 ~~**TASK 5: Internal Linking Fixes (1 hour, High)**~~ ✅ **ALREADY DONE** — Verified June 22: palm-springs-vs-indio links to both `/cozy-cactus/` (line 142) and `/the-sundune/` (line 149). Stagecoach-2027 links to `/cozy-cactus/`, `/terra-luz/`, and `/blog/palm-springs-vs-indio/`. Festival-guide generic CTA box is live on every post via layout.
 
-**TASK 6: Indian Wells Proximity Copy (30 min, High)**
-On `/cozy-cactus/` and `/terra-luz/` property pages, add:
-> "20 minutes from Indian Wells Tennis Garden — perfect for BNP Paribas Open guests looking for a private home alternative to tournament hotels."
+~~**TASK 6: Indian Wells Proximity Copy (30 min, High)**~~ ✅ **DONE** — Verified June 22 session 3: both pages have "Indian Wells Tennis Garden is twenty minutes east" with BNP framing in the Location section.
 
 **TASK 7: UTM Parameters on Pinterest Pins (1 hour, Medium)**
 URL format going forward:
@@ -227,50 +215,9 @@ URL format going forward:
 - Sundune: `https://indigopalm.co/the-sundune/?utm_source=pinterest&utm_medium=organic&utm_campaign=sundune`
 - Blog posts: `https://indigopalm.co/blog/[slug]/?utm_source=pinterest&utm_medium=social&utm_campaign=editorial`
 
-**TASK 8: "Book Direct" Value Block on Property Pages (2 hours, Direct Revenue)**
-Add above/below booking widget on each property page:
-```
-WHY BOOK DIRECT
-Same property. Lower total cost.
+~~**TASK 8: "Book Direct" Value Block on Property Pages (2 hours, Direct Revenue)**~~ ✅ **DONE** — Verified June 22 session 3: all 3 active property pages have "No service fee" vs "+20% added" comparison in booking widget area plus a Why Book Direct section.
 
-Booking on Airbnb? That 3-night stay includes a $[X] guest service fee that goes to Airbnb, not toward your stay.
-
-Book here instead:
-- No guest service fee
-- Direct contact with the owners
-- Flexible communication before and during your trip
-- Same Superhost property — 146+ reviews on Airbnb
-
-[BOOK DIRECTLY — CHECK AVAILABILITY]
-```
-
-**TASK 9: Schema Markup for Property Pages (1 hour, Medium-High)**
-Add JSON-LD LodgingBusiness schema to each property page `<head>`. Example for Cozy Cactus:
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "LodgingBusiness",
-  "name": "Cozy Cactus — Indigo Palm Collective",
-  "description": "4-bedroom vacation rental in Indio, CA. Private pool, 10 minutes from Coachella and Stagecoach festival grounds. Book direct.",
-  "url": "https://indigopalm.co/cozy-cactus/",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Indio",
-    "addressRegion": "CA",
-    "addressCountry": "US"
-  },
-  "amenityFeature": [
-    {"@type": "LocationFeatureSpecification", "name": "Private Pool", "value": true},
-    {"@type": "LocationFeatureSpecification", "name": "WiFi", "value": true},
-    {"@type": "LocationFeatureSpecification", "name": "Full Kitchen", "value": true}
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.97",
-    "reviewCount": "146"
-  }
-}
-```
+~~**TASK 9: Schema Markup for Property Pages (1 hour, Medium-High)**~~ ✅ **DONE** — Verified June 22 session 3: LodgingBusiness JSON-LD with aggregateRating confirmed in cozy-cactus/index.html (line 140). All 3 active property pages confirmed in session 2.
 
 **TASK 10: Sabbir Scope + Quora Accountability Checkpoint (30 min)** *(Updated June 22)*
 
@@ -351,20 +298,22 @@ For Pinterest: Eann schedules remaining pins at 4-5/day. At 5/day, 355 pins = 71
 
 ## KEYWORD PRIORITY TABLE
 
-| Keyword | Est. Monthly Searches | Current Rank | Target Rank | Owner Page | Priority |
+*Last verified: June 22, 2026 (session 3). "Content live" = page/post deployed. Ranking data from GSC — check July 13.*
+
+| Keyword | Est. Monthly Searches | Content Status | Target Rank | Owner Page | Priority |
 |---|---|---|---|---|---|
-| Coachella 2027 where to stay | 8,000-15,000 (seasonal) | Not ranked | 4-8 | `/blog/coachella-2027-where-to-stay/` | P1 |
-| Palm springs vs. Indio | 500-1,200 | 4-5 | 1-3 | `/blog/palm-springs-vs-indio/` | P1 |
-| BNP Paribas Open where to stay | 1,000-3,000 (seasonal) | Not ranked | 3-6 | `/blog/bnp-paribas-open-vacation-rental-guide/` | P1 |
-| Vacation rentals Indio CA | 800-1,500 | Not ranked | 5-8 | `/vacation-rentals/indio/` | P1 |
-| Stagecoach 2027 where to stay | 2,000-5,000 (seasonal) | Crawled, not indexed | 4-7 | `/blog/stagecoach-2027-where-to-stay/` | P1 |
-| Book direct vacation rental Palm Springs | 300-600 | Not ranked | 4-7 | `/book-direct/` | P2 |
-| Dog-friendly vacation rental Coachella Valley | 400-800 | Not ranked | 2-5 | `/blog/terra-luz-dog-friendly-coachella/` | P2 |
-| Bachelorette rental Coachella Valley | 300-700 | Not ranked | 2-4 | `/blog/terra-luz-bachelorette-coachella/` | P2 |
-| Vacation rental near Indian Wells tennis | 500-1,000 (seasonal) | Not ranked | 3-6 | `/blog/bnp-paribas-open-vacation-rental-guide/` | P2 |
-| Modernism Week Palm Springs where to stay | 600-1,200 (seasonal) | Unknown | 3-6 | Existing Modernism Week post | P2 |
-| Vacation rentals with private pool Palm Springs | 1,200-2,500 | Not ranked | 5-10 | `/vacation-rentals-with-private-pool/` | P3 |
-| Vacation rentals Palm Springs | 4,000-8,000 | Not ranked | 10-20 | `/vacation-rentals/palm-springs/` | P3 |
+| Coachella 2027 where to stay | 8,000-15,000 (seasonal) | ✅ Live — 2,705 words | 4-8 | `/blog/coachella-2027-where-to-stay/` | P1 |
+| Palm springs vs. Indio | 500-1,200 | ✅ Live — meta rewritten June 22 | 1-3 | `/blog/palm-springs-vs-indio/` | P1 |
+| BNP Paribas Open where to stay | 1,000-3,000 (seasonal) | ✅ Live — 2,893 words | 3-6 | `/blog/bnp-paribas-open-vacation-rental-guide/` | P1 |
+| Vacation rentals Indio CA | 800-1,500 | ✅ Live — geo landing page | 5-8 | `/vacation-rentals/indio/` | P1 |
+| Stagecoach 2027 where to stay | 2,000-5,000 (seasonal) | ✅ Live — 3,650 words | 4-7 | `/blog/stagecoach-2027-where-to-stay/` | P1 |
+| Book direct vacation rental Palm Springs | 300-600 | ✅ Live — /book-direct/ | 4-7 | `/book-direct/` | P2 |
+| Dog-friendly vacation rental Coachella Valley | 400-800 | ✅ Live | 2-5 | `/blog/terra-luz-dog-friendly-coachella/` | P2 |
+| Bachelorette rental Coachella Valley | 300-700 | ✅ Live | 2-4 | `/blog/terra-luz-bachelorette-coachella/` | P2 |
+| Vacation rental near Indian Wells tennis | 500-1,000 (seasonal) | ✅ Covered — BNP post + property page copy | 3-6 | `/blog/bnp-paribas-open-vacation-rental-guide/` | P2 |
+| Modernism Week Palm Springs where to stay | 600-1,200 (seasonal) | ✅ Live — meta rewritten June 22 | 3-6 | `/blog/modernism-week-palm-springs/` | P2 |
+| Vacation rentals with private pool Palm Springs | 1,200-2,500 | ✅ Live — amenity landing page | 5-10 | `/vacation-rentals-with-private-pool/` | P3 |
+| Vacation rentals Palm Springs | 4,000-8,000 | ✅ Live — geo landing page | 10-20 | `/vacation-rentals/palm-springs/` | P3 |
 
 ---
 
@@ -413,6 +362,22 @@ Publish the definitive BNP Paribas vacation rental guide before September 2026, 
 
 ---
 
+## DOC MAINTENANCE
+
+**TASK: Keep This Doc Current (ongoing)**
+
+After every Claude session that touches the site, run `/babysit-seo` or manually update this doc:
+
+1. Mark any completed tasks with `~~strikethrough~~` + `✅ DONE [date] — [what changed]`
+2. Update the keyword table "Content Status" column when new posts go live
+3. Add a new entry under "What changed on [date]" in the GSC Baseline section
+4. Update the "Last updated" header at the top of the doc
+5. Update the "Last updated" date whenever ranking data from GSC is refreshed
+
+The `/babysit-seo` skill handles this automatically. Run it after any SEO sprint. Run it before any GSC check-in to make sure the doc reflects current reality before reading new data into it.
+
+---
+
 ## GSC BASELINE — June 22, 2026
 
 *Control group for measuring impact of June 22 changes. Compare at next check-in (target: July 13, 2026).*
@@ -456,6 +421,13 @@ Publish the definitive BNP Paribas vacation rental guide before September 2026, 
 - **"airbnb rentals indio"**: position 1.0 (featured snippet), 27 impressions, 0 clicks — answer surfacing in-SERP with no click-through. Monitor if clicks pick up or if snippet format changes.
 - **Mobile position 9.0 vs. desktop 17.0** — strong mobile-first indexing advantage. Site performs significantly better on mobile.
 - **CTR problem, not a ranking problem** — avg position 13.0 means content is being found. The June 22 meta rewrites are the primary lever to convert impressions to clicks.
+
+### What changed on June 22 (session 3)
+
+- **Git tracking restored** — Commit `d14a944` had silently deleted 1,500+ files from git tracking, breaking all GitHub Actions deploys since 12:44pm June 22. Restoration commit `7c82bc6` re-added everything; deploy confirmed successful.
+- **All arriving post URLs live** — `/blog/arriving-coachella-valley-first-afternoon/` returns 200; was 404ing due to the deploy breakage above.
+- **SEO strategy doc audit** — Verified Tasks 1-3, 6, 8, 9 (all done but never marked). Marked done. Updated keyword table to reflect all 12 target keywords now have live content. Added DOC MAINTENANCE section.
+- **`/babysit-seo` skill created** — New Claude skill at `~/.claude/skills/babysit-seo/SKILL.md`; autonomously iterates through this doc and executes incomplete tasks.
 
 ### What to check at July 13 check-in
 
