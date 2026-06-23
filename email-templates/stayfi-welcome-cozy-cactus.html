@@ -4,6 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to The Cozy Cactus — Indigo Palm Collective</title>
+    <style>
+        @media only screen and (max-width: 480px) {
+            .pad { padding-left: 20px !important; padding-right: 20px !important; }
+            .welcome-h1 { font-size: 28px !important; }
+            .body-text { font-size: 16px !important; line-height: 1.65 !important; }
+            .btn-outline { display: block !important; text-align: center !important; padding: 16px 20px !important; box-sizing: border-box !important; }
+            .btn-solid { display: block !important; text-align: center !important; padding: 16px 20px !important; box-sizing: border-box !important; }
+        }
+    </style>
 </head>
 <body style="margin: 0; padding: 0; font-family: Georgia, 'Times New Roman', serif; background-color: #F5F3EE;">
 <p style="margin: 10px 0; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; color: #aaa;"><webversion>View in browser</webversion></p>
@@ -13,8 +22,8 @@
 
     <!-- Header -->
     <tr>
-        <td style="background-color: #fffafa; padding: 24px 36px; text-align: center;">
-            <img src="https://indigopalm.co/images/logo-full.png" alt="Indigo Palm Collective" width="120" style="display: inline-block; width: 120px; height: auto;" />
+        <td class="pad" style="background-color: #fffafa; padding: 24px 36px; text-align: center;">
+            <img src="https://indigopalm.co/images/logo-full.png" alt="Indigo Palm Collective" width="60" style="display: inline-block; width: 60px; height: auto;" />
         </td>
     </tr>
 
@@ -27,19 +36,19 @@
 
     <!-- Welcome -->
     <tr>
-        <td style="padding: 40px 36px 0;">
-            <h1 style="margin: 0 0 10px; font-family: Georgia, 'Times New Roman', serif; font-size: 32px; font-weight: 400; line-height: 1.2; color: #2C2C2C;">Welcome, [firstname,fallback=Guest].</h1>
+        <td class="pad" style="padding: 40px 36px 0;">
+            <h1 class="welcome-h1" style="margin: 0 0 10px; font-family: Georgia, 'Times New Roman', serif; font-size: 32px; font-weight: 400; line-height: 1.2; color: #2C2C2C;">Welcome, [firstname,fallback=Guest].</h1>
             <p style="margin: 0 0 14px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #B67550;">The Cozy Cactus &nbsp;&middot;&nbsp; An Indigo Palm Collective Property</p>
-            <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #555;">Glad you made it. Everything you need for a good stay is below — reach out any time if something comes up.</p>
+            <p class="body-text" style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #555;">Glad you made it. Everything you need for a good stay is below — reach out any time if something comes up.</p>
         </td>
     </tr>
 
     <!-- Divider -->
-    <tr><td style="padding: 32px 36px 0;"><hr style="border: none; border-top: 1px solid #EDE8E0; margin: 0;" /></td></tr>
+    <tr><td class="pad" style="padding: 32px 36px 0;"><hr style="border: none; border-top: 1px solid #EDE8E0; margin: 0;" /></td></tr>
 
     <!-- Your First Afternoon -->
     <tr>
-        <td style="padding: 28px 36px 0;">
+        <td class="pad" style="padding: 28px 36px 0;">
             <p style="margin: 0 0 18px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #B67550;">Your first afternoon</p>
             <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                 <tr>
@@ -67,30 +76,30 @@
     </tr>
 
     <!-- Divider -->
-    <tr><td style="padding: 32px 36px 0;"><hr style="border: none; border-top: 1px solid #EDE8E0; margin: 0;" /></td></tr>
+    <tr><td class="pad" style="padding: 32px 36px 0;"><hr style="border: none; border-top: 1px solid #EDE8E0; margin: 0;" /></td></tr>
 
     <!-- Your Guidebook -->
     <tr>
-        <td style="padding: 28px 36px 0;">
+        <td class="pad" style="padding: 28px 36px 0;">
             <p style="margin: 0 0 14px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #B67550;">Your guidebook</p>
-            <p style="margin: 0 0 20px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #555;">House rules, checkout time, parking, WiFi, and everything else you'd otherwise have to text us about.</p>
-            <a href="https://indigopalm.co/cozy-cactus/welcome-guide.html?utm_source=stayfi&utm_medium=email&utm_campaign=guest-wifi" style="display: inline-block; padding: 13px 30px; border: 1.5px solid #B67550; color: #B67550; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; border-radius: 3px;">Open Guidebook &rarr;</a>
+            <p class="body-text" style="margin: 0 0 20px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #555;">House rules, checkout time, parking, WiFi, and everything else you'd otherwise have to text us about.</p>
+            <a class="btn-outline" href="https://indigopalm.co/cozy-cactus/welcome-guide.html?utm_source=stayfi&utm_medium=email&utm_campaign=guest-wifi" style="display: inline-block; padding: 13px 30px; border: 1.5px solid #B67550; color: #B67550; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; border-radius: 3px;">Open Guidebook &rarr;</a>
         </td>
     </tr>
 
     <!-- Divider -->
-    <tr><td style="padding: 32px 36px 0;"><hr style="border: none; border-top: 1px solid #EDE8E0; margin: 0;" /></td></tr>
+    <tr><td class="pad" style="padding: 32px 36px 0;"><hr style="border: none; border-top: 1px solid #EDE8E0; margin: 0;" /></td></tr>
 
     <!-- Book Direct -->
     <tr>
-        <td style="padding: 28px 36px 0;">
+        <td class="pad" style="padding: 28px 36px 0;">
             <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                 <tr>
                     <td style="padding: 28px 32px; background-color: #B67550; border-radius: 3px; text-align: center;">
                         <p style="margin: 0 0 6px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(255,255,255,0.75);">Book direct next time</p>
                         <p style="margin: 0 0 6px; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; color: #ffffff; line-height: 1.3;">Skip the 20% Airbnb fee.</p>
                         <p style="margin: 0 0 20px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.6;">The full rate goes toward your stay, not the platform.</p>
-                        <a href="https://indigopalm.co/booking-flow/?property=cozy-cactus" style="display: inline-block; padding: 12px 28px; background-color: #ffffff; color: #B67550; text-decoration: none; border-radius: 3px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Book Direct &rarr;</a>
+                        <a class="btn-solid" href="https://indigopalm.co/booking-flow/?property=cozy-cactus" style="display: inline-block; padding: 12px 28px; background-color: #ffffff; color: #B67550; text-decoration: none; border-radius: 3px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Book Direct &rarr;</a>
                     </td>
                 </tr>
             </table>
@@ -99,7 +108,7 @@
 
     <!-- Sign-off -->
     <tr>
-        <td style="padding: 32px 36px 36px;">
+        <td class="pad" style="padding: 32px 36px 36px;">
             <img src="https://indigopalm.co/images/eann-portrait.webp" alt="Eann, host at Indigo Palm Collective" width="72" height="72" style="width: 72px; height: 72px; border-radius: 50%; object-fit: cover; object-position: center 12%; display: block; margin-bottom: 14px;">
             <p style="margin: 0 0 4px; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #555;">See you in the desert.</p>
             <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; color: #2C2C2C;">Eann</p>
@@ -108,7 +117,7 @@
 
     <!-- Footer -->
     <tr>
-        <td style="padding: 18px 36px; background-color: #F5F3EE; border-top: 2px solid #B67550;">
+        <td class="pad" style="padding: 18px 36px; background-color: #F5F3EE; border-top: 2px solid #B67550;">
             <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 11px; color: #aaa; line-height: 1.7; text-align: center;">
                 Indigo Palm Collective &nbsp;&middot;&nbsp; Coachella Valley, CA<br>
                 <a href="https://indigopalm.co" style="color: #B67550; text-decoration: none;">indigopalm.co</a><br><br>
