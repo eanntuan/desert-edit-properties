@@ -1,14 +1,14 @@
 ---
-title: "Indio Between Coachella Weekends: 7 Days, No Filler"
+title: "What to Do Between Coachella Weekends: 5 Days in Indio"
 date: 2026-01-27
-dateModified: 2026-04-01
-metaDescription: "Staying in Indio between Coachella weekends? Date shakes at Shields, the Salton Sea, and spots where locals eat. A real guide, not a listicle."
+dateModified: 2026-06-23
+metaDescription: "Five days in Indio between Coachella weekends. Date farms, the Salton Sea at golden hour, real taco spots, and a vinyl listening room worth the stop."
 ogImage: /blog/images/indio-between-coachella-weekends.webp
 heroImage: /blog/images/indio-between-coachella-weekends.webp
 heroAlt: "Coachella Valley desert landscape between Indio date palms, the in-between week"
 keywords:
-  - things to do Indio between Coachella weekends
-  - Indio CA activities
+  - things to do between Coachella weekends
+  - Indio between Coachella weekends
   - Coachella Valley between weekends
   - Shields Date Garden
   - Salton Sea day trip
@@ -16,7 +16,6 @@ keywords:
   - Coachella week activities
   - Coachella Valley things to do
   - Indio California travel
-  - Justin Bieber Coachella 2026
 articleSection: "Local Guide"
 property: all
 readTime: "7 min read"

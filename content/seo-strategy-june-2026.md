@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** June 22, 2026 (session 4) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** June 23, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -535,3 +535,54 @@ These feed into Part 8 Quick Wins below.
 ~~**TASK GSC-3: Rewrite palm-springs-aerial-tram title/meta**~~ ✅ **DONE June 22** — Title: "Palm Springs Aerial Tram: Is It Worth It? (Honest Guide)" (57 chars). Meta opens with "Honest take: yes, worth it, with caveats" to directly address the dominant searcher question. dateModified bumped to 2026-06-22.
 
 ~~**TASK GSC-4: Rewrite beyond-coachella-desert-escape title/meta**~~ ✅ **DONE June 22** — Title: "Things to Do in the Coachella Valley (Not Just Coachella)" (58 chars) — replaces the ambiguous "Beyond the Festival" framing with a direct query match. Meta updated. dateModified bumped to 2026-06-22.
+
+~~**TASK GSC-5: Rewrite indio-between-coachella-weekends title/meta**~~ ✅ **DONE June 23** — Title: "What to Do Between Coachella Weekends: 5 Days in Indio" (55 chars) — query-first framing replaces the vague "No Filler" hook. Meta: opens with the five-day framing and specific activities. Removed outdated "Justin Bieber Coachella 2026" keyword. dateModified bumped to 2026-06-23. (150 imps, position 11.8, 0.7% CTR → rewrite targets 2-3% CTR.)
+
+---
+
+### What changed on June 23 — GSC Check-in
+
+**Period:** March 25 – June 23, 2026 (90 days)
+
+**Overall:** 149 clicks, 21,383 impressions, 0.7% CTR, avg position 14.1
+
+**vs. prior period (June 22 baseline):** +3 clicks, +325 impressions — negligible 1-day delta, baseline is stable.
+
+**What's working:**
+- Palm Springs Surf Club: 34 clicks, 5,503 imps, position 10.2 — top traffic driver, domain authority builder
+- Palm Springs vs. Indio: 24 clicks, 4,176 imps, position 8.4 — booking-relevant, close to top 5
+- Homepage: 13 clicks, 591 imps, 2.2% CTR — strong brand signal
+
+**Mobile vs. desktop:** Mobile CTR 1.1% vs. desktop 0.4%. Mobile position 9.1 vs. desktop 18.0 — site performs significantly better on mobile, consistent with prior baseline.
+
+**New CTR opportunity (not in prior baseline):**
+- `indio-between-coachella-weekends`: 150 imps, position 11.8, 0.7% CTR — near page 1. Title/meta rewrite executed (GSC-5 above).
+
+**Monitoring (no action yet):**
+- `where-to-stay-coachella-2026`: 1,100 imps, 4 clicks, position 8.7 — this is the old 2026 URL, which has a redirect to the main Coachella post. GSC showing both URLs is expected; link equity will transfer over time. No action.
+- `bnp-paribas-indian-wells-where-to-stay`: 50 imps, position 18.5 — still too new. Check at July 13.
+- `stagecoach-2027-where-to-stay`: 265 imps, 3 clicks, 1.1% CTR, position 9.8 — improving. Watch at July 13.
+
+**Action items generated:**
+1. ~~Rewrite `indio-between-coachella-weekends` title/meta~~ ✅ Done (GSC-5)
+2. At July 13: check CTR on June 22 rewrites (palm-springs-vs-indio, where-to-stay-coachella, palm-springs-aerial-tram, beyond-coachella-desert-escape, indio-between-coachella-weekends)
+3. At July 13: confirm stagecoach-2027 cleared "crawled but not indexed" status
+4. At July 13: check BNP Paribas position (currently 18.5 with 50 imps)
+
+---
+
+### Pinterest Check-in — June 23
+
+**Monthly views:** ~20K (last confirmed from SOCIAL_MEDIA_BIBLE context; Eann took over posting June 18)
+**Pin count:** 355 pins delivered by Sabbir May 25. Live count pending confirmation of how many Sabbir posted before handoff.
+**Link status:** Pointing to Airbnb (threshold to switch: 25-30K monthly views — not yet reached)
+**Posting status:** Eann scheduling remaining pins at 4-5/day. At that rate, 355 pins = ~70 days of content.
+
+**Quora Q&A live:** 2 batches created (392 + 10 questions). Live posting count unknown — depends on Sabbir's actual cadence (target: 2-3/day since June 15).
+**FAQPage JSON-LD coverage:** All 84 blog posts have FAQPage JSON-LD.
+
+**Action items:**
+1. Confirm from Sabbir: how many pins posted before June 18 handoff (Eann needs to know starting point)
+2. Confirm from Sabbir: Quora posting cadence — is he actually at 2-3/day?
+3. Confirm from Sabbir: Goodreads ebook timeline
+4. Pinterest monthly views remain below 25K threshold — keep Airbnb links on pins for now
