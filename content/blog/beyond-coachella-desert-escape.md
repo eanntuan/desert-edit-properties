@@ -1,8 +1,8 @@
 ---
-title: "Things to Do in the Coachella Valley (Not Just Coachella)"
+title: "Beyond Coachella: What to Do in the Coachella Valley Year-Round"
 date: 2025-12-16
-dateModified: 2026-06-22
-metaDescription: "The Coachella Valley has good hiking, hot springs, desert towns, and rental prices 40% below festival season. Here's what to do any time of year."
+dateModified: 2026-06-24
+metaDescription: "Hiking, hot springs, Joshua Tree, the Salton Sea, and restaurants worth the drive any time of year. What to do in the Coachella Valley beyond the festivals."
 ogImage: /blog/images/cozy-cactus-pool.webp
 heroImage: /blog/images/cozy-cactus-pool.webp
 heroAlt: "Pool at a desert vacation rental in the Coachella Valley, California"

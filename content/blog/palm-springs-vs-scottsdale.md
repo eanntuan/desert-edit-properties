@@ -1,8 +1,8 @@
 ---
-title: "Palm Springs or Scottsdale? Here's Who Should Pick Each"
+title: "Palm Springs vs Scottsdale: Which One Is Right for Your Trip"
 date: 2026-03-16
-dateModified: 2026-06-22
-metaDescription: "Palm Springs is better for walkable weekends and boutique stays. Scottsdale fits large groups and resort golf. Full cost breakdown inside."
+dateModified: 2026-06-24
+metaDescription: "Palm Springs wins for walkable boutique weekends. Scottsdale wins for resort pools and group golf. Full cost comparison plus honest picks for each traveler type."
 ogImage: /blog/images/scottsdale-resort-pool.webp
 heroImage: /blog/images/scottsdale-resort-pool.webp
 heroAlt: "luxury resort pool in Scottsdale Arizona desert vacation"

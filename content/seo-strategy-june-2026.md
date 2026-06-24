@@ -586,3 +586,179 @@ These feed into Part 8 Quick Wins below.
 2. Confirm from Sabbir: Quora posting cadence — is he actually at 2-3/day?
 3. Confirm from Sabbir: Goodreads ebook timeline
 4. Pinterest monthly views remain below 25K threshold — keep Airbnb links on pins for now
+
+---
+
+## PINTEREST PIN BATCH — June 23, 2026
+
+Generated June 23, 2026 from /pinterest-pins audit. Top 5 posts by 5-factor SEO scoring, 15 pins total.
+
+**Posts selected:**
+1. `palm-springs-vs-indio` — 5/5 (GSC traction 4,176 imps, booking intent, meta 152 chars, hero image, 2026 date)
+2. `where-to-stay-coachella` — 5/5 (GSC traction 2,736 imps, booking intent, meta 153 chars, hero image, 2026 date)
+3. `stagecoach-2027-where-to-stay` — 5/5 (GSC traction 265 imps, booking intent, meta 152 chars, hero image, 2026 date)
+4. `indian-palms-vacation-rental` — 4/5 (meta 138 chars = below threshold, booking intent beat surf club at equal score)
+5. `palm-springs-surf-club` — 4/5 (GSC traction 5,503 imps, highest impressions among 4/5 group)
+
+**Previews:** 15 PNGs rendered at /tmp/pinterest-pins-preview/ — review in Finder before creating in Canva.
+
+**TASK PIN-1: Produce and schedule 15 pins in Canva + Pinterest**
+Open "Copy of Terra Luz Pinterest Templates - Eann" in Canva. 3 pins per post. Drop hero image as full-bleed background, add overlay text as white bold layer in upper third (dark scrim behind it if image is light), keep logo badge and terracotta footer bar in place. Export PNG, upload to Pinterest with title + description + board from spec below. Schedule 4-5/day using Pinterest native scheduler — no batch drops.
+
+**Pin specs:**
+
+POST: palm-springs-vs-indio | https://indigopalm.co/blog/palm-springs-vs-indio/
+
+PIN 1 (Practical) | Image: blog-hero-palm-springs.webp | Board: Coachella Valley Travel
+Title: Palm Springs vs Indio: Which Makes Sense for Your Trip
+Description: 30 miles apart, 30 minutes by car. We own rentals in both areas and have zero incentive to push either one. Palm Springs gives you walkability, architecture, and a downtown worth wandering. Indio gives you space, pool size, and 15 minutes to the festival grounds. Full honest breakdown at the link.
+Overlay text: Palm Springs or Indio? Here's how to actually decide.
+
+PIN 2 (Emotional) | Image: cozy-cactus-backyard.webp | Board: Desert Lifestyle
+Title: Indio vs Palm Springs: The Real Desert Trip Decision
+Description: Midcentury streets you can wander for hours, or a 3-bedroom with a private pool and no freeway between you and the festival. Neither is wrong. Depends entirely on what your group actually wants from the trip. We break it down without the sales pitch. Full guide at the link.
+Overlay text: One city is walkable, one has the space for your whole group.
+
+PIN 3 (Booking-intent) | Image: terra-luz-exterior.webp | Board: Indio CA Vacation Rentals
+Title: Groups of 6+: Why Indio Beats Palm Springs Every Time
+Description: For large groups, Indio has the better math: 3 bedrooms, private pools, real outdoor space, and 30-50% less per night than Palm Springs. The Cozy Cactus and Terra Luz both sleep 8 in Indian Palms, minutes from the polo grounds. Book direct at indigopalm.co. Full comparison at the link.
+Overlay text: More space, lower rate, 15 min to Coachella.
+
+---
+
+POST: where-to-stay-coachella | https://indigopalm.co/blog/where-to-stay-coachella/
+
+PIN 1 (Practical) | Image: coachella-festival-crowd.webp | Board: Festival Lodging
+Title: Coachella 2027: Every Accommodation Option Compared
+Description: Camping, hotels, vacation rentals, glamping. Here's the real breakdown by cost and proximity to the grounds. For groups of 4-8, Indian Palms vacation rentals often come in below hotel rates per person, with a private pool and no rideshare math. Full breakdown at the link.
+Overlay text: Book the house before you know the lineup.
+
+PIN 2 (Emotional) | Image: indian-palms-front-entrance.webp | Board: Festival Lodging
+Title: Walking to Coachella at 9pm. No Uber, No Surge.
+Description: When your rental is walking distance from the polo grounds, you go back to the house at 3pm to rest, then return for headliners without coordinating anything. Half the group can leave early. Half can stay. That's what Indian Palms gives you. Full lodging guide at the link.
+Overlay text: Walking distance to the polo grounds, no rideshare surge.
+
+PIN 3 (Booking-intent) | Image: terra-luz-pool-backyard.webp | Board: Indio CA Vacation Rentals
+Title: Coachella 2027 Rental: Book Indian Palms Before November
+Description: Indian Palms Country Club is walking distance to Empire Polo Club. Private pools, full kitchens, no platform fees when you book direct. Good properties are claimed by November 2026 before the lineup drops. The Cozy Cactus and Terra Luz both sleep 8 in Indian Palms. Details at the link.
+Overlay text: Walk to Coachella, private pool, full house for 8.
+
+---
+
+POST: stagecoach-2027-where-to-stay | https://indigopalm.co/blog/stagecoach-2027-where-to-stay/
+
+PIN 1 (Practical) | Image: stagecoach-festival-crowd.webp | Board: Festival Lodging
+Title: Stagecoach 2027: Where to Stay Near the Festival
+Description: Camping, hotels, or a house 7 minutes from the stage. Vacation rentals in Indian Palms beat hotels on per-person cost for groups of 4 or more, and you get a private pool and a kitchen. Late April evenings in the desert drop to the 60s. Full lodging guide at the link.
+Overlay text: 7 minutes from the stage, private pool waiting.
+
+PIN 2 (Emotional) | Image: cozy-cactus-hot-tub.webp | Board: Desert Lifestyle
+Title: Hot Tub After Stagecoach: Indio Rentals Near the Stage
+Description: The Coachella Valley drops to the low 60s after sunset in late April. After three days in the desert heat, a private hot tub in a quiet Indio neighborhood is exactly the reset your group needs. Indian Palms is 7 minutes from Empire Polo Club. Full guide at the link.
+Overlay text: High 80s all day, then 60s by sunset, hot tub's ready.
+
+PIN 3 (Booking-intent) | Image: terra-luz-pool-backyard.webp | Board: Dog-Friendly Travel
+Title: Dog-Friendly Stagecoach Rental Near the Grounds
+Description: Terra Luz in Indian Palms is dog-friendly, has a private saltwater pool, and is walking distance from Empire Polo Club. Up to 2 dogs, $150 pet fee, fenced yard. Sleeps 8. Book direct at indigopalm.co and skip Airbnb's 20% service fee. Full details at the link.
+Overlay text: Dogs welcome at the saltwater pool, 7 min from Stagecoach.
+
+---
+
+POST: indian-palms-vacation-rental | https://indigopalm.co/blog/indian-palms-vacation-rental/
+
+PIN 1 (Practical) | Image: indian-palms-front-entrance.webp | Board: Festival Lodging
+Title: Indian Palms: The Neighborhood Walking to Coachella
+Description: Indian Palms Country Club in Indio is the only neighborhood in the Coachella Valley where walking to the Empire Polo Club festival entrance is actually practical. About 1.5 miles via Eisenhower Drive, roughly 19-30 minutes. No shuttle line, no rideshare needed. Full guide at the link.
+Overlay text: Walk to Coachella with no rideshare, no surge pricing.
+
+PIN 2 (Emotional) | Image: cozy-cactus-exterior.webp | Board: Coachella Valley Travel
+Title: Quiet Streets, Palm Trees, Then Coachella on Foot
+Description: There's a moment on festival Saturday when you step outside, walk through a quiet gated neighborhood, pass a neighbor sitting on their porch, and realize you're walking to Coachella. No shuttle line. No surge. You're just walking there. That's Indian Palms. Full guide at the link.
+Overlay text: Walk through quiet streets, straight to the festival.
+
+PIN 3 (Booking-intent) | Image: cozy-cactus-pool-backyard.webp | Board: Indio CA Vacation Rentals
+Title: Stay Walking Distance to Coachella: Indian Palms
+Description: Indian Palms Country Club is a gated neighborhood in Indio, walking distance to the polo grounds. Cozy Cactus and Terra Luz are both here: 3 bedrooms, private pools, sleep 8. Community has 3 pools, pickleball courts, and 27-hole golf. Book direct at indigopalm.co. Details at the link.
+Overlay text: Gated community, private pool, walking distance to the grounds.
+
+---
+
+POST: palm-springs-surf-club | https://indigopalm.co/blog/palm-springs-surf-club/
+
+PIN 1 (Practical) | Image: pssc-wave-pool-reflection.webp | Board: Palm Springs Getaways
+Title: Palm Springs Surf Club: Prices, Hours, Worth It?
+Description: Day passes run $100-250 depending on skill level, sessions are open daily until 8pm, and weekend slots book out 1-2 weeks ahead in peak season. Beginner sessions include coaching on soft-top boards. Here's the full rundown before you show up. Review at the link.
+Overlay text: Surfing in the desert for $100, mountain views included.
+
+PIN 2 (Emotional) | Image: pssc-wave-pool-reflection.webp | Board: Desert Lifestyle
+Title: Surfing Beside the San Jacinto Mountains in the Desert
+Description: A wave pool in the middle of the Sonoran Desert. The concept sounds absurd until you're in the water with the San Jacinto Mountains framing every wave. It works in a way that's specific to the Coachella Valley and hard to replicate anywhere else. Full review at the link.
+Overlay text: Wave pool in the desert, the San Jacinto Mountains behind you.
+
+PIN 3 (Booking-intent) | Image: pssc-group-surf-session.webp | Board: Bachelorette Destinations
+Title: Palm Springs Surf + Stay: Bachelorette Weekend Plan
+Description: PSSC is a natural centerpiece for a Palm Springs bachelorette weekend. Surfers book sessions while everyone else uses the Drifters restaurant overlooking the pool. The Sundune sleeps 4 across 3 kings and is 1.3 miles away. Book direct at indigopalm.co. Full activity guide at the link.
+Overlay text: Surf the wave pool, swim the desert pool, bachelorette done.
+
+---
+
+**TASK PIN-2: Confirm all 15 pins are live**
+Check Pinterest profile. All 15 pins should be visible with correct board, correct link destination (indigopalm.co/blog/[slug]/), and overlay text matching specs above. Monthly views: currently ~20K, threshold to switch links to indigopalm.co is 25-30K.
+
+---
+
+### What changed on June 24 — GSC Check-in
+
+**Period:** 2026-03-26 to 2026-06-24 (90 days)
+
+**Overall:** 153 clicks, 21,730 impressions, 0.7% CTR, avg position 14.1
+
+**vs. prior period (Dec 25 – Mar 25):** +145 clicks (+1,813%), +21,279 impressions (+4,719%) — massive growth driven by content indexing in Q1/Q2.
+
+**What's working:**
+- `palm-springs-surf-club`: 34 clicks, 5,604 imps, position 10.2 — largest traffic driver, consistently building
+- `palm-springs-vs-indio`: 24 clicks, 4,247 imps, position 8.4 — close to top 5
+- Homepage: 13 clicks, 592 imps, 2.2% CTR — solid branded signal
+
+**Mobile vs. desktop:** Mobile CTR 1.1% at position 9.1; desktop 0.4% at position 18.0. Mobile significantly outperforming — consistent with prior baseline.
+
+**CTR opportunities addressed (June 24 rewrites):**
+- `palm-springs-surf-club`: removed "2026" from title (now evergreen), punched meta with "$100-250/session" hook
+- `palm-springs-vs-scottsdale`: title rewritten to "...Which One Is Right for Your Trip" (839 imps, position 9.1, 0.5% CTR)
+- `beyond-coachella-desert-escape`: title rewritten to "Beyond Coachella: What to Do in the Coachella Valley Year-Round" — was ranking position 10.1 with 74 impressions and **0 clicks**, clear mismatch fixed
+
+**Monitoring (no action yet):**
+- `things-to-do-indio-ca`: 467 imps, position 39.9 — buried, needs authority growth, not a title fix
+- `best-hiking-palm-springs`: 328 imps, position 66.6 — needs full content overhaul when authority improves
+- `salton-sea-day-trip`: 192 imps, position 38.6 — buried
+- `best-restaurants-palm-springs`: 184 imps, position 36.7 — buried
+- `bnp-paribas-indian-wells-where-to-stay`: 51 imps, position 18.3 — check July 13
+
+**Action items generated:**
+1. ~~Rewrite palm-springs-surf-club, palm-springs-vs-scottsdale, beyond-coachella-desert-escape title/meta~~ ✅ **DONE June 24**
+2. At July 13: measure CTR lift on all June 22 + June 24 rewrites
+3. At July 13: check BNP Paribas position (currently 18.3, 51 imps)
+4. Content sprint target (when authority improves): things-to-do-indio-ca, best-hiking-palm-springs, salton-sea-day-trip — need content depth, not just title fixes
+
+~~**TASK GSC-6: Rewrite palm-springs-surf-club title/meta**~~ ✅ **DONE June 24** — Removed "2026" year from title (evergreen now). Meta: "Surf the Sonoran Desert for $100-250/session. Open daily until 8pm, books out 1-2 weeks ahead on weekends. Honest review of whether PSSC is actually worth it." (162 chars)
+
+~~**TASK GSC-7: Rewrite palm-springs-vs-scottsdale title/meta**~~ ✅ **DONE June 24** — Title: "Palm Springs vs Scottsdale: Which One Is Right for Your Trip" (60 chars). Meta: "Palm Springs wins for walkable boutique weekends. Scottsdale wins for resort pools and group golf. Full cost comparison plus honest picks for each traveler type." (160 chars)
+
+~~**TASK GSC-8: Rewrite beyond-coachella-desert-escape title/meta**~~ ✅ **DONE June 24** — Title: "Beyond Coachella: What to Do in the Coachella Valley Year-Round" (63 chars). Meta: "Hiking, hot springs, Joshua Tree, the Salton Sea, and restaurants worth the drive any time of year. What to do in the Coachella Valley beyond the festivals." (155 chars). Post was ranking position 10.1 with 74 impressions and 0 clicks — title mismatch was the clear cause.
+
+---
+
+### Pinterest Check-in — June 24
+
+**Monthly views:** ~20K (last confirmed June 3 meeting — Eann took over posting June 18)
+**Pin count:** 355 Sabbir pins delivered May 25. Live count since handoff: posting at 4-5/day.
+**Link status:** Pointing to Airbnb (threshold to switch: 25-30K monthly views — not yet reached)
+
+**Quora Q&A live:** 2 batches created (392 questions in Google Doc + 10 additional questions sent June 2026). Sabbir posting 2-3/day from brand new profile (~June 15). Expect 4-6 weeks before Quora authority builds.
+**FAQPage JSON-LD coverage:** All 86 blog posts have FAQPage JSON-LD.
+
+**Action items:**
+1. Confirm from Sabbir: how many pins live before June 18 handoff (starting point for Eann's schedule)
+2. Confirm from Sabbir: Quora actual posting cadence — is 2-3/day happening?
+3. Confirm from Sabbir: Goodreads ebook first-publish date
+4. Monthly views below 25K threshold — keep Airbnb links. Reassess when Sabbir reports July numbers.
