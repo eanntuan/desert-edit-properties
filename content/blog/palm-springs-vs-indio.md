@@ -1,8 +1,8 @@
 ---
-title: "Palm Springs vs. Indio: Distance, Cost + Which to Pick"
+title: "Palm Springs vs. Indio: We Own Both. The Honest Answer."
 date: 2026-02-05
-dateModified: 2026-06-22
-metaDescription: "30 miles apart, 30 minutes by car. We own rentals in both. Honest breakdown of cost, vibe, festival proximity, and which side makes sense for your trip."
+dateModified: 2026-06-24
+metaDescription: "We own rentals in both cities and get asked this constantly. Honest take: Palm Springs for ambiance, Indio for space, value, and festival access."
 ogImage: /blog/images/blog-hero-palm-springs.webp
 heroImage: /blog/images/blog-hero-palm-springs.webp
 heroAlt: "Palm tree-lined boulevard with the San Jacinto Mountains rising behind it in Palm Springs, California"
