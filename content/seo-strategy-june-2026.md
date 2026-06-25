@@ -857,8 +857,7 @@ The gap: AI-generated content doesn't sound like Eann because it draws from gene
 
 Posts processed: meet-baby-mythos, lesson-6-the-real-one (empty), how-i-hit-7-11-4-trust-math-without, i-just-spent-72-hours-with-chatgpt, 12-ai-build-a-thons-in-12-months, getting-started-with-claude-the-7
 
-**TASK RG-11: Shorten + goal-focus Claude prompts for Pinterest pin requests**
-Long structured checklists degrade output vs. short goal-first prompts (confirmed by Fable 5 post). Test a stripped-down pin prompt: state post topic, target traveler, CTA — nothing else. Compare against current approach. If better, update the skill's internal prompt template.
+~~**TASK RG-11: Shorten + goal-focus Claude prompts for Pinterest pin requests**~~ ✅ **DONE June 25** — Updated `pinterest-pins/SKILL.md` Step 2 from a rules checklist to a goal-first format. Each angle now opens with the intended reader outcome ("A traveler is mid-scroll... the overlay text has to make them pause"), then explains how each angle achieves that. The "answer-first, not question-first" rule was also added to overlay text guidance.
 Source: `meet-baby-mythos-what-claude-fable`
 
 **TASK RG-12: Build the "Carrie" workflow — property URL → Pinterest carousel batch**
@@ -869,8 +868,7 @@ Source: `how-i-hit-7-11-4-trust-math-without`
 After every meaningful call or site visit (Dawn design calls, contractor check-ins, guest feedback), text or email yourself 2-3 sentences: "what we decided + what surprised me." Batch weekly into Claude: paste 5-7 notes → extract blog angles, Pinterest hooks, Quora question seeds. Zero cost. Turns conversations already happening into a content queue.
 Source: `how-i-hit-7-11-4-trust-math-without`
 
-**TASK RG-14: Apply the "Mother Prompt" technique to blog briefs and Quora answers**
-Meta-prompting: paste a Mother Prompt (a prompt that improves prompts) + rough ask → Claude returns a precision prompt. Apply to blog post briefs and Quora answer drafts where quality is inconsistent. Add as an optional refinement step to the blog-writer skill. Test on next 3 briefs.
+~~**TASK RG-14: Apply the "Mother Prompt" technique to blog briefs and Quora answers**~~ ✅ **DONE June 25** — Added a "Mother Prompt" block to the top of Step 3 in `new-blog-post/SKILL.md`. It primes the role (Eann Tuan, Indigo Palm host), audience (25-45, done with generic travel content), goal (rank + earn direct booking), and hard constraints (earn every claim, start with scene or direct answer) before any writing begins. Not a rules checklist — it's an identity primer that runs silently before generating.
 Source: `getting-started-with-claude-the-7`
 
 **TASK RG-15: Create per-property Claude Projects with uploaded context files**
