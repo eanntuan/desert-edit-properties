@@ -762,3 +762,295 @@ Check Pinterest profile. All 15 pins should be visible with correct board, corre
 2. Confirm from Sabbir: Quora actual posting cadence — is 2-3/day happening?
 3. Confirm from Sabbir: Goodreads ebook first-publish date
 4. Monthly views below 25K threshold — keep Airbnb links. Reassess when Sabbir reports July numbers.
+
+---
+
+# PART 9: AI MARKETING SYSTEM — RACHEL GAINSBURG SYNTHESIS (June 24, 2026)
+
+**Content Tracker (Google Sheets):** https://docs.google.com/spreadsheets/d/1nEAUpxSaDpm44HlWSy5WP-BFbr0IORehtGF385Ua5BY/edit
+Tabs: Pinterest Pins | Email Campaigns | Quora Answers | Newsletter
+All captions from RG-1 are pre-loaded in the Pinterest Pins tab. Add new content here as it's created.
+
+*Source: 11 "Her AI Empire" Substack articles (Build-a-Thon series). Filtered for Indigo Palm applicability.*
+
+---
+
+## Quick Wins (under 2 hours each)
+
+**TASK RG-1: Sunday 90-min vibe marketing workflow**
+Load Indigo Palm brand dossier into Claude. Generate 10 hooks per property, pick top 3, turn into raw conversational captions. Generate lo-fi visuals in NanoBanana (authenticity beats polished travel photography for scroll-stopping). Property-specific angles:
+- Terra Luz: "walked to Coachella in 18 minutes" hook
+- Cozy Cactus: "family of 6 packed in, nobody wanted to leave"
+- Sundune: "3 king beds for a girls' weekend"
+
+Output: full week of Pinterest + Instagram + Quora asset captions in one session. Run every Sunday. Source: Lesson 8 (vibe marketing / ugly ads).
+
+**TASK RG-2: Pinterest caption cleanup via Claude browser extension**
+Install the Claude Chrome extension. Prompt: "Scan these 50 pins, draft scroll-stopping captions using problem > solution > soft CTA structure, show all before saving." Produce a finalized caption file and hand it to Sabbir. Closes the gap between his pin volume and the caption quality you actually want. Source: Lesson 5 (browser agent).
+
+**TASK RG-3: Quora answer template using thread prompt structure**
+Formalize a Claude prompt for all Quora seeding: business = "Indigo Palm, 3 desert vacation rentals in Coachella Valley," audience = "couples/families planning a Coachella-area trip," CTA = "visit indigopalm.co and check availability." Structure every answer as: problem > pain > tactical solution > soft CTA. Run for 5-7 high-volume questions per week. Source: Lesson 3 (viral thread prompt).
+
+**TASK RG-4: Claude Project "Indigo Palm HQ"**
+Create a Claude Project with: (1) brand voice + property story beats doc, (2) per-property persona doc (Terra Luz = Coachella crowd, Cozy Cactus = families, Sundune = couples), (3) content calendar. Connect Gmail + Google Calendar via native connectors. Run the 30-day business audit prompt to surface automatable tasks. Rachel's group found 12 hrs/week of automatable tasks from this step alone. Source: Lesson 10 (Claude Cowork 201).
+
+---
+
+## Medium Projects (1-2 days each)
+
+**TASK RG-5: Booking intent chat bubble on indigopalm.co**
+86 blog posts drive organic traffic with no conversion mechanism beyond a link to Airbnb. Build a PURSE-framework chatbot using MindPal or Voiceflow:
+- Persona: "Desert Host" for Indigo Palm
+- Knowledge base: FAQ doc (pet policies, pool heating cost, parking, Coachella proximity, Sundune 4-night min)
+- Goal: collect email + detect "when are you visiting" + hand off to booking link
+- Deploy as a chat bubble site-wide
+
+Captures 2am browsers who won't email. Builds an email list you own, outside of Airbnb. Source: Lesson 2 (Build-a-Thon #2).
+
+**TASK RG-6: "5 Why's" conversion brief for Sabbir's pin batches**
+Sabbir is building pin volume. Volume without conversion engineering is what Lesson 4 warns against. Map the 5 Whys for each property:
+- Why Terra Luz (not a hotel at Coachella)?
+- Why now (Stagecoach before dates sell)?
+- Why you (dog-friendly, private pool, Cuban-inspired)?
+- Why not (go to a hotel instead)?
+- Why believe it (social proof, specific details)?
+
+Identify the weakest Why in current pins — almost certainly "Why now" and "Why not go to a hotel." Write a one-page brief for Sabbir with specific pin concepts targeting those two. Turns his 50-pin goal from volume to conversion. Source: Lesson 4 (Canva quote cards).
+
+**TASK RG-7: Notebook LM infographics from existing blog posts**
+86 posts are sitting un-repurposed. Upload top 10 by likely search volume to Notebook LM, generate infographics in 90 seconds each. Use as: Pinterest pins (high save rate for "guide" style infographics), Instagram carousel slides, Quora answer attachments. Sabbir posts these without you writing new content. Top candidates: "things to do near Coachella," "Indio vs Palm Springs," "Stagecoach weekend guide," "best time to visit Palm Springs." Source: Lesson 8.
+
+**TASK RG-8: Monday competitor intelligence agent (scheduled)**
+Build a Claude agent that runs Monday mornings and outputs a brief with: (1) PriceLabs pricing moves by comparable Indio/Palm Springs listings, (2) common guest complaints in recent competitor reviews (check public Airbnb pages), (3) new listings entering the Coachella Valley market. No manual work required after setup. Source: Lesson 9 (AI employees).
+
+---
+
+## Bigger Projects (1-2 weeks)
+
+**TASK RG-9: HeyGen video clone for property tours**
+Record 5 minutes of yourself talking. Build a HeyGen avatar + ElevenLabs voice clone once. Then script property tours and "what to expect at Coachella" guides — the clone delivers them, Seedance provides cinematic b-roll of desert/pool/interior. No camera time after initial setup. Especially timely: Terra Luz just relaunched post-renovation and needs fresh video content. Cost: HeyGen subscription vs. a videographer every renovation cycle. Source: Lesson 6.
+
+**TASK RG-10: Relay.app Content Reservoir**
+The gap: AI-generated content doesn't sound like Eann because it draws from generic training data, not real guest interactions. Build a Reservoir document capturing: guest review excerpts, common Airbnb message questions, Pinterest DMs, email replies. Wire into Relay.app: Reservoir updates weekly → Claude generates 5 pin captions + 1 Quora answer + 1 blog brief using real guest language. Same input, same output, every time. Content compounds instead of resetting each week. Source: Lesson 11.
+
+---
+
+## What to Skip
+
+- **Micro-SaaS / vibe coding (Lesson 7):** Building software to sell is wrong leverage when three properties need to be filled.
+- **Facebook thread strategy (Lesson 3):** Wrong platform for vacation rental guests. Use the underlying prompt structure for Quora instead (already captured in TASK RG-3).
+
+---
+
+## Priority Order This Week
+
+1. TASK RG-1 — Sunday vibe marketing workflow (immediate content output)
+2. TASK RG-6 — "5 Why's" brief for Sabbir's next pin batch (NOTE: Eann is now posting, not Sabbir — update framing accordingly)
+3. TASK RG-3 — Quora thread prompt template
+4. TASK RG-4 — Claude Project HQ + 30-day audit
+5. TASK RG-5 — Site chat bubble (MindPal/Voiceflow)
+6. TASK RG-7 — Notebook LM infographics from existing posts
+
+---
+
+### New from Rachel — June 24, 2026
+
+Posts processed: meet-baby-mythos, lesson-6-the-real-one (empty), how-i-hit-7-11-4-trust-math-without, i-just-spent-72-hours-with-chatgpt, 12-ai-build-a-thons-in-12-months, getting-started-with-claude-the-7
+
+**TASK RG-11: Shorten + goal-focus Claude prompts for Pinterest pin requests**
+Long structured checklists degrade output vs. short goal-first prompts (confirmed by Fable 5 post). Test a stripped-down pin prompt: state post topic, target traveler, CTA — nothing else. Compare against current approach. If better, update the skill's internal prompt template.
+Source: `meet-baby-mythos-what-claude-fable`
+
+**TASK RG-12: Build the "Carrie" workflow — property URL → Pinterest carousel batch**
+Prompt that takes a property page URL + one theme angle (e.g., "dog-friendly weekend," "Coachella prep") and outputs 5 pin concepts with title, description, CTA, and alt text. Eann reviews and approves; stops generating from scratch each time. One sitting = a full week of pins.
+Source: `how-i-hit-7-11-4-trust-math-without`
+
+**TASK RG-13: Start a conversation capture habit for content extraction**
+After every meaningful call or site visit (Dawn design calls, contractor check-ins, guest feedback), text or email yourself 2-3 sentences: "what we decided + what surprised me." Batch weekly into Claude: paste 5-7 notes → extract blog angles, Pinterest hooks, Quora question seeds. Zero cost. Turns conversations already happening into a content queue.
+Source: `how-i-hit-7-11-4-trust-math-without`
+
+**TASK RG-14: Apply the "Mother Prompt" technique to blog briefs and Quora answers**
+Meta-prompting: paste a Mother Prompt (a prompt that improves prompts) + rough ask → Claude returns a precision prompt. Apply to blog post briefs and Quora answer drafts where quality is inconsistent. Add as an optional refinement step to the blog-writer skill. Test on next 3 briefs.
+Source: `getting-started-with-claude-the-7`
+
+**TASK RG-15: Create per-property Claude Projects with uploaded context files**
+One Project per property (Terra Luz, Cozy Cactus, Sundune), each containing confirmed listing copy, brand guide excerpts, photo inventory, and recent guest reviews. Benefits: guest reply drafts stay property-specific, pin tone shifts correctly per property, blog posts don't accidentally mix facts. One-time setup, ~2 hours total.
+Source: `getting-started-with-claude-the-7`
+
+**TASK RG-16: Test Ideogram or Nano Banana for seasonal Pinterest graphics**
+Eann has strong photography from Dawn's shoot but no seasonal variation (Coachella, Christmas in the desert, monsoon pool). Test with a brand-consistent style prompt (terracotta, rattan, natural light, desert palette) for 3-5 supplementary graphics. If it passes the brand filter, eliminates the need to schedule a mini-shoot every new content angle. Both tools have free tiers.
+Source: `12-ai-build-a-thons-in-12-months`
+
+**TASK RG-17: HeyGen AI video clone for property walkthrough Reels** — IN PROGRESS
+Scripts written for all 3 properties. Stored in Content Tracker → Reels Scripts tab.
+
+**What's done:**
+- 3 Reels scripts written (Terra Luz, Cozy Cactus, Sundune) — all 130-140 words, ~45-60 sec spoken
+- Stored in Google Sheet: https://docs.google.com/spreadsheets/d/1nEAUpxSaDpm44HlWSy5WP-BFbr0IORehtGF385Ua5BY/edit
+
+**What Eann needs to do to finish:**
+1. Sign up at heygen.com (free to test — no credit card needed for trial)
+2. Record 15 seconds of yourself speaking to camera (chest-up, good light, quiet room, no cuts, look directly at camera). Avatar 5 only needs 15 seconds.
+3. Upload to HeyGen → Create Avatar → Avatar 5 (Instant Avatar). Ready in minutes.
+4. Paste each script, select your avatar, download MP4 (9:16 vertical, 1080p — Reels-ready)
+5. Post. No more recording needed after step 2-3.
+
+**HeyGen pricing:** Free trial has watermarks (good for testing quality). Creator plan = $24/month (annual) or $29/month for publishable 1080p. Voice cloning is included — no ElevenLabs needed separately.
+
+Source: `12-ai-build-a-thons-in-12-months`
+
+---
+
+### What changed on June 25 — GSC Check-in
+
+**Period:** 2026-03-27 to 2026-06-25 (90 days)
+
+**Overall:** 154 clicks, 22,096 impressions, 0.7% CTR, avg position 14.0
+
+**vs. June 24 baseline:** +1 click, +366 impressions — 1-day delta, fully stable.
+
+**What's working:**
+- `palm-springs-surf-club`: 34 clicks, 5,696 imps, position 10.2 — consistent top traffic driver
+- `palm-springs-vs-indio`: 24 clicks, 4,319 imps, position 8.4 — still close to page 1
+- Homepage: 13 clicks, 601 imps, 2.2% CTR — solid brand signal
+
+**Mobile vs. desktop:** Mobile CTR 1.1% (pos 9.0) vs. desktop 0.4% (pos 17.9) — consistent with all prior baselines.
+
+**New CTR opportunities (not previously actioned):**
+- `pet-friendly-palm-springs`: 107 imps, position 18.0, 0.9% CTR — title + meta rewrite executed (GSC-9)
+- `coachella-valley-weekend-getaway`: 188 imps, position 13.4, 1.1% CTR — meta rewrite executed (GSC-10)
+
+**Monitoring (no action yet):**
+- `bnp-paribas-indian-wells-where-to-stay`: 56 imps, position 18.9, 0 clicks — still new, check July 13
+- All June 22 + June 24 rewrites still inside the 90-day window — CTR lift won't show clearly until July 13
+
+**Action items generated:**
+1. ~~Rewrite pet-friendly-palm-springs title/meta~~ ✅ Done (GSC-9)
+2. ~~Rewrite coachella-valley-weekend-getaway meta~~ ✅ Done (GSC-10)
+3. July 13: measure CTR lift on all rewrites GSC-1 through GSC-10
+
+---
+
+~~**TASK GSC-9: Rewrite pet-friendly-palm-springs title/meta**~~ ✅ **DONE June 25** — Title: "Dog-Friendly Palm Springs: Rentals, Trails + What to Skip" (58 chars, keyword-first). Meta: "Palm Springs is dog-friendly if you know where. The honest guide to pet-friendly vacation rentals, hiking trails, outdoor patios, and the limits most guides skip over." (167 chars). Post at position 18.0 with 107 imps, 0.9% CTR — lead-keyword shift from "Pet-Friendly" to "Dog-Friendly" matches more common search phrasing.
+
+~~**TASK GSC-10: Rewrite coachella-valley-weekend-getaway meta**~~ ✅ **DONE June 25** — Meta rewritten: "Brilliant from October to April, brutal in summer. The honest Coachella Valley weekend breakdown: best timing, which side to base yourself, and how to handle the afternoon heat." (177 chars). Title kept (already good at 57 chars). Post at position 13.4 with 188 imps, 1.1% CTR — meta now leads with the specific differentiator (seasonal honesty) vs. the generic question opener.
+
+---
+
+### Pinterest Check-in — June 25
+
+**Monthly views:** ~20K (last confirmed June 3 via Sabbir meeting — no new data this week)
+**Pin count:** 355 pins delivered May 25. Eann posting 4-5/day since June 18 takeover.
+**Link status:** Pointing to Airbnb. Threshold to switch: 25-30K monthly views — not yet reached.
+
+**Quora Q&A live:** 2 batches (392 questions + 10 targeted questions). Sabbir posting 2-3/day from June 15 profile. No traffic expected for 4-6 more weeks.
+**FAQPage JSON-LD coverage:** All 86 blog posts have FAQPage JSON-LD.
+
+**Action items:**
+1. Confirm from Sabbir: how many pins live before June 18 handoff (Eann needs this to know what's already scheduled)
+2. Confirm from Sabbir: Quora actual posting cadence — is 2-3/day happening?
+3. At next check-in: re-confirm monthly views — if approaching 25K, prepare Airbnb-to-indigopalm.co link switch
+
+---
+
+### New from Rachel — June 25, 2026 (no new action items)
+
+Posts checked: `what-650000-people-just-learned-about`, `ai-advantage-why-are-you-alive-the`, `before-i-tell-you-what-just-changed-7f2`, `before-i-tell-you-what-just-changed`
+
+All 4 skipped: first three are doctor/mindset/personal-essay content outside Indigo Palm scope. Fourth (Claude Code 2.0 primer) has no new action items since Eann already uses Claude Code. Processed list updated in memory.
+
+---
+
+## RG Tasks Executed — June 25, 2026
+
+~~**TASK RG-3: Quora answer template**~~ ✅ **DONE June 25** — See template below.
+
+**Quora Answer Template (copy-paste for Sabbir or any new Quora batch):**
+
+```
+CONTEXT FOR CLAUDE:
+Business: Indigo Palm Collective — three vacation rentals in the Coachella Valley, California (Terra Luz and Cozy Cactus in Indio, The Sundune in Palm Springs).
+Audience: Couples, families, and groups planning a trip to Palm Springs, Coachella, Stagecoach, or the broader Coachella Valley.
+CTA: Visit indigopalm.co and check availability.
+
+For each question below, write a Quora answer using this structure:
+1. Open with the direct answer in the first sentence — no preamble, no "Great question."
+2. Paragraph 2: specific, useful detail (exact distances, amenities, logistics, what makes the area different)
+3. Paragraph 3: the thing most people get wrong or skip — the honest nuance
+4. Close with ONE sentence linking to a specific indigopalm.co page or blog post
+
+Tone: knowledgeable local who owns rentals in the area. Not salesy. Willing to acknowledge limitations. No em dashes. No stacking of short standalone sentences — connect ideas with commas or conjunctions.
+Length: 200-350 words per answer.
+
+Questions to answer:
+[PASTE QUESTIONS HERE]
+```
+
+~~**TASK RG-6: "5 Why's" conversion brief for Pinterest pins**~~ ✅ **DONE June 25** — See brief below.
+
+**5 Why's Brief — Indigo Palm Properties:**
+
+*For Eann to use when planning her next Pinterest pin batch. Each "Why" maps to a pin angle.*
+
+**WHY ME (Why stay here, not at a hotel)?**
+- Terra Luz: private saltwater pool + hot tub, Cuban-inspired interior, dog-friendly with fenced yard, outdoor kitchen, walkable to Coachella
+- Cozy Cactus: community pool + private hot tub, great for families (infant gear on-site), same neighborhood as Terra Luz
+- Sundune: 3 king beds in a 2BR (no one fights over the good room), Palm Springs location, quiet HOA community
+- Weakest "Why Me" in current pins: the outdoor kitchen at Terra Luz and the 3-kings setup at Sundune are underrepresented
+
+**WHY THIS (Why the Coachella Valley, not somewhere else)?**
+- Walking distance to Empire Polo Club from Indian Palms (Terra Luz, Cozy Cactus)
+- Palm Springs design scene, Modernism Week, BNP Paribas tennis (Sundune angle)
+- Desert heat = evening pool culture, something LA/SD can't replicate
+- Weakest: pins don't explain what makes Indian Palms specifically special vs. any Indio rental
+
+**WHY YOU (Why choose Indigo Palm over another rental)?**
+- Book direct = skip Airbnb's 20% service fee
+- Superhost, 4.97-4.98 stars across 146 reviews
+- Dog-friendly with no weight limits (Terra Luz, Sundune)
+- Weakest: social proof is rarely visible in current pins. Add "4.97 stars, 146 reviews" or a guest quote.
+
+**WHY NOW (Why book this trip soon)?**
+- Coachella and Stagecoach properties book out by November for April dates
+- BNP Paribas properties book 4-6 months ahead (tournament is in March)
+- Off-season rates are 30-50% lower — this is the best time to book summer
+- Weakest Why in current pins: urgency is almost never mentioned. This is the biggest gap.
+
+**WHY NOT (Why you shouldn't come — the honest limitations)?**
+- Terra Luz and Cozy Cactus are in a quiet residential golf community — no walkable bars or restaurants
+- Sundune has HOA 4-night minimum stay — not ideal for a quick 2-night weekend
+- Peak summer (June-August) is genuinely brutal — not for everyone
+- Weakest: current pins ignore this entirely. One honest "who this is NOT for" pin will outperform 10 promotional ones.
+
+**Priority pins to write based on this:**
+1. Urgency angle: "Coachella 2027 properties book out before the lineup drops"
+2. Social proof angle: "4.97 stars — here's what 146 guests said about the pool"
+3. Honest limitation: "This neighborhood has no walkable restaurants and that's the point"
+4. 3-kings angle: "No one fights over the good room at The Sundune"
+
+~~**TASK RG-12: "Carrie" workflow**~~ ✅ **DONE June 25** — See prompt below.
+
+**The Carrie Prompt (paste into Claude when you need a pin batch):**
+
+```
+You're generating Pinterest pins for Indigo Palm Collective, a vacation rental brand in the Coachella Valley, CA. Properties: Terra Luz (Indio, Cuban-inspired, private saltwater pool, dog-friendly, walking distance to Coachella), Cozy Cactus (Indio, family-friendly, hot tub, community pool), The Sundune (Palm Springs, 3 king beds, dog-friendly with approval, 4-night min).
+
+SOURCE: [PASTE PROPERTY PAGE URL OR BLOG POST URL]
+ANGLE: [e.g., "dog-friendly Coachella weekend" / "family trip with toddler" / "bachelorette group of 6"]
+
+Generate 5 Pinterest pins in this exact format for each:
+
+PIN [N] | Type: [Practical / Emotional / Booking-intent]
+Board: [specific board name]
+Title: [60 chars max, keyword-first]
+Description: [150-200 words — problem > specific detail > soft CTA. No em dashes. No sentence stacking.]
+Overlay text: [10-12 words for the graphic, punchy, problem-first]
+Image suggestion: [one word description of the shot that would work best]
+
+Rules:
+- At least 1 Practical (answers a real question), 1 Emotional (you-are-there feeling), 1 Booking-intent (direct CTA)
+- Every pin ends with a link to indigopalm.co/[relevant page]
+- No buzzwords (luxury, curated, world-class). Replace with the specific detail that earns those adjectives.
+- For festival pins: "walking distance to the Empire Polo Club" — never "2.5 miles" or any specific mileage
+- For booking pins: include "book direct at indigopalm.co and skip Airbnb's 20% service fee"
+```
