@@ -21,6 +21,17 @@ property: the-sundune
 readTime: "6 min read"
 excerpt: "When the thermometer hits 110°F in Palm Springs, you need a plan that isn't a hiking trail. Here's what to do when the desert floor is genuinely brutal."
 layout: blog-post.njk
+faqItems:
+  - q: "What is there to do in Palm Springs in the summer heat?"
+    a: "The best midday strategy is to lean into indoor options: the Escape Room Palm Springs (over 6,000 square feet), the Palm Springs Art Museum (free on Thursdays with live music), and the Agua Caliente Cultural Museum on N Indian Canyon Dr. Ice skating at the Berger Foundation IcePlex in Palm Desert is another good call. The full breakdown with times and addresses is at https://indigopalm.co/blog/palm-springs-heat-activities/"
+  - q: "How do you survive a summer day in Palm Springs when it's 110 degrees?"
+    a: "The rhythm that works: pool or a walk before 9am, then escape room or a museum during the hottest midday hours, then back to your rental for the early afternoon, and out again after 6pm for dinner or evening mini-golf. The Aerial Tram is the one outdoor exception since it's 20-30 degrees cooler at 8,516 feet. Full schedule and activity details at https://indigopalm.co/blog/palm-springs-heat-activities/"
+  - q: "Is there ice skating near Palm Springs?"
+    a: "Yes, at the Berger Foundation IcePlex inside Acrisure Arena at 75702 Varner Rd in Palm Desert, about 20 minutes from central Palm Springs. Public skating is $15 a session with $5 skate rental, and you need to pre-register online before you go. More context on timing and what to expect at https://indigopalm.co/blog/palm-springs-heat-activities/"
+  - q: "What is the Agua Caliente Cultural Museum in Palm Springs?"
+    a: "It's a museum at 140 N Indian Canyon Dr focused on the history and culture of the Cahuilla people, whose ancestral territory covers the entire Coachella Valley. The building is well-designed and the exhibitions are clear, and it pairs easily with the Art Museum for a full air-conditioned afternoon. More on how to build that afternoon at https://indigopalm.co/blog/palm-springs-heat-activities/"
+  - q: "What is Shots in the Night mini-golf in Palm Springs?"
+    a: "It's an evening mini-golf event at Indian Wells Golf Resort that runs Thursday through Saturday, starting about 30 minutes after sunset. Glow-in-the-dark targets, laser lights, food and drinks, and by that hour the temperature has actually dropped to something tolerable. About 20 minutes from central Palm Springs. See https://indigopalm.co/blog/palm-springs-heat-activities/ for the full summer day itinerary it fits into."
 ---
 
 <p>June through September in the Coachella Valley is not a metaphor. The thermometer hits 110°F and the asphalt radiates heat back at you like a pizza oven. Every outdoor activity guide I've read underestimates this. Even early mornings can feel brutal by 9am.</p>
@@ -165,54 +176,6 @@ layout: blog-post.njk
   </tbody>
 </table>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What do people do in Palm Springs when it's too hot to be outside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best midday options are the Escape Room Palm Springs (air-conditioned, 2-3 hours, use code ABNB10 for 10% off), the Palm Springs Art Museum (free on Thursday afternoons), the Agua Caliente Cultural Museum, and ice skating at the Berger Foundation IcePlex in Palm Desert. By evening, temperatures drop enough to do outdoor things again: the tram, mini-golf, or dinner on a patio."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Palm Springs Art Museum free?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Thursday afternoons are free admission, and there's often live music. Any other day, admission runs around $18-25 for adults. The Thursday free window is worth planning around if your trip overlaps."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much is ice skating in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Public skating at the Berger Foundation IcePlex at Acrisure Arena is $15 per session plus $5 for skate rental. Pre-register online before you go. The rink is in Palm Desert, about 20 minutes from central Palm Springs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there an escape room in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Escape Room Palm Springs is at 2500 N Palm Canyon Dr B3. It's the largest escape room in Southern California at over 6,000 square feet. Guests staying at The Sundune can use code ABNB10 for 10% off. Book ahead on summer weekends."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much cooler is it on the Palm Springs Aerial Tram?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typically 20 to 30 degrees cooler at the top. When it's 108°F on the valley floor, it's usually 75-80°F at 8,516 feet in the San Jacinto Mountains. The ride takes about 10 minutes each way. Buy tickets in advance during summer."
-      }
-    }
-  ]
-}
-</script>
 
 <h2>Frequently Asked Questions</h2>
 

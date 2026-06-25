@@ -28,6 +28,17 @@ property: all
 readTime: "8 min read"
 excerpt: "Hotels, camping, vacation rentals: an honest breakdown of every Coachella accommodation type from someone who lives here. No affiliate links, no sponsored takes."
 layout: blog-post.njk
+faqItems:
+  - q: "Is it better to stay in Palm Springs or Indio for Coachella?"
+    a: "Indio, without question. The Empire Polo Club is in Indio, and festival traffic turns a 30-mile drive from Palm Springs into 60 to 90 minutes each direction, which adds up to somewhere between 6 and 9 hours of commuting over a three-day festival. The full breakdown is at https://indigopalm.co/blog/where-to-stay-coachella/"
+  - q: "How much does it cost to stay near Coachella for a group?"
+    a: "For a group of six splitting a three-bedroom vacation rental in Indian Palms, expect $1,500 to $2,400 total for three nights, which often works out to less per person than a hotel room once you factor in rideshare surge from further out. The detailed comparison by accommodation type lives at https://indigopalm.co/blog/where-to-stay-coachella/"
+  - q: "When do Coachella rentals near the polo grounds sell out?"
+    a: "Good Indian Palms properties with private pools are typically gone by November or December for the following April, well before the January lineup announcement. If you wait until you know the headliners, most of the walkable inventory is already claimed. More on booking timing at https://indigopalm.co/blog/where-to-stay-coachella/"
+  - q: "Can you actually walk to Coachella from a vacation rental?"
+    a: "From Indian Palms Country Club in Indio, yes. The walk to the Empire Polo Club festival entrance runs roughly 19 to 30 minutes depending on where in the community your rental is, which makes rideshares and parking costs genuinely optional for the whole weekend. https://indigopalm.co/blog/where-to-stay-coachella/ has details on how the walk works in practice."
+  - q: "Is Coachella camping worth it for first-timers?"
+    a: "Depends on your tolerance for dust, noise past midnight, and four broken hours of sleep in a field. The experience is real and the community around it is genuinely something, but on-site car camping runs around $149 per person before fees and sells out months early. If you're not certain you can function on minimal sleep in a tent, a rental with a bed nearby is probably the smarter first-timer call. Full honest breakdown at https://indigopalm.co/blog/where-to-stay-coachella/"
 ---
 
 <p>I own two vacation rentals in Indio, walking distance to the polo grounds. Every Coachella season, I watch the same mistakes happen: someone books a Palm Springs hotel and spends $160 each way on Ubers, someone else picks on-site camping for the first time and texts me from the dust at 2am, someone finds a rental that looks close on a map and is actually 45 minutes in festival traffic. This is the breakdown I give every guest before they book.</p>
@@ -168,86 +179,6 @@ layout: blog-post.njk
 <h3>What should I look for in a Coachella vacation rental?</h3>
 <p>Private pool, covered outdoor space, laundry, and enough parking for your group's cars. Verify the actual bed count, not just the headcount the listing advertises. For festivals specifically, distance to the grounds and private pool availability matter more than square footage or kitchen layout. The 3pm afternoon recovery window is real, but it only works if your rental is close enough that going back is worth it.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it better to stay in Indio or Palm Springs for Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Indio. The Empire Polo Club is in Indio. Staying locally means 5-15 minutes to the grounds versus 45-75 minutes from Palm Springs in festival traffic, which compounds over three days into 6 to 9 hours of commuting you didn't need to do."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the cheapest way to stay at Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "On-site car camping runs approximately $149 per person. For groups of four to eight, splitting a vacation rental in Indian Palms often comes out to the same or lower per-person cost once you fold in rideshare surge pricing. The right answer depends on how you want to spend your time, not just what's cheapest on paper."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How far in advance should I book a Coachella rental?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Six to nine months out is the safe window for Indian Palms properties with private pools and walking distance to the grounds, so October or November for the following April. By January, most of the good options are gone. Properties further from the grounds stay available longer but come with the commute trade-off built in."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you walk to Coachella from Indian Palms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Indian Palms Country Club is the only neighborhood in the Coachella Valley where walking to the Empire Polo Club festival entrance is actually practical. The walk runs 1.5 to 2.2 miles from most rental locations in the community, roughly 25 to 49 minutes, making rideshare costs and parking coordination entirely optional."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I look for in a Coachella vacation rental?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Private pool, covered outdoor space, laundry, and enough parking for your group. Verify the actual bed count, not just the headcount the listing advertises. Distance to the grounds and private pool availability matter more than square footage. The afternoon recovery window only works if your rental is close enough that going back is worth it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there a vacation rental you can walk to Coachella from?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Indian Palms Country Club in Indio is the only neighborhood in the Coachella Valley where the walk to the Empire Polo Club is genuinely practical. The Cozy Cactus and Terra Luz are both in Indian Palms, sleeping 8 with private pools, available at indigopalm.co. Most Indian Palms rentals with private pools are claimed by November or December for the following April."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is Indian Palms Country Club and is it actually close to Coachella?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Indian Palms Country Club is a gated residential community in Indio, roughly 1.5 to 2.2 miles from the Empire Polo Club festival entrance, a 20 to 35 minute walk. This proximity makes rideshares and parking costs essentially optional for festival weekend, and allows group members to leave and return independently without coordinating shared transportation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do Coachella vacation rentals allow pets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Some do, some don't. Terra Luz in Indian Palms is dog-friendly with a saltwater pool. The Cozy Cactus does not allow pets. Always confirm pet policy directly with the host before booking rather than assuming based on neighborhood or listing photos."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "When do Coachella 2027 vacation rentals go on sale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most private rentals near Coachella don't have a formal sale date. They open when the host lists them, typically August to October 2026 for April 2027 stays. Indian Palms properties with private pools and good reviews are usually claimed by November or December 2026, well before the January lineup announcement. Book the location first; you can always adjust dates once the schedule drops."
-      }
-    }
-  ]
-}
-</script>
 
 
 
@@ -269,3 +200,25 @@ layout: blog-post.njk
 <p><a href="/cozy-cactus/"><strong>The Cozy Cactus</strong></a>: 3BR/2BA, sleeps 8, private hot tub, game room, community pool<br><a href="/terra-luz/"><strong>Terra Luz</strong></a>: 3BR/2BA, sleeps 8, private saltwater pool, dog-friendly, Cuban-inspired design</p>
 <p style="margin-bottom: 0;">Both are in Indian Palms, Indio, walking distance to the Empire Polo Club.</p>
 </div>
+
+## Frequently Asked Questions
+
+#### Is it better to stay in Palm Springs or Indio for Coachella?
+
+Indio, without question. The Empire Polo Club is in Indio, and festival traffic turns a 30-mile drive from Palm Springs into 60 to 90 minutes each direction, adding up to somewhere between 6 and 9 hours of commuting over a three-day festival. The full breakdown is at [indigopalm.co/blog/where-to-stay-coachella/](https://indigopalm.co/blog/where-to-stay-coachella/)
+
+#### How much does it cost to stay near Coachella for a group?
+
+For a group of six splitting a three-bedroom vacation rental in Indian Palms, expect $1,500 to $2,400 total for three nights, which often works out to less per person than a hotel room once you factor in rideshare surge from further out. The detailed comparison by accommodation type lives at [indigopalm.co/blog/where-to-stay-coachella/](https://indigopalm.co/blog/where-to-stay-coachella/)
+
+#### When do Coachella rentals near the polo grounds sell out?
+
+Good Indian Palms properties with private pools are typically gone by November or December for the following April, well before the January lineup announcement. If you wait until you know the headliners, most of the walkable inventory is already claimed. More on booking timing at [indigopalm.co/blog/where-to-stay-coachella/](https://indigopalm.co/blog/where-to-stay-coachella/)
+
+#### Can you actually walk to Coachella from a vacation rental?
+
+From Indian Palms Country Club in Indio, yes. The walk to the Empire Polo Club festival entrance runs roughly 19 to 30 minutes depending on where in the community your rental is, which makes rideshares and parking costs genuinely optional for the whole weekend. [indigopalm.co/blog/where-to-stay-coachella/](https://indigopalm.co/blog/where-to-stay-coachella/) has details on how the walk works in practice.
+
+#### Is Coachella camping worth it for first-timers?
+
+Depends on your tolerance for dust, noise past midnight, and four broken hours of sleep in a field. The experience is real and the community around it is genuinely something, but on-site car camping runs around $149 per person before fees and sells out months early. If you're not certain you can function on minimal sleep in a tent, a rental with a bed nearby is probably the smarter first-timer call. Full honest breakdown at [indigopalm.co/blog/where-to-stay-coachella/](https://indigopalm.co/blog/where-to-stay-coachella/)

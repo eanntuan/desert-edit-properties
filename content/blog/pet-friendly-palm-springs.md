@@ -20,6 +20,17 @@ property: terra-luz
 readTime: "6 min read"
 excerpt: "Palm Springs is surprisingly dog-friendly, if you know where to go. The real guide to pet-friendly vacation rentals, restaurants, trails, and parks in the Coachella Valley."
 layout: blog-post.njk
+faqItems:
+  - q: "Which Indigo Palm properties are dog-friendly?"
+    a: "Terra Luz in Indio and The Sundune in Palm Springs both accept dogs with prior approval. Terra Luz takes up to two dogs and has a private saltwater pool with a fully fenced backyard. The Sundune accepts one dog and is in a walkable Palm Springs neighborhood with a community pool. The Cozy Cactus is not pet-friendly, no exceptions. Details at https://indigopalm.co/blog/pet-friendly-palm-springs/"
+  - q: "Is it safe to hike with a dog in Palm Springs?"
+    a: "October through April, yes. Palm Canyon Trail inside Indian Canyons allows leashed dogs and is one of the best options, though there's a $12 entry fee. From May through September, pavement temperatures can hit 150 degrees, which causes serious paw burns in under 60 seconds, so keep outdoor time to before 8am or after 6pm. More on timing and preparation at https://indigopalm.co/blog/pet-friendly-palm-springs/"
+  - q: "Can I bring two dogs to a Palm Springs vacation rental?"
+    a: "Most pet-friendly rentals cap at one small dog. Terra Luz in Indio is one of the few options that accepts up to two dogs, with a $100 flat pet fee, a fully fenced private backyard, and a saltwater pool. Prior email confirmation is required before booking. See the full breakdown at https://indigopalm.co/blog/pet-friendly-palm-springs/"
+  - q: "What dog-friendly bars and restaurants are near Palm Springs?"
+    a: "Boozehounds in Palm Springs is probably the most explicitly dog-forward spot, with a large patio, craft cocktails, and actual dog treats on hand. Cheeky's and Ernest Coffee are also solid options with dog-friendly outdoor seating. Full list at https://indigopalm.co/blog/pet-friendly-palm-springs/"
+  - q: "Do dogs need prior approval for pet-friendly vacation rentals in the Coachella Valley?"
+    a: "For Indigo Palm properties, yes. Both Terra Luz and The Sundune require confirmation from the host before booking, so the host can confirm the space works for your dog's size and needs. It also locks in your pet fee so there are no surprises at checkout. More at https://indigopalm.co/blog/pet-friendly-palm-springs/"
 ---
 
 <p>The Coachella Valley has a dog problem, and by that I mean everyone brings their dog and nobody quite knows what to do with them. Hotels say "pet-friendly" and mean "we'll charge you $75 and ask you not to bring them to the pool." The gap between what you need and what's available is real.</p>
@@ -130,55 +141,6 @@ layout: blog-post.njk
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.1); margin: 3rem 0;">
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you bring a dog to Palm Springs vacation rentals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most vacation rentals in the area do not allow pets. The ones that do have usually set up for it: tile or concrete floors, a fenced outdoor space, and a pet deposit or fee. We have two pet-friendly properties. Terra Luz in Indio accepts up to two dogs with a fenced backyard and private saltwater pool. The Sundune in Palm Springs accepts one dog with a community pool and walkable neighborhood. Email indigopalmco@gmail.com before booking to confirm your situation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the Palm Canyon trail dog-friendly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dogs on leash are allowed on most Palm Springs area trails, including Palm Canyon inside Indian Canyons. The entry fee is around $12 per adult and the canyon is one of the largest natural fan palm oases in North America. Go before 8am in any warm month. Pavement temperatures can hit 150 degrees by midday, which is dangerous for paws in 60 seconds."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the best season to bring a dog to Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "October through April. The pavement temperatures between May and September are dangerous for dogs, and the afternoon heat window is too long to manage safely. In peak season, go out before 8am and after 6pm for any outdoor dog activities. Bring more water than you think you need for both of you."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are dogs allowed at VillageFest in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. VillageFest runs every Thursday night on Palm Canyon Drive and dogs on leash are welcome and common. It's one of the better dog-friendly evening options in Palm Springs proper: street food, local vendors, and enough activity to keep a dog engaged without the stress of a crowded indoor space."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What restaurants in Palm Springs allow dogs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California law allows dogs in outdoor dining areas when the restaurant permits it. In Palm Springs, Cheeky's, The Tropicale, Ernest Coffee, and Boozehounds all have dog-friendly patios. Boozehounds is the most explicitly dog-forward, with actual dog treats on hand. Keep your dog on leash or under the table and tip accordingly."
-      }
-    }
-  ]
-}
-</script>
-
 <h2>Frequently Asked Questions</h2>
 
 <h3>Can you bring a dog to Palm Springs vacation rentals?</h3>
@@ -204,70 +166,6 @@ layout: blog-post.njk
 
 <p>We have two pet-friendly properties. <a href="/the-sundune/">The Sundune</a> in Palm Springs accepts one pet (pet fee applies): walkable neighborhood, community pool. <a href="/terra-luz/">Terra Luz</a> in Indio accepts up to two dogs (pet fee applies) with a fully fenced backyard and private saltwater pool. Email us at <a href="mailto:indigopalmco@gmail.com">indigopalmco@gmail.com</a> before booking to confirm your situation.</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can dogs use the pool at a pet-friendly vacation rental in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Community and HOA pools almost always prohibit dogs regardless of the listing's pet policy. Private pools are the exception. Terra Luz in Indio has a private saltwater pool and fenced backyard where dogs are permitted. The Sundune in Palm Springs has a community pool, so dogs stay out per HOA rules. Confirm pool access with the host before booking."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Indio or Palm Springs a better base for a dog-friendly Coachella Valley vacation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Springs has more walkable dog-friendly infrastructure: Ruth Hardy dog park, VillageFest Thursdays, and more patio restaurants. Indio is better if your dog needs space over stimulation. Terra Luz in Indio has a private fenced yard and pool for significant outdoor time without constant leash management. Palm Springs suits active city evenings; Indio suits retreat-style trips."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the pet fee at dog-friendly vacation rentals in the Coachella Valley?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pet fees typically run $50 to $150 per stay, non-refundable, covering additional cleaning. Terra Luz in Indio charges $100 for up to two dogs. The Sundune in Palm Springs charges a pet fee for one dog. Both require email confirmation at indigopalmco@gmail.com before booking. Flat fees at private rentals are usually cheaper than hotel per-night surcharges over a multi-day stay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What vacation rentals in the Coachella Valley allow two dogs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most pet-friendly rentals accept one small dog. Terra Luz in Indio is one of the few that accepts up to two dogs, with a $100 pet fee, fully fenced backyard, and private saltwater pool. The Sundune in Palm Springs accepts one dog only. Both require prior email confirmation at indigopalmco@gmail.com before booking."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it safe to bring a dog to Palm Springs in summer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Summer is genuinely dangerous for dogs in Palm Springs. Pavement temperatures can reach 150 degrees, causing paw burns in 60 seconds. Between May and September, limit outdoor dog time to before 8am and after 6pm. Never leave a dog in a car. October through April is the right season for dog-friendly trips to the Coachella Valley."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there dog-friendly bars or breweries near Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Boozehounds in Palm Springs has a large patio and atrium, craft cocktails, food, and dog treats on hand. Luchador Brewing in Cathedral City has a casual dog-friendly patio with craft beer. RD RNNR Libations in La Quinta has a spacious dog-friendly patio with a dedicated pup menu. California law allows dogs in outdoor dining areas when the restaurant permits it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I pack when bringing a dog to a desert vacation rental?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pack a collapsible water bowl, extra water for hikes, paw wax or booties for warm months, a familiar dog bed or blanket, a leash longer than 6 feet for trails, poop bags, and current tick and flea prevention. Paw protection is non-optional between May and September when pavement can reach 150 degrees."
-      }
-    }
-  ]
-}
-</script>
 
 
 
