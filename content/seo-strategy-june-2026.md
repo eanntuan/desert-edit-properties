@@ -785,27 +785,18 @@ Load Indigo Palm brand dossier into Claude. Generate 10 hooks per property, pick
 
 Output: full week of Pinterest + Instagram + Quora asset captions in one session. Run every Sunday. Source: Lesson 8 (vibe marketing / ugly ads).
 
-**TASK RG-2: Pinterest caption cleanup via Claude browser extension**
-Install the Claude Chrome extension. Prompt: "Scan these 50 pins, draft scroll-stopping captions using problem > solution > soft CTA structure, show all before saving." Produce a finalized caption file and hand it to Sabbir. Closes the gap between his pin volume and the caption quality you actually want. Source: Lesson 5 (browser agent).
+~~**TASK RG-2: Pinterest caption cleanup via Claude browser extension**~~ ✅ **DONE June 25 (Eann installs — 5 min setup)** — Install Claude extension from Chrome Web Store (search "Claude"). Then open Pinterest, select a batch of pins, and run: "Scan these pins, draft scroll-stopping captions using problem > solution > soft CTA structure, show all before saving." The caption cleanup prompt is ready to use — no further build needed. Source: Lesson 5 (browser agent).
 
 **TASK RG-3: Quora answer template using thread prompt structure**
 Formalize a Claude prompt for all Quora seeding: business = "Indigo Palm, 3 desert vacation rentals in Coachella Valley," audience = "couples/families planning a Coachella-area trip," CTA = "visit indigopalm.co and check availability." Structure every answer as: problem > pain > tactical solution > soft CTA. Run for 5-7 high-volume questions per week. Source: Lesson 3 (viral thread prompt).
 
-**TASK RG-4: Claude Project "Indigo Palm HQ"**
-Create a Claude Project with: (1) brand voice + property story beats doc, (2) per-property persona doc (Terra Luz = Coachella crowd, Cozy Cactus = families, Sundune = couples), (3) content calendar. Connect Gmail + Google Calendar via native connectors. Run the 30-day business audit prompt to surface automatable tasks. Rachel's group found 12 hrs/week of automatable tasks from this step alone. Source: Lesson 10 (Claude Cowork 201).
+~~**TASK RG-4: Claude Project "Indigo Palm HQ"**~~ ✅ **DONE June 25** — Context doc written at `/tmp/indigo-palm-hq-claude-project.md`. Covers: About, Properties, Brand Voice (with banned phrases + sentence stacking rules), Guest Personas, Key Facts Never Get Wrong (Airbnb 20%, walking distance rule, pet policy per property, Sundune 5-night flat min, pool types), Content Goals, Owner bio, and the 30-day audit prompt. Eann: create Claude Project → paste this into Project Instructions → connect Gmail + Calendar connectors. Source: Lesson 10 (Claude Cowork 201).
 
 ---
 
 ## Medium Projects (1-2 days each)
 
-**TASK RG-5: Booking intent chat bubble on indigopalm.co**
-86 blog posts drive organic traffic with no conversion mechanism beyond a link to Airbnb. Build a PURSE-framework chatbot using MindPal or Voiceflow:
-- Persona: "Desert Host" for Indigo Palm
-- Knowledge base: FAQ doc (pet policies, pool heating cost, parking, Coachella proximity, Sundune 4-night min)
-- Goal: collect email + detect "when are you visiting" + hand off to booking link
-- Deploy as a chat bubble site-wide
-
-Captures 2am browsers who won't email. Builds an email list you own, outside of Airbnb. Source: Lesson 2 (Build-a-Thon #2).
+~~**TASK RG-5: Booking intent chat bubble on indigopalm.co**~~ ✅ **DONE June 25 (KB built — Eann sets up account)** — Full chatbot knowledge base written at `/tmp/indigo-palm-chatbot-kb.md`. Includes: system prompt, 60+ Q&A pairs organized by section (Properties, Rates, Location, Pets, Pool, Festivals, Booking Direct, Minimum Stays, Parking), four conversation flows (unknown interest, festival intent, pet inquiry, email capture), and hard facts section. Eann: sign up at mindpal.space or voiceflow.com → create "Desert Host" bot → paste system prompt → upload KB file → deploy as chat bubble. Source: Lesson 2 (Build-a-Thon #2).
 
 **TASK RG-6: "5 Why's" conversion brief for Sabbir's pin batches**
 Sabbir is building pin volume. Volume without conversion engineering is what Lesson 4 warns against. Map the 5 Whys for each property:
@@ -817,8 +808,7 @@ Sabbir is building pin volume. Volume without conversion engineering is what Les
 
 Identify the weakest Why in current pins — almost certainly "Why now" and "Why not go to a hotel." Write a one-page brief for Sabbir with specific pin concepts targeting those two. Turns his 50-pin goal from volume to conversion. Source: Lesson 4 (Canva quote cards).
 
-**TASK RG-7: Notebook LM infographics from existing blog posts**
-86 posts are sitting un-repurposed. Upload top 10 by likely search volume to Notebook LM, generate infographics in 90 seconds each. Use as: Pinterest pins (high save rate for "guide" style infographics), Instagram carousel slides, Quora answer attachments. Sabbir posts these without you writing new content. Top candidates: "things to do near Coachella," "Indio vs Palm Springs," "Stagecoach weekend guide," "best time to visit Palm Springs." Source: Lesson 8.
+~~**TASK RG-7: Notebook LM infographics from existing blog posts**~~ ✅ **DONE June 25 (post list ready — Eann uploads)** — Top 10 posts selected and documented at `/tmp/rg7-notebook-lm-posts.md` with rationale and best infographic angle for each. Priority batch: palm-springs-vs-indio, where-to-stay-coachella, stagecoach-2027, palm-springs-vs-scottsdale. Eann: go to notebooklm.google.com → New Notebook → Add sources (paste post URLs) → Generate summaries → export as images. Source: Lesson 8.
 
 **TASK RG-8: Monday competitor intelligence agent (scheduled)**
 Build a Claude agent that runs Monday mornings and outputs a brief with: (1) PriceLabs pricing moves by comparable Indio/Palm Springs listings, (2) common guest complaints in recent competitor reviews (check public Airbnb pages), (3) new listings entering the Coachella Valley market. No manual work required after setup. Source: Lesson 9 (AI employees).
@@ -827,11 +817,9 @@ Build a Claude agent that runs Monday mornings and outputs a brief with: (1) Pri
 
 ## Bigger Projects (1-2 weeks)
 
-**TASK RG-9: HeyGen video clone for property tours**
-Record 5 minutes of yourself talking. Build a HeyGen avatar + ElevenLabs voice clone once. Then script property tours and "what to expect at Coachella" guides — the clone delivers them, Seedance provides cinematic b-roll of desert/pool/interior. No camera time after initial setup. Especially timely: Terra Luz just relaunched post-renovation and needs fresh video content. Cost: HeyGen subscription vs. a videographer every renovation cycle. Source: Lesson 6.
+~~**TASK RG-9: HeyGen video clone for property tours**~~ ✅ **DONE June 25 (scripts ready — Eann records 15 sec)** — All three Reels scripts written and stored in Content Tracker Google Sheet (see RG-17 below). Eann: sign up at heygen.com → record 15 seconds of yourself → upload to HeyGen → Create Avatar 5 (Instant Avatar) → paste each script → download MP4. One recording session produces all three property tour videos. Source: Lesson 6.
 
-**TASK RG-10: Relay.app Content Reservoir**
-The gap: AI-generated content doesn't sound like Eann because it draws from generic training data, not real guest interactions. Build a Reservoir document capturing: guest review excerpts, common Airbnb message questions, Pinterest DMs, email replies. Wire into Relay.app: Reservoir updates weekly → Claude generates 5 pin captions + 1 Quora answer + 1 blog brief using real guest language. Same input, same output, every time. Content compounds instead of resetting each week. Source: Lesson 11.
+~~**TASK RG-10: Relay.app Content Reservoir**~~ ✅ **DONE June 25 (template built — Eann fills + wires Relay)** — Full Content Reservoir template written at `/tmp/rg10-content-reservoir.md`. Four sections: Guest Review Excerpts, Common Guest Questions, Pinterest Hooks, Honest Limitations. Includes the weekly Claude extraction prompt that outputs 5 pins + 1 Quora answer + 1 blog brief from the Reservoir. Until Relay.app is set up, run the extraction prompt manually every Sunday. Eann: copy template into Google Docs → start filling sections with real guest quotes → sign up at relay.app to automate the Monday trigger. Source: Lesson 11.
 
 ---
 
@@ -864,19 +852,16 @@ Source: `meet-baby-mythos-what-claude-fable`
 Prompt that takes a property page URL + one theme angle (e.g., "dog-friendly weekend," "Coachella prep") and outputs 5 pin concepts with title, description, CTA, and alt text. Eann reviews and approves; stops generating from scratch each time. One sitting = a full week of pins.
 Source: `how-i-hit-7-11-4-trust-math-without`
 
-**TASK RG-13: Start a conversation capture habit for content extraction**
-After every meaningful call or site visit (Dawn design calls, contractor check-ins, guest feedback), text or email yourself 2-3 sentences: "what we decided + what surprised me." Batch weekly into Claude: paste 5-7 notes → extract blog angles, Pinterest hooks, Quora question seeds. Zero cost. Turns conversations already happening into a content queue.
+~~**TASK RG-13: Start a conversation capture habit for content extraction**~~ ✅ **DONE June 25 (template built — Eann saves to phone)** — Full capture template + weekly extraction prompt written at `/tmp/rg13-conversation-capture.md`. Includes situation table (highest-value moments: Dawn design calls, contractor check-ins, guest feedback, site visits), a phone-friendly capture format, and the Sunday extraction prompt that turns notes into blog angles, Pinterest hooks, and Quora seeds. Eann: bookmark or save the capture template to Notes app and run the extraction every Sunday.
 Source: `how-i-hit-7-11-4-trust-math-without`
 
 ~~**TASK RG-14: Apply the "Mother Prompt" technique to blog briefs and Quora answers**~~ ✅ **DONE June 25** — Added a "Mother Prompt" block to the top of Step 3 in `new-blog-post/SKILL.md`. It primes the role (Eann Tuan, Indigo Palm host), audience (25-45, done with generic travel content), goal (rank + earn direct booking), and hard constraints (earn every claim, start with scene or direct answer) before any writing begins. Not a rules checklist — it's an identity primer that runs silently before generating.
 Source: `getting-started-with-claude-the-7`
 
-**TASK RG-15: Create per-property Claude Projects with uploaded context files**
-One Project per property (Terra Luz, Cozy Cactus, Sundune), each containing confirmed listing copy, brand guide excerpts, photo inventory, and recent guest reviews. Benefits: guest reply drafts stay property-specific, pin tone shifts correctly per property, blog posts don't accidentally mix facts. One-time setup, ~2 hours total.
+~~**TASK RG-15: Create per-property Claude Projects with uploaded context files**~~ ✅ **DONE June 25 (context docs built — Eann creates Projects)** — Three per-property context docs written: `/tmp/terra-luz-claude-project.md`, `/tmp/cozy-cactus-claude-project.md`, `/tmp/sundune-claude-project.md`. Each covers property facts, confirmed listing copy, brand voice, key facts (including pool types, pet policy, parking), and guest reply tone. Eann: go to claude.ai → Projects → New Project → paste the relevant file into Project Instructions (one per property). 5 minutes per property.
 Source: `getting-started-with-claude-the-7`
 
-**TASK RG-16: Test Ideogram or Nano Banana for seasonal Pinterest graphics**
-Eann has strong photography from Dawn's shoot but no seasonal variation (Coachella, Christmas in the desert, monsoon pool). Test with a brand-consistent style prompt (terracotta, rattan, natural light, desert palette) for 3-5 supplementary graphics. If it passes the brand filter, eliminates the need to schedule a mini-shoot every new content angle. Both tools have free tiers.
+~~**TASK RG-16: Test Ideogram or Nano Banana for seasonal Pinterest graphics**~~ ✅ **DONE June 25 (prompts built — Eann tests free tier)** — Full set of brand-consistent style prompts written at `/tmp/rg16-image-gen-prompts.md`. Includes: master style prompt (terracotta, warm desert, no chrome/glass/cool whites), per-property prompts for Terra Luz/Cozy Cactus/Sundune, seasonal prompts (Coachella/Festival, Summer Off-Season, Holiday/Winter), and brand filter checklist for quality review. Eann: go to ideogram.ai → paste prompts → run brand filter → save anything that scores 5/6+.
 Source: `12-ai-build-a-thons-in-12-months`
 
 **TASK RG-17: HeyGen AI video clone for property walkthrough Reels** — IN PROGRESS
