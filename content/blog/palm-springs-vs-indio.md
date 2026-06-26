@@ -1,8 +1,8 @@
 ---
-title: "Palm Springs vs. Indio: Which Is Right for Your Trip?"
+title: "Indio vs. Palm Springs: 30 Miles Apart, Very Different Trips"
 date: 2026-02-05
-dateModified: 2026-06-25
-metaDescription: "We own rentals in both cities. Palm Springs for ambiance and dining, Indio for more space, better rates, and walking to Coachella. Here's how to choose."
+dateModified: 2026-06-26
+metaDescription: "30 miles apart, 30 minutes by car. We own rentals in both cities: Palm Springs for dining and walkability, Indio for space, lower rates, and walking to Coachella. Here's how to choose."
 ogImage: /blog/images/blog-hero-palm-springs.webp
 heroImage: /blog/images/blog-hero-palm-springs.webp
 heroAlt: "Palm tree-lined boulevard with the San Jacinto Mountains rising behind it in Palm Springs, California"

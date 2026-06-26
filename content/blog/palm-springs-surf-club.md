@@ -1,8 +1,8 @@
 ---
-title: "Palm Springs Surf Club: Prices, Hours, and Honest Review"
+title: "Palm Springs Surf Club: Hours, Tickets + What to Know Before You Go"
 date: 2025-12-04
-dateModified: 2026-06-24
-metaDescription: "Surf the Sonoran Desert for $100-250/session. Open daily until 8pm, books out 1-2 weeks ahead on weekends. Honest review of whether PSSC is actually worth it."
+dateModified: 2026-06-26
+metaDescription: "Day passes run $100-250, sessions book out 1-2 weeks ahead on weekends, and showing up without a reservation is a wasted trip. Everything to know before you go."
 ogImage: /blog/images/pssc-wave-pool-reflection.webp
 heroImage: /blog/images/pssc-wave-pool-reflection.webp
 heroAlt: "Palm Springs Surf Club wave pool at golden hour with PSSC building and San Jacinto Mountains reflecting in still water"

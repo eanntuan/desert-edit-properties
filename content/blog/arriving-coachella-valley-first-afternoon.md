@@ -1,6 +1,7 @@
 ---
 title: "Arriving in the Coachella Valley: Your First Afternoon"
 date: 2026-06-22
+dateModified: 2026-06-26
 metaDescription: "Just checked in? Here's what to do first: where to stock up, where to eat tonight, when to hit the pool, and what to skip on day one."
 ogImage: /blog/images/palm-springs-mcm-neighborhood.webp
 heroImage: /blog/images/palm-springs-mcm-neighborhood.webp
@@ -18,6 +19,15 @@ articleSection: "Travel Tips"
 readTime: "5 min read"
 excerpt: "You made it. The car is cooling down in the driveway and you have a whole desert trip ahead of you. Here's how to not waste the first few hours."
 layout: blog-post.njk
+faqItems:
+  - q: "What should I do first when I arrive in the Coachella Valley?"
+    a: "Groceries first, then pool. Stock the kitchen before anything else so you're not paying resort prices for breakfast every morning. If you're in Indio, Stater Bros on Monroe Street is eight minutes from Indian Palms. Whole Foods in Palm Desert is worth the extra twenty minutes if you want real produce. Full first-afternoon guide at https://indigopalm.co/blog/arriving-coachella-valley-first-afternoon/"
+  - q: "Where do I grocery shop near Indian Palms in Indio?"
+    a: "Stater Bros on Monroe Street is the fastest option, about eight minutes from Indian Palms. It covers everything. For better produce or wine, the Whole Foods in Palm Desert is about twenty minutes and worth it for a longer stay. Full guide at https://indigopalm.co/blog/arriving-coachella-valley-first-afternoon/"
+  - q: "Is it worth going out on the first night of a Coachella Valley trip?"
+    a: "Usually not. The drive takes something out of you, even when it doesn't feel like it. The guests who land well are almost always the ones who eat something easy, get in the pool before dark, and let the first night be low-key. Save the restaurant reservations for night two. More on pacing your trip at https://indigopalm.co/blog/arriving-coachella-valley-first-afternoon/"
+  - q: "What time should I plan to arrive at my vacation rental in the Coachella Valley?"
+    a: "Check-in is typically 4pm. Arriving before sunset gives you a few hours to unload, stock the kitchen, and get in the pool while the light is still good. If you're flying into Palm Springs or Ontario, plan for a grocery stop on the way. Everything closes earlier than you'd expect once you get past the main corridor. See https://indigopalm.co/blog/arriving-coachella-valley-first-afternoon/ for a full first-afternoon sequence."
 ---
 
 <p>You made it. The car is cooling down in the driveway and the house smells faintly of sunscreen from whoever was here before you, which is a good sign. You have a whole trip ahead and approximately seventeen ideas about what to do first.</p>

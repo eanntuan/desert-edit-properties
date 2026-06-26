@@ -1,8 +1,8 @@
 ---
 title: "Coachella 2027: Where to Stay Near the Polo Grounds"
 date: 2025-11-10
-dateModified: 2026-06-22
-metaDescription: "Vacation rentals in Indio start at $250/night, sit walking distance from the polo grounds, and beat hotels for groups. Full breakdown for Coachella 2027."
+dateModified: 2026-06-26
+metaDescription: "The honest breakdown: camping, hotels, vacation rentals, and why walkable Indian Palms rentals beat every option for groups of 4 or more. I own two properties here and have no reason to sugarcoat it."
 ogImage: /blog/images/coachella-festival-crowd.webp
 heroImage: /blog/images/coachella-festival-crowd.webp
 heroAlt: "Crowd at Coachella Valley Music and Arts Festival at Empire Polo Club in Indio California"
@@ -13,8 +13,6 @@ keywords:
   - vacation rental near Coachella polo grounds
   - Coachella on-site camping
   - best place to stay Coachella
-  - Justin Bieber Coachella 2026
-  - Coachella 2026
   - desert vacation rental
   - Palm Springs vacation rental
   - Indio California travel
