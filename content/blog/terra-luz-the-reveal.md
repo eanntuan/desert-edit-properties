@@ -260,7 +260,7 @@ layout: blog-post.njk
       "name": "What is the sleeping capacity at Terra Luz and who is it best for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Terra Luz sleeps up to six across three bedrooms. The Wild Tropics bedroom has a twin trundle, making it flexible for families or larger groups. It works well for friend groups, families wanting a private pool, and festival goers who want a base close to Empire Polo Club."
+        "text": "Terra Luz sleeps up to eight across three bedrooms. The Wild Tropics bedroom has a twin trundle, making it flexible for families or larger groups. It works well for friend groups, families wanting a private pool, and festival goers who want a base close to Empire Polo Club."
       }
     }
   ]
@@ -277,4 +277,4 @@ layout: blog-post.njk
 <p>Pool heating is available at $75 per night, added at booking. Spring visitors for Coachella or Stagecoach typically add it for evening swims, since desert nights cool fast in April. Summer guests often skip it because ambient temperatures keep the water warm on their own. Beach robes for six and Studio McGee pool towels are included.</p>
 
 <h4>What is the sleeping capacity and who is the property best for?</h4>
-<p>Terra Luz sleeps up to six across three bedrooms, and the Wild Tropics bedroom has a twin trundle that makes it flexible for families or larger groups. It works well for friend groups heading to a festival, families who want a private pool, and mixed groups who each want their own room with a distinct vibe rather than identical hotel boxes. See the full layout at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
+<p>Terra Luz sleeps up to eight across three bedrooms, and the Wild Tropics bedroom has a twin trundle that makes it flexible for families or larger groups. It works well for friend groups heading to a festival, families who want a private pool, and mixed groups who each want their own room with a distinct vibe rather than identical hotel boxes. See the full layout at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
