@@ -1,8 +1,8 @@
 ---
-title: "Palm Springs Surf Club: Hours, Tickets + What to Know Before You Go"
+title: "Palm Springs Surf Club Review: Wave Pool, Prices + Tips"
 date: 2025-12-04
 dateModified: 2026-06-26
-metaDescription: "Day passes run $100-250, sessions book out 1-2 weeks ahead on weekends, and showing up without a reservation is a wasted trip. Everything to know before you go."
+metaDescription: "Day passes run $100-250, weekends book out weeks ahead, and walk-ins rarely get in. Honest review: whether it's worth it, how to snag a session, and what to skip."
 ogImage: /blog/images/pssc-wave-pool-reflection.webp
 heroImage: /blog/images/pssc-wave-pool-reflection.webp
 heroAlt: "Palm Springs Surf Club wave pool at golden hour with PSSC building and San Jacinto Mountains reflecting in still water"
