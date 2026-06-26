@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** June 23, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** June 26, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -777,6 +777,18 @@ All captions from RG-1 are pre-loaded in the Pinterest Pins tab. Add new content
 
 ## Quick Wins (under 2 hours each)
 
+~~**TASK GSC-11: Rewrite palm-springs-surf-club title/meta**~~ ✅ **DONE 2026-06-26** — Title: "Palm Springs Surf Club: Hours, Tickets + What to Know Before You Go" (58 chars). Meta updated to lead with the arrival warning: "Day passes run $100-250, sessions book out 1-2 weeks ahead on weekends, and showing up without a reservation is a wasted trip."
+
+~~**TASK GSC-12: Rewrite palm-springs-vs-indio title to capture the distance query**~~ ✅ **DONE 2026-06-26** — Title: "Indio vs. Palm Springs: 30 Miles Apart, Very Different Trips" (60 chars) — leads with the distance hook to match the dominant query "how far is indio from palm springs" (858 imps, 0.1% CTR). Meta updated to open with "30 miles apart, 30 minutes by car."
+
+~~**TASK GSC-13: Rewrite where-to-stay-coachella meta description**~~ ✅ **DONE 2026-06-26** — Meta rewritten with owner-honest framing: "The honest breakdown: camping, hotels, vacation rentals, and why walkable Indian Palms rentals beat every option for groups of 4 or more. I own two properties here and have no reason to sugarcoat it." dateModified bumped to 2026-06-26.
+
+~~**TASK GSC-14: Fix beyond-coachella-desert-escape title/meta**~~ ✅ **ALREADY DONE June 24** — Title: "Beyond Coachella: What to Do in the Coachella Valley Year-Round" (confirmed in GSC-8 done June 24). No further action needed.
+
+~~**TASK GSC-15: Add title + meta to /blog/ index page**~~ ✅ **DONE 2026-06-26** — Title rewritten keyword-first: "Coachella Valley Travel Guide: Local Picks, Festival Tips + Desert Stays". Meta updated with owner framing and "no affiliate links" trust signal. Edited directly in `blog/index.html` (static HTML).
+
+---
+
 **TASK RG-1: Sunday 90-min vibe marketing workflow**
 Load Indigo Palm brand dossier into Claude. Generate 10 hooks per property, pick top 3, turn into raw conversational captions. Generate lo-fi visuals in NanoBanana (authenticity beats polished travel photography for scroll-stopping). Property-specific angles:
 - Terra Luz: "walked to Coachella in 18 minutes" hook
@@ -1037,3 +1049,97 @@ Rules:
 - For festival pins: "walking distance to the Empire Polo Club" — never "2.5 miles" or any specific mileage
 - For booking pins: include "book direct at indigopalm.co and skip Airbnb's 20% service fee"
 ```
+
+---
+
+### What changed on 2026-06-26 — GSC Check-in
+
+**Period:** 2026-03-28 to 2026-06-26 (90 days)
+
+**Overall:** 158 clicks, 22,491 impressions, 0.7% CTR, avg position 14.0
+
+**vs. prior period (90 days ending March 27):** +150 clicks, +21,990 impressions — this is the site going from essentially invisible (8 clicks, 501 imps) to getting real organic traction.
+
+**What's working:**
+- `palm-springs-surf-club`: 34 clicks, 5,806 imps, pos 10.2 — top traffic driver by a wide margin, page 1 but CTR is only 0.6%
+- `palm-springs-vs-indio`: 24 clicks, 4,392 imps, pos 8.4 — second-biggest page, page 1, CTR also only 0.5%
+- `indio-local-gems`: 9 clicks, 322 imps, 2.8% CTR — punching well above its impression weight. Title is working.
+- `outdoor-furniture-desert-heat`: 6 clicks, 208 imps, 2.9% CTR — another strong performer by CTR
+
+**Mobile vs. desktop:** Mobile CTR 1.1% at pos 9.0 vs. desktop 0.4% at pos 17.9 — mobile is the real channel here. Desktop rankings are buried.
+
+**CTR opportunities (rewrites queued):**
+- `palm-springs-surf-club`: 5,806 imps, 34 clicks, pos 10.2 — CTR 0.6% on page 1 is a waste. Title rewrite needed. Target: "Palm Springs Surf Club: Hours, Tickets, What to Know Before You Go" (or similar). This page alone could 3x to 100+ clicks with a 2% CTR.
+- `palm-springs-vs-indio`: 4,392 imps, 24 clicks, pos 8.4 — CTR 0.5%, page 1. Query driving most traffic: "how far is indio from palm springs" (858 imps, 0.1% CTR). Title is not answering that question — rewrite to lead with the distance/comparison hook.
+- `where-to-stay-coachella`: 2,939 imps, 9 clicks, 0.3% CTR, pos 14.0 — fix meta description to be specific and action-oriented, not generic.
+- `where-to-stay-coachella-2026`: 1,100 imps, 4 clicks, 0.4% CTR, pos 8.7 — page 1 position with nearly zero CTR. Title likely too generic.
+- `indian-palms-vacation-rental`: 1,347 imps, 9 clicks, 0.7% CTR, pos 8.6 — page 1, CTR below 1%. Worth a title sharpening.
+
+**Weak pages (content or title fix needed):**
+- `things-to-do-indio-ca`: 480 imps, 1 click, pos 40.3 — deep in rankings, likely needs content expansion or topical authority to move up
+- `best-hiking-palm-springs`: 328 imps, 0 clicks, pos 66.6 — buried; not competing
+- `palm-springs-aerial-tram`: 219 imps, 1 click, pos 10.7 — page 1 position, 0.5% CTR is bad. Title/meta rewrite needed.
+- `beyond-coachella-desert-escape`: 74 imps, 0 clicks, pos 10.1 — page 1 with no clicks at all. This is the clearest signal of a title/meta problem.
+- `/blog/` index page: 61 imps, 0 clicks, pos 11.9 — index page needs a proper title tag and meta description
+
+**Action items generated:**
+1. ~~**TASK GSC-11:** Rewrite `palm-springs-surf-club` title/meta~~ ✅ Done 2026-06-26
+2. ~~**TASK GSC-12:** Rewrite `palm-springs-vs-indio` title~~ ✅ Done 2026-06-26
+3. ~~**TASK GSC-13:** Rewrite `where-to-stay-coachella` meta description~~ ✅ Done 2026-06-26
+4. ~~**TASK GSC-14:** Rewrite `beyond-coachella-desert-escape` title/meta~~ ✅ Already done June 24 (GSC-8)
+5. ~~**TASK GSC-15:** Add title tag and meta description to `/blog/` index page~~ ✅ Done 2026-06-26
+
+### What changed on 2026-06-26 (babysit-seo run)
+
+- **GSC-11:** palm-springs-surf-club title rewritten to "Palm Springs Surf Club: Hours, Tickets + What to Know Before You Go". Meta updated to lead with the reservation warning.
+- **GSC-12:** palm-springs-vs-indio title rewritten to "Indio vs. Palm Springs: 30 Miles Apart, Very Different Trips" — leads with distance hook for the dominant query (858 imps, 0.1% CTR). Meta opens with "30 miles apart, 30 minutes by car."
+- **GSC-13:** where-to-stay-coachella meta rewritten with owner-honest framing. dateModified bumped.
+- **GSC-14:** Verified already done June 24 — no action needed.
+- **GSC-15:** blog/index.html title rewritten keyword-first: "Coachella Valley Travel Guide: Local Picks, Festival Tips + Desert Stays". Meta updated.
+- **FAQ audit:** Verified 10 of 11 posts listed as missing faqItems already had them. Added faqItems to `arriving-coachella-valley-first-afternoon.md` (the only actual gap).
+
+---
+
+### New from Rachel -- June 26, 2026
+
+Post processed: `i-taught-a-3-hour-ai-bootcamp-and`
+
+Core framework: "Own the instructions. Rent the tool." Build reusable instruction sets for each role you need AI to fill, store them somewhere you own (not inside the tool), and redeploy when tools change. The meta-agent pattern (Nova interviews you, outputs instructions) is the operational version of the Mother Prompt technique already applied in RG-14.
+
+**TASK RG-18: Build a "Market Researcher" AI employee for Indigo Palm using the Nova framework**
+Rachel's bootcamp built this role step by step. For Indigo Palm, this is a PriceLabs + comp analysis bot -- it takes a date range, a property, and a set of criteria, then returns pricing intelligence with no manual lookups. Build it in Claude (not GPT, given Eann's existing Claude workflow): write a system prompt via Nova's interview process, save it to a Google Doc, then paste it into a dedicated Claude Project as the project instructions. Upload knowledge files: Coachella Valley market criteria (peak dates, comp rate floors, festival premiums), PriceLabs rate thresholds per property, and any comp listings Eann tracks manually.
+
+**What this replaces:** the current Monday morning manual comp check. Instead of opening PriceLabs tabs, run a prompt, get a structured report with flags.
+
+**Step-by-step:**
+1. Open Claude, paste: "I want to build a Market Researcher AI employee for my vacation rental business. Interview me to write the system instructions." Answer the questions.
+2. Copy the output to a Google Doc titled "Indigo Palm Market Researcher -- Instructions"
+3. Create a new Claude Project: "Market Researcher -- Indigo Palm"
+4. Paste the instructions as the Project Instructions
+5. Upload 2-3 knowledge files: (a) comp rate thresholds per property, (b) peak/off-season date calendar, (c) any notes from past PriceLabs audits
+6. Test with: "Pull comp rates for Terra Luz for the week of July 4. Flag anything priced below $150/night. What should I adjust?"
+
+**Why now:** TASK RG-8 (Monday competitor intelligence agent) has been open since June 24. This is the practical implementation of that task -- use the Nova interview approach to build the actual system prompt rather than writing it from scratch.
+
+Source: `i-taught-a-3-hour-ai-bootcamp-and`
+
+---
+
+### Pinterest Check-in — 2026-06-26
+
+**Monthly views:** ~20K (as of June 3, 2026 ML campaign report — pending updated screenshot from Sabbir)
+**Pin count:** Unknown exact count. Long-term target: 5,000-10,000 pins (5K blog, 5K property). Immediate threshold: 50-60 pins before running next ad campaign.
+**Link status:** Airbnb (threshold to switch to indigopalm.co: 25-30K monthly views — not yet hit)
+
+**Quora Q&A live:** ~10 pieces posted in first 11 days (pace: 0.9/day vs. 2-3/day target)
+**Top Quora performance:** "PS vs Indio" 254 views, "family-friendly vacation rental" 204 views, "running trails PS" 122 views, "Indio vs PS Coachella" 116 views
+**Key Quora issue:** Sabbir posts own questions and answers them — answer views (8-10) are far below question views (116-254). Need to answer existing high-traffic questions, not just self-created ones.
+
+**FAQPage JSON-LD coverage:** ~~75 blog posts with schema, 11 without~~ ✅ **VERIFIED 2026-06-26** — 10 of the 11 listed posts already had faqItems in frontmatter (best-time-to-visit, coachella-valley-food-guide, indian-palms-vacation-rental, joshua-tree-day-trip, palm-springs-heat-activities, palm-springs-vs-indio, palm-springs-vs-scottsdale, pet-friendly-palm-springs, stagecoach-2027, where-to-stay-coachella). The June 26 data was stale. Only `arriving-coachella-valley-first-afternoon.md` was actually missing.
+
+~~Add FAQPage JSON-LD to `arriving-coachella-valley-first-afternoon.md`~~ ✅ **DONE 2026-06-26** — 4 FAQ pairs added covering: first-afternoon priorities, grocery options near Indian Palms, first-night pacing, and arrival timing.
+
+**Action items:**
+1. Get a current Pinterest analytics screenshot from Sabbir to confirm monthly views vs. 25K threshold -- last confirmed data is June 3, now 3+ weeks stale.
+2. Quora: redirect Sabbir to answer existing high-traffic questions (search Quora for "Palm Springs vacation rental" / "Indio Coachella" queries already getting traction) rather than self-creating new question/answer pairs.
+3. Confirm current pin count -- 50-60 pins is the floor before next ad campaign; no tracking number exists in context files.
