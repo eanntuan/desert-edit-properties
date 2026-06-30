@@ -1,7 +1,7 @@
 ---
 title: "Staging a Vacation Rental for Photography: The 5-Day Plan"
 date: 2026-04-27
-metaDescription: "How to stage a vacation rental for photography: the 5-day countdown we ran at Casa Moto before our listing shoot, with specific tasks and honest mistakes."
+metaDescription: "How to stage a vacation rental for photography: the 5-day countdown we ran at Terra Luz before our listing shoot, with specific tasks and honest mistakes."
 ogImage: /blog/images/vacation-rental-staging.webp
 heroImage: /blog/images/vacation-rental-staging.webp
 heroAlt: "beautifully staged vacation rental bedroom ready for photography shoot"
@@ -13,7 +13,7 @@ keywords:
   - short-term rental staging
   - Airbnb listing photos
   - vacation rental staging checklist
-  - Casa Moto Indio
+  - Terra Luz Indio
   - Indio vacation rental
 articleSection: "Hosting"
 property: terra-luz
@@ -123,6 +123,10 @@ layout: blog-post.njk
 </ul>
 
 <p>Five days feels like a lot until it's Tuesday morning and you realize Day 5 was Saturday and Saturday was mostly driving to HomeGoods.</p>
+
+<div class="inline-cta">
+  <p>The photos from that week are live on the <a href="/terra-luz/">Terra Luz listing</a> now. If you're planning a Coachella Valley trip and want a property that photographs well because it actually lives well, that's the one.</p>
+</div>
 
 <p>Start on Day 5. Do the list. The photos are worth it. For more on how the full Terra Luz renovation came together before the shoot, the <a href="/blog/terra-luz-renovation-story/">Terra Luz renovation story</a> covers every room from start to finish.</p>
 
