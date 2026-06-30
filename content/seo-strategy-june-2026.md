@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** June 26, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** June 30, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -1143,3 +1143,50 @@ Source: `i-taught-a-3-hour-ai-bootcamp-and`
 1. Get a current Pinterest analytics screenshot from Sabbir to confirm monthly views vs. 25K threshold -- last confirmed data is June 3, now 3+ weeks stale.
 2. Quora: redirect Sabbir to answer existing high-traffic questions (search Quora for "Palm Springs vacation rental" / "Indio Coachella" queries already getting traction) rather than self-creating new question/answer pairs.
 3. Confirm current pin count -- 50-60 pins is the floor before next ad campaign; no tracking number exists in context files.
+
+---
+
+### GSC Check-in — 2026-06-30 (BLOCKED)
+
+**Status:** OAuth token revoked. The Google credential at `~/.claude/google_credentials.json` has an expired/revoked refresh token — `invalid_grant` error when running `gsc_report.py`. This likely happened because a new OAuth flow earlier in the same session created a new token, invalidating the prior one.
+
+**To restore GSC access:** Run `! python3 /tmp/reauth_google_full.py` in Claude Code. This script opens a browser auth flow, writes fresh credentials back to `~/.claude/google_credentials.json`, and restores all scopes (webmasters, gmail, spreadsheets, drive, etc.). Do this before the next babysit-seo run.
+
+**Impact this run:** No new GSC data for June 28-30. Prior baselines (June 26 check-in) remain the most current numbers. Next run should start with Phase 0.5 GSC and pull a fresh 90-day report.
+
+---
+
+### Pinterest Check-in — 2026-06-30
+
+**Monthly views:** ~20K (still June 3 data — no updated screenshot from Sabbir; now 27 days stale)
+**Pin count:** Eann posting 4-5/day since June 18 (12 days = ~48-60 additional scheduled). Total in queue: still drawing from the 355 Sabbir delivered May 25 plus the 15 batch from the June 23 Pinterest audit.
+**Link status:** Airbnb (threshold to switch to indigopalm.co: 25-30K monthly views — not yet reached)
+
+**Quora:** As of June 26 -- ~10 pieces posted in first 11 days (0.9/day vs. 2-3/day target). Key issue identified: Sabbir is posting own questions and answering them (answer views 8-10) vs. answering existing high-traffic questions (question views 116-254). Redirecting Sabbir to answer existing questions is the highest-leverage Quora fix.
+**FAQPage JSON-LD coverage:** All 86 blog posts confirmed with FAQPage JSON-LD (verified June 26).
+
+**Action items:**
+1. **Eann:** Get current Pinterest analytics screenshot from Sabbir -- monthly views data is now 27 days stale. If approaching 25K, prepare to switch all high-performing pins from Airbnb links to indigopalm.co.
+2. **Eann:** Tell Sabbir to search Quora for "Palm Springs vacation rental", "Indio Coachella", "where to stay Coachella" -- answer those existing questions instead of self-creating new ones.
+3. **Eann:** Confirm how many pins Sabbir had posted before June 18 handoff (need this to know actual live count vs. what's still in queue).
+
+---
+
+### babysit-seo run — 2026-06-30 — Open Task Status
+
+All tasks through Part 8 are marked done. Remaining open items are all non-actionable this run:
+
+| Task | Status | Reason |
+|------|--------|--------|
+| TASK 7 (UTM on Pinterest pins) | Not actionable | Manual task for Eann -- requires Pinterest Business Hub access |
+| TASK 10 (Sabbir Quora accountability) | Not actionable | Human conversation |
+| Gap D (booking widget urgency signals) | Not actionable | Not until September |
+| Week 7-12 link building | Skipped | Outreach tasks per skill instructions |
+| TASK RG-1 (Sunday vibe workflow) | Not actionable this run | Recurring Sunday workflow -- run next Sunday |
+| TASK RG-8 (Monday comp intelligence agent) | Not actionable | Requires PriceLabs API + Airbnb page scraping setup |
+| TASK RG-17 (HeyGen video clone) | Not actionable | Needs Eann to record 15-second video first |
+| TASK RG-18 (Market Researcher AI employee) | Not actionable | Requires Eann to run Nova interview in Claude to generate system prompt |
+| TASK PIN-1 (Produce 15 pins in Canva) | Not actionable | Manual Canva + Pinterest scheduler task for Eann |
+| TASK PIN-2 (Confirm 15 pins live) | Not actionable | Requires Pinterest profile access |
+
+**Next scheduled babysit-seo:** Sunday July 5, 2026 (8:03pm auto-run). Priority for that run: restore GSC access first, then pull a 90-day report to measure CTR lift from June 22-26 rewrites (GSC-1 through GSC-13).
