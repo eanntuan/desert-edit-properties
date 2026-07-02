@@ -1,8 +1,8 @@
 ---
-title: "Coachella 2027: Where to Stay in the Valley"
+title: "Coachella 2027: Stay in Indio, Walk to the Grounds"
 date: 2026-06-16
-dateModified: 2026-06-18
-metaDescription: "Private home vs hotel for Coachella 2027. Why Indio wins, walking distance to Empire Polo Club, pool recovery between sets, and what to book first."
+dateModified: 2026-07-02
+metaDescription: "Walk to Empire Polo Club from Indian Palms. Private pools, groups of 8, no rideshare math. Why Indio beats a festival hotel for Coachella 2027."
 ogImage: /blog/images/festival-coachella-aerial.webp
 heroImage: /blog/images/festival-coachella-aerial.webp
 heroAlt: "Aerial view of Coachella festival grounds at Empire Polo Club in Indio California with valley desert surroundings"

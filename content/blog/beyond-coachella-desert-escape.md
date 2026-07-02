@@ -1,8 +1,8 @@
 ---
 title: "Beyond Coachella: What to Do in the Coachella Valley Year-Round"
 date: 2025-12-16
-dateModified: 2026-06-24
-metaDescription: "Hiking, hot springs, Joshua Tree, the Salton Sea, and restaurants worth the drive any time of year. What to do in the Coachella Valley beyond the festivals."
+dateModified: 2026-07-02
+metaDescription: "Most guides end at the festival. Joshua Tree is 30 minutes east, Salton Sea is south, and there are hot springs and trails the festival crowd never finds."
 ogImage: /blog/images/cozy-cactus-pool.webp
 heroImage: /blog/images/cozy-cactus-pool.webp
 heroAlt: "Pool at a desert vacation rental in the Coachella Valley, California"

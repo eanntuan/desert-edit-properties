@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** June 30, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** July 2, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -1190,3 +1190,54 @@ All tasks through Part 8 are marked done. Remaining open items are all non-actio
 | TASK PIN-2 (Confirm 15 pins live) | Not actionable | Requires Pinterest profile access |
 
 **Next scheduled babysit-seo:** Sunday July 5, 2026 (8:03pm auto-run). Priority for that run: restore GSC access first, then pull a 90-day report to measure CTR lift from June 22-26 rewrites (GSC-1 through GSC-13).
+
+---
+
+### GSC Check-in — 2026-07-02
+
+**Period:** 2026-04-03 to 2026-07-02 (90 days)
+
+**Overall:** 176 clicks, 25,605 impressions, 0.7% CTR, avg position 13.6
+
+**vs. prior period (Jan-Apr):** +167 clicks, +24,965 impressions — site went from essentially zero organic traffic to real volume in one quarter
+
+**Device split:** Mobile 121 clicks / 1.1% CTR / pos 8.9. Desktop 54 clicks / 0.4% CTR / pos 17.2. Mobile is performing 2.75x better on CTR, consistent with prior check-ins.
+
+**What's working:**
+- `palm-springs-surf-club` — 37 clicks, 6,671 imps, pos 10.0. Top traffic driver by clicks.
+- `palm-springs-vs-indio` — 28 clicks, 5,038 imps, pos 8.2. Strong performer.
+- Homepage — 15 clicks, 2.4% CTR at pos 8.8. Good click efficiency.
+- `indio-local-gems` — 10 clicks, 2.6% CTR at pos 10.9. Punching above its position.
+
+**CTR opportunities (rewrites executed this run):**
+
+~~**TASK GSC-16: Rewrite `coachella-2027-where-to-stay` title/meta**~~ ✅ **DONE 2026-07-02** — Page at pos 7.2 with 53 impressions and 0 clicks. Old title "Where to Stay in the Valley" was generic. New title "Coachella 2027: Stay in Indio, Walk to the Grounds" and meta lead with the Indian Palms walkability angle, which is the actual differentiator. Check CTR lift at July 13.
+
+~~**TASK GSC-17: Rewrite `beyond-coachella-desert-escape` meta**~~ ✅ **DONE 2026-07-02** — Page at pos 10.1 with 78 impressions and 0 clicks despite June 24 title rewrite. Meta was a flat activity list. Rewrote to open with "Most guides end at the festival gates" contrast hook to earn the click from position 10. Check CTR lift at July 13.
+
+**Weak pages (buried — position > 30, content may be thin):**
+- `palm-springs-bars` — 680 imps, pos 32.7, 1 click. Content volume or freshness issue at this position, not a title fix.
+- `things-to-do-indio-ca` — 523 imps, pos 40.8, 1 click. Too far back; content expansion or consolidation needed.
+- `best-hiking-palm-springs` — 332 imps, pos 65.9, 0 clicks. Effectively invisible at this position.
+- `best-restaurants-palm-springs` — 254 imps, pos 35.8, 0 clicks.
+
+**Monitoring (check July 13):**
+- `bnp-paribas-indian-wells-where-to-stay` — 91 imps, pos 19.7, 0 clicks. Too new to rewrite; check July 13 for any ranking movement.
+- `stagecoach-2027-where-to-stay` — 268 imps, 3 clicks, 1.1% CTR, pos 9.8. Healthy for a future-dated festival post; monitor but no action yet.
+- GSC-16 and GSC-17 CTR lift — both rewrites are live after this run. Check at July 13.
+
+---
+
+### Pinterest Check-in — 2026-07-02
+
+**Monthly views:** ~20K (still June 3 data — now 29 days stale. Get a screenshot from Sabbir urgently before the July 5 run.)
+**Pin count:** Eann posting 4-5/day since June 18 (14 days = ~56-70 additional). Total drawing from Sabbir's 355-pin batch (May 25) plus June 23 Pinterest audit batch of 15. Full live count unknown without Sabbir confirmation.
+**Link status:** Airbnb (switch to indigopalm.co threshold: 25-30K monthly views, not yet confirmed reached)
+
+**Quora:** ~10 posts live as of June 26 (0.9/day vs 2-3/day target). Sabbir was posting self-created questions instead of answering existing high-traffic ones. Key redirect: search "Palm Springs vacation rental", "Indio Coachella", "where to stay Coachella" and answer those existing questions.
+**FAQPage JSON-LD:** 86 blog posts confirmed with FAQPage JSON-LD as of June 26.
+
+**Action items:**
+1. **Eann:** Get current Pinterest monthly views screenshot from Sabbir. Data is now 29 days stale. If views are at or above 25K, switch all high-performing pins from Airbnb to indigopalm.co links immediately.
+2. **Eann:** Confirm Sabbir is answering existing Quora questions (not creating new ones). Target: 2-3 answers/day to questions with 100+ views.
+3. **Eann:** Get actual live pin count from Sabbir. Need to know how many of the 355-pin batch are live vs. still in queue before deciding on ad campaign timing.
