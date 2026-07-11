@@ -15,6 +15,7 @@ keywords:
   - Modernism Week Palm Springs
   - Movie Colony Palm Springs
   - Vista Las Palmas Palm Springs
+dateModified: 2026-07-11
 articleSection: "Local Guide"
 property: ps-retreat
 readTime: "8 min read"
@@ -62,6 +63,12 @@ layout: blog-post.njk
 
 <p>Walk along <strong>Via Colusa</strong>, <strong>Via Vaquer</strong>, and <strong>Via Las Palmas</strong>. The combination of butterfly roofs, brise-soleil screen walls, and desert landscaping is dense here. This neighborhood is where you'll burn most of your camera roll.</p>
 
+<h3>What Is Brise-Soleil, Anyway?</h3>
+
+<p>Brise-soleil is French for "sun breaker." It's a fixed screen, usually perforated concrete block, wood slats, or metal fins, mounted in front of a window or wall to cut direct sun while still letting air and filtered light through. Le Corbusier coined the term in the 1930s, but Palm Springs is where the idea got a desert-specific American life.</p>
+
+<p>Before window AC was standard, architects here needed a way to shade glass walls without losing the indoor-outdoor openness the style was built on. Breeze block, the perforated concrete masonry version you'll see everywhere in Vista Las Palmas, was the local answer: cheap, mass-producible, and available in dozens of geometric patterns. Wexler, Cody, and Krisel all used it constantly, on carports, pool enclosures, and room dividers, and the shadows it throws shift shape as the sun moves across the day. That's the detail worth stopping for. The same wall looks different at 10am and 5pm.</p>
+
 <img src="/blog/images/ps-pink-door-midcentury.webp" alt="Pink front door on a midcentury modern home in Palm Springs with cacti and desert plants lining the entry" width="1400" height="933" loading="lazy">
 <p class="image-caption">Vista Las Palmas has this kind of streetscape for several blocks. It's worth walking slowly.</p>
 
@@ -104,6 +111,36 @@ layout: blog-post.njk
 <p>For a neighborhood-by-neighborhood breakdown of where to sleep based on your trip type, the <a href="/blog/palm-springs-neighborhood-guide/">Palm Springs neighborhood guide</a> covers Movie Colony, Vista Las Palmas, Uptown, and more with honest trade-offs.</p>
 
 <p>The Sundune is 10 minutes from downtown Palm Springs and within walking distance of the Uptown Design District. If you're staying with us, you're already positioned to do this tour on arrival day without a car for most of it. More on the neighborhood in the <a href="/blog/palm-springs-local-guide-sundune/">Sundune local guide.</a></p>
+
+<h2>Where to Stay</h2>
+
+<p><a href="/the-sundune/">The Sundune</a> is 10 minutes from downtown Palm Springs, walking distance from the Uptown Design District, and close to the main architectural neighborhoods this tour covers. It's a midcentury-influenced two-bedroom condo in a gated community with a pool. The right base for doing this properly.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Can you see the Kaufmann Desert House from the street?</h3>
+<p>Yes. The Kaufmann Desert House at 470 W Vista Chino is a private residence, but the exterior is visible from the street. You can see the horizontal rooflines, the post-and-beam structure, and the pool area from the sidewalk. Do not enter the property or approach the house. It's enough from the street to understand why Neutra's 1946 design defined desert modernism for decades after.</p>
+
+<h3>Is Modernism Week worth planning a trip around?</h3>
+<p>Yes, if midcentury architecture is a real interest rather than a casual one. The February event runs 11 days, opens private homes for interior tours, and includes architect talks and specialty bus tours. Tickets for the most popular home tours sell out months in advance. The Kaufmann House alone typically has a multi-hour wait, and it's worth every minute.</p>
+
+<h3>How long does the self-guided tour take?</h3>
+<p>Budget two to three hours for a relaxed driving tour with short walks at each stop. Photography-focused visitors tend to run longer. If you add the Art Museum stop, plan for an additional hour minimum. The route works as a half-day activity with time for coffee at the start and lunch afterward.</p>
+
+<h3>Do you need a guide, or can you do this tour alone?</h3>
+<p>You can do this entirely on your own with a map and this guide. The Palm Springs Architectural Foundation offers guided walking and bus tours year-round if you want names, dates, and architectural context attached to what you're seeing. Their tours cover additional properties and neighborhoods not included in this self-guided route.</p>
+
+<h3>Where should I park for the architecture tour?</h3>
+<p>For the Downtown starting point and Uptown Design District, use the public parking structure on Amado Road. For Vista Las Palmas and Old Las Palmas, street parking is available throughout but streets are narrow. Park once and walk a cluster of blocks rather than moving the car between stops.</p>
+
+<h3>Which Palm Springs midcentury neighborhood has the most intact architecture?</h3>
+<p>Vista Las Palmas is the most consistently preserved, with butterfly roofs, screen walls, and desert landscaping for several blocks along Via Colusa, Via Vaquer, and Via Las Palmas. Developed in the late 1950s and early 1960s, it lacks the newer construction that dilutes other neighborhoods. Twin Palms, the William Cody-designed planned neighborhood near Via Miraleste, is less visited and worth adding if you have time.</p>
+
+<h3>Are Donald Wexler's steel houses still standing in Palm Springs?</h3>
+<p>Yes. The prefabricated steel homes Wexler designed in 1961 for Alexander Construction Company are on Sunny Dunes Road near Sunrise Way. They remain private residences but the steel frame is visible from the exterior. Wexler used the same construction logic on the 1965 Palm Springs airport terminal, worth noticing if you fly through PSP.</p>
+
+<h3>What is brise-soleil, and why is it everywhere in Palm Springs?</h3>
+<p>Brise-soleil is French for "sun breaker," a fixed screen (usually perforated concrete block, wood slats, or metal fins) mounted in front of glass to cut direct sun while still letting air and filtered light through. Before window AC was standard, it was the local fix for shading glass walls without losing indoor-outdoor openness. Breeze block, the perforated concrete version, shows up constantly in Vista Las Palmas on carports, pool enclosures, and room dividers.</p>
 
 <script type="application/ld+json">
 {
@@ -149,76 +186,6 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "For the Downtown starting point and Uptown Design District, use the public parking structure on Amado Road. For Vista Las Palmas and Old Las Palmas, street parking is available throughout but streets are narrow. Park once and walk a cluster of blocks rather than moving the car between stops."
       }
-    }
-  ]
-}
-</script>
-
-<h2>Frequently Asked Questions</h2>
-
-<h3>Can you see the Kaufmann Desert House from the street?</h3>
-<p>Yes. The Kaufmann Desert House at 470 W Vista Chino is a private residence, but the exterior is visible from the street. You can see the horizontal rooflines, the post-and-beam structure, and the pool area from the sidewalk. Do not enter the property or approach the house. It's enough from the street to understand why Neutra's 1946 design defined desert modernism for decades after.</p>
-
-<h3>Is Modernism Week worth planning a trip around?</h3>
-<p>Yes, if midcentury architecture is a real interest rather than a casual one. The February event runs 11 days, opens private homes for interior tours, and includes architect talks and specialty bus tours. Tickets for the most popular home tours sell out months in advance. The Kaufmann House alone typically has a multi-hour wait, and it's worth every minute.</p>
-
-<h3>How long does the self-guided tour take?</h3>
-<p>Budget two to three hours for a relaxed driving tour with short walks at each stop. Photography-focused visitors tend to run longer. If you add the Art Museum stop, plan for an additional hour minimum. The route works as a half-day activity with time for coffee at the start and lunch afterward.</p>
-
-<h3>Do you need a guide, or can you do this tour alone?</h3>
-<p>You can do this entirely on your own with a map and this guide. The Palm Springs Architectural Foundation offers guided walking and bus tours year-round if you want names, dates, and architectural context attached to what you're seeing. Their tours cover additional properties and neighborhoods not included in this self-guided route.</p>
-
-<h3>Where should I park for the architecture tour?</h3>
-<p>For the Downtown starting point and Uptown Design District, use the public parking structure on Amado Road. For Vista Las Palmas and Old Las Palmas, street parking is available throughout but streets are narrow. Park once and walk a cluster of blocks rather than moving the car between stops.</p>
-
-<h2>Where to Stay</h2>
-
-<p><a href="/the-sundune/">The Sundune</a> is 10 minutes from downtown Palm Springs, walking distance from the Uptown Design District, and close to the main architectural neighborhoods this tour covers. It's a midcentury-influenced two-bedroom condo in a gated community with a pool. The right base for doing this properly.</p>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you see the Kaufmann Desert House from the street?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The Kaufmann Desert House at 470 W Vista Chino is a private residence, but the exterior is visible from the street. You can see the horizontal rooflines, the post-and-beam structure, and the pool area from the sidewalk. Do not enter the property. The street view is enough to understand why Neutra's 1946 design defined desert modernism for decades after."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Modernism Week worth planning a trip around?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if midcentury architecture is a real interest. The February event runs 11 days, opens private homes for interior tours, and includes architect talks and specialty bus tours. Tickets for the most popular tours sell out months in advance. The Kaufmann House alone typically has a multi-hour wait."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does the self-guided tour take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Budget two to three hours for a relaxed driving tour with short walks at each stop. Photography-focused visitors tend to run longer. If you add the Art Museum stop, plan for an additional hour minimum. The route works as a half-day activity with time for coffee at the start and lunch afterward."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you need a guide, or can you do this tour alone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can do this entirely on your own with a map and this guide. The Palm Springs Architectural Foundation offers guided walking and bus tours year-round for those who want names, dates, and context attached to what they're seeing. Their tours cover additional properties not included in this self-guided route."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where should I park for the architecture tour?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For the Downtown starting point and Uptown Design District, use the public parking structure on Amado Road. For Vista Las Palmas and Old Las Palmas, street parking is available throughout but streets are narrow. Park once and walk a cluster of blocks rather than moving the car between stops."
-      }
     },
     {
       "@type": "Question",
@@ -235,19 +202,15 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Yes. The prefabricated steel homes Wexler designed in 1961 for Alexander Construction Company are on Sunny Dunes Road near Sunrise Way. They remain private residences but the steel frame is visible from the exterior. Wexler used the same construction logic on the 1965 Palm Springs airport terminal, worth noticing if you fly through PSP."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is brise-soleil, and why is it everywhere in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brise-soleil is French for 'sun breaker,' a fixed screen, usually perforated concrete block, wood slats, or metal fins, mounted in front of glass to cut direct sun while still letting air and filtered light through. Before window AC was standard, it was the local fix for shading glass walls without losing indoor-outdoor openness. Breeze block, the perforated concrete version, shows up constantly in Vista Las Palmas on carports, pool enclosures, and room dividers."
+      }
     }
   ]
 }
 </script>
-
-
-
-
-<h4>Which Palm Springs midcentury neighborhood has the most intact architecture?</h4>
-<p>Vista Las Palmas is the most consistently preserved. Developed in the late 1950s and early 1960s, the neighborhood has a uniform midcentury character without the mix of newer construction that dilutes other areas. Via Colusa, Via Vaquer, and Via Las Palmas are the core streets: butterfly roofs, screen walls, and desert landscaping for several blocks in a row. Old Las Palmas has larger estates but more variation. Twin Palms, a William Cody-designed planned neighborhood near Via Miraleste, is less visited and worth adding if you have extra time.</p>
-
-<h4>What is the best base for doing the Palm Springs architecture tour?</h4>
-<p>Staying close to downtown puts you within easy reach of all eight stops on this tour, since the main neighborhoods spread north, east, and northwest of the city center. <a href="https://indigopalm.co/the-sundune/">The Sundune</a> is a two-bedroom midcentury condo in Palm Springs, 10 minutes from downtown and walking distance from the Uptown Design District where the tour starts, with no Airbnb fee when you book direct.</p>
-
-<h4>Are Donald Wexler's steel houses still standing in Palm Springs?</h4>
-<p>Yes. The series of prefabricated steel homes Wexler designed in 1961 for Alexander Construction Company are still standing on Sunny Dunes Road near Sunrise Way. They remain private residences but the steel frame is visible from the exterior and the construction method is apparent in the window proportions and wall structure. Wexler used the same logic at a different scale on the 1965 Palm Springs airport terminal, which is worth noticing if you fly in or out of PSP.</p>
