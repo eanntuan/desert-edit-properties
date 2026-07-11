@@ -116,7 +116,7 @@ layout: blog-post.njk
 }
 </script>
 
-<img src="/blog/images/palm-springs-art-museum.webp" alt="Palm Springs Art Museum entrance detail downtown" width="270" height="360" loading="lazy">
+<img src="/blog/images/palm-springs-art-museum.webp" alt="Palm Springs Art Museum entrance detail downtown" width="800" height="1067" loading="lazy">
 <p class="image-caption">Back to where it started. The museum is still the easiest first stop if you only have one afternoon.</p>
 
 <h2>Frequently Asked Questions</h2>
