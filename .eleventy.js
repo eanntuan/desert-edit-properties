@@ -10,6 +10,27 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => a.date - b.date)
   );
 
+  eleventyConfig.addCollection("postTerraLuz", (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob("content/blog/*.md")
+      .filter((post) => post.data.property === "terra-luz")
+      .sort((a, b) => a.date - b.date)
+  );
+
+  eleventyConfig.addCollection("postCozyCactus", (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob("content/blog/*.md")
+      .filter((post) => post.data.property === "cozy-cactus")
+      .sort((a, b) => a.date - b.date)
+  );
+
+  eleventyConfig.addCollection("postSundune", (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob("content/blog/*.md")
+      .filter((post) => ["ps-retreat", "the-sundune"].includes(post.data.property))
+      .sort((a, b) => a.date - b.date)
+  );
+
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("MMMM d, yyyy");
   });
