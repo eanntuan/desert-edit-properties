@@ -23,7 +23,7 @@ keywords:
   - La Perlita Palm Springs
   - The Nest Indian Wells
 articleSection: "Local Guide"
-property: the-sundune
+property: ps-retreat
 readTime: "10 min read"
 excerpt: "From the best margaritas in the desert to drag shows on Arenas Road, here's where to drink in Palm Springs. 11 real spots organized by vibe. No sponsored picks."
 layout: blog-post.njk

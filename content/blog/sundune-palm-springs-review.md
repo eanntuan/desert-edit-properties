@@ -16,7 +16,7 @@ keywords:
   - bachelorette trip Palm Springs desert
   - solo travel women desert
 articleSection: "Property Review"
-property: the-sundune
+property: ps-retreat
 readTime: "5 min read"
 excerpt: "What guests say about The Sundune in Palm Springs: the walkability, the midcentury neighborhood, the beds, and what surprised them most."
 layout: blog-post.njk

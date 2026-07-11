@@ -17,7 +17,7 @@ keywords:
   - Acrisure Arena ice skating
   - Palm Springs things to do summer
 articleSection: "Travel Guide"
-property: the-sundune
+property: ps-retreat
 readTime: "6 min read"
 excerpt: "When the thermometer hits 110°F in Palm Springs, you need a plan that isn't a hiking trail. Here's what to do when the desert floor is genuinely brutal."
 layout: blog-post.njk
