@@ -1,0 +1,30 @@
+---
+permalink: /feed-general.xml
+layout: false
+eleventyExcludeFromCollections: true
+tags: []
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Coachella Valley Travel Guides — Indigo Palm Collective</title>
+    <link>https://indigopalm.co/blog/</link>
+    <atom:link href="https://indigopalm.co/blog/feed-general.xml" rel="self" type="application/rss+xml"/>
+    <description>General Coachella Valley travel guides and hosting stories not tied to a single property.</description>
+    <language>en-us</language>
+    <lastBuildDate>{{ collections.postGeneral | rssLastUpdatedDate }}</lastBuildDate>
+{%- for post in collections.postGeneral | reverse %}
+{%- set postUrl = "https://indigopalm.co/blog/" + post.fileSlug + "/" %}
+    <item>
+        <title>{{ post.data.title }}</title>
+        <link>{{ postUrl }}</link>
+        <guid>{{ postUrl }}</guid>
+        <pubDate>{{ post.date | rssDate }}</pubDate>
+        <description>{{ post.data.metaDescription }}</description>
+{%- if post.data.ogImage %}
+        <enclosure url="{{ post.data.ogImage | absoluteUrl('https://indigopalm.co') }}" type="image/webp"/>
+{%- endif %}
+    </item>
+{%- endfor %}
+</channel>
+</rss>

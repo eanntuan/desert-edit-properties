@@ -31,6 +31,15 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => a.date - b.date)
   );
 
+  eleventyConfig.addCollection("postGeneral", (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob("content/blog/*.md")
+      .filter((post) =>
+        !post.data.property || ["all", "indio-properties"].includes(post.data.property)
+      )
+      .sort((a, b) => a.date - b.date)
+  );
+
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("MMMM d, yyyy");
   });
