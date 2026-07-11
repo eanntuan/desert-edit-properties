@@ -9,6 +9,7 @@
 // Set secrets (one-time, run these before deploying):
 //   wrangler secret put PRICELABS_API_KEY
 //   wrangler secret put RESEND_API_KEY
+//   wrangler secret put ADMIN_DEBUG_KEY   (gates /inbox + internal debug/test endpoints)
 
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': '*',
@@ -17,6 +18,24 @@ const CORS_HEADERS = {
   'Content-Type': 'application/json',
   'X-Robots-Tag': 'noindex, nofollow',
 };
+
+function isAdminAuthorized(request, env) {
+  const key = new URL(request.url).searchParams.get('key');
+  return !!env.ADMIN_DEBUG_KEY && key === env.ADMIN_DEBUG_KEY;
+}
+
+function adminKeyPrompt(path) {
+  const html = `<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Admin key required</title>
+<style>body{font-family:-apple-system,sans-serif;background:#f5f3ee;padding:60px 20px;text-align:center}form{background:#fff;border-radius:14px;padding:28px 24px;max-width:340px;margin:0 auto;box-shadow:0 2px 12px rgba(0,0,0,.08)}input{width:100%;padding:12px;border:1.5px solid #ddd;border-radius:8px;font-size:15px;margin-bottom:12px}button{width:100%;padding:12px;background:#325CD9;color:#fff;border:none;border-radius:8px;font-size:15px;font-weight:600}</style>
+</head><body><form method="GET" action="${path}"><p style="margin-bottom:14px;color:#555">Admin key required</p><input type="password" name="key" autofocus><button type="submit">Enter</button></form></body></html>`;
+  return new Response(html, { status: 401, headers: { 'Content-Type': 'text/html;charset=utf-8' } });
+}
+
+function unauthorizedJson() {
+  return new Response(JSON.stringify({ error: 'Unauthorized' }), {
+    status: 401, headers: { 'Content-Type': 'application/json' },
+  });
+}
 
 const ICAL_URLS = {
   'cozy-cactus': 'https://www.airbnb.com/calendar/ical/610023395582313286.ics?t=e3b2c94c1a67433bb8d523906b3e5df1',
@@ -500,17 +519,20 @@ export default {
     }
 
     // PWA: inbox dashboard, manifest, service worker, push endpoints
-    if (path === '/inbox') return handleInboxPage(env);
+    if (path === '/inbox') {
+      if (!isAdminAuthorized(request, env)) return adminKeyPrompt('/inbox');
+      return handleInboxPage(env, new URL(request.url).searchParams.get('key'));
+    }
     if (path === '/manifest.json') return handleManifest();
     if (path === '/sw.js') return handleServiceWorker();
     if (path === '/api/vapid-public-key') return handleVapidPublicKey(env);
     if (path === '/api/push-subscribe' && request.method === 'POST') return handlePushSubscribe(request, env);
-    if (path === '/api/test-push') return handleTestPush(env);
-    if (path === '/api/test-email') return handleTestEmail(env);
-    if (path === '/api/test-guest-message') return handleTestGuestMessage(env);
-    if (path === '/api/email-log') return handleEmailLog(env);
-    if (path === '/api/push-sub-status') return handlePushSubStatus(env);
-    if (path === '/api/simulate-inbound') return handleSimulateInbound(env);
+    if (path === '/api/test-push') return isAdminAuthorized(request, env) ? handleTestPush(env) : unauthorizedJson();
+    if (path === '/api/test-email') return isAdminAuthorized(request, env) ? handleTestEmail(env) : unauthorizedJson();
+    if (path === '/api/test-guest-message') return isAdminAuthorized(request, env) ? handleTestGuestMessage(env) : unauthorizedJson();
+    if (path === '/api/email-log') return isAdminAuthorized(request, env) ? handleEmailLog(env) : unauthorizedJson();
+    if (path === '/api/push-sub-status') return isAdminAuthorized(request, env) ? handlePushSubStatus(env) : unauthorizedJson();
+    if (path === '/api/simulate-inbound') return isAdminAuthorized(request, env) ? handleSimulateInbound(env) : unauthorizedJson();
 
     // Approval page: GET /api/approve-reply?id=XXX
     if (path === '/api/approve-reply' && request.method === 'GET') {
@@ -531,7 +553,9 @@ export default {
       return handleHostawayWebhook(request, env);
     }
 
-    // QuickBooks OAuth callback — display params for manual token exchange
+    // QuickBooks OAuth callback — logs params server-side for manual token exchange,
+    // does not echo the code/realmId in the HTTP response (OAuth codes are single-use
+    // secrets; anyone who sees the response or the URL in browser history could use it).
     if (path === '/qb-callback' && request.method === 'GET') {
       const code = url.searchParams.get('code') || '';
       const realmId = url.searchParams.get('realmId') || '';
@@ -539,10 +563,16 @@ export default {
       const error = url.searchParams.get('error') || '';
       const errorDesc = url.searchParams.get('error_description') || '';
       if (error) {
-        return new Response(
-          `QuickBooks OAuth Error\n\nerror: ${error}\ndescription: ${errorDesc}`,
-          { headers: { 'Content-Type': 'text/plain' } }
-        );
+        console.error('QuickBooks OAuth error:', error, errorDesc);
+        return new Response('QuickBooks OAuth error. Check Worker logs for details.', {
+          status: 400, headers: { 'Content-Type': 'text/plain' },
+        });
+      }
+      if (!isAdminAuthorized(request, env)) {
+        console.log('QuickBooks OAuth callback received (code/realmId withheld — view via Worker logs):', { realmId, state });
+        return new Response('QuickBooks authorization received. Check Worker logs for the code to complete the token exchange.', {
+          headers: { 'Content-Type': 'text/plain' },
+        });
       }
       return new Response(
         `QuickBooks OAuth Callback\n\ncode=${code}\nrealmId=${realmId}\nstate=${state}`,
@@ -2779,7 +2809,7 @@ async function sendWebPush(env, notification) {
 
 // ── PWA: Inbox, Manifest, Service Worker, Push Subscribe ─────────────────────
 
-async function handleInboxPage(env) {
+async function handleInboxPage(env, key) {
   const list = await env.BOOKINGS.list({ prefix: 'airbnb_pending:' });
   const pending = [];
   for (const key of list.keys) {
@@ -2850,7 +2880,7 @@ async function handleInboxPage(env) {
 <body>
   <div class="topbar">
     <h1>Inbox<span class="badge" id="count">${pending.length}</span></h1>
-    <a class="refresh" href="/inbox">Refresh</a>
+    <a class="refresh" href="/inbox?key=${encodeURIComponent(key)}">Refresh</a>
   </div>
   <div id="notify-wrap" style="padding:16px 16px 0;max-width:600px;margin:0 auto;display:none">
     <div class="notify-bar">

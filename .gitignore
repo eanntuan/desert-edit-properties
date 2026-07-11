@@ -15,3 +15,7 @@ functions-backup/.env.yaml
 
 # Google Workspace credentials
 google_credentials.json
+
+# Cloudflare Wrangler local dev state/cache (KV dumps, account cache)
+.wrangler/
+**/.wrangler/
