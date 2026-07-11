@@ -1,7 +1,7 @@
 ---
 title: "Best Restaurants in Palm Springs: 15 Local Picks (2026)"
 date: 2026-02-17
-dateModified: 2026-04-18
+dateModified: 2026-07-11
 metaDescription: "The 15 best restaurants in Palm Springs for 2026: Cheeky's bacon flight to Copley's estate patio. Local picks with addresses and hours included."
 ogImage: /blog/images/bar-cecil.webp
 heroImage: /blog/images/bar-cecil.webp
@@ -205,6 +205,28 @@ layout: blog-post.njk
 <p><strong>1900 E Palm Canyon Dr, Palm Springs, CA 92264.</strong> (760) 322-4422. Tue-Thu 4-9:30pm, Fri 6-9:30pm, Sat 5-9:30pm, Sun 5-8:30pm, closed Monday. Find them at <a href="https://www.purpleroompalmsprings.com/" target="_blank" rel="noopener">purpleroompalmsprings.com</a>.</p>
 
 <!-- IMAGE NEEDED: Purple Room Supper Club interior showing the distinctive purple and retro-glamour dining room with stage area -->
+
+<h2>For the Design-Obsessed</h2>
+
+<p>Some of these restaurants are worth visiting for the room alone, and the food happens to be good too. If you care about interiors as much as the menu, start here.</p>
+
+<h3>Bar Cecil</h3>
+
+<p><a href="https://barcecil.com/" target="_blank" rel="noopener noreferrer"><strong>Bar Cecil</strong></a> is named for Cecil Beaton, the British photographer and designer, and the room commits to the reference. The walls carry a private art collection that includes pieces by Calder and Warhol, mixed in with mid-century touches and lighting that does most of the work after dark. Michelin calls it a room that "straddles garish and chic," which is about right. It expanded in 2026 with Beaton's, a lounge next door with its own garden patio and cocktail program.</p>
+
+<p><strong>1555 S Palm Canyon Dr, Ste H-104, Palm Springs, CA 92264.</strong> (442) 332-3800. Tue-Sun 5-10pm, kitchen closes at 9pm. Reservations open 14 days out at 8am. Find them at <a href="https://barcecil.com/" target="_blank" rel="noopener">barcecil.com</a>.</p>
+
+<h3>Bar Issi</h3>
+
+<p><a href="https://www.thebarissi.com/" target="_blank" rel="noopener noreferrer"><strong>Bar Issi</strong></a> sits inside the Thompson Hotel and leans into a maximalist coastal Italian look: deep reds, sea blues, bold pattern on nearly every surface. Designer Tom Parker of Fettle built the space with a brief that reportedly pulled from The White Lotus and San Luis Obispo's Madonna Inn, which explains a lot. The pastas are house-made and the wood-fired pizzas are the safer order if you're eating with a group that wants to share.</p>
+
+<p><strong>414 N Palm Canyon Dr, Ste F, Palm Springs, CA 92262.</strong> (442) 334-2405. Mon-Fri 4:30-10pm, Sat 11am-10pm, Sun 11am-9:30pm. Weekend brunch 11am-2:30pm. Find them at <a href="https://www.instagram.com/thebarissi/" target="_blank" rel="noopener">@thebarissi</a>.</p>
+
+<h3>The Colony Club</h3>
+
+<p><a href="https://colonypalmshotel.com/dining/overview/" target="_blank" rel="noopener noreferrer"><strong>The Colony Club</strong></a> is inside the Colony Palms Hotel, in a building with real old-Hollywood history: Clark Gable and Humphrey Bogart drank here. Designer Steve Hermann kept the bones and layered on Moroccan tile, patterned wallpaper, and a modern take on Art Deco in the main dining room. Poolside seating looks out over turquoise water and the mountains, and the menu (Beef Wellington, Celery Victor, a theatrical chicken pot pie) matches the golden-era mood on purpose.</p>
+
+<p><strong>572 N Indian Canyon Dr, Palm Springs, CA 92262.</strong> (760) 969-1818. Mon-Thu, Sun 8am-9pm, Fri-Sat 8am-10pm. Find them at <a href="https://colonypalmshotel.com/dining/overview/" target="_blank" rel="noopener">colonypalmshotel.com</a>.</p>
 
 <h2>Practical Notes</h2>
 
