@@ -1,8 +1,8 @@
 ---
-title: "Coachella 2027: Stay in Indio, Walk to the Grounds"
+title: "Coachella 2027: Private Home, Walk to the Polo Grounds"
 date: 2026-06-16
-dateModified: 2026-07-02
-metaDescription: "Walk to Empire Polo Club from Indian Palms. Private pools, groups of 8, no rideshare math. Why Indio beats a festival hotel for Coachella 2027."
+dateModified: 2026-07-11
+metaDescription: "Skip the shuttle math. A private Indio home with a pool, 5 minutes from the gates on foot, sleeps 8, no rideshare surge pricing for Coachella 2027."
 ogImage: /blog/images/festival-coachella-aerial.webp
 heroImage: /blog/images/festival-coachella-aerial.webp
 heroAlt: "Aerial view of Coachella festival grounds at Empire Polo Club in Indio California with valley desert surroundings"

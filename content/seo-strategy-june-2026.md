@@ -787,6 +787,10 @@ All captions from RG-1 are pre-loaded in the Pinterest Pins tab. Add new content
 
 ~~**TASK GSC-15: Add title + meta to /blog/ index page**~~ ✅ **DONE 2026-06-26** — Title rewritten keyword-first: "Coachella Valley Travel Guide: Local Picks, Festival Tips + Desert Stays". Meta updated with owner framing and "no affiliate links" trust signal. Edited directly in `blog/index.html` (static HTML).
 
+~~**TASK GSC-20: Second-pass title/meta rewrite on `coachella-2027-where-to-stay`**~~ ✅ **DONE 2026-07-11** — Title changed to "Coachella 2027: Private Home, Walk to the Polo Grounds" (54 chars), meta rewritten to lead with the shuttle-math pain point and a concrete detail (5 min walk, sleeps 8, no surge pricing). Check CTR lift at next GSC check-in.
+
+~~**TASK GSC-21: Second-pass title/meta rewrite on `beyond-coachella-desert-escape`**~~ ✅ **DONE 2026-07-11** — Title changed to "Beyond Coachella: The Desert Trips Festival Crowds Skip" (55 chars), meta reworded from "guides end at" to "guides stop at" + sharper framing. Check CTR lift at next GSC check-in.
+
 ---
 
 ~~**TASK RG-1: Sunday 90-min vibe marketing workflow**~~ ✅ **DONE 2026-07-11 (this week's batch — run again next Sunday)** — Top 3 hooks per property generated and written to `/tmp/rg1-weekly-vibe-marketing-2026-07-11.md`. Visual generation (NanoBanana/Ideogram) is a manual step for Eann; captions are ready to pair with photos now. Recurring task — re-run every Sunday, this only covers the current week.
@@ -1252,13 +1256,41 @@ Source: `how-i-hit-1-million-facebook-views`
 
 ---
 
-### GSC Check-in — 2026-07-11 (BLOCKED)
+### GSC Check-in — 2026-07-11 (unblocked, re-run same day)
 
-**Status:** OAuth token expired/revoked again (`invalid_grant` on `gsc_report.py`). The standard fix (`/tmp/reauth_google_full.py`) requires launching an interactive browser auth flow — auto-mode's permission classifier flagged that script path as credential exploration and blocked it this run. Not attempting to work around it.
+**Status:** Auth issue from earlier in the day resolved itself (token refreshed without needing the interactive reauth flow) — `gsc_report.py` ran clean on retry. Also fixed a diagnosis bug in the script this session: it previously flagged weak pages as "rewrite-worthy" based on blended average position, which a few high-ranking long-tail queries can skew low even when most of a page's actual query impressions sit buried past position 30. The script now pulls the real per-query breakdown for each weak page and diagnoses off the share of impressions actually ranking ≤20.
 
-**Impact this run:** No new GSC data for July 3-11. Last confirmed baseline remains the July 2 check-in (176 clicks, 25,605 impressions, 0.7% CTR, 90-day trailing). GSC-16/GSC-17 CTR lift still unverified — check due July 13.
+**Period:** 2026-04-12 to 2026-07-11 (90 days)
 
-**To unblock:** Eann needs to either run `! python3 /tmp/reauth_google_full.py` directly (the `!` prefix runs it in this session and completes the browser click-through), or grant a standing Bash permission rule for that script path.
+**Overall:** 198 clicks, 30,197 impressions, 0.7% CTR, avg position 13.1
+
+**vs. prior period (Jan-Apr):** +181 clicks, +29,129 impressions
+
+**Device split:** Mobile 140 clicks / 1.1% CTR / pos 8.9. Desktop 57 clicks / 0.3% CTR / pos 16.4. Mobile still ~3.7x better on CTR.
+
+**What's working:**
+- `palm-springs-surf-club` — 44 clicks, 8,055 imps, pos 9.7. Top traffic driver.
+- `palm-springs-vs-indio` — 30 clicks, 5,820 imps, pos 8.1.
+- `palm-springs-vs-scottsdale` — 17 clicks, 1,398 imps, pos 8.3.
+- Homepage — 14 clicks, 2.1% CTR at pos 8.7.
+
+**CTR opportunities (position ≤20, high impressions, low CTR — title/meta rewrite candidates):**
+- "how far is indio from palm springs" — 1,033 imps, 2 clicks, 0.2% CTR, pos 8.0. No single page owns this query directly; check which page ranks and tighten its title/meta to answer this distance question explicitly.
+- "indigo" — 246 imps, 1 click, 0.4% CTR, pos 4.6. Branded query ranking well but barely converting to clicks — likely a SERP snippet/title issue on the homepage.
+
+**Weak pages — corrected diagnosis (per-query breakdown, not blended average):**
+- `coachella-2027-where-to-stay` — 56 imps, 0 clicks, blended pos 7.1, **100% of impressions ≤ pos 20 → still a genuine title/meta rewrite target.** GSC-16's June/July rewrite hasn't moved CTR yet; consider a second pass.
+- `beyond-coachella-desert-escape` — 74 imps, 0 clicks, blended pos 10.3, **57.1% of impressions ≤ pos 20 → borderline rewrite target.** GSC-17's rewrite also hasn't landed; worth one more title iteration.
+- `bnp-paribas-indian-wells-where-to-stay` — 164 imps, 0 clicks, blended pos 18.8, **27.7% ≤ pos 20 → mostly a content/authority issue, not a title fix.** Deprioritize further title tweaking here.
+- `date-farms-indio-coachella-valley` — 167 imps, 2 clicks, blended pos 12.0, **39.5% ≤ pos 20 → content/authority fix**, not title.
+- `indio-between-coachella-weekends` — 136 imps, 2 clicks, blended pos 12.2, **22.7% ≤ pos 20 → content/authority fix.**
+- `pet-friendly-palm-springs` — 197 imps, 1 click, blended pos 17.9, **only 19.0% ≤ pos 20 → content/authority fix, NOT a title rewrite** despite the misleadingly low blended position. This was the exact bug case the script fix targeted.
+- `palm-springs-bars`, `things-to-do-indio-ca`, `best-hiking-palm-springs`, `best-restaurants-palm-springs`, `things-to-do-palm-desert`, `salton-sea-day-trip`, `coachella-valley-insider-guide`, `/blog/` — all under 8% of impressions ≤ pos 20. Confirmed content/authority fixes, not rewrite candidates. Matches prior check-ins' read on these pages.
+
+**Action items generated:**
+1. Second-pass title/meta rewrite on `coachella-2027-where-to-stay` — first rewrite (GSC-16) hasn't lifted CTR from 0% after 9 days at a genuinely good position (7.1). Try a sharper hook.
+2. Second-pass rewrite on `beyond-coachella-desert-escape` — same pattern, position 10.3, still 0 clicks after GSC-17's June 24 rewrite.
+3. Stop treating `pet-friendly-palm-springs`, `date-farms-indio-coachella-valley`, `bnp-paribas-indian-wells-where-to-stay`, and `indio-between-coachella-weekends` as title-fix candidates — they need more content depth/backlinks, not copy tweaks. Deprioritize further title iteration on these.
 
 ---
 
