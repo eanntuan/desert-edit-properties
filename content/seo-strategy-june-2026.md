@@ -1277,6 +1277,29 @@ Source: `how-i-hit-1-million-facebook-views`
 
 ---
 
+### GA4 Check-in — 2026-07-11
+
+**Period:** 2026-06-13 to 2026-07-10 (28 days, Firebase/GA4 export)
+
+**Overall:** 346 active users, 348 new users, avg engagement 35.8s/user, 1,854 events. Engagement time is low site-wide — most visits aren't sticking around.
+
+**Traffic source mix (sessions):** google/organic 136, pinterest/organic 126, direct 91, airbnb/message 20, pinterest/social 18. Pinterest (126+18=144 combined) has effectively caught up to Google organic (136) as an acquisition channel — validates the current Pinterest push and TASK RG-19.
+
+**High-bounce pages (50+ views, >60% bounce):**
+- **Cozy Cactus property page: 160 views, 118 active users, 83.3% bounce.** This is the single biggest fix opportunity on the site — it's the highest-traffic page by a wide margin and 5 out of 6 visitors leave without engaging. Likely cause: visitors arrive from a Pinterest pin or search expecting pricing/availability and don't find an immediate answer above the fold, or page load is slow on mobile.
+- Welcome Guide | The Cozy Cactus: 22 views, 70% bounce — lower priority (guest-facing, post-booking traffic, not a growth lever)
+
+**Low-bounce pages worth noting (for contrast):** Terra Luz property page (29 views, 20% bounce) and homepage (80 views, 41.7% bounce) both perform far better than Cozy Cactus at holding attention — worth diffing what Cozy Cactus's page is missing that Terra Luz's has.
+
+**Property page visibility gap:** Cozy Cactus 160 views vs. Terra Luz 29 views vs. Sundune 12 views. Sundune is nearly invisible relative to the other two — it's the newest/smallest listing with the fewest supporting blog posts and pins pointing at it.
+
+**Action items generated:**
+1. **Fix Cozy Cactus bounce rate** — rewrite above-the-fold section of the Cozy Cactus property page: lead with price/availability CTA, confirm page load speed on mobile, check that the Pinterest pins driving traffic there match what the page actually shows. Highest-leverage single fix on the site right now.
+2. **Close the Sundune visibility gap** — queue a blog post and a Pinterest board/pin batch pointing specifically at Sundune (girls'-weekend / dog-friendly / Palm Springs angle) to bring its view count closer to parity with the other two properties.
+3. Continue the Pinterest push (RG-19, RG-1) — traffic-source data confirms it's working, don't deprioritize it for GSC-only wins.
+
+---
+
 ### babysit-seo run — 2026-07-11 — Open Task Status
 
 All actionable tasks are done. Remaining open items are non-actionable this run:
@@ -1284,6 +1307,7 @@ All actionable tasks are done. Remaining open items are non-actionable this run:
 | Task | Status | Reason |
 |------|--------|--------|
 | GSC Phase 0.5 | Blocked | OAuth token expired again; reauth script blocked by auto-mode permission classifier — needs Eann to run `! python3 /tmp/reauth_google_full.py` directly |
+| GA4 Phase 0.5 (new) | Done | Read `~/Downloads/Reports_snapshot.csv`; Cozy Cactus bounce rate (83.3%) and Sundune visibility gap flagged above — this is a new recurring phase added to the babysit-seo skill itself |
 | TASK 7 (UTM on Pinterest pins) | Not actionable | Manual task for Eann — requires Pinterest Business Hub access |
 | TASK 10 (Sabbir Quora accountability) | Not actionable | Human conversation |
 | Technical SEO #6 (8 posts crawled not indexed) | Not actionable | Waiting on GSC data at July 13 check-in |
