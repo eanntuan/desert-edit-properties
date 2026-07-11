@@ -1,6 +1,15 @@
 const { DateTime } = require("luxon");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addCollection("post", (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob("content/blog/*.md")
+      .sort((a, b) => a.date - b.date)
+  );
+
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("MMMM d, yyyy");
   });
