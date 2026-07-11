@@ -789,18 +789,11 @@ All captions from RG-1 are pre-loaded in the Pinterest Pins tab. Add new content
 
 ---
 
-**TASK RG-1: Sunday 90-min vibe marketing workflow**
-Load Indigo Palm brand dossier into Claude. Generate 10 hooks per property, pick top 3, turn into raw conversational captions. Generate lo-fi visuals in NanoBanana (authenticity beats polished travel photography for scroll-stopping). Property-specific angles:
-- Terra Luz: "walked to Coachella in 18 minutes" hook
-- Cozy Cactus: "family of 6 packed in, nobody wanted to leave"
-- Sundune: "3 king beds for a girls' weekend"
-
-Output: full week of Pinterest + Instagram + Quora asset captions in one session. Run every Sunday. Source: Lesson 8 (vibe marketing / ugly ads).
+~~**TASK RG-1: Sunday 90-min vibe marketing workflow**~~ ✅ **DONE 2026-07-11 (this week's batch — run again next Sunday)** — Top 3 hooks per property generated and written to `/tmp/rg1-weekly-vibe-marketing-2026-07-11.md`. Visual generation (NanoBanana/Ideogram) is a manual step for Eann; captions are ready to pair with photos now. Recurring task — re-run every Sunday, this only covers the current week.
 
 ~~**TASK RG-2: Pinterest caption cleanup via Claude browser extension**~~ ✅ **DONE June 25 (Eann installs — 5 min setup)** — Install Claude extension from Chrome Web Store (search "Claude"). Then open Pinterest, select a batch of pins, and run: "Scan these pins, draft scroll-stopping captions using problem > solution > soft CTA structure, show all before saving." The caption cleanup prompt is ready to use — no further build needed. Source: Lesson 5 (browser agent).
 
-**TASK RG-3: Quora answer template using thread prompt structure**
-Formalize a Claude prompt for all Quora seeding: business = "Indigo Palm, 3 desert vacation rentals in Coachella Valley," audience = "couples/families planning a Coachella-area trip," CTA = "visit indigopalm.co and check availability." Structure every answer as: problem > pain > tactical solution > soft CTA. Run for 5-7 high-volume questions per week. Source: Lesson 3 (viral thread prompt).
+~~**TASK RG-3: Quora answer template using thread prompt structure**~~ ✅ **DONE 2026-07-11** — Full prompt template written to `/tmp/rg3-quora-answer-template.md`: problem > pain > tactical solution > soft CTA structure, plus the cadence rule (5-7 existing high-volume questions/week, not self-created ones — ties to the June 26 Quora audit finding). Source: Lesson 3 (viral thread prompt).
 
 ~~**TASK RG-4: Claude Project "Indigo Palm HQ"**~~ ✅ **DONE June 25** — Context doc written at `/tmp/indigo-palm-hq-claude-project.md`. Covers: About, Properties, Brand Voice (with banned phrases + sentence stacking rules), Guest Personas, Key Facts Never Get Wrong (Airbnb 20%, walking distance rule, pet policy per property, Sundune 5-night flat min, pool types), Content Goals, Owner bio, and the 30-day audit prompt. Eann: create Claude Project → paste this into Project Instructions → connect Gmail + Calendar connectors. Source: Lesson 10 (Claude Cowork 201).
 
@@ -810,15 +803,7 @@ Formalize a Claude prompt for all Quora seeding: business = "Indigo Palm, 3 dese
 
 ~~**TASK RG-5: Booking intent chat bubble on indigopalm.co**~~ ✅ **DONE June 25 (KB built — Eann sets up account)** — Full chatbot knowledge base written at `/tmp/indigo-palm-chatbot-kb.md`. Includes: system prompt, 60+ Q&A pairs organized by section (Properties, Rates, Location, Pets, Pool, Festivals, Booking Direct, Minimum Stays, Parking), four conversation flows (unknown interest, festival intent, pet inquiry, email capture), and hard facts section. Eann: sign up at mindpal.space or voiceflow.com → create "Desert Host" bot → paste system prompt → upload KB file → deploy as chat bubble. Source: Lesson 2 (Build-a-Thon #2).
 
-**TASK RG-6: "5 Why's" conversion brief for Sabbir's pin batches**
-Sabbir is building pin volume. Volume without conversion engineering is what Lesson 4 warns against. Map the 5 Whys for each property:
-- Why Terra Luz (not a hotel at Coachella)?
-- Why now (Stagecoach before dates sell)?
-- Why you (dog-friendly, private pool, Cuban-inspired)?
-- Why not (go to a hotel instead)?
-- Why believe it (social proof, specific details)?
-
-Identify the weakest Why in current pins — almost certainly "Why now" and "Why not go to a hotel." Write a one-page brief for Sabbir with specific pin concepts targeting those two. Turns his 50-pin goal from volume to conversion. Source: Lesson 4 (Canva quote cards).
+~~**TASK RG-6: "5 Why's" conversion brief for pin batches**~~ ✅ **DONE 2026-07-11** — Full brief written to `/tmp/rg6-five-whys-brief.md`, mapped for all 3 properties. Confirmed the weakest Whys are "Why now" and "Why not a hotel" across all three, with specific pin concepts for each. Reframed for Eann (not Sabbir) per the Pinterest posting handoff. Source: Lesson 4 (Canva quote cards).
 
 ~~**TASK RG-7: Notebook LM infographics from existing blog posts**~~ ✅ **DONE June 25 (post list ready — Eann uploads)** — Top 10 posts selected and documented at `/tmp/rg7-notebook-lm-posts.md` with rationale and best infographic angle for each. Priority batch: palm-springs-vs-indio, where-to-stay-coachella, stagecoach-2027, palm-springs-vs-scottsdale. Eann: go to notebooklm.google.com → New Notebook → Add sources (paste post URLs) → Generate summaries → export as images. Source: Lesson 8.
 
@@ -860,8 +845,7 @@ Posts processed: meet-baby-mythos, lesson-6-the-real-one (empty), how-i-hit-7-11
 ~~**TASK RG-11: Shorten + goal-focus Claude prompts for Pinterest pin requests**~~ ✅ **DONE June 25** — Updated `pinterest-pins/SKILL.md` Step 2 from a rules checklist to a goal-first format. Each angle now opens with the intended reader outcome ("A traveler is mid-scroll... the overlay text has to make them pause"), then explains how each angle achieves that. The "answer-first, not question-first" rule was also added to overlay text guidance.
 Source: `meet-baby-mythos-what-claude-fable`
 
-**TASK RG-12: Build the "Carrie" workflow — property URL → Pinterest carousel batch**
-Prompt that takes a property page URL + one theme angle (e.g., "dog-friendly weekend," "Coachella prep") and outputs 5 pin concepts with title, description, CTA, and alt text. Eann reviews and approves; stops generating from scratch each time. One sitting = a full week of pins.
+~~**TASK RG-12: Build the "Carrie" workflow — property URL → Pinterest carousel batch**~~ ✅ **DONE 2026-07-11** — Full prompt template written to `/tmp/rg12-carrie-workflow-prompt.md`. Takes a property URL + theme angle, outputs 5 pin concepts (title, description, overlay text, CTA, alt text) grounded in confirmed property facts. Eann reviews/approves before scheduling.
 Source: `how-i-hit-7-11-4-trust-math-without`
 
 ~~**TASK RG-13: Start a conversation capture habit for content extraction**~~ ✅ **DONE June 25 (template built — Eann saves to phone)** — Full capture template + weekly extraction prompt written at `/tmp/rg13-conversation-capture.md`. Includes situation table (highest-value moments: Dawn design calls, contractor check-ins, guest feedback, site visits), a phone-friendly capture format, and the Sunday extraction prompt that turns notes into blog angles, Pinterest hooks, and Quora seeds. Eann: bookmark or save the capture template to Notes app and run the extraction every Sunday.
@@ -1241,3 +1225,77 @@ All tasks through Part 8 are marked done. Remaining open items are all non-actio
 1. **Eann:** Get current Pinterest monthly views screenshot from Sabbir. Data is now 29 days stale. If views are at or above 25K, switch all high-performing pins from Airbnb to indigopalm.co links immediately.
 2. **Eann:** Confirm Sabbir is answering existing Quora questions (not creating new ones). Target: 2-3 answers/day to questions with 100+ views.
 3. **Eann:** Get actual live pin count from Sabbir. Need to know how many of the 355-pin batch are live vs. still in queue before deciding on ad campaign timing.
+
+---
+
+### New from Rachel — 2026-07-11
+
+Post processed: `how-i-hit-1-million-facebook-views`
+
+Core framework: Rachel scaled to 1.4M Facebook views in 6 months with zero ad spend by exporting her Professional Dashboard CSV weekly and feeding it to a custom Claude Skill that finds posting-time patterns, flags her top-performing posts for recycling, and drafts new posts in her voice. The transferable part isn't Facebook-specific tactics — it's the audit → identify pattern → systemize → recycle loop.
+
+**TASK RG-19: Apply the audit-and-recycle loop to Pinterest, now that Pinterest posting is Eann's job**
+
+Since [[project_sabbir_transition]] moved Pinterest posting to Eann as of this month, this is directly actionable — no Sabbir dependency.
+
+1. **Quarterly timing audit.** Once Pinterest Analytics access is confirmed (Action item 1 above), pull the last 90 days and check which posting hours/days actually perform — Rachel's own top slot flipped year over year, so don't assume last quarter's timing still holds.
+2. **Build an evergreen pin library.** Track which pins (by category: property photos, local guides, Coachella content) get repinned/clicked most, and recycle those angles verbatim in future batches rather than always creating new ones — most viewers never saw the original.
+3. **Lead captions with specific numbers.** "4.98 stars, 146 reviews," "walking distance to Empire Polo Club," "20% you don't pay booking direct" outperform vague claims like "relaxing desert getaway." This matches existing brand voice rules already in place — reinforce it in Pinterest pin copy specifically.
+4. **Favor declarative captions over questions.** Rachel's data showed statements beat question-based hooks. Audit current pin captions for this pattern going forward.
+5. **Volume isn't the lever — hook quality is.** Her highest-volume month was her worst performer. Don't chase 4-5 pins/day as the goal in itself; prioritize testing/recycling proven hooks over raw output.
+
+**Not directly applicable:** the "10-person engagement pod" tactic is Facebook-algorithm-specific and doesn't map to Pinterest's discovery mechanics — skip.
+
+**Why now:** This is the first Rachel Gainsburg task that Eann can execute directly end-to-end for Pinterest, since Sabbir no longer owns that channel.
+
+Source: `how-i-hit-1-million-facebook-views`
+
+---
+
+### GSC Check-in — 2026-07-11 (BLOCKED)
+
+**Status:** OAuth token expired/revoked again (`invalid_grant` on `gsc_report.py`). The standard fix (`/tmp/reauth_google_full.py`) requires launching an interactive browser auth flow — auto-mode's permission classifier flagged that script path as credential exploration and blocked it this run. Not attempting to work around it.
+
+**Impact this run:** No new GSC data for July 3-11. Last confirmed baseline remains the July 2 check-in (176 clicks, 25,605 impressions, 0.7% CTR, 90-day trailing). GSC-16/GSC-17 CTR lift still unverified — check due July 13.
+
+**To unblock:** Eann needs to either run `! python3 /tmp/reauth_google_full.py` directly (the `!` prefix runs it in this session and completes the browser click-through), or grant a standing Bash permission rule for that script path.
+
+---
+
+### Pinterest Check-in — 2026-07-11
+
+**Monthly views:** ~20K — still the June 3 screenshot, now 38 days stale. No newer figure found in context files or memory.
+**Pin count:** No live-count confirmation from Sabbir since June 18 handoff. Eann has been posting 4-5/day since then (~23 days = ~92-115 additional pins into the queue), but total live count is still unconfirmed.
+**Link status:** Airbnb (25-30K monthly-view threshold not confirmed reached — can't confirm without a fresh screenshot)
+**Quora:** No new data since June 26 (~10 live, 0.9/day pace). Redirect to answering existing high-traffic questions still outstanding.
+**FAQPage JSON-LD:** 86/86 posts confirmed as of June 26 — no new posts published since, so still current.
+
+**Action items (unchanged from July 2, still open):**
+1. **Eann:** Get a current Pinterest monthly-views screenshot — this is now the single most stale, most requested data point across three consecutive check-ins (June 26, June 30, July 2, July 11).
+2. **Eann:** Confirm actual live pin count vs. queue.
+3. **New (TASK RG-19):** Once Pinterest Analytics access is confirmed, run the 90-day timing audit and start tagging top-performing pins for the evergreen recycle library — see TASK RG-19 above.
+
+---
+
+### babysit-seo run — 2026-07-11 — Open Task Status
+
+All actionable tasks are done. Remaining open items are non-actionable this run:
+
+| Task | Status | Reason |
+|------|--------|--------|
+| GSC Phase 0.5 | Blocked | OAuth token expired again; reauth script blocked by auto-mode permission classifier — needs Eann to run `! python3 /tmp/reauth_google_full.py` directly |
+| TASK 7 (UTM on Pinterest pins) | Not actionable | Manual task for Eann — requires Pinterest Business Hub access |
+| TASK 10 (Sabbir Quora accountability) | Not actionable | Human conversation |
+| Technical SEO #6 (8 posts crawled not indexed) | Not actionable | Waiting on GSC data at July 13 check-in |
+| Gap D (booking widget urgency signal) | Not actionable | Not until September |
+| Gap F (festival post availability sentence) | Not actionable | Seasonal, manual |
+| Week 7-12 link building | Skipped | Outreach tasks per skill instructions |
+| TASK RG-8 (Monday comp intelligence agent) | Not actionable | Requires PriceLabs API + Airbnb page scraping setup |
+| TASK RG-17 (HeyGen video clone) | Not actionable | Needs Eann to record 15-second video first |
+| TASK RG-18 (Market Researcher AI employee) | Not actionable | Requires Eann to run Nova interview in Claude to generate system prompt |
+| TASK PIN-1 (Produce 15 pins in Canva) | Not actionable | Manual Canva + Pinterest scheduler task for Eann |
+| TASK PIN-2 (Confirm 15 pins live) | Not actionable | Requires Pinterest profile access |
+
+**Completed this run:** TASK RG-1 (weekly vibe marketing batch), RG-3 (Quora answer template), RG-6 (5 Why's brief), RG-12 (Carrie workflow prompt), RG-19 (new — Rachel's Facebook-growth post synthesized into a Pinterest audit-and-recycle task).
+
+**Next scheduled babysit-seo:** Sunday July 12, 2026, 8:03pm (weekly cron). Priority for that run: restore GSC access first (needs Eann's manual reauth click-through), then pull the July 13 CTR-lift check on GSC-16/GSC-17, and re-run TASK RG-1 for the new week.
