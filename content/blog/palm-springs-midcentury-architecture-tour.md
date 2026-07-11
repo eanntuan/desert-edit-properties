@@ -2,9 +2,10 @@
 title: "Palm Springs Midcentury Architecture: Self-Guided Tour"
 date: 2026-05-24
 metaDescription: "Self-guided driving tour of Palm Springs midcentury architecture. 8 stops, real addresses, Neutra, Frey, Wexler, and the best golden hour timing."
-ogImage: /blog/images/ps-midcentury-teal-door.webp
-heroImage: /blog/images/ps-midcentury-teal-door.webp
-heroAlt: "Teal front door on a midcentury modern home in Palm Springs with desert plants and clear blue sky"
+ogImage: /blog/images/ps-mcm-blue-door-cacti-unsplash.webp
+heroImage: /blog/images/ps-mcm-blue-door-cacti-unsplash.webp
+heroAlt: "Blue front door on a white midcentury modern home in Palm Springs framed by cactus garden, breeze block screen wall, and desert mountains"
+heroPosition: "center 45%"
 keywords:
   - Palm Springs midcentury modern architecture
   - Palm Springs architecture tour
