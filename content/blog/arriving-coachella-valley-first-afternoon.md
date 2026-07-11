@@ -48,7 +48,7 @@ faqItems:
 
 <img src="/blog/images/terra-luz-outdoor-kitchen-drinks.webp" alt="Topo Chico margarita bottles and watermelon on the outdoor kitchen counter at Terra Luz in Indio" width="1600" height="1067" loading="lazy" decoding="async">
 
-<img src="/blog/images/terra-luz-kitchen-hero.webp" alt="Kitchen at Terra Luz vacation rental in Indio CA, with open shelving and warm wood tones" width="4800" height="3200" loading="lazy" decoding="async">
+<img src="/blog/images/terra-luz-kitchen-hero.webp" alt="Kitchen at Terra Luz vacation rental in Indio CA, with open shelving and warm wood tones" width="1600" height="1067" loading="lazy" decoding="async">
 <p class="image-caption">A stocked kitchen makes every morning better. Spend the twenty minutes.</p>
 
 <h2>The Pool: Timing Matters More Than You Think</h2>
@@ -61,7 +61,7 @@ faqItems:
 
 <img src="/blog/images/terra-luz-pool-umbrella.webp" alt="Terra Luz pool at dusk with blue striped umbrella, white Adirondack chairs, and string lights under a pergola" width="1600" height="1067" loading="lazy" decoding="async">
 
-<img src="/blog/images/terra-luz-outdoor-patio.webp" alt="Covered outdoor patio at Terra Luz with terracotta walls and string lights at evening" width="4800" height="3200" loading="lazy" decoding="async">
+<img src="/blog/images/terra-luz-outdoor-patio.webp" alt="Covered outdoor patio at Terra Luz with terracotta walls and string lights at evening" width="1600" height="1067" loading="lazy" decoding="async">
 <p class="image-caption">The outdoor hours in the Coachella Valley belong to early morning and evening. Everything in between is optional.</p>
 
 <h2>Tonight's Dinner: One Honest Recommendation</h2>

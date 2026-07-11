@@ -22,7 +22,7 @@ layout: blog-post.njk
 
 <p>That's harder than it sounds. A room that size can easily go hollow. Too much floor, not enough warmth, everything floating rather than anchored. Too much bold and you've built a headache instead of a retreat. We had a clear vision and still went through five rounds of tile samples and more green paint swatches than I want to admit before we got there.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom-hero.webp" alt="Terra Luz primary bedroom in Indio California with sage green walls, king bed, rattan headboard, Talavera tile floor, live-edge bench, and ceiling fan" width="4362" height="3205" loading="lazy">
+<img src="/blog/images/terra-luz-primary-bedroom-hero.webp" alt="Terra Luz primary bedroom in Indio California with sage green walls, king bed, rattan headboard, Talavera tile floor, live-edge bench, and ceiling fan" width="1600" height="1176" loading="lazy">
 <p class="image-caption">The primary bedroom. Sage green walls, king bed, live-edge bench at the foot, Talavera tile floor. The ensuite opens through the archway on the left.</p>
 
 <h2>The casita concept</h2>
@@ -35,7 +35,7 @@ layout: blog-post.njk
 
 <p>The floor tile for this room went through more rounds than anything else in the renovation. We landed on 13x13 terracotta field tiles with 4x4 Talavera hand-painted accent dots placed at the intersections: a pattern that's undeniably Old Havana without being too loud about it. But getting there took time.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom-tile.webp" alt="Terracotta tile floor with hand-painted Talavera accent tiles at corners in the primary bedroom at Terra Luz vacation rental in Indio" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-primary-bedroom-tile.webp" alt="Terracotta tile floor with hand-painted Talavera accent tiles at corners in the primary bedroom at Terra Luz vacation rental in Indio" width="1067" height="1600" loading="lazy">
 <p class="image-caption">Terracotta field tile with Talavera accent dots at every intersection. The pattern is subtle in photos and present in the room.</p>
 
 <p>The problem with tile is that samples lie. A 4x4 chip looks completely different from a laid floor, and even a small sample board looks different than the actual tile under the actual light in the actual room. We brought samples in from La Tile and Stone, put them down in the space, looked at them in morning light, afternoon light, and the orange-pink light that comes through Indio windows around 5pm. The first two options were too grey. The third read orange rather than terracotta. The fourth was close but had too much variation in color. The fifth landed.</p>
@@ -46,7 +46,7 @@ layout: blog-post.njk
 
 <p>The walls are Fair Spring from Dunn Edwards, a sage that reads differently at every hour of the day. In morning light it's almost grey. By afternoon it's clearly green, soft and muted. At dusk, with the sconce on, it goes warm and close, the walls feel nearer without feeling smaller.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom-detail.webp" alt="Primary bedroom at Terra Luz with sage green walls, arched wood cabinet coffee station, wicker lamp, and king bed with textured white bedding" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-primary-bedroom-detail.webp" alt="Primary bedroom at Terra Luz with sage green walls, arched wood cabinet coffee station, wicker lamp, and king bed with textured white bedding" width="1067" height="1600" loading="lazy">
 <p class="image-caption">The credenza coffee station against the sage green wall. Wicker lamp, arched doors, Keurig and mugs, all of it within arm's reach of the bed.</p>
 
 <p>Getting to that specific green took work. The test swatches made it clear quickly which direction was wrong: anything with blue undertones turned the room into a spa, something serene but anonymous. Anything with too much yellow read as kitchen paint. We needed a green that felt like it belonged in the desert without impersonating the desert, something that could hold its own against terracotta tile and not look like they were fighting each other.</p>
@@ -57,17 +57,17 @@ layout: blog-post.njk
 
 <p>The primary is the quietest of the three bedrooms at Terra Luz. The <a href="/blog/terra-luz-wild-tropics-bedroom/">Wild Tropics room</a> is loud in the best way, floor-to-ceiling mural, bold blue accents, the one guests photograph first. The <a href="/blog/terra-luz-cali-room-bedroom/">Cali Room</a> has its own energy with the Kahlo Blue workstation hiding behind bifold doors. The primary asks less of you. It's the room where the volume gets turned down, not because it gave up on having a point of view, but because the point of view is rest.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom-ensuite.webp" alt="Primary ensuite bathroom at Terra Luz with sage green walls, soaking tub, macrame shelf, rattan pendant light, and wooden bath tray" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-primary-bedroom-ensuite.webp" alt="Primary ensuite bathroom at Terra Luz with sage green walls, soaking tub, macrame shelf, rattan pendant light, and wooden bath tray" width="1067" height="1600" loading="lazy">
 <p class="image-caption">The ensuite. Soaking tub with a wooden bath tray, macrame shelf, rattan pendant overhead. Same Fair Spring walls as the bedroom.</p>
 
 <p>The ensuite carries the same sage green through, so stepping from bedroom to bathroom doesn't break the mood. Soaking tub in the corner, walk-in shower beside it, double vanity with gold hardware. The rattan pendant over the tub was Dawn's addition, a small gesture that keeps the material language consistent between the rooms without requiring that every surface be thematic.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom-wide.webp" alt="Primary bedroom at Terra Luz with king bed, rattan daybed against sage green wall, and view through to ensuite bathroom" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-primary-bedroom-wide.webp" alt="Primary bedroom at Terra Luz with king bed, rattan daybed against sage green wall, and view through to ensuite bathroom" width="1067" height="1600" loading="lazy">
 <p class="image-caption">The rattan daybed against the far wall. Secondary sleeping option, reading spot, or just a place to put your bag that isn't the floor.</p>
 
 <p>The rattan daybed along the back wall is the detail I'm most glad we added. It reframes the room from a place to sleep into a place to be. You can read there while your partner sleeps. Kids can use it as a second bed. It makes the square footage feel earned rather than just present.</p>
 
-<img src="/blog/images/terra-luz-primary-bedroom-trundle.webp" alt="Primary bedroom at Terra Luz with king bed frame and pull-out trundle bed extended on the floor, sage green walls, terracotta Talavera tile floor in Indio California" width="4663" height="3523" loading="lazy">
+<img src="/blog/images/terra-luz-primary-bedroom-trundle.webp" alt="Primary bedroom at Terra Luz with king bed frame and pull-out trundle bed extended on the floor, sage green walls, terracotta Talavera tile floor in Indio California" width="1600" height="1209" loading="lazy">
 <p class="image-caption">The trundle pulls out from under the king frame. Extra sleeping option without a cot taking up the room permanently.</p>
 
 <p>For the full property, including the pool, outdoor kitchen, and what the renovation actually cost, read <a href="/blog/terra-luz-what-i-built/">what I built at Terra Luz</a>. And if you're booking for Coachella or Stagecoach, the <a href="/blog/terra-luz-outdoor-living/">outdoor living post</a> covers the patio and pool situation in more detail. Book direct at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>

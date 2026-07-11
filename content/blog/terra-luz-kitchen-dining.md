@@ -23,7 +23,7 @@ layout: blog-post.njk
 
 <p>We didn't want that. The dining room at Terra Luz needed to tell the same story as the rest of the house, which means Old Havana warmth, grounded materials, and design choices specific enough that you could only be in one place.</p>
 
-<img src="/blog/images/terra-luz-kitchen-hero.webp" alt="Terra Luz dining table with wooden bowl of oranges and Talavera tile coasters, glass doors open to the pool patio in Indio California" width="4800" height="3200" loading="lazy">
+<img src="/blog/images/terra-luz-kitchen-hero.webp" alt="Terra Luz dining table with wooden bowl of oranges and Talavera tile coasters, glass doors open to the pool patio in Indio California" width="1600" height="1067" loading="lazy">
 <p class="image-caption">The dining table looking toward the pool. Glass doors open completely, and the patio sofa sits just past the threshold.</p>
 
 <h2>The terracotta wall and what it anchors</h2>
@@ -36,7 +36,7 @@ layout: blog-post.njk
 
 <p>The teal sideboard under the shelves is a painted, upcycled piece, not something that came off a warehouse floor. The color sits in that particular sweet spot between sage and seafoam, warm enough to read as vintage and cool enough to hold its own next to the terracotta wall behind it. On top: a retro Bluetooth radio, a stack of books including a Cuba travel guide and a World Whiskey volume, and a leather-bound Terra Luz guestbook resting on a woven rattan placemat.</p>
 
-<img src="/blog/images/terra-luz-kitchen-shelf.webp" alt="Teal credenza with Cuba travel books and retro radio, floating shelves with Havana street print, Cafe Bustelo art, and black and white photography against the terracotta wall at Terra Luz" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-kitchen-shelf.webp" alt="Teal credenza with Cuba travel books and retro radio, floating shelves with Havana street print, Cafe Bustelo art, and black and white photography against the terracotta wall at Terra Luz" width="1067" height="1600" loading="lazy">
 <p class="image-caption">The full credenza and shelf vignette. The floating shelves hold a Havana street print, a Cafe Bustelo illustration, and black and white photography from a Cuban street.</p>
 
 <p>The two floating shelves above it hold framed prints: a Havana street scene in full color, a graphic cactus print in sage, a Cafe Bustelo illustration, and a pair of black and white photos that look like they came from a magazine shoot in 1960s Old Havana. There are trailing plants tucked between the frames, which keeps it from reading as staged. A globe floor lamp stands to the right with a warm white globe shade, and it lights the whole wall with soft glow in the evenings.</p>
@@ -47,7 +47,7 @@ layout: blog-post.njk
 
 <p>The dining table is a solid wood slab, natural grain, seating eight around rattan bistro chairs with cane backs. Eight seats at a vacation rental in Indio isn't an accident: the house is designed for groups of six to eight, and everyone should be able to eat together without anyone ending up at a card table.</p>
 
-<img src="/blog/images/terra-luz-kitchen-table.webp" alt="Terra Luz dining table set for eight with rattan bistro chairs, wooden fruit bowl with oranges, teal geometric table runner, and terracotta walls in Indio California" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-kitchen-table.webp" alt="Terra Luz dining table set for eight with rattan bistro chairs, wooden fruit bowl with oranges, teal geometric table runner, and terracotta walls in Indio California" width="1067" height="1600" loading="lazy">
 <p class="image-caption">The table centerset: a turned wood fruit bowl piled with oranges, Talavera tile coasters, a teal beaded table runner with geometric pattern. The fiddle leaf fig is in the corner by the window.</p>
 
 <p>The table styling is very deliberate. A turned wood bowl sits in the center piled with navel oranges, which is the simplest version of the Cuban domestic aesthetic: real fruit, real wood, nothing artificial. A teal and cream beaded table runner runs the length of the table with a bold geometric pattern. Talavera-style ceramic coasters sit stacked beside the bowl, red flower on white clay, and they're the kind of coaster that guests actually pick up and look at rather than just using.</p>
@@ -58,14 +58,14 @@ layout: blog-post.njk
 
 <p>The kitchen is fully equipped and not precious about it. Gas range with a white enamel range hood, granite countertops, open wood shelving with a bold graphic tile backsplash in black and white. The tile pattern is geometric and sharp, which gives the kitchen a different energy than the warm terracotta of the dining room. They're in direct sight of each other, and the contrast works: the kitchen says function and the dining room says atmosphere.</p>
 
-<img src="/blog/images/terra-luz-kitchen-counter.webp" alt="Terra Luz kitchen with white gas range, graphic black and white tile backsplash, open wood shelving with ceramics and glassware, and coffee station at left" width="4800" height="3200" loading="lazy">
+<img src="/blog/images/terra-luz-kitchen-counter.webp" alt="Terra Luz kitchen with white gas range, graphic black and white tile backsplash, open wood shelving with ceramics and glassware, and coffee station at left" width="1600" height="1067" loading="lazy">
 <p class="image-caption">The gas range, open shelving, and graphic tile. The spice rack on the fridge panel is stocked. Coffee station sits to the left of the range.</p>
 
 <p>On the open shelves: amber glass tumblers, green glass tumblers, hand-thrown ceramic mugs in brown and blue with patterned glaze, and a driftwood piece on the top shelf that you'd only understand as decorative. There's a chess set tucked on the counter near the microwave because we had space and it felt right. The knives are serious knives in a wood block. It's a kitchen someone actually thought about.</p>
 
 <p>For coffee there's a Nespresso machine and a French press, with Cafe Bustelo in the cabinet. If you're the kind of person who noticed the Cafe Bustelo illustration on the shelf vignette, you'll appreciate finding the actual can in the kitchen. The coffee setup on the counter has a blue ceramic pour-over dripper and a Craft Coffee book propped against the tile, which is a little much but it scans correctly in the photos.</p>
 
-<img src="/blog/images/terra-luz-kitchen-dining-extra.webp" alt="Terra Luz kitchen and dining area at Terra Luz vacation rental in Indio California with terracotta walls, rattan chairs, and open plan layout" width="4800" height="3200" loading="lazy">
+<img src="/blog/images/terra-luz-kitchen-dining-extra.webp" alt="Terra Luz kitchen and dining area at Terra Luz vacation rental in Indio California with terracotta walls, rattan chairs, and open plan layout" width="1600" height="1067" loading="lazy">
 <p class="image-caption">Kitchen and dining in the same sightline. The open plan keeps whoever is cooking part of the conversation.</p>
 
 <h2>The indoor-outdoor connection</h2>

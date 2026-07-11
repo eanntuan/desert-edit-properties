@@ -26,7 +26,7 @@ layout: blog-post.njk
 
 <p>Dawn Asher at The Olive Jar asked early on: what do you want people to do here? The answer was clear. We wanted guests who never felt like they had to go anywhere. Wake up, coffee, pool. Cook outside, eat outside, stay outside until the 10pm curfew pushes everyone back in. The design brief for every decision was: does this make it easier to spend the whole day outdoors?</p>
 
-<img src="/blog/images/terra-luz-outdoor-wide.webp" alt="Frida Kahlo blue pool at Terra Luz in Indio California with two ring floats on the water and a terracotta deck surrounding it" width="4800" height="3200" loading="lazy">
+<img src="/blog/images/terra-luz-outdoor-wide.webp" alt="Frida Kahlo blue pool at Terra Luz in Indio California with two ring floats on the water and a terracotta deck surrounding it" width="1600" height="1067" loading="lazy">
 <p class="image-caption">The pool. Frida Kahlo blue, terracotta deck, ring floats ready. The lounge chairs built into the shallow end are just out of frame to the left.</p>
 
 <h2>The pool color was not a negotiation</h2>
@@ -57,7 +57,7 @@ layout: blog-post.njk
 
 <p>The fence also holds the string lights. The lights run from the house eave to the top of the fence on both sides, creating a canopy effect over the pool. At night, with the pool light on and the string lights overhead, it's one of the best-looking outdoor spaces I've seen in Indio at any price point.</p>
 
-<img src="/blog/images/terra-luz-outdoor-fence.webp" alt="Terra Luz pool with wood slat fence backdrop, wire rattan chairs, and Frida Kahlo blue pool in Indio California" width="3199" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-outdoor-fence.webp" alt="Terra Luz pool with wood slat fence backdrop, wire rattan chairs, and Frida Kahlo blue pool in Indio California" width="1066" height="1600" loading="lazy">
 <p class="image-caption">The wood slat fence. Wire chairs face the pool on the far side. String lights run from the eave to the fence top on both sides.</p>
 
 <h2>The patio and outdoor kitchen</h2>
@@ -66,7 +66,7 @@ layout: blog-post.njk
 
 <p>The grill is positioned directly behind the sectional against the terracotta brick wall. The round wood coffee table in front of the sofa and the brass garden stool to one side keep the layout from feeling too formal. It's set up so the person cooking and the people sitting are in the same conversation. Nobody's isolated at the grill while everyone else is poolside.</p>
 
-<img src="/blog/images/terra-luz-outdoor-patio.webp" alt="Terra Luz outdoor patio sectional with blue and navy pillows, round teak coffee table, gas grill, and terracotta brick wall in Indio California" width="4800" height="3200" loading="lazy">
+<img src="/blog/images/terra-luz-outdoor-patio.webp" alt="Terra Luz outdoor patio sectional with blue and navy pillows, round teak coffee table, gas grill, and terracotta brick wall in Indio California" width="1600" height="1067" loading="lazy">
 <p class="image-caption">The patio. Teak sectional, Business and Pleasure pillows, grill built against the brick wall so it doesn't eat up patio space.</p>
 
 <h2>The spa and pool heating</h2>
@@ -75,7 +75,7 @@ layout: blog-post.njk
 
 <p>Pool heating is available November through May at $75/day with a two-day minimum. In summer the sun handles it. Give 24 hours' notice before arrival and it'll be warm when you get there. The pool temperature without heating in summer hovers around 84-86 degrees, which is comfortable for most guests but cooler than the spa.</p>
 
-<img src="/blog/images/terra-luz-outdoor-loungers.webp" alt="Terra Luz pool with built-in in-water loungers and white Adirondack chairs submerged at the shallow end at Terra Luz in Indio California" width="4800" height="3200" loading="lazy">
+<img src="/blog/images/terra-luz-outdoor-loungers.webp" alt="Terra Luz pool with built-in in-water loungers and white Adirondack chairs submerged at the shallow end at Terra Luz in Indio California" width="1600" height="1067" loading="lazy">
 <p class="image-caption">The in-pool loungers built into the shallow end. The pool is cleaned Monday and Thursday.</p>
 
 <h2>A few things that are easy to miss</h2>

@@ -26,7 +26,7 @@ layout: blog-post.njk
 
 <p>Four <a href="https://www.ikea.com/us/en/p/ivar-door-10453072/">IKEA IVAR doors</a>, a couple of hours, and under $200. That's the whole story.</p>
 
-<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Wavy wood mirror reflecting the Cali Room at Terra Luz with wall-to-wall rattan cane panel headboard, amber pillows, and Latin art print above the bed" width="3200" height="4800" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-hero.webp" alt="Wavy wood mirror reflecting the Cali Room at Terra Luz with wall-to-wall rattan cane panel headboard, amber pillows, and Latin art print above the bed" width="1067" height="1600" loading="lazy">
 <p class="image-caption">The finished headboard reflected in the wavy mirror. Four panels, wall to wall, reads as one continuous piece from across the room.</p>
 
 <h2>Why IKEA cabinet doors</h2>
@@ -48,7 +48,7 @@ layout: blog-post.njk
 
 <p>The IVAR doors are $45 per 2-pack, so all four come in at $90. Hardware on top of that and you're still well under $200.</p>
 
-<img src="/blog/images/terra-luz-cali-room-before-empty.webp" alt="Cali Room at Terra Luz before the headboard was installed, bare white walls, terracotta Talavera tile floor, brass sconces, and sun wall art in Indio California" width="4032" height="3024" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-before-empty.webp" alt="Cali Room at Terra Luz before the headboard was installed, bare white walls, terracotta Talavera tile floor, brass sconces, and sun wall art in Indio California" width="1600" height="1200" loading="lazy">
 <p class="image-caption">The room before anything was installed. Tiles in, sconces wired, sun art on the wall. No bed, no headboard, no furniture yet.</p>
 
 <h2>The process, step by step</h2>
@@ -59,7 +59,7 @@ layout: blog-post.njk
 
 <p>Also tape the height. Too low and it reads like a floating shelf. Too high and it disconnects from the bed. Ours sits 3 inches above the mattress at the bottom edge, which keeps it clearly a headboard rather than wall art.</p>
 
-<img src="/blog/images/terra-luz-cali-room-before-mattress.webp" alt="King mattress delivered to the Cali Room at Terra Luz during renovation, Helix mattress on the floor with blue striped jute rug, no headboard yet, brass sconces and sun wall art on white wall" width="4032" height="3024" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-before-mattress.webp" alt="King mattress delivered to the Cali Room at Terra Luz during renovation, Helix mattress on the floor with blue striped jute rug, no headboard yet, brass sconces and sun wall art on white wall" width="1600" height="1200" loading="lazy">
 <p class="image-caption">Mattress day. The blue striped jute rug was already laid out, sconces were up. The headboard came later.</p>
 
 <h3>2. Mark your stud locations</h3>
@@ -76,7 +76,7 @@ layout: blog-post.njk
 
 <p>The panels hang close to the wall but not flush. There's about a quarter inch gap at the back, which is fine and invisible once the bed is against the wall.</p>
 
-<img src="/blog/images/terra-luz-cali-room-trundle.webp" alt="Cali Room at Terra Luz with king bed and trundle both extended, showing full wall-to-wall rattan cane panel headboard, amber pillows, and shibori curtains" width="3431" height="4192" loading="lazy">
+<img src="/blog/images/terra-luz-cali-room-trundle.webp" alt="Cali Room at Terra Luz with king bed and trundle both extended, showing full wall-to-wall rattan cane panel headboard, amber pillows, and shibori curtains" width="1310" height="1600" loading="lazy">
 <p class="image-caption">The headboard from straight on. Four panels, even gaps, no visible hardware. The sconces sit just outside the panel edges rather than through them.</p>
 
 <h3>5. Add sconces on either side</h3>
