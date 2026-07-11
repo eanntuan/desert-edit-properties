@@ -247,6 +247,7 @@ For Pinterest: Eann schedules remaining pins at 4-5/day. At 5/day, 355 pins = 71
 **On-site FAQ (already done):**
 - All 84 posts have FAQPage JSON-LD and `<h4>` FAQ sections
 - For new posts: run `/indigo-palm-geo-seeder` immediately after publishing
+- ✅ **DONE 2026-07-11** — ran on `best-spas-coachella-valley-spa-day` (FAQ/JSON-LD already existed from initial publish; generated 5 Quora Q&A pairs for Eann to post 2-3/day; added internal cross-link from `indio-between-coachella-weekends` to the new spa post)
 
 **Goodreads ebooks (Sabbir's job, pending):**
 - Convert 3-5 highest-traffic posts to ebook format
@@ -1353,5 +1354,7 @@ All actionable tasks are done. Remaining open items are non-actionable this run:
 | TASK PIN-2 (Confirm 15 pins live) | Not actionable | Requires Pinterest profile access |
 
 **Completed this run:** TASK RG-1 (weekly vibe marketing batch), RG-3 (Quora answer template), RG-6 (5 Why's brief), RG-12 (Carrie workflow prompt), RG-19 (new — Rachel's Facebook-growth post synthesized into a Pinterest audit-and-recycle task).
+
+**Completed follow-up (same day, continued session):** Ran `/indigo-palm-geo-seeder` on `best-spas-coachella-valley-spa-day` per the Ongoing GEO instruction — generated 5 Quora Q&A pairs (queued for Eann to post 2-3/day, not yet posted), confirmed FAQ/JSON-LD already covered from initial publish, added one internal cross-link from `indio-between-coachella-weekends` to the new spa post. Logged to `~/airbnb/.context/UPDATE_LOG.md`. Committed and pushed (`9e1a678`), deploy queued clean.
 
 **Next scheduled babysit-seo:** Sunday July 12, 2026, 8:03pm (weekly cron). Priority for that run: restore GSC access first (needs Eann's manual reauth click-through), then pull the July 13 CTR-lift check on GSC-16/GSC-17, and re-run TASK RG-1 for the new week.
