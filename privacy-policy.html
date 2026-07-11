@@ -48,42 +48,27 @@
 </head>
 <body>
     <h1>Privacy Policy for Desert Edit Dashboard</h1>
-    <p class="last-updated"><strong>Last Updated:</strong> January 12, 2026</p>
+    <p class="last-updated"><strong>Last Updated:</strong> July 11, 2026</p>
 
     <h2>Overview</h2>
-    <p>Desert Edit Dashboard ("the App") is a private financial management tool that integrates with QuickBooks Online to help manage property rental finances. This app is used exclusively by Indigo Palm Collective business and is not available to the public.</p>
+    <p>Desert Edit Dashboard ("the App") is a private tool that connects to QuickBooks Online via OAuth on behalf of Indigo Palm Collective. This app is used exclusively by Indigo Palm Collective business and is not available to the public. It currently handles authorization only; there is no automated financial data sync yet.</p>
 
     <h2>Information We Collect</h2>
 
-    <h3>From QuickBooks Online</h3>
-    <p>When you authorize this app to connect to your QuickBooks Online account, we collect:</p>
-    <ul>
-        <li>Financial transactions (expenses, revenue, deposits)</li>
-        <li>Bank account names and balances</li>
-        <li>Vendor and customer information</li>
-        <li>Account categories and classifications</li>
-    </ul>
-
     <h3>Authentication Data</h3>
+    <p>When you authorize this app to connect to your QuickBooks Online account, we receive:</p>
     <ul>
-        <li>QuickBooks OAuth access tokens and refresh tokens</li>
+        <li>A one-time OAuth authorization code</li>
         <li>QuickBooks Company ID (Realm ID)</li>
-        <li>Token expiration timestamps</li>
     </ul>
+    <p>This information is used for a manual, one-time token exchange to establish the connection. No financial transactions, bank balances, or vendor/customer data are currently collected or synced by this app.</p>
 
     <h2>How We Use Your Information</h2>
-    <p>Your QuickBooks data is used solely to:</p>
-    <ul>
-        <li>Display financial metrics in your dashboard</li>
-        <li>Generate reports and visualizations</li>
-        <li>Categorize and organize transactions by property</li>
-        <li>Sync bank account balances</li>
-    </ul>
+    <p>The authorization code and Company ID are used solely to complete the QuickBooks OAuth handshake. Future versions of this app may add automated financial reporting; this policy will be updated before that happens.</p>
 
     <h2>Data Storage</h2>
+    <p>The app currently connects to QuickBooks Online for authorization only. The OAuth authorization code and Company ID (Realm ID) are logged server-side on our Cloudflare Worker for a one-time, manual token exchange; they are not written to any response returned to the browser. There is no automated sync of financial data at this time.</p>
     <ul>
-        <li><strong>QuickBooks tokens</strong> are stored securely in Firebase Firestore with encryption</li>
-        <li><strong>Financial data</strong> is stored in Firebase Firestore (Google Cloud Platform)</li>
         <li><strong>No data is shared</strong> with third parties</li>
         <li><strong>No data is sold or used for advertising</strong></li>
     </ul>
@@ -91,8 +76,7 @@
     <h2>Data Security</h2>
     <ul>
         <li>All connections use HTTPS encryption</li>
-        <li>OAuth tokens are stored encrypted</li>
-        <li>Firebase security rules restrict access to authenticated users only</li>
+        <li>The OAuth callback endpoint requires an admin key to view the authorization code needed for the token exchange</li>
         <li>Access tokens automatically refresh and expire according to QuickBooks standards</li>
     </ul>
 
@@ -106,23 +90,20 @@
 
     <h2>Data Retention</h2>
     <ul>
-        <li>Financial data is retained indefinitely for business record-keeping</li>
-        <li>QuickBooks tokens are retained until you disconnect the integration</li>
-        <li>When you disconnect, tokens are immediately deleted</li>
+        <li>Worker logs containing the authorization code are retained only as long as Cloudflare's standard log retention window</li>
+        <li>No QuickBooks financial data is currently stored by this app</li>
     </ul>
 
     <h2>Third-Party Services</h2>
     <p>This app uses:</p>
     <ul>
-        <li><strong>QuickBooks Online API</strong> (Intuit Inc.) - Financial data sync</li>
-        <li><strong>Firebase/Firestore</strong> (Google) - Data storage</li>
-        <li><strong>Netlify</strong> (Netlify Inc.) - Hosting and serverless functions</li>
+        <li><strong>QuickBooks Online API</strong> (Intuit Inc.) - OAuth authorization</li>
+        <li><strong>Cloudflare Workers</strong> (Cloudflare Inc.) - Hosting the OAuth callback endpoint</li>
     </ul>
     <p>Each service has its own privacy policy:</p>
     <ul>
         <li>QuickBooks: <a href="https://www.intuit.com/privacy/">https://www.intuit.com/privacy/</a></li>
-        <li>Firebase: <a href="https://firebase.google.com/support/privacy">https://firebase.google.com/support/privacy</a></li>
-        <li>Netlify: <a href="https://www.netlify.com/privacy/">https://www.netlify.com/privacy/</a></li>
+        <li>Cloudflare: <a href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a></li>
     </ul>
 
     <h2>Contact</h2>
