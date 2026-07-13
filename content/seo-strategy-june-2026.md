@@ -1382,6 +1382,29 @@ Read all four full email bodies. PSL's newsletter format is teaser-only: each gi
 
 ---
 
+### Hero Image Audit — 2026-07-13 (first full pass — none on record before this)
+
+99 heroes audited: all 95 blog posts + the 4 property pages. Fixed 8 unique images via `heroPosition` adjustment only (no photo swaps) — commit `97d99c5`, pushed. This covers 12 posts total since several share the same stock image:
+
+- `palm-springs-hotel-pool.webp` → `center bottom` — `coachella-valley-vacation-rental-guide`, `best-spas-coachella-valley-spa-day`
+- `palm-springs-pool.webp` → `center bottom` (+ fixed heroAlt, was describing a sunset street scene instead of the actual pool photo) — `palm-springs-summer`
+- `ps-boulevard-palms-mountains.webp` → `center 70%` — `lax-to-palm-springs`
+- `ps-desert-valley-view.webp` → `center bottom` — `desert-vacation-prep`
+- `terra-luz-exterior.webp` → `center 70%` — `terra-luz-the-reveal`, `terra-luz-indio-local-guide`
+- `palm-springs-art-museum-sculptures.webp` → `center 20%` — `palm-springs-art-galleries-guide`
+- `terra-luz-pool-backyard.webp` → `center 65%` — `terra-luz-bachelorette-coachella`, `terra-luz-dog-friendly-coachella`, `terra-luz-review`, `terra-luz-renovation-story`
+
+Property pages (Terra Luz, Cozy Cactus, Sundune, The Well): all 4 checked at desktop and mobile crop ratios, all show the intended subject cleanly. No fixes needed.
+
+**Flagged for Eann — need a real photo decision, not a crop fix:**
+1. `joshua-tree-national-park.webp` — this is a map graphic, not a photo of the park
+2. `west-elm-dining.webp` — shows a cluttered move-in/home-office scene at every crop position, not a dining scene
+3. `terra-luz-outdoor-living.md`'s hero (`terra-luz-outdoor-wide.webp`) — source is an inherently tight pool-float close-up with no wide "outdoor space" shot at any crop. Cheapest fix: reuse the already-live `terra-luz-pool-backyard.webp` instead of sourcing something new — pending Eann's yes/no.
+
+**Action items:** resolve the 3 flagged photos above (Eann's call), then this audit doesn't need a full re-run for 30+ days — only re-check posts published or re-imaged since 2026-07-13.
+
+---
+
 ### babysit-seo run — 2026-07-11 — Open Task Status
 
 All actionable tasks are done. Remaining open items are non-actionable this run:
