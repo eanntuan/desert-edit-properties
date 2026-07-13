@@ -4,6 +4,7 @@ date: 2026-02-14
 metaDescription: "Terra Luz in Indio: 4.98 stars, 146 reviews. Private saltwater pool, Latin/Cuban design. What guests consistently love and what to know before booking."
 ogImage: /blog/images/terra-luz-pool-backyard.webp
 heroImage: /blog/images/terra-luz-pool-backyard.webp
+heroPosition: "center 65%"
 heroAlt: "Terra Luz saltwater pool with in-water loungers and Desert Marigold umbrella, Indio California"
 keywords:
   - Terra Luz review

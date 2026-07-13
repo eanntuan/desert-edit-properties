@@ -4,6 +4,7 @@ date: 2026-05-06
 metaDescription: "Terra Luz renovation: Wild Tropics wallpaper, terracotta tile, Kahlo Blue pool deck, and a Latin/Cuban design rebuilt room by room. What we made and why."
 ogImage: /blog/images/terra-luz-pool-backyard.webp
 heroImage: /blog/images/terra-luz-pool-backyard.webp
+heroPosition: "center 65%"
 heroAlt: "Terra Luz private saltwater pool with Kahlo Blue water and terracotta patio in Indio California"
 keywords:
   - Terra Luz renovation

@@ -5,7 +5,8 @@ dateModified: 2026-01-19
 metaDescription: "Yes, with caveats. Pool culture peaks in summer, rates drop 30-50%, crowds disappear. Here's how to do Palm Springs in the heat, month by month."
 ogImage: /blog/images/palm-springs-pool.webp
 heroImage: /blog/images/palm-springs-pool.webp
-heroAlt: "Desert sunset over a Palm Springs street with palm trees and San Jacinto Mountain silhouette at dusk"
+heroPosition: "center bottom"
+heroAlt: "Hotel pool in Palm Springs with a striped inflatable float, palm trees, and mid-century buildings"
 keywords:
   - Palm Springs in summer
   - Palm Springs summer heat

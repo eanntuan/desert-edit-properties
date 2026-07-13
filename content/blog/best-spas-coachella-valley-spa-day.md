@@ -4,6 +4,7 @@ date: 2026-07-11
 metaDescription: "Six real day-spa options across Palm Springs, Desert Hot Springs, La Quinta, and Palm Desert, with prices, reservations, and what makes each one worth it."
 ogImage: /blog/images/palm-springs-hotel-pool.webp
 heroImage: /blog/images/palm-springs-hotel-pool.webp
+heroPosition: "center bottom"
 heroAlt: "Resort pool and lounge chairs in Palm Springs with palm trees and mountains in the background"
 keywords:
   - best spas Coachella Valley

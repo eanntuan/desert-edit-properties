@@ -4,6 +4,7 @@ date: 2026-06-14
 metaDescription: "A bachelorette and group rental in Indio, CA near Coachella. Terra Luz sleeps 8 with three distinct bedrooms, a pool, spa, and outdoor kitchen. Book direct."
 ogImage: /blog/images/terra-luz-pool-backyard.webp
 heroImage: /blog/images/terra-luz-pool-backyard.webp
+heroPosition: "center 65%"
 heroAlt: "Terra Luz pool and backyard in Indio California, a bachelorette and group rental with Frida Kahlo blue pool and spa"
 keywords:
   - bachelorette party rental Indio CA

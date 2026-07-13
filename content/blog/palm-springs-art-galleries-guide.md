@@ -5,6 +5,7 @@ dateModified: 2026-07-11
 metaDescription: "Palm Springs art galleries worth the walk: Uptown Design District, Backstreet Art District, Janssen Artspace, and where to start downtown first."
 ogImage: /blog/images/palm-springs-art-museum-sculptures.webp
 heroImage: /blog/images/palm-springs-art-museum-sculptures.webp
+heroPosition: "center 20%"
 heroAlt: "Forever Marilyn statue on Museum Way next to the Palm Springs Art Museum, palm trees and mountains behind it"
 keywords:
   - Palm Springs art galleries

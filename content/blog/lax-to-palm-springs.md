@@ -5,7 +5,7 @@ dateModified: 2025-12-11
 metaDescription: "LAX to Palm Springs: drive, shuttle, fly into PSP, or Amtrak. Honest trade-offs for each option with real times and costs so you can plan before you book."
 ogImage: /blog/images/ps-boulevard-palms-mountains.webp
 heroImage: /blog/images/ps-boulevard-palms-mountains.webp
-heroPosition: top
+heroPosition: "center 70%"
 heroAlt: "Palm-lined boulevard in Palm Springs with San Jacinto mountains in the background on a clear day"
 keywords:
   - LAX to Palm Springs

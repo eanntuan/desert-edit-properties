@@ -4,6 +4,7 @@ date: 2026-05-29
 metaDescription: "The full reveal of Terra Luz, our Indio vacation rental. Walk through every room, what we built, what we bought, what we skipped, and what surprised us."
 ogImage: /blog/images/terra-luz-exterior.webp
 heroImage: /blog/images/terra-luz-exterior.webp
+heroPosition: "center 70%"
 heroAlt: "Terra Luz vacation rental exterior in Indio California with terracotta tones and lush landscaping"
 keywords:
   - Terra Luz vacation rental reveal
