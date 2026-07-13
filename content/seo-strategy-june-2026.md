@@ -1337,6 +1337,37 @@ Source: `how-i-hit-1-million-facebook-views`
 
 ---
 
+### GSC Check-in — 2026-07-13 (BLOCKED)
+
+**Status:** `gsc_report.py` failed with a new failure mode, not the usual expired-token `invalid_grant`:
+
+```
+403 insufficientPermissions — "Request had insufficient authentication scopes."
+```
+
+This means the stored OAuth token itself was never granted the Search Console (`webmasters`) scope — a scope problem, not an expiry problem. The skill's documented fix (`/tmp/reauth_google_full.py`) doesn't exist this session (it's ephemeral, not persisted across sessions), and there's no scope-repair path available without a fresh browser-based consent screen. That consent click-through can only happen on Eann's machine.
+
+**Action needed from Eann:** run a fresh Google OAuth flow that explicitly requests the Search Console scope (not just Gmail/Sheets), then GSC pulls should work again. Flagging as blocked per the skill's own stopping condition ("a task requires information/access only the user has") rather than working around it.
+
+---
+
+### Pinterest Check-in — 2026-07-13
+
+**Monthly views:** ~20K — still the June 3 screenshot, now 40 days stale. No newer figure found across `.context/` or memory. This is now the 5th consecutive check-in (June 26, 30, July 2, 11, 13) flagging the same stale number.
+**Pin count:** 121 pins live confirmed as of 2026-07-11 (per the July 11 pin-level analytics audit — this supersedes the earlier "50-60 pins before first ad campaign" target, which is already well passed). A $215.78 Idea Ad campaign is live using the "Cozy Airbnb Bedroom for Families" title pattern: 34,332 impressions, 238 pin clicks, 237 outbound clicks.
+**Top-performing pattern:** Concrete room+audience+location titles (e.g. "Cozy Airbnb Bedroom for Families in Palm Springs") outperform narrative titles on every metric. Terra Luz's 24 narrative-titled pins ("Meet the Host Behind Terra Luz") got **zero clicks across all 24** despite real impressions — confirmed via the July 11 pin audit, not a guess.
+**Link status:** Airbnb (25-30K monthly-view threshold not confirmed reached — still can't confirm without a fresh views screenshot, separate from the pin-count data above)
+**Quora:** No new data since June 26 (~10 live, 0.9/day pace, possible new-profile throttling at 5-8 views/answer). Sabbir's scope is now Quora/GEO/Goodreads only — Pinterest posting moved to Eann as of the transition.
+**FAQPage JSON-LD:** 87/87 posts (86 confirmed June 26 + `best-spas-coachella-valley-spa-day` published/seeded 2026-07-11) — still full coverage.
+
+**Action items:**
+1. **Eann:** Get a current Pinterest monthly-views screenshot — now the single most stale, most-repeated open item across 5 check-ins running back to June 26.
+2. **Fix Terra Luz pin titles** — retitle new/future Terra Luz pins using the Cozy Cactus room+audience+location pattern; the narrative style is confirmed dead weight (zero clicks on 24 pins). Already corrected in `pinterest-pins` and `pinterest-publisher` skill docs per the July 11 audit; this check-in confirms the fix should be applied going forward, not just documented.
+3. **Fix ad UTM tagging** — the live Idea Ad campaign tags its link `utm_medium=organic` instead of `paid`/`cpc`, misattributing $215.78 of paid traffic as organic in GA4. Needs a link update in Pinterest Business Hub (Eann, manual).
+4. **Cross-track geo-seeder Quora output** — per TASK RG-20's audit finding, `indigo-palm-geo-seeder` output (e.g. 5 pending Quora pairs for `best-spas-coachella-valley-spa-day`) isn't logged anywhere the Pinterest Check-in can reference, so the "Quora Q&A live" count above is a manual estimate, not a real count. Low-cost fix: have the geo-seeder skill log pending-but-unposted pairs to `~/airbnb/.context/UPDATE_LOG.md` at generation time.
+
+---
+
 ### babysit-seo run — 2026-07-11 — Open Task Status
 
 All actionable tasks are done. Remaining open items are non-actionable this run:
