@@ -1406,7 +1406,7 @@ All actionable tasks are done. Remaining open items are non-actionable this run:
 
 **Completed follow-up (same day, continued session):** Ran `/indigo-palm-geo-seeder` on `best-spas-coachella-valley-spa-day` per the Ongoing GEO instruction — generated 5 Quora Q&A pairs (queued for Eann to post 2-3/day, not yet posted), confirmed FAQ/JSON-LD already covered from initial publish, added one internal cross-link from `indio-between-coachella-weekends` to the new spa post. Logged to `~/airbnb/.context/UPDATE_LOG.md`. Committed and pushed (`9e1a678`), deploy queued clean.
 
-**Next scheduled babysit-seo:** Sunday July 12, 2026, 8:03pm (weekly cron). Priority for that run: restore GSC access first (needs Eann's manual reauth click-through), then pull the July 13 CTR-lift check on GSC-16/GSC-17, and re-run TASK RG-1 for the new week.
+**Next scheduled babysit-seo:** Sunday July 19, 2026, 8:03pm (weekly cron; July 12 run already completed). Priority for that run: restore GSC access first if still blocked (needs Eann's manual reauth click-through), then pull the next CTR-lift check on GSC-16/GSC-17, and re-run TASK RG-1 for the new week.
 
 ---
 
@@ -1420,9 +1420,7 @@ Core content: a library of 11 reusable prompt templates for getting more strateg
 
 Rachel's Prompt 5 has Claude audit a business's existing skill library for gaps, redundancy, and hidden opportunities. Indigo Palm already has ~15 skills built (`babysit-seo`, `rachel`, `palmspringslife-inspo`, `indigo-palm-geo-seeder`, `new-blog-post`, `hero-image-audit`, `pinterest-pins`, and others) — no new tool or account needed, pure analysis. Executed below.
 
-**TASK RG-21: Run the Sales Page Audit prompt against the Cozy Cactus property page**
-
-Rachel's Prompt 3 role-plays a four-person advisory panel (sales psychology, messaging, funnel, design) scoring a page and returning prioritized fixes. This lands directly on the open July 11 GA4 finding: Cozy Cactus's property page has an 83.3% bounce rate on 160 views/118 active users — already flagged as "the single biggest fix opportunity on the site." Queued into Part 8 Week 1-2 Quick Wins rather than run in this session (needs a full read of the live property page + HTML edit, budgeted as its own task).
+~~**TASK RG-21: Run the Sales Page Audit prompt against the Cozy Cactus property page**~~ ✅ **DONE 2026-07-13** — full writeup in the status table above (line ~233). Ran the four-lens audit against the live page; funnel structure was solid, the real bug was a fully duplicated "Why Book Direct" sidebar block next to the CTA. Removed the duplicate and added a hero-level trust line. Committed and pushed (`4a2cb7d`).
 
 **Not directly applicable this run:** Mother Prompt (1), Memory/Compounding (6), Handoff Doc (7), App Audit (8), Self-Model Audit (9), Trusted Advisor Install (10), Obsolete-or-10x (11) — these are standing practices or self-reflection prompts, not one-off Indigo Palm tasks. Strategic Wargame (4) is worth keeping in mind before any pricing change or seasonal promo, but there's no pending decision to run it against right now.
 
