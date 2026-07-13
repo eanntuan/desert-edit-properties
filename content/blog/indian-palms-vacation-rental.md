@@ -1,12 +1,15 @@
 ---
-title: "Indian Palms for Coachella: An Owner's Honest Review"
+title: "Indian Palms Gate Access & Security: A Renter's Guide"
 date: 2025-12-31
-dateModified: 2026-06-26
-metaDescription: "Walk to Coachella in 19-30 minutes from Indian Palms. Honest owner's take on the gate access, festival noise, and which rental fits your group best."
+dateModified: 2026-07-13
+metaDescription: "How the Monroe Gate and security work at Indian Palms Country Club, plus an honest owner review of walking to Coachella and which rental fits your group."
 ogImage: /blog/images/indian-palms-front-entrance.webp
 heroImage: /blog/images/indian-palms-front-entrance.webp
 heroAlt: "Aerial view of Indian Palms Country Club neighborhood in Indio CA at sunset showing pool and desert mountain backdrop"
 keywords:
+  - Indian Palms Country Club security gate
+  - Indian Palms front gate
+  - Indian Palms Country Club reviews
   - Indian Palms Country Club vacation rental
   - Indian Palms Indio CA
   - vacation rental near Coachella
