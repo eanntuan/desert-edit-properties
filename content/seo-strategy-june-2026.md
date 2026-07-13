@@ -1368,6 +1368,12 @@ This means the stored OAuth token itself was never granted the Search Console (`
 
 ---
 
+### GA4 Check-in — 2026-07-13
+
+`~/Downloads/Reports_snapshot.csv` has the same modification timestamp as the July 11 export (Jul 11, 07:07) — no fresher data since the last check-in. Pending Eann's next GA4 export; not re-analyzing stale data. The July 11 findings (Cozy Cactus 83.3% bounce, Sundune visibility gap) still stand as the open action items — see above.
+
+---
+
 ### babysit-seo run — 2026-07-11 — Open Task Status
 
 All actionable tasks are done. Remaining open items are non-actionable this run:
