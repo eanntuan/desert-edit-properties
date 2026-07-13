@@ -230,9 +230,7 @@ Ask Sabbir for:
 
 For Pinterest: Eann schedules remaining pins at 4-5/day. At 5/day, 355 pins = 71 days of content. Posting takes ~20 min/day once pins are written.
 
-**TASK RG-21: Sales Page Audit — Cozy Cactus property page (added 2026-07-13)**
-
-Run the four-lens advisory-panel audit (sales psychology, messaging, funnel, design) against `cozy-cactus.html` and produce prioritized fixes. Directly tied to the open GA4 finding: 160 views / 118 active users / 83.3% bounce, flagged as the single biggest fix opportunity on the site. Likely causes to test against: above-the-fold doesn't surface price/availability, no immediate CTA, possible slow mobile load, or a Pinterest-pin/page-content mismatch. Source: Rachel Gainsburg Prompt 3, `the-fable-prompt-pack-11-prompts`.
+~~**TASK RG-21: Sales Page Audit — Cozy Cactus property page (added 2026-07-13)**~~ ✅ **DONE 2026-07-13** — Ran the four-lens audit against the live page (`cozy-cactus/index.html`). Findings: page structure/funnel is actually solid (hero CTA, sticky mobile CTA, availability calendar, "Book Now" all present); the real messaging bug was a fully duplicated "Why Book Direct" block sitting back-to-back in the sidebar right next to the CTA, adding clutter at the exact conversion point. Removed the duplicate and merged the rating line into the single remaining box. Also added a "★ 4.97 · 146 reviews · Airbnb Guest Favorite" trust line directly in the hero (above the fold), since the only rating signal previously lived in the sidebar, below the fold on mobile — likely contributor to the 83.3% bounce given mobile traffic dominance. Committed and pushed.
 
 ---
 
@@ -1418,7 +1416,7 @@ Post processed: `the-fable-prompt-pack-11-prompts` ("The Fable Prompt Pack: 11 P
 
 Core content: a library of 11 reusable prompt templates for getting more strategic, systems-level output out of Claude — not tied to a specific paid tool. Two of the eleven map directly to open Indigo Palm work.
 
-**TASK RG-20: Run the Skills Audit prompt against Indigo Palm's existing Claude Skills**
+~~**TASK RG-20: Run the Skills Audit prompt against Indigo Palm's existing Claude Skills**~~ ✅ **DONE 2026-07-13** — audit run, results below; no file edits needed (findings are process notes/gaps flagged, not code changes).
 
 Rachel's Prompt 5 has Claude audit a business's existing skill library for gaps, redundancy, and hidden opportunities. Indigo Palm already has ~15 skills built (`babysit-seo`, `rachel`, `palmspringslife-inspo`, `indigo-palm-geo-seeder`, `new-blog-post`, `hero-image-audit`, `pinterest-pins`, and others) — no new tool or account needed, pure analysis. Executed below.
 
