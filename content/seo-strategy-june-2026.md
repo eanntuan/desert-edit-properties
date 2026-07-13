@@ -230,6 +230,10 @@ Ask Sabbir for:
 
 For Pinterest: Eann schedules remaining pins at 4-5/day. At 5/day, 355 pins = 71 days of content. Posting takes ~20 min/day once pins are written.
 
+**TASK RG-21: Sales Page Audit — Cozy Cactus property page (added 2026-07-13)**
+
+Run the four-lens advisory-panel audit (sales psychology, messaging, funnel, design) against `cozy-cactus.html` and produce prioritized fixes. Directly tied to the open GA4 finding: 160 views / 118 active users / 83.3% bounce, flagged as the single biggest fix opportunity on the site. Likely causes to test against: above-the-fold doesn't surface price/availability, no immediate CTA, possible slow mobile load, or a Pinterest-pin/page-content mismatch. Source: Rachel Gainsburg Prompt 3, `the-fable-prompt-pack-11-prompts`.
+
 ---
 
 ## ONGOING: GEO (QUORA + STRUCTURED DATA)
@@ -1358,3 +1362,38 @@ All actionable tasks are done. Remaining open items are non-actionable this run:
 **Completed follow-up (same day, continued session):** Ran `/indigo-palm-geo-seeder` on `best-spas-coachella-valley-spa-day` per the Ongoing GEO instruction — generated 5 Quora Q&A pairs (queued for Eann to post 2-3/day, not yet posted), confirmed FAQ/JSON-LD already covered from initial publish, added one internal cross-link from `indio-between-coachella-weekends` to the new spa post. Logged to `~/airbnb/.context/UPDATE_LOG.md`. Committed and pushed (`9e1a678`), deploy queued clean.
 
 **Next scheduled babysit-seo:** Sunday July 12, 2026, 8:03pm (weekly cron). Priority for that run: restore GSC access first (needs Eann's manual reauth click-through), then pull the July 13 CTR-lift check on GSC-16/GSC-17, and re-run TASK RG-1 for the new week.
+
+---
+
+### New from Rachel — 2026-07-13
+
+Post processed: `the-fable-prompt-pack-11-prompts` ("The Fable Prompt Pack: 11 Prompts to Run Before the Window Closes," published 2026-07-11)
+
+Core content: a library of 11 reusable prompt templates for getting more strategic, systems-level output out of Claude — not tied to a specific paid tool. Two of the eleven map directly to open Indigo Palm work.
+
+**TASK RG-20: Run the Skills Audit prompt against Indigo Palm's existing Claude Skills**
+
+Rachel's Prompt 5 has Claude audit a business's existing skill library for gaps, redundancy, and hidden opportunities. Indigo Palm already has ~15 skills built (`babysit-seo`, `rachel`, `palmspringslife-inspo`, `indigo-palm-geo-seeder`, `new-blog-post`, `hero-image-audit`, `pinterest-pins`, and others) — no new tool or account needed, pure analysis. Executed below.
+
+**TASK RG-21: Run the Sales Page Audit prompt against the Cozy Cactus property page**
+
+Rachel's Prompt 3 role-plays a four-person advisory panel (sales psychology, messaging, funnel, design) scoring a page and returning prioritized fixes. This lands directly on the open July 11 GA4 finding: Cozy Cactus's property page has an 83.3% bounce rate on 160 views/118 active users — already flagged as "the single biggest fix opportunity on the site." Queued into Part 8 Week 1-2 Quick Wins rather than run in this session (needs a full read of the live property page + HTML edit, budgeted as its own task).
+
+**Not directly applicable this run:** Mother Prompt (1), Memory/Compounding (6), Handoff Doc (7), App Audit (8), Self-Model Audit (9), Trusted Advisor Install (10), Obsolete-or-10x (11) — these are standing practices or self-reflection prompts, not one-off Indigo Palm tasks. Strategic Wargame (4) is worth keeping in mind before any pricing change or seasonal promo, but there's no pending decision to run it against right now.
+
+Source: `the-fable-prompt-pack-11-prompts`
+
+---
+
+#### TASK RG-20 — Skills Audit Results (run 2026-07-13)
+
+Audited the current skill set for gaps and redundancy:
+
+- **Gap — no dedicated pricing/revenue skill.** `babysit-seo` and the daily briefing cron both touch PriceLabs data, but there's no skill that owns pricing strategy end-to-end (seasonal rate bands, orphan-night discount rules, comp-set checks). TASK RG-8 (Monday comp intelligence agent) is the closest existing attempt at this and remains blocked on scraping setup — this audit doesn't unblock it, just confirms it's the right shape of skill to eventually build.
+- **Gap — no skill for the Cozy Cactus-style page-conversion audit.** RG-21 above is being done ad hoc; if property-page conversion audits become a recurring quarterly exercise (not just this one bounce-rate fire), it's worth turning into a small standing skill rather than re-deriving the four-lens framework each time. Flagged, not built — one page doesn't justify a new skill yet.
+- **Redundancy — none found.** `palmspringslife-inspo`, `indigo-palm-geo-seeder`, `rachel`, and `babysit-seo` each own a distinct trigger and output; no overlap to consolidate.
+- **Hidden opportunity — `indigo-palm-geo-seeder` output isn't looped back into the Pinterest audit.** Quora Q&A pairs it generates (5 pending for `best-spas-coachella-valley-spa-day` as of 2026-07-11) aren't tracked anywhere that the Pinterest Check-in section checks against — the Pinterest Check-in's "Quora Q&A live" count is a manual grep, not a cross-reference to geo-seeder output. Low-cost fix: note pending-but-unposted Quora pairs in the geo-seeder's own output log so babysit-seo's Pinterest phase can surface a "X pairs generated but not yet posted" figure instead of just a live-count guess.
+
+No immediate file edits from this audit — findings are process notes, folded into the final report below.
+
+---
