@@ -5,7 +5,8 @@ dateModified: 2025-12-16
 metaDescription: "Booking a vacation rental direct saves you Airbnb's 20% service fee. The honest math, what you get, and when direct booking makes sense."
 ogImage: /blog/images/west-elm-dining.webp
 heroImage: /blog/images/west-elm-dining.webp
-heroAlt: "Shaded patio with desert landscaping at Cozy Cactus vacation rental in Indio California"
+heroAlt: "Shaded outdoor dining patio with desert rock formations in the background"
+heroPosition: "center 70%"
 keywords:
   - book vacation rental direct
   - Airbnb service fee
@@ -70,8 +71,8 @@ layout: blog-post.njk
 
 <p>All of our properties have 190+ reviews on Airbnb you can cross-reference before booking. Our <a href="/booking-flow/?property=cozy-cactus">direct booking flow</a> uses Square for payment processing, same protections as any other online purchase.</p>
 
-<img src="/blog/images/west-elm-dining.webp" alt="Shaded patio with string lights and desert landscaping at The Cozy Cactus vacation rental in Indio California" width="1400" height="933" loading="lazy">
-<p class="image-caption">The Cozy Cactus patio. Book direct at indigopalm.co and skip the platform service fee entirely.</p>
+<img src="/blog/images/west-elm-dining.webp" alt="Shaded outdoor dining patio with desert rock formations in the background" width="1600" height="1067" loading="lazy">
+<p class="image-caption">A shaded patio built for dinner outside. Book direct at indigopalm.co and skip the platform service fee entirely.</p>
 
 <h2>How to Find Properties That Accept Direct Bookings</h2>
 

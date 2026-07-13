@@ -6,6 +6,7 @@ metaDescription: "Joshua Tree day trip from Indio: 45 min drive, Cottonwood entr
 ogImage: /blog/images/joshua-tree-national-park.webp
 heroImage: /blog/images/joshua-tree-national-park.webp
 heroAlt: "Joshua Tree National Park landscape with iconic Joshua trees and granite boulder formations under a clear blue sky"
+heroPosition: "center 60%"
 keywords:
   - joshua tree day trip from indio
   - joshua tree day trip palm springs
@@ -40,7 +41,7 @@ faqItems:
 
 <p>I've directed a lot of guests toward Joshua Tree, and the poorly-done version usually involves showing up in July at noon with one water bottle and no reservation. The well-done version is more straightforward than you'd think.</p>
 
-<img src="/blog/images/joshua-tree-national-park.webp" alt="Joshua Tree National Park with clusters of Joshua trees and rounded granite boulders under a bright blue sky" width="1400" height="933" loading="lazy">
+<img src="/blog/images/joshua-tree-national-park.webp" alt="Joshua Tree National Park with clusters of Joshua trees and rounded granite boulders under a bright blue sky" width="1600" height="1067" loading="lazy">
 <p class="image-caption">The classic boulder-and-Joshua-tree landscape in the northern section of the park.</p>
 
 <h2>Two Entrances: Which One to Use</h2>

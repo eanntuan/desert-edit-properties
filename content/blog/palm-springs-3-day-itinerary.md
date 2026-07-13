@@ -62,7 +62,7 @@ layout: blog-post.njk
 
 <p>Bring more water than you think you need. The park recommends 1 liter per hour per person in warmer months. There are no services inside the park except at Cottonwood and Black Rock campgrounds. Fill up before you enter.</p>
 
-<img src="/blog/images/joshua-tree-national-park.webp" alt="Joshua Tree National Park desert landscape with Joshua trees and boulder formations at sunrise" width="1440" height="990" loading="lazy">
+<img src="/blog/images/joshua-tree-national-park.webp" alt="Joshua Tree National Park desert landscape with Joshua trees and granite boulder formations under a clear blue sky" width="1600" height="1067" loading="lazy">
 
 <p>Back in Palm Springs by mid-afternoon. Last evening: find a spot with a rooftop or patio for sunset. The San Jacinto Mountains go orange-pink around golden hour and it's consistently one of the better desert sunsets in California.</p>
 
