@@ -5,7 +5,7 @@ dateModified: 2026-07-11
 metaDescription: "Palm Springs art galleries worth the walk: Uptown Design District, Backstreet Art District, Janssen Artspace, and where to start downtown first."
 ogImage: /blog/images/palm-springs-art-museum-sculptures.webp
 heroImage: /blog/images/palm-springs-art-museum-sculptures.webp
-heroAlt: "Outdoor sculpture garden at the Palm Springs Art Museum with desert landscaping and mountain backdrop"
+heroAlt: "Forever Marilyn statue on Museum Way next to the Palm Springs Art Museum, palm trees and mountains behind it"
 keywords:
   - Palm Springs art galleries
   - Uptown Design District galleries
@@ -25,8 +25,8 @@ layout: blog-post.njk
 
 <p>Most visitors get one museum stop and call it done. That's fine if you have an afternoon. If you have a full day, or you're staying somewhere in the valley for a few nights anyway, the gallery scene here rewards slowing down more than almost anything else in the Coachella Valley.</p>
 
-<img src="/blog/images/palm-springs-art-museum-sculptures.webp" alt="Outdoor sculpture garden at the Palm Springs Art Museum with desert landscaping" width="1200" height="1600" loading="lazy">
-<p class="image-caption">The sculpture garden outside the main museum. Free to walk through even on days you don't buy a ticket.</p>
+<img src="/blog/images/palm-springs-art-museum-sculptures.webp" alt="Forever Marilyn statue on Museum Way next to the Palm Springs Art Museum" width="1200" height="1600" loading="lazy">
+<p class="image-caption">Forever Marilyn, reinstalled on Museum Way right next to the museum entrance. Free to see any time, no ticket needed.</p>
 
 <h2>Downtown: Start at the Museum, Then Walk</h2>
 
