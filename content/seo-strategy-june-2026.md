@@ -1374,6 +1374,16 @@ This means the stored OAuth token itself was never granted the Search Console (`
 
 ---
 
+### PSL Newsletter Inspo — 2026-07-13 (nothing extractable this run)
+
+Pulled 20 recent `news@palmspringslife.com` emails (2026-07-01 through 2026-07-13) and filtered to four Coachella Valley-relevant candidates: art galleries, design-forward restaurants, an Idyllwild PCT hiker feature, and a sandwiches roundup. All four topics already have a live corresponding post (`palm-springs-art-galleries-guide.md`, `best-restaurants-palm-springs.md`/`best-restaurants-palm-desert.md`, `idyllwild-day-trip-palm-springs.md`), so per the skill's Step 3 these would be **updates**, not new posts.
+
+Read all four full email bodies. PSL's newsletter format is teaser-only: each gives a 1-2 sentence summary and a "READ MORE" link to a gated full article. None of the four contained an actual extractable fact (no gallery name, no restaurant name, no sandwich shop name) that could honestly be added to an existing post — inserting anything would mean guessing, not reporting. Per Step 0's copyright rules, facts are fair game but have to be real facts pulled from a source, not filled in from a teaser.
+
+**No blog edits made this run.** Two items noted for future reference, not actioned: a Jr Ranger Expo mention (Oct 15 — seasonal, not actionable until closer to the date) and an "8 design-forward hotels" mention in one email preview (unopened, low priority, not a Coachella Valley property topic gap). If a future run wants to convert any of the four candidates into a real update, the next step is WebFetching the specific PSL article URL for names/details, not re-reading the newsletter.
+
+---
+
 ### babysit-seo run — 2026-07-11 — Open Task Status
 
 All actionable tasks are done. Remaining open items are non-actionable this run:
