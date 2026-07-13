@@ -1396,12 +1396,12 @@ Read all four full email bodies. PSL's newsletter format is teaser-only: each gi
 
 Property pages (Terra Luz, Cozy Cactus, Sundune, The Well): all 4 checked at desktop and mobile crop ratios, all show the intended subject cleanly. No fixes needed.
 
-**Flagged for Eann — need a real photo decision, not a crop fix:**
-1. `joshua-tree-national-park.webp` — this is a map graphic, not a photo of the park
-2. `west-elm-dining.webp` — shows a cluttered move-in/home-office scene at every crop position, not a dining scene
-3. `terra-luz-outdoor-living.md`'s hero (`terra-luz-outdoor-wide.webp`) — source is an inherently tight pool-float close-up with no wide "outdoor space" shot at any crop. Cheapest fix: reuse the already-live `terra-luz-pool-backyard.webp` instead of sourcing something new — pending Eann's yes/no.
+**Flagged items — resolved same day, per Eann's call (commit `83af633`, pushed):**
+1. `joshua-tree-national-park.webp` was a map graphic mislabeled as a park photo. Replaced with a real Joshua Tree landscape photo (Tim Cheung, Unsplash License). Updated `joshua-tree-day-trip-from-indio.md`'s heroPosition, plus inline image dimensions/alt text on `indian-palms-vacation-rental.md` and `palm-springs-3-day-itinerary.md`.
+2. `west-elm-dining.webp` showed a cluttered move-in scene, not dining. Replaced with a real patio-dining photo (Brady Knoll, Pexels License). Updated heroes on `grocery-stores-coachella-valley.md` and `why-book-direct-vacation-rental.md` — also caught and removed a false property attribution in the latter's caption, which incorrectly claimed the stock photo was "The Cozy Cactus patio."
+3. `terra-luz-outdoor-living.md` now reuses the already-live `terra-luz-pool-backyard.webp` instead of its old tight pool-float close-up, per Eann's approval — no new photo needed.
 
-**Action items:** resolve the 3 flagged photos above (Eann's call), then this audit doesn't need a full re-run for 30+ days — only re-check posts published or re-imaged since 2026-07-13.
+**Action items:** none open. This audit doesn't need a full re-run for 30+ days — only re-check posts published or re-imaged since 2026-07-13.
 
 ---
 
@@ -1463,3 +1463,65 @@ Audited the current skill set for gaps and redundancy:
 No immediate file edits from this audit — findings are process notes, folded into the final report below.
 
 ---
+
+## PINTEREST PIN BATCH — 2026-07-13
+
+Generated 2026-07-13 for the two new PSL-inspired posts (not a full top-5 audit). 3 pins per post, 6 pins total.
+
+**Posts selected:**
+1. `palm-springs-art-galleries-guide` — new post, no pins yet
+2. `idyllwild-day-trip-palm-springs` — new post, no pins yet
+
+**TASK PIN-3: Produce and schedule 6 pins in Canva + Pinterest**
+Use the Indigo Palm Canva template. Previews rendered to `/tmp/pinterest-pins-preview/`. Export PNG, upload with title/description/board from spec below. Schedule 4-5/day — no batch drops.
+
+PIN 1 (Practical) — palm-springs-art-galleries-guide
+Title: Palm Springs Art Galleries: Full Downtown Walking Map
+Description: Palm Springs Art Museum, Janssen Artspace inside a Donald Wexler building, the Shag Store, Backstreet Art District. Here's the walkable order that saves you backtracking, plus when First Wednesday Art Walk happens. Full guide at the link.
+Overlay text: The Downtown Palm Springs Gallery Walk, Mapped Out
+Image: palm-springs-art-museum-sculptures.webp
+Board: Palm Springs Getaways
+Link: https://indigopalm.co/blog/palm-springs-art-galleries-guide/?utm_source=pinterest&utm_medium=organic&utm_campaign=gallery_walk_map
+
+PIN 2 (Emotional) — palm-springs-art-galleries-guide
+Title: A Quiet Gallery Afternoon in Palm Springs
+Description: Free sculpture garden, a former 1961 bank turned design store, cold coffee before the sidewalk gets hot. This is the slow version of a Palm Springs trip, the one where you actually look at things. Full guide at the link.
+Overlay text: The Palm Springs Afternoon That Isn't About the Pool
+Image: cartel-coffee-palm-springs.webp
+Board: Desert Lifestyle
+Link: https://indigopalm.co/blog/palm-springs-art-galleries-guide/?utm_source=pinterest&utm_medium=organic&utm_campaign=gallery_afternoon_mood
+
+PIN 3 (Booking-intent) — palm-springs-art-galleries-guide
+Title: Where to Stay for a Palm Springs Gallery Trip
+Description: The Sundune puts you 5 minutes from downtown and the Uptown Design District. Staying in Indio instead? Cozy Cactus and Terra Luz are a 25-minute gallery day trip away. Full guide at the link.
+Overlay text: Stay 5 Minutes from Every Gallery Downtown
+Image: palm-springs-art-museum.webp
+Board: Palm Springs Getaways
+Link: https://indigopalm.co/blog/palm-springs-art-galleries-guide/?utm_source=pinterest&utm_medium=organic&utm_campaign=gallery_trip_stay
+
+PIN 4 (Practical) — idyllwild-day-trip-palm-springs
+Title: Idyllwild Day Trip from Palm Springs: 4 Trails by Skill Level
+Description: 45 minutes up Highway 74 and the desert turns into a pine forest at 5,400 feet. Easy, moderate, and hard trail picks, plus which ones need a permit. Full guide at the link.
+Overlay text: 4 Idyllwild Trails, Sorted by How Hard You Want to Work
+Image: idyllwild-tahquitz-rock-pine-forest.webp
+Board: Coachella Valley Travel
+Link: https://indigopalm.co/blog/idyllwild-day-trip-palm-springs/?utm_source=pinterest&utm_medium=organic&utm_campaign=idyllwild_trails_by_skill
+
+PIN 5 (Emotional) — idyllwild-day-trip-palm-springs
+Title: 30 Degrees Cooler, One Hour from the Pool
+Description: Somewhere on Highway 74 the ocotillo stops and the pines start. Idyllwild is the escape hatch from a 112-degree afternoon in the valley, and it's a real hike, not just shade. Full guide at the link.
+Overlay text: The Mountain Town That's 30 Degrees Cooler Than Your Pool Deck
+Image: lily-rock-tahquitz-sunset-idyllwild.webp
+Board: Desert Lifestyle
+Link: https://indigopalm.co/blog/idyllwild-day-trip-palm-springs/?utm_source=pinterest&utm_medium=organic&utm_campaign=idyllwild_cooler_escape
+
+PIN 6 (Booking-intent) — idyllwild-day-trip-palm-springs
+Title: Escaping Coachella Valley Heat: Idyllwild from Terra Luz or Cozy Cactus
+Description: Staying at Terra Luz or The Cozy Cactus in Indio? Idyllwild is a 70-minute drive each way, hike included, and it's the easiest way to beat a 110-degree afternoon without leaving the region. Full guide at the link.
+Overlay text: One Day Trip That Actually Beats the Heat
+Image: idyllwild-town-panorama-mountains.webp
+Board: Coachella Valley Travel
+Link: https://indigopalm.co/blog/idyllwild-day-trip-palm-springs/?utm_source=pinterest&utm_medium=organic&utm_campaign=idyllwild_from_indio_stay
+
+**TASK PIN-4: Confirm all 6 pins are live**
+Check Pinterest profile — all 6 pins visible, correct board, correct link destination.
