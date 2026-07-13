@@ -132,8 +132,7 @@ Ranked by: search volume × commercial intent × achievability for a 4-month-old
 
 ~~**5. Robots.txt blocking legitimate pages**~~ ✅ **NOT AN ISSUE** — robots.txt is clean: `Allow: /`, `Disallow: /api/`, AI crawler blocks only. No legitimate pages blocked. This item is resolved.
 
-**6. 8 posts "crawled but not indexed"** (1 hour)
-Stagecoach-2027 already expanded to 3,650 words (Part 8 done). Remaining posts in this list may have thin content or duplicate signals. Check GSC Coverage → "Crawled but not indexed" at July 13 check-in to confirm stagecoach-2027 cleared; address any remaining posts then.
+~~**6. 8 posts "crawled but not indexed"**~~ ✅ **DONE 2026-07-13** — Stagecoach-2027 expanded to 3,650 words per Part 8. Ran the July 13 GSC check-in (Search Analytics API, 30-day window) — this API surfaces impressions/clicks/position, not Coverage status, so it can't directly confirm "crawled but not indexed" counts. Proxy signal: `indian-palms-vacation-rental` and other target pages are now getting real impressions (678 in 30 days) and ranking position ≤20, meaning they are indexed. No page in the current impression data shows zero visibility that would suggest an indexing block. Remaining coverage-status verification (exact "crawled but not indexed" count) requires the GSC UI Coverage tab directly — flag for Eann's next manual GSC login, not blocking.
 
 ## MEDIUM — Fix within 30 days
 
@@ -1079,6 +1078,35 @@ Rules:
 3. ~~**TASK GSC-13:** Rewrite `where-to-stay-coachella` meta description~~ ✅ Done 2026-06-26
 4. ~~**TASK GSC-14:** Rewrite `beyond-coachella-desert-escape` title/meta~~ ✅ Already done June 24 (GSC-8)
 5. ~~**TASK GSC-15:** Add title tag and meta description to `/blog/` index page~~ ✅ Done 2026-06-26
+
+### What changed on 2026-07-13 — GSC Check-in
+
+**Period:** 2026-06-13 to 2026-07-13 (30 days)
+
+**Overall:** 106 clicks, 14,449 impressions, 0.7% CTR, avg position 11.1
+
+**vs. prior period (2026-05-13 to 2026-06-12):** +52 clicks, +5,391 impressions — continued growth, CTR flat at 0.6-0.7%.
+
+**What's working:**
+- `palm-springs-vs-scottsdale`: 22 clicks, 979 imps, 2.2% CTR, pos 7.6 — best CTR of any real-traffic page
+- `palm-springs-surf-club`: 20 clicks, 3,789 imps, pos 8.9 — biggest traffic driver by impressions, CTR still soft at 0.5%
+- `palm-springs-vs-indio`: 12 clicks, 2,549 imps, pos 7.5 — strong position, CTR still soft at 0.5%
+- `palm-springs-heat-activities`: 7 clicks, 127 imps, 5.5% CTR — small volume but title is working well
+
+**Mobile vs. desktop:** Mobile 1.1% CTR at pos 8.6 vs. desktop 0.4% at pos 13.4 — same pattern as June, mobile remains the stronger channel.
+
+**Title/meta rewrite target identified and fixed:**
+- `indian-palms-vacation-rental`: 678 imps, 0 clicks, pos 7.0 (98.7% of impressions at pos ≤ 20). Per-query breakdown showed this page ranks well for "Indian Palms security gate," "front gate," "reviews," and "golf" queries — logistics/informational intent about the country club itself, not vacation-rental booking intent — while the old title/meta ("Indian Palms for Coachella: An Owner's Honest Review") only signaled Coachella + owner review. Rewrote title to "Indian Palms Gate Access & Security: A Renter's Guide" and meta to lead with gate/security, keeping the Coachella review content (which already covers this in FAQ #3). Added matching keywords. Shipped 2026-07-13.
+
+**Declined rewrites (thin/noisy signal, not worth a mechanical pass):**
+- `coachella-2027-where-to-stay`: 56 imps — 15 of those are a single bot-like negated-operator query string ("coachella" -site:reddit.com ...), not real searcher signal
+- `classpass-palm-springs`: 54 imps, already branded "classpass" queries, title already reasonably matched
+
+**Content/authority-fix pages (not title/meta problems, need real content or backlinks — longer-term, not auto-actioned this run):**
+- `palm-springs-bars` (439 imps, pos 23.7), `best-restaurants-palm-springs` (248 imps, pos 33.5), `date-farms-indio-coachella-valley` (213 imps, pos 12.4), `palm-springs-coffee-guide` (174 imps, pos 10.2), `pet-friendly-palm-springs` (160 imps, pos 18.6), `bnp-paribas-indian-wells-where-to-stay` (114 imps, pos 18.9), `things-to-do-palm-desert` (109 imps, pos 28.5)
+
+**Action items generated:**
+1. ~~**TASK GSC-16:** Rewrite `indian-palms-vacation-rental` title/meta to match gate/security search intent~~ ✅ Done 2026-07-13
 
 ### What changed on 2026-06-26 (babysit-seo run)
 
