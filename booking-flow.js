@@ -266,12 +266,25 @@ function renderCalendar() {
                     checkOut.value = '';
                     updatePrice();
                 }
+                syncUrlDates();
                 renderCalendar(); // re-render to show selection
             });
         }
 
         grid.appendChild(cell);
     }
+}
+
+function syncUrlDates() {
+    if (!selectedProperty) return;
+    const checkIn = document.getElementById('check-in').value;
+    const checkOut = document.getElementById('check-out').value;
+    const params = new URLSearchParams();
+    if (checkIn) params.set('checkIn', checkIn);
+    if (checkOut) params.set('checkOut', checkOut);
+    const query = params.toString();
+    const url = `/booking-flow/${selectedProperty.id}/${query ? '?' + query : ''}`;
+    history.replaceState(null, '', url);
 }
 
 function setMinDates() {
@@ -290,10 +303,11 @@ function setupEventListeners() {
         checkOut.min = next.toISOString().split('T')[0];
         if (checkOut.value && checkOut.value <= checkIn.value) checkOut.value = '';
         updatePrice();
+        syncUrlDates();
         renderCalendar();
     });
 
-    checkOut.addEventListener('change', () => { updatePrice(); renderCalendar(); });
+    checkOut.addEventListener('change', () => { updatePrice(); syncUrlDates(); renderCalendar(); });
     document.getElementById('guests').addEventListener('input', updatePrice);
     document.getElementById('submit-btn').addEventListener('click', submitBookingRequest);
     document.getElementById('apply-promo').addEventListener('click', applyPromoCode);
