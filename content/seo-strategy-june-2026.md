@@ -817,8 +817,7 @@ All captions from RG-1 are pre-loaded in the Pinterest Pins tab. Add new content
 
 ~~**TASK RG-7: Notebook LM infographics from existing blog posts**~~ ✅ **DONE June 25 (post list ready — Eann uploads)** — Top 10 posts selected and documented at `/tmp/rg7-notebook-lm-posts.md` with rationale and best infographic angle for each. Priority batch: palm-springs-vs-indio, where-to-stay-coachella, stagecoach-2027, palm-springs-vs-scottsdale. Eann: go to notebooklm.google.com → New Notebook → Add sources (paste post URLs) → Generate summaries → export as images. Source: Lesson 8.
 
-**TASK RG-8: Monday competitor intelligence agent (scheduled)**
-Build a Claude agent that runs Monday mornings and outputs a brief with: (1) PriceLabs pricing moves by comparable Indio/Palm Springs listings, (2) common guest complaints in recent competitor reviews (check public Airbnb pages), (3) new listings entering the Coachella Valley market. No manual work required after setup. Source: Lesson 9 (AI employees).
+~~**TASK RG-8: Monday competitor intelligence agent (scheduled)**~~ ✅ **DONE 2026-07-15** — Built as a recurring cron job (Monday 7:00am) documented in `~/airbnb/CLAUDE.md` under "Monday Competitor Intelligence." Pulls PriceLabs comparable pricing, WebSearch on public Airbnb listing pages for competitor complaint patterns, and new-listing checks near Indian Palms Country Club / Palm Canyon Villas. Outputs a "MONDAY COMPETITOR BRIEF" and logs to the Cron Log sheet. No manual work required after setup — note cron jobs are session-bound (7-day auto-expire) and get recreated at the start of every session per the CLAUDE.md Proactive Behaviors list. Source: Lesson 9 (AI employees).
 
 ---
 
@@ -1175,7 +1174,7 @@ Post processed: `i-taught-a-3-hour-ai-bootcamp-and`
 
 Core framework: "Own the instructions. Rent the tool." Build reusable instruction sets for each role you need AI to fill, store them somewhere you own (not inside the tool), and redeploy when tools change. The meta-agent pattern (Nova interviews you, outputs instructions) is the operational version of the Mother Prompt technique already applied in RG-14.
 
-**TASK RG-18: Build a "Market Researcher" AI employee for Indigo Palm using the Nova framework**
+~~**TASK RG-18: Build a "Market Researcher" AI employee for Indigo Palm using the Nova framework**~~ ✅ **DONE 2026-07-15 (via TASK RG-8, cron instead of Claude Project)** — Same outcome delivered a different way: instead of a separate Claude Project + Nova interview setup, this is now a recurring Claude Code cron job (Monday 7am, see "Monday Competitor Intelligence" in `~/airbnb/CLAUDE.md`) that pulls PriceLabs comp pricing, checks competitor review complaints, and flags new listings — no manual PriceLabs tab-opening required. Skips the Google Doc/Nova-interview step since the instructions live directly in the cron prompt; functionally equivalent automation with less setup overhead for Eann.
 Rachel's bootcamp built this role step by step. For Indigo Palm, this is a PriceLabs + comp analysis bot -- it takes a date range, a property, and a set of criteria, then returns pricing intelligence with no manual lookups. Build it in Claude (not GPT, given Eann's existing Claude workflow): write a system prompt via Nova's interview process, save it to a Google Doc, then paste it into a dedicated Claude Project as the project instructions. Upload knowledge files: Coachella Valley market criteria (peak dates, comp rate floors, festival premiums), PriceLabs rate thresholds per property, and any comp listings Eann tracks manually.
 
 **What this replaces:** the current Monday morning manual comp check. Instead of opening PriceLabs tabs, run a prompt, get a structured report with flags.
@@ -1457,6 +1456,10 @@ Pulled 20 recent `news@palmspringslife.com` emails (2026-07-01 through 2026-07-1
 Read all four full email bodies. PSL's newsletter format is teaser-only: each gives a 1-2 sentence summary and a "READ MORE" link to a gated full article. None of the four contained an actual extractable fact (no gallery name, no restaurant name, no sandwich shop name) that could honestly be added to an existing post — inserting anything would mean guessing, not reporting. Per Step 0's copyright rules, facts are fair game but have to be real facts pulled from a source, not filled in from a teaser.
 
 **No blog edits made this run.** Two items noted for future reference, not actioned: a Jr Ranger Expo mention (Oct 15 — seasonal, not actionable until closer to the date) and an "8 design-forward hotels" mention in one email preview (unopened, low priority, not a Coachella Valley property topic gap). If a future run wants to convert any of the four candidates into a real update, the next step is WebFetching the specific PSL article URL for names/details, not re-reading the newsletter.
+
+### PSL Newsletter Inspo — 2026-07-15 (nothing extractable this run)
+
+Checked the 4 PSL emails received since the 7/13 run: wine bars/açai bowls/breweries digest (7/15), Lola Rose dinner experience (7/14, booking-only teaser with no content), Abernathy House architecture feature (7/14, real estate/design, not travel), "Your Next Escape Starts Here" (7/13, gated destination teaser). Of these, only the 7/15 digest had a Coachella Valley travel/dining angle — wine bars, breweries, açai bowls (all teaser-only, no venue names, same gated-link problem as 7/13) and a named restaurant profile: El Tranvia in Coachella, owner Oscar Ventura. Checked `indio-local-gems.md` — El Tranvia is already covered there ("doing birria since 1969"). **No blog edits made.** Wine bar/brewery/açai topics remain candidates for a future new post if PSL ever names specific venues in an un-gated preview, but guessing names from a teaser isn't an option per Step 0.
 
 ---
 
