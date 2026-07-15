@@ -1,8 +1,8 @@
 ---
-title: "Beyond Coachella: The Desert Trips Festival Crowds Skip"
+title: "Coachella Valley Year-Round: Life Beyond Festival Season"
 date: 2025-12-16
-dateModified: 2026-07-11
-metaDescription: "Most guides stop at the festival gates. Joshua Tree is 30 minutes east, Salton Sea is south, and there are hot springs the festival crowd never finds."
+dateModified: 2026-07-15
+metaDescription: "The Coachella Valley isn't just festival weekends. Joshua Tree is 30 minutes east, Salton Sea is south, and hot springs the festival crowd never finds."
 ogImage: /blog/images/cozy-cactus-pool.webp
 heroImage: /blog/images/cozy-cactus-pool.webp
 heroAlt: "Pool at a desert vacation rental in the Coachella Valley, California"

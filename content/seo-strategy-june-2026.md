@@ -793,6 +793,10 @@ All captions from RG-1 are pre-loaded in the Pinterest Pins tab. Add new content
 
 ~~**TASK GSC-21: Second-pass title/meta rewrite on `beyond-coachella-desert-escape`**~~ ✅ **DONE 2026-07-11** — Title changed to "Beyond Coachella: The Desert Trips Festival Crowds Skip" (55 chars), meta reworded from "guides end at" to "guides stop at" + sharper framing. Check CTR lift at next GSC check-in.
 
+~~**TASK GSC-17: Third-pass title/meta rewrite on `beyond-coachella-desert-escape`**~~ ✅ **DONE 2026-07-15** — Still flagged (58 imps, 0 clicks, 60% of impressions ≤ pos 20) after the 7/11 pass. Title changed to "Coachella Valley Year-Round: Life Beyond Festival Season", meta rewritten to lead with the year-round intent instead of the festival-crowds framing. This finally matches the `Coachella Valley year round` keyword already in frontmatter. Check CTR at next GSC check-in.
+
+**TASK GA4-1: Diagnose Cozy Cactus property page's 83.3% bounce rate** — 160 views/118 users over 2026-06-13 to 2026-07-10, the highest-traffic page site-wide and also the leakiest. Likely mismatch between the "Ad | Cozy Airbnb Bedroom for Famili" Pinterest ad creative and the page's above-the-fold content. Needs the live ad viewed side-by-side with the page before deciding page-side vs. ad-side fix — flagged for Eann's manual review, not auto-actionable. Carries forward the same underlying gap as TASK RG-21 (queued).
+
 ---
 
 ~~**TASK RG-1: Sunday 90-min vibe marketing workflow**~~ ✅ **DONE 2026-07-11 (this week's batch — run again next Sunday)** — Top 3 hooks per property generated and written to `/tmp/rg1-weekly-vibe-marketing-2026-07-11.md`. Visual generation (NanoBanana/Ideogram) is a manual step for Eann; captions are ready to pair with photos now. Recurring task — re-run every Sunday, this only covers the current week.
@@ -1107,6 +1111,52 @@ Rules:
 
 **Action items generated:**
 1. ~~**TASK GSC-16:** Rewrite `indian-palms-vacation-rental` title/meta to match gate/security search intent~~ ✅ Done 2026-07-13
+
+### What changed on 2026-07-15 — GSC Check-in
+
+**Period:** 2026-04-15 to 2026-07-14 (90 days) vs. 2026-01-14 to 2026-04-14
+
+**Overall:** 211 clicks, 31,891 impressions, 0.7% CTR, avg position 13.0 (prior period: 18 clicks, 1,406 impressions — traffic base is now ~22x larger than three months ago)
+
+**What's working:** `palm-springs-surf-club` (45 clicks, 8,512 imps, pos 9.6), `palm-springs-vs-indio` (30 clicks, 6,058 imps, pos 8.1), `palm-springs-vs-scottsdale` (23 clicks, 1,529 imps, 1.5% CTR, pos 8.2) — these three carry nearly half of all clicks site-wide.
+
+**CTR opportunities:** `how far is indio from palm springs` — 1,060 imps, 0.2% CTR, pos 7.9. Ranks well, barely clicked. Feeds `where-to-stay-coachella` mostly.
+
+**Weak pages reviewed:**
+- `classpass-palm-springs`: 59 imps (was 54 on 7/13), 0 clicks, 100% of impressions ≤ pos 20. Re-flagged by the mechanical diagnosis but the underlying reasoning from 7/13 still holds — branded "classpass" queries, title already matches intent, volume too thin (59 imps/90 days) to justify a rewrite pass. **Declined again**, same as 7/13.
+- `beyond-coachella-desert-escape`: 58 imps, 0 clicks, 60% of impressions ≤ pos 20. Genuinely new candidate (never evaluated in a prior check-in). Old title "Beyond Coachella: The Desert Trips Festival Crowds Skip" buried the actual search intent (year-round/off-season Coachella Valley) behind a vague festival-adjacent hook. ~~**TASK GSC-17:** Rewrite `beyond-coachella-desert-escape` title/meta to lead with year-round search intent~~ ✅ Done 2026-07-15 — title → "Coachella Valley Year-Round: Life Beyond Festival Season", meta now leads with the same framing.
+
+**Content/authority-fix pages (not title/meta problems, unchanged from 7/13, need real content or backlinks):**
+`palm-springs-bars` (887 imps, pos 29.9), `things-to-do-indio-ca` (523 imps, pos 41.4), `best-restaurants-palm-springs` (419 imps, pos 36.5), `best-hiking-palm-springs` (326 imps, pos 64.8), `things-to-do-palm-desert` (263 imps, pos 42.3), `salton-sea-day-trip` (245 imps, pos 34.9), `pet-friendly-palm-springs` (236 imps, pos 18.8), `date-farms-indio-coachella-valley` (231 imps, pos 12.4), `coachella-valley-insider-guide` (212 imps, pos 55.1), `bnp-paribas-indian-wells-where-to-stay` (164 imps, pos 18.8)
+
+**Action items generated:**
+1. ~~**TASK GSC-17:** Rewrite `beyond-coachella-desert-escape` title/meta~~ ✅ Done 2026-07-15
+
+### Pinterest Check-in — 2026-07-15
+
+**Monthly views:** Context files still cite an older ~20K estimate, but the real Pinterest Business Hub screenshot (Eann, captured this week) shows the *ads* dashboard, not organic monthly views: $207.55 spend/30 days (-1%), 34.17K ad impressions (+62%), 230 ad clicks (-18%); organic-only summary in that same screenshot is 1.44K impressions (+113%) and 26 engagements (+36%). Neither figure is the "monthly viewers" number the 25K switch-to-indigopalm.co threshold is based on. **Open item:** pull the actual Pinterest Analytics "Overview → monthly viewers" number next time Eann is in Pinterest — ad spend is climbing (3 active campaigns) while organic reach still looks thin by comparison.
+**Pin count:** No fresh count logged this run — Pinterest posting is now Eann's responsibility, Sabbir's scope narrowed to Quora/GEO/Goodreads.
+**Top performing:** "Ad | Cozy Airbnb Bedroom for Famili" (35.32K ad impressions, 236 clicks) carries almost all paid traffic. Top organic pins ("How to Stage a Vacation Rental for a Photo Shoot," "The Wild Tropics Bedroom") are both under 100 impressions and use narrative titles, not the concrete room+audience+location pattern that's been shown to convert.
+**Link status:** Airbnb (organic monthly views unconfirmed, but nowhere near the 25K-30K threshold based on the 1.44K/30-day organic impression figure).
+**Action items:** none auto-actioned this run — pin creation is now Eann's manual task.
+
+### GA4 Check-in — 2026-07-15
+
+**Period:** 2026-06-13 to 2026-07-10 (latest `Reports_snapshot.csv` export)
+
+**Overall:** 346 active users, 348 new users, avg engagement 35.8s/user, 1,854 events
+
+**Traffic source mix (sessions):** google/organic 136, pinterest/organic 126, direct 91, pinterest/social 18 — Pinterest (organic+social+referral ≈ 147) is now essentially even with google/organic.
+
+**High-bounce pages (50+ views, >60% bounce):**
+- Cozy Cactus property page: 160 views, 118 users, **83.3% bounce rate** — the highest-traffic page on the site and also the leakiest single page.
+- Welcome Guide | The Cozy Cactus: 22 views, 70% bounce — same property, smaller volume, likely same root cause.
+
+**Property page visibility:** Cozy Cactus 160 views ≫ Terra Luz 29 views ≫ Sundune 12 views (Cozy Cactus dominance tracks with the ad campaign; Sundune under-exposed relative to the other two).
+
+**Action items generated:**
+1. **TASK GA4-1:** Diagnose Cozy Cactus property page's 83.3% bounce rate — likely mismatch between the "Ad | Cozy Airbnb Bedroom for Famili" ad creative and the page's above-the-fold content. Needs the live ad creative viewed side-by-side with the page before deciding page-side vs. ad-side fix. Flagged for manual review (requires viewing the live ad), not auto-actioned.
+2. Sundune under-exposed vs. Terra Luz/Cozy Cactus in blog internal linking and Pinterest boards — noted for the next content-gap pass, not urgent.
 
 ### What changed on 2026-06-26 (babysit-seo run)
 
