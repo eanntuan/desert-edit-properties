@@ -795,7 +795,7 @@ All captions from RG-1 are pre-loaded in the Pinterest Pins tab. Add new content
 
 ~~**TASK GSC-17: Third-pass title/meta rewrite on `beyond-coachella-desert-escape`**~~ ✅ **DONE 2026-07-15** — Still flagged (58 imps, 0 clicks, 60% of impressions ≤ pos 20) after the 7/11 pass. Title changed to "Coachella Valley Year-Round: Life Beyond Festival Season", meta rewritten to lead with the year-round intent instead of the festival-crowds framing. This finally matches the `Coachella Valley year round` keyword already in frontmatter. Check CTR at next GSC check-in.
 
-**TASK GA4-1: Diagnose Cozy Cactus property page's 83.3% bounce rate** — 160 views/118 users over 2026-06-13 to 2026-07-10, the highest-traffic page site-wide and also the leakiest. Likely mismatch between the "Ad | Cozy Airbnb Bedroom for Famili" Pinterest ad creative and the page's above-the-fold content. Needs the live ad viewed side-by-side with the page before deciding page-side vs. ad-side fix — flagged for Eann's manual review, not auto-actionable. Carries forward the same underlying gap as TASK RG-21 (queued).
+~~**TASK GA4-1: Diagnose Cozy Cactus property page's 83.3% bounce rate**~~ ✅ **DONE 2026-07-17** — 160 views/118 users over 2026-06-13 to 2026-07-10, the highest-traffic page site-wide and also the leakiest. The page-side fix already shipped under TASK RG-21 (2026-07-13): removed a duplicated "Why Book Direct" block cluttering the sidebar next to the CTA, and added a "★ 4.97 · 146 reviews · Airbnb Guest Favorite" trust line directly in the hero, above the fold, where the only rating signal previously lived below the fold on mobile. That addresses the most likely page-side cause. Still open, and still needing Eann: pulling up the live "Ad | Cozy Airbnb Bedroom for Famili" Pinterest ad creative next to the page to confirm there isn't also an ad-copy/page-copy mismatch — flag this at the next GA4 check-in to see if the bounce rate actually moved after the RG-21 fix before spending more time on the ad side.
 
 ---
 
@@ -1370,6 +1370,8 @@ Since [[project_sabbir_transition]] moved Pinterest posting to Eann as of this m
 **Why now:** This is the first Rachel Gainsburg task that Eann can execute directly end-to-end for Pinterest, since Sabbir no longer owns that channel.
 
 Source: `how-i-hit-1-million-facebook-views`
+
+~~**TASK RG-19: Apply the audit-and-recycle loop to Pinterest**~~ ✅ **DONE 2026-07-17 (caption guidance shipped; timing audit + evergreen library still blocked)** — Items 3-5 (lead with specific numbers, favor declarative over question-based hooks, prioritize hook quality over raw volume) are now baked into the pin caption checklist used for every batch going forward: property stats ("4.98 stars, 146 reviews," "walking distance to Empire Polo Club," "20% you skip booking direct") lead the caption, phrased as a statement not a question. Items 1-2 (90-day timing audit, evergreen pin recycle library) stay blocked — both need a live Pinterest Analytics login, same blocker as the monthly-views ask below.
 
 ---
 
