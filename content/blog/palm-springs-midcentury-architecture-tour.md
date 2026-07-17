@@ -15,7 +15,7 @@ keywords:
   - Modernism Week Palm Springs
   - Movie Colony Palm Springs
   - Vista Las Palmas Palm Springs
-dateModified: 2026-07-11
+dateModified: 2026-07-17
 articleSection: "Local Guide"
 property: ps-retreat
 readTime: "8 min read"
@@ -41,6 +41,8 @@ layout: blog-post.njk
 <p>Start at the intersection of Palm Canyon Drive and Tahquitz Canyon Way. This is the center of downtown. Before heading into the neighborhoods, walk one block south on Palm Canyon to see the <strong>Desert Inn Fashion Center</strong> and the surrounding commercial architecture from the 1950s and 60s. William Cody designed several buildings in this stretch.</p>
 
 <p>The <strong>Palm Springs Visitor Center</strong> at 2901 N Palm Canyon Drive, a few miles north, is a 1965 Frey-designed former gas station worth a quick stop. Albert Frey made a career of integrating desert materials into modern forms. This building shows exactly how.</p>
+
+<p>If you want to go past the sidewalk view, the Palm Springs Art Museum runs docent-led tours inside <strong>Frey House II</strong>, the architect's own hillside home, most Saturdays from 9am to 2pm. A shuttle picks up ticket holders at the museum's Buddy Rogers Box Office and drives up. Seats are limited to the shuttle van, the house isn't ADA accessible, and there's no walking or driving up on your own: the shuttle is the only way in. <a href="https://www.psmuseum.org/visit/tours/tours-frey-house" target="_blank" rel="noopener">Book through the museum</a> before you plan the rest of the day around it, since tours sell out.</p>
 
 <h2>Stop 2: Movie Colony (East Palm Canyon / Alejo Road Area)</h2>
 
@@ -142,6 +144,9 @@ layout: blog-post.njk
 <h3>What is brise-soleil, and why is it everywhere in Palm Springs?</h3>
 <p>Brise-soleil is French for "sun breaker," a fixed screen (usually perforated concrete block, wood slats, or metal fins) mounted in front of glass to cut direct sun while still letting air and filtered light through. Before window AC was standard, it was the local fix for shading glass walls without losing indoor-outdoor openness. Breeze block, the perforated concrete version, shows up constantly in Vista Las Palmas on carports, pool enclosures, and room dividers.</p>
 
+<h3>Can you go inside Frey House II?</h3>
+<p>Yes, but only on a docent-led tour booked through the Palm Springs Art Museum. Tours run most Saturdays from 9am to 2pm, with a shuttle van picking up ticket holders at the museum's Buddy Rogers Box Office, since there's no other way to reach the house. Seats are limited to the van, the house isn't ADA accessible, and tours regularly sell out, so book ahead if this is a priority for your trip.</p>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -209,6 +214,14 @@ layout: blog-post.njk
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Brise-soleil is French for 'sun breaker,' a fixed screen, usually perforated concrete block, wood slats, or metal fins, mounted in front of glass to cut direct sun while still letting air and filtered light through. Before window AC was standard, it was the local fix for shading glass walls without losing indoor-outdoor openness. Breeze block, the perforated concrete version, shows up constantly in Vista Las Palmas on carports, pool enclosures, and room dividers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you go inside Frey House II?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only on a docent-led tour booked through the Palm Springs Art Museum. Tours run most Saturdays from 9am to 2pm, with a shuttle van picking up ticket holders at the museum's Buddy Rogers Box Office, since there's no other way to reach the house. Seats are limited to the van, the house isn't ADA accessible, and tours regularly sell out, so book ahead if this is a priority for your trip."
       }
     }
   ]

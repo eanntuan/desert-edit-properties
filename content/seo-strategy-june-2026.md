@@ -1157,6 +1157,43 @@ Rules:
 1. **TASK GA4-1:** Diagnose Cozy Cactus property page's 83.3% bounce rate — likely mismatch between the "Ad | Cozy Airbnb Bedroom for Famili" ad creative and the page's above-the-fold content. Needs the live ad creative viewed side-by-side with the page before deciding page-side vs. ad-side fix. Flagged for manual review (requires viewing the live ad), not auto-actioned.
 2. Sundune under-exposed vs. Terra Luz/Cozy Cactus in blog internal linking and Pinterest boards — noted for the next content-gap pass, not urgent.
 
+### What changed on 2026-07-17 — GSC Check-in
+
+**Period:** 2026-04-18 to 2026-07-17 (90 days) vs. 2026-01-17 to 2026-04-17
+
+**Overall:** 222 clicks, 33,265 impressions, 0.7% CTR, avg position 12.8 (prior period: 24 clicks, 1,768 impressions)
+
+**What's working:** `palm-springs-surf-club` (47 clicks, 8,833 imps, pos 9.4), `palm-springs-vs-indio` (30 clicks, 6,242 imps, pos 8.0), `palm-springs-vs-scottsdale` (24 clicks, 1,656 imps, 1.4% CTR, pos 8.2) — same three winners holding the same share of clicks as 7/15, just compounding.
+
+**CTR opportunities:**
+- `how far is indio from palm springs` — 1,064 imps, 0.2% CTR, pos 7.8. Same standing opportunity as every prior check-in; still unaddressed.
+- `indigo` — 253 imps, 0.4% CTR, pos 4.5. Branded query, ranks #1-5, barely clicked — likely a SERP snippet/title mismatch on the homepage rather than a content problem.
+- `where to stay for coachella` — 101 imps, 1.0% CTR, pos 19.6. New entrant this run (was 99 imps on 7/14). Sits right at the position-20 cliff; a small ranking push would make this a real CTR play.
+
+**Weak pages reviewed:**
+- `coachella-2027-where-to-stay`: 60 imps, 1 click, 100% of impressions ≤ pos 20 → mechanically flagged as a title/meta rewrite target. **Declined.** This is a forward-dated seasonal post (2027) getting real position-7 average rank already; rewriting the title now, five months before the event window matters, risks losing the exact-match year-keyword that's earning the ranking in the first place. Revisit closer to the 2027 festival season.
+- `/cozy-cactus/` (property page, not a blog post): 70 imps, 2 clicks, pos 13.6, 8.7% of impressions ≤ pos 20 → content/authority fix, not title/meta. First time this page has surfaced in a check-in. Consistent with the GA4 finding below (83.3% bounce on this same page) — the page is getting found and getting left, which points at above-the-fold content/CTA, not discoverability.
+- `classpass-palm-springs`: still thin, still declined, unchanged reasoning from every prior run.
+
+**Content/authority-fix pages (unchanged list, still need real content or backlinks, not title/meta):**
+`things-to-do-indio-ca` (516 imps, pos 41.2), `best-restaurants-palm-springs` (452 imps, pos 36.0), `date-farms-indio-coachella-valley` (296 imps, pos 13.1), `best-hiking-palm-springs` (296 imps, pos 63.9), `things-to-do-palm-desert` (293 imps, pos 40.5), `pet-friendly-palm-springs` (247 imps, pos 19.0), `salton-sea-day-trip` (243 imps, pos 35.1), `bnp-paribas-indian-wells-where-to-stay` (165 imps, pos 18.7), `coachella-valley-food-guide` (120 imps, pos 23.4)
+
+**Action items generated:**
+1. Diagnose `/cozy-cactus/` property page jointly with the GA4 83.3% bounce finding — same page, two signals pointing the same direction. Needs the live "Ad | Cozy Airbnb Bedroom for Famili" creative reviewed side-by-side with the page, same blocker as TASK GA4-1. Not auto-actioned.
+2. `indigo` branded-query CTR (0.4% at position 4.5) is worth a homepage title-tag look next run if it persists — flagged, not actioned this run (single data point so far).
+
+### Pinterest Check-in — 2026-07-17
+
+**Monthly views:** No fresh Pinterest Analytics "Overview → monthly viewers" pull this run — still the open item from 7/15. The Business Hub ads-dashboard screenshot on file only gives organic impressions (1.44K/30 days as of 7/15), not the monthly-viewers figure the 25-30K link-switch threshold is based on. **Do not treat any impressions figure as the monthly-viewers number** — they are different metrics and conflating them risks a premature link switch.
+**Pin count:** No fresh count logged this run — Pinterest posting is Eann's task per the July transition (Sabbir's scope narrowed to Quora/GEO/Goodreads).
+**Top performing:** Unchanged from 7/15 — the paid "Ad | Cozy Airbnb Bedroom for Famili" pin still carries nearly all traffic; organic pins remain sub-100 impressions.
+**Link status:** Airbnb. **Open decision for Eann, not auto-actioned:** confirm whether any Pinterest Analytics monthly-viewers pull (not ad or organic-impression numbers) has crossed 25-30K — if yes, switch links to indigopalm.co per the standing threshold rule; if unconfirmed, leave as-is. This has now come up in three consecutive check-ins (7/13, 7/15, 7/17) without a real number — worth a direct 2-minute Pinterest Analytics login rather than inferring from ad dashboards.
+**Action items:** none auto-actioned — pin creation and the monthly-viewers pull are both Eann's manual tasks.
+
+### GA4 Check-in — 2026-07-17
+
+`~/Downloads/Reports_snapshot.csv` still carries the same Jul 11 modification timestamp — no fresher export since the 7/13 and 7/15 check-ins. Not re-analyzing stale data a third time. The standing findings (Cozy Cactus property page 83.3% bounce, Sundune visibility gap) remain open and now cross-confirmed by the `/cozy-cactus/` GSC finding above. Pending Eann's next GA4 export.
+
 ### What changed on 2026-06-26 (babysit-seo run)
 
 - **GSC-11:** palm-springs-surf-club title rewritten to "Palm Springs Surf Club: Hours, Tickets + What to Know Before You Go". Meta updated to lead with the reservation warning.
@@ -1462,6 +1499,25 @@ Read all four full email bodies. PSL's newsletter format is teaser-only: each gi
 Checked the 4 PSL emails received since the 7/13 run: wine bars/açai bowls/breweries digest (7/15), Lola Rose dinner experience (7/14, booking-only teaser with no content), Abernathy House architecture feature (7/14, real estate/design, not travel), "Your Next Escape Starts Here" (7/13, gated destination teaser). Of these, only the 7/15 digest had a Coachella Valley travel/dining angle — wine bars, breweries, açai bowls (all teaser-only, no venue names, same gated-link problem as 7/13) and a named restaurant profile: El Tranvia in Coachella, owner Oscar Ventura. Checked `indio-local-gems.md` — El Tranvia is already covered there ("doing birria since 1969"). **No blog edits made.** Wine bar/brewery/açai topics remain candidates for a future new post if PSL ever names specific venues in an un-gated preview, but guessing names from a teaser isn't an option per Step 0.
 
 ---
+
+### PSL Newsletter Inspo — 2026-07-17
+
+Checked PSL emails received since the 7/15 run: a Frey House II docent-tour mention, a Korakia Pensione history piece, and an unrelated health-care digest.
+
+**Korakia Pensione** — teaser-only, mostly biographical trivia (Gordon Coutts, 1924, Gertrude). **Declined.** Insufficient extractable substance to justify an update or new post, and Korakia is a competing boutique-lodging property — writing it up has weaker content-marketing logic for a vacation-rental site than an architecture/experience angle would.
+
+**Health care email** — no Coachella Valley travel/dining/events tie. Skipped as off-topic per Step 2.
+
+**Frey House II tour** — the email itself was thin (one line), but the topic was substantive and tied directly to an existing post that already covers Albert Frey without mentioning the bookable interior tour. Per Step 3 this is an **update**, not a new post. Per Step 0, none of the newsletter's own phrasing was used — all logistics (Saturday 9am-2pm docent tours, Buddy Rogers Box Office shuttle pickup, no self-drive access, limited van seating, not ADA accessible, tours sell out) were independently verified via WebSearch and the Palm Springs Art Museum's own tour page before writing.
+
+Applied to `content/blog/palm-springs-midcentury-architecture-tour.md`:
+- New paragraph in the "Stop 1: Downtown Palm Canyon Drive" section covering the Frey House II docent tour, with a link to the museum's official tour booking page
+- New FAQ pair: "Can you go inside Frey House II?"
+- Matching FAQPage JSON-LD entry added to the closing schema block
+- `dateModified` bumped to 2026-07-17
+- Rebuilt via `npm run build` — succeeded, no errors
+
+Sources used for verification: [Palm Springs Art Museum — Frey House II tours](https://www.psmuseum.org/visit/tours/tours-frey-house)
 
 ### Hero Image Audit — 2026-07-13 (first full pass — none on record before this)
 
