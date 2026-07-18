@@ -1664,3 +1664,46 @@ Link: https://indigopalm.co/blog/idyllwild-day-trip-palm-springs/?utm_source=pin
 
 **TASK PIN-4: Confirm all 6 pins are live**
 Check Pinterest profile — all 6 pins visible, correct board, correct link destination.
+
+---
+
+### What changed on 2026-07-18 — GSC Check-in
+
+**Period:** 2026-04-19 to 2026-07-18 (90 days) vs. 2026-01-18 to 2026-04-18
+
+**Overall:** 227 clicks, 33,620 impressions, 0.7% CTR, avg position 12.8 (prior period: 29 clicks, 2,024 impressions). Steady compounding — up 5 clicks and ~350 impressions vs. the 7/17 pull, same trajectory, no shocks.
+
+**What's working:** `palm-springs-surf-club` (47 clicks, 8,956 imps, pos 9.4), `palm-springs-vs-indio` (31 clicks, 6,256 imps, pos 8.0), `palm-springs-vs-scottsdale` (26 clicks, 1,691 imps, 1.5% CTR, pos 8.2). Same three winners holding their share. Mobile continues to outperform desktop on CTR (1.0% vs 0.4%) at a much better position (8.9 vs 16.0).
+
+**CTR opportunities:**
+- `how far is indio from palm springs` — 1,040 imps, 0.2% CTR, pos 7.8. Flagged as "unaddressed" in every prior check-in. **Diagnosis this run: this is a zero-click informational query.** A "how far is X from Y" search is answered inline in the SERP (Google shows the distance/drive time directly), so a position-7 ranking structurally cannot earn clicks the way a commercial query would. A title/meta rewrite will not recover these clicks. Stop treating it as an open rewrite target; the impressions are still valuable brand exposure. The `palm-springs-vs-indio` page that ranks for it is already a top-3 clicks winner on its commercial queries.
+- `indigo` — 253 imps, 0.4% CTR, pos 4.4. Branded query, ranks top-5, barely clicked. Second consecutive appearance. Worth a homepage title-tag look next run if it persists, but low priority (branded searchers usually already know how to reach the site).
+
+**Weak pages reviewed:**
+- `best-vacation-rentals-pool-coachella-valley` — 64 imps, 0 clicks, pos 8.5, 100% of impressions ≤ pos 20 → genuine title/meta target (strong position, zero clicks = snippet problem). **Actioned:** meta rewritten from a vague "what to look for beyond the listing photos" intro to a concrete, benefit-first snippet naming private pool / hot tub / heated spa and adding a book-direct hook. dateModified bumped to 2026-07-18.
+- `lax-to-palm-springs` — 254 imps, 1 click, pos 16.4, 52% of impressions ≤ pos 20 → mechanically flagged as title/meta. **Declined.** Title ("How to Get from LAX to Palm Springs: Every Option Compared") and meta are already sharp from a prior optimization pass. At position 16.4 (mostly page 2) the constraint is ranking/authority, not the snippet — a rewrite won't move it. Revisit if it climbs into the top 10.
+
+**Content/authority-fix pages (unchanged, still need real content or backlinks, not title/meta):** `things-to-do-indio-ca` (511 imps, pos 41), `best-restaurants-palm-springs` (466 imps, 0 clicks, pos 36), `date-farms-indio-coachella-valley` (320 imps, pos 13.2), `best-hiking-palm-springs` (287 imps, 0 clicks, pos 63.7), `things-to-do-palm-desert` (306 imps, pos 39.5), `pet-friendly-palm-springs` (258 imps, pos 19.1), `salton-sea-day-trip` (243 imps, pos 35.1), `bnp-paribas-indian-wells-where-to-stay` (165 imps, pos 18.7).
+
+**Action items generated:**
+1. `best-vacation-rentals-pool-coachella-valley` meta rewrite — DONE this run. Check next GSC pull for CTR movement off the position-8.5 ranking.
+2. `indigo` branded homepage title tag — monitor one more run before touching.
+
+### Pinterest Check-in — 2026-07-18
+
+**Monthly views:** Still no fresh Pinterest Analytics "monthly viewers" pull — open item across 7/13, 7/15, 7/17, now 7/18. Last real figure remains ~20K (June 3). Reminder: organic-impression and ad-dashboard numbers are NOT the monthly-viewers metric the 25-30K link-switch threshold is based on. Do not switch links off Airbnb until a real monthly-viewers number ≥ 25K is confirmed from a direct Pinterest Analytics login.
+**Pin count:** Not logged this run — Pinterest posting is Eann's task since the June transition (Sabbir's scope is Quora/GEO/Goodreads).
+**Link status:** Airbnb. No change; threshold not confirmed hit.
+**Action items:** none auto-actionable — the monthly-viewers pull and pin scheduling are both Eann's manual tasks. This is the fourth consecutive check-in flagging the missing monthly-viewers number; a 2-minute direct Pinterest Analytics login would close it.
+
+### GA4 Check-in — 2026-07-18
+
+`~/Downloads/Reports_snapshot.csv` still carries the Jul 11 modification timestamp (period 2026-06-13 to 2026-07-10) — same stale export already analyzed in the 7/13, 7/15, and 7/17 check-ins. Not re-logging it a fourth time. Standing open findings (Cozy Cactus property page 83.3% bounce, cross-confirmed by the `/cozy-cactus/` GSC finding; Sundune visibility gap) remain, pending Eann's next fresh GA4 export.
+
+### PSL Newsletter Inspo — 2026-07-18
+
+Reviewed 15 `news@palmspringslife.com` emails since July 10. Most were ad blasts (Grand Hyatt Indian Wells, Hotel Paseo, Lola Rose dinner) or topics already covered on-site (wine bars → `palm-springs-bars`, açai/pastries → `best-pastries-palm-springs`, art/architecture → `palm-springs-art-galleries-guide` published 7/13). The one genuinely useful nugget — free, indoor, air-conditioned "Summer Sundays" at the Agua Caliente Cultural Museum — is already referenced in the current heat-activities post (a live winner at 3.3% CTR, pos 11.7). No new post or material update warranted this run; declined to churn a converting page for a marginal seasonal sentence.
+
+### Hero Image Audit — 2026-07-18
+
+No full pass run. Last full inventory pass was 2026-07-13 (5 days ago, well inside the 30-day window). No new blog posts or re-imaged pages published since then, so nothing new to re-check. Next full pass due on/after 2026-08-12.
