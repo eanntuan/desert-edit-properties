@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /api/
+Disallow: /_content/
 # /booking-flow/ has noindex meta tag; allow crawl so Google can read it
 
 # Block AI training crawlers

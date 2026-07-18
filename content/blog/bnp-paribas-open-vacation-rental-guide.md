@@ -1,7 +1,9 @@
 ---
 title: "BNP Paribas Open Vacation Rental Guide for 2027"
 date: 2026-05-27
-dateModified: 2026-06-18
+dateModified: 2026-07-18
+redirectTo: /blog/bnp-paribas-indian-wells-where-to-stay/
+layout: redirect.njk
 metaDescription: "Finding a vacation rental for the BNP Paribas Open instead of an Indian Wells hotel. Indio as a quiet base 20 min from the venue, with private pools and kitchens."
 ogImage: /blog/images/indian-wells-tennis-garden-aerial.webp
 heroImage: /blog/images/indian-wells-tennis-garden-aerial.webp
@@ -21,7 +23,6 @@ articleSection: "Travel Guide"
 property: all
 readTime: "7 min read"
 excerpt: "Indian Wells hotels are expensive and far from any kitchen. A private home in Indio puts you 20 minutes from the venue with a pool, real wifi, and dinner you can actually cook. Here's how to think through BNP Paribas Open accommodation."
-layout: blog-post.njk
 relatedPosts:
   - title: "BNP Paribas Open 2027: Where to Stay Near Indian Wells"
     url: /blog/bnp-paribas-indian-wells-where-to-stay/
