@@ -1707,3 +1707,46 @@ Reviewed 15 `news@palmspringslife.com` emails since July 10. Most were ad blasts
 ### Hero Image Audit — 2026-07-18
 
 No full pass run. Last full inventory pass was 2026-07-13 (5 days ago, well inside the 30-day window). No new blog posts or re-imaged pages published since then, so nothing new to re-check. Next full pass due on/after 2026-08-12.
+
+### What changed on 2026-07-19 — GSC Check-in
+
+**Period:** 2026-04-20 to 2026-07-19 (90 days)
+
+**Overall:** 235 clicks, 33,891 impressions, 0.7% CTR, avg position 12.7
+
+**vs. prior period:** +8 clicks, +271 impressions vs. the 7/18 pull (227 clicks, 33,620 impressions) — steady, compounding growth, no volatility.
+
+**What's working:** Same three pages holding the top of the funnel: `/blog/palm-springs-surf-club/` (47 clicks, 9,079 impr, pos 9.3), `/blog/palm-springs-vs-indio/` (32 clicks, 6,292 impr, pos 8.0), `/blog/palm-springs-vs-scottsdale/` (29 clicks, 1,724 impr, 1.7% CTR, pos 8.2 — best CTR of the three).
+
+**CTR opportunities (rewrites queued):**
+- `how far is indio from palm springs`: 1,024 impr, 2 clicks, pos 7.7 — reaffirmed non-actionable per 7/18's ruling. This is a Google-answers-inline-in-SERP query (distance/time answered directly in the SERP box); no title/meta rewrite can fix a structural zero-click query. Tracked as brand-exposure value only, not a rewrite target.
+- `indigo` (branded homepage query): 255 impr, 1 click, pos 4.4 — still just monitoring, one more run before touching the homepage title tag.
+- **New this run:** `airbnb rentals indio`: 102 impr, 0 clicks, position **1.0** — flagging as a fresh anomaly. Ranking #1 with zero clicks on 102 impressions is unusual; needs page-level investigation next run (which page is actually ranking, and whether it's a snippet/SERP-feature issue or a title mismatch with searcher intent for a query that reads Airbnb-branded rather than Indigo Palm-branded).
+
+**Weak pages (content or title fix needed):**
+- `/blog/best-vacation-rentals-pool-coachella-valley/`: 64 impr, 0 clicks, pos 8.5 (100% of impressions ≤ pos 20) — title/meta rewrite already shipped 7/18. No CTR movement visible yet in this pull, expected since the 90-day window still blends mostly pre-change data; will show clean signal in the next 1-2 check-ins.
+- `/blog/lax-to-palm-springs/`: 258 impr, 1 click, pos 16.2 (52.3% of impressions ≤ pos 20) — mechanically flagged again, still **declined** per 7/18's ruling: this is a position/authority problem, not a snippet problem, and the title/meta are already sharp from a prior pass. Revisit if it climbs into top 10.
+- `/blog/best-hiking-palm-springs/` (280 impr, 0 clicks, pos 63.3) and `/blog/things-to-do-indio-ca/` (504 impr, 1 click, pos 41.2): both 0% of impressions ≤ pos 20 — content/authority problems, not title/meta fixes. No action this run; would need new backlinks or a content depth pass, not queued as a quick win.
+
+**Action items generated:**
+1. Investigate `airbnb rentals indio` (position 1.0, 0 clicks, 102 impr) at the next GSC check-in — identify the ranking page and diagnose whether it's a SERP-feature issue or genuine title mismatch.
+2. Continue monitoring `best-vacation-rentals-pool-coachella-valley` CTR over the next 1-2 pulls to confirm the 7/18 meta rewrite is working.
+
+### Pinterest Check-in — 2026-07-19
+
+**Monthly views:** Still no fresh Pinterest Analytics "monthly viewers" pull — open item across 7/13, 7/15, 7/17, 7/18, now 7/19 (fifth consecutive check-in). Last real figure remains ~20K (June 3 screenshot). Reminder: organic-impression and ad-dashboard numbers are NOT the monthly-viewers metric the 25-30K link-switch threshold is based on.
+**Pin count:** Not logged this run — Pinterest posting is Eann's task since the June transition.
+**Link status:** Airbnb. No change; threshold not confirmed hit.
+**Action items:** none auto-actionable. A 2-minute direct Pinterest Analytics login would close the fifth consecutive gap on this metric.
+
+### GA4 Check-in — 2026-07-19
+
+`~/Downloads/Reports_snapshot.csv` still carries the Jul 11 modification timestamp (period 2026-06-13 to 2026-07-10) — same stale export already analyzed in the 7/13 through 7/18 check-ins. Not re-logging a fifth time. Standing open findings (Cozy Cactus property page 83.3% bounce, blocked on TASK GA4-1's manual ad-creative review; Sundune visibility gap) remain, pending Eann's next fresh GA4 export.
+
+### PSL Newsletter Inspo — 2026-07-19
+
+Only one `news@palmspringslife.com` email since 7/18 ("Free Summer Sundays at Agua Caliente Cultural Museum," sent 7/18) — the same item already reviewed and declined in the 7/18 check-in (already referenced in the live `palm-springs-heat-activities` post, a converting page not worth churning for a marginal seasonal sentence). No new email, no new candidate. Nothing actionable this run.
+
+### Hero Image Audit — 2026-07-19
+
+No full pass run. Last full inventory pass was 2026-07-13 (6 days ago, well inside the 30-day window). No new blog posts or re-imaged pages published since 7/18, so nothing new to re-check. Next full pass due on/after 2026-08-12.
