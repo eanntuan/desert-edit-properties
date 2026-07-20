@@ -31,7 +31,7 @@ relatedPosts:
     url: /blog/terra-luz-review/
 ---
 
-<p><a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> runs two consecutive weekends in mid-April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Getting there is the easy part, but finding a place that keeps a group functional across three full days in April desert heat — that's the real planning job.</p>
+<p><a href="https://www.coachella.com/" target="_blank" rel="noopener noreferrer"><strong>Coachella</strong></a> runs two consecutive weekends in mid-April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Getting there is the easy part, but finding a place that keeps a group functional across three full days in April desert heat: that's the real planning job.</p>
 
 <p>I own two vacation rentals inside the Indian Palms Country Club neighborhood, about 1.5 miles from the festival entrance. I've watched how this choice plays out every year since 2022. Here's what I know.</p>
 

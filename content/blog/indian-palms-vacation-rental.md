@@ -162,7 +162,7 @@ faqItems:
 <p>Cozy Cactus is the family pick: private hot tub, community pool steps away, pack-n-play, Stokke high chair, toys for ages 2-10, and a game room. Not pet-friendly. Terra Luz is the right call for groups who want a private saltwater pool, a Cuban/Latin aesthetic, and dog-friendly hosting (with prior approval). Both sleep up to 8 and are in Indian Palms walking distance to the festival grounds.</p>
 
 <h4>Can I bring my dog to a vacation rental in Indian Palms?</h4>
-<p>At Terra Luz, yes. It's dog-friendly with prior approval, fenced yard, and a flat pet fee. At Cozy Cactus, no exceptions — it's allergy-policy only. If you're traveling with a dog, book Terra Luz and message before confirming to get the dog on the reservation. At The Sundune in Palm Springs, dogs are also welcome with prior written approval.</p>
+<p>At Terra Luz, yes. It's dog-friendly with prior approval, fenced yard, and a flat pet fee. At Cozy Cactus, no exceptions: it's allergy-policy only. If you're traveling with a dog, book Terra Luz and message before confirming to get the dog on the reservation. At The Sundune in Palm Springs, dogs are also welcome with prior written approval.</p>
 
 <h4>How do golf carts work for getting to Coachella from Indian Palms?</h4>
 <p>During festival weekends, community members with golf carts offer rides to and from the Monroe Gate. The going rate is roughly $5-10 per rider depending on group size, and the rides are informal rather than a scheduled service. Your host will have current contact info for who's offering carts in the welcome book. It's a genuine thing, not just a rumor, but it works on community goodwill, so plan the walk as your primary option and treat the cart as a bonus.</p>

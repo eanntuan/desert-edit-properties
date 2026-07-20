@@ -68,7 +68,7 @@ faqItems:
 
 <p>The Coachella Valley runs 45 miles east to west. The <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> is in Indio, at the eastern end. Palm Springs is 30 miles west of that, which is 35 minutes on a normal day and 60-90 minutes each direction during festival weekend. For a three-day festival, that math adds up to somewhere between 6 and 9 hours of commuting.</p>
 
-<p>Indio is where you want to be — that's not an opinion, it's just geography.</p>
+<p>Indio is where you want to be, and that's not an opinion, it's just geography.</p>
 
 <img src="/blog/images/coachella-valley-map.webp" alt="Map of Coachella Valley showing distances from Palm Springs, Palm Desert, La Quinta, and Indio to the Empire Polo Club festival grounds" width="1400" height="933" loading="lazy">
 <p class="image-caption">The valley spread out. The polo grounds are at the eastern end. Every mile west adds commute time.</p>

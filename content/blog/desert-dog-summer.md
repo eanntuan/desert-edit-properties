@@ -53,7 +53,7 @@ The rule I follow for our guests at [The Cozy Cactus and Terra Luz](/cozy-cactus
 
 **Early morning walks.** Before 8am is the sweet spot in summer. The pavement has had all night to release heat, the air temperature is at its daily low, and the desert light is genuinely pleasant. In spring and fall, the window extends to about 10am.
 
-**Pool time.** Terra Luz in Indio has a private saltwater pool, and The Sundune in Palm Springs has access to the community pool at Palm Canyon Villas — both welcome dogs (a pet fee applies, prior approval at booking). Most dogs figure out the steps quickly. A dog who's been floating in a pool for 20 minutes on a hot afternoon is a calm, happy dog for the rest of the evening. Rinse them off after with fresh water to remove the chlorine.
+**Pool time.** Terra Luz in Indio has a private saltwater pool, and The Sundune in Palm Springs has access to the community pool at Palm Canyon Villas, and both welcome dogs (a pet fee applies, prior approval at booking). Most dogs figure out the steps quickly. A dog who's been floating in a pool for 20 minutes on a hot afternoon is a calm, happy dog for the rest of the evening. Rinse them off after with fresh water to remove the chlorine.
 
 **Cooling mats and indoor enrichment.** A good cooling mat (the gel-based ones that don't need refrigeration work well) placed in front of the AC vent gives your dog a dedicated cool spot during the hottest part of the day. Puzzle feeders and frozen treats keep them occupied inside without requiring outdoor exertion.
 

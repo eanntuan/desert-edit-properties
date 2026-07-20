@@ -82,7 +82,7 @@ layout: blog-post.njk
 <p class="image-caption">Not just wine glasses and a corkscrew: actual family infrastructure</p>
 
 <h3>I created a fun backyard moment with an eye catching mural, hot tub, and putting green.</h3>
-<p>Step outside and you've got a hot tub, a putting green, and a Traeger under the pergola — your family can grill while you sip your morning coffee. Kids run around in the enclosed backyard, channeling their inner Tiger Woods on the mini golf course. Parents and kids love it.</p>
+<p>Step outside and you've got a hot tub, a putting green, and a Traeger under the pergola, so your family can grill while you sip your morning coffee. Kids run around in the enclosed backyard, channeling their inner Tiger Woods on the mini golf course. Parents and kids love it.</p>
 
 <h2>The Details That Matter</h2>
 

@@ -65,7 +65,7 @@ relatedPosts:
 <p>Our Palm Springs property is <a href="/the-sundune/"><strong>The Sundune</strong></a> at 5301 E Waverly Dr, a 2BR/2BA mid-century condo with three king beds, community pool access, and full kitchen. It books direct at <a href="https://indigopalm.co/the-sundune/" target="_blank" rel="noopener noreferrer">indigopalm.co/the-sundune/</a>, which removes the 20% Airbnb service fee, and the HOA requires a 4-night minimum stay. City permit 068394.</p>
 
 <img src="/blog/images/sundune-pool-surfboard-float.webp" alt="Community pool at The Sundune vacation rental in Palm Springs with surfboard float on a clear desert day" width="1200" height="900" loading="lazy">
-<p class="image-caption">The Sundune's community pool. March afternoons in Palm Springs hit mid-70s, so the pool gets used. After 8 hours in stadium seats, this is worth more than a hotel pool with posted hours and a crowd — this one has far fewer users and no schedule.</p>
+<p class="image-caption">The Sundune's community pool. March afternoons in Palm Springs hit mid-70s, so the pool gets used. After 8 hours in stadium seats, this is worth more than a hotel pool with posted hours and a crowd: this one has far fewer users and no schedule.</p>
 
 <p>The practical advantages for a BNP Paribas Open trip from Palm Springs:</p>
 

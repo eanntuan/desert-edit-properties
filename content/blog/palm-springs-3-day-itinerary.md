@@ -50,7 +50,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Mid-century modern residential street in Palm Springs California with flat-roof architecture and mountain views" width="1400" height="933" loading="lazy">
 
-<p>Afternoon is pool time, or rent bikes — downtown is flat, and several Palm Canyon shops rent by the hour or half-day. The neighborhoods east of downtown (Movie Colony, Ruth Hardy Park area) have some of the best residential mid-century architecture in the city.</p>
+<p>Afternoon is pool time, or rent bikes: downtown is flat, and several Palm Canyon shops rent by the hour or half-day. The neighborhoods east of downtown (Movie Colony, Ruth Hardy Park area) have some of the best residential mid-century architecture in the city.</p>
 
 <p>Evening: dinner at a restaurant you've been meaning to try, or cook at the rental. Grocery options: Stater Bros. at Ramon Road handles basics. Gelson's on Sunrise Way for better produce and deli options.</p>
 

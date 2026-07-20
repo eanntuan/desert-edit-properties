@@ -144,7 +144,7 @@ layout: blog-post.njk
       "name": "Do you need to know how to surf to go to Palm Springs Surf Club?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The beginner Waikiki Wave session includes soft-top boards and structured coaching. Most people stand up at least once during a first visit. Book your session in advance at palmspringssurfclub.com. Don't show up without a reservation and expect to get in on a weekend — walk-ins rarely succeed on Saturdays in peak season."
+        "text": "No. The beginner Waikiki Wave session includes soft-top boards and structured coaching. Most people stand up at least once during a first visit. Book your session in advance at palmspringssurfclub.com. Don't show up without a reservation and expect to get in on a weekend: walk-ins rarely succeed on Saturdays in peak season."
       }
     },
     {
@@ -160,7 +160,7 @@ layout: blog-post.njk
       "name": "How far in advance do I need to book Palm Springs Surf Club?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Weekend sessions during peak season (October through May) book out one to two weeks ahead. Book PSSC before anything else on your trip — it's the one item with a hard capacity limit. Weekdays and summer months have more availability, but morning slots still go fast. Full booking guidance: https://indigopalm.co/blog/palm-springs-surf-club/"
+        "text": "Weekend sessions during peak season (October through May) book out one to two weeks ahead. Book PSSC before anything else on your trip: it's the one item with a hard capacity limit. Weekdays and summer months have more availability, but morning slots still go fast. Full booking guidance: https://indigopalm.co/blog/palm-springs-surf-club/"
       }
     },
     {
@@ -221,7 +221,7 @@ layout: blog-post.njk
 <p>Generally open daily from 10am to 8pm, with seasonal variations. The on-site restaurant, Drifters, is open Thursday through Sunday: Thursday and Friday 11am-8pm, Saturday and Sunday 10am-8pm. Check <a href="https://palmspringssurfclub.com" target="_blank" rel="noopener">palmspringssurfclub.com</a> before your visit since hours shift by season.</p>
 
 <h3>Do you need to know how to surf to go to Palm Springs Surf Club?</h3>
-<p>No. The beginner Waikiki Wave session includes soft-top boards and structured coaching. Most people stand up at least once during a first visit. Book in advance at <a href="https://palmspringssurfclub.com" target="_blank" rel="noopener">palmspringssurfclub.com</a>. Don't show up without a reservation expecting to get in on a weekend — walk-ins rarely succeed in peak season.</p>
+<p>No. The beginner Waikiki Wave session includes soft-top boards and structured coaching. Most people stand up at least once during a first visit. Book in advance at <a href="https://palmspringssurfclub.com" target="_blank" rel="noopener">palmspringssurfclub.com</a>. Don't show up without a reservation expecting to get in on a weekend: walk-ins rarely succeed in peak season.</p>
 
 <h3>How far in advance do I need to book?</h3>
 <p>Weekend sessions during peak season (October through May) book out one to two weeks ahead. This is the one item on a Palm Springs trip with a hard capacity limit. Book PSSC before you finalize anything else. Weekdays and summer months have more flexibility, but morning sessions still go fast.</p>
