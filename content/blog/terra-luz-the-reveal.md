@@ -245,7 +245,7 @@ layout: blog-post.njk
       "name": "How far is Terra Luz from Coachella and Stagecoach?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Terra Luz is approximately two miles from Empire Polo Club in Indio, under five minutes by car in normal traffic. Festival exit windows can extend that, so most guests drive in early and rideshare back after late sets. Palm Springs is 25 minutes west on I-10."
+        "text": "Terra Luz is walking distance to the Empire Polo Club in Indio. Festival exit traffic on surrounding roads can still make a rideshare back after late sets the easier call. Palm Springs is 25 minutes west on I-10."
       }
     },
     {
@@ -272,7 +272,7 @@ layout: blog-post.njk
 
 
 <h4>How far is Terra Luz from Coachella and Stagecoach?</h4>
-<p>Terra Luz sits about two miles from Empire Polo Club in Indio, under five minutes by car in normal traffic. Festival exit windows on Monroe Street and Avenue 50 can stretch that, so most guests drive in early and rideshare back after late sets. Palm Springs is 25 minutes west on I-10 for a day trip between festival weekends.</p>
+<p>Terra Luz is walking distance to the Empire Polo Club in Indio. Festival exit traffic on Monroe Street and Avenue 50 is real, though, so most guests still rideshare back after late sets rather than fight it on foot in the dark. Palm Springs is 25 minutes west on I-10 for a day trip between festival weekends.</p>
 
 <h4>Is the pool heated, and what does it cost?</h4>
 <p>Pool heating is available at $75 per night, added at booking. Spring visitors for Coachella or Stagecoach typically add it for evening swims, since desert nights cool fast in April. Summer guests often skip it because ambient temperatures keep the water warm on their own. Beach robes for six and Studio McGee pool towels are included.</p>

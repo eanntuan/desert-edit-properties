@@ -64,10 +64,10 @@ layout: blog-post.njk
 
 <p>Let's be clear about one thing: your dog is not going to the festival. The Empire Polo Club doesn't allow pets, and a packed festival ground in desert heat is no place for a dog anyway.</p>
 
-<p>What dogs are great at is holding down the house while you're gone. Terra Luz is about eight minutes by car from the polo grounds, so you can head out for the day, leave your dog comfortable in a cool house with a fenced yard, and come back to a happy animal instead of a stressed one. That beats boarding your dog back home and missing them all weekend, and it beats the guilt of leaving them somewhere unfamiliar. The house is the easy part of the plan.</p>
+<p>What dogs are great at is holding down the house while you're gone. Terra Luz is walking distance to the polo grounds, so you can head out for the day, leave your dog comfortable in a cool house with a fenced yard, and come back to a happy animal instead of a stressed one. That beats boarding your dog back home and missing them all weekend, and it beats the guilt of leaving them somewhere unfamiliar. The house is the easy part of the plan.</p>
 
 <img src="/blog/images/terra-luz-exterior.webp" alt="Exterior of Terra Luz Cuban-inspired dog-friendly vacation rental near Coachella in Indio California" width="1024" height="1536" loading="lazy">
-<p class="image-caption">Terra Luz from the front. About eight minutes from the Empire Polo Club gates.</p>
+<p class="image-caption">Terra Luz from the front. Walking distance to the Empire Polo Club gates.</p>
 
 <h2>Frequently Asked Questions</h2>
 
@@ -150,7 +150,7 @@ layout: blog-post.njk
       "name": "Can I leave my dog alone at Terra Luz while I attend the festival?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Most guests with dogs use Terra Luz as home base while attending the festival. The backyard is fully fenced, the house has AC, and the drive from the Empire Polo Club is about eight minutes, making mid-day check-ins easy. It beats boarding or leaving your dog at home."
+        "text": "Yes. Most guests with dogs use Terra Luz as home base while attending the festival. The backyard is fully fenced, the house has AC, and Terra Luz is walking distance to the Empire Polo Club, making mid-day check-ins easy. It beats boarding or leaving your dog at home."
       }
     },
     {

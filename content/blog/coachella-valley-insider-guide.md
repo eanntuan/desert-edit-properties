@@ -88,7 +88,7 @@ relatedPosts:
 
 <p>And yes, these are the same grounds where Coachella and Stagecoach happen. During off-season, the fields are quiet. There's something cool about standing on the same grass where Beyoncé performed, hearing nothing but wind.</p>
 
-<p>If you're staying at <a href="/cozy-cactus/">The Cozy Cactus</a>, you're about 10 minutes from the polo grounds. Close enough to hear the bass during festival weekends if the wind's right.</p>
+<p>If you're staying at <a href="/cozy-cactus/">The Cozy Cactus</a>, you're walking distance to the polo grounds. Close enough to hear the bass during festival weekends if the wind's right.</p>
 
 <h2>The Salton Sea</h2>
 
@@ -129,7 +129,7 @@ relatedPosts:
 <img src="/blog/images/ps-mcm-neighborhood.webp" alt="Mid-century modern homes on a quiet Palm Springs street with tall palm trees and mountains" loading="lazy" width="800" height="533">
 <p class="image-caption">Palm Springs has the look. Indio has the price point and the proximity to everything.</p>
 
-<p>I'm biased, but Indio is the sweet spot. Central to everything. Joshua Tree to the north, Salton Sea to the south, Palm Springs to the west. You're 10-15 minutes from the polo grounds, close to the best date farms, and away from the Palm Springs markup.</p>
+<p>I'm biased, but Indio is the sweet spot. Central to everything. Joshua Tree to the north, Salton Sea to the south, Palm Springs to the west. Stay in Indian Palms and you're walking distance to the polo grounds, close to the best date farms, and away from the Palm Springs markup.</p>
 
 <img src="/blog/images/cozy-cactus-living-room.webp" alt="Bright open living room at The Cozy Cactus vacation rental in Indio CA, grey sofas, kilim rug, foosball table, mid-century design" loading="lazy" width="800" height="533">
 <p class="image-caption">The living room at The Cozy Cactus: foosball, a kilim rug, and light that makes you want to stay in.</p>

@@ -42,11 +42,11 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz pool and backyard in Indio California with outdoor lounge furniture and Kahlo blue pool at sunset" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The patio at golden hour. Most guests don't leave until they have to.</p>
 
-<p>For festival weekends specifically: the drive from Indian Palms to the Empire Polo Club gate is about eight minutes by car. Some guests walk or bike it (1.5 miles to the festival gate via Eisenhower Drive, around 19 minutes on foot). During Coachella and Stagecoach, golf cart rides run through the community. Worth knowing before you shell out for parking.</p>
+<p>For festival weekends specifically: Terra Luz is walking distance to the Empire Polo Club gate. Some guests walk or bike it (1.5 miles to the festival gate via Eisenhower Drive, around 19 minutes on foot). During Coachella and Stagecoach, golf cart rides run through the community. Worth knowing before you shell out for parking.</p>
 
 <h2>Where to Eat in Indio</h2>
 
-<p>The honest answer is that the best food in Indio skews casual and Latin, and the best spots look like nothing from the outside. This works in your favor if you're not expecting white tablecloths.</p>
+<p>The best food in Indio skews casual and Latin, and the best spots look like nothing from the outside. This works in your favor if you're not expecting white tablecloths.</p>
 
 <h3>Breakfast and Coffee</h3>
 

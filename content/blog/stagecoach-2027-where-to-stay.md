@@ -78,7 +78,7 @@ faqItems:
 
 <p>The two variables that matter most for a Stagecoach rental:</p>
 
-<p><strong>Distance from the polo grounds.</strong> 7-10 minutes means you can go back to the house mid-day to rest or recharge during the heat of the afternoon. 30+ minutes means you're committing to long days in the sun. Our two Indio properties, <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a>, are both 7-10 minutes from the Empire Polo Club with no freeway. That proximity becomes meaningful by day two.</p>
+<p><strong>Distance from the polo grounds.</strong> Walking distance means you can go back to the house mid-day to rest or recharge during the heat of the afternoon. 30+ minutes means you're committing to long days in the sun. Our two Indio properties, <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a>, are both walking distance to the Empire Polo Club. That proximity becomes meaningful by day two.</p>
 
 <p><strong>Outdoor space.</strong> Late April evenings in the Coachella Valley are genuinely beautiful: low 60s, light breeze, the kind of weather you want to be outside in. A house with a backyard and a hot tub or private pool makes those hours count.</p>
 
@@ -112,7 +112,7 @@ faqItems:
 
 <h2>Getting to the Festival</h2>
 
-<p>From Indio rentals within the Indian Palms neighborhood, you can rideshare or drive and park. Festival parking at the Empire Polo Club runs $30-50 per day. Rideshare surge is less dramatic than Coachella weekend (the crowd is smaller) but post-headliner pickup still involves a wait. Driving yourself and parking mid-day, then ridesharing back at the end of the night when everyone leaves at once, is often the smoothest split.</p>
+<p>From Indio rentals within the Indian Palms neighborhood, you can walk to the grounds. If you're staying elsewhere, you'll rideshare or drive and park. Festival parking at the Empire Polo Club runs $30-50 per day. Rideshare surge is less dramatic than Coachella weekend (the crowd is smaller) but post-headliner pickup still involves a wait. Driving yourself and parking mid-day, then ridesharing back at the end of the night when everyone leaves at once, is often the smoothest split.</p>
 
 <p>For everything else about the area: the <a href="/blog/things-to-do-indio-ca/">Indio local guide</a> covers where to eat and what to do when you're not at the festival. <a href="https://onestoptacoshop.com/" target="_blank" rel="noopener noreferrer"><strong>One Stop Taco Shop</strong></a> is 10 minutes from the grounds and you should go for lunch on the day you arrive. That part is non-negotiable.</p>
 
