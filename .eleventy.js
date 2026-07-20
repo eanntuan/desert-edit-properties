@@ -4,38 +4,43 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
 
+  const isRealPost = (post) => post.data.layout !== "redirect.njk";
+
   eleventyConfig.addCollection("post", (collectionApi) =>
     collectionApi
       .getFilteredByGlob("content/blog/*.md")
+      .filter(isRealPost)
       .sort((a, b) => a.date - b.date)
   );
 
   eleventyConfig.addCollection("postTerraLuz", (collectionApi) =>
     collectionApi
       .getFilteredByGlob("content/blog/*.md")
-      .filter((post) => post.data.property === "terra-luz")
+      .filter((post) => isRealPost(post) && post.data.property === "terra-luz")
       .sort((a, b) => a.date - b.date)
   );
 
   eleventyConfig.addCollection("postCozyCactus", (collectionApi) =>
     collectionApi
       .getFilteredByGlob("content/blog/*.md")
-      .filter((post) => post.data.property === "cozy-cactus")
+      .filter((post) => isRealPost(post) && post.data.property === "cozy-cactus")
       .sort((a, b) => a.date - b.date)
   );
 
   eleventyConfig.addCollection("postSundune", (collectionApi) =>
     collectionApi
       .getFilteredByGlob("content/blog/*.md")
-      .filter((post) => ["ps-retreat", "the-sundune"].includes(post.data.property))
+      .filter((post) => isRealPost(post) && ["ps-retreat", "the-sundune"].includes(post.data.property))
       .sort((a, b) => a.date - b.date)
   );
 
   eleventyConfig.addCollection("postGeneral", (collectionApi) =>
     collectionApi
       .getFilteredByGlob("content/blog/*.md")
-      .filter((post) =>
-        !post.data.property || ["all", "indio-properties"].includes(post.data.property)
+      .filter(
+        (post) =>
+          isRealPost(post) &&
+          (!post.data.property || ["all", "indio-properties"].includes(post.data.property))
       )
       .sort((a, b) => a.date - b.date)
   );

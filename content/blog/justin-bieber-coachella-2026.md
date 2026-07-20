@@ -46,7 +46,7 @@ layout: blog-post.njk
 
 <p>The same thing happens with where you sleep. Staying in Indio versus staying in Palm Springs is not a minor logistical footnote. It's the whole shape of your festival day.</p>
 
-<p>Palm Springs is 25-30 miles west of the polo grounds. On a normal day that's 35 minutes. On a Coachella weekend Saturday at 5pm, it can be 90. So if you're planning to go back to your rental mid-afternoon to avoid the peak heat, or shower before the headliner, or just not be trapped at the festival for 10 hours straight, Indio proximity matters a lot. Our two properties in <a href="/blog/indian-palms-vacation-rental/">Indio</a> are 7-10 minutes from the Empire Polo Club with no freeway. That 20 minutes you save twice a day adds up.</p>
+<p>Palm Springs is 25-30 miles west of the polo grounds. On a normal day that's 35 minutes. On a Coachella weekend Saturday at 5pm, it can be 90. So if you're planning to go back to your rental mid-afternoon to avoid the peak heat, or shower before the headliner, or just not be trapped at the festival for 10 hours straight, Indio proximity matters a lot. Our two properties in <a href="/blog/indian-palms-vacation-rental/">Indio</a> are walking distance to the Empire Polo Club, no freeway needed. That's real time saved twice a day.</p>
 
 <img src="/blog/images/festival-coachella-aerial.webp" alt="Aerial view of Coachella festival grounds at Empire Polo Club in Indio CA" width="1400" height="933" loading="lazy">
 
@@ -80,7 +80,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at Cozy Cactus vacation rental in Indio CA, minutes from Coachella" width="1400" height="933" loading="lazy">
 
-<p>The smartest move after a festival like this one is to lock in your housing before the tickets even go on sale. Every year I watch groups scramble for rentals in March because they waited until the lineup dropped. The houses closest to the polo grounds go first. If you want 7-10 minutes from the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> with a private pool or hot tub, <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both worth looking at now, before the May 1 ticket rush puts everyone in booking mode at the same time.</p>
+<p>The smartest move after a festival like this one is to lock in your housing before the tickets even go on sale. Every year I watch groups scramble for rentals in March because they waited until the lineup dropped. The houses closest to the polo grounds go first. If you want walking distance to the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> with a private pool or hot tub, <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both worth looking at now, before the May 1 ticket rush puts everyone in booking mode at the same time.</p>
 
 <p>Read the <a href="/blog/where-to-stay-coachella-2026/">full Coachella 2026 accommodation guide</a> for a breakdown of what's close, what it costs, and why Indio is the right base. And if you're figuring out what to do in the valley between festival weekends, the <a href="/blog/indio-between-coachella-weekends/">Indio between Coachella weekends guide</a> has you covered.</p>
 
@@ -183,7 +183,7 @@ layout: blog-post.njk
       "name": "What is the best neighborhood to stay in for Coachella, Indio or Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indio is the practical choice. Properties in the Indian Palms area sit 7-10 minutes from the Empire Polo Club without freeway driving, so you can return mid-day during peak heat or after late-night sets. Palm Springs is 25-30 miles west, and on a peak Saturday that commute can stretch past 90 minutes each way."
+        "text": "Indio is the practical choice. Properties in the Indian Palms area are walking distance to the Empire Polo Club, so you can return mid-day during peak heat or after late-night sets. Palm Springs is 25-30 miles west, and on a peak Saturday that commute can stretch past 90 minutes each way."
       }
     },
     {
@@ -208,7 +208,7 @@ layout: blog-post.njk
 
 
 <h4>What's the best neighborhood to stay in for Coachella: Indio or Palm Springs?</h4>
-<p>Indio is the practical choice for festival-goers. Properties in the Indian Palms area sit 7-10 minutes from the Empire Polo Club without freeway driving, which means you can actually use your rental mid-day during peak heat, shower before the headliner, and get back for late-night sets without a 90-minute traffic gamble each way. Palm Springs is 25-30 miles west and genuinely beautiful, but on a peak Saturday that commute can stretch well past an hour in each direction.</p>
+<p>Indio is the practical choice for festival-goers. Properties in the Indian Palms area are walking distance to the Empire Polo Club, which means you can actually use your rental mid-day during peak heat, shower before the headliner, and get back for late-night sets without a 90-minute traffic gamble each way. Palm Springs is 25-30 miles west and genuinely beautiful, but on a peak Saturday that commute can stretch well past an hour in each direction.</p>
 
 <h4>Is it too early to book Coachella 2027 housing right now?</h4>
 <p>No, and it's probably the right time. Indio rentals close to the polo grounds sell out in the weeks after May 1 ticket sales, often before the lineup is announced in January. Groups that wait until February or March when the hype peaks are typically choosing from what's left. Booking now at https://indigopalm.co means you get first pick of properties with private pools and the proximity that makes the weekend work logistically.</p>

@@ -150,7 +150,7 @@ Ranked by: search volume × commercial intent × achievability for a 4-month-old
 
 ~~**12. meta keywords tag on homepage**~~ ✅ **DONE** — Removed June 22.
 
-**13. Redirect stub posts appear as full items in the RSS feed** — Found 2026-07-20 while correcting TASK GSC-22. `where-to-stay-coachella-2026` (a noindex `redirectTo` stub, no real content) still shows up as a normal `<item>` in `blog/feed.xml` and `blog/feed-cozy-cactus.xml` with its own title/description/link, pointing readers and feed-reading crawlers at a page that immediately redirects. Likely the Eleventy feed template isn't filtering out posts with `layout: redirect.njk`. Low priority (feed subscribers are a tiny audience and the redirect still resolves fine), but worth a one-line filter in the feed template next time someone's in there. Not actioned this run, flagging for the next technical-SEO pass.
+~~**13. Redirect stub posts appear as full items in the RSS feed**~~ ✅ **DONE 2026-07-20** — Found while correcting TASK GSC-22. `where-to-stay-coachella-2026` and `bnp-paribas-open-vacation-rental-guide` (both `layout: redirect.njk` stubs, no real content) were showing up as normal `<item>` entries in all 5 feed templates. Fixed by adding an `isRealPost` filter (`post.data.layout !== "redirect.njk"`) to the `post`/`postTerraLuz`/`postCozyCactus`/`postSundune`/`postGeneral` collections in `.eleventy.js`. Rebuilt and verified via grep: both redirect stubs are now excluded from `feed.xml`, `feed-general.xml`, `feed-terra-luz.xml`, `feed-cozy-cactus.xml`, `feed-sundune.xml`, while real posts with similar slugs (e.g. `coachella-2027-where-to-stay`) still appear correctly.
 
 ---
 

@@ -78,7 +78,7 @@ layout: blog-post.njk
 
 <p><a href="/terra-luz/">Terra Luz</a> in Indio: private saltwater pool with a sun shelf, heated, fully enclosed backyard with a latching gate. Designed with a Latin/Cuban aesthetic, so the pool area feels like somewhere you'd actually want to spend a day, not just an afterthought. Dog-friendly with prior approval, which is exactly why the enclosed fence mattered when we designed it.</p>
 
-<p><a href="/the-sundune/">The Sundune</a> in Palm Springs: a second-floor condo with community pool access, balcony views overlooking the pool, and about 10 minutes to downtown Palm Springs. The community pool here is a different situation than a hotel pool — far fewer users, no posted hours closing you out at 10pm, more of a residents-only feel. The tradeoff for this one is location: Palm Springs proper means you're closer to the design hotels, restaurants, and midcentury architecture. Different energy than Indio.</p>
+<p><a href="/the-sundune/">The Sundune</a> in Palm Springs: a second-floor condo with community pool access, balcony views overlooking the pool, and about 10 minutes to downtown Palm Springs. The community pool here is a different situation than a hotel pool: far fewer users, no posted hours closing you out at 10pm, more of a residents-only feel. The tradeoff for this one is location: Palm Springs proper means you're closer to the design hotels, restaurants, and midcentury architecture. Different energy than Indio.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers, Desert Marigold umbrella, and terracotta deck in Indio California" width="1400" height="933" loading="lazy">
 <p class="image-caption">Terra Luz's saltwater pool. The enclosure was a deliberate design decision, not just an aesthetic one.</p>
@@ -123,7 +123,7 @@ layout: blog-post.njk
       "name": "What is the best vacation rental with a private pool near Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Cozy Cactus and Casa Moto are both in Indian Palms, Indio, within a few miles of the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds and has a community hot tub adjacent. Casa Moto has a saltwater pool with a sun shelf and is fully enclosed, making it a good option for guests with dogs or kids."
+        "text": "The Cozy Cactus and Casa Moto are both in Indian Palms, Indio, walking distance to the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds and has a community hot tub adjacent. Casa Moto has a saltwater pool with a sun shelf and is fully enclosed, making it a good option for guests with dogs or kids."
       }
     },
     {
@@ -157,7 +157,7 @@ layout: blog-post.njk
 <h2>Frequently Asked Questions</h2>
 
 <h3>What is the best vacation rental with a private pool near Coachella?</h3>
-<p>The Cozy Cactus and Terra Luz are both in Indian Palms, Indio, within a few miles of the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds and has a community hot tub adjacent. Terra Luz has a saltwater pool with a sun shelf and is fully enclosed, which makes it the better call for guests with dogs or young kids.</p>
+<p>The Cozy Cactus and Terra Luz are both in Indian Palms, Indio, walking distance to the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds and has a community hot tub adjacent. Terra Luz has a saltwater pool with a sun shelf and is fully enclosed, which makes it the better call for guests with dogs or young kids.</p>
 
 <h3>Do vacation rental pools in the Coachella Valley need to be heated in April?</h3>
 <p>Yes. April nights can drop into the low 50s, and an unheated pool is usable during the day but uncomfortably cold by evening. If you're coming for Coachella or Stagecoach, confirm the pool is heated and ask if there's an additional fee before you book.</p>
@@ -166,7 +166,7 @@ layout: blog-post.njk
 <p>A private pool is within the fenced perimeter of your rental: you control the hours, temperature (if heated), and who uses it. A community pool is a shared HOA amenity, available to other residents and guests too. Both get listed as "pool access." Private is what you actually want for most group trips.</p>
 
 <h3>When is the best time to rent a pool house in the Coachella Valley?</h3>
-<p>October and November are the best value: warm enough for the pool in the afternoon, cool enough to want the hot tub at night, and far less competition than festival season. April is the hardest month to find anything and the most expensive. If you have flexibility, fall is the honest answer.</p>
+<p>October and November are the best value: warm enough for the pool in the afternoon, cool enough to want the hot tub at night, and far less competition than festival season. April is the hardest month to find anything and the most expensive. If you have flexibility, fall is the better bet.</p>
 
 <script type="application/ld+json">
 {
@@ -178,7 +178,7 @@ layout: blog-post.njk
       "name": "What is the best vacation rental with a private pool near Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Cozy Cactus and Terra Luz are both in Indian Palms, Indio, within walking distance or a short drive of the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds and has a community hot tub adjacent. Terra Luz has a saltwater pool with a sun shelf and a fully enclosed backyard, making it the better option for guests with dogs or young kids. Book direct at indigopalm.co to skip the Airbnb service fee."
+        "text": "The Cozy Cactus and Terra Luz are both in Indian Palms, Indio, walking distance to the Empire Polo Club. Both have private heated pools. The Cozy Cactus is walking distance to the festival grounds and has a community hot tub adjacent. Terra Luz has a saltwater pool with a sun shelf and a fully enclosed backyard, making it the better option for guests with dogs or young kids. Book direct at indigopalm.co to skip the Airbnb service fee."
       }
     },
     {

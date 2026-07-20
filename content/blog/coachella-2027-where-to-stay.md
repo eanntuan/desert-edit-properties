@@ -77,7 +77,7 @@ relatedPosts:
 
 <p><strong>Kitchen that covers breakfast.</strong> Festival food is expensive and stadium coffee is an act of desperation. A kitchen with enough counter space and a real coffee setup saves real money and starts every day better. Stock up at a grocery store on arrival day before the crowds hit.</p>
 
-<img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at The Cozy Cactus vacation rental in Indio CA, 1.5 miles from Empire Polo Club Coachella grounds" width="1400" height="933" loading="lazy">
+<img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at The Cozy Cactus vacation rental in Indio CA, walking distance to Empire Polo Club Coachella grounds" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus backyard. Private hot tub, community pool through the back gate, and the Empire Polo Club is walking distance east. This is where festival weekends recover.</p>
 
 <h2>The Two Properties: What Each One Is</h2>

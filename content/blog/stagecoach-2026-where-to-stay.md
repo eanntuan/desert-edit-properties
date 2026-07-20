@@ -75,7 +75,7 @@ layout: blog-post.njk
 
 <p>Both of our Indio properties are in this neighborhood. The Cozy Cactus has a private hot tub, community pool steps away, and sleeps 8. Terra Luz (our newer renovation) has a private saltwater pool with a sun shelf, a covered patio, and also sleeps 8. Both are walking distance to the festival gates, about 19 minutes on foot via Eisenhower Drive.</p>
 
-<p class="cta-block">Booking for Stagecoach or a future festival weekend: <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both 7-10 minutes from the Empire Polo Club. Terra Luz has a private saltwater pool; Cozy Cactus has a private hot tub and community pool steps away. <a href="/cozy-cactus/">Check availability.</a></p>
+<p class="cta-block">Booking for Stagecoach or a future festival weekend: <a href="/cozy-cactus/">The Cozy Cactus</a> and <a href="/terra-luz/">Terra Luz</a> are both walking distance to the Empire Polo Club. Terra Luz has a private saltwater pool; Cozy Cactus has a private hot tub and community pool steps away. <a href="/cozy-cactus/">Check availability.</a></p>
 
 <h2>Camping vs. Staying Off-Site</h2>
 

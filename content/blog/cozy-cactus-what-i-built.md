@@ -208,7 +208,7 @@ layout: blog-post.njk
       "name": "Where is The Cozy Cactus relative to Coachella and Stagecoach?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Cozy Cactus is in Indio, about 8 minutes from the Empire Polo Club where both festivals are held. Most Palm Springs properties sit 30 minutes west, making Indio the closer and more practical base for festival stays."
+        "text": "The Cozy Cactus is in Indio, walking distance to the Empire Polo Club where both festivals are held. Most Palm Springs properties sit 30 minutes west, making Indio the closer and more practical base for festival stays."
       }
     },
     {
@@ -230,7 +230,7 @@ layout: blog-post.njk
 <p>The pool is a community pool shared with other residents in the neighborhood, not a private backyard pool. It's maintained consistently and included with the stay. The house also has a private yard separate from the pool area, which gives families a contained outdoor space on top of the pool access.</p>
 
 <h4>Where exactly is The Cozy Cactus relative to Coachella and Stagecoach?</h4>
-<p>The Cozy Cactus is in Indio, about 8 minutes from the Empire Polo Club where both festivals take place. For festival stays, this is closer than most Palm Springs properties, which sit 30 minutes west. That proximity matters for mid-day retreats and late checkout logistics, especially for families with kids on a schedule.</p>
+<p>The Cozy Cactus is in Indio, walking distance to the Empire Polo Club where both festivals take place. For festival stays, this beats every Palm Springs property, which sit 30 minutes west. That proximity matters for mid-day retreats and late checkout logistics, especially for families with kids on a schedule.</p>
 
 <h4>Can I book The Cozy Cactus without going through Airbnb?</h4>
 <p>Yes. The Cozy Cactus books direct at <a href="https://indigopalm.co/cozy-cactus/">indigopalm.co/cozy-cactus</a>, which skips the Airbnb service fee. On a multi-night stay that difference adds up to a meaningful amount on the same property at the same nightly rate.</p>

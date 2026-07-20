@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>Coachella Valley Travel Guides — Indigo Palm Collective</title>
+    <title>Coachella Valley Travel Guides: Indigo Palm Collective</title>
     <link>https://indigopalm.co/blog/</link>
     <atom:link href="https://indigopalm.co/blog/feed-general.xml" rel="self" type="application/rss+xml"/>
     <description>General Coachella Valley travel guides and hosting stories not tied to a single property.</description>
@@ -64,7 +64,7 @@
         <enclosure url="https://indigopalm.co/blog/images/terra-luz-kitchen-hero.webp" type="image/webp"/>
     </item>
     <item>
-        <title>4 Indigo Palm Vacation Rentals — Which One Is Yours?</title>
+        <title>4 Indigo Palm Vacation Rentals: Which One Is Yours?</title>
         <link>https://indigopalm.co/blog/indigo-palm-properties/</link>
         <guid>https://indigopalm.co/blog/indigo-palm-properties/</guid>
         <pubDate>2026-07-02T00:00:00Z</pubDate>
@@ -86,14 +86,6 @@
         <pubDate>2026-06-16T00:00:00Z</pubDate>
         <description>Skip the shuttle math. A private Indio home with a pool, 5 minutes from the gates on foot, sleeps 8, no rideshare surge pricing for Coachella 2027.</description>
         <enclosure url="https://indigopalm.co/blog/images/festival-coachella-aerial.webp" type="image/webp"/>
-    </item>
-    <item>
-        <title>BNP Paribas Open Vacation Rental Guide for 2027</title>
-        <link>https://indigopalm.co/blog/bnp-paribas-open-vacation-rental-guide/</link>
-        <guid>https://indigopalm.co/blog/bnp-paribas-open-vacation-rental-guide/</guid>
-        <pubDate>2026-05-27T00:00:00Z</pubDate>
-        <description>Finding a vacation rental for the BNP Paribas Open instead of an Indian Wells hotel. Indio as a quiet base 20 min from the venue, with private pools and kitchens.</description>
-        <enclosure url="https://indigopalm.co/blog/images/indian-wells-tennis-garden-aerial.webp" type="image/webp"/>
     </item>
     <item>
         <title>Desert Hot Springs Day Trip: 7 Mineral Pools Worth Visiting</title>

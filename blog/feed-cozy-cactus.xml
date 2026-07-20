@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>The Cozy Cactus — Indigo Palm Collective</title>
+    <title>The Cozy Cactus: Indigo Palm Collective</title>
     <link>https://indigopalm.co/blog/</link>
     <atom:link href="https://indigopalm.co/blog/feed-cozy-cactus.xml" rel="self" type="application/rss+xml"/>
     <description>Cozy Cactus property stories, family travel tips, and Coachella Valley travel guides.</description>
@@ -78,14 +78,6 @@
         <pubDate>2025-12-01T00:00:00Z</pubDate>
         <description>How I bought my first vacation rental in Indio, CA on Easter 2022 with zero experience, a line of credit, and way too many Facebook Marketplace trips.</description>
         <enclosure url="https://indigopalm.co/blog/images/cozy-cactus-origin-hero.webp" type="image/webp"/>
-    </item>
-    <item>
-        <title>Where to Stay for Coachella 2026: The Honest Rental Guide</title>
-        <link>https://indigopalm.co/blog/where-to-stay-coachella-2026/</link>
-        <guid>https://indigopalm.co/blog/where-to-stay-coachella-2026/</guid>
-        <pubDate>2025-11-28T00:00:00Z</pubDate>
-        <description>Vacation rental, hotel, or camping for Coachella? The polo grounds are in Indio. Here&#39;s what&#39;s close, what it costs, and what to book first.</description>
-        <enclosure url="https://indigopalm.co/blog/images/festival-concert-night.webp" type="image/webp"/>
     </item>
     <item>
         <title>Cozy Cactus: How a Blank Canvas Became a Family Sanctuary</title>
