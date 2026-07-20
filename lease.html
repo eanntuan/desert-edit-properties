@@ -205,7 +205,7 @@
                             <label for="signature">Your Full Name (as signature)</label>
                             <input type="text" id="signature" placeholder="Type your full name" autocomplete="name">
                         </div>
-                        <button class="btn-sign" id="sign-btn">I Agree — Sign Agreement</button>
+                        <button class="btn-sign" id="sign-btn">I Agree: Sign Agreement</button>
                         <div id="sign-status"></div>
                     </div>
                 `}
@@ -242,12 +242,12 @@
                         } else {
                             statusDiv.innerHTML = `<div class="status-box error">${data.error || 'Something went wrong.'}</div>`;
                             btn.disabled = false;
-                            btn.textContent = 'I Agree — Sign Agreement';
+                            btn.textContent = 'I Agree: Sign Agreement';
                         }
                     } catch (e) {
                         statusDiv.innerHTML = `<div class="status-box error">Network error. Try again.</div>`;
                         btn.disabled = false;
-                        btn.textContent = 'I Agree — Sign Agreement';
+                        btn.textContent = 'I Agree: Sign Agreement';
                     }
                 });
             }

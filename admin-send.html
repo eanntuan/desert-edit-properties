@@ -208,10 +208,10 @@
                 <label for="property">Property<span class="required-star">*</span></label>
                 <select id="property">
                     <option value="">Select a property...</option>
-                    <option value="cozy-cactus">The Cozy Cactus — Indio, CA</option>
-                    <option value="casa-moto">Casa Moto — Indio, CA</option>
-                    <option value="ps-retreat">PS Retreat — Palm Springs, CA</option>
-                    <option value="the-well">The Well — Palm Springs, CA</option>
+                    <option value="cozy-cactus">The Cozy Cactus, Indio, CA</option>
+                    <option value="casa-moto">Casa Moto, Indio, CA</option>
+                    <option value="ps-retreat">PS Retreat, Palm Springs, CA</option>
+                    <option value="the-well">The Well, Palm Springs, CA</option>
                 </select>
             </div>
 
@@ -251,7 +251,7 @@
 
             <div class="form-group">
                 <label for="notes">Note to Guest (optional)</label>
-                <textarea id="notes" placeholder="Anything specific to include — early check-in, special arrangements, etc."></textarea>
+                <textarea id="notes" placeholder="Anything specific to include: early check-in, special arrangements, etc."></textarea>
             </div>
         </div>
 
@@ -306,8 +306,8 @@
             const firstName = name.split(' ')[0];
 
             content.innerHTML = `
-                <strong>To:</strong> ${document.getElementById('guest-email').value || '—'}<br>
-                <strong>Subject:</strong> You're booked — ${PROPERTY_NAMES[property]}<br><br>
+                <strong>To:</strong> ${document.getElementById('guest-email').value || 'N/A'}<br>
+                <strong>Subject:</strong> You're booked: ${PROPERTY_NAMES[property]}<br><br>
                 Hi ${firstName}, payment received. Your stay at <strong>${PROPERTY_NAMES[property]}</strong> is locked in.<br><br>
                 <strong>Check-in:</strong> ${fmtDate(checkIn)}<br>
                 <strong>Check-out:</strong> ${fmtDate(checkOut)}<br>
