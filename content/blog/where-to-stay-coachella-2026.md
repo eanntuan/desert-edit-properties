@@ -1,9 +1,9 @@
 ---
-title: "Where to Stay for Coachella 2026: The Honest Rental Guide"
+title: "Coachella 2026 Lodging: What Actually Books Out First"
 date: 2025-11-28
-dateModified: 2026-02-04
+dateModified: 2026-07-20
 redirectTo: /blog/where-to-stay-coachella/
-metaDescription: "Vacation rental, hotel, or camping for Coachella? The polo grounds are in Indio. Here's what's close, what it costs, and what to book first."
+metaDescription: "Camping, hotels, and rentals for Coachella 2026, ranked by what sells out first. I own two rentals near the polo grounds and skip the padded lists."
 ogImage: /blog/images/festival-concert-night.webp
 heroImage: /blog/images/festival-concert-night.webp
 heroAlt: "Festival concert stage at night with crowd at Coachella Valley Music and Arts Festival"
