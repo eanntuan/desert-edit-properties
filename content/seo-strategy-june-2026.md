@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** July 2, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** July 21, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -1796,3 +1796,48 @@ No new `news@palmspringslife.com` emails since the single 7/18 item already revi
 ### Hero Image Audit — 2026-07-20
 
 No full pass run. Last full inventory pass was 2026-07-13 (7 days ago, inside the 30-day window). No new blog posts or re-imaged pages published since 7/18, so nothing new to re-check. Next full pass due on/after 2026-08-12.
+
+---
+
+### New from Rachel — 2026-07-21
+
+RSS feed (`heraiempire.substack.com/feed`) checked. The 3 newest posts are all already processed: `the-fable-prompt-pack-11-prompts` (RG-20/21), `how-i-hit-1-million-facebook-views` (RG-19), `i-taught-a-3-hour-ai-bootcamp-and` (RG-18). No new posts since 2026-07-11. Nothing to synthesize this run.
+
+### What changed on 2026-07-21 — GSC Check-in (BLOCKED, same scope issue)
+
+**Status:** Still blocked, unchanged from 7/13 through 7/20. `gsc_report.py` fails with `403 insufficientPermissions — "Request had insufficient authentication scopes."`
+
+**Root cause confirmed this run (inspected the credentials file directly):** `~/.claude/google_credentials.json` lists 10 scopes (gmail readonly/send/modify, documents, spreadsheets, drive, presentations, calendar readonly/events, tasks) but **not** the Search Console `webmasters`/`webmasters.readonly` scope. `gsc_report.py` builds its token from `data["scopes"]`, so the searchconsole API rejects it. `/tmp/reauth_google_full.py` exists this session, but it reuses `existing.get("scopes") or DEFAULT_SCOPES`, and `DEFAULT_SCOPES` in `credential_providers.py` also omits webmasters — so running reauth as-is would re-consent with the same 10 scopes and NOT fix the missing scope. This is a scope-config problem, not a token-expiry problem, and not a background-run-safe fix.
+
+**Action needed from Eann:** add `https://www.googleapis.com/auth/webmasters.readonly` to `DEFAULT_SCOPES` (and/or the credentials file's scope list), then run a fresh interactive OAuth consent on your machine so the new token carries the Search Console scope. Until then GSC pulls stay blocked. Flagged per the skill's stopping condition (access only Eann has) rather than editing the shared Google credential pipeline blind in an autonomous run.
+
+### Pinterest Check-in — 2026-07-21 (LIVE API pull — new data this run)
+
+**Live pull:** `pinterest-publisher/scripts/get_analytics.py --account --days 30` (2026-06-21 to 2026-07-21):
+- Impressions: 38,140
+- Pin clicks: 254
+- Outbound clicks: 231
+- Saves: 3
+
+**Critical caveat:** account totals blend the ongoing paid Performance+/Idea Ad campaign (~$200/mo since 2026-05-05) with organic. **38,140 is NOT the "monthly viewers" metric** the 25-30K link-switch threshold is based on. Monthly viewers remains unknown — last real figure ~20K (June 3 screenshot, now 48 days stale).
+
+**Signal:** 231 outbound clicks against only 3 saves = the traffic is largely paid-click-driven with a weak organic save signal. Saves are the highest-intent Pinterest metric, so 3 in 30 days says the organic pin library still isn't earning discovery on its own.
+
+**Link status:** Airbnb. Threshold not confirmed hit — do not switch links off Airbnb without a direct Pinterest Analytics monthly-viewers login confirming ≥25K.
+
+**Action items:** 7th consecutive check-in flagging the missing monthly-viewers number (Eann, ~2-min manual login). Paid-ad UTM misattribution (tagged `organic` instead of `cpc`/`paid`) from the 7/13 check-in still open — Eann, manual in Pinterest Business Hub.
+
+### GA4 Check-in — 2026-07-21 (stale export, not re-logged)
+
+`~/Downloads/Reports_snapshot.csv` still carries the Jul 11 mtime (period 2026-06-13 to 2026-07-10) — same export analyzed every run 7/13 through 7/20. Not re-analyzing a seventh time. Standing open findings carry forward: Cozy Cactus property page 83.3% bounce (RG-21's above-the-fold fix shipped 2026-07-13, but this pre-7/13 export can't measure its effect yet — need a fresh export to see if it worked), and the Sundune visibility gap (12 views vs. Cozy Cactus 160 / Terra Luz 29). Pending Eann's next fresh GA4 export.
+
+### PSL Newsletter Inspo — 2026-07-21 (1 new post drafted)
+
+Three new `news@palmspringslife.com` emails since 7/20:
+- **"Six Experts on the Rise of Desert Modernism"** (7/21) — architecture thought-leadership, already covered by `palm-springs-midcentury-architecture.md`; teaser-only, no extractable facts. **Declined.**
+- **"Join Us at the Architectural Preservation Awards"** (7/20) — Oct 10 event promo, niche/seasonal, not a Coachella Valley travel/dining topic gap. **Declined.**
+- **"7 Game Night and Trivia Spots in the Coachella Valley"** (7/20) — genuine new topic, **no existing post** covered it. Verified enough independently-sourceable venue facts via WebSearch (PSL's own tabletop guide, Yelp 2026, Eventbrite, Coachella Valley Weekly, VisitPalmSprings) to write honestly. **Wrote a new post from scratch in Eann's voice** (nothing copied from PSL's phrasing; all days/times framed "as of 2026, call ahead"). Published `/blog/game-night-trivia-coachella-valley/` — 1,679 words, 4 images (all reused existing audited WebPs), BlogPosting + BreadcrumbList + FAQPage schema, organized city-by-city (Palm Springs / Cathedral City / Desert Hot Springs / Palm Desert). Internal links to `/cozy-cactus/`, `/terra-luz/`, `/things-to-do-indio-ca/`, `/blog/palm-springs-bars/`. Blog card + sitemap updated, `npm run build` clean.
+
+### Hero Image Audit — 2026-07-21
+
+No full pass. Last full inventory 2026-07-13 (8 days, inside 30-day window). One new post published today (`game-night-trivia-coachella-valley`); its hero reuses `palm-springs-bar-cocktails.webp`, an already-audited existing WebP, so no new crop check needed. Next full pass due on/after 2026-08-12.
