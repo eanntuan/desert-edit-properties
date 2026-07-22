@@ -1882,3 +1882,19 @@ No full pass. Last full inventory 2026-07-13 (8 days, inside 30-day window). One
 ~~**TASK GSC-23: Rewrite idyllwild-day-trip-palm-springs title/meta**~~ ✅ **DONE 2026-07-22** — Title changed from "Idyllwild Day Trip from Palm Springs: A Hiker's Guide" to "Idyllwild Day Trip: Cool Pine Escape from Palm Springs" (54 chars) — leads with the July-relevant cool-mountain-escape payoff instead of the generic "Hiker's Guide," keeps the "Idyllwild Day Trip" + "Palm Springs" keywords. Meta now opens with the temperature contrast ("An hour up the mountain, about 30 degrees cooler.") that matches summer search intent. Post was at pos 8.0 with 114 impr, 0.9% CTR. dateModified bumped to 2026-07-22.
 
 ~~**TASK GSC-24: Rewrite best-vacation-rentals-pool-coachella-valley title/meta**~~ ✅ **DONE 2026-07-22** — Title changed from generic listicle "Best Vacation Rentals with Pool in Coachella Valley" to "Coachella Valley Rentals with a Private Pool + Hot Tub" (54 chars) — adds the private-pool + hot-tub differentiator that generic OTA listicles at positions 1-7 don't lead with (accurate for the collection: Terra Luz private pool, Cozy Cactus private hot tub). Booking-intent page was at pos 8.3 with 70 impr and 0 clicks. Meta kept (already strong, book-direct angle). dateModified bumped to 2026-07-22.
+
+### Pinterest Check-in — 2026-07-22
+
+**Live pull** (`pinterest-publisher/scripts/get_analytics.py --account --days 30`, 2026-06-22 to 2026-07-22): 39,346 impressions, 256 pin clicks, 232 outbound clicks, **3 saves**. Essentially flat vs. the 7/21 pull (38,140 / 254 / 231 / 3) — one day of drift, no real change.
+
+**Monthly viewers:** Still unknown. Account impressions blend the ongoing paid Performance+/Idea Ad campaign (~$200/mo) with organic — 39,346 is NOT the "monthly viewers" metric the 25-30K link-switch threshold is based on. Last real monthly-viewers figure remains ~20K (June 3 screenshot, now 49 days stale). 8th consecutive check-in flagging this — a ~2-minute direct Pinterest Analytics login by Eann would close it.
+
+**Signal unchanged:** 232 outbound clicks against only 3 saves = traffic is paid-click-driven with a weak organic save signal. Saves are the highest-intent Pinterest metric; 3 in 30 days says the organic pin library still isn't earning discovery on its own.
+
+**Link status:** Airbnb. Threshold not confirmed hit — do not switch links off Airbnb without a direct monthly-viewers login confirming ≥25K.
+
+**Action items:** none auto-actionable (monthly-viewers pull + paid-ad UTM misattribution fix are both Eann's manual tasks in Pinterest Business Hub).
+
+### GA4 Check-in — 2026-07-22
+
+`~/Downloads/Reports_snapshot.csv` still carries the Jul 11 mtime (period 2026-06-13 to 2026-07-10) — the same stale export analyzed every run since 7/13. Not re-analyzing an eighth time. Standing open findings carry forward: Cozy Cactus property page 83.3% bounce (RG-21's above-the-fold fix shipped 2026-07-13 but this pre-fix export can't measure it — need a fresh export), Sundune visibility gap (12 views vs. Cozy Cactus 160 / Terra Luz 29), and Pinterest≈Google-organic parity on new-user acquisition. **Pending Eann's next fresh GA4 export.**
