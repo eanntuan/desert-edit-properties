@@ -251,6 +251,7 @@ For Pinterest: Eann schedules remaining pins at 4-5/day. At 5/day, 355 pins = 71
 - All 84 posts have FAQPage JSON-LD and `<h4>` FAQ sections
 - For new posts: run `/indigo-palm-geo-seeder` immediately after publishing
 - ✅ **DONE 2026-07-11** — ran on `best-spas-coachella-valley-spa-day` (FAQ/JSON-LD already existed from initial publish; generated 5 Quora Q&A pairs for Eann to post 2-3/day; added internal cross-link from `indio-between-coachella-weekends` to the new spa post)
+- ✅ **DONE 2026-07-22** — ran on the new `palm-springs-poolside-bars-resort-dining` post (published this run). FAQPage JSON-LD + on-site FAQ (4 Q&As) already present from initial publish, verified in built HTML. Generated 5 fresh Quora Q&A pairs (day-pass access, resort pools near Indio, public poolside restaurants, walk-in vs reservation, budget resort feeling) written to `/tmp/geo-seeder-poolside-bars-2026-07-22.md` — PENDING for Eann/Sabbir to post 2-3/day, never batch-drop. Same standing caveat as RG-20's audit finding: these pending pairs aren't tracked in a queue the Pinterest Check-in cross-references, so the "Quora Q&A live" count stays a manual estimate.
 
 **Goodreads ebooks (Sabbir's job, pending):**
 - Convert 3-5 highest-traffic posts to ebook format
@@ -1898,3 +1899,14 @@ No full pass. Last full inventory 2026-07-13 (8 days, inside 30-day window). One
 ### GA4 Check-in — 2026-07-22
 
 `~/Downloads/Reports_snapshot.csv` still carries the Jul 11 mtime (period 2026-06-13 to 2026-07-10) — the same stale export analyzed every run since 7/13. Not re-analyzing an eighth time. Standing open findings carry forward: Cozy Cactus property page 83.3% bounce (RG-21's above-the-fold fix shipped 2026-07-13 but this pre-fix export can't measure it — need a fresh export), Sundune visibility gap (12 views vs. Cozy Cactus 160 / Terra Luz 29), and Pinterest≈Google-organic parity on new-user acquisition. **Pending Eann's next fresh GA4 export.**
+
+### PSL Newsletter Inspo — 2026-07-22 (1 new post drafted)
+
+Three `news@palmspringslife.com` emails reviewed:
+- **"Six Experts on the Rise of Desert Modernism"** (7/21) — already reviewed and declined 7/21 (architecture thought-leadership, covered by `palm-springs-midcentury-architecture.md`). **Declined.**
+- **"Desert Cool, Delivered"** (7/21) — vintage-inspired retail/shop promo, not a Coachella Valley travel/dining topic. **Declined.**
+- **"18 Resort Restaurants & Poolside Bars for Summer"** (7/22) — genuine new topic (day-access resort/poolside dining for non-hotel-guests), **no existing post** covered it, seasonally hot. **Wrote a new post from scratch in Eann's voice.** PSL used as topic inspiration only — nothing copied; all six venues (Palm Canyon Swim & Social at ARRIVE, Ace Hotel Swim Club, The Colony Club at Colony Palms, Sol y Sombra at Paloma, H2O Pool Bar at Renaissance Esmeralda, The Barn Kitchen at Sparrows Lodge) independently researched via WebSearch, all times/menus framed "as of 2026, call ahead." Published `/blog/palm-springs-poolside-bars-resort-dining/` — ~1,400 words, 6 reused audited WebP images, BlogPosting + BreadcrumbList + FAQPage schema (4 Q&As), internal links to `/terra-luz/`, `/cozy-cactus/`, `/the-sundune/`, `/blog/best-restaurants-palm-springs/`, `/blog/palm-springs-bars/`, `/blog/palm-springs-heat-activities/`. Blog card + sitemap updated, `npm run build` clean. Committed `d6157e4`, deploy queued.
+
+### Hero Image Audit — 2026-07-22
+
+No full pass. Last full inventory 2026-07-13 (9 days, inside the 30-day window). One new post published this run (`palm-springs-poolside-bars-resort-dining`); its hero reuses `palm-springs-bar-cocktails.webp`, an already-audited existing WebP, so no new crop check needed. GSC-23/24 title/meta rewrites didn't touch hero images. Next full pass due on/after 2026-08-12.
