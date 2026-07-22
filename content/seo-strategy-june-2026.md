@@ -1607,6 +1607,13 @@ No immediate file edits from this audit — findings are process notes, folded i
 
 ---
 
+~~**TASK RG-22: Bake the "Carrie carousel" lessons into the social-carousel skill (added 2026-07-22)**~~ ✅ **DONE 2026-07-22** — New Rachel post "How to Make AI Automated Social Media Posts For Your Luxury Rental Property" (2026-07-21) is an expanded Instagram-carousel version of the RG-12 "Carrie" workflow. Most of its stack is paid/manual for Eann (Firecrawl scraping, Higgsfield/Nano Banana photo enhancement, Metricool/Buffer scheduling, manual slide review) so those stay flagged, not executed. Two lessons were genuinely actionable and free, so they were folded into `indigo-palm-social-carousel/SKILL.md`: (1) **CTA rule** — carousel CTAs now default to indigopalm.co direct booking (+ promo code when live) instead of "check us on Airbnb," matching the post's core thesis that owned social should route intent to a channel Eann controls, not deepen platform dependency (the delisting/$100K-in-48hrs cautionary tale); (2) **photo direction** — added a light-touch-only edit rule so directed enhancements (golden-hour skies, color pop) never tip into the fake "Play-Doh property" look that kills trust.
+
+**Flagged for Eann (paid/manual, not executed):** standing up the full auto-carousel pipeline (Firecrawl + Higgsfield + Metricool/Buffer) and a recurring Mon/Fri scheduled run that factors local weekly events. All require paid tool signups and manual Instagram posting — decide if the spend is worth it vs. the existing free carousel-script workflow.
+Source: `how-to-make-ai-automated-social-media`
+
+---
+
 ## PINTEREST PIN BATCH — 2026-07-13
 
 Generated 2026-07-13 for the two new PSL-inspired posts (not a full top-5 audit). 3 pins per post, 6 pins total.
@@ -1841,3 +1848,37 @@ Three new `news@palmspringslife.com` emails since 7/20:
 ### Hero Image Audit — 2026-07-21
 
 No full pass. Last full inventory 2026-07-13 (8 days, inside 30-day window). One new post published today (`game-night-trivia-coachella-valley`); its hero reuses `palm-springs-bar-cocktails.webp`, an already-audited existing WebP, so no new crop check needed. Next full pass due on/after 2026-08-12.
+
+---
+
+### What changed on 2026-07-22 — GSC Check-in (UNBLOCKED — first successful pull since 7/13)
+
+**Period:** 2026-04-23 to 2026-07-22 (90 days) vs. 2026-01-22 to 2026-04-22
+
+**Status:** The `webmasters.readonly` scope issue that blocked every GSC pull 7/13 through 7/21 was fixed and verified this session. This is the first real GSC data in 9 days.
+
+**Overall:** 250 clicks, 34,696 impressions, 0.7% CTR, avg position 12.6 (prior period: 34 clicks, 3,419 impressions — +216 clicks, +31,277 impressions). Consistent with the last clean pull on 7/20 (241 clicks, 34,101 impr) — steady compounding, no volatility, no drop from the 9-day blind window.
+
+**Device:** Mobile 171 clicks / 15,908 impr / 1.1% CTR / pos 8.9. Desktop 76 clicks / 18,511 impr / 0.4% CTR / pos 15.9. Same mobile-outperforms-desktop pattern as every prior pull.
+
+**What's working:** Same three winners holding: `/blog/palm-springs-surf-club/` (49 clicks, 9,392 impr, pos 9.2), `/blog/palm-springs-vs-indio/` (32 clicks, 6,314 impr, pos 7.9), `/blog/palm-springs-vs-scottsdale/` (31 clicks, 1,866 impr, 1.7% CTR, pos 8.0). All three have had multiple title/meta passes already; leaving them.
+
+**CTR opportunities (evaluated):**
+- `how far is indio from palm springs`: 972 impr, 2 clicks, pos 7.6 — reaffirmed non-actionable (SERP-answered-inline zero-click query, per 7/18-7/20 rulings). Not a rewrite target.
+- `airbnb rentals indio`: 102 impr, 0 clicks, pos 1.0 — 4th appearance, carried-forward open investigation (needs a query+page filtered GSC pull to diagnose SERP-feature vs. title-mismatch; standard report format can't cross-tab query to page). Still open, not closing.
+
+**Weak pages — new leads actioned this run:**
+- `/blog/idyllwild-day-trip-palm-springs/`: 114 impr, 1 click, pos 8.0 (100% of impr ≤ pos 20) — genuine new title/meta target, NOT previously ruled. Page-1 position with a buried hook. Rewrote (GSC-23).
+- `/blog/best-vacation-rentals-pool-coachella-valley/`: 70 impr, 0 clicks, pos 8.3 (100% of impr ≤ pos 20) — booking-intent money page at page-1 position with zero clicks, never touched before. Rewrote title/meta (GSC-24).
+
+**Weak pages — reaffirmed no-action (prior rulings hold):**
+- `where-to-stay-coachella-2026` (noindex redirect stub — nothing to rewrite, per 7/20 correction), `lax-to-palm-springs` (declined 7/18-7/19, position/authority not title), `best-pastries-palm-springs` (pos 11.9 but title already excellent/specific — authority issue, not title churn), and the content/authority-fix set (`things-to-do-indio-ca`, `best-restaurants-palm-springs`, `best-hiking-palm-springs`, `things-to-do-palm-desert`, `salton-sea-day-trip`, `pet-friendly-palm-springs`, `coachella-valley-food-guide`) — all need backlinks/content depth, not title/meta.
+
+**Action items generated:**
+1. ~~Rewrite `idyllwild-day-trip-palm-springs` title/meta~~ ✅ Done (GSC-23)
+2. ~~Rewrite `best-vacation-rentals-pool-coachella-valley` title/meta~~ ✅ Done (GSC-24)
+3. Measure CTR lift on GSC-23/24 at the next check-in ~7 days out (2026-07-29+); both were page-1 positions so lift should be visible faster than deep-position rewrites.
+
+~~**TASK GSC-23: Rewrite idyllwild-day-trip-palm-springs title/meta**~~ ✅ **DONE 2026-07-22** — Title changed from "Idyllwild Day Trip from Palm Springs: A Hiker's Guide" to "Idyllwild Day Trip: Cool Pine Escape from Palm Springs" (54 chars) — leads with the July-relevant cool-mountain-escape payoff instead of the generic "Hiker's Guide," keeps the "Idyllwild Day Trip" + "Palm Springs" keywords. Meta now opens with the temperature contrast ("An hour up the mountain, about 30 degrees cooler.") that matches summer search intent. Post was at pos 8.0 with 114 impr, 0.9% CTR. dateModified bumped to 2026-07-22.
+
+~~**TASK GSC-24: Rewrite best-vacation-rentals-pool-coachella-valley title/meta**~~ ✅ **DONE 2026-07-22** — Title changed from generic listicle "Best Vacation Rentals with Pool in Coachella Valley" to "Coachella Valley Rentals with a Private Pool + Hot Tub" (54 chars) — adds the private-pool + hot-tub differentiator that generic OTA listicles at positions 1-7 don't lead with (accurate for the collection: Terra Luz private pool, Cozy Cactus private hot tub). Booking-intent page was at pos 8.3 with 70 impr and 0 clicks. Meta kept (already strong, book-direct angle). dateModified bumped to 2026-07-22.

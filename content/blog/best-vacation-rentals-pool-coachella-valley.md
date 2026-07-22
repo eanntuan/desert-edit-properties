@@ -1,7 +1,7 @@
 ---
-title: "Best Vacation Rentals with Pool in Coachella Valley"
+title: "Coachella Valley Rentals with a Private Pool + Hot Tub"
 date: 2026-04-30
-dateModified: 2026-07-18
+dateModified: 2026-07-22
 metaDescription: "Which Coachella Valley rentals actually have a private pool, a hot tub, or a heated spa? The real breakdown by property, plus how to book direct."
 ogImage: /blog/images/cozy-cactus-pool-backyard.webp
 heroImage: /blog/images/cozy-cactus-pool-backyard.webp
