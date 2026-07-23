@@ -1,5 +1,5 @@
 # Indigo Palm Collective — SEO Strategy + 90-Day Playbook
-**Prepared:** June 18, 2026 | **Last updated:** July 21, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
+**Prepared:** June 18, 2026 | **Last updated:** July 23, 2026 (babysit-seo run) | Multi-agent audit (Google Search Console + Pinterest + Business Metrics)
 
 ---
 
@@ -106,7 +106,7 @@ Ranked by: search volume × commercial intent × achievability for a 4-month-old
 
 ~~**Gap 5: `/vacation-rentals/palm-springs/`**~~ ✅ **DONE** — Built June 22, 2026. The Sundune only, dusty blue accents, CollectionPage + BreadcrumbList + FAQPage JSON-LD.
 
-~~**Gap 6: `/vacation-rentals-with-private-pool/`**~~ ✅ **DONE** — Built June 22, 2026. All 3 properties with accurate pool descriptions (Cozy Cactus = hot tub + community pool; Terra Luz + Sundune = private pools).
+~~**Gap 6: `/vacation-rentals-with-private-pool/`**~~ ✅ **DONE** — Built June 22, 2026. **CORRECTED 2026-07-23:** The original build incorrectly claimed The Sundune has a "fully private pool" (it has a shared HOA pool at Palm Canyon Villas, never private). Fixed by dropping The Sundune from this page entirely — title, meta, OG/Twitter tags, JSON-LD (CollectionPage + FAQPage), hero copy, why-card, properties grid, and on-page FAQ all rewritten to cover only Terra Luz and Cozy Cactus (both Indio, both with a real private-pool-adjacent amenity). Same false claim also found and fixed on the dedicated `/vacation-rentals/palm-springs/` Sundune page (was built entirely around "private pool" framing — now says "community pool access" throughout) and in two blog posts (`palm-springs-with-kids.md`, `palm-springs-summer.md`) that misattributed a private pool to Cozy Cactus or to "Indio properties" collectively. All committed and pushed in `fecb150`.
 
 ~~**Gap 7: BNP Paribas existing post update**~~ ✅ **DONE** — Meta description updated to include "2027", dateModified bumped, deployed June 22. Reindexing requested in GSC June 22. Title already had "2027"; body dates were already generic. Check GSC July 13 to confirm indexed.
 
@@ -1910,3 +1910,51 @@ Three `news@palmspringslife.com` emails reviewed:
 ### Hero Image Audit — 2026-07-22
 
 No full pass. Last full inventory 2026-07-13 (9 days, inside the 30-day window). One new post published this run (`palm-springs-poolside-bars-resort-dining`); its hero reuses `palm-springs-bar-cocktails.webp`, an already-audited existing WebP, so no new crop check needed. GSC-23/24 title/meta rewrites didn't touch hero images. Next full pass due on/after 2026-08-12.
+
+---
+
+### What changed on 2026-07-23 — GSC Check-in
+
+**Period:** 2026-04-24 to 2026-07-23 (90 days) vs. 2026-01-23 to 2026-04-23
+
+**Overall:** 251 clicks, 34,954 impressions, 0.7% CTR, avg position 12.6 (prior period: 38 clicks, 3,723 impressions — +213 clicks, +31,231 impressions). Essentially flat vs. the 7/22 pull (250 clicks, 34,696 impr) — one day of drift, no volatility.
+
+**Device:** Mobile 174 clicks / 16,091 impr / 1.1% CTR / pos 8.8. Desktop 74 clicks / 18,584 impr / 0.4% CTR / pos 15.9. Tablet 3 clicks / 279 impr. Same mobile-outperforms-desktop pattern as every prior pull.
+
+**What's working:** Same three winners holding: `/blog/palm-springs-surf-club/` (49 clicks, 9,455 impr, pos 9.2), `/blog/palm-springs-vs-indio/` (31 clicks, 6,303 impr, pos 7.9), `/blog/palm-springs-vs-scottsdale/` (31 clicks, 1,920 impr, 1.6% CTR, pos 7.9). No new action — multiple passes already done on all three.
+
+**CTR opportunities (evaluated):**
+- `how far is indio from palm springs`: 954 impr, 1 click, pos 7.6 — reaffirmed non-actionable (SERP-answered-inline zero-click query, per 7/18-7/22 rulings).
+- `airbnb rentals indio`: 102 impr, 0 clicks, pos 1.0 — 5th appearance, carried-forward open investigation (needs a query+page filtered GSC pull the standard report can't produce). Still open, not closing.
+
+**Weak pages — no new actionable targets today:** The "Pages with Impressions but Low Clicks" table (15 pages) is unchanged in composition from 7/22: it's either the standing content/authority-fix bucket (`things-to-do-indio-ca`, `best-restaurants-palm-springs`, `best-hiking-palm-springs`, `things-to-do-palm-desert`, `salton-sea-day-trip`, `pet-friendly-palm-springs`, `coachella-valley-food-guide`, `bnp-paribas-indian-wells-where-to-stay`, `where-to-stay-coachella-2026`, `/blog/`, `/cozy-cactus/`, `palm-springs-aerial-tram`) or the two pages rewritten yesterday (`idyllwild-day-trip-palm-springs` GSC-23, `best-vacation-rentals-pool-coachella-valley` GSC-24, both still title/meta-flagged by the diagnostic but one day post-rewrite is too soon to re-touch or to measure lift). `lax-to-palm-springs` remains declined per 7/18-7/19 (authority, not title).
+
+**Action items generated:**
+1. None new. Hold GSC-23/GSC-24 lift measurement for the 2026-07-29+ check-in as planned 7/22.
+2. Continue tracking `airbnb rentals indio` (pos 1.0, 0 clicks, 5 consecutive appearances) — flag for Eann if it reaches 7+ appearances without resolution, since a query+page filtered pull would need either a different GSC export tool or manual Search Console UI access.
+
+### Pinterest Check-in — 2026-07-23
+
+**Live pull** (`pinterest-publisher/scripts/get_analytics.py --account --days 30`, 2026-06-23 to 2026-07-23): 39,556 impressions, 257 pin clicks, 232 outbound clicks, **3 saves**. Essentially flat vs. the 7/22 pull (39,346 / 256 / 232 / 3) — +210 impressions, +1 pin click, no real change.
+
+**Monthly viewers:** Still unknown. 9th consecutive check-in flagging this. Account-level impressions still blend the ~$200/mo paid Performance+ campaign with organic and are NOT the "monthly viewers" figure the 25-30K link-switch threshold is based on. Last real monthly-viewers figure remains ~20K (June 3 screenshot, now 50 days stale).
+
+**Signal unchanged:** 232 outbound clicks against only 3 saves — same paid-click-driven traffic pattern with a weak organic save signal as every prior check-in.
+
+**Link status:** Airbnb. Threshold not confirmed hit — do not switch links off Airbnb without a direct monthly-viewers login confirming ≥25K.
+
+**Action items:** none auto-actionable (monthly-viewers pull is Eann's manual task in Pinterest Business Hub).
+
+### GA4 Check-in — 2026-07-23
+
+`~/Downloads/Reports_snapshot.csv` still carries the Jul 11 mtime (period 2026-06-13 to 2026-07-10) — the same stale export analyzed every run since 7/13. Not re-analyzing a ninth time. Standing open findings carry forward unchanged: Cozy Cactus property page 83.3% bounce (pre-dates RG-21's 7/13 above-the-fold fix, can't measure the fix from this export), Sundune visibility gap (12 views vs. Cozy Cactus 160 / Terra Luz 29), and Pinterest≈Google-organic parity on new-user acquisition. **Pending Eann's next fresh GA4 export.**
+
+### PSL Newsletter Inspo — 2026-07-23 (1 new post drafted)
+
+Two `news@palmspringslife.com` emails reviewed:
+- **"Summer Savings Are Here: Save Up to $1,000 Off a New System"** (7/22, 2pm) — HVAC/plumbing retailer promo, no travel/dining/things-to-do angle. **Declined.**
+- **"The Guide Goes Online: Explore Greater Palm Springs City by City"** (7/23) — four story leads inside: (1) the online Guide launch itself — a directory product, not a topic; declined. (2) "Desert Dreamers 11: The Writers" — literary heritage piece, no direct guest-travel utility; declined. (3) "Snake Wrangler Educates Community" — human-interest, no Coachella Valley stay tie; declined. (4) La Quinta Resort & Club turns 100 — historic-resort anniversary, tangential but no unique angle beyond what "best restaurants Palm Desert" and existing itinerary posts already cover; declined for now, flagged as a possible future update to `palm-springs-3-day-itinerary.md` if a hook develops. (5) **"How to Spend a Day in Pioneertown"** — genuine new topic, **no existing post** covered Pioneertown/Pappy & Harriet's, and it fits the existing day-trip series pattern (`joshua-tree-day-trip-from-indio`, `desert-hot-springs-day-trip`, `salton-sea-day-trip`, `idyllwild-day-trip-palm-springs`) with a clear gap. **Wrote a new post from scratch in Eann's voice.** PSL used as topic inspiration only — nothing copied; all facts (founding year, Roy Rogers investor group, Mane Street historic-district status, Pappy & Harriet's ticketing policy, drive times) independently verified via WebSearch against Visit Pioneertown, Pappy & Harriet's official site, and Wikipedia. Published `/blog/pioneertown-day-trip-from-indio/` — hero image sourced from Visit Pioneertown's own site (not PSL's), two supporting images reused from the existing image library, BlogPosting + BreadcrumbList + FAQPage schema (5 Q&As), internal link to `/blog/joshua-tree-day-trip-from-indio/` (and a reciprocal link back). Sitemap updated, `npm run build` clean. Also recovered `desert-ridge-hike-valley-view.webp` into `content/blog/images/` — it existed only in the built `blog/images/` output and would have been silently deleted on the next clean build, which would have broken its use in `desert-hot-springs-day-trip.md` too. Committed `2f9dbeb`, pushed, deploy confirmed via `gh run list`.
+
+### Hero Image Audit — 2026-07-23
+
+No full pass. Last full inventory 2026-07-13 (10 days, inside the 30-day window). One new post published this run (`pioneertown-day-trip-from-indio`); its hero (`pioneertown-mane-street-sign.webp`, sourced fresh from Visit Pioneertown's site) is a new image, not a reused one — checked manually: 800x600, correctly declared in frontmatter and `<img>` width/height, no crop/stretch issues, loads lazy. GSC-23/24 rewrites and the Sundune-pool factual-accuracy fixes (see Part 4 Gap 6 correction) didn't touch hero images. Next full pass due on/after 2026-08-12.
