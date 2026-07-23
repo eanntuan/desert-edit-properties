@@ -99,7 +99,7 @@ layout: blog-post.njk
 
 <p>The walkability is the underrated part. Palm Canyon Drive is the main strip in Palm Springs, with restaurants, ice cream, shops, and enough foot traffic that kids don't need a car to have something to look at. You're not dependent on a car for every single thing.</p>
 
-<p>That's different from the Cozy Cactus, which is in Indio, built for bigger groups with a private pool and proximity to festival venues. The Sundune is smaller, more central, and better suited for a family that wants a downtown-adjacent base rather than a house to themselves.</p>
+<p>That's different from the Cozy Cactus, which is in Indio, built for bigger groups with a private hot tub, community pool access, and proximity to festival venues. The Sundune is smaller, more central, and better suited for a family that wants a downtown-adjacent base rather than a house to themselves.</p>
 
 <p>If you're deciding between the two properties for a family trip, the short version: <a href="/the-sundune/">The Sundune</a> for a family of 3-4 who want walkability and Palm Springs proper. <a href="/cozy-cactus/">The Cozy Cactus</a> for a larger group or families who want more space, a private hot tub, and Indio/festival proximity. For a deeper look at which neighborhood in Palm Springs works best for families, the <a href="/blog/palm-springs-neighborhood-guide/">neighborhood guide</a> has an honest breakdown of The Mesa and why families tend to end up there.</p>
 
