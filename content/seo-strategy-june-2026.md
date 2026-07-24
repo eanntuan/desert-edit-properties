@@ -1958,3 +1958,62 @@ Two `news@palmspringslife.com` emails reviewed:
 ### Hero Image Audit — 2026-07-23
 
 No full pass. Last full inventory 2026-07-13 (10 days, inside the 30-day window). One new post published this run (`pioneertown-day-trip-from-indio`); its hero (`pioneertown-mane-street-sign.webp`, sourced fresh from Visit Pioneertown's site) is a new image, not a reused one — checked manually: 800x600, correctly declared in frontmatter and `<img>` width/height, no crop/stretch issues, loads lazy. GSC-23/24 rewrites and the Sundune-pool factual-accuracy fixes (see Part 4 Gap 6 correction) didn't touch hero images. Next full pass due on/after 2026-08-12.
+
+---
+
+### New from Rachel — 2026-07-24
+
+RSS feed (`heraiempire.substack.com/feed`) checked. Newest post is still `how-to-make-ai-automated-social-media` (2026-07-21), already processed (spawned RG-22). No new posts since. Nothing to synthesize this run.
+
+### What changed on 2026-07-24 — GSC Check-in
+
+**Period:** 2026-04-25 to 2026-07-24 (90 days) vs. 2026-01-24 to 2026-04-24
+
+**Overall:** 255 clicks, 35,258 impressions, 0.7% CTR, avg position 12.6 (prior period: 40 clicks, 3,993 impressions — +215 clicks, +31,265 impressions). Essentially flat vs. the 7/23 pull (251 clicks, 34,954 impr) — one day of drift, no volatility.
+
+**Device:** Mobile 174 clicks / 16,286 impr / 1.1% CTR / pos 8.8. Desktop 78 clicks / 18,692 impr / 0.4% CTR / pos 15.9. Tablet 3 clicks / 280 impr, 1.1% CTR, pos 8.2. Same mobile-outperforms-desktop pattern as every prior pull.
+
+**What's working:** Same three winners holding: `/blog/palm-springs-surf-club/` (50 clicks, 9,505 impr, pos 9.2), `/blog/palm-springs-vs-scottsdale/` (33 clicks, 1,972 impr, 1.7% CTR, pos 7.9), `/blog/palm-springs-vs-indio/` (31 clicks, 6,301 impr, pos 7.9). No new action — multiple passes already done on all three.
+
+**CTR opportunities (evaluated):**
+- `how far is indio from palm springs`: 930 impr, 1 click, pos 7.5 — reaffirmed non-actionable (SERP-answered-inline zero-click query, per 7/18-7/23 rulings).
+- `airbnb rentals indio`: 102 impr, 0 clicks, pos 1.0 — 6th consecutive appearance, carried-forward open investigation. `gsc_report.py` has no query+page cross-tab flag (confirmed by reading `--help`), so the specific ranking page still can't be identified from this tool. Per the 7/23 plan: flag for Eann once this reaches 7+ appearances without resolution — one more consecutive appearance from that threshold, flagging now rather than waiting for exactly 7: **this needs either a filtered Search Console UI pull or a different tool; a 2-minute manual GSC login by Eann would close it.**
+
+**Weak pages — reviewed, no new actionable targets:**
+- `/blog/idyllwild-day-trip-palm-springs/` (GSC-23, rewritten 7/22): impressions up to 185 (from 114 pre-rewrite) at pos 8.1, still 1 click — too soon to judge CTR lift (2 days post-rewrite), holding per the 7/22 plan to measure at 7/29+.
+- `/blog/best-vacation-rentals-pool-coachella-valley/` (GSC-24, rewritten 7/18): 72 impr, 0 clicks, pos 8.3 — unchanged since rewrite, also holding for the 7/29+ measurement window.
+- `/blog/best-pastries-palm-springs/`: 72 impr, 1 click, pos 11.8 — the diagnostic flags this as a title/meta target (75% of impressions ≤ pos 20), but checked the live title/meta directly: "Best Pastries in Palm Springs: Specific Items Worth Seeking" is already specific and non-generic. Reaffirming the 7/22 ruling: authority/position issue, not a title problem. Declined.
+- `/blog/lax-to-palm-springs/`: 273 impr, 2 clicks, pos 14.6 (53.7% ≤ pos 20) — still **declined** per 7/18-7/23 rulings (position/authority problem, title already sharp).
+- Content/authority-fix bucket unchanged in composition from 7/22-7/23: `best-restaurants-palm-springs`, `things-to-do-indio-ca`, `things-to-do-palm-desert`, `pet-friendly-palm-springs`, `best-hiking-palm-springs`, `salton-sea-day-trip`, `bnp-paribas-indian-wells-where-to-stay`, `coachella-valley-food-guide`, `/blog/`, `/cozy-cactus/` — all need backlinks/content depth, not title/meta churn.
+
+**Action items generated:**
+1. Flag `airbnb rentals indio` (pos 1.0, 0 clicks, 102 impr, 6 consecutive appearances) for Eann — needs a filtered Search Console UI pull to identify the specific ranking page; the standard report tool structurally can't cross-tab query-to-page.
+2. Continue holding GSC-23/GSC-24 lift measurement for the 2026-07-29+ check-in as planned.
+
+### Pinterest Check-in — 2026-07-24
+
+**Live pull** (`pinterest-publisher/scripts/get_analytics.py --account --days 30`, 2026-06-24 to 2026-07-24): 38,715 impressions, 251 pin clicks, 226 outbound clicks, **3 saves**. Essentially flat vs. the 7/23 pull (39,556 / 257 / 232 / 3) — slight dip in impressions/clicks, within normal day-to-day drift, no real change.
+
+**Monthly viewers:** Still unknown. 10th consecutive check-in flagging this. Account-level impressions still blend the ~$200/mo paid Performance+ campaign with organic and are NOT the "monthly viewers" figure the 25-30K link-switch threshold is based on. Last real monthly-viewers figure remains ~20K (June 3 screenshot, now 51 days stale). Checked `sabbir_context.md` and memory for a fresher figure — none logged.
+
+**Signal unchanged:** 226 outbound clicks against only 3 saves — same paid-click-driven traffic pattern with a weak organic save signal as every prior check-in.
+
+**Link status:** Airbnb. Threshold not confirmed hit — do not switch links off Airbnb without a direct monthly-viewers login confirming ≥25K.
+
+**Action items:** none auto-actionable (monthly-viewers pull is Eann's manual task in Pinterest Business Hub; now 10 consecutive check-ins open on this single item).
+
+### GA4 Check-in — 2026-07-24
+
+`~/Downloads/Reports_snapshot.csv` still carries the Jul 11 mtime (period 2026-06-13 to 2026-07-10) — the same stale export analyzed every run since 7/13. Not re-analyzing a tenth time. Standing open findings carry forward unchanged: Cozy Cactus property page 83.3% bounce (pre-dates RG-21's 7/13 above-the-fold fix, can't measure the fix from this export), Sundune visibility gap (12 views vs. Cozy Cactus 160 / Terra Luz 29), and Pinterest≈Google-organic parity on new-user acquisition. **Pending Eann's next fresh GA4 export.**
+
+### PSL Newsletter Inspo — 2026-07-24
+
+Two new `news@palmspringslife.com` emails since the 7/23 check-in:
+- **"Share the World's Best with Someone You Love"** (7/23) — Rancho La Puerta named #1 International Wellness Retreat in Travel + Leisure's 2026 World's Best Awards. Rancho La Puerta is in Tecate, Baja California, Mexico — not the Coachella Valley, no travel-to-Indigo-Palm angle. **Declined** (out of geographic scope).
+- **"Does Sunshine Actually Benefit Health?"** (7/24) — general wellness digest (sunshine/health research, posture tips, cosmetic-surgery sponsor content); "8 places to relax" teaser has no venue names or facts in the email body itself, just a locked "READ MORE" link. No extractable, independently-verifiable facts and no genuine Coachella Valley travel gap distinct from the existing `palm-springs-heat-activities` post. **Declined** (no extractable content, would require visiting PSL's site to source facts, which defeats the inspo-not-copy model for a thin general-wellness topic).
+
+No new post or update warranted this run.
+
+### Hero Image Audit — 2026-07-24
+
+No full pass. Last full inventory 2026-07-13 (11 days, inside the 30-day window). No new blog posts published this run (both PSL candidates declined), so nothing new to re-check. Next full pass due on/after 2026-08-12.
