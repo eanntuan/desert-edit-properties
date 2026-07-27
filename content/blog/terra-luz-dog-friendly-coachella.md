@@ -24,7 +24,7 @@ layout: blog-post.njk
 
 <p>Search for a dog-friendly vacation rental near Coachella and you'll watch your options shrink fast. Plenty of desert homes have pools, plenty have space, and most of them quietly add "no pets" to the house rules. I get why. Tile cracks, yards aren't fenced, and one bad guest with a chewer turns into a policy for everyone after.</p>
 
-<p>Terra Luz says yes to dogs, and I want to be straight about why. I travel with my own dog, and I've spent enough nights in rentals that technically allowed pets but clearly weren't built for them. So when I set this place up with <a href="https://theolivejar.co" rel="noopener noreferrer">Dawn Asher at The Olive Jar</a>, dog-friendly wasn't a checkbox in the fine print, it was something the house actually had to earn.</p>
+<p>Terra Luz says yes to dogs, and I want to be straight about why. I travel with my own dog, and I've spent enough nights in rentals that technically allowed pets but clearly weren't built for them. So when I set this place up with <a href="https://theolivejar.co" rel="noopener noreferrer">Dawn Asher at The Olive Jar</a>, dog-friendly wasn't a checkbox in the fine print, it was something the house had to earn.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Fenced backyard and pool at dog-friendly Terra Luz vacation rental in Indio California" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The backyard at golden hour. The yard is enclosed, so your dog can be out there without anyone hovering at the door.</p>
@@ -40,7 +40,7 @@ layout: blog-post.njk
 
 <p>Then there's the pool. Some dogs love water and some want nothing to do with it, and either way Terra Luz works. If your dog is a swimmer, the pool has a sun shelf at the shallow end that makes getting in and out easy. If your dog would rather supervise from a lounger, there's shade for that too. I'd just ask that you towel off and keep an eye out the same way you would at home, since a wet dog and a tile floor is a combination we've all slipped on.</p>
 
-<p>The outdoor kitchen is built for the way people actually use this house, which is to say outside, most of the day, with the dog underfoot. You can grill dinner while your dog patrols the yard, and nobody has to choose between being social and watching the gate.</p>
+<p>The outdoor kitchen is built for the way people use this house, which is to say outside, most of the day, with the dog underfoot. You can grill dinner while your dog patrols the yard, and nobody has to choose between being social and watching the gate.</p>
 
 <img src="/blog/images/terra-luz-pool-floats.webp" alt="Terra Luz pool with floats at dog-friendly vacation rental with pool in Indio CA" width="1024" height="683" loading="lazy">
 <p class="image-caption">The pool has a sun shelf at the shallow end, which makes it easier for a swimming dog to get in and out.</p>
@@ -58,7 +58,7 @@ layout: blog-post.njk
 
 <p>The house sits inside Indian Palms Country Club, and the neighborhood roads are flat, quiet, and shaded enough in the early morning to make a real walk pleasant before the heat arrives. Most dog owners I host end up doing a loop around the community first thing, then again after sundown when the pavement has cooled off. Desert pavement gets brutally hot midday, so morning and evening are your windows.</p>
 
-<p>If you want more than a neighborhood loop, the foothill trails on the edge of the valley are dog-friendly on leash, and there are a handful of patios in the area where a well-behaved dog is welcome to sit alongside you. For the full rundown of where to eat and what to see, I keep an honest list in my <a href="/blog/terra-luz-indio-local-guide/">guest's guide to Indio</a>, and several of those spots work fine with a dog in tow.</p>
+<p>If you want more than a neighborhood loop, the foothill trails on the edge of the valley are dog-friendly on leash, and there are a handful of patios in the area where a well-behaved dog is welcome to sit alongside you. For the full rundown of where to eat and what to see, I keep a running list in my <a href="/blog/terra-luz-indio-local-guide/">guest's guide to Indio</a>, and several of those spots work fine with a dog in tow.</p>
 
 <h2>A Note on Coachella and Stagecoach</h2>
 

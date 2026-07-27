@@ -52,7 +52,7 @@ layout: blog-post.njk
 
 <p>The closest coffee worth driving to is Koffi, with a location in Palm Desert (about 15 minutes west). For something closer, the Starbucks in Indio gets the job done, but the better move on a slow morning is to use the Nespresso at the house and ease into it from the patio before the desert heats up.</p>
 
-<p>For breakfast, <strong>Guadalajara Restaurant</strong> on Miles Ave serves a solid eggs and chorizo situation. <strong>Tacos El Gordo</strong> (if you're up for the drive west toward Palm Springs) is the destination option that guests mention most often in reviews. Breakfast burritos in the Coachella Valley hit different when they're wrapped in a flour tortilla from an actual tortilleria.</p>
+<p>For breakfast, <strong>Guadalajara Restaurant</strong> on Miles Ave serves a solid eggs and chorizo situation. <strong>Tacos El Gordo</strong> (if you're up for the drive west toward Palm Springs) is the destination option that guests mention most often in reviews. Breakfast burritos in the Coachella Valley hit different when they're wrapped in a flour tortilla from a proper tortilleria.</p>
 
 <h3>Lunch and Dinner</h3>
 
@@ -69,9 +69,9 @@ layout: blog-post.njk
 
 <h3>The Polo Grounds (Empire Polo Club)</h3>
 
-<p>Even when Coachella and Stagecoach aren't happening, the Empire Polo Club grounds are worth knowing about. The club hosts polo matches on Sunday afternoons throughout the season (roughly October through May). Admission is free for general lawn attendance. Tailgating in the parking lot is the actual tradition: people drag out folding chairs and wine before the match even starts. If you've never watched polo live, it's more fun than it sounds.</p>
+<p>Even when Coachella and Stagecoach aren't happening, the Empire Polo Club grounds are worth knowing about. The club hosts polo matches on Sunday afternoons throughout the season (roughly October through May). Admission is free for general lawn attendance. Tailgating in the parking lot is the real tradition: people drag out folding chairs and wine before the match even starts. If you've never watched polo live, it's more fun than it sounds.</p>
 
-<p>For <a href="/blog/where-to-stay-coachella/">Coachella and Stagecoach weekends</a>, Terra Luz is walking distance from the festival gates. That's the entire reason the property exists in its current form, honestly. The outdoor space and sleeping capacity make festival stays work in a way a hotel room can't.</p>
+<p>For <a href="/blog/where-to-stay-coachella/">Coachella and Stagecoach weekends</a>, Terra Luz is walking distance from the festival gates. That's the entire reason the property exists in its current form. The outdoor space and sleeping capacity make festival stays work in a way a hotel room can't.</p>
 
 <h3>Date Farms</h3>
 
@@ -122,7 +122,7 @@ layout: blog-post.njk
 
 <p>Once you book, I send a full guest guide with current recommendations, gate access instructions, and any seasonal notes worth knowing. The list above is a starting point. The things I don't write down (which date vendor to stop at first, which parking lot has shorter lines on Coachella weekend, which restaurant is worth calling ahead for) I put in the guest guide once I know your dates.</p>
 
-<p>If you have questions about the area before booking, email me at indigopalmco@gmail.com. I'm happy to answer honestly, including when the honest answer is "you'd be better off at a different property for what you're planning."</p>
+<p>If you have questions about the area before booking, email me at indigopalmco@gmail.com. I'm happy to answer, including when the honest answer is "you'd be better off at a different property for what you're planning."</p>
 
 <p>Terra Luz books directly at <a href="/terra-luz/">indigopalm.co/terra-luz</a>. Direct bookings get a 10% return guest discount. No code needed on the second stay.</p>
 

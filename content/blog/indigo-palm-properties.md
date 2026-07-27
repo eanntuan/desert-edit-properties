@@ -23,7 +23,7 @@ excerpt: "Terra Luz, The Cozy Cactus, The Sundune. Three completely different de
 layout: blog-post.njk
 ---
 
-<p>People ask me all the time which property they should book. My honest answer: it depends on what your group actually wants when you're not performing vacation.</p>
+<p>People ask me all the time which property they should book. My honest answer: it depends on what your group wants when you're not performing vacation.</p>
 
 <p>Indigo Palm Collective has three short-term rental properties in the Coachella Valley, each one designed with a very specific kind of guest in mind. They are genuinely different from each other, not just aesthetically, but structurally. Who they sleep, what they're near, what the vibe feels like at 9pm when everyone's tired. If you read through this, you'll know which one is yours before you even check availability.</p>
 
@@ -43,13 +43,13 @@ layout: blog-post.njk
 
 <h2>The Cozy Cactus: Indio, CA</h2>
 
-<p><em>For families who need it to actually work, not just look good in photos.</em></p>
+<p><em>For families who need it to work, not just look good in photos.</em></p>
 
 <img src="/blog/images/cozy-cactus-backyard.webp" alt="Cozy Cactus vacation rental backyard in Indio California" loading="lazy" decoding="async" width="800" height="533">
 
 <p>The Cozy Cactus was the first Indigo Palm property, bought Easter Sunday 2022 after a Facebook Marketplace furniture chase through Culver City and Indio. It's a 3-bedroom house inside Indian Palms Country Club, which means a gated community, HOA manicured grounds, and access to golf, putting green, and the clubhouse.</p>
 
-<p>The design direction is mid-century desert meets "parents actually rest here." Every drawer is labeled. There's a Stokke high chair, a proper Pack 'n Play, a dedicated game room with foosball, board games, and a setup built for groups that include a six-year-old and a teenager in the same trip. There's a shared pool and a private hot tub. The backyard is enclosed. The layout keeps kids contained and adults comfortable.</p>
+<p>The design direction is mid-century desert meets "parents rest here." Every drawer is labeled. There's a Stokke high chair, a proper Pack 'n Play, a dedicated game room with foosball, board games, and a setup built for groups that include a six-year-old and a teenager in the same trip. There's a shared pool and a private hot tub. The backyard is enclosed. The layout keeps kids contained and adults comfortable.</p>
 
 <p>If someone in your group has been on a vacation rental trip where the baby had nowhere to sleep and the kitchen had two plates and no wine opener, this is the antidote. Also walking distance to the Empire Polo Club: the Coachella and Stagecoach festival grounds.</p>
 
@@ -77,7 +77,7 @@ layout: blog-post.njk
 
 <ul>
   <li><strong>Group of 6–8, wants a wow moment when you walk in:</strong> Terra Luz</li>
-  <li><strong>Family with kids under 10, needs it to actually be functional:</strong> The Cozy Cactus</li>
+  <li><strong>Family with kids under 10, needs it to be functional:</strong> The Cozy Cactus</li>
   <li><strong>2–4 people, want Palm Springs proper and walkability:</strong> The Sundune</li>
   <li><strong>Long-stay, slow pace, extended desert time:</strong> The Well</li>
 </ul>

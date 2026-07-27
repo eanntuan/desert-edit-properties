@@ -65,7 +65,7 @@ layout: blog-post.njk
 
 <p>If your kids are past the "please carry me" phase, this trail is worth the 25-minute drive to La Quinta. Bear Creek is a paved trail that runs through a protected nature preserve at the base of the Southern Santa Rosa Mountains. Stroller-friendly. Flat. Good mountain views the whole way.</p>
 
-<p>It's the kind of "hike" where you actually feel like you're outside without committing to a real hike. That balance is hard to find.</p>
+<p>It's the kind of "hike" where you feel like you're outside without committing to a real hike. That balance is hard to find.</p>
 
 <h3>Palm Springs Aerial Tram</h3>
 
@@ -122,7 +122,7 @@ layout: blog-post.njk
 
 <p>Palm Springs is not a theme park trip. There's no single anchoring attraction that fills 8 hours by itself. What it is: a place with genuinely good weather, walkable streets, some specific activities that kids remember, and a pace that adults don't completely resent.</p>
 
-<p>The families who leave happiest are the ones who came in knowing that. They picked two or three actual things to do each day, built in pool time, and didn't try to turn it into Disneyland.</p>
+<p>The families who leave happiest are the ones who came in knowing that. They picked two or three things to do each day, built in pool time, and didn't try to turn it into Disneyland.</p>
 
 <p>It works. You just have to let it be what it is.</p>
 

@@ -41,7 +41,7 @@ layout: blog-post.njk
 
 <p>The two floating shelves above it hold framed prints: a Havana street scene in full color, a graphic cactus print in sage, a Cafe Bustelo illustration, and a pair of black and white photos that look like they came from a magazine shoot in 1960s Old Havana. There are trailing plants tucked between the frames, which keeps it from reading as staged. A globe floor lamp stands to the right with a warm white globe shade, and it lights the whole wall with soft glow in the evenings.</p>
 
-<p>The goal was to make this corner feel like it belongs to someone. Not a hotel styling exercise but an actual place where someone with a specific taste lives.</p>
+<p>The goal was to make this corner feel like it belongs to someone. Not a hotel styling exercise but a place where someone with a specific taste lives.</p>
 
 <h2>The table that seats eight</h2>
 
@@ -50,7 +50,7 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-kitchen-table.webp" alt="Terra Luz dining table set for eight with rattan bistro chairs, wooden fruit bowl with oranges, teal geometric table runner, and terracotta walls in Indio California" width="1067" height="1600" loading="lazy">
 <p class="image-caption">The table centerset: a turned wood fruit bowl piled with oranges, Talavera tile coasters, a teal beaded table runner with geometric pattern. The fiddle leaf fig is in the corner by the window.</p>
 
-<p>The table styling is very deliberate. A turned wood bowl sits in the center piled with navel oranges, which is the simplest version of the Cuban domestic aesthetic: real fruit, real wood, nothing artificial. A teal and cream beaded table runner runs the length of the table with a bold geometric pattern. Talavera-style ceramic coasters sit stacked beside the bowl, red flower on white clay, and they're the kind of coaster that guests actually pick up and look at rather than just using.</p>
+<p>The table styling is very deliberate. A turned wood bowl sits in the center piled with navel oranges, which is the simplest version of the Cuban domestic aesthetic: real fruit, real wood, nothing artificial. A teal and cream beaded table runner runs the length of the table with a bold geometric pattern. Talavera-style ceramic coasters sit stacked beside the bowl, red flower on white clay, and they're the kind of coaster that guests pick up and look at rather than just using.</p>
 
 <p>The chairs are rattan bistro style, the material language that Dawn specified as non-negotiable for this house. No plastic wicker, no painted chairs, no chrome. Natural material, warm tone, something that feels like it belongs in a courtyard.</p>
 
@@ -74,7 +74,7 @@ layout: blog-post.njk
 
 <p>That flow is something we thought about from the beginning of the Terra Luz renovation. The pool, the outdoor kitchen, the covered seating area: they're all designed to pull people outside, but the indoors needed to be connected rather than competing. The glass doors are the mechanism for that. On a warm Coachella Valley evening, leaving them open feels less like a choice and more like the obvious thing to do.</p>
 
-<p>We're also planning a pass-through window from the kitchen to the patio in 2027. The kitchen and patio share a wall, and a properly configured pass-through would make it possible to hand food and drinks directly from the stove to whoever is sitting outside without walking around. It's a small thing and a real one: the kind of detail that makes a vacation rental feel like a house that was designed for how people actually use a house.</p>
+<p>We're also planning a pass-through window from the kitchen to the patio in 2027. The kitchen and patio share a wall, and a properly configured pass-through would make it possible to hand food and drinks directly from the stove to whoever is sitting outside without walking around. It's a small thing and a real one: the kind of detail that makes a vacation rental feel like a house that was designed for how people use a house.</p>
 
 <p>For now, the flow works as is. The glass doors stay open all weekend. Cafe Bustelo brews in the morning and the oranges stay in the bowl until someone eats them.</p>
 

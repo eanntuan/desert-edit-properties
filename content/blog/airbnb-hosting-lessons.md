@@ -21,7 +21,7 @@ layout: blog-post.njk
 
 <p>When I started hosting at <a href="/cozy-cactus/">The Cozy Cactus</a>, I thought the secret was somewhere obvious. Better pool. Nicer towels. A welcome bottle of wine. Four years and 191 reviews later, almost none of that is what guests write about.</p>
 
-<p>If you want the full picture of what makes a desert rental worth booking, the <a href="/blog/coachella-valley-vacation-rental-guide/">Coachella Valley vacation rental guide</a> covers what guests actually evaluate before committing.</p>
+<p>If you want the full picture of what makes a desert rental worth booking, the <a href="/blog/coachella-valley-vacation-rental-guide/">Coachella Valley vacation rental guide</a> covers what guests evaluate before committing.</p>
 
 <h2>The First 1-Star Review Was About a Garlic Press</h2>
 
@@ -69,9 +69,9 @@ layout: blog-post.njk
 
 <h2>Your Listing Photos Are a Promise</h2>
 
-<p>Your listing photo shows the living room looking perfect. Your cleaning crew leaves the couch cushions slightly crooked. The gap between what guests saw online and what they find in person is where complaints are born, even when there's nothing actually wrong.</p>
+<p>Your listing photo shows the living room looking perfect. Your cleaning crew leaves the couch cushions slightly crooked. The gap between what guests saw online and what they find in person is where complaints are born, even when there's nothing wrong.</p>
 
-<p>We started photographing what guests actually find on arrival, same furniture, same art, nothing staged at its most photogenic. Guests who find the house matching the photos have one less thing to feel deceived about, and closing that expectation gap costs you nothing.</p>
+<p>We started photographing what guests find on arrival, same furniture, same art, nothing staged at its most photogenic. Guests who find the house matching the photos have one less thing to feel deceived about, and closing that expectation gap costs you nothing.</p>
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at The Cozy Cactus vacation rental in Indio California with lounge chairs and desert landscaping" width="1400" height="933" loading="lazy">
 <p class="image-caption">The pool and backyard photographed as guests find them, not styled within an inch of its life.</p>
@@ -170,7 +170,7 @@ layout: blog-post.njk
       "name": "How do listing photos affect guest reviews?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Staged listing photos create an expectation gap: guests arrive expecting the perfectly arranged room from the photos and find the real version, which feels like a letdown even when nothing is actually wrong. Photographing the property as guests will actually find it closes that gap before it becomes a complaint."
+        "text": "Staged listing photos create an expectation gap: guests arrive expecting the perfectly arranged room from the photos and find the real version, which feels like a letdown even when nothing is wrong. Photographing the property as guests will find it closes that gap before it becomes a complaint."
       }
     }
   ]
@@ -184,4 +184,4 @@ layout: blog-post.njk
 <p>Stock two of everything, then add one more: spare toilet paper behind every toilet, extra coffee filters inside the drawer, chargers at every bedside. The cost per restocking cycle is around $20-30, and the guest experience benefit is disproportionately large because running out of a basic consumable at 10pm feels like neglect regardless of how nice the property is. See more at <a href="https://indigopalm.co/blog/airbnb-hosting-lessons/">indigopalm.co/blog/airbnb-hosting-lessons/</a>.</p>
 
 <h4>How do listing photos affect guest reviews?</h4>
-<p>Staged listing photos create an expectation gap: guests arrive expecting the perfectly arranged room from the photos and find the real version, which feels like a letdown even when nothing is actually wrong. Photographing the property as guests will actually find it, same furniture, same art, nothing styled beyond what cleaning maintains, closes that gap before it becomes a complaint.</p>
+<p>Staged listing photos create an expectation gap: guests arrive expecting the perfectly arranged room from the photos and find the real version, which feels like a letdown even when nothing is wrong. Photographing the property as guests will find it, same furniture, same art, nothing styled beyond what cleaning maintains, closes that gap before it becomes a complaint.</p>

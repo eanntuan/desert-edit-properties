@@ -40,7 +40,7 @@ layout: blog-post.njk
 
 <p>A private pool means midnight swims are on the table and your towel is the only one out there. It functions like an extension of the house, not a shared amenity you have to schedule around. That distinction matters a lot when you're spending afternoons in 100-degree heat and just want to float for an hour without making conversation.</p>
 
-<p>One more thing worth asking about: heated or not. Desert nights from October through April drop to 50-60°F, and an unheated pool in March is cold enough that most guests don't actually use it. If a listing says "pool" without specifying heated, just ask. It's the difference between a pool you use every day and one that photographs well.</p>
+<p>One more thing worth asking about: heated or not. Desert nights from October through April drop to 50-60°F, and an unheated pool in March is cold enough that most guests don't use it. If a listing says "pool" without specifying heated, just ask. It's the difference between a pool you use every day and one that photographs well.</p>
 
 <p><a href="/terra-luz/">Terra Luz</a> has a private saltwater pool with a sun shelf, heated year-round. <a href="/cozy-cactus/">The Cozy Cactus</a> has a private hot tub and a community pool a short walk away through the back gate of Indian Palms Country Club. I mention both because that distinction comes up in reviews constantly, and I'd rather you know before you book than be surprised when you arrive.</p>
 
@@ -54,11 +54,11 @@ layout: blog-post.njk
 
 <p>A 4.9 with 8 reviews tells you almost nothing about consistency, but a 4.7 with 200 reviews tells you a lot, so check the count before you look at the number.</p>
 
-<p>Then read the actual text, and not just the five-star ones. Five-star reviews tend to be short and forgettable ("amazing stay, would book again"), while the three and four-star reviews are where the real information lives. That's where you find out about the road noise that gets described as a "quiet neighborhood" in the listing, or the cleaning that's usually thorough except for the one week it wasn't.</p>
+<p>Then read the text, and not just the five-star ones. Five-star reviews tend to be short and forgettable ("amazing stay, would book again"), while the three and four-star reviews are where the real information lives. That's where you find out about the road noise that gets described as a "quiet neighborhood" in the listing, or the cleaning that's usually thorough except for the one week it wasn't.</p>
 
 <p>Look for patterns across multiple reviews, not single incidents. One guest mentioning a slow response is noise. Three separate guests from different months mentioning the same thing is something you should factor in. Same goes for cleanliness, listing accuracy, or a specific amenity that keeps disappointing people.</p>
 
-<p>Reviews that mention specific details, a problem that got resolved, a particular room that worked well for a family, a host who answered a question on Sunday night, are the ones worth reading carefully. Generic praise tells you the stay was acceptable. Specific details tell you what the place is actually like to stay in.</p>
+<p>Reviews that mention specific details, a problem that got resolved, a particular room that worked well for a family, a host who answered a question on Sunday night, are the ones worth reading carefully. Generic praise tells you the stay was acceptable. Specific details tell you what the place is like to stay in.</p>
 
 <p>Also worth checking: reviews from non-festival dates. A host who manages well during Coachella weekend, when guests paid three times the normal rate and arrived with lower expectations, might perform differently in October when the booking was more casual. Year-round reviews give you a better read on consistency.</p>
 
@@ -66,12 +66,12 @@ layout: blog-post.njk
 
 <p>"Palm Springs" is used as a shorthand for the entire Coachella Valley, which is a 45-mile stretch running from Desert Hot Springs in the north down to Coachella in the east. A listing that says "Palm Springs area" could mean downtown Palm Springs, Cathedral City (right next door, different vibe), Desert Hot Springs (20 minutes north, genuinely different market), Palm Desert, or Rancho Mirage. These are not interchangeable.</p>
 
-<p>Before you get attached to a listing, open the actual address in Google Maps and check the real distance to wherever you're going: the festival grounds, the BNP Paribas venue, a restaurant, the tram. "Near Palm Springs" can mean a 10-minute drive or a 40-minute drive depending on which part of which city you're in.</p>
+<p>Before you get attached to a listing, open the address in Google Maps and check the real distance to wherever you're going: the festival grounds, the BNP Paribas venue, a restaurant, the tram. "Near Palm Springs" can mean a 10-minute drive or a 40-minute drive depending on which part of which city you're in.</p>
 
-<p>For Coachella and Stagecoach specifically: the venue is Empire Polo Club at 81800 Avenue 51 in Indio. Any rental that isn't in Indio adds commute time, surge pricing, and festival traffic to your whole weekend. The <a href="/blog/indian-palms-vacation-rental/">Indian Palms vacation rental guide</a> goes deeper on the specific neighborhood geography if you're trying to understand exactly what "close to the festival" actually means in practice.</p>
+<p>For Coachella and Stagecoach specifically: the venue is Empire Polo Club at 81800 Avenue 51 in Indio. Any rental that isn't in Indio adds commute time, surge pricing, and festival traffic to your whole weekend. The <a href="/blog/indian-palms-vacation-rental/">Indian Palms vacation rental guide</a> goes deeper on the specific neighborhood geography if you're trying to understand exactly what "close to the festival" means in practice.</p>
 
 <img src="/blog/images/cozy-cactus-exterior.webp" alt="Front exterior of Cozy Cactus vacation rental in Indio California with desert landscaping and palm trees" width="1400" height="933" loading="lazy">
-<p class="image-caption">The Cozy Cactus on Cochran Dr in Indio. The address tells you exactly where it is. Always map the actual address before booking.</p>
+<p class="image-caption">The Cozy Cactus on Cochran Dr in Indio. The address tells you exactly where it is. Always map the address before booking.</p>
 
 <h2>4. Understand the Fee Structure Before You Get Attached to a Nightly Rate</h2>
 
@@ -95,7 +95,7 @@ layout: blog-post.njk
 
 <p>Large property management companies often have the slowest response times despite the most polished listings. A small owner-operator running two or three properties almost always responds faster and more personally, because their reviews are the whole business and they know exactly which drawer the extra towels are in.</p>
 
-<p>This applies to direct booking too. If a property has a direct booking site alongside its Airbnb listing, messaging through direct booking often gets you a faster response and sometimes a better rate, since the host isn't paying a platform commission on the booking. For the actual math on what you save, <a href="/blog/why-book-direct-vacation-rental/">here's the honest breakdown on booking direct versus Airbnb</a>.</p>
+<p>This applies to direct booking too. If a property has a direct booking site alongside its Airbnb listing, messaging through direct booking often gets you a faster response and sometimes a better rate, since the host isn't paying a platform commission on the booking. For the math on what you save, <a href="/blog/why-book-direct-vacation-rental/">here's the breakdown on booking direct versus Airbnb</a>.</p>
 
 <img src="/blog/images/cozy-cactus-hot-tub.webp" alt="Private hot tub at night at the Cozy Cactus vacation rental in Indio California with string lights and desert sky" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus hot tub. Knowing a host responds fast matters most when something like this needs attention during your stay.</p>
@@ -106,7 +106,7 @@ layout: blog-post.njk
 
 <p>A little research before you book saves a lot of frustration once you're there, and none of these checks take more than ten minutes total.</p>
 
-<p>If you're deciding between Indio and Palm Springs as a base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers the trade-offs in detail, including what each city is actually like beyond just proximity to Coachella. And if pool access is your main priority, the <a href="/blog/best-vacation-rentals-pool-coachella-valley/">guide to Coachella Valley rentals with private pools</a> goes deeper on exactly what to look for.</p>
+<p>If you're deciding between Indio and Palm Springs as a base, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison</a> covers the trade-offs in detail, including what each city is like beyond just proximity to Coachella. And if pool access is your main priority, the <a href="/blog/best-vacation-rentals-pool-coachella-valley/">guide to Coachella Valley rentals with private pools</a> goes deeper on exactly what to look for.</p>
 
 <script type="application/ld+json">
 {
@@ -126,7 +126,7 @@ layout: blog-post.njk
       "name": "How do I know if a Coachella Valley rental is close enough to the festival?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Map the actual street address before you commit. \"Near Palm Springs\" or \"near Coachella\" can mean a 10-minute walk or a 45-minute drive depending on which city and which part of it. Indian Palms Country Club in Indio is one of the few neighborhoods close enough to walk to the festival grounds."
+        "text": "Map the street address before you commit. \"Near Palm Springs\" or \"near Coachella\" can mean a 10-minute walk or a 45-minute drive depending on which city and which part of it. Indian Palms Country Club in Indio is one of the few neighborhoods close enough to walk to the festival grounds."
       }
     },
     {
@@ -163,7 +163,7 @@ layout: blog-post.njk
 <p>Pool access is the single detail that affects the most trips. Whether the pool is private or community, heated or unheated, determines how your afternoons go in the desert. Ask directly if a listing isn't clear about it.</p>
 
 <h3>How do I know if a Coachella Valley rental is close enough to the festival?</h3>
-<p>Map the actual street address before you commit. "Near Palm Springs" or "near Coachella" can mean a 10-minute walk or a 45-minute drive depending on which city and which part of it. Indian Palms Country Club in Indio is one of the few neighborhoods close enough to walk to the festival grounds.</p>
+<p>Map the street address before you commit. "Near Palm Springs" or "near Coachella" can mean a 10-minute walk or a 45-minute drive depending on which city and which part of it. Indian Palms Country Club in Indio is one of the few neighborhoods close enough to walk to the festival grounds.</p>
 
 <h3>Are Airbnb fees in the Coachella Valley higher than other markets?</h3>
 <p>Airbnb platform fees are standard (20% on the guest side) valley-wide, but cleaning fees in the desert tend to run higher than comparable markets because properties often need more intensive cleaning after sandy, sunny stays. Run the total for your exact dates before comparing listings.</p>
@@ -186,12 +186,12 @@ layout: blog-post.njk
       "name": "How close to the Coachella festival grounds should my rental be?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Close enough to avoid festival traffic is the real benchmark. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles let you drive in off-peak and avoid rideshare surge pricing. Anything marketed as \"Palm Springs area\" without a specific address could be 25-45 miles away. Always map the actual street address before committing."
+        "text": "Close enough to avoid festival traffic is the real benchmark. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles let you drive in off-peak and avoid rideshare surge pricing. Anything marketed as \"Palm Springs area\" without a specific address could be 25-45 miles away. Always map the street address before committing."
       }
     },
     {
       "@type": "Question",
-      "name": "What does 'private pool' actually mean in a Coachella Valley rental listing?",
+      "name": "What does 'private pool' mean in a Coachella Valley rental listing?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "A private pool belongs only to guests at that property: no shared access, no posted hours, and no HOA noise rules. A community pool is shared with all residents of the development and typically closes around 10pm. Photos often look similar, so check the description or ask the host directly."
@@ -237,9 +237,9 @@ layout: blog-post.njk
 
 
 <h4>How close to the Coachella festival grounds should my rental be?</h4>
-<p>Close enough to avoid festival traffic is the real benchmark, not close enough to walk. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles (Indian Palms Country Club, for example) let you drive in off-peak and avoid the worst surge pricing on rideshares. Anything marketed as "Palm Springs area" without a specific address could be 25-45 miles from the venue. Always map the actual street address before committing.</p>
+<p>Close enough to avoid festival traffic is the real benchmark, not close enough to walk. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles (Indian Palms Country Club, for example) let you drive in off-peak and avoid the worst surge pricing on rideshares. Anything marketed as "Palm Springs area" without a specific address could be 25-45 miles from the venue. Always map the street address before committing.</p>
 
-<h4>What does "private pool" actually mean in a Coachella Valley rental listing?</h4>
+<h4>What does "private pool" mean in a Coachella Valley rental listing?</h4>
 <p>It means the pool belongs only to guests at that property: no posted hours, no shared access with neighbors, and no noise rules imposed by an HOA. This is different from a community pool, which is shared with all residents of the development and typically closes around 10pm. The photos often look similar, so check the listing description explicitly or ask the host directly.</p>
 
 <h4>Is a heated pool necessary for a desert vacation rental?</h4>

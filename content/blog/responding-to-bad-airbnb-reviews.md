@@ -25,7 +25,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/terra-luz-pool-umbrella.webp" alt="Terra Luz vacation rental pool with striped umbrella in Indio California" loading="lazy" decoding="async" width="800" height="533">
 
-<p>We run three properties in the Coachella Valley: Terra Luz (3BR/2BA, Indio, 4.98 stars), The Cozy Cactus (3BR/2BA, also Indio, 4.97 stars), and The Sundune (2BR/2BA, Palm Springs, 4.93 stars). Across all three we've collected 191 Airbnb reviews, and we've had to respond to a handful of negative ones. <a href="/blog/airbnb-hosting-lessons/">What that experience revealed</a> is that a calm, specific, honest response to a bad review can actually increase bookings, because it signals to future guests that you're the kind of host who takes things seriously without losing their composure.</p>
+<p>We run three properties in the Coachella Valley: Terra Luz (3BR/2BA, Indio, 4.98 stars), The Cozy Cactus (3BR/2BA, also Indio, 4.97 stars), and The Sundune (2BR/2BA, Palm Springs, 4.93 stars). Across all three we've collected 191 Airbnb reviews, and we've had to respond to a handful of negative ones. <a href="/blog/airbnb-hosting-lessons/">What that experience revealed</a> is that a calm, specific, honest response to a bad review can increase bookings, because it signals to future guests that you're the kind of host who takes things seriously without losing their composure.</p>
 
 <p>Here's the four-part framework we use.</p>
 
@@ -57,7 +57,7 @@ layout: blog-post.njk
 
 <h2>What not to do</h2>
 
-<p>Don't use a copy-pasted template response for every review. "We strive to provide every guest with a 5-star experience and are sorry we fell short" is the hospitality equivalent of hold music. Guests can see when you've done this, and it signals that you're going through the motions rather than actually listening.</p>
+<p>Don't use a copy-pasted template response for every review. "We strive to provide every guest with a 5-star experience and are sorry we fell short" is the hospitality equivalent of hold music. Guests can see when you've done this, and it signals that you're going through the motions rather than listening.</p>
 
 <p>Don't get into a factual dispute in the public response. If a guest says the hot tub was broken and it wasn't, that's a conversation for Airbnb support, not for the comment thread. Fighting it out publicly makes you look combative regardless of who's right.</p>
 
@@ -71,7 +71,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/cc-nook-vignette.webp" alt="Cozy Cactus vacation rental interior reading nook in Indio California" loading="lazy" decoding="async" width="800" height="534">
 
-<h2>Prevention is still the actual answer</h2>
+<h2>Prevention is still the real answer</h2>
 
 <p>Most bad reviews trace back to one missed thing, not a systemic failure. A pool heater that was already flagging. An AC filter that needed to be replaced a week earlier. A detail in the welcome book that wasn't clear enough. Very few guests leave a 3-star review because the entire experience was bad. Usually it's one specific moment that soured an otherwise fine stay.</p>
 

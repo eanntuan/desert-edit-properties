@@ -103,7 +103,7 @@ May is the transition month. Crowds thin and prices drop as temperatures climb t
 **Crowds:** Low
 **Events:** Splash House (August), pool parties, weekend events at resort hotels
 
-I'm going to be honest about summer: at 2pm in July, stepping outside feels like standing in front of an open oven, and that's not rhetorical.
+Summer is brutal, no way around it: at 2pm in July, stepping outside feels like standing in front of an open oven, and that's not rhetorical.
 
 And yet. The hotel rates can drop 50% from peak season. The pools are actually uncrowded. Desert evenings, once the sun drops, are warm and clear in a way that genuinely feels nice rather than punishing.
 

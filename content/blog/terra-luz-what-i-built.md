@@ -21,9 +21,9 @@ excerpt: "Inside Terra Luz: the Frida Kahlo blue pool, spa, three distinct bedro
 layout: blog-post.njk
 ---
 
-<p>The question I get most from guests is some version of: okay, but what's actually in there?</p>
+<p>The question I get most from guests is some version of: okay, but what's in there?</p>
 
-<p>The Airbnb listing covers the basics. What it doesn't cover is why the pool is that specific shade of blue, why there are three bedrooms with completely different personalities, or what you'll find on the kitchen counter when you arrive. That's what this post is for. If you're deciding between Terra Luz and something else, or if you've already booked and want to know what you're walking into, this is the honest walkthrough.</p>
+<p>The Airbnb listing covers the basics. What it doesn't cover is why the pool is that specific shade of blue, why there are three bedrooms with completely different personalities, or what you'll find on the kitchen counter when you arrive. That's what this post is for. If you're deciding between Terra Luz and something else, or if you've already booked and want to know what you're walking into, this is the full walkthrough.</p>
 
 <p>Terra Luz is inside the Indian Palms Country Club, walking distance from the Empire Polo Grounds, home of Coachella and Stagecoach. Step inside and the house earns its name: vibrant color and Latin warmth throughout, cocooned enough to feel like a retreat without being removed from anything, built for groups who want long afternoons, slow dinners, and no real reason to leave. Friend groups of 6-8 book it for bachelorette weekends and festival stays. Families with kids book it because the twin daybed, trundles, and pack-n-play logistics are already solved, and the pool keeps everyone occupied without much planning required.</p>
 
@@ -66,7 +66,7 @@ layout: blog-post.njk
 
 <h2>The kitchen and dining</h2>
 
-<p>The kitchen is fully equipped: a full-size stainless steel refrigerator, a gas range, a dishwasher, and enough counter space to actually cook. Cafe Bustelo coffee grounds for drip coffee, a pour over, or a French press. Sunlight streams across the bar top in the morning and the kitchen window opens directly to the pool, so morning coffee flows effortlessly into poolside conversation. The breakfast nook alongside the window becomes the social heart of the house before most guests even realize it.</p>
+<p>The kitchen is fully equipped: a full-size stainless steel refrigerator, a gas range, a dishwasher, and enough counter space to cook. Cafe Bustelo coffee grounds for drip coffee, a pour over, or a French press. Sunlight streams across the bar top in the morning and the kitchen window opens directly to the pool, so morning coffee flows effortlessly into poolside conversation. The breakfast nook alongside the window becomes the social heart of the house before most guests even realize it.</p>
 
 <img src="/blog/images/terra-luz-kitchen.webp" alt="Terra Luz vacation rental kitchen in Indio California with gas range, full refrigerator, and Cuban-inspired tile details" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The kitchen. Fully stocked with cookware, utensils, and enough cabinet space for a week of groceries.</p>
@@ -100,7 +100,7 @@ layout: blog-post.njk
 
 <h3>The Cali Room</h3>
 
-<p>King bed with a DIY trundle that pulls out from underneath, built from plywood with caster wheels to fit under a king frame with 14 inches of clearance. The headboard is actually IKEA rattan cabinet doors mounted wall-to-wall, reads as a custom built-in. Behind the stained louvered bifold doors: a Frida Kahlo blue lime-washed workstation with a floating wall to wall desk, West Elm woven chair, and TV mounted above. The room balances fun and function, patterned terracotta tile floors accented with pops of cobalt blue, a playful design moment that stays genuinely practical: couples, families with one kid, or anyone in the group who needs a place to actually get work done.</p>
+<p>King bed with a DIY trundle that pulls out from underneath, built from plywood with caster wheels to fit under a king frame with 14 inches of clearance. The headboard is actually IKEA rattan cabinet doors mounted wall-to-wall, reads as a custom built-in. Behind the stained louvered bifold doors: a Frida Kahlo blue lime-washed workstation with a floating wall to wall desk, West Elm woven chair, and TV mounted above. The room balances fun and function, patterned terracotta tile floors accented with pops of cobalt blue, a playful design moment that stays genuinely practical: couples, families with one kid, or anyone in the group who needs a place to get work done.</p>
 
 <img src="/blog/images/terra-luz-cali-room-main.webp" alt="Terra Luz Cali Room in Indio California with king bed and DIY trundle both extended, IKEA IVAR rattan panel headboard, amber pillows, blue shibori curtains, and Talavera tile floor" width="1310" height="1600" loading="lazy">
 <p class="image-caption">The Cali Room. King plus trundle, Kahlo Blue workstation behind the bifold doors.</p>

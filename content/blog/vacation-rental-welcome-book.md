@@ -21,7 +21,7 @@ layout: blog-post.njk
 
 <p>Most vacation rental welcome books fail in one of two ways. The first: a 40-page Canva PDF packed with every possible piece of information, formatted beautifully, and opened by approximately no one. The second: a sticky note on the fridge with the wifi password and a vague "text us if you need anything." Guests muddle through and occasionally leave reviews that mention they couldn't figure out the pool heater.</p>
 
-<p>We've hosted 191 stays across our three Coachella Valley properties, and we've tried versions of both. What actually works sits squarely in the middle: a focused, scannable guide that covers the ten things guests genuinely need, in the order they need them.</p>
+<p>We've hosted 191 stays across our three Coachella Valley properties, and we've tried versions of both. What works sits squarely in the middle: a focused, scannable guide that covers the ten things guests genuinely need, in the order they need them.</p>
 
 <p>Here's the template we use, what we've cut, and why.</p>
 
@@ -57,7 +57,7 @@ layout: blog-post.njk
 
 <h3>7. Local Restaurant Picks</h3>
 
-<p>Your actual favorites, not just what Yelp surfaces first. Include the type of food, the neighborhood, and one sentence on why you like it. For our Indio properties we mention El Rodeo for the carnitas, Rio Azul for when guests want to stay close and eat well, and Chef Tanya's Kitchen for the plant-based crowd. Guests trust a host rec far more than they trust a star rating, and this is one of the lowest-effort ways to add value. Understanding <a href="/blog/airbnb-hosting-lessons/">what guests actually care about</a> comes down to this: they want to feel like a local for a few days, not a tourist with a phone.</p>
+<p>Your favorites, not just what Yelp surfaces first. Include the type of food, the neighborhood, and one sentence on why you like it. For our Indio properties we mention El Rodeo for the carnitas, Rio Azul for when guests want to stay close and eat well, and Chef Tanya's Kitchen for the plant-based crowd. Guests trust a host rec far more than they trust a star rating, and this is one of the lowest-effort ways to add value. Understanding <a href="/blog/airbnb-hosting-lessons/">what guests care about</a> comes down to this: they want to feel like a local for a few days, not a tourist with a phone.</p>
 
 <h3>8. Festival and Event Info</h3>
 
@@ -75,7 +75,7 @@ layout: blog-post.njk
 
 <p>Three things that don't belong in a welcome book, no matter how tempting they are to include.</p>
 
-<p>Your full rental history and origin story. Guests don't need to know when you bought the property, what it looked like before renovation, or what inspired the design concept. That content has a place on a blog or a listing description. In the welcome book it just takes up space and dilutes the practical information guests are actually looking for.</p>
+<p>Your full rental history and origin story. Guests don't need to know when you bought the property, what it looked like before renovation, or what inspired the design concept. That content has a place on a blog or a listing description. In the welcome book it just takes up space and dilutes the practical information guests are looking for.</p>
 
 <p>Lengthy legal disclaimers. Liability language, damage policies, and cancellation terms belong in the rental agreement guests signed before booking. Repeating them in the welcome book signals distrust and makes the whole document feel defensive. Keep legal language where it has teeth and leave the welcome book for hospitality.</p>
 

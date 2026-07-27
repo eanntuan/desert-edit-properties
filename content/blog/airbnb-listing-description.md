@@ -15,11 +15,11 @@ keywords:
   - airbnb listing formula
 articleSection: "Hosting Tips"
 readTime: "6 min read"
-excerpt: "Most Airbnb listing descriptions fail for the same reason: they describe the property instead of answering the question the guest is actually asking. Here's the five-section formula that changed our inquiry rate."
+excerpt: "Most Airbnb listing descriptions fail for the same reason: they describe the property instead of answering the question the guest is asking. Here's the five-section formula that changed our inquiry rate."
 layout: blog-post.njk
 ---
 
-<p>Most Airbnb listing descriptions fail for the same reason. They answer "what does this place have?" when the guest is actually asking something else: "is this right for my group?" Those are two very different questions, and the listing that answers the second one books at a higher rate.</p>
+<p>Most Airbnb listing descriptions fail for the same reason. They answer "what does this place have?" when the guest is asking something else: "is this right for my group?" Those are two very different questions, and the listing that answers the second one books at a higher rate.</p>
 
 <p>We run four properties across the Coachella Valley and Palm Springs under Indigo Palm Collective: Terra Luz, The Cozy Cactus, The Sundune, and The Well. Between them, we have 191 reviews and a collective rating that stays above 4.9. What <a href="/blog/airbnb-hosting-lessons/">four years of guest feedback taught us</a> is that the details guests respond to in person are the same details they respond to in the listing. The description either earns trust before they book, or it doesn't.</p>
 
@@ -37,13 +37,13 @@ layout: blog-post.njk
 
 <h2>Section 2: The One Thing You Do Better Than Anything Nearby</h2>
 
-<p>Not a list of amenities. One specific differentiator. This is the hardest section to write because it requires you to actually know what makes your property different, not just what it has.</p>
+<p>Not a list of amenities. One specific differentiator. This is the hardest section to write because it requires you to know what makes your property different, not just what it has.</p>
 
 <p>At Terra Luz, the Wild Tropics bedroom earns its own sentence in the description. Canopy bed, ceiling art, guests photograph it within the first hour of arrival, every single stay. We mention it by name and describe it briefly. That one room has driven bookings we know came directly from guests who saw it in photos and then confirmed it in the listing copy.</p>
 
 <img src="/blog/images/terra-luz-wild-tropics-main.webp" alt="Wild Tropics bedroom at Terra Luz vacation rental in Indio California with canopy bed and ceiling art" loading="lazy" decoding="async" width="800" height="552">
 
-<p>For The Cozy Cactus, the differentiator isn't a room. It's the operational detail: labeled drawers, a Stokke high chair, a game room that actually functions as a game room. The property works for families, not just photographs well for them. That distinction matters to parents who've been burned by "family-friendly" listings that turned out to be decorated adult spaces with one token high chair.</p>
+<p>For The Cozy Cactus, the differentiator isn't a room. It's the operational detail: labeled drawers, a Stokke high chair, a game room that functions as a game room. The property works for families, not just photographs well for them. That distinction matters to parents who've been burned by "family-friendly" listings that turned out to be decorated adult spaces with one token high chair.</p>
 
 <p>For The Sundune in Palm Springs, it's genuine walkability. Not "close to restaurants." Actual walking distance to downtown Palm Springs restaurants, bars, and coffee without needing to move the car or deal with weekend parking. That's rare for a vacation rental and worth saying plainly.</p>
 
@@ -53,7 +53,7 @@ layout: blog-post.njk
 
 <p>This is the section guests scan when they're comparing two properties side by side. Bullet format works here. Dense prose does not.</p>
 
-<p>Cover the basics: beds, baths, max occupancy, parking situation, pool type (private vs. shared, heated vs. not), pet policy, checkout time, and what access guests actually get. If there are restrictions that matter, say them here. A guest who discovers a pet policy surprise on arrival is worse than a guest who self-filtered at the listing stage.</p>
+<p>Cover the basics: beds, baths, max occupancy, parking situation, pool type (private vs. shared, heated vs. not), pet policy, checkout time, and what access guests get. If there are restrictions that matter, say them here. A guest who discovers a pet policy surprise on arrival is worse than a guest who self-filtered at the listing stage.</p>
 
 <p>For Terra Luz: 3 bedrooms, 2 bathrooms, sleeps 8, private heated Kahlo blue pool, private driveway parking, no pets. For The Cozy Cactus: 3 bedrooms, 2 bathrooms, sleeps 8, private heated pool, game room, pack-and-play available, gated Indian Palms Country Club. For The Sundune: 2 bedrooms, 2 bathrooms, sleeps 6, balcony with views, assigned parking, 2 blocks from downtown Palm Springs.</p>
 
@@ -67,9 +67,9 @@ layout: blog-post.njk
 
 <img src="/blog/images/cozy-cactus-backyard.webp" alt="Cozy Cactus vacation rental backyard in Indio California at Indian Palms Country Club" loading="lazy" decoding="async" width="800" height="534">
 
-<p>For The Sundune, we name specific streets and restaurants within walking distance, not "close to dining." Guests who've been burned by "close to everything" listings that turned out to be a 15-minute drive know exactly how to read vague copy. Named specifics signal that you actually know the area and aren't just guessing.</p>
+<p>For The Sundune, we name specific streets and restaurants within walking distance, not "close to dining." Guests who've been burned by "close to everything" listings that turned out to be a 15-minute drive know exactly how to read vague copy. Named specifics signal that you know the area and aren't just guessing.</p>
 
-<p>Apply this standard to every proximity claim in your description. If you can't name the landmark, you don't actually know how close you are to it.</p>
+<p>Apply this standard to every proximity claim in your description. If you can't name the landmark, you don't really know how close you are to it.</p>
 
 <h2>Section 5: Why Book Direct</h2>
 
@@ -81,7 +81,7 @@ layout: blog-post.njk
 
 <p>Don't list every appliance model. Don't count pillows. Don't open with your origin story unless it directly affects the guest experience, and even then, keep it to two sentences.</p>
 
-<p>Guests reading your listing aren't auditing an inventory. They're deciding if the vibe matches their group. A description that sounds like a spec sheet signals that the property is run by someone who doesn't understand what guests actually care about. Save the full inventory for the <a href="/blog/vacation-rental-welcome-book/">house rules and welcome guide</a>, where it belongs and where guests will actually use it.</p>
+<p>Guests reading your listing aren't auditing an inventory. They're deciding if the vibe matches their group. A description that sounds like a spec sheet signals that the property is run by someone who doesn't understand what guests care about. Save the full inventory for the <a href="/blog/vacation-rental-welcome-book/">house rules and welcome guide</a>, where it belongs and where guests will use it.</p>
 
 <p>Write for the decision, not the documentation. Five sections, each aimed at one question. That's the formula.</p>
 
@@ -95,7 +95,7 @@ layout: blog-post.njk
       "name": "How do I write an Airbnb listing description that gets bookings?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Write your Airbnb listing description in five sections: who the property is for (specific guest type, not generic), the one thing you do better than anyone nearby, practical specifics in scannable format (beds, baths, pool, parking, pets), location with named landmarks not drive times, and a note about direct booking to skip the 20% Airbnb service fee. Most listings fail because they describe the property instead of answering the guest's actual question: is this right for my group?"
+        "text": "Write your Airbnb listing description in five sections: who the property is for (specific guest type, not generic), the one thing you do better than anyone nearby, practical specifics in scannable format (beds, baths, pool, parking, pets), location with named landmarks not drive times, and a note about direct booking to skip the 20% Airbnb service fee. Most listings fail because they describe the property instead of answering the guest's real question: is this right for my group?"
       }
     },
     {

@@ -39,7 +39,7 @@ faqItems:
 
 <p>The Coachella Valley is 45 miles east to west. Where to eat in Palm Springs is a different question from where to eat in Indio, and using a Palm Springs food guide when you're staying in Indio means a 30-minute drive for every meal recommendation. This guide is organized by city for that reason.</p>
 
-<p>I've eaten at all of these places or sent guests to them with confidence. I haven't padded the list. A shorter honest guide beats a long one with filler.</p>
+<p>I've eaten at all of these places or sent guests to them with confidence. I haven't padded the list. A shorter guide beats a long one with filler.</p>
 
 <img src="/blog/images/one-stop-taco-shop.webp" alt="One Stop Taco Shop in Indio California with colorful exterior and desert landscape" width="1400" height="933" loading="lazy">
 <p class="image-caption">One Stop Taco Shop in Indio. Not a festival pop-up. A proper taqueria that's been here long before Coachella made Indio famous.</p>
@@ -50,7 +50,7 @@ faqItems:
 
 <h3><a href="https://onestoptacoshop.com/" target="_blank" rel="noopener noreferrer">One Stop Taco Shop</a></h3>
 
-<p>The birria tacos are what you're here for. Get the quesabirria too and use the dipping broth. This is the move. One Stop is a no-frills taqueria, no atmosphere to speak of, corn tortillas, good salsa, honest portions. It's the kind of place where regulars show up multiple times a week because it consistently delivers exactly what it says it is.</p>
+<p>The birria tacos are what you're here for. Get the quesabirria too and use the dipping broth. This is the move. One Stop is a no-frills taqueria, no atmosphere to speak of, corn tortillas, good salsa, generous portions. It's the kind of place where regulars show up multiple times a week because it consistently delivers exactly what it says it is.</p>
 
 <p>Go early, especially during festival weeks when lines can build. Check their current hours before you go because festival season sometimes brings extended hours and sometimes the opposite.</p>
 
@@ -149,7 +149,7 @@ faqItems:
 <h2>Frequently Asked Questions</h2>
 
 <h3>What is the best restaurant in Indio, CA?</h3>
-<p>One Stop Taco Shop for birria tacos, full stop. The quesabirria with dipping broth is the order. Papa Headz earns the second spot for smash burgers with a local following that predates any festival tourism. Arriola's Tortilleria, operating since 1927, is the place for handmade tortillas and simple honest Mexican food.</p>
+<p>One Stop Taco Shop for birria tacos, full stop. The quesabirria with dipping broth is the order. Papa Headz earns the second spot for smash burgers with a local following that predates any festival tourism. Arriola's Tortilleria, operating since 1927, is the place for handmade tortillas and simple, unfussy Mexican food.</p>
 
 <h3>Where should I eat near the Coachella grounds?</h3>
 <p>One Stop Taco Shop and Papa Headz are both in Indio and a short drive from the Empire Polo Club. Arriola's and El Tranvia are local institutions that predate the festival and deliver consistent food at neighborhood prices. Avoid defaulting to the chain restaurants on Highway 111: the local spots are better and usually faster during festival weeks.</p>
@@ -165,7 +165,7 @@ faqItems:
 
 
 <h4>What is the best coffee near Indio, CA?</h4>
-<p>The honest answer is that Indio itself has limited specialty coffee options. Yes Please in La Quinta is the closest quality stop, about 15 minutes south, with well-sourced espresso and good natural light. In Palm Springs, Koffi has been the local first recommendation for over 20 years and is worth the 30-minute drive if you are making a Palm Springs evening of it.</p>
+<p>Indio itself has limited specialty coffee options. Yes Please in La Quinta is the closest quality stop, about 15 minutes south, with well-sourced espresso and good natural light. In Palm Springs, Koffi has been the local first recommendation for over 20 years and is worth the 30-minute drive if you are making a Palm Springs evening of it.</p>
 
 <h4>Are there good restaurants in Indio that locals actually eat at, not just festival visitors?</h4>
 <p>Arriola's Tortilleria has been operating since 1927 and handmade tortillas are the whole point. El Tranvia is the breakfast institution locals mention quietly. One Stop Taco Shop and Papa Headz both built serious local followings before Coachella made Indio a destination. None of these are on the typical festival food list, which is exactly why they are the right answer.</p>

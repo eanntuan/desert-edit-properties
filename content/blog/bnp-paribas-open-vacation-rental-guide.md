@@ -39,7 +39,7 @@ relatedPosts:
 <img src="/blog/images/indian-wells-tennis-garden-aerial.webp" alt="Aerial view of the Indian Wells Tennis Garden showing Stadium 1, practice courts, and the Santa Rosa Mountains during the BNP Paribas Open" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Indian Wells Tennis Garden sits in Indian Wells, roughly equidistant between Palm Springs and Indio. Both cities are about 20 minutes by car. The difference is what you come home to.</p>
 
-<h2>The Tournament: What You're Actually Signing Up For</h2>
+<h2>The Tournament: What You're Signing Up For</h2>
 
 <p>Context matters here. The BNP Paribas Open is a combined ATP Masters 1000 and WTA 1000 event, meaning the top players from both tours compete simultaneously over two weeks. It's one of the biggest tennis events in the world outside Grand Slams. Stadium 1 holds just over 16,000 people, the outer courts run early-round matches at ground level, and a grounds pass on a Tuesday will put you closer to a top-10 player than you'd get in the upper deck at the US Open.</p>
 
@@ -49,7 +49,7 @@ relatedPosts:
 
 <p>Indian Wells itself is a small city. The hotels near the venue are nice, and they price accordingly during tournament week, with rates that routinely hit $400-700 per night at anything decent. The proximity is real. Some properties are walkable or a short rideshare to the garden. But the trade-offs add up.</p>
 
-<p>Hotel pools are shared, which matters more than you'd think after a day in stadium seats under a March sun. Hotel kitchens are absent, which matters when stadium food costs $22 for a sandwich and you're there for a week. Hotel wifi is hotel wifi, which is a problem if you're trying to do any actual work between morning and evening sessions. And for groups, two or three hotel rooms at $500 each is a real number that doesn't work the same way a single vacation rental does.</p>
+<p>Hotel pools are shared, which matters more than you'd think after a day in stadium seats under a March sun. Hotel kitchens are absent, which matters when stadium food costs $22 for a sandwich and you're there for a week. Hotel wifi is hotel wifi, which is a problem if you're trying to do any work between morning and evening sessions. And for groups, two or three hotel rooms at $500 each is a real number that doesn't work the same way a single vacation rental does.</p>
 
 <img src="/blog/images/bnp-paribas-stadium-packed.webp" alt="Stadium 1 at the BNP Paribas Open in Indian Wells California packed with over 16,000 spectators during a match" width="1400" height="933" loading="lazy">
 <p class="image-caption">Stadium 1 packed for a match. Early-round tickets are reasonable. Quarters and semis sell out fast. A grounds pass is underrated for the outer courts, where you can watch practice and early rounds at very close range.</p>
@@ -60,7 +60,7 @@ relatedPosts:
 
 <p>A private pool in March is not a small thing. Desert afternoons in March run mid-70s to low-80s. After 8 hours in stadium seats, coming back to a pool with no time limits, no shared-space etiquette, and no chlorine line is a different recovery than a hotel room shower. If you're staying a full week, that daily return pays dividends you feel by Thursday.</p>
 
-<p>Full kitchen access changes the week financially. Stocking a kitchen on arrival day and cooking breakfast, packing snacks, and making dinner most nights saves real money over seven days of stadium food plus restaurant tabs. The good vacation rentals in Indio have kitchens that actually work, not just a microwave and a two-burner situation.</p>
+<p>Full kitchen access changes the week financially. Stocking a kitchen on arrival day and cooking breakfast, packing snacks, and making dinner most nights saves real money over seven days of stadium food plus restaurant tabs. The good vacation rentals in Indio have kitchens that work, not just a microwave and a two-burner situation.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private saltwater pool and terracotta patio at Terra Luz vacation rental in Indio California, 20 minutes from the Indian Wells Tennis Garden" width="1400" height="933" loading="lazy">
 <p class="image-caption">Terra Luz backyard and saltwater pool in Indio. March nights in the desert drop to the low 50s. A heated private pool after a day at the tennis is worth more than it sounds in the listing description.</p>
@@ -75,7 +75,7 @@ relatedPosts:
 
 <p><strong>Proximity to grocery store.</strong> You want to stock the kitchen within an hour of arriving. Most Indian Palms rentals are 10-15 minutes from a full grocery. Ask or check the map before you assume. The Stater Bros on Monroe is the closest full-service option from Indian Palms.</p>
 
-<p><strong>Covered outdoor space.</strong> March evenings in the desert are among the best weather the Coachella Valley produces. Mid-70s during the day, jacket-comfortable at night, no humidity. A covered patio with real outdoor furniture is where a week in the desert actually lives. It's worth prioritizing in the listing search.</p>
+<p><strong>Covered outdoor space.</strong> March evenings in the desert are among the best weather the Coachella Valley produces. Mid-70s during the day, jacket-comfortable at night, no humidity. A covered patio with real outdoor furniture is where a week in the desert lives. It's worth prioritizing in the listing search.</p>
 
 <h2>The Palm Springs Option</h2>
 

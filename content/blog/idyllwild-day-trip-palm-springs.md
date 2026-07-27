@@ -31,7 +31,7 @@ relatedPosts:
 
 <p>Somewhere around mile 30 on Highway 74, the ocotillo and creosote just stop. The road keeps climbing through switchbacks cut into granite, and the air coming through the vents goes from July-in-the-desert to actually cool, and then you're driving through a pine forest like someone flipped a set. That's the whole appeal of Idyllwild in one sentence: it's an hour from the pool and it doesn't feel like the same state.</p>
 
-<p>I get asked about this drive constantly by guests staying at <a href="/terra-luz/">Terra Luz</a> and <a href="/cozy-cactus/">The Cozy Cactus</a> in July and August, when the desert floor is 112 and everyone's looking for literally anywhere else. Idyllwild is the answer, and it's a real hiking destination, not just a place to sit in the shade and call it a day. Here's what to actually do once you're up there.</p>
+<p>I get asked about this drive constantly by guests staying at <a href="/terra-luz/">Terra Luz</a> and <a href="/cozy-cactus/">The Cozy Cactus</a> in July and August, when the desert floor is 112 and everyone's looking for literally anywhere else. Idyllwild is the answer, and it's a real hiking destination, not just a place to sit in the shade and call it a day. Here's what to do once you're up there.</p>
 
 <div class="summary-box">
   <table>
@@ -46,7 +46,7 @@ relatedPosts:
 
 <h2>Two Ways Up the Mountain</h2>
 
-<p>Highway 74, the Pines to Palms Highway, climbs out of Palm Desert and does most of its elevation gain in a handful of dramatic switchbacks with pullouts worth using. This is the route I send guests on, mostly because the views on the way up are half the reason to go. The other option is Highway 243 out of Banning, which comes in from the north side of the mountain and is the faster pick if you're coming from LA rather than the valley. Either way you're looking at a similar mileage, somewhere close to 47 miles, and a drive that goes from flat desert floor to 5,400 feet in about 40 minutes of actual driving.</p>
+<p>Highway 74, the Pines to Palms Highway, climbs out of Palm Desert and does most of its elevation gain in a handful of dramatic switchbacks with pullouts worth using. This is the route I send guests on, mostly because the views on the way up are half the reason to go. The other option is Highway 243 out of Banning, which comes in from the north side of the mountain and is the faster pick if you're coming from LA rather than the valley. Either way you're looking at a similar mileage, somewhere close to 47 miles, and a drive that goes from flat desert floor to 5,400 feet in about 40 minutes of driving.</p>
 
 <img src="/blog/images/idyllwild-town-panorama-mountains.webp" alt="Panoramic view of downtown Idyllwild California with pine trees, mountain shops, and San Jacinto peaks in the background" width="1600" height="413" loading="lazy">
 <p class="image-caption">Downtown Idyllwild sits at just over 5,400 feet, which is most of why it's 30 degrees cooler than Indio in July. Photo: Todd Phillips / Wikimedia Commons, CC BY 3.0.</p>
@@ -70,7 +70,7 @@ relatedPosts:
 
 <h3>Devil's Slide to Suicide Rock or San Jacinto Peak (Hard)</h3>
 
-<p>This is the trailhead most serious hikers are actually driving up for. Devil's Slide climbs from Humber Park to Saddle Junction, about 5.2 miles round trip with roughly 1,700 feet of gain, and from Saddle Junction the trail network splits toward Suicide Rock, Tahquitz Peak's fire lookout, or all the way up to San Jacinto Peak at 10,834 feet if you've got the whole day and started early. Deer Springs Trail is the other route to Suicide Rock, a separate 7.1-mile trailhead off Highway 243 north of town, and it's the one to use if Devil's Slide permits are gone for the day.</p>
+<p>This is the trailhead most serious hikers are driving up for. Devil's Slide climbs from Humber Park to Saddle Junction, about 5.2 miles round trip with roughly 1,700 feet of gain, and from Saddle Junction the trail network splits toward Suicide Rock, Tahquitz Peak's fire lookout, or all the way up to San Jacinto Peak at 10,834 feet if you've got the whole day and started early. Deer Springs Trail is the other route to Suicide Rock, a separate 7.1-mile trailhead off Highway 243 north of town, and it's the one to use if Devil's Slide permits are gone for the day.</p>
 
 <p>Both of these require the permit setup below. Don't skip it: rangers do check, and the fine is not worth the $0 the permit costs you.</p>
 
@@ -83,7 +83,7 @@ relatedPosts:
 
 <h2>Permits and Parking, the Part People Skip</h2>
 
-<p>Anywhere you park to hike in the San Jacinto Wilderness, you need a <a href="https://www.fs.usda.gov/r05/passes/adventure-pass" target="_blank" rel="noopener"><strong>National Forest Adventure Pass</strong></a>: $5 for the day or $30 for the year, sold at ranger stations and local vendors around town. Separate from that, most of the actual trails, Devil's Slide, Deer Springs, Marion Mountain, Fuller Ridge, and a few others, require a free wilderness permit. The Ernie Maxwell and Idyllwild Park trails are the exceptions and don't need one.</p>
+<p>Anywhere you park to hike in the San Jacinto Wilderness, you need a <a href="https://www.fs.usda.gov/r05/passes/adventure-pass" target="_blank" rel="noopener"><strong>National Forest Adventure Pass</strong></a>: $5 for the day or $30 for the year, sold at ranger stations and local vendors around town. Separate from that, most of the trails, Devil's Slide, Deer Springs, Marion Mountain, Fuller Ridge, and a few others, require a free wilderness permit. The Ernie Maxwell and Idyllwild Park trails are the exceptions and don't need one.</p>
 
 <p>Permits are self-issue and available 24/7 at the <a href="https://www.fs.usda.gov/r05/sanbernardino/wilderness/san-jacinto-wilderness" target="_blank" rel="noopener"><strong>Idyllwild Ranger Station</strong></a> on Highway 243, at Mount San Jacinto State Park headquarters, or at the Long Valley Ranger Station at the top of the tram. The one catch: from Memorial Day through Labor Day, Devil's Slide runs a weekend quota of 30 day-use permits, and they go fast on Saturday and Sunday mornings. If you're set on that trail on a summer weekend, get there early or go on a weekday instead.</p>
 
@@ -94,7 +94,7 @@ relatedPosts:
 <img src="/blog/images/idyllwild-main-street-pine-trees.webp" alt="Downtown Idyllwild California main street lined with shops under tall pine trees" width="1400" height="1050" loading="lazy">
 <p class="image-caption">Idyllwild's small downtown, walkable in about ten minutes, which is exactly enough time to decide where to eat.</p>
 
-<p><a href="https://cafearoma-idyllwild.com/" target="_blank" rel="noopener"><strong>Cafe Aroma</strong></a> is the other anchor, a mountain bistro with a wooded patio that's been a local institution long enough to have its own history, and it's dog-friendly if you brought one along. For something faster and less formal, the <strong>Lumber Mill Bar and Grill</strong> does a burger locals actually argue about (order the Bigfoot), and <strong>Mama's Egg House</strong> covers brunch if you're heading up early instead of coming down late.</p>
+<p><a href="https://cafearoma-idyllwild.com/" target="_blank" rel="noopener"><strong>Cafe Aroma</strong></a> is the other anchor, a mountain bistro with a wooded patio that's been a local institution long enough to have its own history, and it's dog-friendly if you brought one along. For something faster and less formal, the <strong>Lumber Mill Bar and Grill</strong> does a burger locals argue about (order the Bigfoot), and <strong>Mama's Egg House</strong> covers brunch if you're heading up early instead of coming down late.</p>
 
 <p>If you're staying at Terra Luz or The Cozy Cactus in Indio, this whole loop, drive up, hike, eat, drive back, runs about 70 minutes each way on Highway 74, which makes it a genuinely doable day trip without feeling like you spent it all in the car. It's one of the few ways to escape a 110-degree afternoon in the valley without leaving the region entirely.</p>
 

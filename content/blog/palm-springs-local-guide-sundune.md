@@ -23,7 +23,7 @@ excerpt: "Things to do in Palm Springs, from a local who eats here. Coffee, brun
 layout: blog-post.njk
 ---
 
-<p>I'm a surfer from Culver City who ended up owning vacation rentals in the Coachella Valley. Not a Palm Springs local by any stretch, but I spend enough time here to say these recommendations are real. Not affiliate-coded, not algorithmic. This is the guide we actually give <a href="/the-sundune/">Sundune</a> guests.</p>
+<p>I'm a surfer from Culver City who ended up owning vacation rentals in the Coachella Valley. Not a Palm Springs local by any stretch, but I spend enough time here to say these recommendations are real. Not affiliate-coded, not algorithmic. This is the guide we give <a href="/the-sundune/">Sundune</a> guests.</p>
 
 <h2>Morning / Coffee</h2>
 
@@ -59,7 +59,7 @@ layout: blog-post.njk
 <p class="image-caption">A wave pool in the desert. It sounds gimmicky until you're in it.</p>
 
 <h3>Moorten Botanical Garden</h3>
-<p>If Surf Club is the active afternoon, <a href="https://moortenbotanicalgarden.com/" target="_blank" rel="noopener"><strong>Moorten Botanical Garden</strong></a> is the exhale. Walk it at golden hour, when the light hits everything sideways. Cacti and succulents from all over the world, a pace that feels almost ceremonial, small and quiet in a way that actually stays with you.</p>
+<p>If Surf Club is the active afternoon, <a href="https://moortenbotanicalgarden.com/" target="_blank" rel="noopener"><strong>Moorten Botanical Garden</strong></a> is the exhale. Walk it at golden hour, when the light hits everything sideways. Cacti and succulents from all over the world, a pace that feels almost ceremonial, small and quiet in a way that stays with you.</p>
 
 <img src="/blog/images/moorten-botanical-garden.webp" alt="Moorten Botanical Garden in Palm Springs with towering cacti and succulents from around the world under desert sky" width="1200" height="1200" loading="lazy">
 <p class="image-caption">Moorten at golden hour. Go slow. The place rewards it.</p>
@@ -135,7 +135,7 @@ layout: blog-post.njk
       "name": "Where do locals drink in Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene."
+        "text": "Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene."
       }
     },
     {
@@ -151,12 +151,12 @@ layout: blog-post.njk
       "name": "What is the best time of year to visit Palm Springs for this kind of trip?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "March and November are the best months for everything in this guide: coffee shops without lines, outdoor dining without dying from heat, hiking Indian Canyons in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is honestly fine if you're heat-adjusted and plan around the pool and evening hours, but the morning coffee and outdoor wandering energy changes significantly above 100 degrees."
+        "text": "March and November are the best months for everything in this guide: coffee shops without lines, outdoor dining without dying from heat, hiking Indian Canyons in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is fine if you're heat-adjusted and plan around the pool and evening hours, but the morning coffee and outdoor wandering energy changes significantly above 100 degrees."
       }
     },
     {
       "@type": "Question",
-      "name": "How many days do you need in Palm Springs to actually experience it?",
+      "name": "How many days do you need in Palm Springs to experience it?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Plan 3 nights minimum: one morning at Moorten Botanical Garden and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday is in your window, VillageFest makes it worth adding a day."
@@ -167,7 +167,7 @@ layout: blog-post.njk
       "name": "What should I know before my first Palm Springs trip?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Parking on Palm Canyon Drive fills up fast on weekend mornings. Park once on a side street off Belardo Road or Cahuilla Road and walk everywhere, that's the right strategy. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, plan outdoor activities before 10am and after 6pm. And bring sunscreen you'll actually use."
+        "text": "Parking on Palm Canyon Drive fills up fast on weekend mornings. Park once on a side street off Belardo Road or Cahuilla Road and walk everywhere, that's the right strategy. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, plan outdoor activities before 10am and after 6pm. And bring sunscreen you'll use."
       }
     }
   ]
@@ -192,7 +192,7 @@ layout: blog-post.njk
 <p>Small, quiet, and worth going slowly. Over 3,000 cacti and succulents from around the world on about an acre in the middle of Palm Springs. Go at golden hour, give yourself at least an hour, and don't rush it. It costs a few dollars and stays with you longer than most things you'll pay more for.</p>
 
 <h3>Where do locals drink in Palm Springs?</h3>
-<p>Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and honestly better than most of what's on Arenas Road if you're not specifically looking for the LGBTQ bar scene.</p>
+<p>Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically looking for the LGBTQ bar scene.</p>
 
 <h3>What is the most scenic way to get to Palm Springs from Los Angeles?</h3>
 <p>I-10 East to the Gene Autry Trail exit drops you directly into Palm Springs in about 2 hours from downtown LA. The better approach: exit at Date Palm Drive in Cathedral City and come in on Highway 111, which puts you on the main strip with the San Jacinto Mountains rising directly in front of you. That's the one you want for a first visit.</p>
@@ -200,14 +200,14 @@ layout: blog-post.njk
 <h3>What is the best time of year to visit Palm Springs for this kind of trip?</h3>
 <p>March and November for everything in this guide: coffee without lines, outdoor dining without dying, hiking Indian Canyons in the morning and Boozehounds at night. October holds up nearly as well and often has better availability. Summer is fine if you're heat-adjusted and build your days around pool time and evenings, but the outdoor wandering energy changes a lot above 100 degrees.</p>
 
-<h3>How many days do you need in Palm Springs to actually experience it?</h3>
+<h3>How many days do you need in Palm Springs to experience it?</h3>
 <p>Three nights minimum: one morning at Moorten and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday falls in your window, VillageFest is a real reason to arrive a day early.</p>
 
 <img src="/blog/images/sundune-bedroom-surfboard-wall.webp" alt="The Sundune Palm Springs bedroom with surfboard mounted above the bed, tropical palm leaf wallpaper, and rattan headboard" width="1200" height="800" loading="lazy">
 <p class="image-caption">The Sundune has a 4-night minimum, which is the right amount of time to do everything in this guide without rushing it.</p>
 
 <h3>What should I know before my first Palm Springs trip?</h3>
-<p>Parking on Palm Canyon fills up fast on weekend mornings, so park once on a side street off Belardo or Cahuilla and walk everything from there. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, outdoors before 10am and after 6pm is the rule. And bring sunscreen you'll actually use, not the tube sitting at the bottom of your bag from last year.</p>
+<p>Parking on Palm Canyon fills up fast on weekend mornings, so park once on a side street off Belardo or Cahuilla and walk everything from there. Most of the restaurants worth going to don't take reservations, so go early or late. If you're here in summer, outdoors before 10am and after 6pm is the rule. And bring sunscreen you'll use, not the tube sitting at the bottom of your bag from last year.</p>
 
 <img src="/blog/images/sundune-kitchen-pink-tile.webp" alt="The Sundune Palm Springs kitchen with pink herringbone tile backsplash, gold faucet, white quartz countertops, and patio view through the window" width="1200" height="800" loading="lazy">
 <p class="image-caption">The kitchen at The Sundune. Pink herringbone tile, brass hardware, and a window that looks out to the patio.</p>
@@ -256,7 +256,7 @@ layout: blog-post.njk
       "name": "Where do locals drink in Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they actually want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene."
+        "text": "Boozehounds on E Tahquitz Canyon Way. It has the energy of a place people go because they want to be there, not because it showed up on a list. Lively, unpretentious, and better than most of what's on Arenas Road if you're not specifically interested in the LGBTQ bar scene."
       }
     },
     {
@@ -277,7 +277,7 @@ layout: blog-post.njk
     },
     {
       "@type": "Question",
-      "name": "How many days do you need in Palm Springs to actually experience it?",
+      "name": "How many days do you need in Palm Springs to experience it?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Three nights minimum: one morning at Moorten and a slow coffee day, one full Surf Club day, one evening at Boozehounds with dinner at Rooster and the Pig. Two nights is technically doable but you'll feel like you rushed it. If Thursday falls in your window, VillageFest is a real reason to arrive a day early."

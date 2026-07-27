@@ -48,7 +48,7 @@ layout: blog-post.njk
           "name": "Do you need a reservation for poolside dining in Palm Springs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It depends on the spot. Palm Canyon Swim & Social at ARRIVE is first come, first served for the restaurant, while the Colony Club and Sol y Sombra both take reservations and fill up on weekends. If your plan involves actually lounging by the pool rather than just eating, that is a separate day pass you almost always need to book in advance. When in doubt, call the venue the morning you plan to go."
+            "text": "It depends on the spot. Palm Canyon Swim & Social at ARRIVE is first come, first served for the restaurant, while the Colony Club and Sol y Sombra both take reservations and fill up on weekends. If your plan involves lounging by the pool rather than just eating, that is a separate day pass you almost always need to book in advance. When in doubt, call the venue the morning you plan to go."
           }
         },
         {
@@ -56,7 +56,7 @@ layout: blog-post.njk
           "name": "Where can I get the resort pool day near Indio and Coachella?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The closest resort pool experience to Indio is in Indian Wells, about 20 to 25 minutes west. The Renaissance Esmeralda runs a sandy-beach pool with the H2O Pool Bar and sells day passes to non-guests through ResortPass and Marriott's day pass site. If you are staying at one of our Indio rentals near Indian Palms, it is an easy afternoon out, though honestly the private pool at Terra Luz or the shared pool and private hot tub at The Cozy Cactus cover most of the craving without the drive."
+            "text": "The closest resort pool experience to Indio is in Indian Wells, about 20 to 25 minutes west. The Renaissance Esmeralda runs a sandy-beach pool with the H2O Pool Bar and sells day passes to non-guests through ResortPass and Marriott's day pass site. If you are staying at one of our Indio rentals near Indian Palms, it is an easy afternoon out, though the private pool at Terra Luz or the shared pool and private hot tub at The Cozy Cactus cover most of the craving without the drive."
           }
         }
       ]
@@ -67,7 +67,7 @@ layout: blog-post.njk
 
 <p>Some afternoons I want the whole resort-pool fantasy, a cold drink handed to me on a lounger, misted air, someone else running the umbrella, without paying three hundred dollars for a room I'm going to leave by noon. Turns out you don't have to. A good chunk of the valley's prettiest hotel pools and poolside kitchens will take you as a walk-in or a day-pass guest, no overnight required.</p>
 
-<p>I run three rentals out here and field this exact question from guests constantly: where can we get the vacation-pool feeling for a day without checking in somewhere. So here's the honest rundown of resort restaurants and poolside bars around Palm Springs and the Coachella Valley that welcome people who aren't hotel guests, organized by how you actually get in.</p>
+<p>I run three rentals out here and field this exact question from guests constantly: where can we get the vacation-pool feeling for a day without checking in somewhere. So here's the rundown of resort restaurants and poolside bars around Palm Springs and the Coachella Valley that welcome people who aren't hotel guests, organized by how you get in.</p>
 
 <p>Two quick rules before the list. First, dining and lounging are usually separate. A lot of these restaurants seat anyone off the street, but sitting by the pool on a chaise is a day pass you book ahead. Second, everything below is accurate as of 2026, and resort menus and hours move around more than you'd think, so call the morning you plan to go.</p>
 
@@ -148,7 +148,7 @@ layout: blog-post.njk
 <img src="/blog/images/bootlegger-tiki-palm-springs.webp" alt="Dim tiki-style resort lounge interior in Palm Springs, the kind of poolside-adjacent bar that serves walk-in guests" width="1200" height="630" loading="lazy">
 <p class="image-caption">Not every resort bar is out by the water. Some of the best drinks are in the dark little lounges off the pool deck.</p>
 
-<h2>How to actually pull this off</h2>
+<h2>How to pull this off</h2>
 
 <p>A few things I've learned sending guests to these places. Book any pool day pass or cabana ahead, ideally days out for a summer weekend, because they cap the number of non-guests and the good spots go first. Check the age policy, since a handful of these pools are adults-only and won't let kids in at all. And separate your two goals in your head: a walk-in lunch is easy and spontaneous, but a lounge-by-the-pool afternoon is a booking.</p>
 
@@ -168,7 +168,7 @@ layout: blog-post.njk
 <p>Several. As of 2026, Palm Canyon Swim &amp; Social at the ARRIVE hotel takes walk-in diners with no reservation, the Colony Club at Colony Palms is a Michelin-listed restaurant open to the public and bookable on OpenTable, and Sol y Sombra at the Paloma Resort in Cathedral City is a fully public tapas spot. The Barn Kitchen at Sparrows Lodge welcomes non-guests too, though seating is limited, so call ahead. Menus and hours shift, so confirm before you go.</p>
 
 <h3>Do you need a reservation for poolside dining in Palm Springs?</h3>
-<p>It depends on the spot. Palm Canyon Swim &amp; Social at ARRIVE is first come, first served for the restaurant, while the Colony Club and Sol y Sombra both take reservations and fill up on weekends. If your plan involves actually lounging by the pool rather than just eating, that is a separate day pass you almost always need to book in advance. When in doubt, call the venue the morning you plan to go.</p>
+<p>It depends on the spot. Palm Canyon Swim &amp; Social at ARRIVE is first come, first served for the restaurant, while the Colony Club and Sol y Sombra both take reservations and fill up on weekends. If your plan involves lounging by the pool rather than just eating, that is a separate day pass you almost always need to book in advance. When in doubt, call the venue the morning you plan to go.</p>
 
 <h3>Where can I get the resort pool day near Indio and Coachella?</h3>
 <p>The closest resort pool experience to Indio is in Indian Wells, about 20 to 25 minutes west, where the Renaissance Esmeralda runs a sandy-beach pool with the H2O Pool Bar and sells day passes to non-guests. If you're staying at one of our Indio rentals near Indian Palms, it's an easy afternoon out, though the private pool at <a href="/terra-luz/">Terra Luz</a> or the shared pool and private hot tub at <a href="/cozy-cactus/">The Cozy Cactus</a> cover most of the craving without the drive. Book either direct at <a href="https://indigopalm.co/">indigopalm.co</a> to skip Airbnb's 20% guest service fee.</p>

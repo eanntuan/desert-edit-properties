@@ -34,7 +34,7 @@ layout: blog-post.njk
 <img src="/blog/images/ps-boulevard-palms-mountains.webp" alt="Palm-lined boulevard in Palm Springs California with San Jacinto Mountains backdrop on a sunny day" width="2711" height="2711" loading="lazy">
 <p class="image-caption">Palm Springs has the walkability and the restaurant scene. If downtown access matters to your group, it's the better base.</p>
 
-<p>This is the first decision, and it's worth thinking through honestly. Palm Springs gives you a walkable downtown: coffee shops, boutiques, good restaurants, and a couple of bars within a few blocks of most rentals. If your group wants to walk to dinner, walk to brunch, and not get in the car every time you want something, Palm Springs is the right call.</p>
+<p>This is the first decision, and it's worth thinking through carefully. Palm Springs gives you a walkable downtown: coffee shops, boutiques, good restaurants, and a couple of bars within a few blocks of most rentals. If your group wants to walk to dinner, walk to brunch, and not get in the car every time you want something, Palm Springs is the right call.</p>
 
 <p>Indio, about 25 miles east, gives you more space and a bigger pool for the same or less money. A 3-bedroom rental with a full outdoor living area and a private heated pool runs $200-300 less per night than a comparable property in Palm Springs. For a group that wants to spend most of the weekend by the pool and doesn't care about walkability, Indio is worth considering seriously.</p>
 
@@ -52,7 +52,7 @@ layout: blog-post.njk
 <ul>
   <li><strong>Pool heat included:</strong> Palm Springs nights can be cool, even in summer. If you're going October through April, confirm the pool is heated and that it's included (some hosts charge extra).</li>
   <li><strong>Outdoor living space:</strong> A pool with no shaded lounge area is genuinely uncomfortable from 11am to 3pm. Look for covered patios or pergolas.</li>
-  <li><strong>Bedroom configuration:</strong> A house that sleeps 10 in 3 beds and a sleeper sofa is different from one with 5 actual bedrooms. Match the sleeping count to your group honestly.</li>
+  <li><strong>Bedroom configuration:</strong> A house that sleeps 10 in 3 beds and a sleeper sofa is different from one with 5 actual bedrooms. Match the sleeping count to your group carefully.</li>
   <li><strong>Noise policy:</strong> Many Palm Springs rentals have quiet hours and noise monitoring devices. Read the rules before you book. Violations can end a stay early.</li>
 </ul>
 
@@ -175,7 +175,7 @@ layout: blog-post.njk
 <p>Yes. Cheeky's for brunch (go before 10am or after 12:30pm to manage the wait). Workshop Kitchen + Bar for a dinner with a serious cocktail list. Tropicale for the mid-century throwback vibe. Eight4Nine for a dinner that transitions into lounge. Reservations are necessary for groups of 4 or more on weekends.</p>
 
 <h3>Is Indio or Palm Springs better for a bachelorette party?</h3>
-<p>Palm Springs if downtown walkability matters to your group. Indio if you want a larger private pool for less money and don't mind being 7 to 10 minutes from Palm Springs restaurants by car. Most groups choose Palm Springs for the energy and the ability to walk to things, but the Indio math is worth running honestly if budget is a real consideration. The full breakdown is in the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison.</a></p>
+<p>Palm Springs if downtown walkability matters to your group. Indio if you want a larger private pool for less money and don't mind being 7 to 10 minutes from Palm Springs restaurants by car. Most groups choose Palm Springs for the energy and the ability to walk to things, but the Indio math is worth running if budget is a real consideration. The full breakdown is in the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison.</a></p>
 
 <p class="cta-block">Planning a desert bachelorette? <a href="/the-sundune/">The Sundune</a> in Palm Springs sleeps 4 and has a balcony and community pool access. For a larger group that wants a private pool, <a href="/terra-luz/">Terra Luz</a> in Indio sleeps 8 with a private heated saltwater pool and covered patio. <a href="/terra-luz/">Check availability.</a></p>
 

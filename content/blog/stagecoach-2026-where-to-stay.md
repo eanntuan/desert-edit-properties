@@ -46,7 +46,7 @@ layout: blog-post.njk
   <li><strong>Coachella (city):</strong> 10-20 min. Cheaper inventory, more basic accommodations.</li>
   <li><strong>La Quinta:</strong> 15-25 min. Some nice properties here, slightly further south.</li>
   <li><strong>Indian Wells / Palm Desert:</strong> 20-35 min. Fine for a daytime festival, harder at midnight.</li>
-  <li><strong>Palm Springs:</strong> 30-60+ min with festival traffic. Budget the commute honestly.</li>
+  <li><strong>Palm Springs:</strong> 30-60+ min with festival traffic. Budget the commute realistically.</li>
 </ul>
 
 <h2>What to Look For in a Stagecoach Rental</h2>
@@ -126,7 +126,7 @@ layout: blog-post.njk
 <h2>FAQ: Stagecoach 2026</h2>
 
 <h3>How far is Stagecoach from Palm Springs?</h3>
-<p>About 24 miles, or 30 minutes on a normal day. On festival evenings when 80,000 people all exit at once, that stretch becomes 60 to 90 minutes each way. If you're staying in Palm Springs, build the commute honestly into your plan, because it compounds over three days.</p>
+<p>About 24 miles, or 30 minutes on a normal day. On festival evenings when 80,000 people all exit at once, that stretch becomes 60 to 90 minutes each way. If you're staying in Palm Springs, build the commute realistically into your plan, because it compounds over three days.</p>
 
 <h3>What is the best neighborhood to stay in for Stagecoach?</h3>
 <p>Indian Palms in Indio. It's a residential neighborhood walking distance to the Empire Polo Club, about 19 minutes on foot via Eisenhower Drive, or a short drive with no freeway. Vacation rentals here have private outdoor space, and you can walk home from the headliner without coordinating rides.</p>

@@ -21,7 +21,7 @@ layout: blog-post.njk
 
 <p>A flat nightly rate is wrong almost every night. Set it based on what you want to earn and you'll be too cheap during Coachella weekend and too expensive in July, losing money in both directions at once. The Coachella Valley is one of the clearest examples of this problem in the US, because the swings are so sharp and so predictable that there's really no excuse for getting it wrong.</p>
 
-<p>We run <a href="/blog/indigo-palm-properties/">three properties</a>: Terra Luz (3BR/2BA, Indio), The Cozy Cactus (3BR/2BA, Indio), and The Sundune (2BR/2BA, Palm Springs). Across 191 reviews and a few years of adjustments, here's how we actually think about pricing across this market.</p>
+<p>We run <a href="/blog/indigo-palm-properties/">three properties</a>: Terra Luz (3BR/2BA, Indio), The Cozy Cactus (3BR/2BA, Indio), and The Sundune (2BR/2BA, Palm Springs). Across 191 reviews and a few years of adjustments, here's how we think about pricing across this market.</p>
 
 <img src="/blog/images/terra-luz-outdoor-wide.webp" alt="Terra Luz vacation rental pool and outdoor living area in Indio California, Coachella Valley" loading="lazy" decoding="async" width="800" height="533">
 
@@ -39,7 +39,7 @@ layout: blog-post.njk
 
 <p>October through May, excluding festival weekends, is the main booking window. The Coachella Valley is busy with snowbirds, golfers, and long weekend travelers from LA. Weather is good. Demand is consistent but not explosive, which is exactly where dynamic pricing earns its keep.</p>
 
-<p>We use PriceLabs for this range. It reads local occupancy signals better than we can do manually, adjusts weekday/weekend splits automatically, and catches demand bumps around events we'd otherwise miss (the BNP Paribas tennis at Indian Wells, long weekends, local events). Set a rate floor, though. Without one, a slow weeknight in March can drop below what it actually costs you to host a stay, and that's not a booking you want.</p>
+<p>We use PriceLabs for this range. It reads local occupancy signals better than we can do manually, adjusts weekday/weekend splits automatically, and catches demand bumps around events we'd otherwise miss (the BNP Paribas tennis at Indian Wells, long weekends, local events). Set a rate floor, though. Without one, a slow weeknight in March can drop below what it costs you to host a stay, and that's not a booking you want.</p>
 
 <p>Minimum stay of 2 nights for weekends during peak shoulder season. Weekday minimums can stay at 1 night to keep the calendar moving.</p>
 
@@ -67,15 +67,15 @@ layout: blog-post.njk
 
 <p>Not good: major events. Coachella, Stagecoach, BNP Paribas, any festival or event that drives a sudden regional demand spike. The tool models demand based on historical data and current market signals, but it can't fully see the spike coming until it's already here. For those specific dates, set prices manually and lock them.</p>
 
-<p>Across 191 reviews and a few years of <a href="/blog/airbnb-hosting-lessons/">watching what actually affects guest behavior</a>, pricing is one of the things that feels strategic but is mostly just bookkeeping. Get the big windows right (festival, shoulder, summer), let the tool handle the middle, and don't over-optimize.</p>
+<p>Across 191 reviews and a few years of <a href="/blog/airbnb-hosting-lessons/">watching what affects guest behavior</a>, pricing is one of the things that feels strategic but is mostly just bookkeeping. Get the big windows right (festival, shoulder, summer), let the tool handle the middle, and don't over-optimize.</p>
 
 <h2>Setting Your Floor: Based on Costs, Not Hope</h2>
 
-<p>A floor rate is the minimum nightly rate you'll accept. It should be based on your actual costs: your carrying cost per night (mortgage or rent), cleaning fee, utilities, and platform fees. Not based on what you're hoping to net, and not based on what your neighbor charges.</p>
+<p>A floor rate is the minimum nightly rate you'll accept. It should be based on your real costs: your carrying cost per night (mortgage or rent), cleaning fee, utilities, and platform fees. Not based on what you're hoping to net, and not based on what your neighbor charges.</p>
 
 <p>For a 3BR in Indio during dead summer, our floor is lower than most hosts are comfortable with. That's fine. A booked night at the floor beats an empty calendar at a rate nobody's willing to pay. Where a lot of hosts go wrong is setting the floor based on aspirational income, then watching July and August go completely dark while telling themselves they'd rather leave it empty than "give it away."</p>
 
-<p>Set the floor at your break-even. Then make pricing decisions above that based on what the market will actually bear.</p>
+<p>Set the floor at your break-even. Then make pricing decisions above that based on what the market will bear.</p>
 
 <h2>The Cleaning Fee Question</h2>
 
@@ -83,7 +83,7 @@ layout: blog-post.njk
 
 <p>We keep cleaning fees consistent across the calendar and raise the nightly rate instead of inflating the cleaning fee to artificially lower the displayed nightly rate. Guests notice the cleaning fee when they're comparing options, and a cleaning fee that looks out of line with the nightly rate raises questions before the booking even happens.</p>
 
-<h2>Direct Booking and What the Fee Math Actually Looks Like</h2>
+<h2>Direct Booking and What the Fee Math Looks Like</h2>
 
 <p>When guests book direct at indigopalm.co, there's no Airbnb 20% service fee. On a $1,250 booking that's $250 the guest keeps before taxes. You can pass some of that savings to the guest with a modest direct booking discount and still net more than you would through Airbnb. We've written out the full math on <a href="/blog/why-book-direct-vacation-rental/">why direct booking saves guests real money</a> if you want to see how it works in practice.</p>
 
@@ -93,7 +93,7 @@ layout: blog-post.njk
 
 <p>Pricing is a live experiment, not a set-it-and-forget situation. Check your calendar occupancy monthly and compare it to competitors on Airbnb. If you're filling 90 days out, your floor is probably too low. If you have open dates 30 days out in peak season, your rate is probably too high for that window.</p>
 
-<p>The goal isn't 100% occupancy. It's revenue maximization across the whole calendar, which sometimes means leaving a bad-fit booking opportunity empty and waiting for a better one. That calculus changes completely between festival weekends and dead summer, which is the whole point: price each window for what it actually is, not for what you need it to be.</p>
+<p>The goal isn't 100% occupancy. It's revenue maximization across the whole calendar, which sometimes means leaving a bad-fit booking opportunity empty and waiting for a better one. That calculus changes completely between festival weekends and dead summer, which is the whole point: price each window for what it is, not for what you need it to be.</p>
 
 <script type="application/ld+json">
 {
@@ -121,7 +121,7 @@ layout: blog-post.njk
       "name": "What is a good floor rate for a vacation rental?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Set your floor rate based on your actual costs: mortgage or carrying cost per night, cleaning fee amortized, utilities, and platform fees. Don't set it based on what you want to earn. Set it at the minimum you can accept without losing money on a booking. In soft seasons, a booked night at your floor beats an empty calendar at your target rate."
+        "text": "Set your floor rate based on your real costs: mortgage or carrying cost per night, cleaning fee amortized, utilities, and platform fees. Don't set it based on what you want to earn. Set it at the minimum you can accept without losing money on a booking. In soft seasons, a booked night at your floor beats an empty calendar at your target rate."
       }
     },
     {

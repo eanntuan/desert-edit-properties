@@ -84,7 +84,7 @@ layout: blog-post.njk
 <p>La Quinta is a 20-minute drive from Palm Springs and worth making the trip for. It pairs well with a walk through Old Town if you want to stretch your legs between festival days. Read more about the broader valley in our <a href="/blog/coachella-valley-insider-guide/">Coachella Valley insider guide</a>.</p>
 
 <img src="/blog/images/yes-please-la-quinta.webp" alt="Avocado toast, omelette, matcha latte, and cappuccino at Yes Please café in La Quinta" width="1400" height="1050" loading="lazy">
-<p class="image-caption">The scones are the move, but honestly everything on this table was a yes from me.</p>
+<p class="image-caption">The scones are the move, but everything on this table was a yes from me.</p>
 
 <h2>5. Saguaro Coffee, Indio</h2>
 <div class="shop-links">
@@ -115,7 +115,7 @@ layout: blog-post.njk
     <a href="https://www.instagram.com/coffeeismco/" target="_blank" rel="noopener">@coffeeismco</a>
 </div>
 
-<p>Owner Guillaume Galataud spent time in the coffee scenes of Tokyo, Mexico City, and Melbourne before opening this, and the drinks show it. Pineapple and espresso. Juice-spiked lattes that look more like cocktails than morning beverages. He calls it "coffee 2.0," which sounds like a pitch but holds up in practice: the combinations are layered and actually work rather than just being weird.</p>
+<p>Owner Guillaume Galataud spent time in the coffee scenes of Tokyo, Mexico City, and Melbourne before opening this, and the drinks show it. Pineapple and espresso. Juice-spiked lattes that look more like cocktails than morning beverages. He calls it "coffee 2.0," which sounds like a pitch but holds up in practice: the combinations are layered and hold up rather than just being weird.</p>
 
 <p>Go if you want something you won't find anywhere else in the valley. Skip it if you want a cortado and a quiet corner, because this is not that kind of shop.</p>
 
@@ -135,7 +135,7 @@ layout: blog-post.njk
     <a href="https://www.instagram.com/buenamatcha/" target="_blank" rel="noopener">@buenamatcha</a>
 </div>
 
-<p>The Coachella Valley's first dedicated matcha shop, which took a surprisingly long time given the climate. Co-owners Kayla and Nahum Munoz lean into bright, cooling flavors over ice, which is not a stylistic choice so much as the only reasonable way to drink matcha when it's 108 degrees outside. The menu is focused rather than sprawling, and the matcha quality is the actual focus.</p>
+<p>The Coachella Valley's first dedicated matcha shop, which took a surprisingly long time given the climate. Co-owners Kayla and Nahum Munoz lean into bright, cooling flavors over ice, which is not a stylistic choice so much as the only reasonable way to drink matcha when it's 108 degrees outside. The menu is focused rather than sprawling, and the matcha quality is the whole point.</p>
 
 <p>Worth a stop on the way through Palm Desert. If you're doing the El Paseo stretch or hitting the outlet malls, it's an easy add.</p>
 
@@ -214,7 +214,7 @@ layout: blog-post.njk
 <p>Koffi has multiple locations. The flagship with the best outdoor seating is at 515 N Palm Canyon Dr. There's also a location at 1700 S Camino Real and a newer outpost further north. All three are worth knowing; the North Palm Canyon location is the right one for a slow morning with somewhere to sit.</p>
 
 <h3>What should I order at Cartel Coffee Lab in Palm Springs?</h3>
-<p>Cold brew if you're visiting in the hot months. Their focus is on direct-trade, single-origin beans, so whatever pour-over or espresso they're featuring on a given day is usually the honest answer. The Arrive Hotel location is well-designed and worth stopping for even if coffee wasn't your original plan.</p>
+<p>Cold brew if you're visiting in the hot months. Their focus is on direct-trade, single-origin beans, so whatever pour-over or espresso they're featuring on a given day is usually the best answer. The Arrive Hotel location is well-designed and worth stopping for even if coffee wasn't your original plan.</p>
 
 <h3>Where can I get matcha in the Coachella Valley?</h3>
 <p>Buena Matcha in Palm Desert is the valley's first dedicated matcha shop, focused on bright, cooling flavors over ice. Everbloom in Indio also does a standout matcha latte. Mentosa Coffee at the Mojave Flea Trading Post in Palm Springs has creative drinks worth trying. All three take the ingredient seriously rather than treating it as a color option.</p>
@@ -299,7 +299,7 @@ layout: blog-post.njk
 <p>Cartel Coffee Lab sets up a pop-up at Empire Polo Club during festival weekends, so you can get real specialty coffee without leaving the grounds. For Indio shops near the polo fields, Everbloom Coffee on Highway 111 is a 5-minute drive with the best matcha latte in the valley and solid espresso. Saguaro Coffee and The Vintage Coffee House are both close and low-friction for a pre-festival morning run.</p>
 
 <h4>What is the most creative or unusual coffee drink in the Coachella Valley?</h4>
-<p>Coffeeism Co. in Palm Springs is the answer: owner Guillaume Galataud trained in Tokyo, Mexico City, and Melbourne, and the drinks show it, including pineapple and espresso combinations and juice-spiked lattes that hold up as actual drinks rather than novelty. Mentosa Coffee at the Mojave Flea Trading Post is the other contender, with The Whisper (coconut, orange, cinnamon, vanilla cold foam) as the standout. Both are Palm Springs-specific experiences you won't find replicated elsewhere.</p>
+<p>Coffeeism Co. in Palm Springs is the answer: owner Guillaume Galataud trained in Tokyo, Mexico City, and Melbourne, and the drinks show it, including pineapple and espresso combinations and juice-spiked lattes that hold up rather than reading as novelty. Mentosa Coffee at the Mojave Flea Trading Post is the other contender, with The Whisper (coconut, orange, cinnamon, vanilla cold foam) as the standout. Both are Palm Springs-specific experiences you won't find replicated elsewhere.</p>
 
 <h4>Is there a coffee shop in the Coachella Valley open early enough for a sunrise morning?</h4>
 <p>Most of the shops on this list open between 6:30 and 7 AM, which gives you a window before the heat builds in summer. Koffi's North Palm Canyon patio is especially worth it in winter and spring when mornings run 60-65°F and clear. In summer, the practical rule is to finish your coffee run before 9 AM: not because shops close, but because the heat at 11 AM changes the experience considerably. More on valley logistics and what to do after your morning coffee at <a href="https://indigopalm.co/blog/palm-springs-coffee-guide/">indigopalm.co/blog/palm-springs-coffee-guide/</a>.</p>

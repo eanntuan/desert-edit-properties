@@ -22,9 +22,9 @@ excerpt: "How a Latin/Cuban-inspired vacation rental in Indio became Terra Luz: 
 layout: blog-post.njk
 ---
 
-<p>When we first bought this house in Indio, it was called "Pacino," after the street name, which felt about as romantic as naming your firstborn "Highway 111." Then came "Casa Moto," a nod to vintage motorcycles and mid-century vibes. Not bad, honestly. But as the house started taking shape, the name kept feeling wrong in a way I couldn't explain.</p>
+<p>When we first bought this house in Indio, it was called "Pacino," after the street name, which felt about as romantic as naming your firstborn "Highway 111." Then came "Casa Moto," a nod to vintage motorcycles and mid-century vibes. Not bad. But as the house started taking shape, the name kept feeling wrong in a way I couldn't explain.</p>
 
-<p>We'd painted walls, sourced furniture, hosted guests, and still the name felt like borrowed clothes. It described what we <em>had</em> in the house, not what the house <em>was</em>. Not what it felt like to actually be there.</p>
+<p>We'd painted walls, sourced furniture, hosted guests, and still the name felt like borrowed clothes. It described what we <em>had</em> in the house, not what the house <em>was</em>. Not what it felt like to be there.</p>
 
 <h2>The Moment Everything Changed</h2>
 
@@ -40,7 +40,7 @@ layout: blog-post.njk
 
 <p><strong>Terra Luz</strong> means earth and light. "Terra" for the terracotta walls and natural textures that root the house in the desert. "Luz" for the way light moves through every room, off the pool, across the kitchen bar, through the colors and the art, filling the whole place with something warm and a little hard to name.</p>
 
-<p>It's also a nod to something we'd always been drawn to: Latin and Cuban culture. Old Havana feels relaxed and rhythmic at the same time. Bold color, indoor-outdoor flow, spaces designed to actually live in. We wanted that feeling here in the desert, translated through terracotta and 300 days of sun.</p>
+<p>It's also a nod to something we'd always been drawn to: Latin and Cuban culture. Old Havana feels relaxed and rhythmic at the same time. Bold color, indoor-outdoor flow, spaces designed to live in. We wanted that feeling here in the desert, translated through terracotta and 300 days of sun.</p>
 
 <p>The name fit like nothing else had.</p>
 
@@ -79,7 +79,7 @@ layout: blog-post.njk
 
 <p>Terra Luz is a vibrant Indio cabana retreat blending Old Havana character and desert warmth, with a one-of-a-kind, color-drenched pool and patio made for slow, sun-soaked days.</p>
 
-<p>Every choice was made with one question: does this help you actually live here for a few days?</p>
+<p>Every choice was made with one question: does this help you live here for a few days?</p>
 
 <ul>
     <li>The kitchen nook is a full moment: terracotta walls, a round wood table, rattan chairs, a capiz shell pendant overhead, and a sage credenza lined with Cuban and Latin art. You will eat breakfast here every morning and not want to leave.</li>
@@ -105,7 +105,7 @@ layout: blog-post.njk
 
 <h2>Who This Place Is For</h2>
 
-<p>Honestly, Terra Luz isn't for everyone. The guests who love it travel with intention, groups and couples who value sun-soaked afternoons over rigid itineraries, who want to linger over coffee and actually feel somewhere rather than pass through it.</p>
+<p>Terra Luz isn't for everyone. The guests who love it travel with intention, groups and couples who value sun-soaked afternoons over rigid itineraries, who want to linger over coffee and feel somewhere rather than pass through it.</p>
 
 <p>If you're the kind of person who plays backgammon for three hours and doesn't check your email all weekend, you're going to be fine here.</p>
 
@@ -118,7 +118,7 @@ layout: blog-post.njk
 
 <p>This is more than a Coachella vacation rental or a Palm Springs getaway. It's a love letter to the desert, built into a house. Read more about <a href="/blog/desert-vacation-prep/">how to prepare for your desert stay</a> and what to expect when you get here.</p>
 
-<p>For the honest guest perspective on what staying here is like, read the <a href="/blog/terra-luz-review/">Terra Luz review</a>. If you're ready to book, <a href="/terra-luz/">Terra Luz</a> is open for summer 2026 and beyond.</p>
+<p>For the guest perspective on what staying here is like, read the <a href="/blog/terra-luz-review/">Terra Luz review</a>. If you're ready to book, <a href="/terra-luz/">Terra Luz</a> is open for summer 2026 and beyond.</p>
 
 <h2>FAQ: Terra Luz</h2>
 

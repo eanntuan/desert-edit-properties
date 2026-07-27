@@ -55,7 +55,7 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-cali-room-workstation-reveal.webp" alt="Louvered bifold doors fully open revealing the Frida Kahlo blue workstation in the Cali Room at Terra Luz, with floating desk, rattan chair, woven storage baskets, and blue fiddle leaf fig pot" width="1066" height="1600" loading="lazy">
 <p class="image-caption">The reveal. Bifold doors open, Kahlo Blue wall, desk ready. Close them and the whole workspace disappears.</p>
 
-<p>The desk is a Lowe's butcher block that we hand cut to span the full width of the closet, about 25" deep. Deep enough to actually work at rather than perch a laptop on the edge. The terracotta tile continues into the closet floor, threading the same material through every room in the house.</p>
+<p>The desk is a Lowe's butcher block that we hand cut to span the full width of the closet, about 25" deep. Deep enough to work at rather than perch a laptop on the edge. The terracotta tile continues into the closet floor, threading the same material through every room in the house.</p>
 
 <h2>Rug, curtains, books, floor cushions</h2>
 
@@ -86,7 +86,7 @@ layout: blog-post.njk
 
 <h2>Who this room works for</h2>
 
-<p>If you're a family with one or two kids, this is the room. King sleeps two adults, trundle adds a child's bed without bringing in a separate cot, and the books and cushions are already there. If you booked Terra Luz for a work-from-desert trip, the desk actually functions as a workspace rather than just being decorative. And if you're in a group of eight and this is the room that's left, it'll be comfortable and not boring to look at.</p>
+<p>If you're a family with one or two kids, this is the room. King sleeps two adults, trundle adds a child's bed without bringing in a separate cot, and the books and cushions are already there. If you booked Terra Luz for a work-from-desert trip, the desk functions as a workspace rather than just being decorative. And if you're in a group of eight and this is the room that's left, it'll be comfortable and not boring to look at.</p>
 
 <p>The house sleeps eight across three bedrooms. For everything else at Terra Luz, pool to outdoor kitchen, read <a href="/blog/terra-luz-what-i-built/">what I built</a>. Bringing a dog? Check the <a href="/blog/terra-luz-dog-friendly-coachella/">pet policy first</a>. Book direct at <a href="/terra-luz/">indigopalm.co/terra-luz</a>.</p>
 
@@ -105,7 +105,7 @@ layout: blog-post.njk
     },
     {
       "@type": "Question",
-      "name": "Can you actually use the desk in the Cali Room for remote work?",
+      "name": "Can you use the desk in the Cali Room for remote work?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. The workstation behind the bifold doors has a floating live-edge desk cut 25 inches deep, wide enough for a monitor setup. A rattan wishbone chair and mounted TV are included. Close the bifold doors and the workspace disappears completely, so the room doesn't feel like an office for guests who don't need it."
@@ -147,7 +147,7 @@ layout: blog-post.njk
 <h4>Does the Cali Room trundle work for adults or only for children?</h4>
 <p>The trundle was built from 2x2 plywood with caster wheels and fits within 14 inches of clearance under the king frame. It sleeps a child comfortably and a smaller adult fine for a few nights, though it's not as deep as a standard twin mattress. Most guests use it for a kid or a solo third person who doesn't need a full bed.</p>
 
-<h4>Can you actually use the desk in the Cali Room for remote work?</h4>
+<h4>Can you use the desk in the Cali Room for remote work?</h4>
 <p>Yes. The workstation behind the bifold doors has a floating live-edge desk cut 25 inches deep, wide enough for a monitor setup rather than just a laptop perched at the edge. A rattan wishbone chair and TV above the desk are included. Close the bifold doors and the workspace disappears completely, so the room doesn't feel like an office for guests who don't need it.</p>
 
 <h4>What kind of kids' amenities are already in the room?</h4>

@@ -26,7 +26,7 @@ layout: blog-post.njk
 
 <p>The moment it clicked was the boob lights. Every single room had them. Round, frosted-glass globe fixtures from approximately 1994, the kind that make even a nice space look like a waiting room. I was staring at one in what would become the master bedroom, trying to figure out why the white walls I'd just painted still felt off, and I realized the ceiling was undermining everything. Pulled every one of them out and replaced them with simple modern fixtures the same week. The house changed overnight.</p>
 
-<p>That's the part nobody really talks about with vacation rental design: the bones come before the aesthetic. (<a href="/blog/cozy-cactus-origin-story/">If you missed Part 1</a>, it involves a Honda Element, Easter Sunday, and a real estate offer written in someone's living room.) Once I had the house, the job was making it into something people would actually want to stay in. Here's what I learned doing it.</p>
+<p>That's the part nobody really talks about with vacation rental design: the bones come before the aesthetic. (<a href="/blog/cozy-cactus-origin-story/">If you missed Part 1</a>, it involves a Honda Element, Easter Sunday, and a real estate offer written in someone's living room.) Once I had the house, the job was making it into something people would want to stay in. Here's what I learned doing it.</p>
 
 <h2>First: the bones.</h2>
 
@@ -69,7 +69,7 @@ layout: blog-post.njk
 
 <p>Six brand filters. Six words that would govern every single decision going forward: furniture, linens, wall art, the color of the throw blanket, all of it. She introduced me to "experiential hospitality" (her buzz words; I've since stolen them entirely) and the idea that every detail either adds to the experience or subtracts from it. There's no neutral. A dull knife subtracts. A good coffee bar adds. A boob light subtracts. (We'd already handled those, but still.)</p>
 
-<p>She gave The Cozy Cactus its actual identity: turquoise, coral, pineapple yellow. Not safe beige. Not the generic "coastal grandmother" look every other desert rental was doing. Something that made you feel something the moment you walked in the door.</p>
+<p>She gave The Cozy Cactus its identity: turquoise, coral, pineapple yellow. Not safe beige. Not the generic "coastal grandmother" look every other desert rental was doing. Something that made you feel something the moment you walked in the door.</p>
 
 <img src="/blog/images/cc-bedroom-closet-wide.webp" alt="The Cozy Cactus bedroom after renovation with navy geometric wallpaper closet, emerald green velvet chair, and mustard pouf" loading="lazy" decoding="async" width="800" height="533">
 <p class="image-caption">After Dawn: the bedroom that makes guests photograph the closet before they unpack<br><small>Photo: Third Wall Photography | Styling: The Olive Jar</small></p>

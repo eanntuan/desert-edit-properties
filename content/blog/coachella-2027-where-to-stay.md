@@ -20,7 +20,7 @@ keywords:
 articleSection: "Festival Guide"
 property: all
 readTime: "7 min read"
-excerpt: "Private home or hotel for Coachella 2027? Why Indio, not Palm Springs, is the right base, what walking distance to the polo grounds actually changes, and how to pick a rental that earns its keep across all three days."
+excerpt: "Private home or hotel for Coachella 2027? Why Indio, not Palm Springs, is the right base, what walking distance to the polo grounds changes, and how to pick a rental that earns its keep across all three days."
 layout: blog-post.njk
 relatedPosts:
   - title: "Stagecoach 2027: Where to Stay Near the Festival"
@@ -73,7 +73,7 @@ relatedPosts:
 
 <p><strong>Private pool, heated.</strong> April nights in the desert drop to the mid-50s. An unheated pool is mostly decorative. Confirm the pool is heated and ask what the process is for setting the temperature. A heated pool at 11pm after the headliner is a specific kind of good.</p>
 
-<p><strong>Group sleeping capacity that actually works.</strong> A house advertised as "sleeps 8" sometimes means 4 real beds and 4 pull-out situations. Check the actual bedroom count and bed sizes in reviews, not just the maximum occupancy number. Festival weekends require real sleep, not couch logistics.</p>
+<p><strong>Group sleeping capacity that works.</strong> A house advertised as "sleeps 8" sometimes means 4 real beds and 4 pull-out situations. Check the actual bedroom count and bed sizes in reviews, not just the maximum occupancy number. Festival weekends require real sleep, not couch logistics.</p>
 
 <p><strong>Kitchen that covers breakfast.</strong> Festival food is expensive and stadium coffee is an act of desperation. A kitchen with enough counter space and a real coffee setup saves real money and starts every day better. Stock up at a grocery store on arrival day before the crowds hit.</p>
 
@@ -97,7 +97,7 @@ relatedPosts:
 <p>For groups of four or more, the math shifts hard toward Indio. More space per dollar, private pools that don't require sharing with twelve other hotel guests, and the logistics of being close to the grounds compound over three days in ways that are hard to appreciate until day two. The <a href="/blog/palm-springs-vs-indio/">full comparison of Palm Springs vs Indio</a> covers this in detail for anyone who wants to think it through.</p>
 
 <img src="/blog/images/coachella-valley-map.webp" alt="Map of the Coachella Valley showing Palm Springs, Indio, and the location of the Empire Polo Club festival grounds" width="1400" height="933" loading="lazy">
-<p class="image-caption">The valley geography. Palm Springs is the well-known western anchor; Indio is the eastern city where the festival actually is. The Indian Palms neighborhood sits a mile east of the polo grounds.</p>
+<p class="image-caption">The valley geography. Palm Springs is the well-known western anchor; Indio is the eastern city where the festival is. The Indian Palms neighborhood sits a mile east of the polo grounds.</p>
 
 <h2>How to Book Direct and What It Saves</h2>
 
@@ -113,7 +113,7 @@ relatedPosts:
 
 <h2>FAQ: Coachella 2027 Where to Stay</h2>
 
-<h3>Is Indian Palms Country Club actually walking distance to Coachella?</h3>
+<h3>Is Indian Palms Country Club within walking distance of Coachella?</h3>
 <p>Yes. The walk from most Indian Palms rentals to the festival entrance is 1.5-2 miles via Eisenhower Drive, roughly 19-25 minutes on foot. That's one of the only Coachella Valley neighborhoods where walking is a real option. The walk back at midnight is flatter and quieter than you'd expect.</p>
 
 <h3>What's the difference between Coachella Weekend 1 and Weekend 2?</h3>
@@ -132,7 +132,7 @@ relatedPosts:
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is Indian Palms Country Club actually walking distance to Coachella?",
+      "name": "Is Indian Palms Country Club within walking distance of Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. The walk from most Indian Palms rentals to the festival entrance is 1.5-2 miles via Eisenhower Drive, roughly 19-25 minutes on foot. That is one of the only Coachella Valley neighborhoods where walking is a real option, in both directions, all three days."
@@ -180,7 +180,7 @@ relatedPosts:
     },
     {
       "@type": "Question",
-      "name": "What does a heated pool actually mean for an April Coachella rental?",
+      "name": "What does a heated pool mean for an April Coachella rental?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "April nights in the Coachella desert drop to the mid-50s, so an unheated pool is mostly decorative after sunset. Ask whether pool heating is included as a standard amenity or costs extra, and how much lead time the host needs to warm it before arrival."
@@ -199,7 +199,7 @@ relatedPosts:
 <h4>Is it better to rent a vacation home or stay in a hotel for Coachella?</h4>
 <p>For groups of four or more, a vacation rental with a kitchen and private pool almost always costs less in total once you account for food and rideshares over three days. Walking-distance Indio properties eliminate rideshare costs entirely and let you return mid-day to recover, which hotel guests 30-45 minutes away in Palm Springs cannot do. Booking direct at <a href="https://indigopalm.co" target="_blank" rel="noopener noreferrer">indigopalm.co</a> also removes the Airbnb service fee, which is 20% of the subtotal on a multi-night stay.</p>
 
-<h4>What does "heated pool" actually mean for an April Coachella rental?</h4>
+<h4>What does "heated pool" mean for an April Coachella rental?</h4>
 <p>April nights in the Coachella desert drop to the mid-50s, so an unheated pool is mostly decorative after sunset. Ask the host specifically whether pool heating is a standard included amenity or an add-on, what the nightly cost is if it's extra, and how much lead time is needed to warm the pool before arrival. A heated pool at 11pm after the headliner is a specific and very good thing.</p>
 
 <div style="background: #fff8e7; border-left: 3px solid #B67550; padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: 0 6px 6px 0;">
