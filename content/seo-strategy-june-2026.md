@@ -2017,3 +2017,66 @@ No new post or update warranted this run.
 ### Hero Image Audit — 2026-07-24
 
 No full pass. Last full inventory 2026-07-13 (11 days, inside the 30-day window). No new blog posts published this run (both PSL candidates declined), so nothing new to re-check. Next full pass due on/after 2026-08-12.
+
+---
+
+### New from Rachel — 2026-07-27
+
+RSS feed (`heraiempire.substack.com/feed`) checked. All 20 posts in the feed are already in the processed list; newest is still `how-to-make-ai-automated-social-media` (2026-07-21, spawned RG-22). No new posts since. Nothing to synthesize this run.
+
+### What changed on 2026-07-27 — GSC Check-in
+
+**Period:** 2026-04-28 to 2026-07-27 (90 days) vs. 2026-01-27 to 2026-04-27
+
+**Overall:** 268 clicks, 36,286 impressions, 0.7% CTR, avg position 12.4 (prior period: 44 clicks, 5,079 impressions — +224 clicks, +31,207 impressions). Up slightly vs. the 7/24 pull (255 clicks, 35,258 impr) — steady growth, no volatility.
+
+**Device:** Mobile 184 clicks / 17,020 impr / 1.1% CTR / pos 8.8. Desktop 80 clicks / 18,981 impr / 0.4% CTR / pos 15.7. Tablet 4 clicks / 285 impr / 1.4% CTR / pos 8.1. Same mobile-outperforms-desktop pattern as every prior pull.
+
+**What's working:** Same winners holding: `/blog/palm-springs-surf-club/` (51 clicks, 9,726 impr, pos 9.2), `/blog/palm-springs-vs-scottsdale/` (34 clicks, 2,110 impr, 1.6% CTR, pos 7.8), `/blog/palm-springs-vs-indio/` (31 clicks, 6,276 impr, pos 7.8), `/blog/indio-local-gems/` (19 clicks, 2.4% CTR), `/blog/outdoor-furniture-desert-heat/` (19 clicks, 2.8% CTR), `/blog/palm-springs-heat-activities/` (13 clicks, 2.9% CTR). No new action — multiple passes already done on all of these.
+
+**CTR opportunities / weak pages (evaluated, no new actionable rewrites):**
+- Every title/meta target the diagnostic flagged this run has already been rewritten in a prior run: `palm-springs-aerial-tram` (GSC-3, rewritten 6/22), `where-to-stay-coachella` (title+meta rewritten 6/26), `stagecoach-2027-where-to-stay` (title already sharp, 5/5), `classpass-palm-springs` (declined twice for thin ~108-impr volume + branded queries), `best-pastries-palm-springs` and `lax-to-palm-springs` (declined per 7/18-7/24 rulings — position/authority, not title).
+- `where-to-stay-coachella`: 5,154 impr, 9 clicks, 0.2% CTR, pos 11.8 — highest-volume low-CTR page, but title/meta already rewritten 6/26 and it sits at page-2 border. Reaffirmed as a position/authority problem (needs backlinks/depth), not title churn.
+- GSC-23 (`idyllwild-day-trip-palm-springs`) and GSC-24 (`best-vacation-rentals-pool-coachella-valley`) still in their holding window — measure CTR lift at the 2026-07-29+ check-in as planned.
+
+**Carry-forward flags (unchanged):**
+- `airbnb rentals indio`: 128 impr, 0 clicks, pos 1.0 — recurring; needs a filtered Search Console UI pull to identify the ranking page (the report tool structurally can't cross-tab query→page). Standing flag for Eann.
+- `how far is indio from palm springs`: 869 impr, pos 7.5, 0.1% CTR — reaffirmed non-actionable (SERP-answered-inline zero-click query).
+
+**Action items generated:** none new. Hold GSC-23/24 lift measurement for 7/29+.
+
+### Pinterest Check-in — 2026-07-27
+
+**Live pull** (`pinterest-publisher/scripts/get_analytics.py --account --days 30`, 2026-06-27 to 2026-07-27): 41,420 impressions, 260 pin clicks, 236 outbound clicks, **2 saves**. Up slightly on volume vs. the 7/24 pull (38,715 / 251 / 226 / 3 saves); saves ticked down to 2. Same paid-Performance+-driven traffic pattern with a weak organic save signal as every prior check-in.
+
+**Monthly viewers:** Still unknown — 11th consecutive check-in flagging this. Account-level impressions blend the ~$200/mo paid campaign with organic and are NOT the "monthly viewers" figure the 25-30K link-switch threshold is based on. Last real figure remains ~20K (June 3 screenshot, now 54 days stale). No fresher figure logged in `sabbir_context.md` or memory.
+
+**Link status:** Airbnb. Threshold not confirmed hit — do not switch links off Airbnb without a direct monthly-viewers login confirming ≥25K.
+
+**Action items:** none auto-actionable (monthly-viewers pull is Eann's manual task in Pinterest Business Hub; 11 consecutive check-ins open on this single item).
+
+### GA4 Check-in — 2026-07-27
+
+**Fresh API pull** (`ga4_report.py`, property 519325194, 7 days 2026-07-20 to 2026-07-27) — first fresh GA4 data since the API path replaced the stale 7/11 CSV that runs 7/13-7/24 were stuck re-reading.
+
+**Overall:** 136 active users (up from 96 prior week), 143 new, 157 sessions, 72s avg session duration (down from 90s), 591 events. Growth in users/sessions, slight dip in session duration.
+
+**Traffic source mix:** Organic Search 55 sessions / 43 users, Organic Social 30 / 23, Direct 22 / 20, Unassigned 10, AI Assistant 4. Organic Social (Pinterest) is now ~55% of Organic Search volume — the Pinterest push is contributing real sessions, consistent with the standing Pinterest≈Google-organic-parity observation.
+
+**High-bounce pages (50+ views, >60% bounce):** none crossed the 50-view threshold this 7-day window.
+
+**Watch (below 50-view threshold but notable):** `/cozy-cactus/` 33 views / 80.6% bounce / 18s — the recurring Cozy Cactus bounce concern; RG-21's 7/13 above-the-fold fix still not visibly moving it, but volume too thin (33 views) to auto-action. Homepage `/` 13 views / 69.2% bounce / 10s. Terra Luz page shows healthy 566s avg session on 6 views.
+
+**Property page visibility:** Terra Luz 7 / Cozy Cactus 33 / Sundune 7. Cozy Cactus dominates; Terra Luz and Sundune both thin. Sundune visibility gap persists (same pattern flagged since 7/13).
+
+**Action items generated:** none auto-actionable this run. Continue watching Cozy Cactus bounce as views accumulate toward the 50-view actionability threshold; if it holds >60% at 50+ views, queue an above-the-fold/CTA rework beyond the RG-21 fix.
+
+### PSL Newsletter Inspo — 2026-07-27 (1 update applied)
+
+Three `news@palmspringslife.com` emails in the window; the 7/24 9am "Does Sunshine Actually Benefit Health?" was already declined on the 7/24 run, leaving two new:
+- **"COOL! Kids 12 and under visit Palm Springs Air Museum FREE"** (7/24 2pm) — **actioned as an update.** Thin promo email, but it surfaced one genuinely useful, guest-relevant, air-conditioned summer activity the `palm-springs-heat-activities` post was missing entirely. Verified the facts independently against the museum's own site (75+ vintage aircraft, climate-controlled hangars, open daily 10am-5pm, $25 adult / $23 teen-senior, kids 12 & under free with a paid adult and all 12-and-under free through summer, 745 N Gene Autry Trail). Added a new section, a quick-reference table row, an FAQ mention, a keyword, and bumped `dateModified` to 2026-07-27. No PSL prose reproduced; facts only. Committed + pushed (`2ee1b4d`).
+- **"Why Do Cicadas Buzz?"** (7/27) — **declined.** Contents are a novelty cicada explainer plus event listings (DWTS Con 7/31-8/3, Jake Owen 7/31, Splash House Wknd 1 Aug 7-9, PS Vintage Market Aug 2, Desert to Desert Aug 1) and two PSL listicles ("7 Vintage Shops," "20 Museums & Roadside Attractions"). Events are time-sensitive with no lodging gap distinct from existing Coachella/Stagecoach posts; the listicles would require full independent re-sourcing (a >2hr new post) with weak direct-booking intent. No extractable single-fact update warranted.
+
+### Hero Image Audit — 2026-07-27
+
+No full pass. Last full inventory 2026-07-13 (14 days, inside the 30-day window). No new blog post published this run — the only content change was an in-place update to `palm-springs-heat-activities` that didn't touch its hero image. Nothing new to re-check. Next full pass due on/after 2026-08-12.
