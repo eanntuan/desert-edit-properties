@@ -56,7 +56,7 @@ layout: blog-post.njk
   <li><strong>Noise policy:</strong> Many Palm Springs rentals have quiet hours and noise monitoring devices. Read the rules before you book. Violations can end a stay early.</li>
 </ul>
 
-<p>Our property in Palm Springs, <a href="/the-sundune/">The Sundune</a>, is a 2-bedroom with a balcony and community pool access, good for a smaller group of 4-5. For a group of 6-8 that wants a private pool, <a href="/terra-luz/">Terra Luz</a> in Indio is the right call. It's a 3-bedroom that sleeps 8, with a private heated saltwater pool, covered pergola patio, and enough outdoor space to spend a full day without needing the car. It's 7-10 minutes from Palm Springs restaurants if you want a day trip into the city.</p>
+<p>Our property in Palm Springs, <a href="/the-sundune/">The Sundune</a>, is a 2-bedroom with a balcony and community pool access, good for a smaller group of 4-5. For a group of 6-8 that wants a private pool, <a href="/terra-luz/">Terra Luz</a> in Indio is the right call. It's a 3-bedroom that sleeps 8, with a private heated saltwater pool, covered pergola patio, and enough outdoor space to spend a full day without needing the car. It's about 30 minutes from downtown Palm Springs restaurants if you want a day trip into the city.</p>
 
 <h2>Day 1: Arrive and Settle</h2>
 
