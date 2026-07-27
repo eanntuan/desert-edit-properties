@@ -1,6 +1,7 @@
 ---
 title: "Things to Do in Palm Springs When It's 110 Degrees"
 date: 2026-03-07
+dateModified: 2026-07-27
 metaDescription: "Palm Springs summer heat hits 110°F+. Here are the best indoor and cool-off activities: escape rooms, ice skating, and free museum Thursdays."
 ogImage: /blog/images/palm-springs-summer-pool.webp
 heroImage: /blog/images/palm-springs-summer-pool.webp
@@ -15,6 +16,7 @@ keywords:
   - Agua Caliente Cultural Museum
   - ice skating Palm Springs
   - Acrisure Arena ice skating
+  - Palm Springs Air Museum
   - Palm Springs things to do summer
 articleSection: "Travel Guide"
 property: ps-retreat
@@ -23,7 +25,7 @@ excerpt: "When the thermometer hits 110°F in Palm Springs, you need a plan that
 layout: blog-post.njk
 faqItems:
   - q: "What is there to do in Palm Springs in the summer heat?"
-    a: "The best midday strategy is to lean into indoor options: the Escape Room Palm Springs (over 6,000 square feet), the Palm Springs Art Museum (free on Thursdays with live music), and the Agua Caliente Cultural Museum on N Indian Canyon Dr. Ice skating at the Berger Foundation IcePlex in Palm Desert is another good call. The full breakdown with times and addresses is at https://indigopalm.co/blog/palm-springs-heat-activities/"
+    a: "The best midday strategy is to lean into indoor options: the Escape Room Palm Springs (over 6,000 square feet), the Palm Springs Art Museum (free on Thursdays with live music), the Agua Caliente Cultural Museum on N Indian Canyon Dr, and the Palm Springs Air Museum, where kids 12 and under are free through the summer. Ice skating at the Berger Foundation IcePlex in Palm Desert is another good call. The full breakdown with times and addresses is at https://indigopalm.co/blog/palm-springs-heat-activities/"
   - q: "How do you survive a summer day in Palm Springs when it's 110 degrees?"
     a: "The rhythm that works: pool or a walk before 9am, then escape room or a museum during the hottest midday hours, then back to your rental for the early afternoon, and out again after 6pm for dinner or evening mini-golf. The Aerial Tram is the one outdoor exception since it's 20-30 degrees cooler at 8,516 feet. Full schedule and activity details at https://indigopalm.co/blog/palm-springs-heat-activities/"
   - q: "Is there ice skating near Palm Springs?"
@@ -63,6 +65,12 @@ faqItems:
 <p>This is a newer one and genuinely worth your time. The Agua Caliente Cultural Museum (140 N Indian Canyon Dr, 760-778-1079, <a href="https://accmuseum.org" rel="noopener noreferrer" target="_blank">accmuseum.org</a>) focuses on the history and culture of the Cahuilla people, whose ancestral territory covers the entire Coachella Valley.</p>
 
 <p>The building itself is well-designed, the exhibitions are clear and thoughtful, and the AC works. I say that last part not as a joke: the museum took their time getting this right, and the quality shows. It's a short drive from Palm Canyon, making it easy to pair with the Art Museum or a coffee stop for a full afternoon out of the heat.</p>
+
+<h2>Palm Springs Air Museum: 75 Planes in a Cooled Hangar</h2>
+
+<p>If you've got kids, or you just like standing next to something enormous, the <a href="https://palmspringsairmuseum.org/" rel="noopener noreferrer" target="_blank">Palm Springs Air Museum</a> (745 N Gene Autry Trail, 760-778-6262) is one of the better places to burn a hot afternoon. More than 75 vintage aircraft, most of them WWII through modern military, and you can walk right up to them in the climate-controlled hangars without ropes or glass in the way.</p>
+
+<p>Admission runs $25 for adults and $23 for teens and seniors, and kids 12 and under get in free with a paid adult, with all ages 12 and under free through the summer season. It's open daily 10am to 5pm, and the volunteer docents are often veterans who flew these planes, which turns a look-at-the-exhibit visit into an actual conversation. Two to three hours goes fast in there.</p>
 
 <h2>Ice Skating at the Acrisure Arena (Berger Foundation IcePlex)</h2>
 
@@ -148,6 +156,12 @@ faqItems:
       <td>140 N Indian Canyon Dr</td>
       <td>Anytime</td>
       <td>Cahuilla history, well-designed space</td>
+    </tr>
+    <tr>
+      <td>Palm Springs Air Museum</td>
+      <td>745 N Gene Autry Trail</td>
+      <td>Daily 10am-5pm</td>
+      <td>75+ planes, kids 12 &amp; under free in summer</td>
     </tr>
     <tr>
       <td>IcePlex Public Skating</td>
