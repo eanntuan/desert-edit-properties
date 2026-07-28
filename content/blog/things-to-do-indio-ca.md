@@ -161,89 +161,69 @@ layout: blog-post.njk
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What are the best things to do in Indio CA that aren't just Coachella?",
+      "name": "What is Indio, CA known for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indio has a real local identity beyond the festivals. The Coachella Valley Preserve has easy desert hikes through wild palm oases fed by the San Andreas Fault. Old Town Indio has a Saturday farmers market, Rosemary HiFi vinyl lounge, and the Coachella Valley History Museum. Shields Date Garden on Highway 111 has been making date shakes since 1924. Empire Polo Club hosts polo matches fall through winter, open to the public. One Stop Taco Shop and Papa Headz are the food anchors locals actually recommend."
+        "text": "Coachella and Stagecoach, primarily. But Indio has been a date palm growing hub since the 1920s, hosts the world's largest tamale festival each December, and has an Old Town district with genuine local character that predates the festivals by decades. The city is the agricultural and working-class core of the Coachella Valley."
       }
     },
     {
       "@type": "Question",
-      "name": "Is Indio CA worth visiting if I'm not going to Coachella or Stagecoach?",
+      "name": "Is Indio worth visiting outside of festival season?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, especially October through April. The food scene includes One Stop Taco Shop, Papa Headz smash burgers, and Thai Hot for actual-heat Thai food. The Coachella Valley Preserve is one of the better easy hikes in Southern California. Rosemary HiFi is a genuine vinyl lounge in Old Town. The Indio Tamale Festival in December is the best single-day event in the valley. Joshua Tree is 35-45 minutes away for an easy day trip."
+        "text": "Yes, particularly October through April. The Coachella Valley Preserve is one of the better desert hikes in Southern California. Papa Headz and One Stop Taco Shop are open year-round. Rosemary HiFi makes a strong case for visiting Old Town on any given Wednesday evening. The Indio Tamale Festival in December is the best single-day event in the valley."
       }
     },
     {
       "@type": "Question",
-      "name": "Where should I eat in Indio CA?",
+      "name": "How far is Indio from Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "One Stop Taco Shop on Indio Blvd is the top consistent answer, carne asada tacos in handmade tortillas. Papa Headz on Miles Ave does smash burgers that sell out, so go early. Thai Hot on Highway 111 has real heat and strong drunken noodles. Rosemary HiFi in Old Town serves natural wine and craft beer in a vinyl lounge setting Wednesday through Sunday evenings. For birria, look for any taqueria with a line out the door on a weekday."
+        "text": "About 24-30 miles, or 30-35 minutes without traffic. The two cities are connected by the I-10 and Highway 111. On festival weekends, add significant time in both directions. For day-to-day valley life, they're easily combined on the same itinerary."
       }
     },
     {
       "@type": "Question",
-      "name": "Where should I stay in Indio CA for Coachella or Stagecoach?",
+      "name": "What is the best restaurant in Indio?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Indian Palms Country Club neighborhood is one of the only residential areas in the valley walkable to Empire Polo Club, which eliminates rideshare surge pricing and post-show traffic entirely. Indigo Palm Collective has two houses there: The Cozy Cactus (3BR, family-friendly) and Terra Luz (3BR, Cuban-inspired, dog-friendly with blue pool). Book direct at indigopalm.co to skip the Airbnb fee. Festival weekends book months in advance."
+        "text": "One Stop Taco Shop on Indio Blvd gets the most recommendations from guests and locals. Carne asada tacos, handmade tortillas, a line that tells you everything you need to know. Papa Headz is close behind for smash burgers. Everbloom handles the sit-down dinner and matcha side of things. All three are within 10 minutes of the Indian Palms neighborhood."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the best date shake in the Coachella Valley?",
+      "name": "How do I get to Indio, CA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Shields Date Garden on Highway 111 in Indio is the standard answer after 100 years of operation: thick, cold, made from Shields dates grown on site, with a free museum about Coachella Valley date cultivation. L&G Desert Store on Monroe Street is the local alternative for buying Medjool dates to take home. The Coachella Valley produces most of the country's Medjool dates, so this is a real agricultural tradition, not a tourist attraction."
+        "text": "Palm Springs International Airport (PSP) is the closest, about 25 minutes from central Indio. Rideshare from PSP to Indian Palms runs $25 to $35. From Los Angeles, take I-10 East about 130 miles, roughly 2 hours without traffic. Ontario Airport (ONT) is about 90 minutes west of Indio. LAX is 2.5 hours on a clear day and longer if you're leaving on a Friday."
       }
     },
     {
       "@type": "Question",
-      "name": "How far is Indio from Joshua Tree National Park?",
+      "name": "How many days should I spend in Indio, CA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "About 35 to 45 minutes to the Cottonwood Springs south entrance, the closest entry point from Indio. The Cholla Cactus Garden is 10 minutes inside the entrance and requires almost no hiking. The south entrance sees less traffic than the main west entrance near Twentynine Palms. Go early morning or late afternoon, especially in summer. Indio makes a practical base for a Joshua Tree day trip."
+        "text": "Two full days covers the highlights on this list. Three lets you add a Joshua Tree morning and an Old Town evening without feeling rushed. If you're here for Coachella or Stagecoach, the festival schedule will define things. Otherwise, a long weekend is the right unit."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the Indio Tamale Festival and is it worth going to?",
+      "name": "What is the most scenic road into Indio from Los Angeles?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Indio Tamale Festival runs the first weekend of December in Old Town Indio, 30-plus years running, with 30-plus vendors selling traditional, sweet, and fusion tamales alongside live music. It's worth going: it reflects the actual makeup of the city and the sweet tamales at smaller booths are underrated. Arrive early Saturday, parking fills fast on Miles Avenue. It's the best single-day food event in the Coachella Valley."
+        "text": "I-10 East is the straight shot, about 2 hours. The more interesting approach: exit at Date Palm Drive in Cathedral City and take Highway 111 east through the valley. You pass midcentury Palm Springs neighborhoods, then date farms, then the Salton Sea mountain backdrop emerges as you drop into Indio. It adds 20 minutes and gives you context for the place before you arrive."
       }
     },
     {
       "@type": "Question",
-      "name": "What is Rosemary HiFi and is it worth visiting?",
+      "name": "What should I know before visiting Indio for the first time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Rosemary HiFi is a vinyl listening lounge in Old Town Indio, open Wednesday through Sunday evenings, with 1960s JBL speakers, natural wine, and Las Palmas Brewing beer. The sound system is the point. Check their Instagram for event nights, which book faster than regular hours. It's one of the most unexpected things to have opened in the Coachella Valley recently."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there anything to do at Empire Polo Club outside of Coachella and Stagecoach?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Empire Polo Club hosts real polo matches and equestrian events fall through winter, open to the public and often free. The scale of the property is easier to appreciate without festival infrastructure in place. Check empirepolo.com for the fall and winter schedule. The Indian Palms neighborhood, where Indigo Palm properties are located, is walkable to the grounds year-round."
+        "text": "Everything here requires a car. Nothing is walkable the way Palm Springs is. Budget for a grocery run when you arrive (Stater Bros. on Monroe is the closest to Indian Palms). In summer, plan outdoor activity before 10am and after 6pm. During Coachella and Stagecoach weekends, Monroe Street and Madison Avenue see heavy traffic from about 2pm onward on festival days, plan accordingly."
       }
     }
   ]
 }
 </script>
-
-
-
-
-<h4>What is Rosemary HiFi and is it worth visiting?</h4>
-<p>Rosemary HiFi is a vinyl listening lounge in Old Town Indio, open Wednesday through Sunday evenings, with 1960s JBL speakers, a custom walnut bar, natural wine, and Las Palmas Brewing beer. It's one of the genuinely surprising places to open in the Coachella Valley in recent years. The sound system is the point. Check their Instagram before going for event nights, which book up faster than the regular open hours.</p>
-
-<h4>What should I do at the Coachella Valley Preserve?</h4>
-<p>The McCallum Trail is the main draw: an easy 3-mile out-and-back through wild palm groves fed by underground water pushed up by the San Andreas Fault. Free admission, no crowds outside of holiday weekends, and genuinely strange desert landscape that doesn't look like anything else near Indio. The preserve is about 20 minutes from central Indio near Thousand Palms. Best October through April, and worth pairing with a stop at L&G Desert Store on the way back.</p>
-
-<h4>Is there anything to do at Empire Polo Club outside of Coachella and Stagecoach?</h4>
-<p>The polo grounds host real polo matches and equestrian events from fall through winter, open to the public and often free. It's a different side of the venue that most visitors never see, and the scale of the property is easier to appreciate when it isn't covered in tents and a hundred thousand people. Check empirepolo.com for the fall and winter schedule. If you're staying nearby at one of the Indigo Palm properties, it's a short walk from the Indian Palms neighborhood: <a href="https://indigopalm.co">indigopalm.co</a>.</p>
 
