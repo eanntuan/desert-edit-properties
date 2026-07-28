@@ -2080,3 +2080,69 @@ Three `news@palmspringslife.com` emails in the window; the 7/24 9am "Does Sunshi
 ### Hero Image Audit — 2026-07-27
 
 No full pass. Last full inventory 2026-07-13 (14 days, inside the 30-day window). No new blog post published this run — the only content change was an in-place update to `palm-springs-heat-activities` that didn't touch its hero image. Nothing new to re-check. Next full pass due on/after 2026-08-12.
+
+### What changed on 2026-07-28 — GSC Check-in
+
+**Period:** 2026-04-29 to 2026-07-28 (90 days)
+
+**Overall:** 270 clicks, 36,814 impressions, 0.7% CTR, avg position 12.3
+
+**vs. prior period:** +223 clicks, +31,447 impressions (prior 90d was 47 clicks / 5,367 imps). Traffic roughly 6x'd quarter-over-quarter. Mobile carries it: 186 clicks at 1.1% CTR / pos 8.8 vs desktop 80 clicks at 0.4% / pos 15.6. Desktop ranks worse and clicks worse — a position problem, not a layout problem.
+
+**What's working:**
+- `palm-springs-surf-club` — 51 clicks, 9,808 imps, pos 9.2 (single biggest driver)
+- `palm-springs-vs-scottsdale` — 35 clicks, 1.6% CTR, pos 7.7 (best click:impression ratio of the high-volume pages)
+- `palm-springs-vs-indio` — 30 clicks, pos 7.8
+- CTR standouts already converting well: `desert-dog-summer` 6.9% @ pos 4.6, `palm-springs-heat-activities` 2.9% @ pos 10.1, `outdoor-furniture-desert-heat` 2.7% @ pos 7.3, `joshua-tree-day-trip-from-indio` 2.7% @ pos 8.4
+
+**CTR opportunities reviewed — all parked, none warrant a rewrite this run:**
+- `how far is indio from palm springs` — 854 imps, 1 click, pos 7.5. Investigated: `palm-springs-vs-indio.md` already answers this with a dedicated H2, an FAQ H3 ("about 25 miles, 30-40 min on the I-10"), and FAQPage JSON-LD. This is a zero-click informational query — Google serves the distance in the snippet, so the click never happens. No title/meta fix changes that.
+- `palm-springs-aerial-tram` — 456 imps, pos 10.2, ~0 clicks. Title/meta already strong ("Is It Worth It?" hook, 50-60 char). Avg pos 10.2 (bottom of page 1) is the constraint; a rewrite won't move rank. Position problem, parked.
+- `idyllwild-day-trip`, `best-vacation-rentals-pool-coachella-valley`, `palm-springs-vs-indio` — all edited 2026-07-27, so their low 90-day CTR is lagging pre-edit data, not a live defect. Re-rewriting would be churn. Parked to let fresh data accumulate.
+- `lax-to-palm-springs` (edited 7/13), `classpass-palm-springs` (6/22) — titles/metas already optimized; same lagging-data / position read. Parked.
+
+**Weak pages (buried, genuine content-authority gaps — flagged for a dedicated pass, not a quick fix):**
+- `best-restaurants-palm-springs`: 554 imps, 0 clicks, pos 36.2 — only 4.3% of its impressions rank ≤ pos 20. Thin/outranked content, needs a real overhaul (>2hr), flagged not rushed.
+- `things-to-do-indio-ca`: 455 imps, 1 click, pos 43.3 — 0% of impressions ≤ pos 20. Same diagnosis.
+- `best-hiking-palm-springs`: 237 imps, 0 clicks, pos 64.7 — deeply buried, content-authority overhaul.
+
+**Action items generated:** none auto-actionable this run. The three buried pages above are the only real content work and each is a >2hr overhaul — flagged for Eann to greenlight a focused content-refresh sprint (cap 1-2 per run when actioned).
+
+### Pinterest Check-in — 2026-07-28
+
+**Monthly views:** ~20K (last confirmed, paid ML campaign, $50 spend, all-US). Organic reach still thin (board impressions in the low hundreds). No fresh manual pull this run — the organic-monthly-viewers figure that governs the link switch is still Eann's Pinterest Business Hub task. This is now the **12th consecutive** check-in open on that single manual item.
+**Pin count:** unchanged from last report; Pinterest posting is Eann's job as of 2026-06-18 (Sabbir's scope is Quora/GEO/Goodreads only).
+**Link status:** Airbnb. Threshold (25-30K *organic* monthly viewers) not confirmed hit — do not switch bio/pin links to indigopalm.co without a direct Business Hub login confirming ≥25K organic.
+
+**Quora Q&A live:** new account, low reach (5-8 views/answer, likely new-account outbound-link throttling). No change to report.
+**FAQPage JSON-LD coverage:** property comparison + festival posts carry FAQPage schema; `palm-springs-vs-indio` confirmed this run.
+
+**Action items:** none auto-actionable (monthly-viewers pull remains Eann's manual task).
+
+### GA4 Check-in — 2026-07-28
+
+**Period:** 2026-07-21 to 2026-07-28 (7 days)
+
+**Overall:** 132 active users (up from 102 prior week), 141 new, 158 sessions, 64s avg session duration (down from 102s), 585 events. Users and sessions up, session duration dipped — thin-sample noise on a young site, not a trend yet.
+
+**Traffic source mix:** Organic Search 60 sessions / 48 users, Organic Social 27 / 23, Direct 25 / 22, Unassigned 11, AI Assistant 5. Google organic back ahead of Pinterest this week (60 vs 27) after last week's near-parity — no reason to pull Pinterest tasks forward over Google work.
+
+**High-bounce pages (50+ views, >60% bounce):** none crossed the 50-view threshold this window.
+
+**Watch (below 50-view threshold but notable):** `/cozy-cactus/` 31 views / 75.0% bounce / 21s — the recurring Cozy Cactus bounce concern, improved slightly from last week's 80.6% but still high and still the dominant property page by traffic. Volume too thin (31 views) to auto-action; RG-21's above-the-fold fix and GA4-1's ad-vs-page diagnosis remain the open levers, both needing Eann to view the live ad creative.
+
+**Property page visibility:** Terra Luz 8 / Cozy Cactus 31 / Sundune 7. Cozy Cactus dominates; Terra Luz (healthy 377s avg session on its 8 views) and Sundune (7 views, 0% bounce) both thin. Sundune/Terra Luz discoverability gap persists.
+
+**Action items generated:** none auto-actionable this run. Continue watching Cozy Cactus bounce toward the 50-view actionability threshold.
+
+### PSL Newsletter Inspo — 2026-07-28 (nothing actioned)
+
+Three `news@palmspringslife.com` emails matched the window; the 7/27 9am "Why Do Cicadas Buzz?" was already declined on the 7/27 run, leaving two new, both declined:
+- **"Tiki Time: 5 Polynesian-Inspired Palm Springs Homes"** (7/28 9am) — **declined.** Design-enthusiast editorial roundup: a Tiki-spaces photo tour, a native Mojave garden profile, a "7 DIY Architecture Tour Stops" listicle (The Shag Store owner's proprietary self-guided *drive* route), a "decorating with white" interior piece, and midcentury-car art by Shag. No guest-booking or trip-planning intent, and no single extractable fact that improves an existing guest-facing post (unlike the 7/27 Air Museum hours). The DIY-tour angle overlaps our existing `palm-springs-midcentury-architecture` self-guided *walk*, but the 7 stops are PSL/Shag's curated list (can't reproduce) and re-sourcing an independent drive route would be a >2hr new post with weak direct-booking value.
+- **"Be Well: A Health Magazine by Palm Springs Life"** (7/27 2pm) — **declined.** Annual health-magazine promo (longevity/wellness editorial), same category as the previously-declined sunshine/health emails. No Coachella Valley lodging or travel-planning hook.
+
+No PSL prose reproduced. Nothing drafted or updated this run.
+
+### Hero Image Audit — 2026-07-28
+
+No full pass. Last full inventory 2026-07-13 (15 days, inside the 30-day window). No new blog post published this run, and no hero image was re-sourced. The only recent content changes were the 2026-07-27 voice/word-overuse trims (body copy only) and the Air Museum in-place update to `palm-springs-heat-activities` (no hero touched). The three posts added since the last full pass (`game-night-trivia-coachella-valley`, `palm-springs-poolside-bars-resort-dining`, `pioneertown-day-trip-from-indio`) were each hero-checked in their own publish-day audits (7/21, 7/22, 7/23). Nothing new to re-check. Next full pass due on/after 2026-08-12.
