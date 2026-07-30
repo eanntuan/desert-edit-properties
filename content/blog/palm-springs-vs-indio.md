@@ -1,8 +1,8 @@
 ---
-title: "Palm Springs vs. Indio: Which One Fits Your Trip?"
+title: "Indio vs. Palm Springs: 25 Miles Apart, Which to Pick"
 date: 2026-02-05
-dateModified: 2026-07-15
-metaDescription: "We own rentals in both cities. Palm Springs wins on walkable dining, Indio wins on space, private pools, and walking distance to Coachella grounds."
+dateModified: 2026-07-30
+metaDescription: "Indio is 25 miles east of Palm Springs, 30 to 40 minutes on the I-10. We own rentals in both cities, so here's which one actually fits your trip."
 ogImage: /blog/images/blog-hero-palm-springs.webp
 heroImage: /blog/images/blog-hero-palm-springs.webp
 heroAlt: "Palm tree-lined boulevard with the San Jacinto Mountains rising behind it in Palm Springs, California"

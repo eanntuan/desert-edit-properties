@@ -1,8 +1,8 @@
 ---
-title: "Idyllwild Day Trip: Cool Pine Escape from Palm Springs"
+title: "Palm Springs to Idyllwild: 1 Hour, 30 Degrees Cooler"
 date: 2026-07-11
-dateModified: 2026-07-22
-metaDescription: "An hour up the mountain, about 30 degrees cooler. The Idyllwild day trip from Palm Springs: drive times, four trails by skill level, permits, and where to eat."
+dateModified: 2026-07-30
+metaDescription: "Palm Springs to Idyllwild: 47 miles up Highway 74, about an hour and 30 degrees cooler. Drive times, four trails by skill level, permits, and where to eat."
 ogImage: /blog/images/idyllwild-tahquitz-rock-pine-forest.webp
 heroImage: /blog/images/idyllwild-tahquitz-rock-pine-forest.webp
 heroAlt: "Lily Rock, also called Tahquitz Rock, rising above the pine forest town of Idyllwild, California"
