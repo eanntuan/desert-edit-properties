@@ -118,7 +118,7 @@ relatedPosts:
       "name": "How far is Terra Luz from the Coachella and Stagecoach festival grounds?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Terra Luz is walking distance to the Empire Polo Club. It's at 49768 Pacino St in Indio's Indian Palms neighborhood, inside the same community as The Cozy Cactus. The walk to the Empire Polo Club from Terra Luz runs roughly 19 minutes via Eisenhower Drive, which makes it one of the only neighborhoods in the valley where walking to the festival is genuinely practical."
+        "text": "Terra Luz is walking distance to the Empire Polo Club. It's at 49768 Pacino St in Indio's Indian Palms neighborhood, inside the same community as The Cozy Cactus. The walk to the Empire Polo Club from Terra Luz goes up Eisenhower Drive, which makes it one of the only neighborhoods in the valley where walking to the festival is genuinely practical."
       }
     },
     {
@@ -171,7 +171,7 @@ relatedPosts:
 <p>Yes, up to two dogs with a $150 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible, and there's a dog bowl plus treats waiting in the kitchen. Email to confirm before booking.</p>
 
 <h3>How far is Terra Luz from the Coachella and Stagecoach festival grounds?</h3>
-<p>Walking distance. Terra Luz is at 49768 Pacino St in Indio's Indian Palms neighborhood, inside the same community as The Cozy Cactus. The walk to the Empire Polo Club from Terra Luz runs roughly 19 minutes via Eisenhower Drive, which makes it one of the only neighborhoods in the valley where walking to the festival is genuinely practical.</p>
+<p>Walking distance. Terra Luz is at 49768 Pacino St in Indio's Indian Palms neighborhood, inside the same community as The Cozy Cactus. The walk to the Empire Polo Club from Terra Luz goes up Eisenhower Drive, which makes it one of the only neighborhoods in the valley where walking to the festival is genuinely practical.</p>
 
 <h3>What is included with a Terra Luz stay?</h3>
 <p>Private saltwater pool and a complimentary heated spa, covered pergola patio with string lights, fully fenced backyard, full-size kitchen with spices and basics, Keurig and pour-over setup, Ninja slushie maker, outdoor projector on the pergola, and in-pool sun shelf loungers. Sheets and towels included. Self-check-in via smart lock.</p>
@@ -207,7 +207,7 @@ relatedPosts:
       "name": "Can I walk to Coachella or Stagecoach from Terra Luz?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The walk from Terra Luz to the Empire Polo Club via Eisenhower Drive runs approximately 19 minutes, making it one of the few Coachella Valley properties where walking to the festival is genuinely practical. This avoids festival-weekend Uber surge pricing that can reach $80-120 per trip from Palm Springs."
+        "text": "Yes. The walk from Terra Luz to the Empire Polo Club goes straight up Eisenhower Drive, making it one of the few Coachella Valley properties where walking to the festival is genuinely practical. This avoids festival-weekend Uber surge pricing that can reach $80-120 per trip from Palm Springs."
       }
     },
     {
@@ -229,7 +229,7 @@ relatedPosts:
 <p>Saltwater pools use a chlorine generator that produces chlorine from dissolved salt at much lower concentrations than traditional pools. The practical result for guests: no chemical smell, less eye and skin irritation after long afternoons in the water, and a softer feel. For a property where the pool is a primary feature, it's a meaningful quality distinction. You can see it at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, where the spa runs heated on the house and pool heating is a $75-per-night add-on with a two-night minimum, or $400 for the week.</p>
 
 <h4>Can I walk to Coachella or Stagecoach from Terra Luz?</h4>
-<p>Yes. The walk via Eisenhower Drive to the Empire Polo Club runs approximately 19 minutes, which makes Terra Luz one of the few properties in the Coachella Valley where walking to the festival is genuinely practical rather than theoretical. For guests who want to avoid festival-weekend Uber surge pricing, this is the most underrated feature of the Indian Palms location.</p>
+<p>Yes. The walk via Eisenhower Drive to the Empire Polo Club is genuinely short, which makes Terra Luz one of the few properties in the Coachella Valley where walking to the festival is genuinely practical rather than theoretical. For guests who want to avoid festival-weekend Uber surge pricing, this is the most underrated feature of the Indian Palms location.</p>
 
 <h4>How far in advance should I book Terra Luz for festival weekends?</h4>
 <p>Six months minimum for Coachella and Stagecoach weekends, ideally at lineup announcement. Private-pool properties within walking distance of the Empire Polo Club represent a small slice of valley inventory, and they fill faster than general vacation rental search patterns would suggest. Guests who secure these properties are booking at announcement, not after spring break planning kicks in.</p>

@@ -84,7 +84,7 @@ layout: blog-post.njk
 <p>If your dog likes water, yes. The pool has a sun shelf at the shallow end that makes getting in and out easy. Towel off before heading inside, since wet paws on tile are slippery.</p>
 
 <h3>How close is Terra Luz to Coachella and Stagecoach?</h3>
-<p>About eight minutes by car to the Empire Polo Club. Dogs aren't allowed at the festival, but the house is a comfortable, cool place for them to wait out your festival days.</p>
+<p>Walking distance to the Empire Polo Club. Dogs aren't allowed at the festival, but the house is a comfortable, cool place for them to wait out your festival days.</p>
 
 <h2>Come Stay With Your Dog</h2>
 
@@ -134,7 +134,7 @@ layout: blog-post.njk
       "name": "How close is Terra Luz to the Coachella and Stagecoach festival grounds?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "About eight minutes by car to the Empire Polo Club. Dogs are not allowed at the festival, but Terra Luz is close enough that you can leave your dog in the cool, fenced house and check back in easily. It is a more comfortable arrangement than boarding."
+        "text": "Walking distance to the Empire Polo Club. Dogs are not allowed at the festival, but Terra Luz is close enough that you can leave your dog in the cool, fenced house and check back in easily. It is a more comfortable arrangement than boarding."
       }
     },
     {
@@ -172,7 +172,7 @@ layout: blog-post.njk
 <p>The Indian Palms Country Club neighborhood has flat, quiet roads that work well for morning and evening walks. Those are your windows, since desert pavement heats to paw-burning temperatures by late morning. Foothill trails on the edge of the valley are dog-friendly on leash, and a handful of area patios welcome well-behaved dogs. The <a href="/blog/terra-luz-indio-local-guide/">guest guide to Indio</a> lists specific spots that work with a dog in tow.</p>
 
 <h4>Can I leave my dog alone at Terra Luz while I go to the festival?</h4>
-<p>Yes, and it's the arrangement most guests with dogs use. Dogs aren't allowed at the Empire Polo Club, so the house becomes your dog's home base during festival days. The backyard is fenced with a latching gate, the AC keeps the interior cool, and the drive back from the polo grounds is about eight minutes, so checking in mid-day is easy. It's a better situation than boarding or leaving your dog at home.</p>
+<p>Yes, and it's the arrangement most guests with dogs use. Dogs aren't allowed at the Empire Polo Club, so the house becomes your dog's home base during festival days. The backyard is fenced with a latching gate, the AC keeps the interior cool, and the walk back from the polo grounds is short enough that checking in mid-day is easy. It's a better situation than boarding or leaving your dog at home.</p>
 
 <h4>Does Terra Luz allow large dogs or multiple dogs?</h4>
 <p>Terra Luz accepts up to two dogs, and there's no published breed or weight restriction. If you have two large dogs or a specific situation you want to run by the host, email indigopalmco@gmail.com before booking. That conversation happens upfront so there are no surprises on arrival. Book direct at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> to skip Airbnb's service fee.</p>

@@ -42,7 +42,7 @@ layout: blog-post.njk
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz pool and backyard in Indio California with outdoor lounge furniture and Kahlo blue pool at sunset" width="1024" height="1536" loading="lazy">
 <p class="image-caption">The patio at golden hour. Most guests don't leave until they have to.</p>
 
-<p>For festival weekends specifically: Terra Luz is walking distance to the Empire Polo Club gate. Some guests walk or bike it (1.5 miles to the festival gate via Eisenhower Drive, around 19 minutes on foot). During Coachella and Stagecoach, golf cart rides run through the community. Worth knowing before you shell out for parking.</p>
+<p>For festival weekends specifically: Terra Luz is walking distance to the Empire Polo Club gate. Some guests walk it, some bike it, all of it up Eisenhower Drive to the gate. During Coachella and Stagecoach, golf cart rides run through the community. Worth knowing before you shell out for parking.</p>
 
 <h2>Where to Eat in Indio</h2>
 
@@ -129,7 +129,7 @@ layout: blog-post.njk
 <h3>FAQ: Staying at Terra Luz in Indio</h3>
 
 <h4>How far is Terra Luz from Coachella and Stagecoach?</h4>
-<p>Walking distance to the Empire Polo Club, about 8 minutes by car or 19 minutes on foot via Eisenhower Drive. During festival weekends, golf cart rides also run through the Indian Palms community.</p>
+<p>Walking distance to the Empire Polo Club via Eisenhower Drive. During festival weekends, golf cart rides also run through the Indian Palms community.</p>
 
 <h4>What's the closest grocery store to Terra Luz?</h4>
 <p>Stater Bros on Jefferson Street, about 10 minutes from the property. Target is 15 minutes. Whole Foods in Palm Desert is 20 minutes if you want specialty items.</p>
@@ -155,7 +155,7 @@ layout: blog-post.njk
       "name": "How far is Terra Luz from Coachella and Stagecoach?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Walking distance to the Empire Polo Club, about 8 minutes by car or 19 minutes on foot via Eisenhower Drive. During festival weekends, golf cart rides also run through the Indian Palms community, giving guests real alternatives to rideshare surge and parking."
+        "text": "Walking distance to the Empire Polo Club via Eisenhower Drive. During festival weekends, golf cart rides also run through the Indian Palms community, giving guests real alternatives to rideshare surge and parking."
       }
     },
     {

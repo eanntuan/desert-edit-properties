@@ -67,7 +67,7 @@ faqItems:
 
 <p>Scottsdale's major resorts (Sanctuary, Four Seasons, Andaz) run $500 to $1,000 per night during peak season. Palm Springs boutique hotels in similar categories run $300 to $600. The premium experience in Scottsdale costs more.</p>
 
-<p>For vacation rentals, Palm Springs and Scottsdale are broadly comparable in per-night cost for similar properties. Where Palm Springs wins on value: a vacation rental with a private pool in Indian Palms Country Club (walking distance to Empire Polo Club, about 1.5 miles on foot) is significantly cheaper than comparable properties near Scottsdale's resort corridor. And you skip the platform fees when you <a href="/booking-flow/">book direct</a>.</p>
+<p>For vacation rentals, Palm Springs and Scottsdale are broadly comparable in per-night cost for similar properties. Where Palm Springs wins on value: a vacation rental with a private pool in Indian Palms Country Club (walking distance to Empire Polo Club) is significantly cheaper than comparable properties near Scottsdale's resort corridor. And you skip the platform fees when you <a href="/booking-flow/">book direct</a>.</p>
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Backyard pool at Cozy Cactus vacation rental in Indio California near Palm Springs" width="1400" height="933" loading="lazy">
 

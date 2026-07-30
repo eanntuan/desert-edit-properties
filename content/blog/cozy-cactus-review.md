@@ -139,7 +139,7 @@ relatedPosts:
       "name": "Can The Cozy Cactus accommodate a group for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance to Empire Polo Club, about 1.5 miles on foot (roughly 19 minutes via Eisenhower Drive). No shuttle, no surge pricing."
+        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance to Empire Polo Club, an easy walk up Eisenhower Drive. No shuttle, no surge pricing."
       }
     }
   ]
@@ -161,7 +161,7 @@ relatedPosts:
 <p>Response time has consistently come up in guest reviews as a standout feature. Most questions get answered within the hour, including evenings and weekends. Pre-booking questions are welcome and often answered faster than through Airbnb's messaging system.</p>
 
 <h3>Can The Cozy Cactus accommodate a group for Coachella?</h3>
-<p>It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance to Empire Polo Club, about 1.5 miles on foot (roughly 19 minutes via Eisenhower Drive). No shuttle, no surge pricing.</p>
+<p>It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance to Empire Polo Club, an easy walk up Eisenhower Drive. No shuttle, no surge pricing.</p>
 
 <p>That's what 4.97 stars across 146 stays looks like in practice. Not perfection in every sense. A specific kind of care that guests feel when they walk in the door, and that they write about when they leave.</p>
 
@@ -209,7 +209,7 @@ relatedPosts:
       "name": "Can The Cozy Cactus accommodate a group for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance from Empire Polo Club, about 1.5 miles via Eisenhower Drive. No shuttle, no surge pricing from a distant base."
+        "text": "It sleeps up to 8 across three bedrooms and works well for groups. The Indian Palms location is walking distance from Empire Polo Club, an easy walk up Eisenhower Drive. No shuttle, no surge pricing from a distant base."
       }
     },
     {
@@ -250,7 +250,7 @@ relatedPosts:
 <p>The primary bedroom has a king and an en-suite bathroom. The second bedroom is also a king. The third bedroom has twin beds plus a trundle, which works well for kids. The game room doubles as overflow space when the afternoon desert heat drives everyone inside.</p>
 
 <h4>Is The Cozy Cactus walkable to Coachella or Stagecoach?</h4>
-<p>Yes, walking distance: about 1.5 miles via Eisenhower Drive, roughly 19 minutes on foot. Most guests in April rideshare given the heat, which from Indian Palms is a short flat ride with no freeway. That proximity is the real advantage of this location during festival weekends.</p>
+<p>Yes, walking distance, straight up Eisenhower Drive. In April heat some guests still grab a ride, but the whole point is that you don't have to. That proximity is the real advantage of this location during festival weekends.</p>
 
 <h4>What makes The Cozy Cactus different from other Indio vacation rentals?</h4>
 <p>The level of organization guests describe in reviews is unusual: every drawer and cabinet labeled, a pre-stocked pantry, and a full infant kit (Stokke high chair, pack-n-play with real crib mattress, baby monitor, sound machine, baby gate, outlet covers) available on-site. It's built specifically for families with young children, which is a narrower and more intentional focus than most short-term rentals in the valley.</p>

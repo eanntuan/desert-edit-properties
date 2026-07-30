@@ -79,13 +79,13 @@ layout: redirect.njk
 <p><strong>Getting home at 1am:</strong> You walk. No Uber surge. No "should we leave before the headliner to beat traffic?" calculation. You leave when you want and come back to a pool.</p>
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Backyard and patio at the Cozy Cactus vacation rental in Indio CA, steps from the Coachella festival grounds" width="1400" height="933" loading="lazy">
-<p class="image-caption">Your recovery base: a private hot tub, a shaded patio, and three heated community pools inside Indian Palms, two miles from the polo grounds.</p>
+<p class="image-caption">Your recovery base: a private hot tub, a shaded patio, and three heated community pools inside Indian Palms, walking distance to the polo grounds.</p>
 
 <h2>The 3PM Strategy (This Is Why Proximity Matters)</h2>
 
 <p>The desert at 3pm on a Coachella Saturday is a specific kind of challenge. It's 95 degrees. You've been on your feet since noon. The headliner isn't until 9. That's six hours of desert sun.</p>
 
-<p>The groups who stay close do this: leave at 3, drive 10 minutes back to the house, pool time, nap, shower, recharge. Back to the grounds for the evening sets when everyone else who commuted from Palm Springs is still stuck in traffic.</p>
+<p>The groups who stay close do this: leave at 3, walk back to the house, pool time, nap, shower, recharge. Back to the grounds for the evening sets when everyone else who commuted from Palm Springs is still stuck in traffic.</p>
 
 <p>This only works if your rental has a pool worth spending time at and is close enough that splitting the group is easy. The Cozy Cactus was built for exactly this.</p>
 
@@ -176,7 +176,7 @@ layout: redirect.njk
       "name": "Is it better to stay in Indio or Palm Springs for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Indio, clearly. The Empire Polo Club is in Indio. Rentals in Indian Palms Country Club are walking distance to the festival grounds, about 1.5 miles on foot. Compare that to 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between sets, skip surge pricing, and walk home after the headliner."
+        "text": "Indio, clearly. The Empire Polo Club is in Indio. Rentals in Indian Palms Country Club are walking distance to the festival grounds. Compare that to 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between sets, skip surge pricing, and walk home after the headliner."
       }
     },
     {
@@ -200,7 +200,7 @@ layout: redirect.njk
       "name": "Can you walk to Coachella from Indian Palms Country Club?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Indian Palms Country Club is one of the only neighborhoods in the valley where walking to the festival is practical. The walk from most rentals in the community to the festival entrance is 1.5 to 2.2 miles, roughly 25 to 49 minutes. This is the route that lets you skip traffic, surge pricing, and shuttle lines entirely."
+        "text": "Yes. Indian Palms Country Club is one of the only neighborhoods in the valley where walking to the festival is practical. Most rentals in the community are a straightforward walk from the festival entrance. This is the route that lets you skip traffic, surge pricing, and shuttle lines entirely."
       }
     },
     {
@@ -229,7 +229,7 @@ layout: redirect.njk
 <p>About 24 miles. Without traffic, that's 30 minutes on the I-10. During Coachella weekend, add 30 to 45 minutes each way on Friday, Saturday, and Sunday evenings when 80,000 people are all leaving the grounds at roughly the same time. The math on rideshares from Palm Springs adds up fast over a three-day weekend.</p>
 
 <h3>Is it better to stay in Indio or Palm Springs for Coachella?</h3>
-<p>Indio, clearly. The Empire Polo Club is in Indio. Rentals in Indian Palms Country Club are walking distance to the festival grounds, about 1.5 miles on foot. Compare that to 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between sets, skip surge pricing, and walk home after the headliner.</p>
+<p>Indio, clearly. The Empire Polo Club is in Indio. Rentals in Indian Palms Country Club are walking distance to the festival grounds. Compare that to 45-75 minutes from Palm Springs in festival traffic. You can go back to your rental between sets, skip surge pricing, and walk home after the headliner.</p>
 
 <h3>How far in advance should I book a Coachella rental?</h3>
 <p>Six to nine months out is the safe window: book by October or November for the following April. By January, the walking-distance properties with private pools are mostly gone. Properties a bit further out stay available longer but book up by February.</p>
@@ -238,7 +238,7 @@ layout: redirect.njk
 <p>On-site car camping is around $125-150 per person upfront. For groups of 4-8, splitting a vacation rental in Indio often comes out to a similar or lower per-person cost once you factor in the rideshares and gear that camping requires. Camping makes sense if you want total festival immersion. A rental makes sense if you want a pool and a real bed.</p>
 
 <h3>Can you walk to Coachella from Indian Palms Country Club?</h3>
-<p>Yes. Indian Palms Country Club is one of the only neighborhoods in the valley where walking to the festival is practical. The walk from most rentals in the community to the festival entrance is 1.5 to 2.2 miles, roughly 25 to 49 minutes. This is the route that lets you skip traffic, surge pricing, and shuttle lines entirely.</p>
+<p>Yes. Indian Palms Country Club is one of the only neighborhoods in the valley where walking to the festival is practical. Most rentals in the community are a straightforward walk from the festival entrance. This is the route that lets you skip traffic, surge pricing, and shuttle lines entirely.</p>
 
 <h3>What is the most scenic route to Coachella from Los Angeles?</h3>
 <p>I-10 East is the direct shot, about 2 hours from downtown LA. The better version: exit at Date Palm Drive in Cathedral City, take Highway 111 east through Palm Springs and down the valley floor to Indio. The mountains frame the entire drive and you pass date farms and midcentury neighborhoods before you arrive. It adds 20 minutes but makes the trip feel like it has a destination.</p>
@@ -257,7 +257,7 @@ layout: redirect.njk
       "name": "Are there dog-friendly vacation rentals walking distance from Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A few exist, but verify with the host that the HOA community allows dogs, not just the individual owner. Terra Luz, an Indigo Palm Collective property about 2 miles from the polo grounds in Indio, is dog-friendly with prior approval. See current availability at indigopalm.co."
+        "text": "A few exist, but verify with the host that the HOA community allows dogs, not just the individual owner. Terra Luz, an Indigo Palm Collective property walking distance to the polo grounds in Indio, is dog-friendly with prior approval. See current availability at indigopalm.co."
       }
     },
     {
@@ -265,7 +265,7 @@ layout: redirect.njk
       "name": "Does the 3PM strategy actually work for Coachella?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It works if your rental is in Indio. The round trip from Indian Palms to the festival grounds is 10 to 15 minutes each way, making a midday pool break feasible. From Palm Springs, 45 minutes each way in festival traffic turns a recovery break into a three-hour ordeal."
+        "text": "It works if your rental is in Indio. Indian Palms is walking distance to the festival grounds either direction, which makes a midday pool break feasible. From Palm Springs, 45 minutes each way in festival traffic turns a recovery break into a three-hour ordeal."
       }
     },
     {
@@ -292,10 +292,10 @@ layout: redirect.njk
 
 
 <h4>Are there dog-friendly vacation rentals walking distance from Coachella?</h4>
-<p>A few, but verify with the host that the HOA community itself allows dogs, not just the individual owner. Terra Luz, an Indigo Palm Collective property about 2 miles from the polo grounds in Indio, is dog-friendly with prior approval. See current availability at <a href="https://indigopalm.co/blog/where-to-stay-coachella-2026/">indigopalm.co</a>.</p>
+<p>A few, but verify with the host that the HOA community itself allows dogs, not just the individual owner. Terra Luz, an Indigo Palm Collective property walking distance to the polo grounds in Indio, is dog-friendly with prior approval. See current availability at <a href="https://indigopalm.co/blog/where-to-stay-coachella-2026/">indigopalm.co</a>.</p>
 
 <h4>Does the 3PM strategy actually work, or is it just a nice idea?</h4>
-<p>It works if your rental is in Indio. The round trip from Indian Palms to the festival grounds is 10 to 15 minutes each way, which makes a 2-hour midday pool break genuinely feasible. From Palm Springs, the same logic falls apart: 45 minutes each way in festival traffic turns a recovery break into a three-hour ordeal, and most groups staying that far out just push through instead.</p>
+<p>It works if your rental is in Indio. Indian Palms is walking distance to the festival grounds either direction, which makes a 2-hour midday pool break genuinely feasible. From Palm Springs, the same logic falls apart: 45 minutes each way in festival traffic turns a recovery break into a three-hour ordeal, and most groups staying that far out just push through instead.</p>
 
 <h4>Is Stagecoach worth considering if Coachella rentals are already sold out?</h4>
 <p>Yes. Stagecoach runs the following weekend at the same Empire Polo Club grounds, the same Indian Palms rentals are walking distance, and the booking pressure is lower. If you're flexible on country music and the walking-distance inventory for Coachella is gone, Stagecoach often has options available through February or March. Prices also tend to run 15 to 25% lower than Coachella weekend.</p>

@@ -28,7 +28,7 @@ excerpt: "Indian Palms Country Club is one of the only neighborhoods in the Coac
 layout: blog-post.njk
 faqItems:
   - q: "Can you really walk to Coachella from Indian Palms Country Club?"
-    a: "Yes, and it's one of the only neighborhoods in the Coachella Valley where it's actually practical. The route from inside the community goes through the Monroe Gate onto Eisenhower Drive, roughly 19 to 30 minutes on foot depending on where in Indian Palms you're staying. Full details at https://indigopalm.co/blog/indian-palms-vacation-rental/"
+    a: "Yes, and it's one of the only neighborhoods in the Coachella Valley where it's actually practical. The route from inside the community goes through the Monroe Gate onto Eisenhower Drive, and it's walkable from anywhere in Indian Palms. Full details at https://indigopalm.co/blog/indian-palms-vacation-rental/"
   - q: "What's the noise like at Indian Palms during Coachella and Stagecoach?"
     a: "You can hear the bass from the main stage outside, especially late at night, but it's not disruptive indoors with the windows closed. Some guests find it part of the experience. If you need complete quiet, Indian Palms probably isn't the right fit for festival weekend. More on what to expect: https://indigopalm.co/blog/indian-palms-vacation-rental/"
   - q: "How do I get into Indian Palms Country Club during festival weekend?"
@@ -58,7 +58,7 @@ faqItems:
 
 <h2>Can You Walk to Coachella from Indian Palms?</h2>
 
-<p>Yes. Indian Palms Country Club is one of the only neighborhoods in the Coachella Valley where walking to Coachella is practical. The route from your rental to the festival entrance runs about 1.5 miles via Eisenhower Drive, roughly 19-30 minutes on foot depending on where in the community you're starting, and lets you skip shuttles, surge pricing, and gridlocked roads entirely.</p>
+<p>Yes. Indian Palms Country Club is one of the only neighborhoods in the Coachella Valley where walking to Coachella is practical. The route from your rental to the festival entrance runs on foot via Eisenhower Drive, and it lets you skip shuttles, surge pricing, and gridlocked roads entirely.</p>
 
 <img src="/blog/images/coachella-festival-map-2026.webp" alt="2026 Coachella festival map showing Indian Palms Front Gate 0.3 miles from Monroe Street entrance" width="1080" height="1350" loading="lazy">
 
@@ -71,7 +71,7 @@ faqItems:
 </ol>
 
 <video src="/blog/images/indian-palms-night-walk.mp4" autoplay muted loop playsinline style="width:100%;border-radius:8px;margin:2rem 0 0.5rem;box-shadow:0 4px 20px rgba(0,0,0,0.1);"></video>
-<p class="image-caption">This is the yellow gravel path that leads up to the entrance of the festival (about 1 mile, so wear comfy shoes!)</p>
+<p class="image-caption">This is the yellow gravel path that leads up to the entrance of the festival (gravel the whole way, so wear comfy shoes!)</p>
 
 <ol start="5">
     <li>Plan <strong>19-30 minutes door-to-gate</strong> depending on where in Indian Palms you're staying</li>
@@ -132,7 +132,7 @@ faqItems:
 <h2>Frequently Asked Questions</h2>
 
 <h3>Is Indian Palms Country Club actually walking distance to Coachella?</h3>
-<p>Yes. The walk from inside the community to the festival entrance at 49th and Monroe runs 25 to 49 minutes depending on where you start in Indian Palms. The path goes through the Monroe Gate onto Eisenhower Drive on a gravel pedestrian path. Closed-toe shoes are worth it.</p>
+<p>Yes. The walk from inside the community to the festival entrance at 49th and Monroe goes through the Monroe Gate onto Eisenhower Drive on a gravel pedestrian path. Closed-toe shoes are worth it.</p>
 
 <h3>Can anyone drive into Indian Palms during Coachella weekend?</h3>
 <p>The community is gated. The Monroe Gate is the main entry point for guests and is staffed with security during festival weekends. The Avenue 50 Gate is residents-only. Your host will provide the gate code and check-in instructions 24 hours before arrival.</p>
@@ -177,7 +177,7 @@ faqItems:
       "name": "Can you really walk to Coachella from Indian Palms Country Club?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The route from inside the community to the Coachella entrance at 49th and Monroe runs 19-30 minutes on foot via Eisenhower Drive. You exit through the Monroe Gate (the main guest gate), walk north on the gravel pedestrian path, and enter via the Yellow Path at 49th and Monroe. Closed-toe shoes are worth it. Full walk guide at https://indigopalm.co/blog/indian-palms-vacation-rental/"
+        "text": "Yes. The route from inside the community to the Coachella entrance at 49th and Monroe is walkable via Eisenhower Drive. You exit through the Monroe Gate (the main guest gate), walk north on the gravel pedestrian path, and enter via the Yellow Path at 49th and Monroe. Closed-toe shoes are worth it. Full walk guide at https://indigopalm.co/blog/indian-palms-vacation-rental/"
       }
     },
     {

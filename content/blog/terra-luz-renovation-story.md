@@ -87,7 +87,7 @@ layout: blog-post.njk
 
 <p>It ran from February to May 2026. Dawn's photo shoot is May 14, first guests check in May 21.</p>
 
-<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, walking distance to Empire Polo Club, about 1.5 miles on foot (19 minutes via Eisenhower Drive) to the Coachella and Stagecoach festival grounds. The full design story behind the brand identity is in the <a href="/blog/terra-luz-origin-story/">Terra Luz origin story</a>. For the honest guest take on what the finished property is like to stay in, see the <a href="/blog/terra-luz-review/">Terra Luz review</a>.</p>
+<p>If you want to stay here, <a href="/terra-luz/">read what guests can expect at Terra Luz</a>. Both Terra Luz and <a href="/cozy-cactus/">Cozy Cactus</a> are in Indian Palms Country Club in Indio, walking distance to Empire Polo Club via Eisenhower Drive, where the Coachella and Stagecoach festival grounds are. The full design story behind the brand identity is in the <a href="/blog/terra-luz-origin-story/">Terra Luz origin story</a>. For the honest guest take on what the finished property is like to stay in, see the <a href="/blog/terra-luz-review/">Terra Luz review</a>.</p>
 
 <h2>FAQ: Terra Luz Renovation</h2>
 

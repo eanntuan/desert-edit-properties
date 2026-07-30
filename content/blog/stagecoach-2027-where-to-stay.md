@@ -20,7 +20,7 @@ keywords:
 articleSection: "Festival Guide"
 property: all
 readTime: "6 min read"
-excerpt: "Stagecoach 2027: camping, hotels, or a house 7 minutes from the stage? What matters for a festival weekend, from someone who hosts it every year."
+excerpt: "Stagecoach 2027: camping, hotels, or a house within walking distance of the stage? What matters for a festival weekend, from someone who hosts it every year."
 layout: blog-post.njk
 relatedPosts:
   - title: "Stagecoach 2026: Where to Stay Near the Festival"
@@ -42,7 +42,7 @@ faqItems:
     a: "Fall 2026 is the right time to start looking. Stagecoach doesn't generate the same booking frenzy as Coachella, but the private-pool properties in Indian Palms within walking distance of the grounds have limited inventory, and by early spring 2027 the good ones at reasonable rates are largely gone. Full timing guidance at https://indigopalm.co/blog/stagecoach-2027-where-to-stay/"
 ---
 
-<p><a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach</strong></a> runs the last weekend of April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Same grounds as Coachella, different crowd, three days of country music, and one of the more interesting accommodation puzzles in live events because your options range from literal dirt camping to houses with private pools a 7-minute drive from the stage.</p>
+<p><a href="https://www.stagecoachfestival.com/" target="_blank" rel="noopener noreferrer"><strong>Stagecoach</strong></a> runs the last weekend of April at the <a href="https://empirepolo.com/" target="_blank" rel="noopener noreferrer"><strong>Empire Polo Club</strong></a> in Indio, California. Same grounds as Coachella, different crowd, three days of country music, and one of the more interesting accommodation puzzles in live events because your options range from literal dirt camping to houses with private pools within walking distance of the stage.</p>
 
 <p>I've hosted Stagecoach guests at my two Indio properties since 2022. Here's what I've seen work and what hasn't.</p>
 
@@ -164,10 +164,10 @@ faqItems:
 <p>If you want full immersion and don't mind sleeping in the desert in late April heat, yes. Car camping puts you on the grounds with no commute and a specific kind of communal energy. If you've done festival camping before and liked it, Stagecoach camping is a good version of that experience.</p>
 
 <h3>How early should I book a Stagecoach rental?</h3>
-<p>Stagecoach doesn't book out as aggressively as Coachella, but the best Indio vacation rentals within 10 minutes of the grounds go quickly once the lineup drops. Fall 2026 is the right window to start looking for 2027. By early spring, the private-pool properties in Indian Palms have limited availability at reasonable rates.</p>
+<p>Stagecoach doesn't book out as aggressively as Coachella, but the best Indio vacation rentals near the grounds go quickly once the lineup drops. Fall 2026 is the right window to start looking for 2027. By early spring, the private-pool properties in Indian Palms have limited availability at reasonable rates.</p>
 
 <h3>Is it better to stay in Indio or Palm Springs for Stagecoach?</h3>
-<p>Indio. The Empire Polo Club is in Indio, which means Indio rentals are 7-15 minutes from the grounds. Palm Springs is 25-30 miles west and 35-60 minutes by car in festival traffic. The commute is slightly better at Stagecoach than Coachella, but it compounds over three days into hours you could have spent at the pool or at the grounds.</p>
+<p>Indio. The Empire Polo Club is in Indio, which means an Indian Palms rental puts you within walking distance of the grounds. Palm Springs is 25-30 miles west and 35-60 minutes by car in festival traffic. The commute is slightly better at Stagecoach than Coachella, but it compounds over three days into hours you could have spent at the pool or at the grounds.</p>
 
 <h3>What's the weather like at Stagecoach in April?</h3>
 <p>Late April in the Coachella Valley runs 85-95 degrees during the day, dropping to the low-to-mid 60s at night. Pack SPF 50+, a hat for the day, and a light layer for the evening. The temperature swing between mid-afternoon and after the headliner ends is bigger than most first-timers expect.</p>
@@ -184,7 +184,7 @@ faqItems:
 
 <h4>Can I drive back to my rental during the day at Stagecoach?</h4>
 
-<p>If you're in Indian Palms, yes, and it's worth planning around. The mid-afternoon heat window (roughly 2-5pm) is when the day programming slows and temperatures peak. Groups staying close to the grounds regularly go back to the rental for a pool break, then return for the evening sets. It only makes sense if your rental is under 15 minutes away, which is one of the main reasons proximity matters more than property size for a Stagecoach rental.</p>
+<p>If you're in Indian Palms, yes, and it's worth planning around. The mid-afternoon heat window (roughly 2-5pm) is when the day programming slows and temperatures peak. Groups staying close to the grounds regularly go back to the rental for a pool break, then return for the evening sets. It only makes sense if your rental is genuinely close, which is one of the main reasons proximity matters more than property size for a Stagecoach rental.</p>
 
 <div style="background: #fff8e7; border-left: 3px solid #B67550; padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: 0 6px 6px 0;">
 <p style="margin-top: 0;"><strong>Book direct and skip Airbnb's 20% service fee.</strong> Same Superhost homes, direct contact with us, no platform markup.</p>
