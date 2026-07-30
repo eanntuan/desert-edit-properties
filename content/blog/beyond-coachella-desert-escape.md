@@ -1,7 +1,7 @@
 ---
 title: "Coachella Valley Year-Round: Life Beyond Festival Season"
 date: 2025-12-16
-dateModified: 2026-07-15
+dateModified: 2026-07-30
 metaDescription: "The Coachella Valley isn't just festival weekends. Joshua Tree is 30 minutes east, Salton Sea is south, and hot springs the festival crowd never finds."
 ogImage: /blog/images/cozy-cactus-pool.webp
 heroImage: /blog/images/cozy-cactus-pool.webp
@@ -30,7 +30,7 @@ layout: blog-post.njk
 <p>This is the version of the valley that festival-only visitors never see. I bought a house here and now I'm the person who can't stop talking about fall light and mid-week escapes where nothing is on the schedule except the pool and an early hike. The Coachella Valley is a place you <em>return to</em>, for the sun, the space, and the surprising amount of culture packed into this stretch of California.</p>
 
 <img src="/blog/images/ps-desert-valley-view.webp" alt="Panoramic view of the Coachella Valley desert floor with mountains in the background and clear blue sky in Palm Springs CA" width="1400" height="933" loading="lazy">
-<p class="image-caption">45 miles of valley. 300 days of sun. Four very different seasons.</p>
+<p class="image-caption">45 miles of valley, roughly 300 days of sun, and four seasons that feel nothing alike.</p>
 
 <h2>The Geography of It All</h2>
 
@@ -217,7 +217,7 @@ layout: blog-post.njk
       "name": "Where should I stay in the Coachella Valley if I'm not going to a festival?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Renting a private home in Indio gives you the most space for the money, with a private pool and full kitchen. Terra Luz is a 3-bedroom Cuban-inspired house with a saltwater pool. Cozy Cactus is a family-oriented 3-bedroom with community pool access and infant gear. Both are 30 minutes from Palm Springs and 45 minutes from Joshua Tree, and both book direct at indigopalm.co with no Airbnb service fee."
+        "text": "Renting a private home in Indio gives you the most space for the money. Terra Luz is a 3-bedroom Cuban-inspired house and the one with a private saltwater pool and heated spa. Cozy Cactus is a family-oriented 3-bedroom with a private hot tub, access to three heated community pools at Indian Palms, and infant gear. Both are 30 minutes from Palm Springs and 45 minutes from Joshua Tree, and both book direct at indigopalm.co with no Airbnb service fee."
       }
     },
     {
@@ -260,7 +260,7 @@ layout: blog-post.njk
 
 
 <h4>Where should I stay in the Coachella Valley if I'm not going to a festival?</h4>
-<p>Renting a private home in Indio gives you the most space for the money: your own pool, a full kitchen, and outdoor living that makes a 4-day trip feel like an actual reset. <a href="/terra-luz/">Terra Luz</a> is a 3-bedroom Cuban-inspired house with a saltwater pool, and <a href="/cozy-cactus/">Cozy Cactus</a> is a family-oriented 3-bedroom with community pool access and infant gear already stocked. Both are 30 minutes from Palm Springs and 45 minutes from Joshua Tree, so you're not trading access for affordability. Both book direct at <a href="https://indigopalm.co">indigopalm.co</a>, which skips the Airbnb service fee.</p>
+<p>Renting a private home in Indio gives you the most space for the money: a full kitchen and outdoor living that makes a 4-day trip feel like an actual reset. <a href="/terra-luz/">Terra Luz</a> is a 3-bedroom Cuban-inspired house and the one with the private saltwater pool, while <a href="/cozy-cactus/">Cozy Cactus</a> is a family-oriented 3-bedroom with a private hot tub, three heated community pools at Indian Palms, and infant gear already stocked. Both are 30 minutes from Palm Springs and 45 minutes from Joshua Tree, so you're not trading access for affordability. Both book direct at <a href="https://indigopalm.co">indigopalm.co</a>, which skips the Airbnb service fee.</p>
 
 <h4>Can I bring my dog to a Coachella Valley vacation rental?</h4>
 <p>Terra Luz in Indio is dog-friendly and has a fenced terracotta patio and backyard well-suited for dogs. The Sundune in Palm Springs is also dog-friendly with prior approval, per the HOA. Cozy Cactus does not accept pets. If you're traveling with a dog, Terra Luz is the Indio option, see details at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>.</p>

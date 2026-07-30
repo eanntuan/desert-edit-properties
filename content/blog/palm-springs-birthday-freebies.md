@@ -1,7 +1,7 @@
 ---
 title: "Birthday Freebies in Palm Springs: Free Treats and Deals"
 date: 2026-04-15
-dateModified: 2026-05-19
+dateModified: 2026-07-30
 metaDescription: "Birthday freebies in the Palm Springs area: free cookies, bundtlets, cheesecake, cupcakes, and more. What to sign up for, when, and exactly where to go."
 ogImage: /blog/images/yes-please-palm-springs.webp
 heroImage: /blog/images/yes-please-palm-springs.webp
@@ -54,7 +54,7 @@ A few programs are birthday-month rewards, meaning they're valid for the entire 
 
 If your birthday is during a desert trip, a reasonable route runs Palm Desert to Rancho Mirage to Palm Springs. Hit Crumbl and Nothing Bundt Cakes in Palm Desert in the afternoon, grab dinner at Cheesecake Factory in Rancho Mirage, then end the night in Palm Springs proper. You've covered the dessert category several times over.
 
-Staying somewhere central helps. Guests at [The Sundune](/the-sundune/) in Palm Springs are about 15 minutes from the Palm Desert cluster and walking distance to Starbucks and Koffi on Palm Canyon.
+Staying somewhere central helps. Guests at [The Sundune](/the-sundune/) in Palm Springs are about 15 minutes from the Palm Desert cluster, and Koffi on N Palm Canyon is a couple of minutes up the road in the Uptown Design District.
 
 <img src="/blog/images/koffi-palm-springs.webp" alt="Koffi coffee shop exterior in Palm Springs with plants and outdoor seating" loading="lazy" width="1400" height="933">
 

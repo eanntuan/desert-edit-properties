@@ -1,7 +1,7 @@
 ---
 title: "BNP Paribas Open Vacation Rental Guide for 2027"
 date: 2026-05-27
-dateModified: 2026-07-18
+dateModified: 2026-07-30
 redirectTo: /blog/bnp-paribas-indian-wells-where-to-stay/
 layout: redirect.njk
 metaDescription: "Finding a vacation rental for the BNP Paribas Open instead of an Indian Wells hotel. Indio as a quiet base 20 min from the venue, with private pools and kitchens."
@@ -63,7 +63,7 @@ relatedPosts:
 <p>Full kitchen access changes the week financially. Stocking a kitchen on arrival day and cooking breakfast, packing snacks, and making dinner most nights saves real money over seven days of stadium food plus restaurant tabs. The good vacation rentals in Indio have kitchens that work, not just a microwave and a two-burner situation.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Private saltwater pool and terracotta patio at Terra Luz vacation rental in Indio California, 20 minutes from the Indian Wells Tennis Garden" width="1400" height="933" loading="lazy">
-<p class="image-caption">Terra Luz backyard and saltwater pool in Indio. March nights in the desert drop to the low 50s. A heated private pool after a day at the tennis is worth more than it sounds in the listing description.</p>
+<p class="image-caption">Terra Luz backyard and saltwater pool in Indio. March nights in the desert drop to the low 50s, which is why I'd add pool heating for a tournament week: $75 a night, two-night minimum, or $400 for the full stretch. The spa heat comes with the house either way.</p>
 
 <h2>Wifi, Schedule, and Practical Rental Needs for Tennis Week</h2>
 

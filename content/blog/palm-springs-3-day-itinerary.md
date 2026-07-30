@@ -40,7 +40,7 @@ layout: blog-post.njk
 
 <h2>Day 2: Downtown, Architecture, and the Art Museum</h2>
 
-<p>If you're staying at <a href="/the-sundune/">The Sundune</a>, you're a 20-minute walk from Koffi and about 10 minutes from the aerial tram road. The location removes a lot of logistics from this kind of itinerary.</p>
+<p>If you're staying at <a href="/the-sundune/">The Sundune</a>, Koffi and the rest of the Uptown Design District are an easy walk, downtown Palm Canyon Drive is about ten minutes by car, and the aerial tram road is roughly the same. One note before you book: the HOA at Palm Canyon Villas sets a 5-night minimum, so treat these three days as the spine of a longer stay rather than the whole trip.</p>
 
 <p>Morning: coffee at Koffi (1700 S Camino Real or the North Palm Springs location). It's the closest thing to a local institution the city has. Then walk downtown.</p>
 
@@ -169,7 +169,7 @@ layout: blog-post.njk
       "name": "Where should I stay for a Palm Springs long weekend?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Stay in Palm Springs proper for a city-focused trip, south of downtown near the residential neighborhoods. Vacation rentals with private pools make the most sense given midday heat. If you're splitting time between Palm Springs and Coachella or Stagecoach, basing in Indio saves 30 minutes each way on festival days. The Sundune at indigopalm.co is a Palm Springs condo with a 4-night minimum, well-located for this itinerary."
+        "text": "Stay in Palm Springs proper for a city-focused trip, south of downtown near the residential neighborhoods. Vacation rentals with private pools make the most sense given midday heat. If you're splitting time between Palm Springs and Coachella or Stagecoach, basing in Indio saves 30 minutes each way on festival days. The Sundune at indigopalm.co is a Palm Springs condo with a 5-night HOA minimum, so this three-day plan works as the core of a slightly longer stay."
       }
     },
     {

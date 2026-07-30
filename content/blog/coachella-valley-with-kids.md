@@ -1,7 +1,7 @@
 ---
 title: "Coachella Valley with Kids: Best Rentals, Activities, Tips"
 date: 2026-01-18
-dateModified: 2026-03-23
+dateModified: 2026-07-30
 metaDescription: "Coachella Valley with kids: best months to visit, family-friendly vacation rentals in Indio, and where to take toddlers and babies in the desert."
 ogImage: /blog/images/cozy-cactus-infant-gear.webp
 heroImage: /blog/images/cozy-cactus-infant-gear.webp
@@ -40,7 +40,7 @@ relatedPosts:
     <tr><th>Region</th><td>Coachella Valley, CA (Palm Springs to Indio)</td></tr>
     <tr><th>Best Season</th><td>November–April (outdoor activities are comfortable)</td></tr>
     <tr><th>Best For</th><td>Ages 3–14, though Living Desert works for all ages</td></tr>
-    <tr><th>Family Properties</th><td><a href="/cozy-cactus/">The Cozy Cactus</a> (sleeps 8) and <a href="/the-sundune/">The Sundune</a> (sleeps 4)</td></tr>
+    <tr><th>Family Properties</th><td><a href="/cozy-cactus/">The Cozy Cactus</a> (sleeps 8) and <a href="/the-sundune/">The Sundune</a> (sleeps 6)</td></tr>
     <tr><th>Pro Tip</th><td>Book Living Desert and Cabazon Dinosaurs on the same day. They're 30 min apart.</td></tr>
   </table>
 </div>

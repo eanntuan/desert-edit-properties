@@ -1,7 +1,7 @@
 ---
 title: "Where to Stay for Coachella 2026: The Honest Rental Guide"
 date: 2025-11-28
-dateModified: 2026-02-04
+dateModified: 2026-07-30
 redirectTo: /blog/where-to-stay-coachella/
 metaDescription: "Vacation rental, hotel, or camping for Coachella? The polo grounds are in Indio. Here's what's close, what it costs, and what to book first."
 ogImage: /blog/images/festival-concert-night.webp
@@ -78,8 +78,8 @@ layout: redirect.njk
 
 <p><strong>Getting home at 1am:</strong> You walk. No Uber surge. No "should we leave before the headliner to beat traffic?" calculation. You leave when you want and come back to a pool.</p>
 
-<img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Private pool and backyard at the Cozy Cactus vacation rental in Indio CA, steps from the Coachella festival grounds" width="1400" height="933" loading="lazy">
-<p class="image-caption">Your recovery base. Pool, hot tub, patio. Two miles from the polo grounds.</p>
+<img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Backyard and patio at the Cozy Cactus vacation rental in Indio CA, steps from the Coachella festival grounds" width="1400" height="933" loading="lazy">
+<p class="image-caption">Your recovery base: a private hot tub, a shaded patio, and three heated community pools inside Indian Palms, two miles from the polo grounds.</p>
 
 <h2>The 3PM Strategy (This Is Why Proximity Matters)</h2>
 

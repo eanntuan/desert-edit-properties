@@ -1,7 +1,7 @@
 ---
 title: "191 Airbnb Reviews: What Four Years of Hosting Taught Us"
 date: 2025-10-26
-dateModified: 2025-12-08
+dateModified: 2026-07-30
 metaDescription: "Hard-won hosting lessons from 191 Airbnb reviews and four years running rentals in Indio, CA. The details that move the needle on 5-star reviews."
 ogImage: /blog/images/airbnb-hosting-welcome.webp
 heroImage: /blog/images/airbnb-hosting-welcome.webp
@@ -40,8 +40,8 @@ layout: blog-post.njk
 
 <p>When a guest messages, they're somewhere vulnerable: about to book, just arrived somewhere unfamiliar, or something's broken. Getting back to them fast closes that gap before it becomes a thing. I use automated messages for routine check-in stuff, but I stay personally available for anything outside the script, because that's exactly when it matters.</p>
 
-<img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of The Cozy Cactus vacation rental in Indio California showing pool backyard and desert neighborhood" width="1400" height="933" loading="lazy">
-<p class="image-caption">The Cozy Cactus from above. Four bedrooms, pool, putting green, all described accurately in the listing.</p>
+<img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of The Cozy Cactus vacation rental in Indio California showing the backyard and desert neighborhood" width="1400" height="933" loading="lazy">
+<p class="image-caption">The Cozy Cactus from above: three bedrooms, a hot tub, and a putting green, all described accurately in the listing.</p>
 
 <h2>Stock Two of Everything, Then Add One More</h2>
 
@@ -73,8 +73,8 @@ layout: blog-post.njk
 
 <p>We started photographing what guests find on arrival, same furniture, same art, nothing staged at its most photogenic. Guests who find the house matching the photos have one less thing to feel deceived about, and closing that expectation gap costs you nothing.</p>
 
-<img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at The Cozy Cactus vacation rental in Indio California with lounge chairs and desert landscaping" width="1400" height="933" loading="lazy">
-<p class="image-caption">The pool and backyard photographed as guests find them, not styled within an inch of its life.</p>
+<img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Backyard at The Cozy Cactus vacation rental in Indio California with lounge chairs and desert landscaping" width="1400" height="933" loading="lazy">
+<p class="image-caption">The backyard photographed as guests find it, not styled within an inch of its life.</p>
 
 <h2>Respond to Every Bad Review Within 24 Hours</h2>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Get from LAX to Palm Springs: Every Option Compared"
 date: 2025-10-29
-dateModified: 2025-12-11
+dateModified: 2026-07-30
 metaDescription: "LAX to Palm Springs: drive, shuttle, fly into PSP, or Amtrak. Honest trade-offs for each option with real times and costs so you can plan before you book."
 ogImage: /blog/images/ps-boulevard-palms-mountains.webp
 heroImage: /blog/images/ps-boulevard-palms-mountains.webp
@@ -64,7 +64,7 @@ layout: blog-post.njk
 
 <h2>Getting Around Once You're Here</h2>
 
-<p>Downtown Palm Springs is walkable. But the broader valley is not. Indio is 30 miles east. Joshua Tree is 45 minutes from Palm Springs. Rideshare availability is good in Palm Springs proper during peak season but gets thin in the east valley and after hours. If you want flexibility to explore, rent a car.</p>
+<p>Downtown Palm Springs is walkable, and the broader valley is not: Indio is 30 miles east, Joshua Tree 45 minutes out. Rideshare availability is good in Palm Springs proper during peak season but gets thin in the east valley and after hours. If you want flexibility to explore, rent a car.</p>
 
 <p>The <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> covers the trade-offs between staying in the city versus closer to the Coachella grounds. If you're looking for a Palm Springs base with two bedrooms and room for six, <a href="/the-sundune/">The Sundune</a> is 15 minutes from downtown and 10 minutes from the tram.</p>
 
@@ -112,7 +112,7 @@ layout: blog-post.njk
       "name": "Can you get to Palm Springs without a car?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can get there. Getting around the broader valley without one is difficult. Downtown Palm Springs is walkable. Anywhere else in the valley requires a car or rideshare."
+        "text": "You can get there without one, but getting around the broader valley is difficult. Downtown Palm Springs is walkable; anywhere else requires a car or rideshare, and rideshare gets thin in the east valley after 10pm."
       }
     }
   ]
@@ -131,7 +131,7 @@ layout: blog-post.njk
 <p>PSP is more convenient if you can get a reasonable fare. LAX has more routes and often lower fares but adds the 2-hour drive. ONT is worth checking as a middle-ground. Run the numbers for your dates.</p>
 
 <h3>Can you get to Palm Springs without a car?</h3>
-<p>You can get there. Getting around the broader valley without one is difficult. Downtown Palm Springs is walkable. Anywhere else in the valley requires a car or rideshare.</p>
+<p>You can get there without one, but getting around the broader valley is difficult. Downtown Palm Springs is walkable; anywhere else requires a car or rideshare, and rideshare gets thin in the east valley after 10pm.</p>
 
 <script type="application/ld+json">
 {
@@ -167,7 +167,7 @@ layout: blog-post.njk
       "name": "Can you get to Palm Springs without a car?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can get there without one, but getting around the broader valley is difficult. Downtown Palm Springs is walkable. Anywhere else in the valley requires a car or rideshare, and rideshare gets thin in the east valley after 10pm."
+        "text": "You can get there without one, but getting around the broader valley is difficult. Downtown Palm Springs is walkable; anywhere else requires a car or rideshare, and rideshare gets thin in the east valley after 10pm."
       }
     },
     {

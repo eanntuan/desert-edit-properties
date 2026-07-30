@@ -140,7 +140,7 @@ layout: blog-post.njk
 <h3>FAQ: Terra Luz Amenities and Booking</h3>
 
 <h4>Does Terra Luz have a pool and spa?</h4>
-<p>Yes. Both are included with every stay. The private pool is the Frida Kahlo blue pool you see in the photos: in-pool loungers built into the shallow end, cleaned Monday and Thursday. The spa seats four, heats in about an hour, and is complimentary. Pool heating (during cooler months) is $75/day, two-day minimum.</p>
+<p>Yes, the property has both. The private pool is the Frida Kahlo blue pool you see in the photos: in-pool loungers built into the shallow end, cleaned Monday and Thursday. The spa seats four, heats in about an hour, and is complimentary. Pool heating (during cooler months) is $75/day, two-day minimum.</p>
 
 <h4>How many guests does Terra Luz sleep?</h4>
 <p>Eight guests: three bedrooms (one king primary plus twin daybed & twin trundle, one king Wild Tropics, one Cali Room with king plus trundle), two bathrooms. Two parking spaces in the driveway, two parking spots in the garage.</p>
@@ -166,7 +166,7 @@ layout: blog-post.njk
       "name": "Does Terra Luz have a pool and spa?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Both are included with every stay. The private pool features the Frida Kahlo blue tiles from the photos, with built-in in-pool loungers in the shallow end. The spa seats four, heats in about an hour, and is complimentary. Pool heating during November through May is $75/day with a two-day minimum."
+        "text": "Yes, the property has both. The private pool features the Frida Kahlo blue tiles from the photos, with built-in in-pool loungers in the shallow end. The spa seats four, heats in about an hour, and is complimentary. Pool heating during November through May is $75/day with a two-day minimum."
       }
     },
     {

@@ -1,8 +1,8 @@
 ---
 title: "BNP Paribas Open Palm Springs: Where to Stay in 2027"
 date: 2026-06-22
-dateModified: 2026-06-22
-metaDescription: "Staying in Palm Springs for the BNP Paribas Open? The Sundune puts you 12 miles from Indian Wells Tennis Garden with pool access, 3 king beds, and walkable Palm Canyon access."
+dateModified: 2026-07-30
+metaDescription: "Staying in Palm Springs for the BNP Paribas Open? The Sundune puts you 12 miles from Indian Wells Tennis Garden with shared pool access, 3 king beds, and Palm Canyon ten minutes away."
 ogImage: /blog/images/bnp-paribas-stadium-packed.webp
 heroImage: /blog/images/bnp-paribas-stadium-packed.webp
 heroAlt: "Packed Stadium 1 at the BNP Paribas Open in Indian Wells California during a professional tennis match"
@@ -62,7 +62,7 @@ relatedPosts:
 
 <h2>Staying in Palm Springs: The Sundune</h2>
 
-<p>Our Palm Springs property is <a href="/the-sundune/"><strong>The Sundune</strong></a> at 5301 E Waverly Dr, a 2BR/2BA mid-century condo with three king beds, community pool access, and full kitchen. It books direct at <a href="https://indigopalm.co/the-sundune/" target="_blank" rel="noopener noreferrer">indigopalm.co/the-sundune/</a>, which removes the 20% Airbnb service fee, and the HOA requires a 4-night minimum stay. City permit 068394.</p>
+<p>Our Palm Springs property is <a href="/the-sundune/"><strong>The Sundune</strong></a> at 5301 E Waverly Dr, a 2BR/2BA coastal-desert condo with three king beds, shared HOA pool access, and a full kitchen. It books direct at <a href="https://indigopalm.co/the-sundune/" target="_blank" rel="noopener noreferrer">indigopalm.co/the-sundune/</a>, which removes the 20% Airbnb service fee, and the HOA requires a 5-night minimum stay. City permit 068394.</p>
 
 <img src="/blog/images/sundune-pool-surfboard-float.webp" alt="Community pool at The Sundune vacation rental in Palm Springs with surfboard float on a clear desert day" width="1200" height="900" loading="lazy">
 <p class="image-caption">The Sundune's community pool. March afternoons in Palm Springs hit mid-70s, so the pool gets used. After 8 hours in stadium seats, this is worth more than a hotel pool with posted hours and a crowd: this one has far fewer users and no schedule.</p>
@@ -73,7 +73,7 @@ relatedPosts:
 
 <p><strong>Three king beds means three couples or six people split that cost.</strong> At a price point where Indian Wells hotels are running $400-600 per night for a standard room during tournament week, a three-bed condo with community pool access divided six ways is a different math problem entirely.</p>
 
-<p><strong>Community pool, full kitchen, walkable Palm Canyon.</strong> Palm Canyon Drive, Palm Springs' main restaurant and shop corridor, is accessible from The Sundune without needing the car. After a day at the venue, that matters more than it seems in the listing. You can eat dinner on foot rather than driving somewhere, which is what you want when you've already driven 40+ round-trip miles during the day.</p>
+<p><strong>Shared pool, full kitchen, ten minutes to Palm Canyon.</strong> The Uptown Design District is close enough to walk for coffee or a drink, and downtown Palm Canyon Drive, the main restaurant and shop corridor, is about a ten-minute drive. After a day at the venue that short hop matters more than it sounds in a listing, because you're picking a dinner spot in your own city rather than eating whatever is attached to a hotel lobby, even after 40+ round-trip miles.</p>
 
 <img src="/blog/images/sundune-living-room-wide.webp" alt="The Sundune Palm Springs vacation rental living room with mid-century modern furniture and natural light" width="1200" height="900" loading="lazy">
 <p class="image-caption">The Sundune living room. Mid-century condo in central Palm Springs, 3 king beds, community pool access, dog-friendly with prior approval.</p>
@@ -131,7 +131,7 @@ relatedPosts:
 <p>12 miles west via Highway 111, about 20 minutes in normal March traffic. Indian Wells sits between Palm Springs and Indio, making both roughly equidistant. Palm Springs gives you walkable city access and more to do on non-match days. Indio gives you more space per dollar and pool access at most price points for larger groups.</p>
 
 <h3>Best place to stay in Palm Springs for the BNP Paribas Open?</h3>
-<p>A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, community pool access, and full kitchen in central Palm Springs, 20 minutes from the venue. Books direct without the Airbnb service fee. 4-night minimum stay required by HOA.</p>
+<p>A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, shared HOA pool access, and a full kitchen in Palm Springs, 20 minutes from the venue. It books direct without the Airbnb service fee, and the HOA requires a 5-night minimum stay.</p>
 
 <h3>How do I get tickets to the BNP Paribas Open?</h3>
 <p>Directly at <a href="https://bnpparibasopen.com/" target="_blank" rel="noopener noreferrer">bnpparibasopen.com</a>. Grounds passes for the first week and Stadium 1 session tickets for quarterfinals and later are the categories to prioritize. Semis and finals sell out fast. Grounds passes for weekday first-round sessions are usually available closer to the tournament start.</p>
@@ -168,7 +168,7 @@ relatedPosts:
       "name": "Best place to stay in Palm Springs for the BNP Paribas Open?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, community pool access, and full kitchen in central Palm Springs, 20 minutes from the venue. Books direct without the Airbnb service fee. 4-night minimum stay required by HOA."
+        "text": "A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, shared HOA pool access, and a full kitchen in Palm Springs, 20 minutes from the venue. It books direct without the Airbnb service fee, and the HOA requires a 5-night minimum stay."
       }
     },
     {

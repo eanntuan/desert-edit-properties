@@ -1,7 +1,7 @@
 ---
 title: "Best Bars in Palm Springs: Where Locals Drink in 2026"
 date: 2026-03-04
-dateModified: 2026-04-21
+dateModified: 2026-07-30
 metaDescription: "From margaritas at La Perlita to drag at Toucans, here are the 11 best bars in Palm Springs for 2026. Real spots, no sponsored picks, organized by vibe."
 ogImage: /blog/images/palm-springs-bar-cocktails.webp
 heroImage: /blog/images/palm-springs-bar-cocktails.webp
@@ -29,7 +29,7 @@ excerpt: "From the best margaritas in the desert to drag shows on Arenas Road, h
 layout: blog-post.njk
 ---
 
-<p>I put this list together for guests at <a href="/the-sundune/">The Sundune</a>, my 2-bedroom walkable condo in Palm Springs. These are the spots I'd tell a friend about. Some are within walking distance of the property. Others require a car. I'm going to be clear about which is which, because a $30 Uber home at midnight changes the math.</p>
+<p>I put this list together for guests at <a href="/the-sundune/">The Sundune</a>, my 2-bedroom condo in Palm Springs. These are the spots I'd tell a friend about, and I'm going to be clear about which ones need a car or a rideshare from the property, because a $30 Uber home at midnight changes the math.</p>
 
 <p>This is not a sponsored list. Nobody paid me to include them. There are 11 spots below, organized by what you're looking for. Skip to your category.</p>
 
@@ -71,7 +71,7 @@ layout: blog-post.njk
 
 <p>The tacos are better than they need to be at a brewery. I don't fully understand it, but I stopped questioning it. Order them.</p>
 
-<p>This one is walkable from The Sundune, which solves the getting-home problem before it starts. If you're staying on Tahquitz Canyon Way or nearby, you're looking at about a 12-minute walk each direction.</p>
+<p>This one sits in the Uptown stretch, about a five-minute drive from The Sundune, so it's the easiest rideshare on the list and the cheapest ride home.</p>
 
 <h2>Tiki and Tropical</h2>
 
@@ -142,13 +142,11 @@ layout: blog-post.njk
 
 <p>Most of the Arenas Road bars (Hunters, Village Pub) run until 2am if you want to keep the night going in a proper venue rather than a deli booth, which is also a valid choice.</p>
 
-<h2>The Walkability Factor</h2>
+<h2>The Getting-Home Factor</h2>
 
-<p>If you're staying at <a href="/the-sundune/">The Sundune</a>, here's the specific breakdown of what requires a car versus what doesn't.</p>
+<p>If you're staying at <a href="/the-sundune/">The Sundune</a>, here's the honest breakdown. Downtown and Arenas Road are not walking distance from E Waverly Dr, so plan on a car or a rideshare for the bar night itself. What you can walk is the Uptown Design District, which is fine for a daytime coffee or a late-afternoon drink but isn't where the nightlife lives.</p>
 
-<p><strong>Walkable (15 min or less):</strong> Las Palmas Brewing (~12 min), Village Pub (~8 min), Sherman's Deli (~10 min). The Arenas Road bars (Hunters) are about 10 minutes on foot from the property.</p>
-
-<p><strong>Short rideshare:</strong> Bootlegger Tiki, Rooftop 262, Eight4Nine, La Perlita, Seymour's, Toucans are all within a 5-7 minute Uber. Budget $10-14 one way depending on surge pricing.</p>
+<p><strong>Short rideshare (5-10 min):</strong> Las Palmas Brewing, Village Pub, Sherman's Deli, Hunters and the rest of the Arenas Road bars, plus Bootlegger Tiki, Rooftop 262, Eight4Nine, La Perlita, Seymour's, and Toucans. Budget $10-16 one way depending on surge pricing.</p>
 
 <p><strong>Requires a car:</strong> The Nest (Indian Wells, 20 min drive). Worth it, but plan accordingly.</p>
 
@@ -165,7 +163,7 @@ layout: blog-post.njk
       <th>Spot</th>
       <th>Address</th>
       <th>Category</th>
-      <th>Walkable from Sundune</th>
+      <th>Drive or walk from Sundune</th>
       <th>Open Until</th>
     </tr>
   </thead>
@@ -174,7 +172,7 @@ layout: blog-post.njk
       <td>La Perlita</td>
       <td>901 Crossley Rd</td>
       <td>Cocktails / Mexican</td>
-      <td>15-20 min walk</td>
+      <td>Drive, ~7 min</td>
       <td>Check hours</td>
     </tr>
     <tr>
@@ -195,7 +193,7 @@ layout: blog-post.njk
       <td>Las Palmas Brewing</td>
       <td>461 N Palm Canyon Dr</td>
       <td>Craft beer</td>
-      <td>Yes, ~12 min</td>
+      <td>Drive, ~5 min</td>
       <td>Check hours</td>
     </tr>
     <tr>
@@ -216,14 +214,14 @@ layout: blog-post.njk
       <td>Hunters</td>
       <td>302 E Arenas Rd</td>
       <td>Gay bar / Nightclub</td>
-      <td>~10 min walk</td>
+      <td>Rideshare, ~8 min</td>
       <td>2am daily</td>
     </tr>
     <tr>
       <td>Village Pub</td>
       <td>266 S Palm Canyon Dr</td>
       <td>Nightclub / Sports bar</td>
-      <td>~8 min walk</td>
+      <td>Rideshare, ~8 min</td>
       <td>2am daily</td>
     </tr>
     <tr>
@@ -365,7 +363,7 @@ layout: blog-post.njk
       "name": "Is there good craft beer in Palm Springs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Las Palmas Brewing at 461 N Palm Canyon Dr is the main craft beer option downtown, with rotating lighter ales and session IPAs. Tuesday specials are worth knowing for midweek visits. It's about a 12-minute walk from The Sundune at indigopalm.co, making it the most convenient no-rideshare evening option on the list."
+        "text": "Las Palmas Brewing at 461 N Palm Canyon Dr is the main craft beer option downtown, with rotating lighter ales and session IPAs. Tuesday specials are worth knowing for midweek visits. It's about a five-minute drive from The Sundune at indigopalm.co, making it the cheapest and shortest ride of any evening option on the list."
       }
     }
   ]
@@ -382,4 +380,4 @@ layout: blog-post.njk
 <p>Eight4Nine at 849 N Palm Canyon Dr has live music and DJ nights on weekends. Hunters at 302 E Arenas Rd runs until 2am daily with a dance floor and themed nights. For something different, The Nest in Indian Wells (75188 CA-111) is 20 minutes east but consistently worth the drive: live music, real dancing, and a crowd that's there to have fun rather than be seen having fun.</p>
 
 <h4>Is there good craft beer in Palm Springs?</h4>
-<p>Las Palmas Brewing at 461 N Palm Canyon Dr is the main option downtown, family-owned with rotating lighter ales and session IPAs. Tuesday specials are worth knowing if you're visiting midweek. If you're staying at <a href="/the-sundune/">The Sundune</a>, it's about a 12-minute walk north, which makes it the most convenient no-rideshare evening option on the list.</p>
+<p>Las Palmas Brewing at 461 N Palm Canyon Dr is the main option downtown, family-owned with rotating lighter ales and session IPAs. Tuesday specials are worth knowing if you're visiting midweek. If you're staying at <a href="/the-sundune/">The Sundune</a>, it's about five minutes north by car, which makes it the shortest ride home of anything on this list.</p>

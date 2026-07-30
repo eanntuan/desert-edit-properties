@@ -1,8 +1,8 @@
 ---
 title: "Inside The Sundune: A Palm Springs Coastal Design Story"
 date: 2025-11-19
-dateModified: 2026-01-27
-metaDescription: "The design story behind The Sundune at Palm Springs: coastal-desert vibes, sun-faded palettes, and a surf-inspired sanctuary steps from downtown."
+dateModified: 2026-07-30
+metaDescription: "The design story behind The Sundune at Palm Springs: coastal-desert vibes, sun-faded palettes, and a surf-inspired sanctuary a short drive from downtown."
 ogImage: /blog/images/ps-orange-door-mcm.webp
 heroImage: /blog/images/ps-orange-door-mcm.webp
 heroAlt: "Vibrant orange mid-century modern door with desert landscaping in Palm Springs, California"
@@ -29,7 +29,7 @@ layout: blog-post.njk
 
 <p>The name came from Dawn Asher at <a href="https://theolivejar.co" target="_blank" rel="noopener noreferrer">The Olive Jar</a>, who has done the branding across all four of our properties. She described sand dunes as the way wind carries grains of sand into a sheltered place: soft, sculptural, protective. A gentle refuge inside the energy of a desert city.</p>
 
-<p>That image clicked for me immediately. The Sundune sits steps from downtown Palm Springs, with all the noise that comes with it, but the apartment itself is meant to feel like the place you come back to. You unhook. You breathe. The name holds both things: sun-warmed terrain outside, an imagined coast breeze inside.</p>
+<p>That image clicked for me immediately. The Sundune sits inside Palm Springs with the Uptown Design District at the end of the block and downtown ten minutes down the road, so the city is close without being at the door, and the apartment itself is meant to feel like the place you come back to. You unhook. You breathe. The name holds both things: sun-warmed terrain outside, an imagined coast breeze inside.</p>
 
 <p>Dawn described it as blending two worlds: sun-warmed desert and the breezy spirit of the California surf coast. That became the brief.</p>
 
@@ -77,13 +77,13 @@ layout: blog-post.njk
 <p>The goal is thoughtfully collected over time, not overly styled. There is a real difference between a space where every piece was chosen deliberately and a space where every piece was chosen to match. We want the first one.</p>
 
 <img src="/blog/images/ps-boulevard-palms-mountains.webp" alt="Palm-lined boulevard in Palm Springs with San Jacinto mountain backdrop and clear desert sky" width="1400" height="933" loading="lazy" decoding="async">
-<p class="image-caption">Palm Springs at its quietest. The Sundune is a few blocks from all of this.</p>
+<p class="image-caption">Palm Springs at its quietest. The Sundune is a few minutes' drive from all of this.</p>
 
 <h2>The Basecamp Idea</h2>
 
 <p>One phrase from Dawn's brief has stuck with me: "basecamp." Hang up your surfboard, sleep in, head out inspired.</p>
 
-<p>That framing is exactly right for The Sundune. This isn't a place where you stay in. Palm Springs is right outside: the <a href="/blog/palm-springs-coffee-guide/">coffee shops worth walking to</a>, the architecture, the art galleries, the roadside taco stands alongside fancy cocktail bars. The property's job is to be the place you come back to at the end of all of it, not to compete with it.</p>
+<p>That framing is exactly right for The Sundune. This isn't a place where you stay in. Palm Springs is right outside: the <a href="/blog/palm-springs-coffee-guide/">coffee shops worth the walk up into Uptown</a>, the architecture, the art galleries, the roadside taco stands alongside fancy cocktail bars. The property's job is to be the place you come back to at the end of all of it, not to compete with it.</p>
 
 <p>The ideal guest here is someone who gravitates toward Santa Cruz, Big Sur, Laguna Beach, someone who can spend a morning at a tide pool and an evening at a design bar and feel equally at home in both. Active but cocktail chill. Not rigid about a schedule, happy to wander, genuinely fine if the plans change.</p>
 
@@ -150,7 +150,7 @@ layout: blog-post.njk
       "name": "Is The Sundune good for remote workers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The primary bedroom has an adjustable standing desk positioned to look out at the pool and palm trees. The kitchen, dining, and living areas flow together so you can shift workspaces throughout the day. Fast WiFi is standard, and the property is a short walk from coffee shops on Palm Canyon Drive."
+        "text": "Yes. The primary bedroom has an adjustable standing desk positioned to look out at the pool and palm trees. The kitchen, dining, and living areas flow together so you can shift workspaces throughout the day. Fast WiFi is standard, and the coffee shops in the Uptown Design District are an easy walk, with downtown Palm Canyon Drive about ten minutes by car."
       }
     },
     {
@@ -158,7 +158,7 @@ layout: blog-post.njk
       "name": "What makes The Sundune different from other Palm Springs vacation rentals?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Sundune was designed around a specific coastal-desert identity by brand designer Dawn Asher at The Olive Jar. The color palette, materials, and art direction all follow a single brief rather than a general aesthetic. It functions as a basecamp for exploring Palm Springs, with a location steps from downtown and a layout that prioritizes both design and real-world functionality."
+        "text": "The Sundune was designed around a specific coastal-desert identity by brand designer Dawn Asher at The Olive Jar. The color palette, materials, and art direction all follow a single brief rather than a general aesthetic. It functions as a basecamp for exploring Palm Springs, walkable to the Uptown Design District and about ten minutes by car from downtown, with a layout that prioritizes both design and real-world functionality."
       }
     },
     {
@@ -174,7 +174,7 @@ layout: blog-post.njk
       "name": "What is the minimum stay at The Sundune?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The HOA at Palm Canyon Villas requires a 4-night minimum on weekdays and a 5-night minimum when the stay includes a weekend night. Short two-night weekend stays are not available. Most guests book 4-7 nights."
+        "text": "The HOA at Palm Canyon Villas requires a 5-night minimum, so short weekend stays are not available. Most guests book 5-7 nights."
       }
     },
     {
@@ -194,7 +194,7 @@ layout: blog-post.njk
 <p>Yes, with prior approval. The Sundune accepts dogs but requires you to request permission before booking rather than assuming it's included. Reach out through the listing or directly at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a> to confirm before you book if you're traveling with a pet.</p>
 
 <h4>What is the minimum stay at The Sundune?</h4>
-<p>The HOA at Palm Canyon Villas requires a 4-night minimum on weekdays and a 5-night minimum when the stay includes a weekend night. Short two-night weekend stays are not available here. Most guests book 4-7 nights, which works well for a longer desert escape or a remote work week.</p>
+<p>The HOA at Palm Canyon Villas requires a 5-night minimum, so short weekend stays aren't available here. Most guests book 5-7 nights, which works well for a longer desert escape or a remote work week.</p>
 
 <h4>Can you book The Sundune directly without Airbnb?</h4>
 <p>Yes. The Sundune is bookable directly at <a href="https://indigopalm.co/the-sundune/">indigopalm.co/the-sundune</a>, which avoids the Airbnb service fee. Indigo Palm Collective manages all four properties directly, so pricing and availability are the same without the platform markup.</p>

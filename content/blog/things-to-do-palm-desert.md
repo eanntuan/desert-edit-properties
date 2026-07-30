@@ -72,11 +72,11 @@ layout: blog-post.njk
 <img src="/blog/images/indian-wells-tennis-garden-aerial.webp" alt="Aerial view of Indian Wells Tennis Garden with multiple courts and mountain backdrop in the Coachella Valley" width="1024" height="768" loading="lazy" decoding="async">
 <p class="image-caption">Indian Wells Tennis Garden from above. 29 courts, including a 16,000-seat stadium that hosts the BNP Paribas Open every March.</p>
 
-<p>Palm Desert is a good base for the valley. From here: Palm Springs is 15 minutes west (aerial tram, downtown, mid-century architecture). Coachella and Stagecoach festival grounds are 25 minutes east. Joshua Tree's south entrance is about 50 minutes. Salton Sea is an hour southeast. Read our <a href="/blog/things-to-do-indio-ca/">Indio guide</a> for what's on the eastern side of the valley.</p>
+<p>Palm Desert is a good base for the valley. From here, Palm Springs is 15 minutes west, which gets you the aerial tram, downtown, and the mid-century architecture. Going the other direction, the Coachella and Stagecoach festival grounds are 25 minutes east, Joshua Tree's south entrance about 50 minutes, and the Salton Sea an hour southeast. Read our <a href="/blog/things-to-do-indio-ca/">Indio guide</a> for what's on the eastern side of the valley.</p>
 
 <h2>When to Visit</h2>
 
-<p>October through May is the season. The valley is genuinely pleasant: daytime highs in the 70s and 80s, cool evenings, green courses. June through September, highs regularly exceed 110 degrees. The Living Desert reduces its hours. El Paseo is quieter. Prices drop 30 to 50 percent. Some restaurants reduce days. If you're going in summer, <a href="/blog/palm-springs-summer/">read our summer guide</a> first.</p>
+<p>October through May is the season. The valley is genuinely pleasant: daytime highs in the 70s and 80s, cool evenings, green courses. June through September, highs regularly exceed 110 degrees, the Living Desert cuts its hours, some restaurants trim their days, and El Paseo goes quiet. Prices drop 30 to 50 percent, which is the trade. If you're going in summer, <a href="/blog/palm-springs-summer/">read our summer guide</a> first.</p>
 
 <p>If you're spending more than a day in the valley, our properties in Indio give you a useful base: <a href="/cozy-cactus/">The Cozy Cactus</a> (3BR, private hot tub, community pool) and <a href="/terra-luz/">Terra Luz</a> (3BR, private saltwater pool, Latin/Cuban design) are both 20 minutes east of Palm Desert in Indian Palms. Either makes a comfortable home base for a valley trip that includes Palm Desert, Palm Springs, and Indio.</p>
 

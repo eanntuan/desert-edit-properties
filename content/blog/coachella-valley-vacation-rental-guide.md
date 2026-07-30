@@ -1,7 +1,7 @@
 ---
 title: "5 Things to Check Before Booking a Coachella Valley Rental"
 date: 2025-11-07
-dateModified: 2026-01-09
+dateModified: 2026-07-30
 metaDescription: "From pool access to honest reviews to a host who responds. Five things to check before booking a Coachella Valley vacation rental in Indio or Palm Springs."
 ogImage: /blog/images/palm-springs-hotel-pool.webp
 heroImage: /blog/images/palm-springs-hotel-pool.webp
@@ -42,10 +42,10 @@ layout: blog-post.njk
 
 <p>One more thing worth asking about: heated or not. Desert nights from October through April drop to 50-60°F, and an unheated pool in March is cold enough that most guests don't use it. If a listing says "pool" without specifying heated, just ask. It's the difference between a pool you use every day and one that photographs well.</p>
 
-<p><a href="/terra-luz/">Terra Luz</a> has a private saltwater pool with a sun shelf, heated year-round. <a href="/cozy-cactus/">The Cozy Cactus</a> has a private hot tub and a community pool a short walk away through the back gate of Indian Palms Country Club. I mention both because that distinction comes up in reviews constantly, and I'd rather you know before you book than be surprised when you arrive.</p>
+<p><a href="/terra-luz/">Terra Luz</a> has a private saltwater pool with a sun shelf, plus a spa that's heated at no extra cost. Heating the pool itself is $75 a night with a two-night minimum, or $400 for the week, so I'd rather tell you that up front than let you assume. <a href="/cozy-cactus/">The Cozy Cactus</a> has a private hot tub and three heated community pools a short walk away through the back gate of Indian Palms Country Club. I mention both because that distinction comes up in reviews constantly, and I'd rather you know before you book than be surprised when you arrive.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers, terracotta deck, and covered patio in Indio California" width="1400" height="933" loading="lazy" decoding="async">
-<p class="image-caption">The private saltwater pool at Terra Luz. Fully enclosed, heated, sun shelf included. This is the private pool you're looking for.</p>
+<p class="image-caption">The private saltwater pool at Terra Luz. Fully enclosed, sun shelf included, heated spa alongside it. This is the private pool you're looking for.</p>
 
 <img src="/blog/images/cozy-cactus-aerial.webp" alt="Aerial view of Cozy Cactus vacation rental in Indio California showing backyard and surrounding Indian Palms neighborhood" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus from above. The community pool is steps from the back gate. This is what you're evaluating when you check the satellite view in listing maps.</p>
@@ -186,7 +186,7 @@ layout: blog-post.njk
       "name": "How close to the Coachella festival grounds should my rental be?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Close enough to avoid festival traffic is the real benchmark. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles let you drive in off-peak and avoid rideshare surge pricing. Anything marketed as \"Palm Springs area\" without a specific address could be 25-45 miles away. Always map the street address before committing."
+        "text": "Close enough to walk is the real benchmark. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles, including Indian Palms Country Club, put the gates within walking distance, so you skip both the festival parking crawl and rideshare surge pricing. Anything marketed as \"Palm Springs area\" without a specific address could be 25-45 miles away. Always map the street address before committing."
       }
     },
     {
@@ -237,13 +237,13 @@ layout: blog-post.njk
 
 
 <h4>How close to the Coachella festival grounds should my rental be?</h4>
-<p>Close enough to avoid festival traffic is the real benchmark, not close enough to walk. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles (Indian Palms Country Club, for example) let you drive in off-peak and avoid the worst surge pricing on rideshares. Anything marketed as "Palm Springs area" without a specific address could be 25-45 miles from the venue. Always map the street address before committing.</p>
+<p>Close enough to walk is the real benchmark, and a small handful of Indio neighborhoods clear it. Empire Polo Club is at 81800 Avenue 51 in Indio, and rentals within 3 miles put the gates in walking range, Indian Palms Country Club included, which means you skip the festival parking crawl and the rideshare surge both. Anything marketed as "Palm Springs area" without a specific address could be 25-45 miles from the venue. Always map the street address before committing.</p>
 
 <h4>What does "private pool" mean in a Coachella Valley rental listing?</h4>
 <p>It means the pool belongs only to guests at that property: no posted hours, no shared access with neighbors, and no noise rules imposed by an HOA. This is different from a community pool, which is shared with all residents of the development and typically closes around 10pm. The photos often look similar, so check the listing description explicitly or ask the host directly.</p>
 
 <h4>Is a heated pool necessary for a desert vacation rental?</h4>
-<p>From October through April, yes. Desert night temperatures regularly drop below 55°F, and an unheated pool is cold enough that most guests don't use it despite what the listing photos suggest. If a listing says "pool" without specifying heated, ask before you book. Some properties charge a nightly fee for heating. Terra Luz at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> includes heating in the base rate year-round.</p>
+<p>From October through April, yes. Desert night temperatures regularly drop below 55°F, and an unheated pool is cold enough that most guests don't use it despite what the listing photos suggest. If a listing says "pool" without specifying heated, ask before you book. Some properties charge a nightly fee for heating, and ours is one of them: at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> the spa heat is included, while heating the pool is $75 a night with a two-night minimum or $400 for a full week.</p>
 
 <h4>How do I compare two vacation rentals fairly when the nightly rates look similar?</h4>
 <p>Calculate the full total for your exact dates, including the Airbnb service fee (20%), cleaning fee, and local taxes, before comparing any two listings. A listing showing $220/night with a $300 cleaning fee is more expensive per night on a 3-night stay than a $250/night listing with a $120 cleaning fee. The advertised nightly rate is a starting point, not a price.</p>

@@ -1,8 +1,8 @@
 ---
 title: "Where to Stay for Modernism Week Palm Springs 2027"
 date: 2026-04-12
-dateModified: 2026-06-22
-metaDescription: "Mid-century home in Palm Springs, walking distance from Modernism Week venues. Book direct for 2027: private pool, designer interior, no Airbnb service fee."
+dateModified: 2026-07-30
+metaDescription: "Designer condo in Palm Springs, ten minutes from Modernism Week venues. Book direct for 2027: shared pool, three king beds, no Airbnb service fee."
 ogImage: /blog/images/ps-blue-door-cacti.webp
 heroImage: /blog/images/ps-blue-door-cacti.webp
 heroAlt: "Mid-century modern neighborhood in Palm Springs with flat-roofline homes and mountain backdrop"
@@ -64,7 +64,7 @@ The Uptown Design District, roughly the stretch of Palm Canyon north of Alejo, c
 
 Part of what makes Modernism Week different from a typical festival is that you can sleep in the thing you're celebrating. Palm Springs has a high concentration of genuinely original mid-century homes available as vacation rentals, with the flat rooflines, post-and-beam construction, and indoor-outdoor flow intact.
 
-[The Sundune](/the-sundune/) is a mid-century condominium in Palm Springs, built in the same era as many of the homes on the Modernism Week tour circuit. Walking out to the pool and then to a double-decker bus tour of the city's architectural history hits differently than commuting in from a hotel. The location puts you close to the core festival area and everything on Palm Canyon.
+[The Sundune](/the-sundune/) is a two-bedroom condo in Palm Springs, coastal-desert in aesthetic rather than strict mid-century, which is a nice counterweight to a week spent looking at post-and-beam rooflines. Starting your morning at the pool and driving ten minutes to a double-decker bus tour of the city's architectural history beats commuting in from the valley edge, and you're inside city limits for the whole festival instead of losing an hour each way.
 
 <img src="/blog/images/palm-springs-hotel-pool.webp" alt="Palm Springs hotel pool with palm trees and desert landscaping, mountain views in the background" loading="lazy" width="1400" height="1050">
 
@@ -140,7 +140,7 @@ For the broader Palm Springs architecture context outside of festival week, the 
       "name": "Where is the best place to stay for Modernism Week?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A mid-century property inside Palm Springs is ideal. The Sundune (indigopalm.co/the-sundune/) is a postwar condominium near Palm Canyon with three king beds and a pool, close to the core festival area. Staying walkable or rideshare-close to downtown matters because weekend parking near event venues fills fast."
+        "text": "Anything inside Palm Springs city limits beats commuting from the valley edge. The Sundune (indigopalm.co/the-sundune/) is a coastal-desert condo with three king beds and a shared HOA pool, walkable to the Uptown Design District and about ten minutes' drive from the downtown festival core. Staying rideshare-close to downtown matters because weekend parking near event venues fills fast."
       }
     },
     {
@@ -173,7 +173,7 @@ For the broader Palm Springs architecture context outside of festival week, the 
 
 
 <h4>Where is the best place to stay for Modernism Week?</h4>
-<p>Staying in a mid-century property inside Palm Springs puts you inside the architectural era you're celebrating, which is a different experience than commuting in from a hotel on the edge of the valley. <a href="https://indigopalm.co/the-sundune/">The Sundune</a> is a postwar condominium close to the Palm Canyon corridor with three king beds and a pool, and it books direct without the Airbnb platform fee. Whatever you book, being walkable or rideshare-close to downtown matters because weekend parking near event venues is reliably bad.</p>
+<p>Staying inside Palm Springs city limits is a different experience than commuting in from a hotel on the edge of the valley, because the festival runs all day and the drive is what kills your schedule. <a href="https://indigopalm.co/the-sundune/">The Sundune</a> is a coastal-desert condo with three king beds and a shared HOA pool, roughly ten minutes from the downtown festival core and walkable to the Uptown Design District, and it books direct without the Airbnb platform fee. Whatever you book, being rideshare-close to downtown matters because weekend parking near event venues is reliably bad.</p>
 
 <h4>How much does Modernism Week cost in total?</h4>
 <p>Budget roughly $400-$500 per person in tickets if you're doing the flagship experiences: two bus tours ($230), two home tours ($100-$160), and one opening party ($60-$100). Many lectures and neighborhood walks are free, which helps. Bundled passes can make sense for five or more paid events, but there's no official multi-event discount otherwise.</p>

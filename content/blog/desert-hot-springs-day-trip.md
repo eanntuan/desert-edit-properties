@@ -60,8 +60,8 @@ layout: blog-post.njk
 
 <p>Not a resort. Desert Hot Springs has a small city park with public mineral pools operated by the city of Desert Hot Springs. Corkill Pool and Cabot's Pueblo Park both offer inexpensive access to mineral water. Admission is a few dollars. These pools are not spa settings: they're public facilities, functionally more like a municipal pool with hot mineral water. But if you want to soak without paying resort prices, this is the honest option.</p>
 
-<img src="/blog/images/cozy-cactus-pool.webp" alt="Private pool at The Cozy Cactus vacation rental in Indio with desert backyard and patio furniture" width="1400" height="933" loading="lazy">
-<p class="image-caption">Our pools at the Indio properties are cold-water. Desert Hot Springs is where you go for the hot mineral soak.</p>
+<img src="/blog/images/cozy-cactus-pool.webp" alt="Heated community pool at Indian Palms Country Club near The Cozy Cactus vacation rental in Indio, with desert backyard and patio furniture" width="1400" height="933" loading="lazy">
+<p class="image-caption">Swimming water at our Indio properties, whether that's the Terra Luz saltwater pool or the community pools at Indian Palms, is for cooling off. Desert Hot Springs is where you go for the hot mineral soak.</p>
 
 <h2>6. Sam's Family Spa</h2>
 <p><strong>$</strong> | Day passes available</p>
@@ -146,7 +146,7 @@ layout: blog-post.njk
 <h3>How far is Desert Hot Springs from The Cozy Cactus and Terra Luz?</h3>
 <p>About 20 minutes north of Indio, straight up Gene Autry Trail. Both properties make a convenient base for a day trip to the mineral pools. Leave in the morning, soak for a few hours, and you're back in Indio in time for the pool and dinner.</p>
 
-<p>Both <a href="/terra-luz/">Terra Luz</a> and <a href="/cozy-cactus/">The Cozy Cactus</a> are 20 minutes from Desert Hot Springs. Private pools at both properties handle your daily swim. Desert Hot Springs handles the mineral soak.</p>
+<p>Both <a href="/terra-luz/">Terra Luz</a> and <a href="/cozy-cactus/">The Cozy Cactus</a> are 20 minutes from Desert Hot Springs. Terra Luz has a private saltwater pool, and the Cozy Cactus has a private hot tub plus three heated community pools at Indian Palms, so the daily swim is covered either way. Desert Hot Springs handles the mineral soak.</p>
 
 <script type="application/ld+json">
 {

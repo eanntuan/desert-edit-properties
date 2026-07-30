@@ -1,7 +1,7 @@
 ---
 title: "Arriving in the Coachella Valley: Your First Afternoon"
 date: 2026-06-22
-dateModified: 2026-06-26
+dateModified: 2026-07-30
 metaDescription: "Just checked in? Here's what to do first: where to stock up, where to eat tonight, when to hit the pool, and what to skip on day one."
 ogImage: /blog/images/palm-springs-mcm-neighborhood.webp
 heroImage: /blog/images/palm-springs-mcm-neighborhood.webp
@@ -80,7 +80,7 @@ faqItems:
 
 <p>Day one is for landing softly. A walk around the neighborhood after dinner is enough. The trip improves when you stop treating the first afternoon like a race to see everything.</p>
 
-<img src="/blog/images/cozy-cactus-backyard.webp" alt="Backyard pool and patio at The Cozy Cactus vacation rental in Indio, California" width="1800" height="1201" loading="lazy" decoding="async">
+<img src="/blog/images/cozy-cactus-backyard.webp" alt="Backyard patio and hot tub at The Cozy Cactus vacation rental in Indio, California" width="1800" height="1201" loading="lazy" decoding="async">
 <p class="image-caption">The backyard has been sitting here waiting for you. It'll still be here after dinner.</p>
 
 <h2>A Note on the Heat</h2>

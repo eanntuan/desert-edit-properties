@@ -22,7 +22,7 @@ excerpt: "The photo shoot is scheduled for Tuesday. It is Saturday. You think yo
 layout: blog-post.njk
 ---
 
-<p>The photographer was booked for Tuesday. It was Saturday afternoon. I walked through Casa Moto with a coffee and told myself we were basically ready.</p>
+<p>The photographer was booked for Tuesday. It was Saturday afternoon. I walked through Terra Luz with a coffee and told myself we were basically ready.</p>
 
 <p>We were not ready.</p>
 

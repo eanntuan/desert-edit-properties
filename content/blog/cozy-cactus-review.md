@@ -54,9 +54,9 @@ relatedPosts:
 
 <h2>The Outdoor Space</h2>
 
-<p>The backyard has a private hot tub, a covered patio, a putting green, and a mural wall. The Indian Palms Country Club community pool is steps from the back gate, shared with the complex (it has hours, it's not heated year-round). This distinction matters: <strong>the hot tub is private and on the property</strong>. The pool is community access.</p>
+<p>The backyard has a private hot tub, a covered patio, a putting green, and a mural wall. Indian Palms Country Club has three heated community pools, and the closest one is steps from the back gate, shared with the whole complex and on posted hours. This distinction matters: <strong>the hot tub is private and on the property</strong>, while the pools are community access.</p>
 
-<p>If you're looking for a private pool, <a href="/terra-luz/">Terra Luz</a> is our other property 15 minutes away, with a private saltwater pool heated year-round. Different vibe, same neighborhood distance to Coachella.</p>
+<p>If you're looking for a private pool, <a href="/terra-luz/">Terra Luz</a> is our other property 15 minutes away, with a private saltwater pool and a heated spa. Spa heat comes with the stay. Heating the pool itself is an add-on, $75 a night with a two-night minimum or $400 for the week. Different vibe, same neighborhood distance to Coachella.</p>
 
 <img src="/blog/images/cozy-cactus-hot-tub.webp" alt="Private hot tub at The Cozy Cactus vacation rental in Indio California" width="1400" height="933" loading="lazy">
 <p class="image-caption">The private hot tub. Steps from the back door, not shared with anyone.</p>
@@ -107,7 +107,7 @@ relatedPosts:
       "name": "Does The Cozy Cactus have a private pool?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The hot tub is private and on the property. The pool is community access through Indian Palms Country Club, steps from the back gate. If a private swimming pool is the priority, Terra Luz is 15 minutes away and has a private saltwater pool heated year-round."
+        "text": "The hot tub is private and on the property. The pools are community access through Indian Palms Country Club, three heated pools with the nearest one steps from the back gate. If a private swimming pool is the priority, Terra Luz is 15 minutes away with a private saltwater pool and a heated spa. Spa heating is included; pool heating is $75 per night with a two-night minimum, or $400 per week."
       }
     },
     {
@@ -149,7 +149,7 @@ relatedPosts:
 <h2>Frequently Asked Questions</h2>
 
 <h3>Does The Cozy Cactus have a private pool?</h3>
-<p>The hot tub is private and on the property. The pool is community access through Indian Palms Country Club, steps from the back gate. If a private swimming pool is the priority, <a href="/terra-luz/">Terra Luz</a> is 15 minutes away and has a private saltwater pool heated year-round.</p>
+<p>The hot tub is private and on the property. The pools are community access through Indian Palms Country Club, three heated pools with the nearest one steps from the back gate. If a private swimming pool is the priority, <a href="/terra-luz/">Terra Luz</a> is 15 minutes away with a private saltwater pool and a heated spa. Spa heating is included, and pool heating runs $75 per night with a two-night minimum or $400 per week.</p>
 
 <h3>Is The Cozy Cactus pet-friendly?</h3>
 <p>No. Guests traveling with dogs should look at Terra Luz, which is pet-friendly with prior approval and a $150 pet fee. The Cozy Cactus has a fully fenced backyard but does not accept pets.</p>
@@ -177,7 +177,7 @@ relatedPosts:
       "name": "Does The Cozy Cactus have a private pool?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The hot tub is private and on the property. The pool is community access through Indian Palms Country Club, steps from the back gate. If a private swimming pool is the priority, Terra Luz is 15 minutes away with a private saltwater pool heated year-round."
+        "text": "The hot tub is private and on the property. The pools are community access through Indian Palms Country Club, three heated pools with the nearest one steps from the back gate. If a private swimming pool is the priority, Terra Luz is 15 minutes away with a private saltwater pool and a heated spa. Spa heating is included; pool heating is $75 per night with a two-night minimum, or $400 per week."
       }
     },
     {

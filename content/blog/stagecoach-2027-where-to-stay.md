@@ -1,7 +1,7 @@
 ---
 title: "Stagecoach 2027: Location, Lodging, and What to Book"
 date: 2026-02-11
-dateModified: 2026-06-22
+dateModified: 2026-07-30
 metaDescription: "Stagecoach 2027 is at Empire Polo Club in Indio, CA. Vacation rentals walking distance to the stage beat hotels on price and sleep. Here's what to book."
 ogImage: /blog/images/stagecoach-festival-crowd.webp
 heroImage: /blog/images/stagecoach-festival-crowd.webp
@@ -47,7 +47,7 @@ faqItems:
 <p>I've hosted Stagecoach guests at my two Indio properties since 2022. Here's what I've seen work and what hasn't.</p>
 
 <img src="/blog/images/stagecoach-festival-crowd.webp" alt="Stagecoach country music festival crowd at Empire Polo Club in Indio California with stage in background" width="1400" height="933" loading="lazy" decoding="async">
-<p class="image-caption">Three days of country music at the Empire Polo Club. The crowd is different from Coachella. The heat is identical.</p>
+<p class="image-caption">Three days of country music at the Empire Polo Club. The crowd is different from Coachella, the heat is identical.</p>
 
 <img src="/blog/images/cozy-cactus-pool-backyard.webp" alt="Pool and backyard at Cozy Cactus vacation rental in Indio CA, seven minutes from Stagecoach festival grounds at Empire Polo Club" width="1400" height="933" loading="lazy">
 <p class="image-caption">The Cozy Cactus backyard. Seven minutes from the Stagecoach stage, no freeway. This is where festival weekends end well.</p>
@@ -87,7 +87,7 @@ faqItems:
 
 <h2><a href="/cozy-cactus/">The Cozy Cactus</a>: 3BR, Hot Tub, Game Room</h2>
 
-<p>Three bedrooms, two bathrooms, sleeps 8. Private hot tub on the property, community pool at Indian Palms Country Club steps from the back gate. Game room with foosball, ping pong, and putting green. Fully stocked kitchen. Covered patio.</p>
+<p>Three bedrooms, two bathrooms, sleeps 8, with a private hot tub on the property and the heated community pools at Indian Palms Country Club steps from the back gate. The game room has foosball, ping pong, and a putting green, and the kitchen is stocked well enough to actually cook in. Covered patio out back.</p>
 
 <p>Best for: groups of 4-8 who want a festival base with indoor activity options for the middle of the day when it's too hot to be outside.</p>
 
@@ -95,7 +95,7 @@ faqItems:
 
 <h2><a href="/terra-luz/">Terra Luz</a>: 3BR, Private Saltwater Pool, Sleeps 8</h2>
 
-<p>Three bedrooms, two bathrooms, sleeps 8. Private saltwater pool with sun shelf, covered pergola, terracotta patio. Latin-Cuban inspired design by Dawn Asher. Kitchen with Ninja slushie maker (relevant for April festival weather). Fully fenced yard.</p>
+<p>Three bedrooms, two bathrooms, sleeps 8, built around a private saltwater pool with a sun shelf, a covered pergola, and a terracotta patio. Dawn Asher did the Latin-Cuban design, the yard is fully fenced, and the kitchen has a Ninja slushie maker that earns its counter space in late April.</p>
 
 <p>Best for: groups who want the private pool as the centerpiece of the festival weekend. Terra Luz launches in May 2026, so Stagecoach 2027 is its first full festival season.</p>
 

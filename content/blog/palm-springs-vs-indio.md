@@ -65,8 +65,8 @@ faqItems:
 
 <h2>Indio: What You're Getting</h2>
 
-<img src="/blog/images/cozy-cactus-backyard.webp" alt="Backyard of the Cozy Cactus vacation rental in Indio California with private pool, hot tub, and desert landscaping" loading="lazy" width="1400" height="933">
-<p class="image-caption">This is what the same budget buys in Indio. Private pool, hot tub, room for 8 people to spread out.</p>
+<img src="/blog/images/cozy-cactus-backyard.webp" alt="Backyard of the Cozy Cactus vacation rental in Indio California with private hot tub and desert landscaping" loading="lazy" width="1400" height="933">
+<p class="image-caption">This is what the same budget buys in Indio: a private hot tub, a real backyard, and room for 8 people to spread out.</p>
 
 <p>Indio is 30 minutes east of Palm Springs. It's a working city with less polish, less Instagram curation, and fewer architecture tours. What it offers instead is space and value in a combination that's hard to find anywhere else in the valley.</p>
 
@@ -150,14 +150,14 @@ faqItems:
 
 <h2>Our Properties in Both Areas</h2>
 
-<p><a href="/cozy-cactus/">The Cozy Cactus</a> is our 3-bedroom in Indio, with a private pool, private hot tub, and game room. It sleeps up to 8 and is built for groups. The Indian Palms neighborhood is quiet, gated, and a short drive from the festival grounds.</p>
+<p><a href="/cozy-cactus/">The Cozy Cactus</a> is our 3-bedroom in Indio, with a private hot tub, a putting green, a game room, and guest access to three heated community pools at Indian Palms. No private pool at this one. It sleeps up to 8 and is built for groups. The Indian Palms neighborhood is quiet, gated, and a short drive from the festival grounds.</p>
 
 <p><a href="/terra-luz/">Terra Luz</a> is our Latin/Cuban-inspired 3-bedroom in Indio. Private saltwater pool with in-water loungers, terracotta deck, and a covered pergola with string lights. Different feel from the Cozy Cactus, same proximity advantage.</p>
 
 <img src="/blog/images/terra-luz-exterior.webp" alt="Terra Luz vacation rental exterior with terracotta tones and desert landscaping in Indian Palms, Indio California" loading="lazy" width="1400" height="933">
 <p class="image-caption">Terra Luz in Indian Palms, Indio. Same walking distance to the polo grounds as the Cozy Cactus, different aesthetic.</p>
 
-<p>In Palm Springs, <a href="/the-sundune/">The Sundune</a> is our 2-bedroom near downtown. Coastal-desert aesthetic, walkable to the main drag, good for couples or a small group who want the walkable Palm Springs experience.</p>
+<p>In Palm Springs, <a href="/the-sundune/">The Sundune</a> is our 2-bedroom, three king beds, sleeps 6. Coastal-desert aesthetic, and the Uptown Design District is the part you can walk to. Downtown is about a ten-minute drive, so I won't pretend it's a walk. Good for couples or a small group who want Palm Springs as the base.</p>
 
 <h2>Frequently Asked Questions</h2>
 

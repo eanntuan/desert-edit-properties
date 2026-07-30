@@ -1,7 +1,7 @@
 ---
 title: "Palm Springs vs Scottsdale: Which One Is Right for Your Trip"
 date: 2026-03-16
-dateModified: 2026-06-24
+dateModified: 2026-07-30
 metaDescription: "Palm Springs wins for walkable boutique weekends. Scottsdale wins for resort pools and group golf. Full cost comparison plus honest picks for each traveler type."
 ogImage: /blog/images/scottsdale-resort-pool.webp
 heroImage: /blog/images/scottsdale-resort-pool.webp
@@ -104,7 +104,7 @@ faqItems:
 
 <p>For more on the Palm Springs side of this comparison, the <a href="/blog/palm-springs-neighborhood-guide/">Palm Springs neighborhood guide</a> breaks down which part of the city fits which kind of trip. And if you're weighing a vacation rental against a resort stay, the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs Indio comparison</a> gets into the specifics of where in the valley to base yourself.</p>
 
-<p>Our Palm Springs property, <a href="/the-sundune/">The Sundune</a>, is a two-bedroom condo close to the Uptown Design District and walking distance to the residential architecture neighborhoods this city is known for. For visitors coming from Southern California who want the walkable version of Palm Springs without the resort price tag, it's the right fit.</p>
+<p>Our Palm Springs property, <a href="/the-sundune/">The Sundune</a>, is a two-bedroom condo you can walk from into the Uptown Design District, with the residential architecture neighborhoods and downtown both a short drive rather than a stroll. For visitors coming from Southern California who want to be in the city itself instead of behind a resort gate, without the resort price tag, it's the right fit.</p>
 
 <h2>Frequently Asked Questions</h2>
 

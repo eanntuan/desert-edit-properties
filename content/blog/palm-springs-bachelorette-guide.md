@@ -56,7 +56,7 @@ layout: blog-post.njk
   <li><strong>Noise policy:</strong> Many Palm Springs rentals have quiet hours and noise monitoring devices. Read the rules before you book. Violations can end a stay early.</li>
 </ul>
 
-<p>Our property in Palm Springs, <a href="/the-sundune/">The Sundune</a>, is a 2-bedroom with a balcony and community pool access, good for a smaller group of 4-5. For a group of 6-8 that wants a private pool, <a href="/terra-luz/">Terra Luz</a> in Indio is the right call. It's a 3-bedroom that sleeps 8, with a private heated saltwater pool, covered pergola patio, and enough outdoor space to spend a full day without needing the car. It's about 30 minutes from downtown Palm Springs restaurants if you want a day trip into the city.</p>
+<p>Our property in Palm Springs, <a href="/the-sundune/">The Sundune</a>, is a 2-bedroom with a balcony and the shared HOA pool at Palm Canyon Villas, good for a group of up to six across three king beds. For a group of six to eight that wants a private pool, <a href="/terra-luz/">Terra Luz</a> in Indio is the right call. It's a 3-bedroom that sleeps 8, with a private saltwater pool, a heated spa that comes with the stay, covered pergola patio, and enough outdoor space to spend a full day without needing the car. It's about 30 minutes from downtown Palm Springs restaurants if you want a day trip into the city.</p>
 
 <h2>Day 1: Arrive and Settle</h2>
 
@@ -177,7 +177,7 @@ layout: blog-post.njk
 <h3>Is Indio or Palm Springs better for a bachelorette party?</h3>
 <p>Palm Springs if downtown walkability matters to your group. Indio if you want a larger private pool for less money and don't mind being 7 to 10 minutes from Palm Springs restaurants by car. Most groups choose Palm Springs for the energy and the ability to walk to things, but the Indio math is worth running if budget is a real consideration. The full breakdown is in the <a href="/blog/palm-springs-vs-indio/">Palm Springs vs. Indio comparison.</a></p>
 
-<p class="cta-block">Planning a desert bachelorette? <a href="/the-sundune/">The Sundune</a> in Palm Springs sleeps 4 and has a balcony and community pool access. For a larger group that wants a private pool, <a href="/terra-luz/">Terra Luz</a> in Indio sleeps 8 with a private heated saltwater pool and covered patio. <a href="/terra-luz/">Check availability.</a></p>
+<p class="cta-block">Planning a desert bachelorette? <a href="/the-sundune/">The Sundune</a> in Palm Springs sleeps 6 across three king beds, with a balcony and the shared HOA pool at Palm Canyon Villas. For a larger group that wants a private pool, <a href="/terra-luz/">Terra Luz</a> in Indio sleeps 8 with a private saltwater pool and covered patio, plus a heated spa at no charge. Pool heating is a $75 nightly add-on with a two-night minimum, or $400 for a full week. <a href="/terra-luz/">Check availability.</a></p>
 
 <script type="application/ld+json">
 {

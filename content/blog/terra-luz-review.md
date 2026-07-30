@@ -37,13 +37,13 @@ relatedPosts:
 <p>I'm Eann. I own it.</p>
 
 <img src="/blog/images/terra-luz-pool-backyard.webp" alt="Terra Luz saltwater pool with in-water loungers, Desert Marigold umbrella, and terracotta deck in Indio California" width="1400" height="1050" loading="lazy">
-<p class="image-caption">The private saltwater pool. Heated year-round, geometric tile border, sun shelf loungers. This is the part people come back for.</p>
+<p class="image-caption">The private saltwater pool: geometric tile border, sun shelf loungers, and the spa off to one side. This is the part people come back for.</p>
 
 <h2>What Guests Consistently Say</h2>
 
 <p>With a property that has nearly 150 reviews, the feedback converges. A few things guests mention more than anything else:</p>
 
-<p><strong>The pool.</strong> Private, heated year-round, saltwater. Sun shelf loungers on one end, geometric tile border, fully fenced backyard. Guests describe it as the best pool they've found in a private rental in the Coachella Valley, which is a competitive category. The distinction that matters: this is not a community pool. It is on the property, accessible only to guests of Terra Luz.</p>
+<p><strong>The pool.</strong> Private, saltwater, with sun shelf loungers on one end, a geometric tile border, and a fully fenced backyard. The spa next to it is heated at no charge, and if you want the pool itself warm it's $75 a night with a two-night minimum, or $400 for the week. Guests describe it as the best pool they've found in a private rental in the Coachella Valley, which is a competitive category. The distinction that matters: this is not a community pool. It is on the property, accessible only to guests of Terra Luz.</p>
 
 <p><strong>The design.</strong> Old Havana meets the desert. The renovation was directed by Dawn Asher, a brand strategist and designer, which means the choices are deliberate: terracotta tile deck with cooling overlay, rattan and natural wood furniture, Latin/Cuban cultural elements that read as considered rather than decorative. Guests who care about design note this specifically in reviews. Guests who don't care about design don't notice it, which is the goal: it feels cohesive without being a theme park.</p>
 
@@ -82,7 +82,7 @@ relatedPosts:
 <p>Both Terra Luz and <a href="/cozy-cactus/">The Cozy Cactus</a> are 3-bedroom homes in Indio's Indian Palms neighborhood, about 15 minutes apart. The practical differences:</p>
 
 <ul>
-  <li><strong>Terra Luz:</strong> Private saltwater pool (heated year-round), Latin/Cuban design, strong outdoor entertaining focus</li>
+  <li><strong>Terra Luz:</strong> Private saltwater pool plus a heated spa (pool heating is a paid add-on), Latin/Cuban design, strong outdoor entertaining focus</li>
   <li><strong>Cozy Cactus:</strong> Private hot tub + community pool steps away at Indian Palms CC, family-focused (full infant gear kit, labeled everything, game room)</li>
 </ul>
 
@@ -126,7 +126,7 @@ relatedPosts:
       "name": "What is included with a Terra Luz stay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Private saltwater pool heated year-round, covered pergola patio with string lights, fully fenced backyard, full-size kitchen with spices and basics, Keurig and pour-over setup, Ninja slushie maker, outdoor projector on the pergola, and in-pool sun shelf loungers. Sheets and towels included. Self-check-in via smart lock."
+        "text": "Private saltwater pool and a complimentary heated spa, covered pergola patio with string lights, fully fenced backyard, full-size kitchen with spices and basics, Keurig and pour-over setup, Ninja slushie maker, outdoor projector on the pergola, and in-pool sun shelf loungers. Sheets and towels included. Self-check-in via smart lock."
       }
     },
     {
@@ -134,7 +134,7 @@ relatedPosts:
       "name": "What is the pool heating fee at Terra Luz?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pool heating is complimentary. The saltwater pool is heated year-round as a standard part of the stay. No add-on fee required."
+        "text": "Spa heating is complimentary. Heating the saltwater pool itself is an optional add-on: $75 per night with a two-night minimum, or $400 for a full week. Request it at least 24 hours before arrival."
       }
     },
     {
@@ -168,16 +168,16 @@ relatedPosts:
 <h2>FAQ: Terra Luz Vacation Rental</h2>
 
 <h3>Is Terra Luz dog-friendly?</h3>
-<p>Yes. Two dogs maximum, $150 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible. Dog bowl and treats are stocked in the kitchen. Email to confirm before booking.</p>
+<p>Yes, up to two dogs with a $150 pet fee. The backyard is fully fenced and the saltwater pool is dog-accessible, and there's a dog bowl plus treats waiting in the kitchen. Email to confirm before booking.</p>
 
 <h3>How far is Terra Luz from the Coachella and Stagecoach festival grounds?</h3>
 <p>Walking distance. Terra Luz is at 49768 Pacino St in Indio's Indian Palms neighborhood, inside the same community as The Cozy Cactus. The walk to the Empire Polo Club from Terra Luz runs roughly 19 minutes via Eisenhower Drive, which makes it one of the only neighborhoods in the valley where walking to the festival is genuinely practical.</p>
 
 <h3>What is included with a Terra Luz stay?</h3>
-<p>Private saltwater pool heated year-round, covered pergola patio with string lights, fully fenced backyard, full-size kitchen with spices and basics, Keurig and pour-over setup, Ninja slushie maker, outdoor projector on the pergola, and in-pool sun shelf loungers. Sheets and towels included. Self-check-in via smart lock.</p>
+<p>Private saltwater pool and a complimentary heated spa, covered pergola patio with string lights, fully fenced backyard, full-size kitchen with spices and basics, Keurig and pour-over setup, Ninja slushie maker, outdoor projector on the pergola, and in-pool sun shelf loungers. Sheets and towels included. Self-check-in via smart lock.</p>
 
 <h3>What is the pool heating fee at Terra Luz?</h3>
-<p>Pool heating is complimentary. The saltwater pool is heated year-round as a standard part of the stay. No add-on fee required.</p>
+<p>The spa is heated and that's included, no charge. Warming the pool itself costs $75 per night with a two-night minimum, or $400 if you want it for the whole week. Ask at least 24 hours ahead so it's up to temperature when you arrive.</p>
 
 <h3>What is the most scenic drive to Terra Luz from Los Angeles?</h3>
 <p>I-10 East from LA is the direct route, about 2 to 2.5 hours. The more interesting version: exit at Date Palm Drive in Cathedral City, take Highway 111 south through Palm Springs and down the valley floor to Indio. The mountains shift dramatically as you move east and the whole valley opens up before you arrive. It adds about 20 minutes but makes the drive feel like part of the trip.</p>
@@ -199,7 +199,7 @@ relatedPosts:
       "name": "What's the difference between a saltwater pool and a chlorine pool for a vacation rental stay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Saltwater pools generate chlorine at much lower concentrations than traditional pools, meaning no chemical smell, less skin and eye irritation, and a softer feel. For a property where the pool is the main feature, it's a real distinction. Terra Luz's saltwater pool is heated year-round with no separate heating fee at indigopalm.co/terra-luz."
+        "text": "Saltwater pools generate chlorine at much lower concentrations than traditional pools, meaning no chemical smell, less skin and eye irritation, and a softer feel. For a property where the pool is the main feature, it's a real distinction. Terra Luz's saltwater pool is at indigopalm.co/terra-luz, where the spa heating is included and pool heating is available for $75 per night with a two-night minimum, or $400 per week."
       }
     },
     {
@@ -226,7 +226,7 @@ relatedPosts:
 
 
 <h4>What's the difference between a saltwater pool and a chlorine pool for a vacation rental stay?</h4>
-<p>Saltwater pools use a chlorine generator that produces chlorine from dissolved salt at much lower concentrations than traditional pools. The practical result for guests: no chemical smell, less eye and skin irritation after long afternoons in the water, and a softer feel. For a property where the pool is a primary feature, it's a meaningful quality distinction. Terra Luz's saltwater pool at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a> is heated year-round with no separate heating fee.</p>
+<p>Saltwater pools use a chlorine generator that produces chlorine from dissolved salt at much lower concentrations than traditional pools. The practical result for guests: no chemical smell, less eye and skin irritation after long afternoons in the water, and a softer feel. For a property where the pool is a primary feature, it's a meaningful quality distinction. You can see it at <a href="https://indigopalm.co/terra-luz/">indigopalm.co/terra-luz</a>, where the spa runs heated on the house and pool heating is a $75-per-night add-on with a two-night minimum, or $400 for the week.</p>
 
 <h4>Can I walk to Coachella or Stagecoach from Terra Luz?</h4>
 <p>Yes. The walk via Eisenhower Drive to the Empire Polo Club runs approximately 19 minutes, which makes Terra Luz one of the few properties in the Coachella Valley where walking to the festival is genuinely practical rather than theoretical. For guests who want to avoid festival-weekend Uber surge pricing, this is the most underrated feature of the Indian Palms location.</p>

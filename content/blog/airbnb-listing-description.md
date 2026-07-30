@@ -45,7 +45,7 @@ layout: blog-post.njk
 
 <p>For The Cozy Cactus, the differentiator isn't a room. It's the operational detail: labeled drawers, a Stokke high chair, a game room that functions as a game room. The property works for families, not just photographs well for them. That distinction matters to parents who've been burned by "family-friendly" listings that turned out to be decorated adult spaces with one token high chair.</p>
 
-<p>For The Sundune in Palm Springs, it's genuine walkability. Not "close to restaurants." Actual walking distance to downtown Palm Springs restaurants, bars, and coffee without needing to move the car or deal with weekend parking. That's rare for a vacation rental and worth saying plainly.</p>
+<p>For The Sundune in Palm Springs, it's being inside the city instead of out at the valley edge. The Uptown Design District is close enough to walk for coffee and shops, and downtown Palm Canyon Drive is a ten-minute drive rather than a half-hour commute in from Indio or Cathedral City. Most desert rentals at this price sit much farther out, so I say the drive time plainly instead of implying you can walk to dinner.</p>
 
 <p>One specific claim is more convincing than ten generic ones. Pick your differentiator and commit to it.</p>
 
@@ -55,7 +55,7 @@ layout: blog-post.njk
 
 <p>Cover the basics: beds, baths, max occupancy, parking situation, pool type (private vs. shared, heated vs. not), pet policy, checkout time, and what access guests get. If there are restrictions that matter, say them here. A guest who discovers a pet policy surprise on arrival is worse than a guest who self-filtered at the listing stage.</p>
 
-<p>For Terra Luz: 3 bedrooms, 2 bathrooms, sleeps 8, private heated Kahlo blue pool, private driveway parking, no pets. For The Cozy Cactus: 3 bedrooms, 2 bathrooms, sleeps 8, private heated pool, game room, pack-and-play available, gated Indian Palms Country Club. For The Sundune: 2 bedrooms, 2 bathrooms, sleeps 6, balcony with views, assigned parking, 2 blocks from downtown Palm Springs.</p>
+<p>For Terra Luz: 3 bedrooms, 2 bathrooms, sleeps 8, private Kahlo blue saltwater pool with a heated spa (spa heating included, pool heating $75/night), private driveway parking, dog-friendly with prior approval. For The Cozy Cactus: 3 bedrooms, 2 bathrooms, sleeps 8, private hot tub plus access to three heated community pools at Indian Palms Country Club, game room, pack-and-play available, not pet-friendly. For The Sundune: 2 bedrooms, 2 bathrooms, three king beds, sleeps 6, balcony with views, assigned parking, shared HOA pool, ten minutes from downtown Palm Springs.</p>
 
 <p>Don't bury these details in paragraphs. Guests skim this section, not read it.</p>
 
@@ -67,7 +67,7 @@ layout: blog-post.njk
 
 <img src="/blog/images/cozy-cactus-backyard.webp" alt="Cozy Cactus vacation rental backyard in Indio California at Indian Palms Country Club" loading="lazy" decoding="async" width="800" height="534">
 
-<p>For The Sundune, we name specific streets and restaurants within walking distance, not "close to dining." Guests who've been burned by "close to everything" listings that turned out to be a 15-minute drive know exactly how to read vague copy. Named specifics signal that you know the area and aren't just guessing.</p>
+<p>For The Sundune, we name the Uptown Design District shops you can reach on foot and give the honest drive time to Palm Canyon Drive, instead of writing "close to dining" and hoping nobody checks. Guests who've been burned by "close to everything" listings that turned out to be a 15-minute drive know exactly how to read vague copy, so specifics signal that you know the area and aren't guessing.</p>
 
 <p>Apply this standard to every proximity claim in your description. If you can't name the landmark, you don't really know how close you are to it.</p>
 
@@ -119,7 +119,7 @@ layout: blog-post.njk
       "name": "How do I make my vacation rental listing stand out from competitors?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Identify the one thing your property does better than anything nearby and make it the centerpiece of your description. Not a list of features. One specific differentiator that the right guest will recognize immediately. At Terra Luz, it's the Wild Tropics bedroom. At The Cozy Cactus, it's the labeled drawers and game room built for families. At The Sundune, it's genuine Palm Springs walkability. One specific claim is more convincing than ten generic ones."
+        "text": "Identify the one thing your property does better than anything nearby and make it the centerpiece of your description. Not a list of features. One specific differentiator that the right guest will recognize immediately. At Terra Luz, it's the Wild Tropics bedroom. At The Cozy Cactus, it's the labeled drawers and game room built for families. At The Sundune, it's being in Palm Springs proper, with Uptown on foot and downtown ten minutes away. One specific claim is more convincing than ten generic ones."
       }
     }
   ]

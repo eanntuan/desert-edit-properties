@@ -1,7 +1,7 @@
 ---
 title: "What to Do Between Coachella Weekends: 5 Days in Indio"
 date: 2026-01-27
-dateModified: 2026-06-23
+dateModified: 2026-07-30
 metaDescription: "Five days in Indio between Coachella weekends. Date farms, the Salton Sea at golden hour, real taco spots, and a vinyl listening room worth the stop."
 ogImage: /blog/images/indio-between-coachella-weekends.webp
 heroImage: /blog/images/indio-between-coachella-weekends.webp
@@ -294,7 +294,7 @@ layout: blog-post.njk
       "name": "Are vacation rentals near Coachella available for the full two-weekend stretch?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Terra Luz and The Cozy Cactus at indigopalm.co are both in Indio, walking distance to the Empire Polo Club, and regularly book the full two-weekend block. Both have private pools or hot tubs for recovery days in between, and both book direct with no Airbnb service fee."
+        "text": "Yes. Terra Luz and The Cozy Cactus at indigopalm.co are both in Indio, walking distance to the Empire Polo Club, and regularly book the full two-weekend block. Terra Luz has a private saltwater pool with a heated spa, and The Cozy Cactus has a private hot tub plus access to three heated community pools at Indian Palms, so either one covers the recovery days in between. Both book direct with no Airbnb service fee."
       }
     }
   ]
@@ -310,4 +310,4 @@ layout: blog-post.njk
 <p>Tuesday or Wednesday tend to be quietest, but timing within the day matters more than the day of the week. Go in the morning before the heat peaks, bring water and snacks since food options along the sea are minimal, and allow about 90 minutes to two hours if you're doing Bombay Beach, Salvation Mountain, and the Sonny Bono Wildlife Refuge. The drive from Indio is about 40 minutes south on Highway 86.</p>
 
 <h4>Are vacation rentals near Coachella available for the full two-weekend stretch?</h4>
-<p>The most popular rentals near the polo grounds book the two-weekend block as a full stay, which is the most cost-effective approach for people staying for both weekends. Terra Luz and The Cozy Cactus at <a href="https://indigopalm.co">indigopalm.co</a> are both in Indio, walking distance to the Empire Polo Club, and accommodate the full stretch with a private pool or hot tub for the recovery days in between.</p>
+<p>The most popular rentals near the polo grounds book the two-weekend block as a full stay, which is the most cost-effective approach for people staying for both weekends. Terra Luz and The Cozy Cactus at <a href="https://indigopalm.co">indigopalm.co</a> are both in Indio, walking distance to the Empire Polo Club, and accommodate the full stretch. Terra Luz gives you the private saltwater pool and heated spa; the Cozy Cactus gives you a private hot tub and three heated community pools inside the gates. Either works for the recovery days in between.</p>

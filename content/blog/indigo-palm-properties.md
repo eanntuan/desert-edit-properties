@@ -49,7 +49,7 @@ layout: blog-post.njk
 
 <p>The Cozy Cactus was the first Indigo Palm property, bought Easter Sunday 2022 after a Facebook Marketplace furniture chase through Culver City and Indio. It's a 3-bedroom house inside Indian Palms Country Club, which means a gated community, HOA manicured grounds, and access to golf, putting green, and the clubhouse.</p>
 
-<p>The design direction is mid-century desert meets "parents rest here." Every drawer is labeled. There's a Stokke high chair, a proper Pack 'n Play, a dedicated game room with foosball, board games, and a setup built for groups that include a six-year-old and a teenager in the same trip. There's a shared pool and a private hot tub. The backyard is enclosed. The layout keeps kids contained and adults comfortable.</p>
+<p>The design direction is mid-century desert meets "parents rest here." Every drawer is labeled. There's a Stokke high chair, a proper Pack 'n Play, a dedicated game room with foosball, board games, and a setup built for groups that include a six-year-old and a teenager in the same trip. There are three shared community pools in the complex and a private hot tub out back, the yard is enclosed, and the layout keeps kids contained while adults stay comfortable.</p>
 
 <p>If someone in your group has been on a vacation rental trip where the baby had nowhere to sleep and the kitchen had two plates and no wine opener, this is the antidote. Also walking distance to the Empire Polo Club: the Coachella and Stagecoach festival grounds.</p>
 
