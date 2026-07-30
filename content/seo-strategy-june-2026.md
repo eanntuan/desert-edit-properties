@@ -2146,3 +2146,88 @@ No PSL prose reproduced. Nothing drafted or updated this run.
 ### Hero Image Audit — 2026-07-28
 
 No full pass. Last full inventory 2026-07-13 (15 days, inside the 30-day window). No new blog post published this run, and no hero image was re-sourced. The only recent content changes were the 2026-07-27 voice/word-overuse trims (body copy only) and the Air Museum in-place update to `palm-springs-heat-activities` (no hero touched). The three posts added since the last full pass (`game-night-trivia-coachella-valley`, `palm-springs-poolside-bars-resort-dining`, `pioneertown-day-trip-from-indio`) were each hero-checked in their own publish-day audits (7/21, 7/22, 7/23). Nothing new to re-check. Next full pass due on/after 2026-08-12.
+
+---
+
+### GSC Check-in — 2026-07-30
+
+**Period:** 2026-05-01 to 2026-07-30 (90 days)
+
+**Overall:** 275 clicks, 37,682 impressions, 0.7% CTR, avg position 12.2
+
+**vs. prior period (Jan 30 - Apr 30):** +224 clicks, +31,804 impressions. Growth is still steep, but CTR slipped from 0.9% to 0.7% because impressions are growing faster than clicks. That gap is the whole story of this check-in.
+
+**Device split:** Mobile 193 clicks / 1.1% CTR / pos 8.7. Desktop 77 clicks / 0.4% CTR / pos 15.5. Mobile is still ~2.75x better on CTR and ranks ~7 positions higher, so the mobile experience is working and desktop weakness is a ranking-depth problem rather than a usability one.
+
+**What's working:**
+- `palm-springs-surf-club` — 51 clicks, 9,885 imps, pos 9.2. Still the top traffic driver.
+- `palm-springs-vs-scottsdale` — 38 clicks, 2,284 imps, 1.7% CTR, pos 7.7. Best clicks-per-impression of any high-volume page.
+- `indio-local-gems` (2.3% CTR), `outdoor-furniture-desert-heat` (2.7%), `palm-springs-heat-activities` (2.8%), `desert-dog-summer` (6.0% at pos 4.4). The smaller posts convert far better than the big ones.
+
+**Root-cause finding this run (new):** pulled the per-query breakdown for the three biggest-impression pages instead of trusting blended averages. Two of them are not weak pages at all, they are *intent-mismatched titles*:
+
+- `palm-springs-vs-indio` — 6,277 imps, 31 clicks. Roughly **1,200 impressions are pure distance intent**: "how far is indio from palm springs" (834 imps, 1 click, pos 7.5), "distance from indio to palm springs" (98), "distance from palm springs to indio" (56), "how far is indio california from palm springs" (52), "distance between indio and palm springs" (48), plus a dozen more variants. All ranking pos 7-8, essentially zero clicks. The post *does* answer this in an H2, but the title ("Which One Fits Your Trip?") gave searchers no signal, so Google's own answer box won every time.
+- `where-to-stay-coachella` — 5,403 imps, 10 clicks, 0.2% CTR. Dominant cluster is **hotel** intent: "best hotels near coachella festival grounds indio cal" (157 imps, pos 9.2), "california coachella hotels" (59), "are there vacation rentals near the coachella valley" (56), plus ~20 "best hotel for coachella" variants. The post has two dedicated hotel H2 sections and 23 hotel mentions, but the title never said the word.
+- `palm-springs-surf-club` — diagnosed and **cleared**. Its 9,885 impressions are mostly anonymized long-tail plus genuine junk (Peruvian surf camps, "cost?", "2 people"). Real head term "palm springs surf club" sits at pos 20.4. This is a ranking-depth problem on the head term, not a title problem. No rewrite made.
+- `palm-springs-aerial-tram` — also **cleared**. Only one itemized query in 90 days; the 479 impressions are almost entirely anonymized. Not diagnosable as a title issue, despite the script flagging it.
+
+**Rewrites shipped this run (commit `5252a27`):**
+1. `palm-springs-vs-indio.md` → title "Indio vs. Palm Springs: 25 Miles Apart, Which to Pick" (53 ch), meta now opens with the 25-mile / 30-40 minute answer. Kept the "indio vs palm springs" phrase, which already earns 8.8% CTR, while adding the distance answer.
+2. `where-to-stay-coachella.md` → title "Coachella 2027: Hotels vs. Rentals Near the Polo Grounds" (56 ch), meta leads with "Hotels near the Coachella grounds."
+3. `idyllwild-day-trip-palm-springs.md` → title "Palm Springs to Idyllwild: 1 Hour, 30 Degrees Cooler" (52 ch), meta leads with "47 miles up Highway 74." Same distance-intent pattern: "palm springs to idyllwild" (31 imps), "how far is idyllwild from palm springs" (21), all pos ~8.5 with zero clicks.
+
+**Still leaking, not yet actionable:**
+- "airbnb rentals indio" — 128 imps, **0 clicks at position 1.0**. Ranking first and getting nothing. Almost certainly a SERP presentation issue rather than a ranking one; needs a manual SERP eyeball to see what's being rendered.
+- `best-restaurants-palm-springs` (575 imps, 0 clicks, pos 36.3), `things-to-do-indio-ca` (451 imps, 1 click, pos 43.2), `best-hiking-palm-springs` (222 imps, 0 clicks, pos 61.9). All genuine content/authority problems, not title problems. Buried too deep for a rewrite to help.
+
+**Action items generated:**
+1. ~~Retitle the three intent-mismatched posts~~ done this run, commit `5252a27`.
+2. Check at next review whether the three rewrites moved CTR. The distance cluster on `palm-springs-vs-indio` is the single clearest measurable bet: ~1,200 impressions at pos 7.5 currently yielding 1 click.
+3. Manual SERP check on "airbnb rentals indio" (pos 1.0, 0 clicks) — Eann or a manual browser look.
+
+### Pinterest Check-in — 2026-07-30
+
+**API pull (30 days, 2026-06-30 to 2026-07-30):** 46,556 impressions, 3 saves, 278 pin clicks, 243 outbound clicks.
+
+Outbound clicks (243) are the number that matters, and they are healthy relative to impressions. Saves at **3** across 46K impressions is the anomaly worth flagging: a save rate that near-zero suggests the pins are functioning as ads (seen, clicked, gone) rather than as saved inspiration that keeps recirculating. Pinterest's distribution model rewards saves, so this caps how far the current pins can compound on their own.
+
+**Monthly views:** still unconfirmed. The API's 46,556 `IMPRESSION` figure is total impressions and remains a **ceiling**, not a read on the 25-30K unique-monthly-viewers threshold. No calibration ratio has been established yet. This is now the **13th consecutive** check-in open on that single manual Business Hub pull.
+
+**Pin count:** unchanged. Pinterest posting has been Eann's job since 2026-06-18; Sabbir's scope is Quora/GEO/Goodreads only.
+
+**Link status:** Airbnb. Do not switch to indigopalm.co without a Business Hub login confirming ≥25K *organic* monthly viewers and Eann's explicit sign-off.
+
+**Quora Q&A live:** no change. New account, 5-8 views/answer, likely new-account outbound-link throttling.
+
+**Action items:**
+1. Still blocked on Eann: one Business Hub login to read organic monthly viewers, which would both settle the link-switch question and calibrate the API-impressions-to-viewers ratio for every future run.
+2. New: the 3-saves-per-46K-impressions signal argues for testing save-oriented pin formats (list/checklist/"save this for later" framing) against the current click-oriented ones. Folding into the pin caption guidance rather than raising as a separate task.
+
+### GA4 Check-in — 2026-07-30
+
+**Period:** 2026-07-23 to 2026-07-30 (7 days), vs. 2026-07-15 to 2026-07-22
+
+**Overall:** 131 active users (+19), 140 new (+25), 153 sessions (+21), avg session duration 79s (**-16s**), 580 events (+90). Traffic up across the board, engagement time down. Same divergence as GSC: more people arriving, not sticking longer.
+
+**Traffic source mix:** Organic Search 62 sessions, Organic Social 33, Direct 31, Unassigned 5, **AI Assistant 4**. Organic Search is still roughly 2x Organic Social, so the Pinterest-dependent tasks do not get pulled forward yet. The AI Assistant channel showing up at all is worth noting: it is the first direct evidence the GEO/Quora work has a measurable surface.
+
+**High-bounce pages (50+ views, >60% bounce):** none. No page cleared the 50-view threshold in a 7-day window at this traffic level, so the rubric's main trigger simply does not fire. Reading below the threshold instead:
+- `/cozy-cactus/` — 36 views, **75.8% bounce, 18s** avg duration. Highest-traffic page on the site and the worst engagement. RG-21's 2026-07-13 fixes did move it (83.3% → 75.8%), but 18 seconds means most visitors are not even reaching the booking widget.
+- `/terra-luz/` — 9 views, 80.0% bounce, but **226s** avg duration. High bounce with long duration is a single-page-session artifact, not a problem: the people who stay are reading properly.
+- `/blog/coachella-valley-weekend-getaway/` — 8 views, 75% bounce, **7s**. Worst duration on the site.
+- `/blog/best-time-to-visit-palm-springs/` — 5 views, 100% bounce, 0s.
+
+**Property page visibility:** Terra Luz 10 views / Cozy Cactus 36 / **Sundune 4**. Sundune is at roughly a ninth of Cozy Cactus. This is the same discoverability gap flagged in prior runs and it has not closed.
+
+**Action items generated:**
+1. `/cozy-cactus/` at 18s and 75.8% bounce is the highest-leverage on-site fix remaining. RG-21 already addressed trust signals and CTA clutter; the next lever is above-the-fold load and content, not more copy. Needs a real page-speed measurement before more edits, otherwise it is guesswork.
+2. Sundune visibility gap (4 views) persists. It has one dedicated geo page (`/vacation-rentals/palm-springs/`) and few inbound blog links relative to the Indio properties.
+3. AI Assistant traffic is now non-zero. Worth tracking as its own line item at each check-in from here.
+
+### PSL Newsletter Inspo — 2026-07-30
+
+Ran as part of this sprint. See the run note below.
+
+### Hero Image Audit — 2026-07-30
+
+No full pass. Last full inventory 2026-07-13 (17 days, inside the 30-day window). No new blog post was published this run, and no hero image was re-sourced. The only content changes were three title/meta rewrites (frontmatter `title`/`metaDescription`/`dateModified` only, no `heroImage` or `heroPosition` touched). Nothing new to re-check. Next full pass due on/after 2026-08-12.
