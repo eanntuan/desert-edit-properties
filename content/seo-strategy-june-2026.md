@@ -2231,3 +2231,42 @@ Ran as part of this sprint. See the run note below.
 ### Hero Image Audit — 2026-07-30
 
 No full pass. Last full inventory 2026-07-13 (17 days, inside the 30-day window). No new blog post was published this run, and no hero image was re-sourced. The only content changes were three title/meta rewrites (frontmatter `title`/`metaDescription`/`dateModified` only, no `heroImage` or `heroPosition` touched). Nothing new to re-check. Next full pass due on/after 2026-08-12.
+
+---
+
+### Content Audit + Page-Speed Diagnosis — 2026-07-30
+
+Full `/audit-website` pass across 98 blog `.md` sources and the 5 hand-maintained HTML pages. Roughly 215 violations found, ~100 of them factual. All CRITICAL and HIGH items fixed and shipped in commits `b3e7269`, `26e64f2`, and `0a90d28`.
+
+**Factual errors corrected (the ones that actually mattered):**
+- Pet policy was **inverted** in `vacation-rental-welcome-book.md`: it offered The Cozy Cactus as dog-friendly and denied Terra Luz and The Sundune. Exactly backwards, and Cozy Cactus is a no-exceptions no-pets house because of allergy guests.
+- The Cozy Cactus was given a **private pool** in 20+ places, including root `index.html` JSON-LD and a dozen image alt texts. It has a private hot tub plus three heated community pools at Indian Palms.
+- The Sundune was given a **private pool** in its own JSON-LD, both as a description and as a `LocationFeatureSpecification`. It is a shared HOA pool at Palm Canyon Villas.
+- The Sundune was described as **walkable to downtown Palm Springs** in about 25 places across the property page and 14 blog posts. Downtown is a ten-minute drive; the Uptown Design District is the walkable part. Fixed in prose and in every FAQPage JSON-LD copy so the two still match.
+- The Sundune was recommended at **3 nights, and in places 2**, against a 5-night HOA floor. Also `sleeps 4` corrected to 6 (three king beds).
+- Terra Luz pool heating was presented as a free year-round perk. The **spa** is complimentary; **pool** heating is $75/night. Also `sleeps 6` corrected to 8, and checkout 11am corrected to 10am.
+- 24 instances of the retired name **"Casa Moto"** on a live indexed post. Renamed in copy, slug deliberately untouched since it is in `sitemap.xml` and would need a redirect.
+- **Airbnb service fee** stated as "14-20%" or "15-20%" in 7 places. Repo `CLAUDE.md` is explicit that it is 20% flat. Also corrected the `book-direct` dollar math, which claimed $150-210 of fees on a $1,500 subtotal where 20% is $300.
+- **Indian Palms to Empire Polo Club** quantified as mileage or a car trip in ~40 places ("1.5 miles", "19 minutes on foot", "7-minute drive from the stage"). Repo `CLAUDE.md` requires plain walking-distance framing. Palm Springs, Idyllwild, LAX and Sundune distances were left intact on purpose.
+
+Also fixed: 4 em dashes (all on HTML, blog `.md` was already clean), the banned word "curated" in 5 spots including two JSON-LD amenity names, and ~18 genuine X. Y. Z. sentence-stacking runs.
+
+~~**TASK GA4-1: Diagnose Cozy Cactus property page bounce rate**~~ ✅ **DONE 2026-07-30** — measured, and the speed hypothesis is **wrong**.
+
+PageSpeed Insights API is unusable (anonymous returns 429 with `quota_limit_value: 0`; the repo's `GOOGLE_API_KEY` returns 403, API not enabled on that project). Fell back to local Lighthouse 12.8.2, 3 mobile runs on Cozy Cactus and 2 on Terra Luz to control for variance.
+
+Median mobile score: Cozy Cactus **78**, Terra Luz **76.5**. LCP, TBT and CLS statistically indistinguishable. Above-the-fold weight runs the *opposite* way to the hypothesis: Terra Luz ships 679 KB above the fold against Cozy Cactus's 341 KB, nearly 2x heavier, and Terra Luz has 226s average engagement against Cozy Cactus's 18s. A page that is half the weight and marginally faster cannot explain a 12x engagement gap.
+
+The LCP element on both pages is `section.hero`, a CSS `background-image`, and 75% of LCP is render delay under Lighthouse's simulated throttling. That is a shared-template artifact, not a Cozy Cactus defect.
+
+Worth saying plainly: **36 views is not a sample.** At 75.8% that is ~27 bounces, and one session moves the rate 2.8 points. Do not over-read this number.
+
+Real waste found and fixed anyway: three blog-card images shipping at 1.3-1.7 MB each to render in a 600x400 box. Downscaled to 1200px at q82, 4.5 MB → 0.7 MB (commit `26e64f2`).
+
+**Conclusion:** stop spending time on Cozy Cactus performance. The 18s engagement figure is a traffic-source and intent question. The next real step is finding out which Pinterest pins and queries land on that page and whether the first screenful answers what those visitors came for.
+
+**Open for Eann (yes/no needed):**
+1. `cozy-cactus/index.html` answers "How much do I save booking directly?" with "Roughly 20%." The old copy said "About 15%," which may have been a real direct-booking discount rather than the Airbnb fee. If 15% is an actual promo number, that line needs different wording.
+2. **Sundune HOA minimum conflict in memory.** `sundune-listing.md` says 5 nights flat, no weekday/weekend split. `project_sundune_min_stay.md` says 4 weekday / 5 weekend. All copy is now standardized on 5. Confirm which is right.
+3. **Pet fee amount contradicts across posts.** Terra Luz is quoted at $100 (2-dog max) in two posts and $150 in three others. Need the real number.
+4. `best-vacation-rentals-pool-coachella-valley.md` is titled "...with a Private Pool" but its hero image is a Cozy Cactus backyard, which has no pool. Copy is fixed; the image swap needs a call on title vs. ogImage.
