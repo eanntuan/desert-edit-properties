@@ -82,7 +82,7 @@ relatedPosts:
 
 <p>A few things I want you to know before you arrive:</p>
 
-<p><strong>No pets at this property.</strong> If you're traveling with a dog, <a href="/terra-luz/">Terra Luz</a> is pet-friendly ($100 fee, 2 dog max, fully fenced yard).</p>
+<p><strong>No pets at this property.</strong> If you're traveling with a dog, <a href="/terra-luz/">Terra Luz</a> is pet-friendly ($150 fee, 2 dog max, fully fenced yard).</p>
 
 <p><strong>Check-in is 4pm, checkout 11am.</strong> Early and late are available with advance notice when the schedule allows. I ask that you reach out in advance rather than day-of, since same-day turnovers don't usually leave room for flexibility.</p>
 

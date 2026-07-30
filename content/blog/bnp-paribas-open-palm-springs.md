@@ -62,7 +62,7 @@ relatedPosts:
 
 <h2>Staying in Palm Springs: The Sundune</h2>
 
-<p>Our Palm Springs property is <a href="/the-sundune/"><strong>The Sundune</strong></a> at 5301 E Waverly Dr, a 2BR/2BA coastal-desert condo with three king beds, shared HOA pool access, and a full kitchen. It books direct at <a href="https://indigopalm.co/the-sundune/" target="_blank" rel="noopener noreferrer">indigopalm.co/the-sundune/</a>, which removes the 20% Airbnb service fee, and the HOA requires a 5-night minimum stay. City permit 068394.</p>
+<p>Our Palm Springs property is <a href="/the-sundune/"><strong>The Sundune</strong></a> at 5301 E Waverly Dr, a 2BR/2BA coastal-desert condo with three king beds, shared HOA pool access, and a full kitchen. It books direct at <a href="https://indigopalm.co/the-sundune/" target="_blank" rel="noopener noreferrer">indigopalm.co/the-sundune/</a>, which removes the 20% Airbnb service fee, and the HOA requires a 4-night minimum stay. City permit 068394.</p>
 
 <img src="/blog/images/sundune-pool-surfboard-float.webp" alt="Community pool at The Sundune vacation rental in Palm Springs with surfboard float on a clear desert day" width="1200" height="900" loading="lazy">
 <p class="image-caption">The Sundune's community pool. March afternoons in Palm Springs hit mid-70s, so the pool gets used. After 8 hours in stadium seats, this is worth more than a hotel pool with posted hours and a crowd: this one has far fewer users and no schedule.</p>
@@ -131,7 +131,7 @@ relatedPosts:
 <p>12 miles west via Highway 111, about 20 minutes in normal March traffic. Indian Wells sits between Palm Springs and Indio, making both roughly equidistant. Palm Springs gives you walkable city access and more to do on non-match days. Indio gives you more space per dollar and pool access at most price points for larger groups.</p>
 
 <h3>Best place to stay in Palm Springs for the BNP Paribas Open?</h3>
-<p>A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, shared HOA pool access, and a full kitchen in Palm Springs, 20 minutes from the venue. It books direct without the Airbnb service fee, and the HOA requires a 5-night minimum stay.</p>
+<p>A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, shared HOA pool access, and a full kitchen in Palm Springs, 20 minutes from the venue. It books direct without the Airbnb service fee, and the HOA requires a 4-night minimum stay.</p>
 
 <h3>How do I get tickets to the BNP Paribas Open?</h3>
 <p>Directly at <a href="https://bnpparibasopen.com/" target="_blank" rel="noopener noreferrer">bnpparibasopen.com</a>. Grounds passes for the first week and Stadium 1 session tickets for quarterfinals and later are the categories to prioritize. Semis and finals sell out fast. Grounds passes for weekday first-round sessions are usually available closer to the tournament start.</p>
@@ -168,7 +168,7 @@ relatedPosts:
       "name": "Best place to stay in Palm Springs for the BNP Paribas Open?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, shared HOA pool access, and a full kitchen in Palm Springs, 20 minutes from the venue. It books direct without the Airbnb service fee, and the HOA requires a 5-night minimum stay."
+        "text": "A vacation rental with pool access beats a hotel for most trips lasting more than two nights. The Sundune at indigopalm.co/the-sundune/ is a 2BR/2BA with 3 king beds, shared HOA pool access, and a full kitchen in Palm Springs, 20 minutes from the venue. It books direct without the Airbnb service fee, and the HOA requires a 4-night minimum stay."
       }
     },
     {
