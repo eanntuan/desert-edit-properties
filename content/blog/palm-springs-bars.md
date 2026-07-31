@@ -301,6 +301,30 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Palm Canyon Drive and Arenas Road cover most of what you need within a few walkable blocks. Palm Canyon has the cocktail bars, rooftop spots, and restaurant lounges. Arenas is one block east and is the LGBTQ+ and nightclub strip. Most venues are open until 2am on weekends. The strip is compact enough that you can walk between spots without needing a rideshare."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best tiki bars in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bootlegger Tiki at 1101 N Palm Canyon Dr is the intimate option, a midcentury Polynesian room with house-made juices and syrups. Their 1944 Mai Tai earns its reputation. Toucans Tiki Lounge at 2100 N Palm Canyon Dr is the theatrical version, with weekly drag programming and open until 2am on weekends. Bootlegger is a conversation bar, not a dance bar. Confusing the two leads to disappointment in one direction or the other."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I go for live music and dancing in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eight4Nine at 849 N Palm Canyon Dr has live music and DJ nights on weekends. Hunters at 302 E Arenas Rd runs until 2am daily with a dance floor and themed nights. For something different, The Nest in Indian Wells (75188 CA-111) is 20 minutes east but consistently worth the drive: live music, real dancing, and a crowd that's there to have fun rather than be seen having fun."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there good craft beer in Palm Springs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Las Palmas Brewing at 461 N Palm Canyon Dr is the main option downtown, family-owned with rotating lighter ales and session IPAs. Tuesday specials are worth knowing if you're visiting midweek. If you're staying at The Sundune, it's about five minutes north by car, which makes it the shortest ride home of anything on this list."
+      }
     }
   ]
 }
@@ -320,81 +344,13 @@ layout: blog-post.njk
 <h3>What's the bar scene like near downtown Palm Springs?</h3>
 <p>Palm Canyon Drive and Arenas Road cover most of what you need within a few walkable blocks. Palm Canyon has the cocktail bars, rooftop spots, and restaurant lounges. Arenas is one block east and is the LGBTQ+ and nightclub strip. Most venues are open until 2am on weekends. The strip is compact enough that you can walk between spots without needing a rideshare.</p>
 
-<p>For more on what to eat while you're out, the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurants guide</a> covers lunch and dinner across the valley with the same approach: places I'd recommend to someone I like.</p>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the best gay bars in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Arenas Road is the center of Palm Springs LGBTQ+ nightlife, one block east of Palm Canyon Drive. Hunters (302 E Arenas Rd) is the main dance club, open daily until 2am. Toucans Tiki Lounge (2100 N Palm Canyon Dr) runs the city's longest-running drag shows including Saturday brunch drag at 1pm. Village Pub on Palm Canyon also has a welcoming crowd and DJs until 2am. All three are within walking distance of each other."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there rooftop bars in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rooftop 262 at 262 S Palm Canyon Drive is the most prominent rooftop bar in downtown Palm Springs, with views of the San Jacinto Mountains. It gets busiest Thursday through Saturday after 9pm. Several hotel bars also have rooftop or elevated patios, but Rooftop 262 is the dedicated rooftop venue on the main strip."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which Palm Springs bars are open late?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hunters and Village Pub are both open until 2am daily. Toucans is open until 2am on Fridays and Saturdays. Bootlegger Tiki closes at 11pm on weekdays and 1am on weekends. Seymour's runs until midnight. Sherman's Deli is the late-night food option if you need to eat after everything else closes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the bar scene like near downtown Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Palm Canyon Drive and Arenas Road cover most of what you need within a few walkable blocks. Palm Canyon has the cocktail bars, rooftop spots, and restaurant lounges. Arenas is one block east and is the LGBTQ+ and nightclub strip. Most venues are open until 2am on weekends. The strip is compact enough that you can walk between spots without needing a rideshare."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the best tiki bars in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bootlegger Tiki at 1101 N Palm Canyon Dr is the intimate option, a midcentury Polynesian room with house-made juices and syrups. Their 1944 Mai Tai earns its reputation. Toucans Tiki Lounge at 2100 N Palm Canyon Dr is the theatrical version, with weekly drag programming and open until 2am on weekends. Bootlegger is a conversation bar, not a dance bar. Confusing the two leads to disappointment in one direction or the other."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I find live music and dancing in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Eight4Nine at 849 N Palm Canyon Dr has live music and DJ nights on weekends. Hunters at 302 E Arenas Rd runs until 2am daily with a dance floor and themed nights. For something different, The Nest in Indian Wells (75188 CA-111) is 20 minutes east but consistently worth the drive: live music, real dancing, and a crowd that's there to have fun rather than be seen having fun."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there good craft beer in Palm Springs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Las Palmas Brewing at 461 N Palm Canyon Dr is the main craft beer option downtown, with rotating lighter ales and session IPAs. Tuesday specials are worth knowing for midweek visits. It's about a five-minute drive from The Sundune at indigopalm.co, making it the cheapest and shortest ride of any evening option on the list."
-      }
-    }
-  ]
-}
-</script>
-
-
-
-
-<h4>What are the best tiki bars in Palm Springs?</h4>
+<h3>What are the best tiki bars in Palm Springs?</h3>
 <p>Bootlegger Tiki at 1101 N Palm Canyon Dr is the intimate option, a midcentury Polynesian room with house-made juices and syrups. Their 1944 Mai Tai earns its reputation. Toucans Tiki Lounge at 2100 N Palm Canyon Dr is the theatrical version, with weekly drag programming and open until 2am on weekends. Bootlegger is a conversation bar, not a dance bar. Confusing the two leads to disappointment in one direction or the other.</p>
 
-<h4>Where should I go for live music and dancing in Palm Springs?</h4>
+<h3>Where should I go for live music and dancing in Palm Springs?</h3>
 <p>Eight4Nine at 849 N Palm Canyon Dr has live music and DJ nights on weekends. Hunters at 302 E Arenas Rd runs until 2am daily with a dance floor and themed nights. For something different, The Nest in Indian Wells (75188 CA-111) is 20 minutes east but consistently worth the drive: live music, real dancing, and a crowd that's there to have fun rather than be seen having fun.</p>
 
-<h4>Is there good craft beer in Palm Springs?</h4>
+<h3>Is there good craft beer in Palm Springs?</h3>
 <p>Las Palmas Brewing at 461 N Palm Canyon Dr is the main option downtown, family-owned with rotating lighter ales and session IPAs. Tuesday specials are worth knowing if you're visiting midweek. If you're staying at <a href="/the-sundune/">The Sundune</a>, it's about five minutes north by car, which makes it the shortest ride home of anything on this list.</p>
+
+<p>For more on what to eat while you're out, the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurants guide</a> covers lunch and dinner across the valley with the same approach: places I'd recommend to someone I like.</p>

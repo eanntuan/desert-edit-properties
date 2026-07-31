@@ -2345,3 +2345,7 @@ Pulled 20 recent emails from `news@palmspringslife.com` and cross-referenced aga
 
 **New posts this run:** 0 (cap is 3).
 
+### Hero Image Audit — 2026-07-31
+
+No full pass. Last full inventory 2026-07-13 (18 days, inside the 30-day window). No new blog post published this run. The one content change (`palm-springs-bars.md`, Golf Bar section) was a body-content addition only — no `heroImage`/`heroPosition` touched, no new hero needed since the addition isn't the lead topic of the post. Nothing new to re-check. Next full pass due on/after 2026-08-12.
+
