@@ -1,7 +1,7 @@
 ---
 title: "Best Bars in Palm Springs: Where Locals Drink in 2026"
 date: 2026-03-04
-dateModified: 2026-07-30
+dateModified: 2026-07-31
 metaDescription: "From margaritas at La Perlita to drag at Toucans, here are the 11 best bars in Palm Springs for 2026. Real spots, no sponsored picks, organized by vibe."
 ogImage: /blog/images/palm-springs-bar-cocktails.webp
 heroImage: /blog/images/palm-springs-bar-cocktails.webp
@@ -22,6 +22,7 @@ keywords:
   - Las Palmas Brewing
   - La Perlita Palm Springs
   - The Nest Indian Wells
+  - The Golf Bar La Quinta
 articleSection: "Local Guide"
 property: ps-retreat
 readTime: "10 min read"
@@ -134,6 +135,15 @@ layout: blog-post.njk
 <img src="/blog/images/ps-desert-moonrise.webp" alt="Desert moonrise over the Coachella Valley near Palm Springs with clear dark skies" width="1400" height="933" loading="lazy">
 <p class="image-caption">The valley at night. The Nest is worth the drive out to Indian Wells.</p>
 
+<h2>Indoor and Air-Conditioned</h2>
+
+<h3>The Golf Bar</h3>
+<p><strong>79815 CA-111, Ste 102, La Quinta | 760-775-9153 | <a href="https://thegolfbar.com/la-quinta/" target="_blank" rel="noopener">thegolfbar.com</a></strong></p>
+
+<p>Golf simulators, a full bar, and comfort food in a room that's cold enough to forget it's 112 outside. You hit into a screen and the system reads your swing, and when nobody wants to actually swing there are simulator games too, including a round of zombie dodgeball that gets loud fast. Reservations on the simulators are worth making ahead, especially Friday and Saturday nights.</p>
+
+<p>Hours: Tue 4-10pm, Wed-Thu 2-10pm, Fri 2-11pm, Sat 11am-11pm, Sun 11am-8pm, closed Monday. Like The Nest, this one's in La Quinta, about 20 minutes from The Sundune, so plan on a car.</p>
+
 <h2>Late Night</h2>
 
 <h3>For Food After Midnight</h3>
@@ -148,7 +158,7 @@ layout: blog-post.njk
 
 <p><strong>Short rideshare (5-10 min):</strong> Las Palmas Brewing, Village Pub, Sherman's Deli, Hunters and the rest of the Arenas Road bars, plus Bootlegger Tiki, Rooftop 262, Eight4Nine, La Perlita, Seymour's, and Toucans. Budget $10-16 one way depending on surge pricing.</p>
 
-<p><strong>Requires a car:</strong> The Nest (Indian Wells, 20 min drive). Worth it, but plan accordingly.</p>
+<p><strong>Requires a car:</strong> The Nest (Indian Wells, 20 min drive) and The Golf Bar (La Quinta, 20 min drive). Worth it, but plan accordingly.</p>
 
 <p>Palm Springs is more walkable than people expect <a href="/blog/lax-to-palm-springs/">coming from LA</a>. The downtown strip is compact and Arenas Road is one block from Palm Canyon. You can hit three or four spots in a night without a car if you're staying centrally.</p>
 
@@ -237,6 +247,13 @@ layout: blog-post.njk
       <td>Live music / Dancing</td>
       <td>No (20 min drive)</td>
       <td>Late</td>
+    </tr>
+    <tr>
+      <td>The Golf Bar</td>
+      <td>79815 CA-111, La Quinta</td>
+      <td>Indoor golf simulators / bar</td>
+      <td>No (20 min drive)</td>
+      <td>11pm Fri-Sat</td>
     </tr>
     <tr>
       <td>Sherman's Deli</td>

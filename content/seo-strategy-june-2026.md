@@ -2024,6 +2024,16 @@ No full pass. Last full inventory 2026-07-13 (11 days, inside the 30-day window)
 
 RSS feed (`heraiempire.substack.com/feed`) checked. All 20 posts in the feed are already in the processed list; newest is still `how-to-make-ai-automated-social-media` (2026-07-21, spawned RG-22). No new posts since. Nothing to synthesize this run.
 
+### New from Rachel — 2026-07-31
+
+One new post: `your-ai-employee-just-moved-into` ("Your AI Employee Just Moved Into Your Pocket," 2026-07-31). Covers Claude Cowork's move to server-side execution (start a task on phone, pick up on desktop) plus a punch list of Cowork use cases: pricing rebuild spreadsheets, guest-review complaint mining, a recurring scheduled market brief, transcript-to-multi-format content repurposing, and a Monday briefing generator. Also a sales pitch for a paid "Build-a-Thon 15" workshop.
+
+**Assessment:** most of what's pitched here already exists at Indigo Palm in a different form — the Daily Briefing, Daily SEO Sprint, and Monday Competitor Intelligence cron jobs already do the "recurring market brief" and "Monday briefing" use cases described. The one net-new idea is guest-review complaint mining, which nothing currently automates.
+
+**TASK RG-23: Guest-review complaint mining**
+Cowork itself requires the Claude Max tier and a live desktop-app file connection — not confirmed available on this account, so not executing the Cowork setup itself. But the underlying idea (scan guest reviews for recurring complaint patterns to catch cheap operational fixes) doesn't require Cowork specifically — it's a one-off Claude Code task against existing Airbnb review text (via the Hostaway MCP or a manual export) any time reviews are pulled. No review-text-pulling tool is currently wired into the Hostaway MCP server (only reservations, calendar, conversations, messages, financials). Flagging as not-actionable-yet: needs either a Hostaway reviews endpoint or a manual review export from Eann before it can run.
+Source: your-ai-employee-just-moved-into
+
 ### What changed on 2026-07-27 — GSC Check-in
 
 **Period:** 2026-04-28 to 2026-07-27 (90 days) vs. 2026-01-27 to 2026-04-27
@@ -2270,3 +2280,68 @@ Real waste found and fixed anyway: three blog-card images shipping at 1.3-1.7 MB
 2. **RESOLVED 2026-07-30 — Sundune HOA minimum.** Eann confirmed the real number is 4 nights flat, no weekday/weekend split. All copy standardized on 4 (was inconsistently 5, or "4 weekday / 5 weekend"). Fixed across bnp-paribas-open-palm-springs.md, palm-springs-3-day-itinerary.md, palm-springs-with-kids.md, sundune-palm-springs-design-story.md, best-hiking-palm-springs.md, palm-springs-local-guide-sundune.md, sundune-palm-springs-review.md, and the-sundune/index.html.
 3. **RESOLVED 2026-07-30 — Terra Luz pet fee.** Eann confirmed the real number is $150 flat. Fixed the $100 (2-dog max) instances in coachella-2027-where-to-stay.md, pet-friendly-palm-springs.md, and cozy-cactus-review.md to $150, preserving existing "2 dog max" framing where it was already present. Sundune's own separate $150 pet fee and Cozy Cactus's no-pets policy were left untouched.
 4. **RESOLVED 2026-07-30 — Pool-post hero image.** `best-vacation-rentals-pool-coachella-valley.md` now uses the existing Terra Luz pool photo (`/blog/images/terra-luz-pool-backyard.webp`, already in use across a dozen other posts) as `heroImage`/`ogImage`, with alt text updated to describe Terra Luz's private saltwater pool instead of the Cozy Cactus backyard.
+
+---
+
+### What changed on 2026-07-31 — GSC Check-in
+
+**Period:** 2026-05-02 to 2026-07-31 (90 days) vs. 2026-01-31 to 2026-05-01
+
+**Overall:** 276 clicks, 38,000 impressions, 0.7% CTR, avg position 12.2 (prior period: 55 clicks, 6,195 impressions — +221 clicks, +31,805 impressions). Up from the 7/27 pull (268 clicks, 36,286 impr) — steady growth continues, no volatility.
+
+**Device:** Mobile 191 clicks / 17,971 impr / 1.1% CTR / pos 8.7. Desktop 80 clicks / 19,729 impr / 0.4% CTR / pos 15.5. Tablet 5 clicks / 300 impr / 1.7% CTR. Same mobile-outperforms-desktop pattern as every prior pull.
+
+**What's working:** Same winners holding: `/blog/palm-springs-surf-club/` (51 clicks, 9,869 impr, pos 9.2), `/blog/palm-springs-vs-scottsdale/` (39 clicks, 2,339 impr, 1.7% CTR, pos 7.6), `/blog/palm-springs-vs-indio/` (31 clicks, 6,267 impr, pos 7.8), `/blog/indio-local-gems/` (20 clicks, 2.3% CTR), `/blog/outdoor-furniture-desert-heat/` (20 clicks, 2.7% CTR). No new action — all rewritten previously.
+
+**GSC-23/GSC-24 lift measurement (due this check-in per the 2026-07-22 plan):**
+- `idyllwild-day-trip-palm-springs`: pre-rewrite baseline 114 impr / 1 click / 0.9% CTR / pos 8.0 (7/22). Now 405 impr / 1 click / 0.2% CTR / pos 8.9. Impressions nearly quadrupled (seasonal — cool-mountain-escape angle is landing in peak summer search volume) but clicks didn't follow, so blended CTR actually fell. **Verdict: no lift, seasonal impression growth masked it.** Not rewriting again — a second title change this soon would confound the read further. Hold and re-check at the next 90-day rollover.
+- `best-vacation-rentals-pool-coachella-valley`: pre-rewrite baseline 70 impr / 0 clicks / pos 8.3 (7/22). Now 89 impr / 0 clicks / pos 8.6. **Verdict: no lift, still zero clicks 9 days post-rewrite at a page-1 position.** This is the second title/meta pass on this page (GSC-24) with no click response — a title problem is now unlikely to be the cause. Reclassifying as a content/trust issue: worth a SERP screenshot check to see what's outranking it and whether snippet-worthy structured content (price range, a comparison table) is missing, but that's a manual/authority-track fix, not something the next rewrite pass should touch.
+
+**CTR opportunities (evaluated, no new actionable rewrites):** `airbnb rentals indio` (128 impr, 0 clicks, pos 1.0) — 6th consecutive appearance, standing flag for Eann (needs Search Console UI query→page cross-tab, not available via this report tool). `how far is indio from palm springs` (819 impr, 0.1% CTR) — reaffirmed non-actionable zero-click SERP-answered query.
+
+**Weak pages — reaffirmed no-action:** `best-spas-coachella-valley-spa-day` (86 impr, 1 click, pos 11.1, 66.7% of impr ≤ pos 20) newly appears on the diagnostic table this run at low volume — below the ~100-impression bar this doc uses to open a new rewrite task, holding for now rather than opening TASK GSC-25 on thin data. Everything else on the "Pages with Impressions but Low Clicks" table is the standing content/authority-fix bucket already carried forward for weeks (`things-to-do-indio-ca`, `best-restaurants-palm-springs`, `best-hiking-palm-springs`, `salton-sea-day-trip`, `bnp-paribas-indian-wells-where-to-stay`, `coachella-valley-food-guide`, `/blog/`) or declined title targets (`lax-to-palm-springs`, `classpass-palm-springs`, `best-pastries-palm-springs`).
+
+**Action items generated:** none new. GSC-23/24 both closed out as "no measurable click lift" — first negative result in this rewrite series, worth remembering before opening more title/meta tasks on page-1-position/low-CTR pages: the lever works better on buried pages than page-1 ones apparently already showing their best snippet.
+
+### Pinterest Check-in — 2026-07-31
+
+**Live pull** (`pinterest-publisher/scripts/get_analytics.py --account --days 30`, 2026-07-01 to 2026-07-31): 46,849 impressions, 277 pin clicks, 242 outbound clicks, **3 saves**. Up from the 7/27 pull (41,420 / 260 / 236 / 2 saves) — steady volume growth, saves ticked back up to 3. Same paid-Performance+-driven traffic pattern with a weak organic save signal as every prior check-in.
+
+**Monthly viewers:** Still unknown — 12th consecutive check-in flagging this. Account-level impressions blend the ~$200/mo paid campaign with organic and are NOT the "monthly viewers" figure the 25-30K link-switch threshold is based on. Last real figure remains ~20K (June 3 screenshot, now 58 days stale). No fresher figure logged in `sabbir_context.md` or memory.
+
+**Link status:** Airbnb. Threshold not confirmed hit — **not switching links off Airbnb**, per standing instruction, without a direct monthly-viewers login confirming ≥25K.
+
+**Quora Q&A live:** No change reported this run — no fresh count available without Sabbir/Eann's own posting log.
+
+**Action items:** none auto-actionable (monthly-viewers pull remains Eann's manual task in Pinterest Business Hub; 12 consecutive check-ins open on this single item — this is now the single most standing open item in the doc).
+
+### GA4 Check-in — 2026-07-31
+
+**Period:** 2026-07-24 to 2026-07-31 (7 days), vs. 2026-07-16 to 2026-07-23
+
+**Overall:** 125 active users (+13), 129 new (+14), 148 sessions (+16), avg session duration 73s (-42s vs. prior 115s), 541 events (+11). Same pattern as every recent pull: traffic keeps growing, per-session engagement time keeps shrinking.
+
+**Traffic source mix:** Organic Search 60 sessions, Direct 37, Organic Social 28, Unassigned 7, AI Assistant 2, Cross-network 1, Referral 1. Organic Search is still roughly 2x Organic Social — Pinterest-dependent tasks don't get pulled forward yet. AI Assistant traffic persists at a small but non-zero 2 sessions, consistent with the first sighting on 7/30.
+
+**High-bounce pages (50+ views, >60% bounce):** none — no page cleared the 50-view threshold this week. Below-threshold read: `/cozy-cactus/` — 32 views, 86.2% bounce, 18s avg duration, still the highest-traffic page on the site and still the worst engagement, materially unchanged from the 7/30 read (36 views, 75.8% bounce, 18s). `/terra-luz/` — 11 views, 87.5% bounce but 317s avg duration (single-page-session artifact, not a real problem, per 7/30 diagnosis). `/blog/best-time-to-visit-palm-springs/` — 5 views, 80% bounce, 12s.
+
+**New this run — investigated the contact-page "duplication," resolved it:** nine near-identical low-traffic paths (`/about/contact`, `/connect`, `/contact`, `/contact-us`, `/contact-us/`, `/contact/`, `/get-in-touch`, `/reach-out`, `/reach-us`) each show 2 views, 100% bounce, 0-11s duration. Checked the repo: none of these paths exist as real pages — no matching HTML files, no `go/` redirects, no references anywhere in the codebase. They're all 404s served by GitHub Pages' `404.html`, which carries the same GA4 tag as every other page, so each miss still logs a pageview. This is very likely automated probing (a bot or an AI browsing agent guessing common "contact us" URL patterns) rather than real visitors hitting broken links — the 2-views-each-uniform pattern across 9 URL guesses and nothing under 11s duration fits probing, not human confusion. **Not a routing bug, nothing to fix.** No actual `/contact` page or link exists on the site to begin with (contact is handled via the booking widget / Airbnb messaging), so there's no canonical page being fragmented. Closing this without action.
+
+**Property page visibility:** Terra Luz 12 views / Cozy Cactus 33 / Sundune 7. Sundune still sits at roughly a fifth of Cozy Cactus — same persistent gap flagged in every recent run, not closing.
+
+**Action items generated:**
+1. Sundune visibility gap (7 views) persists across every recent check-in. No new blog post or Pinterest board action taken this run — holding per the standing note that this needs a dedicated content push, not a quick fix.
+2. Cozy Cactus 18s engagement + 86.2% bounce continues unchanged since the 7/30 page-speed diagnosis concluded speed isn't the cause. Next real lever (per that diagnosis) is matching landing content to the Pinterest pins/queries actually driving the traffic — not yet done.
+
+### PSL Newsletter Inspo Check-in — 2026-07-31
+
+Pulled 20 recent emails from `news@palmspringslife.com` and cross-referenced against the blog inventory (`ls content/blog/`).
+
+**Already covered, skipped:** Air Museum kids-free promo, Game Night/Trivia, and Poolside Bars/Resort Dining were all already fully covered by existing posts (`game-night-trivia-coachella-valley.md` and `palm-springs-poolside-bars-resort-dining.md`, both dated within the last two weeks, apparently already sourced from this same newsletter feed in a prior run).
+
+**Deferred, not yet real:** YOZU, a Tokyo izakaya opening at The Shops on El Paseo, is scheduled for 2026-08-26 — genuinely new but not open yet. Holding until the opening date rather than publishing unverifiable pre-open details.
+
+**Actioned — update, not a new post:** Added The Golf Bar (79815 CA-111, Ste 102, La Quinta) to `content/blog/palm-springs-bars.md` as a new "Indoor and Air-Conditioned" section, verified independently via WebSearch (official site + Yelp) rather than trusted from the newsletter blurb. Also updated the "Getting-Home Factor" section and the Quick Reference comparison table, and bumped `dateModified` to 2026-07-31. Fits the existing "20-minute drive from The Sundune, requires a car" pattern already established for The Nest — treated as an in-place update rather than a new post.
+
+**New posts this run:** 0 (cap is 3).
+
