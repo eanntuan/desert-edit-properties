@@ -2034,6 +2034,20 @@ One new post: `your-ai-employee-just-moved-into` ("Your AI Employee Just Moved I
 Cowork itself requires the Claude Max tier and a live desktop-app file connection — not confirmed available on this account, so not executing the Cowork setup itself. But the underlying idea (scan guest reviews for recurring complaint patterns to catch cheap operational fixes) doesn't require Cowork specifically — it's a one-off Claude Code task against existing Airbnb review text (via the Hostaway MCP or a manual export) any time reviews are pulled. No review-text-pulling tool is currently wired into the Hostaway MCP server (only reservations, calendar, conversations, messages, financials). Flagging as not-actionable-yet: needs either a Hostaway reviews endpoint or a manual review export from Eann before it can run.
 Source: your-ai-employee-just-moved-into
 
+### New from Rachel — 2026-08-12
+
+Three new posts since the 7/31 check-in: `build-15-your-ai-team-deserves-an` (8/6, AI org-chart image prompt + "hire one role at a time" method), `my-team-told-me-to-kill-facebook` (8/4, Facebook content-timing/format data), `the-sunday-ai-powered-reset-60-minutes` (8/3, personal weekly-planning ritual using Claude Connectors).
+
+**Assessment:** all three are lower-signal than the recent run. The org-chart post is a visualization exercise, not a new workflow — Indigo Palm's "AI team" already exists as the cron jobs (Daily Briefing, Daily SEO Sprint, Monday Competitor Intel) plus the skill library; nothing net-new to hire. The Sunday Reset is a personal productivity ritual for Rachel herself, not an Indigo Palm deliverable — it needs Claude Connectors wired to a personal Calendar/Gmail/Slack, which is Eann's call to set up, not something to spawn as an SEO/content task. The Facebook post is the only one with a transferable idea, since Facebook itself isn't an Indigo Palm channel.
+
+**TASK RG-24: Test Pinterest posting time-of-day performance**
+The Facebook post found a single piece of content got 16,341 views at 2pm ET vs. 149 views posted at 5pm the next day — same content, wildly different result purely from timing. Indigo Palm has never tested this on Pinterest specifically (posting cadence has been tracked as pins/day, not time-of-day). Flagging as not-actionable-yet: needs Eann to post identical/paired pins at 2 different times of day for a few weeks and compare via `get_analytics.py --pin PIN_ID`, which is a manual posting-schedule change on Eann's side, not a code/content edit.
+Source: my-team-told-me-to-kill-facebook
+
+**TASK RG-25: Apply the "named profession + dollar amount + turning point" story formula to guest-facing copy**
+The Facebook post's highest-performing format was concrete over generic: a specific job title, a specific dollar figure, and a specific before/after moment, instead of vague motivational framing. This maps directly to Indigo Palm's guest testimonial and "who stays here" copy, which currently leans on generic descriptors. Flagging as not-actionable-yet: needs real guest specifics (profession, occasion, a concrete detail) that only exist in actual reviews/messages Eann has access to — can't fabricate specifics for real guests. Next time Eann pulls guest reviews or testimonials for a page, apply this formula instead of generic phrasing.
+Source: my-team-told-me-to-kill-facebook
+
 ### What changed on 2026-07-27 — GSC Check-in
 
 **Period:** 2026-04-28 to 2026-07-27 (90 days) vs. 2026-01-27 to 2026-04-27
