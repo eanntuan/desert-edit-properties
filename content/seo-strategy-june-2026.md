@@ -2382,3 +2382,23 @@ Pulled 20 recent emails from `news@palmspringslife.com` and cross-referenced aga
 
 No full pass. Last full inventory 2026-07-13 (18 days, inside the 30-day window). No new blog post published this run. The one content change (`palm-springs-bars.md`, Golf Bar section) was a body-content addition only — no `heroImage`/`heroPosition` touched, no new hero needed since the addition isn't the lead topic of the post. Nothing new to re-check. Next full pass due on/after 2026-08-12.
 
+### PSL Newsletter Inspo Check-in — 2026-08-12
+
+Pulled recent `news@palmspringslife.com` emails. Two update candidates surfaced, both actioned as in-place updates (no new posts this run):
+
+**Actioned — `palm-springs-bars.md`:** Added a "Reader-Voted Cocktail Winners Worth a Detour" section covering PSL's reader-survey cocktail winners outside the core walkable list (Shadynasty, La Rumba, The Roost Country Club, Foxy's Kitchen and Bar). PSL's ranking/award claims attributed via link per copyright ground rules; venue/cocktail facts independently re-verified via WebSearch, not trusted blind from the newsletter. Added a matching FAQ entry (JSON-LD + visible) since the section names four new venues. Bumped `dateModified` to 2026-08-12.
+
+**Actioned — `date-farms-indio-coachella-valley.md`:** Added a "Date-Infused Cocktails Worth Seeking Out" section covering PSL's date-cocktail roundup (Kiki's in La Quinta, Tommy Bahama's Marlin Bar, The Pink Cabana at Sands Hotel & Spa). Same attribution/verification standard applied. Bumped `dateModified` to 2026-08-12. No FAQ entry added here (asymmetric vs. the bars post — worth a matching FAQ addition in a future pass for consistency).
+
+Built, committed, and pushed as `f79d5ad`. Deploy confirmed queued via `gh run list`.
+
+**New posts this run:** 0 (both were update candidates, no new-post gap identified).
+
+### Hero Image Audit — 2026-08-12
+
+Full pass completed. One fix applied and deployed (commit `d777c3f`, confirmed live via `gh run list`). Two items flagged for Eann's yes/no, not yet decided:
+1. `west-elm-dining.webp` used as the hero for two topically unrelated posts.
+2. `cozy-cactus-hot-tub.webp` used as the hero for `desert-hot-springs-day-trip.md` — cross-sell ambiguity (reads as a Cozy Cactus amenity photo on a post that isn't about Cozy Cactus).
+
+Neither of today's two PSL-inspo content updates touched `heroImage`/`heroPosition` — both were body-content additions to existing posts, not new posts or lead-topic changes, so no new hero needed. Next full pass due on/after 2026-09-11.
+
