@@ -233,6 +233,9 @@ For Pinterest: Eann schedules remaining pins at 4-5/day. At 5/day, 355 pins = 71
 
 ~~**TASK RG-21: Sales Page Audit — Cozy Cactus property page (added 2026-07-13)**~~ ✅ **DONE 2026-07-13** — Ran the four-lens audit against the live page (`cozy-cactus/index.html`). Findings: page structure/funnel is actually solid (hero CTA, sticky mobile CTA, availability calendar, "Book Now" all present); the real messaging bug was a fully duplicated "Why Book Direct" block sitting back-to-back in the sidebar right next to the CTA, adding clutter at the exact conversion point. Removed the duplicate and merged the rating line into the single remaining box. Also added a "★ 4.97 · 146 reviews · Airbnb Guest Favorite" trust line directly in the hero (above the fold), since the only rating signal previously lived in the sidebar, below the fold on mobile — likely contributor to the 83.3% bounce given mobile traffic dominance. Committed and pushed.
 
+**TASK PIN-1: Create a dedicated Sundune Pinterest board (added 2026-08-12)**
+Board-level audit (Pinterest Check-in — 2026-08-12) confirmed Sundune is the only active property with zero organic Pinterest board presence — Terra Luz has 2 boards (393 + 0 impr), Cozy Cactus has 2 boards (237 + 163 impr), Sundune has none. This lines up with the persistent GA4 property-visibility gap (Sundune consistently ~1/5 of Cozy Cactus's page views). Not executed this run — board creation + initial pin set is a Pinterest-side content task (needs board cover image + description + 5-10 seed pins), better scoped as its own session than folded into an audit pass. Flagging for the next content/Pinterest work session rather than executing blind.
+
 ---
 
 ## ONGOING: GEO (QUORA + STRUCTURED DATA)
@@ -2346,6 +2349,22 @@ Real waste found and fixed anyway: three blog-card images shipping at 1.3-1.7 MB
 **Action items generated:**
 1. Sundune visibility gap (7 views) persists across every recent check-in. No new blog post or Pinterest board action taken this run — holding per the standing note that this needs a dedicated content push, not a quick fix.
 2. Cozy Cactus 18s engagement + 86.2% bounce continues unchanged since the 7/30 page-speed diagnosis concluded speed isn't the cause. Next real lever (per that diagnosis) is matching landing content to the Pinterest pins/queries actually driving the traffic — not yet done.
+
+### Pinterest Check-in — 2026-08-12
+
+**Live pull** (`pinterest-publisher/scripts/get_analytics.py --account --days 30`, 2026-07-13 to 2026-08-12): 46,935 impressions, 299 pin clicks, 267 outbound clicks, **5 saves**. Up from the 7/31 pull (46,849 / 277 / 242 / 3 saves) — impressions essentially flat (+86), clicks and saves both ticked up (pin clicks +22, outbound +25, saves +2). Same paid-Performance+-driven volume with a still-thin organic save signal, but this is the best save count logged since tracking started.
+
+**Monthly viewers:** Still unknown — 13th consecutive check-in flagging this. Last real figure remains ~20K (June 3 screenshot, now 70 days stale). No fresher figure in `sabbir_context.md` or the Google Sheet.
+
+**Link status:** Airbnb. Threshold not confirmed hit — not switching links off Airbnb without a direct monthly-viewers login confirming ≥25K.
+
+**Quora Q&A live:** No change reported this run — no fresh count without Sabbir's own posting log.
+
+**Board-level breakdown** (organic, 2026-07-13 to 2026-08-12): Interior Design leads at 505 impressions/22 pin clicks/5 outbound (best-performing board this run despite being a generic/non-property board), Terra Luz | Palm Springs Luxury Airbnb 393 impr/9 clicks/0 outbound, Cozy Cactus | Palm Springs Family Airbnb 237 impr/2 clicks/0 outbound, Cozy Cactus Instagram 163 impr/13 clicks/0 outbound. Board totals sum to ~1,495 impressions — a small fraction of the 46,935 account-level figure, confirming (again) that the account number is paid-Performance+-driven and boards are the honest organic read. 4/4 pin-level analytics calls on the "Social" board failed (API error, not zero performance — noted, not treated as a real 0). Sundune has no dedicated board yet, consistent with its persistent GA4 visibility gap.
+
+**Action item queued:** create a Sundune-specific Pinterest board — it's the only property with zero organic Pinterest presence, matching the Sundune visibility gap flagged in every recent GA4 check-in.
+
+**Action items:** none auto-actionable. Monthly-viewers pull remains Eann's manual Business Hub task — now the single longest-open item in this doc (13 straight check-ins).
 
 ### PSL Newsletter Inspo Check-in — 2026-07-31
 
