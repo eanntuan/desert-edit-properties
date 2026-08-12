@@ -1,7 +1,7 @@
 ---
 title: "Date Farms Near Indio: Shield's, Hadley's, and More"
 date: 2026-03-31
-dateModified: 2026-05-08
+dateModified: 2026-08-12
 metaDescription: "The best date farms near Indio and Palm Springs: Shield's Date Garden, Hadley's, and where to find fresh Medjool dates in the Coachella Valley."
 ogImage: /blog/images/shields-date-garden.webp
 heroImage: /blog/images/shields-date-garden.webp
@@ -96,6 +96,18 @@ For the date shake specifically, there's no wrong time. Shield's serves them yea
 If you're doing the full Indio food tour, pair the date farm visit with a stop at <strong>Arriola's Tortilleria</strong> on Jackson Street (handmade tortillas, line out the door on weekends) and one of the taco trucks along Highway 111. The Indio local food scene doesn't get talked about nearly enough in the wider Palm Springs conversation, but [there's a lot worth exploring in Indio](/blog/indio-local-gems/) if you know where to look.
 
 Our properties at The Cozy Cactus and Terra Luz both sit less than two miles from some of the best date-adjacent eating in the valley. Guests who take the time to leave the pool for an afternoon almost always say it was worth it.
+
+## Date-Infused Cocktails Worth Seeking Out
+
+If you want to taste dates in a glass instead of a shake, a handful of valley bars and restaurants have built cocktails around them, and <a href="https://www.palmspringslife.com/restaurants/three-date-infused-cocktail-recipes-to-try-at-home/" target="_blank" rel="noopener">Palm Springs Life rounded up three worth trying</a>.
+
+At <a href="https://kikislaquinta.com/" target="_blank" rel="noopener noreferrer">Kiki's</a> in La Quinta, beverage director Joshua Lucas builds an Old Fashioned around a date-infused whiskey, a small twist on a classic that leans into the same caramel depth you get from a good Medjool. It's a fitting order if you've just come from a date shake and want the adult version.
+
+Tommy Bahama's Marlin Bar in downtown Palm Springs (111 N Palm Canyon Dr) makes a Strawberry & Barhi Date Martini, pairing fresh strawberry with the butterscotch note that makes Barhi dates worth seeking out in season. It's a good excuse to try Barhi if Shield's doesn't have them in stock when you visit.
+
+The Pink Cabana at Sands Hotel & Spa in Indian Wells serves seasonal cocktails with Moroccan and Great Spice Route influences, including a date-forward drink called Swipe Right. It's about 20 minutes from Indio, so pair it with a day that already includes a stop at one of the farms above.
+
+None of these are a substitute for the real thing at Shield's or Oasis, but they're proof the local date crop shows up in more places than the gift shop shelf.
 
 ## Frequently Asked Questions
 

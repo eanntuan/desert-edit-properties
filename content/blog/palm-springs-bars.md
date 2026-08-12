@@ -1,7 +1,7 @@
 ---
 title: "Best Bars in Palm Springs: Where Locals Drink in 2026"
 date: 2026-03-04
-dateModified: 2026-07-31
+dateModified: 2026-08-12
 metaDescription: "From margaritas at La Perlita to drag at Toucans, here are the 11 best bars in Palm Springs for 2026. Real spots, no sponsored picks, organized by vibe."
 ogImage: /blog/images/palm-springs-bar-cocktails.webp
 heroImage: /blog/images/palm-springs-bar-cocktails.webp
@@ -143,6 +143,16 @@ layout: blog-post.njk
 <p>Golf simulators, a full bar, and comfort food in a room that's cold enough to forget it's 112 outside. You hit into a screen and the system reads your swing, and when nobody wants to actually swing there are simulator games too, including a round of zombie dodgeball that gets loud fast. Reservations on the simulators are worth making ahead, especially Friday and Saturday nights.</p>
 
 <p>Hours: Tue 4-10pm, Wed-Thu 2-10pm, Fri 2-11pm, Sat 11am-11pm, Sun 11am-8pm, closed Monday. Like The Nest, this one's in La Quinta, about 20 minutes from The Sundune, so plan on a car.</p>
+
+<h2>Reader-Voted Cocktail Winners Worth a Detour</h2>
+
+<p>As <a href="https://www.palmspringslife.com/restaurants/10-bars-with-the-best-cocktails-in-greater-palm-springs/" target="_blank" rel="noopener">Palm Springs Life reported</a> in its annual reader survey, a few bars outside my core 11 keep winning "Best Cocktail" in the Greater Palm Springs area, and they're spread out enough across the valley that they're worth knowing about even if they didn't make my walkable-or-short-rideshare list.</p>
+
+<p>Shadynasty took it for a blanco tequila drink built on coconut milk and soda, finished with a sprig of mint and a lime wheel. It reads light on paper and drinks like the pool you wish you were floating in. La Rumba's winner goes the opposite direction, mixing bourbon and mezcal with tamarind syrup and a thread of chocolate liqueur, smoky and a little bitter in a way that works better after 9pm than at happy hour.</p>
+
+<p>Two more from that same survey stood out to me. The Roost Country Club won with a Blue Coconut Breeze Martini, Malibu rum and blue curaçao stirred with coconut cream, basically a beach vacation poured into a glass. Foxy's Kitchen and Bar in Rancho Mirage earned it with the Mrs. Foxy's Lemon Drop, vodka and lemon juice brightened with elderflower and a touch of simple syrup, served in a room with a live jazz duo on Tuesdays and Thursdays.</p>
+
+<p>None of these are a quick walk or a $10 rideshare from The Sundune the way most of my list is, so treat them as a day-trip or a special-occasion stop rather than a Friday-night default. The full reader survey, including every other category winner, lives at <a href="https://www.palmspringslife.com/best" target="_blank" rel="noopener">palmspringslife.com/best</a>.</p>
 
 <h2>Late Night</h2>
 
@@ -325,6 +335,14 @@ layout: blog-post.njk
         "@type": "Answer",
         "text": "Las Palmas Brewing at 461 N Palm Canyon Dr is the main option downtown, family-owned with rotating lighter ales and session IPAs. Tuesday specials are worth knowing if you're visiting midweek. If you're staying at The Sundune, it's about five minutes north by car, which makes it the shortest ride home of anything on this list."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What bars won Best Cocktail in the Palm Springs area reader survey?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Palm Springs Life's reader survey, Shadynasty won for a blanco tequila drink with coconut milk and soda, and La Rumba won for a bourbon-and-mezcal cocktail built on tamarind syrup and chocolate liqueur. The Roost Country Club took it for a Blue Coconut Breeze Martini with Malibu rum and blue curaçao, and Foxy's Kitchen and Bar in Rancho Mirage won for the Mrs. Foxy's Lemon Drop. None of these are within walking distance of downtown Palm Springs, so plan on a drive or rideshare."
+      }
     }
   ]
 }
@@ -352,5 +370,8 @@ layout: blog-post.njk
 
 <h3>Is there good craft beer in Palm Springs?</h3>
 <p>Las Palmas Brewing at 461 N Palm Canyon Dr is the main option downtown, family-owned with rotating lighter ales and session IPAs. Tuesday specials are worth knowing if you're visiting midweek. If you're staying at <a href="/the-sundune/">The Sundune</a>, it's about five minutes north by car, which makes it the shortest ride home of anything on this list.</p>
+
+<h3>What bars won Best Cocktail in the Palm Springs area reader survey?</h3>
+<p>In Palm Springs Life's reader survey, Shadynasty won for a blanco tequila drink with coconut milk and soda, and La Rumba won for a bourbon-and-mezcal cocktail built on tamarind syrup and chocolate liqueur. The Roost Country Club took it for a Blue Coconut Breeze Martini with Malibu rum and blue curaçao, and Foxy's Kitchen and Bar in Rancho Mirage won for the Mrs. Foxy's Lemon Drop. None of these are within walking distance of downtown Palm Springs, so plan on a drive or rideshare.</p>
 
 <p>For more on what to eat while you're out, the <a href="/blog/best-restaurants-palm-springs/">Palm Springs restaurants guide</a> covers lunch and dinner across the valley with the same approach: places I'd recommend to someone I like.</p>
